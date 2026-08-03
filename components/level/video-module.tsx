@@ -14,7 +14,13 @@ export function VideoModule({ levelNumber, video, chapters, poster }: VideoModul
   return (
     <article className="content-panel">
       <p className="eyebrow">PORTRAIT VIDEO</p>
-      <YouTubePlayer levelNumber={levelNumber} video={video} chapters={chapters} poster={poster} />
+      <YouTubePlayer
+        key={`${video?.videoId ?? "no-video"}-${poster ?? "no-poster"}`}
+        levelNumber={levelNumber}
+        video={video}
+        chapters={chapters}
+        poster={poster}
+      />
     </article>
   );
 }

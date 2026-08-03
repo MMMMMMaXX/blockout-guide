@@ -6,5 +6,5 @@ import { blockoutContent } from "./build/content-vite-plugin";
 export default defineConfig({
   plugins: [blockoutContent()],
   resolve: { alias: { "@": path.resolve(__dirname) } },
-  test: { environment: "node", include: ["tests/unit/**/*.test.ts"] },
+  test: { environment: "node", include: ["tests/unit/**/*.test.{ts,tsx}"] },
 });

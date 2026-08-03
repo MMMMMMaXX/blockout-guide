@@ -26,10 +26,17 @@ export function buildYoutubeEmbedUrl(videoId: string, seconds: number): string {
   return `https://www.youtube-nocookie.com/embed/${encodeURIComponent(videoId)}?${params}`;
 }
 
-/** 未点击前不联系 YouTube；章节按钮同时负责首次加载和后续精确跳转。 */
+/** 使用 YouTube 稳定的 hq 缩略图作为点击播放前封面，避免出现空黑块或说明文字。 */
+export function getYoutubeThumbnailUrl(videoId: string): string {
+  return `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/hqdefault.jpg`;
+}
+
+/** 未点击前只展示缩略图，不加载播放器；章节按钮同时负责首次加载与精确跳转。 */
 export function YouTubePlayer({ levelNumber, video, chapters = [], poster }: YouTubePlayerProps) {
   const [started, setStarted] = useState(false);
   const [startAt, setStartAt] = useState(0);
+  const youtubePoster = video?.videoId ? getYoutubeThumbnailUrl(video.videoId) : null;
+  const [posterSrc, setPosterSrc] = useState<string | null>(youtubePoster ?? poster ?? null);
   const iframeSrc = useMemo(() => {
     if (!video?.embedAllowed || !started) return null;
     return buildYoutubeEmbedUrl(video.videoId, startAt);
@@ -74,18 +81,22 @@ export function YouTubePlayer({ levelNumber, video, chapters = [], poster }: You
             onClick={() => setStarted(true)}
             aria-label={`Play Block Out level ${levelNumber} solution video`}
           >
-            {poster ? (
+            {posterSrc ? (
               <img
-                className="video-poster"
-                src={poster}
+                className={`video-poster${posterSrc === poster ? " video-poster--board" : ""}`}
+                src={posterSrc}
                 alt={`Block Out level ${levelNumber} board preview`}
+                onError={() => {
+                  if (poster && posterSrc !== poster) {
+                    setPosterSrc(poster);
+                  } else {
+                    setPosterSrc(null);
+                  }
+                }}
               />
             ) : null}
             <span className="video-play" aria-hidden="true">
               ▶
-            </span>
-            <span className="video-consent__caption">
-              YouTube loads only after you choose to play.
             </span>
           </button>
         )}

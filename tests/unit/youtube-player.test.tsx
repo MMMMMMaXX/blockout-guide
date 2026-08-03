@@ -1,7 +1,11 @@
 /** 文件职责：验证 YouTube 初始隐私边界、失效回退与章节起播 URL。 */
 import { renderToStaticMarkup } from "react-dom/server";
 import { describe, expect, it } from "vitest";
-import { buildYoutubeEmbedUrl, YouTubePlayer } from "@/components/youtube-player";
+import {
+  buildYoutubeEmbedUrl,
+  getYoutubeThumbnailUrl,
+  YouTubePlayer,
+} from "@/components/youtube-player";
 
 const video = {
   provider: "youtube" as const,
@@ -17,8 +21,14 @@ describe("YouTubePlayer", () => {
     const html = renderToStaticMarkup(
       <YouTubePlayer levelNumber={1} video={video} chapters={[{ seconds: 12, label: "Open" }]} />,
     );
-    expect(html).toContain("Play solution video");
+    expect(html).toContain("Play Block Out level 1 solution video");
+    expect(html).toContain("https://i.ytimg.com/vi/a%2Fb/hqdefault.jpg");
+    expect(html).not.toContain("YouTube loads only after");
     expect(html).not.toContain("<iframe");
+  });
+
+  it("builds a stable YouTube thumbnail URL for the pre-play cover", () => {
+    expect(getYoutubeThumbnailUrl("a/b")).toBe("https://i.ytimg.com/vi/a%2Fb/hqdefault.jpg");
   });
 
   it("builds a privacy-enhanced chapter URL", () => {

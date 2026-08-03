@@ -36,10 +36,7 @@ export function HeroLevelSearch({ levels }: HeroLevelSearchProps) {
     };
   }, [open]);
 
-  const sorted = useMemo(
-    () => [...levels].sort((a, b) => a.levelNumber - b.levelNumber),
-    [levels],
-  );
+  const sorted = useMemo(() => [...levels].sort((a, b) => a.levelNumber - b.levelNumber), [levels]);
 
   return (
     <div className="hero-level-search" ref={rootRef}>

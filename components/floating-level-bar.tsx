@@ -3,7 +3,8 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { LevelSearchTrigger, type LevelSearchItem } from "./level-search-overlay";
+import { FloatingLevelSearch } from "./floating-level-search";
+import type { LevelSearchItem } from "./level-search-overlay";
 
 type AdjacentLevel = { levelNumber: number; title: string } | null;
 
@@ -34,31 +35,41 @@ export function FloatingLevelBar({ previousLevel, nextLevel, levels }: FloatingL
       <div className="floating-level-bar__inner">
         {previousLevel ? (
           <Link
-            className="floating-level-bar__nav"
+            className="floating-level-bar__nav floating-level-bar__nav--previous"
             href={`/en/levels/${previousLevel.levelNumber}/`}
+            aria-label={`Previous level ${previousLevel.levelNumber}`}
           >
-            <span aria-hidden="true">←</span>
-            <span className="floating-level-bar__nav-label">{previousLevel.levelNumber}</span>
+            <span className="floating-level-bar__nav-arrow" aria-hidden="true">
+              ←
+            </span>
+            <span className="floating-level-bar__nav-label">Previous</span>
+            <strong>{previousLevel.levelNumber}</strong>
           </Link>
         ) : (
           <span
-            className="floating-level-bar__nav floating-level-bar__nav--disabled"
+            className="floating-level-bar__nav floating-level-bar__nav--disabled floating-level-bar__nav--previous"
             aria-disabled="true"
           >
-            <span aria-hidden="true">←</span>
-            <span className="floating-level-bar__nav-label">Prev</span>
+            <span className="floating-level-bar__nav-arrow" aria-hidden="true">
+              ←
+            </span>
+            <span className="floating-level-bar__nav-label">Previous</span>
           </span>
         )}
         <div className="floating-level-bar__search">
-          <LevelSearchTrigger levels={levels} size="bar" />
+          <FloatingLevelSearch levels={levels} />
         </div>
         {nextLevel ? (
           <Link
             className="floating-level-bar__nav floating-level-bar__nav--next"
             href={`/en/levels/${nextLevel.levelNumber}/`}
+            aria-label={`Next level ${nextLevel.levelNumber}`}
           >
-            <span className="floating-level-bar__nav-label">{nextLevel.levelNumber}</span>
-            <span aria-hidden="true">→</span>
+            <span className="floating-level-bar__nav-label">Next</span>
+            <strong>{nextLevel.levelNumber}</strong>
+            <span className="floating-level-bar__nav-arrow" aria-hidden="true">
+              →
+            </span>
           </Link>
         ) : (
           <span
@@ -66,7 +77,9 @@ export function FloatingLevelBar({ previousLevel, nextLevel, levels }: FloatingL
             aria-disabled="true"
           >
             <span className="floating-level-bar__nav-label">Next</span>
-            <span aria-hidden="true">→</span>
+            <span className="floating-level-bar__nav-arrow" aria-hidden="true">
+              →
+            </span>
           </span>
         )}
       </div>

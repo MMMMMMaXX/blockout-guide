@@ -131,7 +131,9 @@ export function LevelsExplorer({
               }}
             />
           </label>
-          {isJumpMenuOpen ? <LevelJumpDropdown levels={levels} onClose={() => setJumpMenuOpen(false)} /> : null}
+          {isJumpMenuOpen ? (
+            <LevelJumpDropdown levels={levels} onClose={() => setJumpMenuOpen(false)} />
+          ) : null}
         </div>
         <fieldset>
           <legend>Difficulty</legend>

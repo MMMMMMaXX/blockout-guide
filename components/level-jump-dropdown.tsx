@@ -3,13 +3,17 @@
 
 import Link from "next/link";
 import { useMemo } from "react";
-import type { LevelArticle } from "@/lib/content/types";
-
 type LevelJumpDropdownProps = {
-  levels: readonly LevelArticle[];
+  levels: readonly LevelJumpItem[];
   onClose: () => void;
   /** 是否显示顶部的“全部 N 关”标题与关闭按钮 */
   showHeader?: boolean;
+};
+
+/** 数字跳转菜单只依赖关卡号，允许首页实体和底栏轻量投影复用同一展示。 */
+export type LevelJumpItem = {
+  id?: string;
+  levelNumber: number;
 };
 
 const GROUP_SIZE = 30;
@@ -21,7 +25,7 @@ const GROUP_SIZE = 30;
 export function LevelJumpDropdown({ levels, onClose, showHeader = true }: LevelJumpDropdownProps) {
   const groups = useMemo(() => {
     const sorted = [...levels].sort((a, b) => a.levelNumber - b.levelNumber);
-    const result: { label: string; items: LevelArticle[] }[] = [];
+    const result: { label: string; items: LevelJumpItem[] }[] = [];
     for (let index = 0; index < sorted.length; index += GROUP_SIZE) {
       const slice = sorted.slice(index, index + GROUP_SIZE);
       const first = slice[0].levelNumber;
@@ -53,7 +57,7 @@ export function LevelJumpDropdown({ levels, onClose, showHeader = true }: LevelJ
             <div className="level-jump-menu__grid">
               {group.items.map((level) => (
                 <Link
-                  key={level.id}
+                  key={`${group.label}-${level.id ?? level.levelNumber}`}
                   href={`/en/levels/${level.levelNumber}/`}
                   className="level-jump-menu__item"
                   onClick={onClose}

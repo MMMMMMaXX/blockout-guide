@@ -25,10 +25,7 @@ export function HeroVisual() {
 
       <div className="hero-visual__float hero-visual__float--main">
         <div className="hero-visual__card hero-visual__card--main">
-          <img
-            src="/boards/151.avif"
-            alt="Block Out level 151 — a real in-game puzzle board"
-          />
+          <img src="/boards/151.avif" alt="Block Out level 151 — a real in-game puzzle board" />
         </div>
       </div>
 
