@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "Home",
+    "levels": "Levels",
+    "hardLevels": "Hard Levels",
+    "obstacles": "Obstacles",
+    "boosters": "Boosters",
+    "guides": "Guides",
+    "updates": "Updates",
+    "search": "Search",
+    "boardMatcher": "Board Matcher",
+    "about": "About",
+    "legal": "Legal & privacy",
+    "language": "Language",
+    "skipToContent": "Skip to content",
+    "openNav": "Open navigation",
+    "closeNav": "Close navigation"
+  },
+  "brand": {
+    "name": "BLOCK OUT GUIDES",
+    "tagline": "Board-aware, mobile-first help for players who want the right solution fast.",
+    "footerNote": "Unofficial fan guide operated by StratLore. Not affiliated with Grand Games."
+  },
+  "footer": {
+    "explore": "Explore",
+    "information": "Information"
+  },
+  "home": {
+    "eyebrow": "STRATLORE LEVEL GUIDE ENGINE",
+    "title": "Stuck on a level? Start with the right board.",
+    "lede": "Find a matching variant, then get the video, opening moves and obstacle notes without digging through a long article.",
+    "searchPlaceholder": "Search every level or jump to a number",
+    "chips": [
+      "Board variants",
+      "Portrait video",
+      "Version-aware",
+      "No empty pages"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 sec",
+        "label": "target time to the right solution"
+      },
+      {
+        "value": "3 tiers",
+        "label": "video to full guide, based on value"
+      },
+      {
+        "value": "1 source",
+        "label": "validated JSON drives every consumer"
+      },
+      {
+        "value": "390 px",
+        "label": "primary mobile acceptance width"
+      }
+    ],
+    "levelLibraryEyebrow": "LEVEL LIBRARY",
+    "levelLibraryTitle": "Every verified level guide",
+    "levelLibraryCopy": "{count} verified levels are live. Search, filter by difficulty, or jump to a range.",
+    "levelLibraryEmpty": "No production level is published yet. The framework keeps drafts out of search, aggregation and future sitemaps.",
+    "whyEyebrow": "WHY THIS SITE",
+    "whyTitle": "Fast help, backed by content discipline",
+    "features": [
+      {
+        "title": "Match the board first",
+        "copy": "A level number alone is not enough when game versions change."
+      },
+      {
+        "title": "See the opening moves",
+        "copy": "Use short, actionable notes before watching the full solution."
+      },
+      {
+        "title": "Jump to the moment",
+        "copy": "Enhanced guides connect video chapters with mechanics and mistakes."
+      },
+      {
+        "title": "Built for mobile",
+        "copy": "Portrait media and 40px touch targets fit the real play context."
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "MECHANIC LIBRARY",
+      "boosters": "HELPER LIBRARY",
+      "guides": "PLAYBOOK LIBRARY",
+      "updates": "VERSION LIBRARY"
+    },
+    "categoryEmpty": "No {label} article is published yet.",
+    "categoryLive": "{count} verified {label} article(s) live.",
+    "viewAll": "View all {label}",
+    "readVerified": "Read verified article →",
+    "emptyTitle": "The library opens when a complete guide passes every gate",
+    "emptyCopy": "Content agents publish complete guides directly. Incomplete research never becomes a complete public article or a hidden content backlog.",
+    "faqEyebrow": "FAQ & EDITORIAL STANDARD",
+    "faqTitle": "How the guide library works",
+    "faqs": [
+      {
+        "q": "Why do you ask me to match the board?",
+        "a": "A level number can map to different layouts across versions or platforms."
+      },
+      {
+        "q": "Why are there no filler level pages?",
+        "a": "Only verified, useful guides are published and included in discovery."
+      },
+      {
+        "q": "How is a solution verified?",
+        "a": "The content pipeline requires board, version, platform, source and verification date in the same generation task."
+      }
+    ],
+    "roadmapEyebrow": "QUALITY BEFORE SCALE",
+    "roadmapTitle": "Every public guide must earn publication",
+    "roadmapCopy": "Board, version and source checks keep draft research out of the searchable library.",
+    "readEditorial": "Read the editorial scope"
+  },
+  "levels": {
+    "eyebrow": "LEVEL LIBRARY",
+    "title": "All Block Out levels",
+    "subtitle": "Search by level number, then confirm the board variant before following a solution.",
+    "searchPlaceholder": "Search by level number or difficulty",
+    "allPublished": "All {count} published levels",
+    "noLevels": "No production level is published yet.",
+    "quickJump": "Quick jump",
+    "searchLabel": "Search verified levels",
+    "resultCount": "{count} verified guides"
+  },
+  "levelDetail": {
+    "title": "Block Out! Level {level} Solution",
+    "seoTitle": "Block Out! Level {level} Walkthrough and Video Solution",
+    "seoDescription": "Watch the Block Out! Level {level} walkthrough, compare board variants and jump to the next or previous level.",
+    "difficulty": "Difficulty",
+    "booster": "Booster",
+    "variant": "Board variant",
+    "previous": "Previous level",
+    "next": "Next level",
+    "video": "Video walkthrough",
+    "boardDifferent": "My board is different",
+    "quickTips": "Quick tips",
+    "solutionSteps": "Step-by-step solution",
+    "failurePoints": "Common failure points",
+    "faq": "FAQ",
+    "sources": "Sources",
+    "confirmLandmarks": "Confirm these board landmarks",
+    "compareSource": "Compare with source",
+    "openFullLibrary": "Open full level library",
+    "quickFacts": "Quick facts",
+    "platform": "Platform",
+    "gameVersion": "Game version",
+    "chapters": "Video chapters",
+    "notAvailable": "Not available in this language yet"
+  },
+  "difficulty": {
+    "easy": "Easy",
+    "hard": "Hard",
+    "expert": "Expert",
+    "super-hard": "Super Hard",
+    "all": "All",
+    "medium": "Medium",
+    "label": "Difficulty"
+  },
+  "boosterStatus": {
+    "none": "No booster",
+    "optional": "Optional",
+    "used": "Used",
+    "unknown": "Unknown"
+  },
+  "search": {
+    "title": "Search",
+    "eyebrow": "FIND A LEVEL",
+    "placeholder": "Search levels, obstacles or guides",
+    "noResults": "No results found.",
+    "resultsFor": "Results for \"{query}\"",
+    "allLevels": "Search all levels",
+    "browseNumbers": "Browse numbers",
+    "emptyTitle": "Enter a level number or topic",
+    "emptyCopy": "Only verified, published content is searchable.",
+    "noMatchTitle": "No published match for \"{query}\"",
+    "noMatchCopy": "Try another title, level number, obstacle, booster or update keyword.",
+    "resultCount": "{count} results",
+    "label": "Search published content",
+    "inputPlaceholder": "Level number, obstacle, booster or question"
+  },
+  "boardMatcher": {
+    "title": "Board Matcher",
+    "eyebrow": "FIND YOUR BOARD",
+    "upload": "Upload a screenshot of your board",
+    "privacy": "Your screenshot stays on this device and is never uploaded.",
+    "match": "Find my board",
+    "noResult": "No matching board found.",
+    "similarity": "Similarity",
+    "chooseCorrect": "Choose the correct board",
+    "submitVariant": "Submit a new variant"
+  },
+  "hardLevels": {
+    "eyebrow": "HARD LEVELS",
+    "title": "Hard and expert levels",
+    "subtitle": "Levels rated hard, expert or super-hard, with verified video solutions."
+  },
+  "about": {
+    "eyebrow": "EDITORIAL SCOPE",
+    "title": "About",
+    "body": "Block Out! Guides is an unofficial fan project by StratLore. We publish board-aware, verified level solutions and never pad the library with empty pages."
+  },
+  "legal": {
+    "eyebrow": "INFORMATION",
+    "title": "Legal & privacy",
+    "body": "This is an unofficial fan guide. Game names, artwork and video content belong to their respective owners. We link to public creator videos and do not rehost copyrighted media."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "copy": "The page you are looking for does not exist or has moved.",
+    "home": "Back to home",
+    "levels": "Browse levels"
+  },
+  "missingTranslation": {
+    "title": "This guide is not available in {language} yet.",
+    "viewEnglish": "View English guide",
+    "browseLocal": "Browse {language} {section}"
+  },
+  "common": {
+    "home": "Home",
+    "levels": "Levels",
+    "loading": "Loading…",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}

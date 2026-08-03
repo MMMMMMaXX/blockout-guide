@@ -4,6 +4,8 @@
 import { useEffect, useRef, useState } from "react";
 import type { LevelSearchItem } from "./level-search-overlay";
 import { LevelJumpDropdown } from "./level-jump-dropdown";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages } from "@/lib/i18n/messages";
 
 type FloatingLevelSearchProps = {
   levels: LevelSearchItem[];
@@ -13,6 +15,8 @@ type FloatingLevelSearchProps = {
 export function FloatingLevelSearch({ levels }: FloatingLevelSearchProps) {
   const [open, setOpen] = useState(false);
   const rootRef = useRef<HTMLDivElement | null>(null);
+  const locale = useLocale();
+  const t = getMessages(locale);
 
   useEffect(() => {
     if (!open) return undefined;
@@ -47,8 +51,8 @@ export function FloatingLevelSearch({ levels }: FloatingLevelSearchProps) {
         <span className="floating-level-search__icon" aria-hidden="true">
           ⌕
         </span>
-        <span className="floating-level-search__label">Search all levels</span>
-        <span className="floating-level-search__hint">Browse numbers</span>
+        <span className="floating-level-search__label">{t.search.allLevels}</span>
+        <span className="floating-level-search__hint">{t.search.browseNumbers}</span>
       </button>
       {open ? (
         <div className="floating-level-search__menu">

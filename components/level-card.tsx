@@ -1,6 +1,7 @@
 /** 文件职责：以统一竖屏卡片展示关卡摘要与内容发布状态。 */
 import Link from "next/link";
-import type { LevelArticle } from "@/lib/content/types";
+import type { LevelArticle, Locale } from "@/lib/content/types";
+import { withLocale } from "@/lib/i18n/locale-path";
 import { BoardPreview } from "./board-preview";
 
 /** 优先使用真实棋盘封面或视频缩略图，避免占位图形冒充真实关卡。 */
@@ -15,10 +16,10 @@ function getCardThumbnail(level: LevelArticle): string | null {
 }
 
 /** 整卡保持单一链接目标，并显式标明草稿以避免误解为真实攻略。 */
-export function LevelCard({ level }: { level: LevelArticle }) {
+export function LevelCard({ level, locale }: { level: LevelArticle; locale: Locale }) {
   const thumb = getCardThumbnail(level);
   return (
-    <Link className="level-card" href={`/en/levels/${level.levelNumber}/`}>
+    <Link className="level-card" href={withLocale(locale, `/levels/${level.levelNumber}/`)}>
       <div className="level-card__media">
         {thumb ? (
           <img

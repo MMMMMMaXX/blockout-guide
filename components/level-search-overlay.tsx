@@ -3,6 +3,9 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { withLocale } from "@/lib/i18n/locale-path";
+import { getMessages } from "@/lib/i18n/messages";
 
 /** 传给客户端浮层的最小关卡投影，避免把完整文章对象序列化进页面。 */
 export type LevelSearchItem = {
@@ -26,6 +29,8 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
+  const locale = useLocale();
+  const t = getMessages(locale);
 
   const results = useMemo(() => {
     const normalized = query.trim().toLocaleLowerCase();
@@ -67,7 +72,7 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
           ⌕
         </span>
         <span className="level-search-trigger__label">
-          {size === "hero" ? "Search every level or jump to a number" : "Search all levels"}
+          {size === "hero" ? t.home.searchPlaceholder : t.nav.search}
         </span>
         {size === "hero" ? <span className="level-search-trigger__cta">Browse</span> : null}
       </button>
@@ -87,14 +92,14 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
                 ref={inputRef}
                 type="search"
                 value={query}
-                placeholder={placeholder ?? "Type a level number or keyword"}
+                placeholder={placeholder ?? t.levels.searchPlaceholder}
                 onChange={(event) => setQuery(event.target.value)}
               />
               <button
                 type="button"
                 className="level-search-close"
                 onClick={() => setOpen(false)}
-                aria-label="Close level search"
+                aria-label={t.nav.closeNav}
               >
                 ×
               </button>
@@ -107,7 +112,10 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
             <ul className="level-search-results">
               {results.map((level) => (
                 <li key={level.levelNumber}>
-                  <Link href={`/en/levels/${level.levelNumber}/`} onClick={() => setOpen(false)}>
+                  <Link
+                    href={withLocale(locale, `/levels/${level.levelNumber}/`)}
+                    onClick={() => setOpen(false)}
+                  >
                     {level.boardImage ? (
                       <img src={level.boardImage} alt="" loading="lazy" />
                     ) : (
@@ -122,11 +130,15 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
                 </li>
               ))}
               {results.length === 0 ? (
-                <li className="level-search-empty">No level matches “{query.trim()}”.</li>
+                <li className="level-search-empty">{t.search.noResults}</li>
               ) : null}
             </ul>
-            <Link className="level-search-all" href="/en/levels/" onClick={() => setOpen(false)}>
-              Open the full level library →
+            <Link
+              className="level-search-all"
+              href={withLocale(locale, "/levels/")}
+              onClick={() => setOpen(false)}
+            >
+              {t.levelDetail.openFullLibrary} →
             </Link>
           </div>
         </div>

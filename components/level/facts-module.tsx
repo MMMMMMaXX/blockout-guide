@@ -1,34 +1,37 @@
 /** 文件职责：渲染关卡详情的快速事实卡片（状态、版本、平台、颜色、Booster、核验）。所有关卡复用同一组件。 */
-import type { LevelArticle, LevelVariant } from "@/lib/content/types";
+import type { LevelArticle, LevelVariant, Locale } from "@/lib/content/types";
 import { ColorChips } from "@/components/color-dot";
+import { getMessages } from "@/lib/i18n/messages";
 
 type FactsModuleProps = {
   level: LevelArticle;
   variant: LevelVariant;
+  locale: Locale;
 };
 
 /** 单关卡事实卡片；修改此组件会同时影响所有关卡页的事实展示。 */
-export function FactsModule({ level, variant }: FactsModuleProps) {
+export function FactsModule({ level, variant, locale }: FactsModuleProps) {
+  const t = getMessages(locale);
   const colors = variant.boardProfile?.colors ?? [];
   return (
     <aside className="facts-card">
-      <p className="eyebrow">QUICK FACTS</p>
-      <h2>Match before you move</h2>
+      <p className="eyebrow">{t.levelDetail.quickFacts}</p>
+      <h2>{t.levelDetail.quickFacts}</h2>
       <dl>
         <div>
           <dt>Status</dt>
           <dd>{level.status}</dd>
         </div>
         <div>
-          <dt>Version</dt>
+          <dt>{t.levelDetail.gameVersion}</dt>
           <dd>{variant.gameVersion ?? "Version not recorded"}</dd>
         </div>
         <div>
-          <dt>Platform</dt>
+          <dt>{t.levelDetail.platform}</dt>
           <dd>{variant.platforms.length > 0 ? variant.platforms.join(", ") : "Pending"}</dd>
         </div>
         <div>
-          <dt>Booster</dt>
+          <dt>{t.levelDetail.booster}</dt>
           <dd>{variant.boosterUsage}</dd>
         </div>
         <div>

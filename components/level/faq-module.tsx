@@ -1,4 +1,9 @@
 /** 文件职责：渲染关卡详情的常见问题模块。所有关卡复用同一组件。 */
+"use client";
+
+import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages } from "@/lib/i18n/messages";
+
 type FaqModuleProps = {
   levelNumber: number;
   boosterUsage: string;
@@ -6,9 +11,10 @@ type FaqModuleProps = {
 
 /** 单关卡 FAQ；修改此组件会同时影响所有关卡页的问答展示。 */
 export function FaqModule({ levelNumber, boosterUsage }: FaqModuleProps) {
+  const t = getMessages(useLocale());
   return (
     <section className="content-panel detail-faq">
-      <p className="eyebrow">LEVEL FAQ</p>
+      <p className="eyebrow">{t.levelDetail.faq}</p>
       <details>
         <summary>Why might my Level {levelNumber} board look different?</summary>
         <p>Game version, platform or staged rollout differences can change a board layout.</p>

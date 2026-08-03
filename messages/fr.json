@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "levels": "Niveaux",
+    "hardLevels": "Niveaux difficiles",
+    "obstacles": "Obstacles",
+    "boosters": "Boosters",
+    "guides": "Guides",
+    "updates": "Mises à jour",
+    "search": "Rechercher",
+    "boardMatcher": "Assistant de plateau",
+    "about": "À propos",
+    "legal": "Mentions légales et confidentialité",
+    "language": "Langue",
+    "skipToContent": "Aller au contenu",
+    "openNav": "Ouvrir la navigation",
+    "closeNav": "Fermer la navigation"
+  },
+  "brand": {
+    "name": "BLOCK OUT GUIDES",
+    "tagline": "Une aide centrée sur le plateau et pensée pour mobile, pour trouver la bonne solution rapidement.",
+    "footerNote": "Guide de fan non officiel exploité par StratLore. Non affilié à Grand Games."
+  },
+  "footer": {
+    "explore": "Explorer",
+    "information": "Informations"
+  },
+  "home": {
+    "eyebrow": "MOTEUR DE GUIDE DE NIVEAUX STRATLORE",
+    "title": "Bloqué sur un niveau ? Commencez par le bon plateau.",
+    "lede": "Trouvez une variante correspondante, puis accédez à la vidéo, aux premiers coups et aux notes sur les obstacles sans parcourir un long article.",
+    "searchPlaceholder": "Recherchez un niveau ou accédez directement à un numéro",
+    "chips": [
+      "Variantes de plateau",
+      "Vidéo portrait",
+      "Selon la version",
+      "Aucune page vide"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 s",
+        "label": "temps cible pour la bonne solution"
+      },
+      {
+        "value": "3 niveaux",
+        "label": "de la vidéo au guide complet, selon la valeur"
+      },
+      {
+        "value": "1 source",
+        "label": "un JSON validé pilote chaque consommateur"
+      },
+      {
+        "value": "390 px",
+        "label": "largeur mobile principale d'acceptation"
+      }
+    ],
+    "levelLibraryEyebrow": "BIBLIOTHÈQUE DE NIVEAUX",
+    "levelLibraryTitle": "Tous les guides de niveaux vérifiés",
+    "levelLibraryCopy": "{count} niveaux vérifiés sont en ligne. Recherchez, filtrez par difficulté ou accédez à une plage.",
+    "levelLibraryEmpty": "Aucun niveau de production n'est encore publié. Le cadre tient les brouillons hors de la recherche, de l'agrégation et des futurs plans de site.",
+    "whyEyebrow": "POURQUOI CE SITE",
+    "whyTitle": "Une aide rapide, soutenue par une discipline de contenu",
+    "features": [
+      {
+        "title": "D'abord, associez le plateau",
+        "copy": "Un simple numéro de niveau ne suffit pas quand les versions du jeu changent."
+      },
+      {
+        "title": "Voyez les premiers coups",
+        "copy": "Utilisez de courtes notes exploitables avant de regarder la solution complète."
+      },
+      {
+        "title": "Allez à l'instant clé",
+        "copy": "Les guides enrichis relient les chapitres vidéo aux mécaniques et aux erreurs."
+      },
+      {
+        "title": "Conçu pour mobile",
+        "copy": "Les médias portrait et les cibles tactiles de 40 px s'adaptent au vrai contexte de jeu."
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "BIBLIOTHÈQUE DE MÉCANIQUES",
+      "boosters": "BIBLIOTHÈQUE D'ASSISTANTS",
+      "guides": "BIBLIOTHÈQUE DE STRATÉGIES",
+      "updates": "BIBLIOTHÈQUE DE VERSIONS"
+    },
+    "categoryEmpty": "Aucun article {label} n'est encore publié.",
+    "categoryLive": "{count} article(s) {label} vérifié(s) en ligne.",
+    "viewAll": "Voir tous les {label}",
+    "readVerified": "Lire l'article vérifié →",
+    "emptyTitle": "La bibliothèque s'ouvre quand un guide complet franchit toutes les étapes",
+    "emptyCopy": "Les agents de contenu publient directement des guides complets. Une recherche incomplète ne devient jamais un article public complet ni un stock de contenu caché.",
+    "faqEyebrow": "FAQ ET RÈGLES ÉDITORIALES",
+    "faqTitle": "Comment fonctionne la bibliothèque de guides",
+    "faqs": [
+      {
+        "q": "Pourquoi vous demandez-vous d'associer le plateau ?",
+        "a": "Un numéro de niveau peut correspondre à différentes dispositions selon les versions ou les plateformes."
+      },
+      {
+        "q": "Pourquoi n'y a-t-il pas de pages de niveau remplissage ?",
+        "a": "Seuls les guides vérifiés et utiles sont publiés et inclus dans la découverte."
+      },
+      {
+        "q": "Comment une solution est-elle vérifiée ?",
+        "a": "Le pipeline de contenu exige le plateau, la version, la plateforme, la source et la date de vérification dans la même tâche de génération."
+      }
+    ],
+    "roadmapEyebrow": "LA QUALITÉ AVANT L'ÉCHELLE",
+    "roadmapTitle": "Chaque guide public doit mériter sa publication",
+    "roadmapCopy": "Les contrôles de plateau, de version et de source tiennent la recherche en brouillon hors de la bibliothèque consultable.",
+    "readEditorial": "Lire le périmètre éditorial"
+  },
+  "levels": {
+    "eyebrow": "BIBLIOTHÈQUE DE NIVEAUX",
+    "title": "Tous les niveaux Block Out",
+    "subtitle": "Recherchez par numéro de niveau, puis confirmez la variante de plateau avant de suivre une solution.",
+    "searchPlaceholder": "Recherchez par numéro de niveau ou par difficulté",
+    "allPublished": "Tous les {count} niveaux publiés",
+    "noLevels": "Aucun niveau de production n'est encore publié.",
+    "quickJump": "Aller à",
+    "searchLabel": "Rechercher les niveaux vérifiés",
+    "resultCount": "{count} guides vérifiés"
+  },
+  "levelDetail": {
+    "title": "Solution du niveau {level} de Block Out !",
+    "seoTitle": "Solution et vidéo pas à pas du niveau {level} de Block Out !",
+    "seoDescription": "Regardez la solution pas à pas du niveau {level} de Block Out !, comparez les variantes de plateau et passez au niveau suivant ou précédent.",
+    "difficulty": "Difficulté",
+    "booster": "Booster",
+    "variant": "Variante de plateau",
+    "previous": "Niveau précédent",
+    "next": "Niveau suivant",
+    "video": "Vidéo pas à pas",
+    "boardDifferent": "Mon plateau est différent",
+    "quickTips": "Conseils rapides",
+    "solutionSteps": "Solution étape par étape",
+    "failurePoints": "Erreurs fréquentes",
+    "faq": "FAQ",
+    "sources": "Sources",
+    "confirmLandmarks": "Confirmez ces repères de plateau",
+    "compareSource": "Comparer avec la source",
+    "openFullLibrary": "Ouvrir la bibliothèque complète des niveaux",
+    "quickFacts": "En bref",
+    "platform": "Plateforme",
+    "gameVersion": "Version du jeu",
+    "chapters": "Chapitres vidéo",
+    "notAvailable": "Pas encore disponible dans cette langue"
+  },
+  "difficulty": {
+    "easy": "Facile",
+    "hard": "Difficile",
+    "expert": "Expert",
+    "super-hard": "Très difficile",
+    "all": "Tous",
+    "medium": "Moyen",
+    "label": "Difficulté"
+  },
+  "boosterStatus": {
+    "none": "Aucun booster",
+    "optional": "Optionnel",
+    "used": "Utilisé",
+    "unknown": "Inconnu"
+  },
+  "search": {
+    "title": "Rechercher",
+    "eyebrow": "TROUVER UN NIVEAU",
+    "placeholder": "Recherchez des niveaux, obstacles ou guides",
+    "noResults": "Aucun résultat trouvé.",
+    "resultsFor": "Résultats pour « {query} »",
+    "allLevels": "Rechercher tous les niveaux",
+    "browseNumbers": "Parcourir les numéros",
+    "emptyTitle": "Saisissez un numéro de niveau ou un sujet",
+    "emptyCopy": "Seul le contenu vérifié et publié est recherchable.",
+    "noMatchTitle": "Aucune correspondance publiée pour « {query} »",
+    "noMatchCopy": "Essayez un autre titre, numéro de niveau, obstacle, booster ou mot-clé de mise à jour.",
+    "resultCount": "{count} résultats",
+    "label": "Rechercher le contenu publié",
+    "inputPlaceholder": "Numéro de niveau, obstacle, booster ou question"
+  },
+  "boardMatcher": {
+    "title": "Assistant de plateau",
+    "eyebrow": "TROUVEZ VOTRE PLATEAU",
+    "upload": "Téléchargez une capture de votre plateau",
+    "privacy": "Votre capture reste sur cet appareil et n'est jamais envoyée.",
+    "match": "Trouver mon plateau",
+    "noResult": "Aucun plateau correspondant trouvé.",
+    "similarity": "Similarité",
+    "chooseCorrect": "Choisissez le bon plateau",
+    "submitVariant": "Soumettre une nouvelle variante"
+  },
+  "hardLevels": {
+    "eyebrow": "NIVEAUX DIFFICILES",
+    "title": "Niveaux difficiles et experts",
+    "subtitle": "Niveaux classés difficiles, experts ou très difficiles, avec des vidéos solutions vérifiées."
+  },
+  "about": {
+    "eyebrow": "PÉRIMÈTRE ÉDITORIAL",
+    "title": "À propos",
+    "body": "Block Out ! Guides est un projet de fan non officiel de StratLore. Nous publions des solutions de niveaux vérifiées et centrées sur le plateau, et ne remplissons jamais la bibliothèque de pages vides."
+  },
+  "legal": {
+    "eyebrow": "INFORMATIONS",
+    "title": "Mentions légales et confidentialité",
+    "body": "Ceci est un guide de fan non officiel. Les noms de jeux, les illustrations et le contenu vidéo appartiennent à leurs propriétaires respectifs. Nous renvoyons vers les vidéos publiques des créateurs et n'hébergeons pas de médias protégés par le droit d'auteur."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "copy": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "home": "Retour à l'accueil",
+    "levels": "Parcourir les niveaux"
+  },
+  "missingTranslation": {
+    "title": "Ce guide n'est pas encore disponible en {language}.",
+    "viewEnglish": "Voir le guide en anglais",
+    "browseLocal": "Parcourir {section} en {language}"
+  },
+  "common": {
+    "home": "Accueil",
+    "levels": "Niveaux",
+    "loading": "Chargement…",
+    "previous": "Précédent",
+    "next": "Suivant"
+  }
+}

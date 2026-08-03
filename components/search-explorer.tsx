@@ -10,6 +10,9 @@ import {
   type SearchEntry,
   type SearchType,
 } from "@/lib/search/search-index";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
+import { withLocale } from "@/lib/i18n/locale-path";
 
 type SearchExplorerProps = {
   entries: readonly SearchEntry[];
@@ -18,13 +21,13 @@ type SearchExplorerProps = {
   initialPage: number;
 };
 
-const typeLabels: Record<SearchType, string> = {
-  all: "All",
-  level: "Levels",
-  obstacle: "Obstacles",
-  booster: "Boosters",
-  guide: "Guides",
-  update: "Updates",
+const typeLabels: Record<SearchType, (t: ReturnType<typeof getMessages>) => string> = {
+  all: (t) => t.difficulty.all,
+  level: (t) => t.nav.levels,
+  obstacle: (t) => t.nav.obstacles,
+  booster: (t) => t.nav.boosters,
+  guide: (t) => t.nav.guides,
+  update: (t) => t.nav.updates,
 };
 
 /** 查询变化时用 replaceState 写入 URL，避免每次按键都产生浏览器历史记录。 */
@@ -34,6 +37,8 @@ export function SearchExplorer({
   initialType,
   initialPage,
 }: SearchExplorerProps) {
+  const locale = useLocale();
+  const t = getMessages(locale);
   const [query, setQuery] = useState(initialQuery);
   const [type, setType] = useState<SearchType>(initialType);
   const [page, setPage] = useState(initialPage);
@@ -46,8 +51,8 @@ export function SearchExplorer({
     if (type !== "all") parameters.set("type", type);
     if (pagination.page > 1) parameters.set("page", String(pagination.page));
     const suffix = parameters.size > 0 ? `?${parameters.toString()}` : "";
-    window.history.replaceState(null, "", `/en/search/${suffix}`);
-  }, [pagination.page, query, type]);
+    window.history.replaceState(null, "", withLocale(locale, `/search/${suffix}`));
+  }, [locale, pagination.page, query, type]);
 
   /** 类型切换复位分页，防止旧页码超出新的结果范围。 */
   function selectType(nextType: SearchType) {
@@ -58,12 +63,12 @@ export function SearchExplorer({
   return (
     <section className="search-explorer" aria-label="Site search">
       <label className="search-field">
-        <span>Search published content</span>
+        <span>{t.search.label}</span>
         <input
           type="search"
           value={query}
           autoFocus
-          placeholder="Level number, obstacle, booster or question"
+          placeholder={t.search.inputPlaceholder}
           onChange={(event) => {
             setQuery(event.target.value);
             setPage(1);
@@ -78,7 +83,7 @@ export function SearchExplorer({
             aria-pressed={type === option}
             onClick={() => selectType(option)}
           >
-            {typeLabels[option]}
+            {typeLabels[option](t)}
           </button>
         ))}
       </div>
@@ -86,19 +91,19 @@ export function SearchExplorer({
       {query.trim().length === 0 ? (
         <div className="empty-state">
           <span>{entries.length} indexed articles</span>
-          <h2>Enter a level number or topic</h2>
-          <p>Only verified, published content is searchable.</p>
+          <h2>{t.search.emptyTitle}</h2>
+          <p>{t.search.emptyCopy}</p>
         </div>
       ) : pagination.total === 0 ? (
         <div className="empty-state">
-          <span>0 results</span>
-          <h2>No published match for “{query.trim()}”</h2>
-          <p>Try another title, level number, obstacle, booster or update keyword.</p>
+          <span>{interpolate(t.search.resultCount, { count: 0 })}</span>
+          <h2>{interpolate(t.search.noMatchTitle, { query: query.trim() })}</h2>
+          <p>{t.search.noMatchCopy}</p>
         </div>
       ) : (
         <>
           <p className="result-count" aria-live="polite">
-            {pagination.total} {pagination.total === 1 ? "result" : "results"}
+            {interpolate(t.search.resultCount, { count: pagination.total })}
           </p>
           <div className="search-results">
             {pagination.items.map((entry) => (
@@ -120,17 +125,17 @@ export function SearchExplorer({
                 disabled={pagination.page === 1}
                 onClick={() => setPage((current) => current - 1)}
               >
-                Previous
+                {t.common.previous}
               </button>
               <span>
-                Page {pagination.page} of {pagination.pageCount}
+                {pagination.page} / {pagination.pageCount}
               </span>
               <button
                 type="button"
                 disabled={pagination.page === pagination.pageCount}
                 onClick={() => setPage((current) => current + 1)}
               >
-                Next
+                {t.common.next}
               </button>
             </nav>
           ) : null}

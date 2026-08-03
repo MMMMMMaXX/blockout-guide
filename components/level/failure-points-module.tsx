@@ -1,5 +1,9 @@
 /** 文件职责：渲染关卡详情的常见失败点模块。所有关卡复用同一组件。 */
+"use client";
+
 import { highlightColors } from "@/components/color-dot";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages } from "@/lib/i18n/messages";
 
 type FailurePointsModuleProps = {
   failures: string[];
@@ -10,9 +14,10 @@ const ACCENT_CYCLE = ["pink", "purple", "cyan", "green", "orange", "yellow"] as 
 
 /** 单关卡失败点；修改此组件会同时影响所有关卡页的失败点展示。 */
 export function FailurePointsModule({ failures }: FailurePointsModuleProps) {
+  const t = getMessages(useLocale());
   return (
     <section className="content-panel failure-panel">
-      <p className="eyebrow">COMMON FAILURE POINTS</p>
+      <p className="eyebrow">{t.levelDetail.failurePoints}</p>
       <div className="failure-grid">
         {failures.map((failure, index) => (
           <div

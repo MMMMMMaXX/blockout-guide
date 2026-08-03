@@ -1,6 +1,7 @@
 /** 文件职责：定义全站 HTML 外壳、默认 SEO 元信息和基础字体。 */
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
+import { HtmlLangSync } from "@/components/html-lang-sync";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -29,8 +30,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={geistSans.variable}>{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <body className={geistSans.variable}>
+        <HtmlLangSync />
+        {children}
+      </body>
     </html>
   );
 }

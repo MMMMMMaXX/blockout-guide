@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "首页",
+    "levels": "关卡",
+    "hardLevels": "高难关卡",
+    "obstacles": "障碍",
+    "boosters": "增益道具",
+    "guides": "攻略",
+    "updates": "更新",
+    "search": "搜索",
+    "boardMatcher": "棋盘匹配",
+    "about": "关于",
+    "legal": "法律与隐私",
+    "language": "语言",
+    "skipToContent": "跳到正文",
+    "openNav": "打开导航",
+    "closeNav": "关闭导航"
+  },
+  "brand": {
+    "name": "BLOCK OUT 攻略",
+    "tagline": "以棋盘为准、移动端优先，帮你快速找到正确解法的辅助站。",
+    "footerNote": "非官方粉丝攻略站，由 StratLore 运营，与 Grand Games 无关。"
+  },
+  "footer": {
+    "explore": "探索",
+    "information": "信息"
+  },
+  "home": {
+    "eyebrow": "STRATLORE 关卡攻略引擎",
+    "title": "卡在某一关？先从正确的棋盘开始。",
+    "lede": "先找到匹配的棋盘变体，再获取视频、开局走法以及障碍提示，无需翻阅长篇攻略。",
+    "searchPlaceholder": "搜索任意关卡或跳转到指定编号",
+    "chips": [
+      "棋盘变体",
+      "竖屏视频",
+      "版本感知",
+      "无空白页"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 秒",
+        "label": "找到正确解法的目标时间"
+      },
+      {
+        "value": "3 个层级",
+        "label": "按价值从视频到完整攻略"
+      },
+      {
+        "value": "1 个来源",
+        "label": "经校验的 JSON 驱动所有消费方"
+      },
+      {
+        "value": "390 像素",
+        "label": "移动端主要验收宽度"
+      }
+    ],
+    "levelLibraryEyebrow": "关卡库",
+    "levelLibraryTitle": "每一篇经过校验的关卡攻略",
+    "levelLibraryCopy": "已有 {count} 篇校验关卡上线。可按编号搜索、按难度筛选，或跳转到某个区间。",
+    "levelLibraryEmpty": "尚未发布任何正式关卡。框架会把草稿挡在搜索、聚合与未来的 Sitemap 之外。",
+    "whyEyebrow": "为何用本站",
+    "whyTitle": "快速帮助，辅以内容纪律",
+    "features": [
+      {
+        "title": "先匹配棋盘",
+        "copy": "当游戏版本变化时，仅靠关卡编号并不足够。"
+      },
+      {
+        "title": "看清开局走法",
+        "copy": "在看完整解法前，先看简短、可执行的要点。"
+      },
+      {
+        "title": "跳到关键瞬间",
+        "copy": "增强攻略把视频章节与机制、失误连接起来。"
+      },
+      {
+        "title": "为移动端而生",
+        "copy": "竖屏媒体与 40px 触控目标贴合真实游玩场景。"
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "机制库",
+      "boosters": "辅助库",
+      "guides": "玩法库",
+      "updates": "版本库"
+    },
+    "categoryEmpty": "尚未发布任何 {label} 文章。",
+    "categoryLive": "已有 {count} 篇校验 {label} 文章上线。",
+    "viewAll": "查看全部 {label}",
+    "readVerified": "阅读已校验文章 →",
+    "emptyTitle": "当完整攻略通过每一道门禁，文库才会开启",
+    "emptyCopy": "内容智能体直接发布完整攻略；不完整的研究永远不会变成已发布的公开文章或隐藏的内容积压。",
+    "faqEyebrow": "常见问题与编辑标准",
+    "faqTitle": "攻略文库如何运作",
+    "faqs": [
+      {
+        "q": "为什么要求你先匹配棋盘？",
+        "a": "同一个关卡编号，在不同版本或平台上可能对应不同的布局。"
+      },
+      {
+        "q": "为什么没有凑数的关卡页？",
+        "a": "我们只发布经过校验、真正有用的攻略，并纳入发现体系。"
+      },
+      {
+        "q": "解法如何被校验？",
+        "a": "内容管线要求在同一次生成任务中同时具备棋盘、版本、平台、来源与校验日期。"
+      }
+    ],
+    "roadmapEyebrow": "质量优先于规模",
+    "roadmapTitle": "每篇公开攻略都必须赢得发布资格",
+    "roadmapCopy": "棋盘、版本与来源检查让草稿研究无法进入可搜索的文库。",
+    "readEditorial": "阅读编辑范围"
+  },
+  "levels": {
+    "eyebrow": "关卡库",
+    "title": "全部 Block Out 关卡",
+    "subtitle": "按关卡编号搜索，在套用解法前先确认棋盘变体。",
+    "searchPlaceholder": "按关卡编号或难度搜索",
+    "allPublished": "全部 {count} 篇已发布关卡",
+    "noLevels": "尚未发布任何正式关卡。",
+    "quickJump": "快速跳转",
+    "searchLabel": "搜索已验证关卡",
+    "resultCount": "{count} 篇已验证攻略"
+  },
+  "levelDetail": {
+    "title": "Block Out! 第 {level} 关解法",
+    "seoTitle": "Block Out! 第 {level} 关通关视频与解法",
+    "seoDescription": "观看 Block Out! 第 {level} 关通关视频，对比棋盘变体，并跳转到上一关或下一关。",
+    "difficulty": "难度",
+    "booster": "增益道具",
+    "variant": "棋盘变体",
+    "previous": "上一关",
+    "next": "下一关",
+    "video": "视频通关演示",
+    "boardDifferent": "我的棋盘不一样",
+    "quickTips": "快速提示",
+    "solutionSteps": "分步解法",
+    "failurePoints": "常见失败点",
+    "faq": "常见问题",
+    "sources": "来源",
+    "confirmLandmarks": "确认这些棋盘特征",
+    "compareSource": "与来源对比",
+    "openFullLibrary": "打开完整关卡库",
+    "quickFacts": "速览",
+    "platform": "平台",
+    "gameVersion": "游戏版本",
+    "chapters": "视频章节",
+    "notAvailable": "该语言版本暂未提供"
+  },
+  "difficulty": {
+    "easy": "简单",
+    "hard": "困难",
+    "expert": "专家",
+    "super-hard": "极难",
+    "all": "全部",
+    "medium": "中等",
+    "label": "难度"
+  },
+  "boosterStatus": {
+    "none": "无增益",
+    "optional": "可选",
+    "used": "已使用",
+    "unknown": "未知"
+  },
+  "search": {
+    "title": "搜索",
+    "eyebrow": "查找关卡",
+    "placeholder": "搜索关卡、障碍或攻略",
+    "noResults": "未找到结果。",
+    "resultsFor": "“{query}”的搜索结果",
+    "allLevels": "搜索所有关卡",
+    "browseNumbers": "浏览关卡编号",
+    "emptyTitle": "输入关卡编号或主题",
+    "emptyCopy": "仅可搜索已验证、已发布的内容。",
+    "noMatchTitle": "未找到与“{query}”匹配的已发布内容",
+    "noMatchCopy": "请尝试其他标题、关卡编号、障碍、增益或版本关键词。",
+    "resultCount": "{count} 个结果",
+    "label": "搜索已发布内容",
+    "inputPlaceholder": "关卡编号、障碍、增益或问题"
+  },
+  "boardMatcher": {
+    "title": "棋盘匹配",
+    "eyebrow": "找到你的棋盘",
+    "upload": "上传你的棋盘截图",
+    "privacy": "你的截图仅留在本机，绝不会上传。",
+    "match": "找出我的棋盘",
+    "noResult": "未找到匹配的棋盘。",
+    "similarity": "相似度",
+    "chooseCorrect": "选择正确棋盘",
+    "submitVariant": "提交新的变体"
+  },
+  "hardLevels": {
+    "eyebrow": "高难关卡",
+    "title": "困难与专家关卡",
+    "subtitle": "标记为困难、专家或极难的关卡，均附已校验的视频解法。"
+  },
+  "about": {
+    "eyebrow": "编辑范围",
+    "title": "关于",
+    "body": "Block Out! 攻略是由 StratLore 运营的非官方粉丝项目。我们发布以棋盘为准、经过校验的关卡解法，绝不用空白页填充文库。"
+  },
+  "legal": {
+    "eyebrow": "信息",
+    "title": "法律与隐私",
+    "body": "本站为非官方粉丝攻略。游戏名称、美术与视频内容归各自所有者所有。我们链接公开的创作者视频，不转存受版权保护的媒体。"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "copy": "你查找的页面不存在或已移动。",
+    "home": "返回首页",
+    "levels": "浏览关卡"
+  },
+  "missingTranslation": {
+    "title": "该攻略的 {language} 版本尚未提供。",
+    "viewEnglish": "查看英文攻略",
+    "browseLocal": "浏览 {language} 的 {section}"
+  },
+  "common": {
+    "home": "首页",
+    "levels": "关卡",
+    "loading": "加载中…",
+    "previous": "上一页",
+    "next": "下一页"
+  }
+}

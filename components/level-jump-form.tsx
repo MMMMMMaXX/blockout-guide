@@ -3,17 +3,20 @@
 
 import { useRouter } from "next/navigation";
 import { useState, type FormEvent } from "react";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { withLocale } from "@/lib/i18n/locale-path";
 
 /** 校验正整数后进入稳定关卡 URL，避免把无效输入写入路由。 */
 export function LevelJumpForm({ compact = false }: { compact?: boolean }) {
   const router = useRouter();
+  const locale = useLocale();
   const [levelNumber, setLevelNumber] = useState("");
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const parsedLevel = Number.parseInt(levelNumber, 10);
     if (!Number.isSafeInteger(parsedLevel) || parsedLevel < 1) return;
-    router.push(`/en/levels/${parsedLevel}/`);
+    router.push(withLocale(locale, `/levels/${parsedLevel}/`));
   }
 
   return (

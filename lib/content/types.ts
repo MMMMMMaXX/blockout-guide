@@ -9,8 +9,12 @@ import type {
   updateArticleSchema,
 } from "./editorial-schema";
 
-export const locales = ["en", "zh-cn"] as const;
-export type Locale = (typeof locales)[number];
+// 统一语言契约来自 lib/i18n/locales（与 StratLore 三仓库一致），内容层只复用，不重复定义。
+import type { Locale as I18nLocale } from "../i18n/locales";
+import { supportedLocales } from "../i18n/locales";
+
+export const locales = supportedLocales;
+export type Locale = I18nLocale;
 export type LevelArticle = z.infer<typeof levelArticleSchema>;
 export type LevelVariant = z.infer<typeof levelVariantSchema>;
 export type SolutionStep = z.infer<typeof solutionStepSchema>;

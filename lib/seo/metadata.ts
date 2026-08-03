@@ -1,6 +1,8 @@
 /** 文件职责：集中生成 canonical 与仅基于真实翻译实体的 hreflang 映射。 */
 import type { Metadata } from "next";
 import type { Locale } from "@/lib/content/types";
+import { supportedLocales } from "@/lib/i18n/locales";
+import { stripLocale, withLocale } from "@/lib/i18n/locale-path";
 
 type TranslationTarget = { locale: Locale; path: string };
 
@@ -15,4 +17,13 @@ export function buildAlternates(canonical: string, translations: TranslationTarg
     canonical,
     ...(Object.keys(languages).length > 0 ? { languages } : {}),
   } satisfies NonNullable<Metadata["alternates"]>;
+}
+
+/** 为所有 10 种语言（含 x-default=en）生成完整 hreflang；用于关卡页与稳定存在的栏目页。 */
+export function buildFullAlternates(canonical: string) {
+  const { rest } = stripLocale(canonical);
+  const languages: Record<string, string> = {};
+  for (const locale of supportedLocales) languages[locale] = withLocale(locale, rest);
+  languages["x-default"] = withLocale("en", rest);
+  return { canonical, languages } satisfies NonNullable<Metadata["alternates"]>;
 }

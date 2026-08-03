@@ -1,8 +1,10 @@
 /** 文件职责：统一展示 Phase 2 已发布内容卡片和零发布空状态。 */
 import Link from "next/link";
-import type { EditorialArticle } from "@/lib/content/types";
+import type { EditorialArticle, Locale } from "@/lib/content/types";
+import { withLocale } from "@/lib/i18n/locale-path";
 
 type EditorialCollectionProps = {
+  locale: Locale;
   items: readonly EditorialArticle[];
   routeSegment: "obstacles" | "boosters" | "guides" | "updates";
   emptyTitle: string;
@@ -11,6 +13,7 @@ type EditorialCollectionProps = {
 
 /** 卡片只接受 Repository 返回的 published 项，调用方负责提供领域标题。 */
 export function EditorialCollection({
+  locale,
   items,
   routeSegment,
   emptyTitle,
@@ -28,7 +31,11 @@ export function EditorialCollection({
   return (
     <div className="editorial-grid">
       {items.map((item) => (
-        <Link className="editorial-card" href={`/en/${routeSegment}/${item.slug}/`} key={item.id}>
+        <Link
+          className="editorial-card"
+          href={withLocale(locale, `/${routeSegment}/${item.slug}/`)}
+          key={item.id}
+        >
           <div className="editorial-card__icon" aria-hidden="true">
             {item.kind === "obstacle"
               ? "◇"

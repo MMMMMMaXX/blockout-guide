@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "levels": "Seviyeler",
+    "hardLevels": "Zor Seviyeler",
+    "obstacles": "Engeller",
+    "boosters": "Yardımcılar",
+    "guides": "Rehberler",
+    "updates": "Güncellemeler",
+    "search": "Ara",
+    "boardMatcher": "Tahta Eşleştirici",
+    "about": "Hakkında",
+    "legal": "Yasal ve gizlilik",
+    "language": "Dil",
+    "skipToContent": "İçeriğe geç",
+    "openNav": "Gezinmeyi aç",
+    "closeNav": "Gezinmeyi kapat"
+  },
+  "brand": {
+    "name": "BLOCK OUT GUIDES",
+    "tagline": "Doğru çözüme hızla ulaşmak isteyen oyuncular için tahta farkında, mobil öncelikli yardım.",
+    "footerNote": "StratLore tarafından yürütülen resmi olmayan hayran rehberi. Grand Games ile bağlantılı değildir."
+  },
+  "footer": {
+    "explore": "Keşfet",
+    "information": "Bilgi"
+  },
+  "home": {
+    "eyebrow": "STRATLORE SEVİYE REHBER MOTORU",
+    "title": "Bir seviyede mi takıldınız? Doğru tahtayla başlayın.",
+    "lede": "Eşleşen bir varyantı bulun, ardından uzun bir makaleye göz atmak zorunda kalmadan videoyu, açılış hamlelerini ve engel notlarını alın.",
+    "searchPlaceholder": "Her seviyeyi arayın veya bir numaraya atlayın",
+    "chips": [
+      "Tahta varyantları",
+      "Dikey video",
+      "Sürüm farkında",
+      "Boş sayfa yok"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 sn",
+        "label": "doğru çözüme ulaşma hedef süresi"
+      },
+      {
+        "value": "3 kademe",
+        "label": "değere göre videodan tam rehbere"
+      },
+      {
+        "value": "1 kaynak",
+        "label": "doğrulanmış JSON her tüketiciyi besler"
+      },
+      {
+        "value": "390 px",
+        "label": "birincil mobil kabul genişliği"
+      }
+    ],
+    "levelLibraryEyebrow": "SEVİYE KÜTÜPHANESİ",
+    "levelLibraryTitle": "Her doğrulanmış seviye rehberi",
+    "levelLibraryCopy": "{count} doğrulanmış seviye yayında. Arayın, zorluğa göre filtreleyin veya bir aralığa atlayın.",
+    "levelLibraryEmpty": "Henüz yayınlanmış bir üretim seviyesi yok. Çerçeve taslakları aramadan, toplamadan ve gelecek site haritalarından uzak tutar.",
+    "whyEyebrow": "NEDEN BU SİTE",
+    "whyTitle": "İçerik disipliniyle desteklenen hızlı yardım",
+    "features": [
+      {
+        "title": "Önce tahtayı eşleştirin",
+        "copy": "Oyun sürümleri değiştiğinde yalnızca seviye numarası yeterli değildir."
+      },
+      {
+        "title": "Açılış hamlelerini görün",
+        "copy": "Tam çözümü izlemeden önce kısa ve uygulanabilir notları kullanın."
+      },
+      {
+        "title": "O ana atlayın",
+        "copy": "Gelişmiş rehberler video bölümlerini mekanikler ve hatalarla bağlar."
+      },
+      {
+        "title": "Mobil için üretildi",
+        "copy": "Dikey medya ve 40px dokunma hedefleri gerçek oynama bağlamına uygun."
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "MEKANİK KÜTÜPHANESİ",
+      "boosters": "YARDIMCI KÜTÜPHANESİ",
+      "guides": "OYNANAŞ KÜTÜPHANESİ",
+      "updates": "SÜRÜM KÜTÜPHANESİ"
+    },
+    "categoryEmpty": "Henüz yayınlanmış bir {label} makalesi yok.",
+    "categoryLive": "{count} doğrulanmış {label} makalesi yayında.",
+    "viewAll": "Tüm {label} makalelerini gör",
+    "readVerified": "Doğrulanmış makaleyi oku →",
+    "emptyTitle": "Kütüphane, eksiksiz bir rehber her kapıyı geçtiğinde açılır",
+    "emptyCopy": "İçerik aracıları eksiksiz rehberleri doğrudan yayınlar. Eksik araştırma asla eksiksiz bir açık makaleye veya gizli bir içerik birikimine dönüşmez.",
+    "faqEyebrow": "SSS VE EDİTÖRYAL STANDART",
+    "faqTitle": "Rehber kütüphanesi nasıl çalışır",
+    "faqs": [
+      {
+        "q": "Neden önce tahtayı eşleştirmemi istiyorsunuz?",
+        "a": "Bir seviye numarası, sürümlere veya platformlara göre farklı düzenlere eşlenebilir."
+      },
+      {
+        "q": "Neden doldurma seviyesi sayfaları yok?",
+        "a": "Yalnızca doğrulanmış, faydalı rehberler yayınlanır ve keşfe dahil edilir."
+      },
+      {
+        "q": "Bir çözüm nasıl doğrulanır?",
+        "a": "İçerik hattı, aynı üretim görevinde tahta, sürüm, platform, kaynak ve doğrulama tarihini gerektirir."
+      }
+    ],
+    "roadmapEyebrow": "KALİTE ÖLÇEKTEN ÖNCE",
+    "roadmapTitle": "Her açık rehber yayınlanmayı hak etmeli",
+    "roadmapCopy": "Tahta, sürüm ve kaynak kontrolleri taslak araştırmayı aranabilir kütüphanenin dışında tutar.",
+    "readEditorial": "Editoryal kapsamı oku"
+  },
+  "levels": {
+    "eyebrow": "SEVİYE KÜTÜPHANESİ",
+    "title": "Tüm Block Out seviyeleri",
+    "subtitle": "Seviye numarasıyla arayın, ardından bir çözümü izlemeden önce tahta varyantını doğrulayın.",
+    "searchPlaceholder": "Seviye numarası veya zorluk derecesine göre arayın",
+    "allPublished": "Tüm {count} yayınlanmış seviye",
+    "noLevels": "Henüz yayınlanmış bir üretim seviyesi yok.",
+    "quickJump": "Hızlı atla",
+    "searchLabel": "Doğrulanmış seviyeleri ara",
+    "resultCount": "{count} doğrulanmış rehber"
+  },
+  "levelDetail": {
+    "title": "Block Out! Seviye {level} Çözümü",
+    "seoTitle": "Block Out! Seviye {level} Anlatımı ve Video Çözümü",
+    "seoDescription": "Block Out! Seviye {level} anlatımını izleyin, tahta varyantlarını karşılaştırın ve bir sonraki veya önceki seviyeye atlayın.",
+    "difficulty": "Zorluk",
+    "booster": "Yardımcı",
+    "variant": "Tahta varyantı",
+    "previous": "Önceki seviye",
+    "next": "Sonraki seviye",
+    "video": "Video anlatım",
+    "boardDifferent": "Tahtam farklı",
+    "quickTips": "Hızlı ipuçları",
+    "solutionSteps": "Adım adım çözüm",
+    "failurePoints": "Yaygın hata noktaları",
+    "faq": "SSS",
+    "sources": "Kaynaklar",
+    "confirmLandmarks": "Bu tahta işaretlerini doğrulayın",
+    "compareSource": "Kaynakla karşılaştır",
+    "openFullLibrary": "Tam seviye kütüphanesini aç",
+    "quickFacts": "Hızlı bilgiler",
+    "platform": "Platform",
+    "gameVersion": "Oyun sürümü",
+    "chapters": "Video bölümleri",
+    "notAvailable": "Bu dilde henüz mevcut değil"
+  },
+  "difficulty": {
+    "easy": "Kolay",
+    "hard": "Zor",
+    "expert": "Uzman",
+    "super-hard": "Çok Zor",
+    "all": "Tümü",
+    "medium": "Orta",
+    "label": "Zorluk"
+  },
+  "boosterStatus": {
+    "none": "Yardımcı yok",
+    "optional": "İsteğe bağlı",
+    "used": "Kullanıldı",
+    "unknown": "Bilinmiyor"
+  },
+  "search": {
+    "title": "Ara",
+    "eyebrow": "BİR SEVİYE BUL",
+    "placeholder": "Seviyeleri, engelleri veya rehberleri arayın",
+    "noResults": "Sonuç bulunamadı.",
+    "resultsFor": "\"{query}\" için sonuçlar",
+    "allLevels": "Tüm seviyeleri ara",
+    "browseNumbers": "Numaralara göz at",
+    "emptyTitle": "Bir seviye numarası veya konu girin",
+    "emptyCopy": "Yalnızca doğrulanmış, yayınlanmış içerik aranabilir.",
+    "noMatchTitle": "“{query}” için yayınlanmış eşleşme yok",
+    "noMatchCopy": "Başka bir başlık, seviye numarası, engel, güçlendirici veya güncelleme anahtar kelimesi deneyin.",
+    "resultCount": "{count} sonuç",
+    "label": "Yayınlanmış içeriği ara",
+    "inputPlaceholder": "Seviye numarası, engel, güçlendirici veya soru"
+  },
+  "boardMatcher": {
+    "title": "Tahta Eşleştirici",
+    "eyebrow": "TAHTANIZI BULUN",
+    "upload": "Tahtanızın ekran görüntüsünü yükleyin",
+    "privacy": "Ekran görüntünüz bu cihazda kalır ve asla yüklenmez.",
+    "match": "Tahtamı bul",
+    "noResult": "Eşleşen tahta bulunamadı.",
+    "similarity": "Benzerlik",
+    "chooseCorrect": "Doğru tahtayı seçin",
+    "submitVariant": "Yeni bir varyant gönder"
+  },
+  "hardLevels": {
+    "eyebrow": "ZOR SEVİYELER",
+    "title": "Zor ve uzman seviyeleri",
+    "subtitle": "Zor, uzman veya çok zor olarak derecelendirilen seviyeler, doğrulanmış video çözümleriyle birlikte."
+  },
+  "about": {
+    "eyebrow": "EDİTÖRYAL KAPSAM",
+    "title": "Hakkında",
+    "body": "Block Out! Guides, StratLore tarafından yürütülen resmi olmayan bir hayran projesidir. Tahta farkında, doğrulanmış seviye çözümleri yayınlarız ve kütüphaneyi asla boş sayfalarla doldurmayız."
+  },
+  "legal": {
+    "eyebrow": "BİLGİ",
+    "title": "Yasal ve gizlilik",
+    "body": "Bu, resmi olmayan bir hayran rehberidir. Oyun adları, görseller ve video içerikleri sahiplerine aittir. Açık yaratıcı videolarına bağlantı veririz ve telif haklı medyayı yeniden barındırmayız."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "copy": "Aradığınız sayfa mevcut değil veya taşınmış.",
+    "home": "Ana sayfaya dön",
+    "levels": "Seviyeleri göz at"
+  },
+  "missingTranslation": {
+    "title": "Bu rehber henüz {language} dilinde mevcut değil.",
+    "viewEnglish": "İngilizce rehberi görüntüle",
+    "browseLocal": "{language} {section} bölümüne göz at"
+  },
+  "common": {
+    "home": "Ana sayfa",
+    "levels": "Seviyeler",
+    "loading": "Yükleniyor…",
+    "previous": "Önceki",
+    "next": "Sonraki"
+  }
+}

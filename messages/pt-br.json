@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "Início",
+    "levels": "Fases",
+    "hardLevels": "Fases difíceis",
+    "obstacles": "Obstáculos",
+    "boosters": "Boosters",
+    "guides": "Guias",
+    "updates": "Atualizações",
+    "search": "Buscar",
+    "boardMatcher": "Localizador de tabuleiro",
+    "about": "Sobre",
+    "legal": "Jurídico e privacidade",
+    "language": "Idioma",
+    "skipToContent": "Pular para o conteúdo",
+    "openNav": "Abrir navegação",
+    "closeNav": "Fechar navegação"
+  },
+  "brand": {
+    "name": "BLOCK OUT GUIAS",
+    "tagline": "Ajuda focada no tabuleiro e no celular para quem quer a solução certa rápido.",
+    "footerNote": "Guia de fãs não oficial operado por StratLore. Não afiliado à Grand Games."
+  },
+  "footer": {
+    "explore": "Explorar",
+    "information": "Informações"
+  },
+  "home": {
+    "eyebrow": "MOTOR DE GUIAS DE FASES STRATLORE",
+    "title": "Preso em uma fase? Comece pelo tabuleiro certo.",
+    "lede": "Encontre a variante compatível e tenha o vídeo, os primeiros movimentos e as observações sobre obstáculos sem ler um artigo longo.",
+    "searchPlaceholder": "Busque qualquer fase ou pule para um número",
+    "chips": [
+      "Variantes de tabuleiro",
+      "Vídeo vertical",
+      "Ciente da versão",
+      "Sem páginas vazias"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 s",
+        "label": "tempo alvo até a solução certa"
+      },
+      {
+        "value": "3 níveis",
+        "label": "do vídeo ao guia completo, por valor"
+      },
+      {
+        "value": "1 fonte",
+        "label": "JSON validado alimenta todos os consumidores"
+      },
+      {
+        "value": "390 px",
+        "label": "largura principal de aprovação no celular"
+      }
+    ],
+    "levelLibraryEyebrow": "BIBLIOTECA DE FASES",
+    "levelLibraryTitle": "Cada guia de fase verificado",
+    "levelLibraryCopy": "{count} fases verificadas estão no ar. Busque, filtre por dificuldade ou pule para um intervalo.",
+    "levelLibraryEmpty": "Nenhuma fase de produção foi publicada ainda. O framework mantém rascunhos fora da busca, agregação e sitemaps futuros.",
+    "whyEyebrow": "POR QUE ESTE SITE",
+    "whyTitle": "Ajuda rápida, com disciplina de conteúdo",
+    "features": [
+      {
+        "title": "Combine o tabuleiro primeiro",
+        "copy": "Um número de fase sozinho não basta quando as versões do jogo mudam."
+      },
+      {
+        "title": "Veja os primeiros movimentos",
+        "copy": "Use anotações curtas e práticas antes de assistir à solução completa."
+      },
+      {
+        "title": "Pule para o momento",
+        "copy": "Guias avançados ligam capítulos do vídeo a mecânicas e erros."
+      },
+      {
+        "title": "Feito para o celular",
+        "copy": "Mídia vertical e alvos de toque de 40px cabem no contexto real de jogo."
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "BIBLIOTECA DE MECÂNICAS",
+      "boosters": "BIBLIOTECA DE AUXÍLIOS",
+      "guides": "BIBLIOTECA DE ROTEIROS",
+      "updates": "BIBLIOTECA DE VERSÕES"
+    },
+    "categoryEmpty": "Nenhum artigo de {label} foi publicado ainda.",
+    "categoryLive": "{count} artigo(s) de {label} verificado(s) no ar.",
+    "viewAll": "Ver todos os {label}",
+    "readVerified": "Ler artigo verificado →",
+    "emptyTitle": "A biblioteca abre quando um guia completo passa em todos os portões",
+    "emptyCopy": "Os agentes de conteúdo publicam guias completos diretamente. Pesquisas incompletas nunca se tornam um artigo público completo ou um acúmulo oculto de conteúdo.",
+    "faqEyebrow": "PERGUNTAS FREQUENTES E PADRÃO EDITORIAL",
+    "faqTitle": "Como funciona a biblioteca de guias",
+    "faqs": [
+      {
+        "q": "Por que pedem para eu combinar o tabuleiro?",
+        "a": "Um número de fase pode mapear layouts diferentes entre versões ou plataformas."
+      },
+      {
+        "q": "Por que não há páginas de fase de enchimento?",
+        "a": "Apenas guias verificados e úteis são publicados e incluídos na descoberta."
+      },
+      {
+        "q": "Como uma solução é verificada?",
+        "a": "O pipeline de conteúdo exige tabuleiro, versão, plataforma, fonte e data de verificação na mesma tarefa de geração."
+      }
+    ],
+    "roadmapEyebrow": "QUALIDADE ANTES DA ESCALA",
+    "roadmapTitle": "Cada guia público precisa conquistar a publicação",
+    "roadmapCopy": "Verificações de tabuleiro, versão e fonte mantêm pesquisas de rascunho fora da biblioteca pesquisável.",
+    "readEditorial": "Leia o escopo editorial"
+  },
+  "levels": {
+    "eyebrow": "BIBLIOTECA DE FASES",
+    "title": "Todas as fases do Block Out",
+    "subtitle": "Busque pelo número da fase e confirme a variante do tabuleiro antes de seguir a solução.",
+    "searchPlaceholder": "Busque pelo número da fase ou dificuldade",
+    "allPublished": "Todas as {count} fases publicadas",
+    "noLevels": "Nenhuma fase de produção foi publicada ainda.",
+    "quickJump": "Pular para",
+    "searchLabel": "Buscar níveis verificados",
+    "resultCount": "{count} guias verificados"
+  },
+  "levelDetail": {
+    "title": "Solução da Fase {level} do Block Out!",
+    "seoTitle": "Gameplay e solução da Fase {level} do Block Out!",
+    "seoDescription": "Assista ao gameplay da Fase {level} do Block Out!, compare variantes de tabuleiro e pule para a fase anterior ou seguinte.",
+    "difficulty": "Dificuldade",
+    "booster": "Booster",
+    "variant": "Variante de tabuleiro",
+    "previous": "Fase anterior",
+    "next": "Próxima fase",
+    "video": "Gameplay em vídeo",
+    "boardDifferent": "Meu tabuleiro é diferente",
+    "quickTips": "Dicas rápidas",
+    "solutionSteps": "Solução passo a passo",
+    "failurePoints": "Pontos de falha comuns",
+    "faq": "Perguntas frequentes",
+    "sources": "Fontes",
+    "confirmLandmarks": "Confirme estes pontos do tabuleiro",
+    "compareSource": "Comparar com a fonte",
+    "openFullLibrary": "Abrir a biblioteca completa de fases",
+    "quickFacts": "Resumo rápido",
+    "platform": "Plataforma",
+    "gameVersion": "Versão do jogo",
+    "chapters": "Capítulos do vídeo",
+    "notAvailable": "Ainda não disponível neste idioma"
+  },
+  "difficulty": {
+    "easy": "Fácil",
+    "hard": "Difícil",
+    "expert": "Especialista",
+    "super-hard": "Super difícil",
+    "all": "Todos",
+    "medium": "Médio",
+    "label": "Dificuldade"
+  },
+  "boosterStatus": {
+    "none": "Sem booster",
+    "optional": "Opcional",
+    "used": "Usado",
+    "unknown": "Desconhecido"
+  },
+  "search": {
+    "title": "Buscar",
+    "eyebrow": "ENCONTRE UMA FASE",
+    "placeholder": "Busque fases, obstáculos ou guias",
+    "noResults": "Nenhum resultado encontrado.",
+    "resultsFor": "Resultados para “{query}”",
+    "allLevels": "Buscar todos os níveis",
+    "browseNumbers": "Ver números",
+    "emptyTitle": "Digite um número de nível ou tópico",
+    "emptyCopy": "Apenas conteúdo verificado e publicado é pesquisável.",
+    "noMatchTitle": "Nenhuma correspondência publicada para \"{query}\"",
+    "noMatchCopy": "Tente outro título, número de nível, obstáculo, booster ou palavra-chave de atualização.",
+    "resultCount": "{count} resultados",
+    "label": "Pesquisar conteúdo publicado",
+    "inputPlaceholder": "Número do nível, obstáculo, booster ou pergunta"
+  },
+  "boardMatcher": {
+    "title": "Localizador de tabuleiro",
+    "eyebrow": "ENCONTRE SEU TABULEIRO",
+    "upload": "Envie uma captura do seu tabuleiro",
+    "privacy": "Sua captura fica neste dispositivo e nunca é enviada.",
+    "match": "Encontrar meu tabuleiro",
+    "noResult": "Nenhum tabuleiro compatível encontrado.",
+    "similarity": "Semelhança",
+    "chooseCorrect": "Escolha o tabuleiro correto",
+    "submitVariant": "Enviar uma nova variante"
+  },
+  "hardLevels": {
+    "eyebrow": "FASES DIFÍCEIS",
+    "title": "Fases difíceis e especialistas",
+    "subtitle": "Fases classificadas como difícil, especialista ou super difícil, com soluções em vídeo verificadas."
+  },
+  "about": {
+    "eyebrow": "ESCOPO EDITORIAL",
+    "title": "Sobre",
+    "body": "Os Guias do Block Out! são um projeto de fãs não oficial da StratLore. Publicamos soluções de fase verificadas e baseadas no tabuleiro, e nunca enchemos a biblioteca com páginas vazias."
+  },
+  "legal": {
+    "eyebrow": "INFORMAÇÕES",
+    "title": "Jurídico e privacidade",
+    "body": "Este é um guia de fãs não oficial. Nomes de jogos, artes e conteúdo de vídeo pertencem aos seus respectivos donos. Linkamos vídeos públicos de criadores e não rehosteamos mídia protegida."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "copy": "A página que você procura não existe ou foi movida.",
+    "home": "Voltar ao início",
+    "levels": "Explorar fases"
+  },
+  "missingTranslation": {
+    "title": "Este guia ainda não está disponível em {language}.",
+    "viewEnglish": "Ver guia em inglês",
+    "browseLocal": "Explorar {section} em {language}"
+  },
+  "common": {
+    "home": "Início",
+    "levels": "Fases",
+    "loading": "Carregando…",
+    "previous": "Anterior",
+    "next": "Próximo"
+  }
+}

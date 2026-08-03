@@ -3,6 +3,9 @@
 
 import Link from "next/link";
 import { useMemo } from "react";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { withLocale } from "@/lib/i18n/locale-path";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
 type LevelJumpDropdownProps = {
   levels: readonly LevelJumpItem[];
   onClose: () => void;
@@ -23,6 +26,8 @@ const GROUP_SIZE = 30;
  * 点击外部或 Escape 的关闭逻辑由父组件统一处理，避免两套监听冲突。
  */
 export function LevelJumpDropdown({ levels, onClose, showHeader = true }: LevelJumpDropdownProps) {
+  const locale = useLocale();
+  const t = getMessages(locale);
   const groups = useMemo(() => {
     const sorted = [...levels].sort((a, b) => a.levelNumber - b.levelNumber);
     const result: { label: string; items: LevelJumpItem[] }[] = [];
@@ -39,12 +44,12 @@ export function LevelJumpDropdown({ levels, onClose, showHeader = true }: LevelJ
     <div className="level-jump-menu" role="listbox" aria-label="All level numbers">
       {showHeader ? (
         <div className="level-jump-menu__head">
-          <span>All {levels.length} published levels</span>
+          <span>{interpolate(t.levels.allPublished, { count: levels.length })}</span>
           <button
             type="button"
             className="level-jump-menu__close"
             onClick={onClose}
-            aria-label="Close level list"
+            aria-label={t.nav.closeNav}
           >
             ×
           </button>
@@ -58,7 +63,7 @@ export function LevelJumpDropdown({ levels, onClose, showHeader = true }: LevelJ
               {group.items.map((level) => (
                 <Link
                   key={`${group.label}-${level.id ?? level.levelNumber}`}
-                  href={`/en/levels/${level.levelNumber}/`}
+                  href={withLocale(locale, `/levels/${level.levelNumber}/`)}
                   className="level-jump-menu__item"
                   onClick={onClose}
                 >

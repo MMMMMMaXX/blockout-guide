@@ -11,15 +11,8 @@ import {
 } from "@/lib/levels/filter-levels";
 import { LevelCard } from "./level-card";
 import { LevelJumpDropdown } from "./level-jump-dropdown";
-
-const difficultyOptions: readonly [DifficultyFilter, string][] = [
-  ["all", "All"],
-  ["easy", "Easy"],
-  ["medium", "Medium"],
-  ["hard", "Hard"],
-  ["expert", "Expert"],
-  ["super-hard", "Super hard"],
-];
+import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
 
 const RANGE_SIZE = 30;
 
@@ -46,12 +39,23 @@ export function LevelsExplorer({
   emptyTitle = "The library is waiting for verified content",
   emptyCopy = "Drafts stay out of discovery until board, version and solution checks pass.",
 }: LevelsExplorerProps) {
+  const locale = useLocale();
+  const t = getMessages(locale);
   const [query, setQuery] = useState("");
   const [difficulty, setDifficulty] = useState<DifficultyFilter>("all");
   const [range, setRange] = useState<LevelRange | null>(null);
   const [page, setPage] = useState(1);
   const [isJumpMenuOpen, setJumpMenuOpen] = useState(false);
   const searchFieldRef = useRef<HTMLDivElement | null>(null);
+
+  const difficultyOptions: readonly [DifficultyFilter, string][] = [
+    ["all", t.difficulty.all],
+    ["easy", t.difficulty.easy],
+    ["medium", t.difficulty.medium],
+    ["hard", t.difficulty.hard],
+    ["expert", t.difficulty.expert],
+    ["super-hard", t.difficulty["super-hard"]],
+  ];
 
   /**
    * 关闭点击外部事件：仅在关卡下拉打开时挂载监听，避免全局点击噪声。
@@ -118,11 +122,11 @@ export function LevelsExplorer({
       <div className="level-filters">
         <div className="level-filters__search" ref={searchFieldRef}>
           <label>
-            <span>Search verified levels</span>
+            <span>{t.levels.searchLabel}</span>
             <input
               type="search"
               value={query}
-              placeholder="Level number or keyword"
+              placeholder={t.levels.searchPlaceholder}
               onFocus={() => setJumpMenuOpen(true)}
               onChange={(event) => {
                 setQuery(event.target.value);
@@ -136,7 +140,7 @@ export function LevelsExplorer({
           ) : null}
         </div>
         <fieldset>
-          <legend>Difficulty</legend>
+          <legend>{t.difficulty.label}</legend>
           <div className="filter-buttons">
             {difficultyOptions.map(([value, label]) => (
               <button
@@ -153,10 +157,10 @@ export function LevelsExplorer({
       </div>
 
       <div className="quick-range-selector">
-        <span>Quick jump</span>
+        <span>{t.levels.quickJump}</span>
         <div className="range-pills">
           <button type="button" aria-pressed={range === null} onClick={() => selectRange(null)}>
-            All
+            {t.difficulty.all}
           </button>
           {ranges.map((item) => (
             <button
@@ -172,7 +176,7 @@ export function LevelsExplorer({
       </div>
 
       <p className="result-count" aria-live="polite">
-        {filtered.length} verified {filtered.length === 1 ? "guide" : "guides"}
+        {interpolate(t.levels.resultCount, { count: filtered.length })}
       </p>
 
       {levels.length === 0 ? (
@@ -195,7 +199,7 @@ export function LevelsExplorer({
                 <h2 id={group.label.replace(/\s/g, "-")}>{group.label}</h2>
                 <div className="level-grid">
                   {group.levels.map((level) => (
-                    <LevelCard key={level.id} level={level} />
+                    <LevelCard key={level.id} level={level} locale={locale} />
                   ))}
                 </div>
               </section>
@@ -208,17 +212,17 @@ export function LevelsExplorer({
                 disabled={pagination.page === 1}
                 onClick={() => setPage((current) => current - 1)}
               >
-                Previous
+                {t.common.previous}
               </button>
               <span>
-                Page {pagination.page} of {pagination.pageCount}
+                {pagination.page} / {pagination.pageCount}
               </span>
               <button
                 type="button"
                 disabled={pagination.page === pagination.pageCount}
                 onClick={() => setPage((current) => current + 1)}
               >
-                Next
+                {t.common.next}
               </button>
             </nav>
           ) : null}

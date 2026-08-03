@@ -1,54 +1,79 @@
-/** 文件职责：提供英文首发站点的共享 Header、导航与 Footer。 */
-import Link from "next/link";
+/** 文件职责：提供全站共享的 Header、导航与 Footer，并按当前语言渲染本地化文案与链接。 */
 import type { ReactNode } from "react";
+import type { Locale } from "@/lib/content/types";
+import type { Messages } from "@/lib/i18n/messages";
+import { LocaleLink } from "./locale-link";
 import { SiteNavigation } from "./site-navigation";
+import { LanguageSwitcher } from "./language-switcher";
 
-/** 为所有英文页面渲染一致的品牌壳层和真实内部链接。 */
-export function SiteShell({ children }: { children: ReactNode }) {
+/** 为所有语言页面渲染一致的品牌壳层、真实内部链接与语言切换器。 */
+export function SiteShell({
+  locale,
+  messages,
+  children,
+}: {
+  locale: Locale;
+  messages: Messages;
+  children: ReactNode;
+}) {
+  const m = messages;
   return (
     <>
       <a className="skip-link" href="#main">
-        Skip to content
+        {m.nav.skipToContent}
       </a>
       <header className="site-header">
         <div className="shell header-inner">
-          <Link className="brand" href="/en/" aria-label="Block Out Guides home">
+          <LocaleLink locale={locale} to="/" className="brand" aria-label={`${m.brand.name} home`}>
             <span className="brand-mark" aria-hidden="true">
               <i />
               <i />
               <i />
             </span>
-            <span>
-              BLOCK OUT <em>GUIDES</em>
-            </span>
-          </Link>
-          <SiteNavigation />
+            <span>{m.brand.name}</span>
+          </LocaleLink>
+          <SiteNavigation locale={locale} messages={m} />
+          <LanguageSwitcher />
         </div>
       </header>
       <main id="main">{children}</main>
       <footer className="site-footer">
         <div className="shell footer-grid">
           <div>
-            <strong>Block Out! Guides</strong>
-            <p>Board-aware, mobile-first help for players who want the right solution fast.</p>
+            <strong>{m.brand.name}</strong>
+            <p>{m.brand.tagline}</p>
           </div>
           <div>
-            <strong>Explore</strong>
-            <Link href="/en/levels/">All levels</Link>
-            <Link href="/en/search/">Search</Link>
-            <Link href="/en/obstacles/">Obstacles</Link>
-            <Link href="/en/boosters/">Boosters</Link>
-            <Link href="/en/guides/">Guides</Link>
+            <strong>{m.footer.explore}</strong>
+            <LocaleLink locale={locale} to="/levels/">
+              {m.nav.levels}
+            </LocaleLink>
+            <LocaleLink locale={locale} to="/search/">
+              {m.nav.search}
+            </LocaleLink>
+            <LocaleLink locale={locale} to="/obstacles/">
+              {m.nav.obstacles}
+            </LocaleLink>
+            <LocaleLink locale={locale} to="/boosters/">
+              {m.nav.boosters}
+            </LocaleLink>
+            <LocaleLink locale={locale} to="/guides/">
+              {m.nav.guides}
+            </LocaleLink>
           </div>
           <div>
-            <strong>Information</strong>
-            <Link href="/en/updates/">Updates</Link>
-            <Link href="/en/about/">About</Link>
-            <Link href="/en/legal/">Legal & privacy</Link>
+            <strong>{m.footer.information}</strong>
+            <LocaleLink locale={locale} to="/updates/">
+              {m.nav.updates}
+            </LocaleLink>
+            <LocaleLink locale={locale} to="/about/">
+              {m.nav.about}
+            </LocaleLink>
+            <LocaleLink locale={locale} to="/legal/">
+              {m.nav.legal}
+            </LocaleLink>
           </div>
-          <p className="footer-note">
-            Unofficial fan guide operated by StratLore. Not affiliated with Grand Games.
-          </p>
+          <p className="footer-note">{m.brand.footerNote}</p>
         </div>
       </footer>
     </>

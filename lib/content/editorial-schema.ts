@@ -2,7 +2,7 @@
 import { z } from "zod";
 
 const dateSchema = z.iso.date();
-const localeSchema = z.enum(["en", "zh-cn"]);
+const localeSchema = z.enum(["en", "zh-cn", "pt-br", "ru", "de", "es", "fr", "ja", "ko", "tr"]);
 const statusSchema = z.enum(["draft", "published", "archived"]);
 const seoSchema = z
   .object({

@@ -67,7 +67,7 @@ export const levelVariantSchema = z
 const levelArticleBaseSchema = z
   .object({
     id: z.string().min(1),
-    locale: z.enum(["en", "zh-cn"]),
+    locale: z.enum(["en", "zh-cn", "pt-br", "ru", "de", "es", "fr", "ja", "ko", "tr"]),
     levelNumber: z.number().int().positive(),
     title: z.string().min(1),
     summary: z.string().min(1),

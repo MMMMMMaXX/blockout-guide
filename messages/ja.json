@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "levels": "レベル",
+    "hardLevels": "高難度レベル",
+    "obstacles": "障害物",
+    "boosters": "ブースター",
+    "guides": "ガイド",
+    "updates": "アップデート",
+    "search": "検索",
+    "boardMatcher": "ボード照合",
+    "about": "概要",
+    "legal": "法律上の注意とプライバシー",
+    "language": "言語",
+    "skipToContent": "本文へスキップ",
+    "openNav": "ナビゲーションを開く",
+    "closeNav": "ナビゲーションを閉じる"
+  },
+  "brand": {
+    "name": "BLOCK OUT GUIDES",
+    "tagline": "盤面を意識し、モバイルファースト。正しい解決策をすばやく見つけたいプレイヤー向けのサポート。",
+    "footerNote": "StratLore が運営する非公式ファンガイド。Grand Games とは無関係です。"
+  },
+  "footer": {
+    "explore": "探索",
+    "information": "情報"
+  },
+  "home": {
+    "eyebrow": "STRATLORE レベルガイドエンジン",
+    "title": "レベルで詰まっていませんか？まずは正しい盤面から。",
+    "lede": "一致するバリエーションを見つけてから、長文の記事を読み込まずに動画・初手・障害物のメモを確認できます。",
+    "searchPlaceholder": "すべてのレベルを検索、または番号へジャンプ",
+    "chips": [
+      "盤面バリエーション",
+      "縦型動画",
+      "バージョン対応",
+      "空ページなし"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 秒",
+        "label": "正しい解決策への目標時間"
+      },
+      {
+        "value": "3 段階",
+        "label": "価値に応じた動画から完全ガイドまで"
+      },
+      {
+        "value": "1 ソース",
+        "label": "検証済み JSON がすべての出力を駆動"
+      },
+      {
+        "value": "390 px",
+        "label": "モバイルの主要な着弾幅"
+      }
+    ],
+    "levelLibraryEyebrow": "レベルライブラリ",
+    "levelLibraryTitle": "検証済みのすべてのレベルガイド",
+    "levelLibraryCopy": "{count} 件の検証済みレベルが公開されています。検索、難易度での絞り込み、または範囲へのジャンプが可能です。",
+    "levelLibraryEmpty": "本番レベルはまだ公開されていません。フレームワークはドラフトを検索・集計・将来のサイトマップから除外します。",
+    "whyEyebrow": "このサイトの特長",
+    "whyTitle": "コンテンツの規律に支えられた、素早いサポート",
+    "features": [
+      {
+        "title": "まずは盤面を照合",
+        "copy": "ゲームのバージョンが変わると、レベル番号だけでは不十分です。"
+      },
+      {
+        "title": "初手を確認",
+        "copy": "完全な解法を見る前に、短く実践的なメモを活用できます。"
+      },
+      {
+        "title": "その瞬間へジャンプ",
+        "copy": "拡張ガイドは動画のチャプターと仕組み・ミスをつなぎます。"
+      },
+      {
+        "title": "モバイル向けに構築",
+        "copy": "縦型メディアと 40px のタッチターゲットが実際のプレイ環境に適合します。"
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "メカニックライブラリ",
+      "boosters": "ヘルパーライブラリ",
+      "guides": "プレイブックライブラリ",
+      "updates": "バージョンライブラリ"
+    },
+    "categoryEmpty": "{label} の記事はまだ公開されていません。",
+    "categoryLive": "検証済みの {label} 記事が {count} 件公開されています。",
+    "viewAll": "{label} をすべて表示",
+    "readVerified": "検証済み記事を読む →",
+    "emptyTitle": "完全なガイドがすべての関門を通過したとき、ライブラリが開きます",
+    "emptyCopy": "コンテンツエージェントは完全なガイドを直接公開します。不完全な調査が公開済みの記事や隠れた未整理コンテンツになることはありません。",
+    "faqEyebrow": "FAQ と編集基準",
+    "faqTitle": "ガイドライブラリの仕組み",
+    "faqs": [
+      {
+        "q": "なぜ盤面の照合を求めるのですか？",
+        "a": "レベル番号はバージョンやプラットフォームによって異なるレイアウトに対応する場合があります。"
+      },
+      {
+        "q": "なぜ中身のないレベルページがないのですか？",
+        "a": "検証され有用なガイドだけが公開され、検索対象に含まれます。"
+      },
+      {
+        "q": "解法はどのように検証されますか？",
+        "a": "コンテンツ・パイプラインでは、盤面・バージョン・プラットフォーム・出典・検証日を同じ生成タスク内に揃えることが求められます。"
+      }
+    ],
+    "roadmapEyebrow": "規模よりも品質を",
+    "roadmapTitle": "すべての公開ガイドは公開に値するものでなければなりません",
+    "roadmapCopy": "盤面・バージョン・出典のチェックにより、下書きの調査が検索可能なライブラリに紛れ込むことを防ぎます。",
+    "readEditorial": "編集方針を読む"
+  },
+  "levels": {
+    "eyebrow": "レベルライブラリ",
+    "title": "すべての Block Out レベル",
+    "subtitle": "レベル番号で検索し、解法を追う前に盤面バリエーションを確認してください。",
+    "searchPlaceholder": "レベル番号または難易度で検索",
+    "allPublished": "公開済みレベル {count} 件すべて",
+    "noLevels": "本番レベルはまだ公開されていません。",
+    "quickJump": "クイックジャンプ",
+    "searchLabel": "検証済みレベルを検索",
+    "resultCount": "{count} 件の検証済みガイド"
+  },
+  "levelDetail": {
+    "title": "Block Out! レベル {level} の解法",
+    "seoTitle": "Block Out! レベル {level} の攻略動画と解説",
+    "seoDescription": "Block Out! レベル {level} の攻略動画を見て、盤面バリエーションを比較し、前後のレベルへジャンプできます。",
+    "difficulty": "難易度",
+    "booster": "ブースター",
+    "variant": "盤面バリエーション",
+    "previous": "前のレベル",
+    "next": "次のレベル",
+    "video": "攻略動画",
+    "boardDifferent": "私の盤面と異なる",
+    "quickTips": "クイックヒント",
+    "solutionSteps": "ステップバイステップの解法",
+    "failurePoints": "よくある失敗ポイント",
+    "faq": "FAQ",
+    "sources": "出典",
+    "confirmLandmarks": "これらの盤面の特徴を確認",
+    "compareSource": "出典と比較",
+    "openFullLibrary": "完全なレベルライブラリを開く",
+    "quickFacts": "クイックファクト",
+    "platform": "プラットフォーム",
+    "gameVersion": "ゲームバージョン",
+    "chapters": "動画のチャプター",
+    "notAvailable": "この言語ではまだ利用できません"
+  },
+  "difficulty": {
+    "easy": "簡単",
+    "hard": "難しい",
+    "expert": "エキスパート",
+    "super-hard": "超難しい",
+    "all": "すべて",
+    "medium": "中程度",
+    "label": "難易度"
+  },
+  "boosterStatus": {
+    "none": "ブースターなし",
+    "optional": "任意",
+    "used": "使用済み",
+    "unknown": "不明"
+  },
+  "search": {
+    "title": "検索",
+    "eyebrow": "レベルを探す",
+    "placeholder": "レベル・障害物・ガイドを検索",
+    "noResults": "結果が見つかりませんでした。",
+    "resultsFor": "「{query}」の検索結果",
+    "allLevels": "すべてのレベルを検索",
+    "browseNumbers": "番号を参照",
+    "emptyTitle": "レベル番号またはトピックを入力",
+    "emptyCopy": "検索できるのは検証済みで公開されたコンテンツのみです。",
+    "noMatchTitle": "「{query}」に一致する公開コンテンツはありません",
+    "noMatchCopy": "別のタイトル、レベル番号、障害、ブースター、または更新キーワードをお試しください。",
+    "resultCount": "{count} 件の結果",
+    "label": "公開済みコンテンツを検索",
+    "inputPlaceholder": "レベル番号、障害、ブースター、または質問"
+  },
+  "boardMatcher": {
+    "title": "ボード照合",
+    "eyebrow": "あなたの盤面を見つける",
+    "upload": "盤面のスクリーンショットをアップロード",
+    "privacy": "スクリーンショットはこの端末に留まり、アップロードされることはありません。",
+    "match": "私の盤面を見つける",
+    "noResult": "一致する盤面が見つかりませんでした。",
+    "similarity": "類似度",
+    "chooseCorrect": "正しい盤面を選択",
+    "submitVariant": "新しいバリエーションを送信"
+  },
+  "hardLevels": {
+    "eyebrow": "高難度レベル",
+    "title": "高難度・エキスパートレベル",
+    "subtitle": "難易度が難しい・エキスパート・超難しいと評価されたレベル。検証済みの動画解法付き。"
+  },
+  "about": {
+    "eyebrow": "編集方針",
+    "title": "概要",
+    "body": "Block Out! Guides は StratLore による非公式のファンプロジェクトです。盤面を意識した検証済みのレベル解法を公開し、空ページでライブラリを埋めることはありません。"
+  },
+  "legal": {
+    "eyebrow": "情報",
+    "title": "法律上の注意とプライバシー",
+    "body": "本サイトは非公式のファンガイドです。ゲーム名・アート・動画コンテンツはそれぞれの権利者に帰属します。公開されているクリエイターの動画へリンクし、著作権保護されたメディアを再ホストすることはありません。"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "copy": "お探しのページは存在しないか、移動されました。",
+    "home": "ホームへ戻る",
+    "levels": "レベルを参照"
+  },
+  "missingTranslation": {
+    "title": "このガイドは {language} 版がまだ利用できません。",
+    "viewEnglish": "英語のガイドを表示",
+    "browseLocal": "{language} の {section} を参照"
+  },
+  "common": {
+    "home": "ホーム",
+    "levels": "レベル",
+    "loading": "読み込み中…",
+    "previous": "前へ",
+    "next": "次へ"
+  }
+}

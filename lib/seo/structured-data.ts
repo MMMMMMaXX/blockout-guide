@@ -1,34 +1,45 @@
 /** 文件职责：从页面已展示的发布事实构造 WebSite、面包屑、视频与 FAQ 结构化数据。 */
-import type { LevelArticle } from "@/lib/content/types";
+import type { LevelArticle, Locale } from "@/lib/content/types";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
+import { localeMeta } from "@/lib/i18n/locale-meta";
 
 const baseUrl = "https://blockout.stratlore.com";
 
-/** 首页搜索动作与实际 q 参数保持一致。 */
-export function buildWebsiteJsonLd(): Record<string, unknown> {
+/** 首页搜索动作与实际 q 参数保持一致，并按语言指向对应搜索路由。 */
+export function buildWebsiteJsonLd(locale: Locale): Record<string, unknown> {
+  const t = getMessages(locale);
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Block Out! Guides",
-    url: `${baseUrl}/en/`,
+    name: t.brand.name,
+    url: `${baseUrl}/${locale}/`,
     potentialAction: {
       "@type": "SearchAction",
-      target: `${baseUrl}/en/search/?q={search_term_string}`,
+      target: `${baseUrl}/${locale}/search/?q={search_term_string}`,
       "query-input": "required name=search_term_string",
     },
   };
 }
 
 /** 详情结构化数据只复述页面可见的标题、摘要、来源视频和两条 FAQ。 */
-export function buildLevelJsonLd(level: LevelArticle): Record<string, unknown>[] {
-  const url = `${baseUrl}/${level.locale}/levels/${level.levelNumber}/`;
+export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<string, unknown>[] {
+  const t = getMessages(locale);
+  const url = `${baseUrl}/${locale}/levels/${level.levelNumber}/`;
   const variant = level.variants[0];
+  const localized = (level as LevelArticle & { sourceLocale?: Locale }).sourceLocale === locale;
+  const videoName = localized
+    ? level.title
+    : interpolate(t.levelDetail.seoTitle, { level: level.levelNumber });
+  const videoDescription = localized
+    ? level.summary
+    : interpolate(t.levelDetail.seoDescription, { level: level.levelNumber });
   const entities: Record<string, unknown>[] = [
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Home", item: `${baseUrl}/en/` },
-        { "@type": "ListItem", position: 2, name: "Levels", item: `${baseUrl}/en/levels/` },
+        { "@type": "ListItem", position: 1, name: t.nav.home, item: `${baseUrl}/${locale}/` },
+        { "@type": "ListItem", position: 2, name: t.nav.levels, item: `${baseUrl}/${locale}/levels/` },
         { "@type": "ListItem", position: 3, name: `Level ${level.levelNumber}`, item: url },
       ],
     },
@@ -59,11 +70,12 @@ export function buildLevelJsonLd(level: LevelArticle): Record<string, unknown>[]
     entities.push({
       "@context": "https://schema.org",
       "@type": "VideoObject",
-      name: level.title,
-      description: level.summary,
+      name: videoName,
+      description: videoDescription,
       uploadDate: variant.verifiedAt,
       embedUrl: `https://www.youtube-nocookie.com/embed/${variant.video.videoId}`,
       contentUrl: variant.video.sourceUrl,
+      inLanguage: localeMeta[locale]?.hreflang ?? locale,
     });
   }
   return entities;

@@ -4,13 +4,13 @@ import { getPublicPaths } from "@/lib/routing/public-paths";
 
 const baseUrl = "https://blockout.stratlore.com";
 
-/** robots 明确隔离搜索、规划功能和开发路由。 */
+/** robots 明确隔离搜索、规划功能和开发路由；路径前缀覆盖所有语言。 */
 export function buildRobotsText(): string {
   return [
     "User-agent: *",
     "Allow: /",
-    "Disallow: /en/search/",
-    "Disallow: /en/board-matcher/",
+    "Disallow: /search/",
+    "Disallow: /board-matcher/",
     "Disallow: /__design-system/",
     `Sitemap: ${baseUrl}/sitemap.xml`,
     "",

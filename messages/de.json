@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "levels": "Level",
+    "hardLevels": "Schwere Level",
+    "obstacles": "Hindernisse",
+    "boosters": "Booster",
+    "guides": "Anleitungen",
+    "updates": "Updates",
+    "search": "Suche",
+    "boardMatcher": "Brett-Matcher",
+    "about": "Über",
+    "legal": "Rechtliches & Datenschutz",
+    "language": "Sprache",
+    "skipToContent": "Zum Inhalt springen",
+    "openNav": "Navigation öffnen",
+    "closeNav": "Navigation schließen"
+  },
+  "brand": {
+    "name": "BLOCK OUT GUIDES",
+    "tagline": "Brett-bewusste, mobile-first Hilfe für Spieler, die schnell die richtige Lösung wollen.",
+    "footerNote": "Inoffizieller Fan-Guide von StratLore. Nicht mit Grand Games verbunden."
+  },
+  "footer": {
+    "explore": "Entdecken",
+    "information": "Informationen"
+  },
+  "home": {
+    "eyebrow": "STRATLORE LEVEL-GUIDE-ENGINE",
+    "title": "Festgefahren in einem Level? Beginne mit dem richtigen Brett.",
+    "lede": "Finde eine passende Variante und erhalte das Video, die Eröffnungszüge und Hinweise zu Hindernissen – ohne einen langen Artikel zu wälzen.",
+    "searchPlaceholder": "Jedes Level suchen oder zu einer Nummer springen",
+    "chips": [
+      "Brett-Varianten",
+      "Hochformat-Video",
+      "Versionenbewusst",
+      "Keine leeren Seiten"
+    ],
+    "statusStrip": [
+      {
+        "value": "30 Sek",
+        "label": "Zielzeit bis zur richtigen Lösung"
+      },
+      {
+        "value": "3 Stufen",
+        "label": "Video bis zur vollen Anleitung, nach Nutzen"
+      },
+      {
+        "value": "1 Quelle",
+        "label": "validiertes JSON steuert jeden Verbraucher"
+      },
+      {
+        "value": "390 px",
+        "label": "primäre mobile Abnahmebreite"
+      }
+    ],
+    "levelLibraryEyebrow": "BIBLIOTHEK DER LEVEL",
+    "levelLibraryTitle": "Jede verifizierte Level-Anleitung",
+    "levelLibraryCopy": "{count} verifizierte Level sind verfügbar. Suchen, nach Schwierigkeit filtern oder zu einem Bereich springen.",
+    "levelLibraryEmpty": "Es ist noch kein Produktions-Level veröffentlicht. Der Rahmen hält Entwürfe aus Suche, Aggregation und künftigen Sitemaps fern.",
+    "whyEyebrow": "WARUM DIESE SEITE",
+    "whyTitle": "Schnelle Hilfe, gestützt durch Redaktionsdisziplin",
+    "features": [
+      {
+        "title": "Zuerst das Brett abgleichen",
+        "copy": "Eine Level-Nummer allein reicht nicht, wenn sich Spielversionen ändern."
+      },
+      {
+        "title": "Die Eröffnungszüge sehen",
+        "copy": "Nutze kurze, umsetzbare Hinweise, bevor du die volle Lösung ansiehst."
+      },
+      {
+        "title": "Zum Moment springen",
+        "copy": "Erweiterte Anleitungen verknüpfen Videokapitel mit Mechaniken und Fehlern."
+      },
+      {
+        "title": "Für Mobilgeräte gebaut",
+        "copy": "Hochformat-Medien und 40px-Touch-Ziele passen zum echten Spielkontext."
+      }
+    ],
+    "categoryEyebrows": {
+      "obstacles": "BIBLIOTHEK DER MECHANIKEN",
+      "boosters": "BIBLIOTHEK DER HELFER",
+      "guides": "BIBLIOTHEK DER SPIELSTRATEGIE",
+      "updates": "BIBLIOTHEK DER VERSIONEN"
+    },
+    "categoryEmpty": "Es ist noch kein {label}-Artikel veröffentlicht.",
+    "categoryLive": "{count} verifizierte(r) {label}-Artikel live.",
+    "viewAll": "Alle {label} ansehen",
+    "readVerified": "Verifizierten Artikel lesen →",
+    "emptyTitle": "Die Bibliothek öffnet, wenn eine vollständige Anleitung jede Hürde besteht",
+    "emptyCopy": "Content-Agenten veröffentlichen vollständige Anleitungen direkt. Unvollständige Recherche wird nie zu einem vollständigen öffentlichen Artikel oder einem versteckten Content-Rückstau.",
+    "faqEyebrow": "FAQ & REDAKTIONELLER STANDARD",
+    "faqTitle": "So funktioniert die Guide-Bibliothek",
+    "faqs": [
+      {
+        "q": "Warum soll ich das Brett abgleichen?",
+        "a": "Eine Level-Nummer kann je nach Version oder Plattform unterschiedlichen Layouts zugeordnet sein."
+      },
+      {
+        "q": "Warum gibt es keine Füller-Level-Seiten?",
+        "a": "Nur verifizierte, nützliche Anleitungen werden veröffentlicht und in die Entdeckung einbezogen."
+      },
+      {
+        "q": "Wie wird eine Lösung verifiziert?",
+        "a": "Die Content-Pipeline verlangt Brett, Version, Plattform, Quelle und Verifizierungsdatum in derselben Generierungsaufgabe."
+      }
+    ],
+    "roadmapEyebrow": "QUALITÄT VOR SKALIERUNG",
+    "roadmapTitle": "Jede öffentliche Anleitung muss sich die Veröffentlichung verdienen",
+    "roadmapCopy": "Prüfungen zu Brett, Version und Quelle halten Entwurfs-Recherche aus der durchsuchbaren Bibliothek fern.",
+    "readEditorial": "Den redaktionellen Rahmen lesen"
+  },
+  "levels": {
+    "eyebrow": "BIBLIOTHEK DER LEVEL",
+    "title": "Alle Block Out Level",
+    "subtitle": "Nach Level-Nummer suchen und die Brett-Variante bestätigen, bevor du einer Lösung folgst.",
+    "searchPlaceholder": "Nach Level-Nummer oder Schwierigkeit suchen",
+    "allPublished": "Alle {count} veröffentlichten Level",
+    "noLevels": "Es ist noch kein Produktions-Level veröffentlicht.",
+    "quickJump": "Schnellauswahl",
+    "searchLabel": "Verifizierte Level suchen",
+    "resultCount": "{count} verifizierte Anleitungen"
+  },
+  "levelDetail": {
+    "title": "Block Out! Level {level} Lösung",
+    "seoTitle": "Block Out! Level {level} Walkthrough und Video-Lösung",
+    "seoDescription": "Sieh dir den Walkthrough zu Block Out! Level {level} an, vergleiche Brett-Varianten und springe zum nächsten oder vorherigen Level.",
+    "difficulty": "Schwierigkeit",
+    "booster": "Booster",
+    "variant": "Brett-Variante",
+    "previous": "Vorheriges Level",
+    "next": "Nächstes Level",
+    "video": "Video-Walkthrough",
+    "boardDifferent": "Mein Brett ist anders",
+    "quickTips": "Schnelle Tipps",
+    "solutionSteps": "Schritt-für-Schritt-Lösung",
+    "failurePoints": "Häufige Fehlerpunkte",
+    "faq": "FAQ",
+    "sources": "Quellen",
+    "confirmLandmarks": "Diese Brett-Merkmale bestätigen",
+    "compareSource": "Mit Quelle vergleichen",
+    "openFullLibrary": "Vollständige Level-Bibliothek öffnen",
+    "quickFacts": "Kurzfacts",
+    "platform": "Plattform",
+    "gameVersion": "Spielversion",
+    "chapters": "Videokapitel",
+    "notAvailable": "In dieser Sprache noch nicht verfügbar"
+  },
+  "difficulty": {
+    "easy": "Einfach",
+    "hard": "Schwer",
+    "expert": "Experte",
+    "super-hard": "Super Schwer",
+    "all": "Alle",
+    "medium": "Mittel",
+    "label": "Schwierigkeit"
+  },
+  "boosterStatus": {
+    "none": "Kein Booster",
+    "optional": "Optional",
+    "used": "Verwendet",
+    "unknown": "Unbekannt"
+  },
+  "search": {
+    "title": "Suche",
+    "eyebrow": "LEVEL FINDEN",
+    "placeholder": "Level, Hindernisse oder Anleitungen suchen",
+    "noResults": "Keine Ergebnisse gefunden.",
+    "resultsFor": "Ergebnisse für „{query}“",
+    "allLevels": "Alle Level suchen",
+    "browseNumbers": "Nummern ansehen",
+    "emptyTitle": "Gib eine Levelnummer oder ein Thema ein",
+    "emptyCopy": "Nur verifizierte, veröffentlichte Inhalte sind durchsuchbar.",
+    "noMatchTitle": "Keine veröffentlichte Übereinstimmung für „{query}“",
+    "noMatchCopy": "Versuche einen anderen Titel, eine andere Levelnummer, ein Hindernis, einen Booster oder ein Update-Stichwort.",
+    "resultCount": "{count} Ergebnisse",
+    "label": "Veröffentlichte Inhalte suchen",
+    "inputPlaceholder": "Levelnummer, Hindernis, Booster oder Frage"
+  },
+  "boardMatcher": {
+    "title": "Brett-Matcher",
+    "eyebrow": "DEIN BRETT FINDEN",
+    "upload": "Lade einen Screenshot deines Bretts hoch",
+    "privacy": "Dein Screenshot bleibt auf diesem Gerät und wird niemals hochgeladen.",
+    "match": "Mein Brett finden",
+    "noResult": "Kein passendes Brett gefunden.",
+    "similarity": "Ähnlichkeit",
+    "chooseCorrect": "Wähle das richtige Brett",
+    "submitVariant": "Neue Variante einreichen"
+  },
+  "hardLevels": {
+    "eyebrow": "SCHWERE LEVEL",
+    "title": "Schwere und Experten-Level",
+    "subtitle": "Level mit Schwierigkeit Schwer, Experte oder Super Schwer, mit verifizierten Video-Lösungen."
+  },
+  "about": {
+    "eyebrow": "REDAKTIONELLER RAHMEN",
+    "title": "Über",
+    "body": "Block Out! Guides ist ein inoffizielles Fan-Projekt von StratLore. Wir veröffentlichen brett-bewusste, verifizierte Level-Lösungen und füllen die Bibliothek nie mit leeren Seiten."
+  },
+  "legal": {
+    "eyebrow": "INFORMATIONEN",
+    "title": "Rechtliches & Datenschutz",
+    "body": "Dies ist ein inoffizieller Fan-Guide. Spielnamen, Artwork und Videoinhalte gehören ihren jeweiligen Eigentümern. Wir verlinken auf öffentliche Creator-Videos und hosten urheberrechtlich geschützte Medien nicht neu."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "copy": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "home": "Zurück zur Startseite",
+    "levels": "Level durchsuchen"
+  },
+  "missingTranslation": {
+    "title": "Diese Anleitung ist noch nicht in {language} verfügbar.",
+    "viewEnglish": "Englische Anleitung ansehen",
+    "browseLocal": "{language} {section} durchsuchen"
+  },
+  "common": {
+    "home": "Startseite",
+    "levels": "Level",
+    "loading": "Lädt…",
+    "previous": "Zurück",
+    "next": "Weiter"
+  }
+}

@@ -4,6 +4,8 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { LevelArticle } from "@/lib/content/types";
 import { LevelJumpDropdown } from "./level-jump-dropdown";
+import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages } from "@/lib/i18n/messages";
 
 type HeroLevelSearchProps = {
   levels: readonly LevelArticle[];
@@ -17,6 +19,8 @@ type HeroLevelSearchProps = {
 export function HeroLevelSearch({ levels }: HeroLevelSearchProps) {
   const [open, setOpen] = useState(false);
   const rootRef = useRef<HTMLDivElement | null>(null);
+  const locale = useLocale();
+  const t = getMessages(locale);
 
   useEffect(() => {
     if (!open) return undefined;
@@ -44,7 +48,7 @@ export function HeroLevelSearch({ levels }: HeroLevelSearchProps) {
         <span aria-hidden="true">⌕</span>
         <input
           type="search"
-          placeholder="Search every level or jump to a number"
+          placeholder={t.home.searchPlaceholder}
           onFocus={() => setOpen(true)}
           onChange={() => setOpen(true)}
           aria-controls={open ? "hero-level-jump" : undefined}
