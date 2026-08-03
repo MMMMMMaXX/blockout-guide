@@ -6,9 +6,7 @@
   "title": "Connected blocks: linked pieces move as one",
   "summary": "Connected blocks are linked, so moving one shifts its partner and changes how you route either color.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Block Out Connected Blocks Obstacle Guide",
     "description": "See how Block Out Connected Blocks link pieces together and how to route the paired colors to a shared exit."

@@ -73,7 +73,12 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
       </button>
 
       {open ? (
-        <div className="level-search-overlay" role="dialog" aria-modal="true" aria-label="All levels">
+        <div
+          className="level-search-overlay"
+          role="dialog"
+          aria-modal="true"
+          aria-label="All levels"
+        >
           <div className="level-search-backdrop" onClick={() => setOpen(false)} />
           <div className="level-search-panel">
             <div className="level-search-field">

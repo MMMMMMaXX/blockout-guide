@@ -6,9 +6,7 @@
   "title": "Color shutter: a color-gated obstacle",
   "summary": "Color Shutter is a color-gated obstacle introduced in Version 573 that opens or blocks passages based on color conditions.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Block Out Color Shutter Obstacle Guide",
     "description": "Understand the Block Out Color Shutter obstacle and how to meet its color condition before the gated route opens."

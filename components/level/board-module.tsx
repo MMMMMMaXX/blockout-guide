@@ -19,13 +19,7 @@ type BoardModuleProps = {
  * 棋盘 + 档案组合：开局势必露出可识别的颜色与地标，因此即便有开局图也保留档案块；
  * 没有开局图与档案时回退到通用占位，避免空容器。
  */
-function BoardBody({
-  level,
-  variant,
-}: {
-  level: LevelArticle;
-  variant: LevelVariant;
-}) {
+function BoardBody({ level, variant }: { level: LevelArticle; variant: LevelVariant }) {
   const hasImage = Boolean(variant.boardImage);
   const hasProfile = Boolean(variant.boardProfile);
   if (!hasImage && !hasProfile) {
@@ -36,7 +30,9 @@ function BoardBody({
     );
   }
   return (
-    <div className={`board-card__body${hasImage && hasProfile ? " board-card__body--with-image" : ""}`}>
+    <div
+      className={`board-card__body${hasImage && hasProfile ? " board-card__body--with-image" : ""}`}
+    >
       {hasImage ? (
         <div className="board-card__media">
           <Image
@@ -49,9 +45,7 @@ function BoardBody({
           />
         </div>
       ) : null}
-      {hasProfile ? (
-        <BoardProfile profile={variant.boardProfile!} />
-      ) : null}
+      {hasProfile ? <BoardProfile profile={variant.boardProfile!} /> : null}
     </div>
   );
 }

@@ -30,18 +30,21 @@ export function FloatingLevelBar({ previousLevel, nextLevel, levels }: FloatingL
   }, []);
 
   return (
-    <div
-      className={`floating-level-bar${visible ? " is-visible" : ""}`}
-      aria-hidden={!visible}
-    >
+    <div className={`floating-level-bar${visible ? " is-visible" : ""}`} aria-hidden={!visible}>
       <div className="floating-level-bar__inner">
         {previousLevel ? (
-          <Link className="floating-level-bar__nav" href={`/en/levels/${previousLevel.levelNumber}/`}>
+          <Link
+            className="floating-level-bar__nav"
+            href={`/en/levels/${previousLevel.levelNumber}/`}
+          >
             <span aria-hidden="true">←</span>
             <span className="floating-level-bar__nav-label">{previousLevel.levelNumber}</span>
           </Link>
         ) : (
-          <span className="floating-level-bar__nav floating-level-bar__nav--disabled" aria-disabled="true">
+          <span
+            className="floating-level-bar__nav floating-level-bar__nav--disabled"
+            aria-disabled="true"
+          >
             <span aria-hidden="true">←</span>
             <span className="floating-level-bar__nav-label">Prev</span>
           </span>

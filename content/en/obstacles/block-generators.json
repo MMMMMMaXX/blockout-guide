@@ -6,9 +6,7 @@
   "title": "Block generators: the board keeps growing",
   "summary": "Generators spawn new blocks over time, so a board that looks open can fill up if you only react instead of clearing.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Block Out Block Generators Obstacle Guide",
     "description": "Learn how Block Out block generators add pieces over time and which clearing habits stop the board from filling up."
@@ -33,7 +31,5 @@
     "Do not ignore a generator just because the current board still looks comfortable."
   ],
   "relatedLevelNumbers": [],
-  "relatedObstacleIds": [
-    "moving-elevators"
-  ]
+  "relatedObstacleIds": ["moving-elevators"]
 }

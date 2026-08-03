@@ -6,9 +6,7 @@
   "title": "How to route around moving elevators",
   "summary": "Plan lane transfers instead of fighting the elevator cycle, and keep a buffer lane open for returned blocks.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Route Around Block Out Moving Elevators",
     "description": "Plan Block Out routes around moving elevators by reading the cycle, using transfers and keeping a buffer lane open."
@@ -39,11 +37,7 @@
       ]
     }
   ],
-  "obstacleIds": [
-    "moving-elevators"
-  ],
-  "boosterIds": [
-    "time-freeze"
-  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
   "relatedLevelNumbers": []
 }

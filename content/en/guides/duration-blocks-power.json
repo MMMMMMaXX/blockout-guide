@@ -6,9 +6,7 @@
   "title": "How to use Duration Block power",
   "summary": "Clear Duration Blocks at the moment their timed power helps most, and queue the supported moves right after.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Use Block Out Duration Block Power Well",
     "description": "Time Block Out Duration Block clears so the temporary power supports the hardest moves and is not wasted on easy ones."
@@ -39,11 +37,7 @@
       ]
     }
   ],
-  "obstacleIds": [
-    "duration-blocks"
-  ],
-  "boosterIds": [
-    "time-freeze"
-  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
   "relatedLevelNumbers": []
 }

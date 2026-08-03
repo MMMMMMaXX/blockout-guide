@@ -1,3 +1,4 @@
+/** 文件职责：根据关卡步骤图方向选择适配的响应式展示布局。 */
 "use client";
 
 import { useState } from "react";

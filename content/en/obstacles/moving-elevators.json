@@ -6,9 +6,7 @@
   "title": "Moving elevators: time block transfers between lanes",
   "summary": "Elevators carry blocks between lanes on a cycle, so a clear route can close the moment a piece is lifted away.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Block Out Moving Elevators Obstacle Guide",
     "description": "Understand how Block Out moving elevators move blocks between lanes and when to use the transfer in your route."
@@ -33,7 +31,5 @@
     "Do not plan the whole route around one cycle without checking the return lane."
   ],
   "relatedLevelNumbers": [],
-  "relatedObstacleIds": [
-    "block-generators"
-  ]
+  "relatedObstacleIds": ["block-generators"]
 }

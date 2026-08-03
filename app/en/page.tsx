@@ -53,10 +53,30 @@ export default function EnglishHomePage() {
     segment: "obstacles" | "boosters" | "guides" | "updates";
     items: readonly EditorialArticle[];
   }[] = [
-    { label: "Obstacles", eyebrow: "MECHANIC LIBRARY", segment: "obstacles", items: getPublishedObstacles("en") },
-    { label: "Boosters", eyebrow: "HELPER LIBRARY", segment: "boosters", items: getPublishedBoosters("en") },
-    { label: "Guides", eyebrow: "PLAYBOOK LIBRARY", segment: "guides", items: getPublishedGuides("en") },
-    { label: "Updates", eyebrow: "VERSION LIBRARY", segment: "updates", items: getPublishedUpdates("en") },
+    {
+      label: "Obstacles",
+      eyebrow: "MECHANIC LIBRARY",
+      segment: "obstacles",
+      items: getPublishedObstacles("en"),
+    },
+    {
+      label: "Boosters",
+      eyebrow: "HELPER LIBRARY",
+      segment: "boosters",
+      items: getPublishedBoosters("en"),
+    },
+    {
+      label: "Guides",
+      eyebrow: "PLAYBOOK LIBRARY",
+      segment: "guides",
+      items: getPublishedGuides("en"),
+    },
+    {
+      label: "Updates",
+      eyebrow: "VERSION LIBRARY",
+      segment: "updates",
+      items: getPublishedUpdates("en"),
+    },
   ];
 
   return (
@@ -180,8 +200,8 @@ export default function EnglishHomePage() {
               <span>Automated publication gate active</span>
               <h2>No {label.toLowerCase()} article is published yet</h2>
               <p>
-                Agents publish only complete, sourced articles; incomplete research stays outside the
-                production content set.
+                Agents publish only complete, sourced articles; incomplete research stays outside
+                the production content set.
               </p>
             </div>
           )}

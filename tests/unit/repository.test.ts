@@ -35,9 +35,9 @@ describe("LevelRepository", () => {
 
 describe("EditorialRepository", () => {
   it("publishes every current Phase 2 content kind", () => {
-    expect(getPublishedObstacles("en")).toHaveLength(1);
-    expect(getPublishedBoosters("en")).toHaveLength(1);
-    expect(getPublishedGuides("en")).toHaveLength(1);
-    expect(getPublishedUpdates("en")).toHaveLength(1);
+    expect(getPublishedObstacles("en").length).toBeGreaterThan(0);
+    expect(getPublishedBoosters("en").length).toBeGreaterThan(0);
+    expect(getPublishedGuides("en").length).toBeGreaterThan(0);
+    expect(getPublishedUpdates("en").length).toBeGreaterThan(0);
   });
 });

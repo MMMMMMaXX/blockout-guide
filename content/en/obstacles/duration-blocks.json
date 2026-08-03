@@ -6,9 +6,7 @@
   "title": "Duration blocks: clear them for a timed power",
   "summary": "Duration Blocks were introduced in Version 318; clearing them activates a special power that lasts for a limited time.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Block Out Duration Blocks Obstacle Guide",
     "description": "Learn how Block Out Duration Blocks activate a timed power when cleared and when to trigger that power for the most value."

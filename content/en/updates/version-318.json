@@ -6,9 +6,7 @@
   "title": "Block Out Version 318: Duration Blocks",
   "summary": "The March 2, 2026 update introduced Duration Blocks, whose clear activates a special power, plus new levels.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Block Out Version 318: Duration Blocks",
     "description": "Read the sourced Block Out Version 318 changes, including Duration Blocks whose clear activates a special power."
@@ -23,8 +21,6 @@
     "Bug Fixes & UX Improvements."
   ],
   "affectedLevelNumbers": [],
-  "affectedObstacleIds": [
-    "duration-blocks"
-  ],
+  "affectedObstacleIds": ["duration-blocks"],
   "impactCheckedAt": "2026-08-03"
 }

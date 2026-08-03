@@ -6,9 +6,7 @@
   "title": "How to clear Connected Blocks",
   "summary": "Treat the linked pair as one unit, find a shared exit, and avoid stranding one color in a dead lane.",
   "status": "published",
-  "sourceReferences": [
-    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
-  ],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
   "seo": {
     "title": "Clear Block Out Connected Blocks Safely",
     "description": "Route Block Out Connected Blocks by treating the pair as one unit, finding a shared exit and avoiding dead lanes."
@@ -39,11 +37,7 @@
       ]
     }
   ],
-  "obstacleIds": [
-    "connected-blocks"
-  ],
-  "boosterIds": [
-    "time-freeze"
-  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
   "relatedLevelNumbers": []
 }
