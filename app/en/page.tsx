@@ -1,9 +1,8 @@
 /** 文件职责：实现首页核心路径——输入关卡号并理解站点差异化。 */
 import type { Metadata } from "next";
 import Link from "next/link";
+import { HeroLevelSearch } from "@/components/hero-level-search";
 import { HeroVisual } from "@/components/hero-visual";
-import { LevelSearchTrigger } from "@/components/level-search-overlay";
-import type { LevelSearchItem } from "@/components/level-search-overlay";
 import { LevelsExplorer } from "@/components/levels-explorer";
 import { JsonLd } from "@/components/json-ld";
 import {
@@ -39,14 +38,6 @@ const features = [
 /** 首页只消费已发布内容；空状态说明审核进度但不回退展示草稿。 */
 export default function EnglishHomePage() {
   const allLevels = [...getPublishedLevels("en")];
-  const searchLevels: LevelSearchItem[] = [...allLevels]
-    .sort((first, second) => first.levelNumber - second.levelNumber)
-    .map((level) => ({
-      levelNumber: level.levelNumber,
-      title: level.title,
-      difficulty: level.difficulty ?? null,
-      boardImage: level.variants[0]?.boardImage ?? null,
-    }));
   const categorySections: {
     label: string;
     eyebrow: string;
@@ -90,7 +81,7 @@ export default function EnglishHomePage() {
             Find a matching variant, then get the video, opening moves and obstacle notes without
             digging through a long article.
           </p>
-          <LevelSearchTrigger levels={searchLevels} size="hero" />
+          <HeroLevelSearch levels={allLevels} />
           <div className="chip-row">
             <span>Board variants</span>
             <span>Portrait video</span>

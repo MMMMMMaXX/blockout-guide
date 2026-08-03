@@ -1,4 +1,4 @@
-/** 文件职责：在关卡页滚动过半屏后，于屏幕底部常驻悬浮条，承载上一关/搜索/下一关快速导航。 */
+/** 文件职责：在关卡页滚动约 1/4 屏后，于屏幕底部常驻悬浮条，承载上一关/搜索/下一关快速导航。 */
 "use client";
 
 import Link from "next/link";
@@ -22,7 +22,7 @@ export function FloatingLevelBar({ previousLevel, nextLevel, levels }: FloatingL
 
   useEffect(() => {
     function onScroll() {
-      setVisible(window.scrollY > window.innerHeight * 0.5);
+      setVisible(window.scrollY > window.innerHeight * 0.25);
     }
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });

@@ -865,12 +865,16 @@ a:focus-visible {
   align-items: center;
   gap: 11px;
   flex-wrap: wrap;
-  margin: 0 -16px 4px;
-  padding: 12px 16px;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-bottom: 4px;
+  padding: 12px calc(50vw - 50% + 16px);
   background: var(--bg);
   border-bottom: 1px solid var(--line);
+  box-sizing: border-box;
 }
 .quick-range-selector > span {
+  flex: 0 0 auto;
   font-size: 0.7rem;
   font-weight: 900;
   letter-spacing: 0.05em;
@@ -881,7 +885,7 @@ a:focus-visible {
 /* 关卡下拉：搜索框聚焦时弹出，包含所有已发布关卡号，按 30 关分组 */
 .level-jump-menu {
   position: absolute;
-  z-index: 30;
+  z-index: 60;
   top: calc(100% + 8px);
   left: 0;
   right: 0;
@@ -974,6 +978,7 @@ a:focus-visible {
   display: flex;
   flex-wrap: wrap;
   gap: 7px;
+  min-width: 0;
 }
 .range-pills button {
   min-height: 31px;
@@ -2413,75 +2418,204 @@ a:focus-visible {
   }
 }
 
-/* ===== 首页英雄区：真实游戏棋盘截图 + 动效 ===== */
+/* ===== 首页英雄区搜索 + 数字下拉 ===== */
+.hero-level-search {
+  position: relative;
+  margin-top: 22px;
+  z-index: 5;
+}
+.hero-level-search__field {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  min-height: 58px;
+  padding: 0 10px 0 18px;
+  border: 1px solid var(--line-strong);
+  border-radius: 14px;
+  background: white;
+  box-shadow: var(--shadow);
+  transition:
+    border-color 160ms ease,
+    box-shadow 160ms ease;
+}
+.hero-level-search__field:focus-within {
+  border-color: var(--brand);
+  box-shadow: var(--shadow-hover);
+}
+.hero-level-search__field > span:first-child {
+  flex: 0 0 auto;
+  color: var(--brand);
+  font-size: 1.25rem;
+  line-height: 1;
+}
+.hero-level-search__field input {
+  flex: 1 1 auto;
+  min-width: 0;
+  border: 0;
+  outline: none;
+  background: transparent;
+  font: inherit;
+  font-size: 0.95rem;
+  color: var(--text);
+}
+.hero-level-search__field input::placeholder {
+  color: var(--muted);
+}
+.hero-level-search__cta {
+  flex: 0 0 auto;
+  padding: 9px 15px;
+  border-radius: 10px;
+  background: var(--brand);
+  color: white;
+  font-weight: 800;
+  font-size: 0.85rem;
+  pointer-events: none;
+}
+.hero-level-search__dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  z-index: 60;
+}
+.hero-level-search__dropdown .level-jump-menu {
+  position: static;
+  z-index: auto;
+}
+
+/* ===== 首页英雄区：多张棋盘截图拼贴 + 3D 浮动动效 ===== */
 .hero-visual {
   position: relative;
-  width: min(100%, 290px);
+  width: min(100%, 520px);
+  height: min(460px, 55vh);
   margin-inline: auto;
-  aspect-ratio: 9 / 16;
+  perspective: 1000px;
+  transform-style: preserve-3d;
 }
-.hero-visual__blob {
+.hero-visual__glow {
   position: absolute;
-  z-index: 1;
   border-radius: 50%;
-  filter: blur(6px);
-  opacity: 0.6;
+  filter: blur(58px);
+  opacity: 0.35;
   pointer-events: none;
 }
-.hero-visual__blob--a {
+.hero-visual__glow--a {
+  width: 260px;
+  height: 260px;
+  top: 12%;
+  left: 6%;
+  background: #5b63f5;
+  animation: heroGlow 10s ease-in-out infinite;
+}
+.hero-visual__glow--b {
+  width: 230px;
+  height: 230px;
+  bottom: 10%;
+  right: 4%;
+  background: #f56f91;
+  animation: heroGlow 12s ease-in-out infinite reverse;
+}
+.hero-visual__glow--c {
   width: 190px;
   height: 190px;
-  top: -42px;
-  left: -54px;
-  background: radial-gradient(circle, #5b63f5, transparent 70%);
-  animation: heroBlob 9s ease-in-out infinite;
+  top: 42%;
+  left: 36%;
+  background: #4aa9ef;
+  animation: heroGlow 14s ease-in-out infinite 2s;
 }
-.hero-visual__blob--b {
-  width: 160px;
-  height: 160px;
-  right: -46px;
-  bottom: -34px;
-  background: radial-gradient(circle, #f56f91, transparent 70%);
-  animation: heroBlob 11s ease-in-out infinite reverse;
-}
-.hero-visual__ring {
+.hero-visual__float {
   position: absolute;
-  inset: -14px;
-  z-index: 0;
-  border-radius: 30px;
-  border: 1.5px dashed rgba(91, 99, 245, 0.32);
-  animation: heroSpin 26s linear infinite;
   pointer-events: none;
 }
-.hero-visual__frame {
-  position: absolute;
-  inset: 0;
-  z-index: 2;
-  border-radius: 22px;
-  overflow: hidden;
-  background: #eef1fb;
-  box-shadow: 0 28px 56px rgba(36, 44, 87, 0.26);
-  animation: heroFloat 6.5s ease-in-out infinite;
+.hero-visual__float--main {
+  left: 50%;
+  top: 50%;
+  z-index: 3;
+  animation: heroCardFloat 6s ease-in-out infinite;
 }
-.hero-visual__img {
+.hero-visual__float--back-left {
+  left: 6%;
+  top: 16%;
+  z-index: 2;
+  animation: heroCardFloat 7s ease-in-out infinite reverse;
+}
+.hero-visual__float--back-right {
+  right: 6%;
+  bottom: 10%;
+  z-index: 1;
+  animation: heroCardFloat 8s ease-in-out infinite 1s;
+}
+.hero-visual__card {
+  overflow: hidden;
+  border-radius: 22px;
+  background: #151a2f;
+  box-shadow: 0 28px 60px rgba(20, 24, 42, 0.32);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.hero-visual__card img {
   display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  filter: saturate(1.12) contrast(1.06);
 }
-.hero-visual__shine {
+.hero-visual__card--main {
+  width: 220px;
+  height: 390px;
+  transform: translate(-50%, -50%) rotateY(-8deg) rotateX(4deg);
+  box-shadow: 0 32px 80px rgba(20, 24, 42, 0.42);
+}
+.hero-visual__card--back-left {
+  width: 160px;
+  height: 284px;
+  transform: rotate(-12deg) rotateY(12deg);
+  opacity: 0.92;
+}
+.hero-visual__card--back-right {
+  width: 150px;
+  height: 266px;
+  transform: rotate(14deg) rotateY(-12deg);
+  opacity: 0.88;
+}
+.hero-visual__block {
   position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    115deg,
-    transparent 32%,
-    rgba(255, 255, 255, 0.55) 50%,
-    transparent 68%
-  );
-  transform: translateX(-120%);
-  mix-blend-mode: screen;
-  animation: heroShine 5.5s ease-in-out infinite;
+  width: 26px;
+  height: 26px;
+  border-radius: 7px;
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.16);
+  z-index: 4;
   pointer-events: none;
+}
+.hero-visual__block--red {
+  top: 18%;
+  left: 8%;
+  background: linear-gradient(135deg, #ff6b6b, #ee5a5a);
+  animation: heroBlockFloat 4.8s ease-in-out infinite;
+}
+.hero-visual__block--blue {
+  top: 14%;
+  right: 12%;
+  background: linear-gradient(135deg, #4aa9ef, #2f8bd9);
+  animation: heroBlockFloat 5.6s ease-in-out infinite 0.8s;
+}
+.hero-visual__block--green {
+  bottom: 20%;
+  left: 14%;
+  background: linear-gradient(135deg, #4cd964, #3cb054);
+  animation: heroBlockFloat 6s ease-in-out infinite 1.4s;
+}
+.hero-visual__block--yellow {
+  bottom: 16%;
+  right: 10%;
+  background: linear-gradient(135deg, #ffcc00, #f5b800);
+  animation: heroBlockFloat 5.2s ease-in-out infinite 2s;
+}
+.hero-visual__block--purple {
+  top: 46%;
+  right: 4%;
+  background: linear-gradient(135deg, #a78bfa, #8b5cf6);
+  animation: heroBlockFloat 6.4s ease-in-out infinite 0.4s;
 }
 
 /* ===== 搜索触发器 + 全关卡列表浮层 ===== */
@@ -2532,11 +2666,6 @@ a:focus-visible {
   color: white;
   font-weight: 800;
   font-size: 0.85rem;
-}
-.level-search-trigger--hero {
-  min-height: 58px;
-  margin-top: 22px;
-  padding: 0 10px 0 18px;
 }
 .level-search-trigger--bar {
   min-height: 44px;
@@ -2745,36 +2874,33 @@ a:focus-visible {
   min-width: 0;
 }
 
-@keyframes heroFloat {
+@keyframes heroGlow {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+    opacity: 0.32;
+  }
+  50% {
+    transform: translate(24px, 18px) scale(1.15);
+    opacity: 0.48;
+  }
+}
+@keyframes heroCardFloat {
   0%,
   100% {
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-12px);
+    transform: translateY(-16px);
   }
 }
-@keyframes heroBlob {
+@keyframes heroBlockFloat {
   0%,
   100% {
-    transform: translate(0, 0) scale(1);
+    transform: translateY(0) rotate(0deg);
   }
   50% {
-    transform: translate(18px, 14px) scale(1.08);
-  }
-}
-@keyframes heroShine {
-  0% {
-    transform: translateX(-120%);
-  }
-  55%,
-  100% {
-    transform: translateX(120%);
-  }
-}
-@keyframes heroSpin {
-  to {
-    transform: rotate(360deg);
+    transform: translateY(-22px) rotate(12deg);
   }
 }
 @keyframes panelPop {
@@ -2789,10 +2915,9 @@ a:focus-visible {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .hero-visual__frame,
-  .hero-visual__blob,
-  .hero-visual__ring,
-  .hero-visual__shine,
+  .hero-visual__glow,
+  .hero-visual__float,
+  .hero-visual__block,
   .level-search-panel {
     animation: none !important;
   }

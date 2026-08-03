@@ -1,7 +1,6 @@
 /** 文件职责：实现关卡库的客户端搜索、难度筛选、快速范围跳转、分组与分页交互。 */
 "use client";
 
-import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { LevelArticle } from "@/lib/content/types";
 import {
@@ -11,6 +10,7 @@ import {
   type DifficultyFilter,
 } from "@/lib/levels/filter-levels";
 import { LevelCard } from "./level-card";
+import { LevelJumpDropdown } from "./level-jump-dropdown";
 
 const difficultyOptions: readonly [DifficultyFilter, string][] = [
   ["all", "All"],
@@ -87,23 +87,6 @@ export function LevelsExplorer({
     );
   }, [minLevel, maxLevel, levels]);
 
-  /**
-   * 关卡下拉列表：按 30 关一组排列已发布关卡号，提供点击直达。
-   * 仅在搜索框聚焦时挂载，避免无谓渲染 498 个项目。
-   */
-  const jumpGroups = useMemo(() => {
-    const sorted = [...levels].sort((a, b) => a.levelNumber - b.levelNumber);
-    const groups: { label: string; items: LevelArticle[] }[] = [];
-    const groupSize = 30;
-    for (let index = 0; index < sorted.length; index += groupSize) {
-      const slice = sorted.slice(index, index + groupSize);
-      const first = slice[0].levelNumber;
-      const last = slice[slice.length - 1].levelNumber;
-      groups.push({ label: `${first}–${last}`, items: slice });
-    }
-    return groups;
-  }, [levels]);
-
   const baseFiltered = useMemo(
     () => filterLevels(levels, { query, difficulty }),
     [levels, query, difficulty],
@@ -148,40 +131,7 @@ export function LevelsExplorer({
               }}
             />
           </label>
-          {isJumpMenuOpen ? (
-            <div className="level-jump-menu" role="listbox" aria-label="All level numbers">
-              <div className="level-jump-menu__head">
-                <span>All {levels.length} published levels</span>
-                <button
-                  type="button"
-                  className="level-jump-menu__close"
-                  onClick={() => setJumpMenuOpen(false)}
-                  aria-label="Close level list"
-                >
-                  ×
-                </button>
-              </div>
-              <div className="level-jump-menu__body">
-                {jumpGroups.map((group) => (
-                  <section key={group.label} className="level-jump-menu__group">
-                    <p className="level-jump-menu__label">{group.label}</p>
-                    <div className="level-jump-menu__grid">
-                      {group.items.map((level) => (
-                        <Link
-                          key={level.id}
-                          href={`/en/levels/${level.levelNumber}/`}
-                          className="level-jump-menu__item"
-                          onClick={() => setJumpMenuOpen(false)}
-                        >
-                          {level.levelNumber}
-                        </Link>
-                      ))}
-                    </div>
-                  </section>
-                ))}
-              </div>
-            </div>
-          ) : null}
+          {isJumpMenuOpen ? <LevelJumpDropdown levels={levels} onClose={() => setJumpMenuOpen(false)} /> : null}
         </div>
         <fieldset>
           <legend>Difficulty</legend>
