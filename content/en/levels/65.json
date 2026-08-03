@@ -1,0 +1,97 @@
+{
+  "id": "en-level-65",
+  "locale": "en",
+  "levelNumber": 65,
+  "title": "Block Out Level 65 Walkthrough",
+  "summary": "Block Out Level 65 is a nested-frame puzzle with two visible frame layers — a dark outer frame and an orange inner frame — wrapping a core of colored blocks. The blocks inside cannot move until both frames open. Peel the outer frame firs...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "Block Out Level 65 is a nested-frame puzzle with two visible frame layers — a dark outer frame and an orange inner frame — wrapping a core of colored blocks. The blocks inside cannot move until both frames open. Peel the outer frame first by extracting pink and red edge pieces, then break the inner orange frame to free the green, blue, purple, and red blocks. The yellow block with counter '10' inside the inner frame is the heaviest piece and exits last.",
+        "landmarks": [
+          "Block Out Level 65 is a nested-frame puzzle with two visible frame layers — a dark outer frame and an orange inner frame — wrapping a core of colored blocks.",
+          "The blocks inside cannot move until both frames open.",
+          "Peel the outer frame first by extracting pink and red edge pieces, then break the inner orange frame to free the green, blue, purple, and red blocks.",
+          "The yellow block with counter '10' inside the inner frame is the heaviest piece and exits last."
+        ],
+        "colors": ["Purple", "Green", "Blue", "Red", "Yellow", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do not touch the inner frame until the outer frame has lost enough pieces.",
+        "The yellow '10' block needs wide lanes — keep exits clear for its long feed.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Pull the small pink/magenta blocks from the outer frame edges through nearby exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the red blocks on the left side between the outer and inner frames."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Once the outer frame thins, break the inner orange frame border to free the core blocks."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Slide the purple block from the upper-left of the inner area through the left exit."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Extract the green and blue blocks from the center through available exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the yellow '10' block through its exit repeatedly until fully cleared."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the remaining red blocks on the right side."
+        }
+      ],
+      "failurePoints": [
+        "Trying to force inner blocks through a still-sealed frame — they cannot move until both layers open.",
+        "Not leaving wide enough lanes for the yellow '10' block, which causes a slow and cramped endgame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 65 Walkthrough and Solution",
+    "description": "Solve Block Out level 65 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

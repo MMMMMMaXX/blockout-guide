@@ -1,0 +1,98 @@
+{
+  "id": "en-level-16",
+  "locale": "en",
+  "levelNumber": 16,
+  "title": "Block Out Level 16 Walkthrough",
+  "summary": "Block Out Level 16 is a staircase support puzzle. Soften the lower shelf and the right wall first, collapse the black diagonal at its base, and only then release the tall red and yellow bars from the upper-right climb.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "Block Out Level 16 is a staircase support puzzle. Soften the lower shelf and the right wall first, collapse the black diagonal at its base, and only then release the tall red and yellow bars from the upper-right climb.",
+        "landmarks": [
+          "Block Out Level 16 is a staircase support puzzle.",
+          "Soften the lower shelf and the right wall first, collapse the black diagonal at its base, and only then release the tall red and yellow bars from the upper-right climb.",
+          "The board mixes Red, Yellow, White and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Yellow", "White", "Black", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The lower shelf is the real opener.",
+        "The black staircase has to break from below.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the lower white cluster into the right countdown lane to start shrinking the `12` wall."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Rotate the short bottom red and yellow pieces so the black staircase loses its lower support."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the tall red corner bar and the inner yellow column parked while the bottom counters keep dropping."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once the black steps begin to collapse, open the shelf enough for the tall yellow column to slide downward."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the new gap to shift the tall red bar away from the corner without trapping the remaining black blocks."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the staircase cleanup first."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "End with the tall yellow and red bars after the shelf and right wall are already flat."
+        }
+      ],
+      "failurePoints": [
+        "Trying to spend one of the tall corner bars before the lower shelf is open.",
+        "Working only on the upper-right climb and ignoring the shelf counters."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 16 Walkthrough and Solution",
+    "description": "Solve Block Out level 16 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

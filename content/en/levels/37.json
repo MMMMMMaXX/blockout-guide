@@ -1,0 +1,97 @@
+{
+  "id": "en-level-37",
+  "locale": "en",
+  "levelNumber": 37,
+  "title": "Block Out Level 37 Walkthrough",
+  "summary": "Block Out Level 37 centers on a large orange-framed boss square with a `7` counter. Two small `1`-counter support blocks sit directly under the boss and must be separated first to create a drop lane. The green blocks at the bottom drain...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "Block Out Level 37 centers on a large orange-framed boss square with a `7` counter. Two small `1`-counter support blocks sit directly under the boss and must be separated first to create a drop lane. The green blocks at the bottom drain early, the side blue and pink blocks thin next, and the boss finally descends once its lower lane is clear. After the boss falls around 01:11, a second wave of pink and blue blocks remains for cleanup.",
+        "landmarks": [
+          "Block Out Level 37 centers on a large orange-framed boss square with a `7` counter.",
+          "Two small `1`-counter support blocks sit directly under the boss and must be separated first to create a drop lane.",
+          "The green blocks at the bottom drain early, the side blue and pink blocks thin next, and the boss finally descends once its lower lane is clear.",
+          "After the boss falls around 01:11, a second wave of pink and blue blocks remains for cleanup."
+        ],
+        "colors": ["Yellow", "Blue", "Pink", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The two `1`-counter blocks below the boss look small, but they are the gate — until they are gone, the boss has no downward lane.",
+        "Green blocks at the bottom are early exits. Clear them first to create lower space.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the yellow bar on the left to open the left side lane."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the green blocks at the bottom through the blue exit arrow to create space below the boss."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Remove the two `1`-counter blocks sitting directly under the boss square."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Shift the blue blocks on the right side to give the boss horizontal room."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "As the boss counter drops toward `5`, continue thinning the pink and blue blocks on both sides."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Let the boss square drop through the cleared lower lane once the counter is low enough (visible at 01:11)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish the remaining pink and blue cleanup blocks after the boss is gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to lower the boss square while the two `1`-counter support blocks are still in place — the boss needs a clear vertical lane to drop.",
+        "Clearing side blocks before the bottom green exit is open, which leaves the lower area packed and gives the boss nowhere to fall."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 37 Walkthrough and Solution",
+    "description": "Solve Block Out level 37 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "en-level-46",
+  "locale": "en",
+  "levelNumber": 46,
+  "title": "Block Out Level 46 Walkthrough",
+  "summary": "Block Out Level 46 has three boss chambers across the upper half — two smaller ones at `3` each and a larger one at `10` — all sitting above a packed lower chamber of red, blue, green, yellow, and orange blocks. Drain the lower blocks fi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out Level 46 has three boss chambers across the upper half — two smaller ones at `3` each and a larger one at `10` — all sitting above a packed lower chamber of red, blue, green, yellow, and orange blocks. Drain the lower blocks first to let the two `3` chambers collapse quickly, then use the freed upper space for the longer `10` reduction.",
+        "landmarks": [
+          "Block Out Level 46 has three boss chambers across the upper half — two smaller ones at `3` each and a larger one at `10` — all sitting above a packed lower chamber of red, blue, green, yellow, and orange blocks.",
+          "Drain the lower blocks first to let the two `3` chambers collapse quickly, then use the freed upper space for the longer `10` reduction.",
+          "The board mixes Red, Blue, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The two `3` chambers are fast wins — if they are still up when you start the `10`, you are working the wrong part of the board.",
+        "Drain the lower colored blocks before any boss chamber.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Thin the lower colored blocks toward the bottom exits to start reducing all three boss counters."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Let the two `3`-count chambers collapse as the lower space opens."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the `10` chamber parked until the `3`s are both gone."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the freed upper space to accelerate the `10` reduction."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Sort the remaining colored blocks through the side exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the late red, blue, and yellow pieces from the lower chamber."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last chamber fragments and side cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort between all three chambers from the start — the `10` needs far more room than the `3`s, so the quick wins should go first.",
+        "Not draining the lower colored blocks before attacking the boss chambers, which leaves no room for the bosses to collapse into."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 46 Walkthrough and Solution",
+    "description": "Solve Block Out level 46 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

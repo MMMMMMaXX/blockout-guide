@@ -1,0 +1,91 @@
+{
+  "id": "en-level-106",
+  "locale": "en",
+  "levelNumber": 106,
+  "title": "Block Out Level 106 Walkthrough",
+  "summary": "Block Out Level 106 is a compartment maze where pocket counters hide inside purple walls and a one-way upward-arrow lane runs through the center. The numbered tiles are real objectives, not labels — each pocket must drain before the next...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "Block Out Level 106 is a compartment maze where pocket counters hide inside purple walls and a one-way upward-arrow lane runs through the center. The numbered tiles are real objectives, not labels — each pocket must drain before the next wall opens. The bottom conveyor row feeds the whole system, and pulling it too early collapses the center channel while upper pockets are still live.",
+        "landmarks": [
+          "Block Out Level 106 is a compartment maze where pocket counters hide inside purple walls and a one-way upward-arrow lane runs through the center.",
+          "The numbered tiles are real objectives, not labels — each pocket must drain before the next wall opens.",
+          "The bottom conveyor row feeds the whole system, and pulling it too early collapses the center channel while upper pockets are still live."
+        ],
+        "colors": ["Green", "Yellow", "Blue", "Red", "Cyan", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The center upward-arrow lane is the main feed route — do not block it with the bottom row.",
+        "Wait for the right-pocket red `1`/`2` pair to clear before dropping the bottom conveyor row.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the upper-left green/yellow/blue cluster into the center upward-arrow lane."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the cyan `8` and blue `10` tiles from the upper-middle pocket."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Peel the upper-right red `12` and `14` stack once the center channel is fully open."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the highlighted blue `4` tile mid-run to unlock the middle-left isolated pocket."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Drop the bottom horizontal row only after the right-pocket red `1` and `2` tiles are gone."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the bottom-tray triangle piece and close counters `5`, `2`, and `8`."
+        }
+      ],
+      "failurePoints": [
+        "Pulling the bottom conveyor row before the right-pocket red `1`/`2` pair clears — this seals the maze.",
+        "Rushing the yellow `16` tile before the cyan `8` and blue `10` pockets are empty."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 106 Walkthrough and Solution",
+    "description": "Solve Block Out level 106 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "en-level-108",
+  "locale": "en",
+  "levelNumber": 108,
+  "title": "Block Out Level 108 Walkthrough",
+  "summary": "Block Out Level 108 uses a compact 6×6 grid where the left-rail numbers are live progress markers, not decoration. A red star cluster anchors the center and a bottom star bar seals the final exit. The real constraint is the right-rail `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/108/",
+        "layout": "Block Out Level 108 uses a compact 6×6 grid where the left-rail numbers are live progress markers, not decoration. A red star cluster anchors the center and a bottom star bar seals the final exit. The real constraint is the right-rail `10` tile: sliding it too early blocks the lower feed lane while the star bar still needs room to clear.",
+        "landmarks": [
+          "Block Out Level 108 uses a compact 6×6 grid where the left-rail numbers are live progress markers, not decoration.",
+          "A red star cluster anchors the center and a bottom star bar seals the final exit.",
+          "The real constraint is the right-rail `10` tile: sliding it too early blocks the lower feed lane while the star bar still needs room to clear."
+        ],
+        "colors": ["Red", "Orange", "Green", "Blue", "Purple", "Yellow", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "32sx09TztaI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=32sx09TztaI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use the left-rail counts as a checklist — top count must reach `8` before the bottom star bar can drop.",
+        "Keep the lower-center gap open while peeling the left green column.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Break up the upper-middle red star cluster before moving side singles."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the left green column while keeping the lower-center gap open."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the orange vertical bar only after the left-rail top count drops from `11` to `8`."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the remaining blue and cyan singles once the left-rail middle counts read `6` and `1`."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the right-rail `10` tile out through the right green arrow lane."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Send the bottom orange star bar through the downward arrow exit."
+        }
+      ],
+      "failurePoints": [
+        "Moving the right-rail `10` tile before the left-rail top count reaches `8`.",
+        "Filling the lower-center gap too early, which removes the star bar's drop lane."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/108/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 108 Walkthrough and Solution",
+    "description": "Solve Block Out level 108 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

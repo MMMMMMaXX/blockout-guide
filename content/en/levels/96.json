@@ -1,0 +1,101 @@
+{
+  "id": "en-level-96",
+  "locale": "en",
+  "levelNumber": 96,
+  "title": "Block Out Level 96 Walkthrough",
+  "summary": "Block Out Level 96 is a pure density puzzle — no chambers, no frames, just wall-to-wall colored blocks of varying sizes. A tall red block with counter `12` divides the center like a wall, two large purple blocks (counters `9` and `5`) do...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "Block Out Level 96 is a pure density puzzle — no chambers, no frames, just wall-to-wall colored blocks of varying sizes. A tall red block with counter `12` divides the center like a wall, two large purple blocks (counters `9` and `5`) dominate the right half, and orange/green blocks fill the left. Clear the small counter-`1` edge blocks first for breathing room, unlock the gated green `3` block, then feed the large pieces through their nearest exits.",
+        "landmarks": [
+          "Block Out Level 96 is a pure density puzzle — no chambers, no frames, just wall-to-wall colored blocks of varying sizes.",
+          "A tall red block with counter `12` divides the center like a wall, two large purple blocks (counters `9` and `5`) dominate the right half, and orange/green blocks fill the left.",
+          "Clear the small counter-`1` edge blocks first for breathing room, unlock the gated green `3` block, then feed the large pieces through their nearest exits."
+        ],
+        "colors": ["Red", "Blue", "Green", "Purple", "Orange", "Yellow", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the small counter-`1` edge blocks first — each one creates room for the large blocks to shift.",
+        "Unlock the green `3` block early by removing its yellow key — it gates the left-side path.",
+        "The tall red `12` block divides the board like a wall — clear both sides of it before starting its feed."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the small counter-`1` blocks around the edges: orange upward (top exit), yellow `1` rightward (right-wall exit), cyan `1` downward (bottom exit) — each creates breathing room (02:54–02:48 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Push the yellow key block near the center through the right exit to unlock the gated green `3` block (02:42)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin feeding the upper purple `9` block through the right-wall exit — nine passes (02:42–02:30)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the unlocked green `3` block through the left-wall exit now that the gate is open (02:30)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Start feeding the tall red `12` block through the left-wall exit — twelve passes, keeping the left lane clear of debris (02:25–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the lower purple `5` block through the lower right-wall exit — five passes (02:13–02:07)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear remaining orange, yellow, and blue blocks through their nearest exits as the board opens (02:07–02:01)."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Finish with the last small blocks at the bottom once the board is mostly open (01:56)."
+        }
+      ],
+      "failurePoints": [
+        "Starting the tall red `12` block feed before clearing the small debris on the left side — it stalls mid-feed and traps the orange and green blocks behind it.",
+        "Ignoring the locked green `3` block's key early on — the key block must exit before the green block can move, and leaving it late creates a bottleneck."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 96 Walkthrough and Solution",
+    "description": "Solve Block Out level 96 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

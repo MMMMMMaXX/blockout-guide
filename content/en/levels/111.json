@@ -1,0 +1,91 @@
+{
+  "id": "en-level-111",
+  "locale": "en",
+  "levelNumber": 111,
+  "title": "Block Out Level 111 Walkthrough",
+  "summary": "Block Out Level 111 stacks two purple-framed chambers that share a single vertical drop lane through a yellow down-arrow tile. The right-side combo column counts from 9 down to 0, tracking consecutive clears. The upper board must thin en...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "Block Out Level 111 stacks two purple-framed chambers that share a single vertical drop lane through a yellow down-arrow tile. The right-side combo column counts from 9 down to 0, tracking consecutive clears. The upper board must thin enough for the red L-piece to move — otherwise it blocks the yellow arrow lane and the lower `14` counter never starts dropping.",
+        "landmarks": [
+          "Block Out Level 111 stacks two purple-framed chambers that share a single vertical drop lane through a yellow down-arrow tile.",
+          "The right-side combo column counts from 9 down to 0, tracking consecutive clears.",
+          "The upper board must thin enough for the red L-piece to move — otherwise it blocks the yellow arrow lane and the lower `14` counter never starts dropping."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The yellow down-arrow is a one-way gate — do not park the upper red L-piece on it.",
+        "Peel the left purple cross-pattern block before feeding the lower yellow L-piece rightward.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Remove the top orange horizontal bar and the left purple column in the upper chamber to open the top `2`/`3` row."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the center blue cluster downward without blocking the yellow down-arrow tile."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the upper red L-piece rightward so the yellow arrow lane stays open for the lower chamber."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Drop the cleared upper pieces through the yellow arrow into the lower grid once the left cross-pattern block thins."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Slide the lower yellow L-piece rightward before feeding the blue verticals out through the `15` side exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the remaining lower-board pieces and close the purple bottom bar counter `14`."
+        }
+      ],
+      "failurePoints": [
+        "Parking the upper red L-piece on the yellow down-arrow, which blocks the lower `14` feed.",
+        "Moving the lower yellow L-piece before the upper board has cleared around the arrow lane."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 111 Walkthrough and Solution",
+    "description": "Solve Block Out level 111 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

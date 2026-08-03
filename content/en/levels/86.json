@@ -1,0 +1,96 @@
+{
+  "id": "en-level-86",
+  "locale": "en",
+  "levelNumber": 86,
+  "title": "Block Out Level 86 Walkthrough",
+  "summary": "Block Out Level 86 is a fast, compact puzzle on a C-shaped board. A wide red block spans the top, a green block with padlock `3` sits in the center-left, orange and blue blocks fill the middle, and a tall purple column runs down the righ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out Level 86 is a fast, compact puzzle on a C-shaped board. A wide red block spans the top, a green block with padlock `3` sits in the center-left, orange and blue blocks fill the middle, and a tall purple column runs down the right side. Unlock the green padlock by clearing three blocks first (blue, orange, red), then feed the purple column through the bottom exits.",
+        "landmarks": [
+          "Block Out Level 86 is a fast, compact puzzle on a C-shaped board.",
+          "A wide red block spans the top, a green block with padlock `3` sits in the center-left, orange and blue blocks fill the middle, and a tall purple column runs down the right side.",
+          "Unlock the green padlock by clearing three blocks first (blue, orange, red), then feed the purple column through the bottom exits."
+        ],
+        "colors": ["Blue", "Red", "Orange", "Green", "Purple", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the blue, orange, and red blocks first (in that order) to unlock the green padlock `3` by move three.",
+        "The purple column on the right needs the bottom row empty — clear yellow blocks before feeding it.",
+        "This level is only 39 seconds — every move counts, plan the first three clears before starting."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Push the small blue block in the center upward through the top exit — this is the first clear toward the green padlock (02:57 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the orange key block left through the left-wall exit — second clear, and it removes the key gate (02:55)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Push the wide red block at the top upward through the top exit — third clear, unlocking the green padlock `3` (02:52)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the unlocked green block through the left-wall exit because it now has room to slide left (02:49)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the yellow blocks at the bottom through the down-arrow exits to open the lane for the purple column (02:46)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the tall purple column on the right downward through the bottom exits — it is the largest mass and takes several passes (02:43–02:34)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the remaining small green blocks at the bottom (02:31–02:25)."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move the green padlock `3` block before clearing three other blocks — it is locked and will not budge, wasting a move on a 39-second timer.",
+        "Leaving yellow blocks at the bottom while feeding the purple column — the column cannot pass through and stalls mid-feed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 86 Walkthrough and Solution",
+    "description": "Solve Block Out level 86 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

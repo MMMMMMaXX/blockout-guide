@@ -1,0 +1,93 @@
+{
+  "id": "en-level-91",
+  "locale": "en",
+  "levelNumber": 91,
+  "title": "Block Out Level 91 Walkthrough",
+  "summary": "Block Out Level 91 starts with stacked `7` and `5` chambers, but the real choke point is the center elevator that appears after the top chamber shrinks. Clear the packed left wall first, drain the `7` chamber second, and then clean the n...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "Block Out Level 91 starts with stacked `7` and `5` chambers, but the real choke point is the center elevator that appears after the top chamber shrinks. Clear the packed left wall first, drain the `7` chamber second, and then clean the numbered cyan lane before the last side pieces leave.",
+        "landmarks": [
+          "Block Out Level 91 starts with stacked `7` and `5` chambers, but the real choke point is the center elevator that appears after the top chamber shrinks.",
+          "Clear the packed left wall first, drain the `7` chamber second, and then clean the numbered cyan lane before the last side pieces leave.",
+          "The board mixes Purple, Green, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Green", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "If the left wall is still crowded, the `7` chamber is not ready.",
+        "The cyan countdown lane is the part that actually locks the late game.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Soften the left wall by clearing the green ladder and the yellow column beside it."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Free the small red square near the middle so the center shaft is not boxed in later."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start shrinking the upper `7` chamber only after the left wall is lighter."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Let the center elevator open and clear the cyan countdown lane that appears between the chambers."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the lower `5` chamber once the shaft is no longer blocked by the yellow and red vertical pieces."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the remaining red and green side pieces after the middle lane is empty."
+        }
+      ],
+      "failurePoints": [
+        "Shrinking the `7` chamber before the left wall has opened enough room for the center shaft.",
+        "Ignoring the cyan countdown lane and jumping straight from the `7` chamber to the `5` chamber."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 91 Walkthrough and Solution",
+    "description": "Solve Block Out level 91 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

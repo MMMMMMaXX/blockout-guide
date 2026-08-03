@@ -1,0 +1,92 @@
+{
+  "id": "en-level-63",
+  "locale": "en",
+  "levelNumber": 63,
+  "title": "Block Out Level 63 Walkthrough",
+  "summary": "Block Out Level 63 crams the board with oversized LEGO blocks — L-shapes, tall rectangles, and large squares — all interlocked with counter numbers up to 11. The opening strategy is an edge-peel: extract green blocks from the upper-right...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "Block Out Level 63 crams the board with oversized LEGO blocks — L-shapes, tall rectangles, and large squares — all interlocked with counter numbers up to 11. The opening strategy is an edge-peel: extract green blocks from the upper-right and the yellow '11' block from the upper-left. Once the edges thin, the interlocked center (red square, blue L-shape, purple blocks) can finally be separated. The blue L-piece on the right side needs the most clearance and usually leaves last.",
+        "landmarks": [
+          "Block Out Level 63 crams the board with oversized LEGO blocks — L-shapes, tall rectangles, and large squares — all interlocked with counter numbers up to 11.",
+          "The opening strategy is an edge-peel: extract green blocks from the upper-right and the yellow '11' block from the upper-left.",
+          "Once the edges thin, the interlocked center (red square, blue L-shape, purple blocks) can finally be separated.",
+          "The blue L-piece on the right side needs the most clearance and usually leaves last."
+        ],
+        "colors": ["Yellow", "Green", "Red", "Blue", "Orange", "Purple", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Always thin the edges before touching the center — one wrong center move locks the board.",
+        "The blue L-shaped piece on the right side needs the most clearance and should leave late.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Pull the green blocks from the upper-right through the top exit."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the yellow '11' block leftward toward its exit to free the upper-left."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the orange blocks on the left edge down once the upper corner opens."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Extract the red square from the center-left once enough edge space exists."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Route the blue L-shape on the right side out — it needs the most clearance."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the remaining purple and cyan blocks once the center is open."
+        }
+      ],
+      "failurePoints": [
+        "Moving a center block before the edges are thinned — the interlocked pieces jam instantly.",
+        "Trying to extract the blue L-shape early when there is not enough vertical and horizontal room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 63 Walkthrough and Solution",
+    "description": "Solve Block Out level 63 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "en-level-68",
+  "locale": "en",
+  "levelNumber": 68,
+  "title": "Block Out Level 68 Walkthrough",
+  "summary": "Block Out Level 68 stacks two chambers vertically, separated by a horizontal dividing bar. The upper chamber holds a mix of green blocks, a large blue square, and orange/yellow pieces. The lower chamber is dominated by a massive purple r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out Level 68 stacks two chambers vertically, separated by a horizontal dividing bar. The upper chamber holds a mix of green blocks, a large blue square, and orange/yellow pieces. The lower chamber is dominated by a massive purple rectangle with counter '7' wrapped in a red frame. Clear the entire upper chamber first — the dividing bar will not open until it empties. Then strip the red frame and feed the purple block through its exit seven times.",
+        "landmarks": [
+          "Block Out Level 68 stacks two chambers vertically, separated by a horizontal dividing bar.",
+          "The upper chamber holds a mix of green blocks, a large blue square, and orange/yellow pieces.",
+          "The lower chamber is dominated by a massive purple rectangle with counter '7' wrapped in a red frame.",
+          "Clear the entire upper chamber first — the dividing bar will not open until it empties."
+        ],
+        "colors": ["Green", "Blue", "Orange", "Yellow", "Cyan", "Purple", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Empty the upper chamber completely before touching the lower — the dividing bar will not open otherwise.",
+        "Strip the red frame around the purple block before feeding it through the exit.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the small blocks at the top of the upper chamber through the top exit."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the green blocks on the left through the left exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Slide the large blue square block out through the right or top exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the orange/yellow blocks at the bottom of the upper chamber."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the upper chamber empties, the dividing bar opens — strip the red frame around the purple block."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the massive purple block (counter '7') through its exit repeatedly until fully cleared."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with any remaining cyan side pieces and bottom fragments."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move the purple block before the upper chamber is empty — the dividing bar is still sealed.",
+        "Forgetting to strip the red frame around the purple block before attempting to feed it."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 68 Walkthrough and Solution",
+    "description": "Solve Block Out level 68 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

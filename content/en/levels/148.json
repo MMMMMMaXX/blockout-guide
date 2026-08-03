@@ -1,0 +1,96 @@
+{
+  "id": "en-level-148",
+  "locale": "en",
+  "levelNumber": 148,
+  "title": "Block Out Level 148 Walkthrough",
+  "summary": "Block Out Level 148 stacks a narrow `13` head on a 6-wide color grid body, creating a building-shaped frame with a bottom `4`/`3` gate. The top blue `8` marker is the final lock — it triggers the BLOCK OUT clear animation. But the green...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/148/",
+        "layout": "Block Out Level 148 stacks a narrow `13` head on a 6-wide color grid body, creating a building-shaped frame with a bottom `4`/`3` gate. The top blue `8` marker is the final lock — it triggers the BLOCK OUT clear animation. But the green stacks filling the left band must drain before the `8` can move, and clearing the bottom gate too early seals the left band's only downward exit.",
+        "landmarks": [
+          "Block Out Level 148 stacks a narrow `13` head on a 6-wide color grid body, creating a building-shaped frame with a bottom `4`/`3` gate.",
+          "The top blue `8` marker is the final lock — it triggers the BLOCK OUT clear animation.",
+          "But the green stacks filling the left band must drain before the `8` can move, and clearing the bottom gate too early seals the left band's only downward exit."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Yellow", "Red", "Orange", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UFRWhADj4Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UFRWhADj4Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Unlock the top blue 8 before clearing the center orange cluster.",
+        "Thin the left green band only after the head drops to 12.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the top blue/green/yellow row rightward to spend the left red 8 column without splitting the center red stack."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the top purple 13 head down to the blue 12 tile by clearing the upper orange and green scraps."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Thin the left green band once the head shows 12 and the left rail drops to 7."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the center orange cluster after the red column unlocks the middle 1 lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the top blue 8 tile (orange border) once the peripheral counters read 12/14/3."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Drain the remaining yellow/blue scraps through the bottom 3 gate."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear the last green scraps for the BLOCK OUT finish."
+        }
+      ],
+      "failurePoints": [
+        "Clearing the center orange cluster before the top blue 8 unlocks, jamming the left 3 lane.",
+        "Splitting the center red stack early, blocking the middle 1 lane permanently."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/148/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 148 Walkthrough and Solution",
+    "description": "Solve Block Out level 148 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

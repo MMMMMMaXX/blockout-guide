@@ -1,0 +1,119 @@
+{
+  "id": "en-level-232",
+  "locale": "en",
+  "levelNumber": 232,
+  "title": "Block Out Level 232 Walkthrough",
+  "summary": "Block Out! Level 232 Solution Walkthrough. Watch the embedded walkthrough to clear this easy board.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/232.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/232",
+        "layout": "Block Out level 232 opens on a easy color-sort board dominated by blue, yellow, red, green, purple tiles. The exact starting layout and verified solution are shown in the embedded walkthrough video; match your board to the video before following the move order.",
+        "landmarks": [
+          "The board prominently features blue, yellow, and red blocks.",
+          "Color groups must be separated and stacked to clear the level.",
+          "The embedded walkthrough shows the exact starting layout and solution order."
+        ],
+        "colors": ["blue", "yellow", "red", "green", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "P5V5oRvai60",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=P5V5oRvai60",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Opening board"
+        },
+        {
+          "seconds": 69,
+          "label": "First merges"
+        },
+        {
+          "seconds": 137,
+          "label": "Mid-board clearing"
+        },
+        {
+          "seconds": 202,
+          "label": "Final exit"
+        }
+      ],
+      "quickTips": [
+        "Group the blue and yellow blocks first — they dominate the opening board, so clearing them early opens the most space.",
+        "Keep one column empty as a buffer until your first two merges are done; it is the only safe place to reverse a bad move.",
+        "Park mixed or trapped red blocks in the shortest column, never the tallest one, so you keep a clean exit lane.",
+        "If two columns share the same top color, merge the lower-risk one first and save the other for the finale."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Match the board",
+          "instruction": "Confirm the blue/yellow layout matches the walkthrough before you move; a different variant means a different solution.",
+          "image": "/boards/232.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Clear the dominant color",
+          "instruction": "Merge the blue columns first to free the largest area of the board and reduce the pieces you must track.",
+          "image": "/boards/232.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Open a buffer lane",
+          "instruction": "Shift yellow blocks aside into one short column so mixed stacks stay separable and the exit lane stays open.",
+          "image": "/boards/232.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Work top-down",
+          "instruction": "Clear from the top so nothing locks early; keep the buffer column available until the board is nearly empty.",
+          "image": "/boards/232.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Route the exit",
+          "instruction": "Send the last blocks out through the same lane shown in the video, in the order the walkthrough demonstrates.",
+          "image": "/boards/232.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "Merging the tallest column first burns your only buffer lane and traps the lower blocks behind it.",
+        "Chasing a full blue stack before separating mixed colors leaves blocks you can no longer reach.",
+        "Starting the timer before the board is matched wastes 8–12 seconds of recovery on a easy board.",
+        "Letting yellow blocks sit behind others forces a restart you could have avoided with one early shift."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/232",
+    "https://www.youtube.com/watch?v=P5V5oRvai60",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 232 Walkthrough and Solution",
+    "description": "Solve Block Out level 232 with the verified easy walkthrough video and board colors. Watch the embedded solution to match your starting board."
+  },
+  "updatedAt": "2026-08-03"
+}

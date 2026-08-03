@@ -1,0 +1,96 @@
+{
+  "id": "en-level-57",
+  "locale": "en",
+  "levelNumber": 57,
+  "title": "Block Out Level 57 Walkthrough",
+  "summary": "Block Out Level 57 stacks two purple boss chambers — '5' on top, '11' on the bottom — with three white '10' blocks at the very base. The chambers share a wall, so clearing one affects the other. Start with the bottom '10' blocks, then wo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "Block Out Level 57 stacks two purple boss chambers — '5' on top, '11' on the bottom — with three white '10' blocks at the very base. The chambers share a wall, so clearing one affects the other. Start with the bottom '10' blocks, then work both chambers in parallel, letting the smaller '5' chamber clear faster while the '11' chamber gradually opens.",
+        "landmarks": [
+          "Block Out Level 57 stacks two purple boss chambers — '5' on top, '11' on the bottom — with three white '10' blocks at the very base.",
+          "The chambers share a wall, so clearing one affects the other.",
+          "Start with the bottom '10' blocks, then work both chambers in parallel, letting the smaller '5' chamber clear faster while the '11' chamber gradually opens."
+        ],
+        "colors": ["Purple", "Yellow", "Blue", "Green", "Red", "White"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The two chambers share a wall — do not fully drain the '5' before the '11' has made progress.",
+        "Start with the bottom '10' blocks. They are independent targets that open the base.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the three white '10' blocks at the bottom by sliding them toward the right exit."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the yellow blocks on the left out through the left exit to open the gap between the two chambers."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin draining the upper '5' chamber — it is smaller and clears faster, opening space above."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Work the lower '11' chamber in parallel, sliding its blocks out through the right exit."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "As the '5' chamber empties, use the freed space to help the '11' chamber blocks slide out."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the remaining green and blue blocks trapped between the emptied chambers."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the red and purple blocks at the top and sides."
+        }
+      ],
+      "failurePoints": [
+        "Fully draining the '5' chamber before the '11' has made progress — the shared wall provides sliding support for both, and losing it too early traps blocks.",
+        "Ignoring the bottom '10' blocks and trying to work the chambers first, which leaves the base packed and blocks can't slide down."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 57 Walkthrough and Solution",
+    "description": "Solve Block Out level 57 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

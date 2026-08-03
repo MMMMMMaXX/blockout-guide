@@ -1,0 +1,98 @@
+{
+  "id": "en-level-21",
+  "locale": "en",
+  "levelNumber": 21,
+  "title": "Block Out Level 21 Walkthrough",
+  "summary": "Block Out Level 21 is a triple-boss ladder. Break the framed `9` panel first, unwind the colorful middle strip second, and only then start shrinking the lower `16` and `18` panels.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "Block Out Level 21 is a triple-boss ladder. Break the framed `9` panel first, unwind the colorful middle strip second, and only then start shrinking the lower `16` and `18` panels.",
+        "landmarks": [
+          "Block Out Level 21 is a triple-boss ladder.",
+          "Break the framed `9` panel first, unwind the colorful middle strip second, and only then start shrinking the lower `16` and `18` panels.",
+          "The board mixes Blue, Yellow, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Blue", "Yellow", "Green", "Red", "Pink", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Solve the framed `9` first.",
+        "The lower `16` and `18` values are phase two and phase three.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Work the top counters and clear the upper color band so the framed `9` panel is exposed."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Drop the `9` panel before touching the lower bosses."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the freed middle corridor to rotate the pink, green, and blue bars."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Start shrinking the lower `16` panel once the center is no longer packed."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the `18` panel begin falling only after the `16` frame has already opened."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Save the floor green exit for the late cleanup when the lower panels are thin."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the remaining tall color bars after both bottom bosses have collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Trying to shrink the lower framed values while the top `9` is still alive.",
+        "Leaving the middle strip packed after the top boss has opened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 21 Walkthrough and Solution",
+    "description": "Solve Block Out level 21 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

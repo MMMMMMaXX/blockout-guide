@@ -1,0 +1,98 @@
+{
+  "id": "en-level-8",
+  "locale": "en",
+  "levelNumber": 8,
+  "title": "Block Out Level 8 Walkthrough",
+  "summary": "Block Out Level 8 hides a huge red slab in the lower-right well. Work the green, white, and black mini-blocks through the top and right counters first, then use the opened corridor to finally move the red slab.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "Block Out Level 8 hides a huge red slab in the lower-right well. Work the green, white, and black mini-blocks through the top and right counters first, then use the opened corridor to finally move the red slab.",
+        "landmarks": [
+          "Block Out Level 8 hides a huge red slab in the lower-right well.",
+          "Work the green, white, and black mini-blocks through the top and right counters first, then use the opened corridor to finally move the red slab.",
+          "The board mixes Red, Green, White and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Green", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The upper corridor matters more than the giant red slab at the start.",
+        "Keep the right-side meter falling while the top cap is also shrinking.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Push the top-right white and black pair into the right-side quota lane to start shrinking the `9` meter."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Rotate the upper green mini-blocks across the top corridor so the `17` cap and the right meter keep dropping together."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the narrow center stem to pass the next white block downward and keep the upper-right column from refilling."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Continue trimming the black-and-green cluster until the right column is almost empty and the side meter is nearly exhausted."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the upper corridor opens, shift the remaining small pieces aside so the red slab has a clean vertical lane."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Slide the large red rectangle upward and across toward the red exit on the left wall."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish by feeding the last green mini-block through the top green finish after the quotas have fully cleared."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move the oversized red slab before the upper corridor is mostly empty.",
+        "Ignoring the right quota lane and only working the top cap."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 8 Walkthrough and Solution",
+    "description": "Solve Block Out level 8 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

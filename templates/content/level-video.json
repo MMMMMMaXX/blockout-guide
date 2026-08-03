@@ -1,0 +1,21 @@
+{
+  "id": "template-level-video",
+  "locale": "en",
+  "levelNumber": 1,
+  "title": "Draft video level template",
+  "summary": "Editorial template only. Replace every fact and verify the board before publication.",
+  "status": "draft",
+  "contentTier": "video",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "template-variant-a",
+      "platforms": [],
+      "boosterUsage": "unknown",
+      "verificationStatus": "video-found"
+    }
+  ],
+  "sourceReferences": [],
+  "updatedAt": "2026-08-02"
+}

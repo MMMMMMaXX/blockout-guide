@@ -1,0 +1,93 @@
+{
+  "id": "en-level-60",
+  "locale": "en",
+  "levelNumber": 60,
+  "title": "Block Out Level 60 Walkthrough",
+  "summary": "Block Out Level 60 fills a 5×7 grid with a repeating pattern of green, blue, red, green, blue blocks, topped with orange. The dense packing means every column must empty from bottom to top — clear the green base first, then work the blue...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "Block Out Level 60 fills a 5×7 grid with a repeating pattern of green, blue, red, green, blue blocks, topped with orange. The dense packing means every column must empty from bottom to top — clear the green base first, then work the blue and red blocks upward, and finish with the orange top row.",
+        "landmarks": [
+          "Block Out Level 60 fills a 5×7 grid with a repeating pattern of green, blue, red, green, blue blocks, topped with orange.",
+          "The dense packing means every column must empty from bottom to top — clear the green base first, then work the blue and red blocks upward, and finish with the orange top row.",
+          "The board mixes Green, Blue, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Blue", "Red", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear colors from bottom to top within each column — do not skip ahead or blocks get trapped.",
+        "The green base must go first. Without it, the blue and red blocks above have no sliding room.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the bottom green blocks toward the left exit to open the base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the blue blocks in the lower rows out through the right exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the red blocks in the middle rows through the right exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Move the green blocks in the upper-middle rows through the left exit."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Begin clearing the blue blocks in the upper rows through the right exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the orange blocks at the top through the top exit."
+        }
+      ],
+      "failurePoints": [
+        "Clearing a blue block before the green below it, which traps the green with no sliding path.",
+        "Trying to clear the orange top row before the middle rows are open, which jams the board."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 60 Walkthrough and Solution",
+    "description": "Solve Block Out level 60 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

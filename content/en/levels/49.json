@@ -1,0 +1,96 @@
+{
+  "id": "en-level-49",
+  "locale": "en",
+  "levelNumber": 49,
+  "title": "Block Out Level 49 Walkthrough",
+  "summary": "Block Out Level 49 is labeled 'Super Hard' and features three tall boss chambers — left and right at `17` each, with a center yellow key block — all sitting above a packed lower chamber of blue, green, yellow, red, orange, and cyan block...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "Block Out Level 49 is labeled 'Super Hard' and features three tall boss chambers — left and right at `17` each, with a center yellow key block — all sitting above a packed lower chamber of blue, green, yellow, red, orange, and cyan blocks. Drain the lower chamber first to give all three bosses room, then let the matched `17` chambers collapse roughly in sync. Every phase depends on the lower chamber being open enough.",
+        "landmarks": [
+          "Block Out Level 49 is labeled 'Super Hard' and features three tall boss chambers — left and right at `17` each, with a center yellow key block — all sitting above a packed lower chamber of blue, green, yellow, red, orange, and cyan blocks.",
+          "Drain the lower chamber first to give all three bosses room, then let the matched `17` chambers collapse roughly in sync.",
+          "Every phase depends on the lower chamber being open enough."
+        ],
+        "colors": ["Blue", "Green", "Yellow", "Red", "Orange", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "All three bosses depend on the same floor — if the lower chamber still feels packed, none of them is ready.",
+        "The yellow center block between the bosses is an early key piece. Use it to start opening the upper section.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drain the lower colored blocks (blue, green, yellow, red, orange, cyan) toward the side exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use the yellow center block between the bosses as an early move to start opening the upper section."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the `17` bosses parked while the lower chamber is still crowded."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once the floor is about half-empty, let the boss counters start dropping."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Work both `17` chambers roughly evenly so they collapse in sync."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the late colored strips from the revealed upper space."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last side counters and chamber cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Working one top boss in isolation while the other two are still sealed — all three share the same floor and must open together.",
+        "Not draining the lower chamber before touching the bosses, which leaves no room for any of the three chambers to collapse into."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 49 Walkthrough and Solution",
+    "description": "Solve Block Out level 49 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

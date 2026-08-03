@@ -1,0 +1,91 @@
+{
+  "id": "en-level-133",
+  "locale": "en",
+  "levelNumber": 133,
+  "title": "Block Out Level 133 Walkthrough",
+  "summary": "Block Out Level 133 arranges numbered key blocks on the arms of a T-shaped board, with a center `13` spine and a bottom blast grid. Directional arrows on the blue downward block and green right-strip mark the only legal exits. The top-le...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/133/",
+        "layout": "Block Out Level 133 arranges numbered key blocks on the arms of a T-shaped board, with a center `13` spine and a bottom blast grid. Directional arrows on the blue downward block and green right-strip mark the only legal exits. The top-left magenta `7` alcove must clear before the tall blue `1` stack can shift — otherwise it blocks the center spine's only drainage path.",
+        "landmarks": [
+          "Block Out Level 133 arranges numbered key blocks on the arms of a T-shaped board, with a center `13` spine and a bottom blast grid.",
+          "Directional arrows on the blue downward block and green right-strip mark the only legal exits.",
+          "The top-left magenta `7` alcove must clear before the tall blue `1` stack can shift — otherwise it blocks the center spine's only drainage path."
+        ],
+        "colors": ["Cyan", "Magenta", "Green", "Blue", "Red", "Yellow", "Purple", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lUJCT64KCKk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=lUJCT64KCKk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keep the green left bar intact while clearing the bottom blast grid.",
+        "Save the 1/10 pair until the 9 tile unlocks on the bottom flare.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Pop the top cyan 24 and 21 tiles plus the left/right arm 17 and 19 blocks before the center 13 column drops."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the bottom colored grid from the green left bar outward, keeping the 1/10 pair sealed for the final gate."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the center 13 spine once both arm alcoves empty, feeding the 18 side tile into the waist."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Slide the blue downward-arrow block through the narrow corridor after the counters shrink to 12."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Detonate the green right-arrow cluster on the bottom flare once the 9 tile unlocks."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the bottom 0/1 counters and exit the last magenta and blue scraps for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Dropping the center 13 spine before the arm alcoves empty, sealing the waist.",
+        "Moving the green right-arrow cluster before the 9 tile unlocks, trapping the 0/1 gate."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/133/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 133 Walkthrough and Solution",
+    "description": "Solve Block Out level 133 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

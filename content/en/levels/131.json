@@ -1,0 +1,93 @@
+{
+  "id": "en-level-131",
+  "locale": "en",
+  "levelNumber": 131,
+  "title": "Block Out Level 131 Walkthrough",
+  "summary": "Block Out Level 131 wraps a figure-8 frame around a center orange `5` gate, with blue left-arrows, red right-arrows, and yellow down-arrows marking the only legal exit lanes. The lower-left blue `2` seal and upper red `3` block compete f...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "Block Out Level 131 wraps a figure-8 frame around a center orange `5` gate, with blue left-arrows, red right-arrows, and yellow down-arrows marking the only legal exit lanes. The lower-left blue `2` seal and upper red `3` block compete for the same corridor — slide the red `3` through the exposed lower-left lane too early and the `5` gate loses its only incoming path.",
+        "landmarks": [
+          "Block Out Level 131 wraps a figure-8 frame around a center orange `5` gate, with blue left-arrows, red right-arrows, and yellow down-arrows marking the only legal exit lanes.",
+          "The lower-left blue `2` seal and upper red `3` block compete for the same corridor — slide the red `3` through the exposed lower-left lane too early and the `5` gate loses its only incoming path.",
+          "The board mixes Yellow, Green, Blue and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Yellow", "Green", "Blue", "Red", "Purple", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Feed the blue-star cluster through the left arrow before the 3 counter drops into the waist.",
+        "Save the red L-cluster for the right-arrow lane until the upper chamber is empty.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top yellow arm rows and spend the center orange 5 gate without crossing the lower-left 2 seals."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the lower-left blue-star cluster through the blue left-arrow lane while the waist is still narrow."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the center purple corridor to drop the red 3 counter block into the waist opening."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Feed the lower-left red L-cluster through the red right-arrow lane once the upper chamber empties."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Shift the remaining green vertical stacks toward the yellow downward-arrow exit at bottom center."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the last yellow, blue, and purple scraps in the bottom L-pocket for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Touching the lower-left 2 seals before the center 5 gate clears, locking the waist.",
+        "Sending the red L-cluster through the right arrow before the upper chamber empties, blocking the downward exit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 131 Walkthrough and Solution",
+    "description": "Solve Block Out level 131 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

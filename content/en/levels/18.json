@@ -1,0 +1,98 @@
+{
+  "id": "en-level-18",
+  "locale": "en",
+  "levelNumber": 18,
+  "title": "Block Out Level 18 Walkthrough",
+  "summary": "Block Out Level 18 is a double-frame puzzle around a cyan `14/11` pair. Peel the side ladders and counters first, keep the center blocks together until the rails are thinner, and finish through the green top route.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "Block Out Level 18 is a double-frame puzzle around a cyan `14/11` pair. Peel the side ladders and counters first, keep the center blocks together until the rails are thinner, and finish through the green top route.",
+        "landmarks": [
+          "Block Out Level 18 is a double-frame puzzle around a cyan `14/11` pair.",
+          "Peel the side ladders and counters first, keep the center blocks together until the rails are thinner, and finish through the green top route.",
+          "The board mixes Cyan, Pink, Blue and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Cyan", "Pink", "Blue", "White", "Black", "Green", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Open the rails before you split the center pair.",
+        "The green top finish is a late route, not the first route.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Strip the right white-and-black ladder so the side counters begin falling."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Leave the cyan `14` cap and the cyan `11` centerpiece parked while the frame around them loosens."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Mirror that cleanup on the left side once the first ladder has opened enough room."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Separate the cyan `14` cap from the `11` block only after both side rails have narrowed."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the freed top lane to peel away the blue and pink columns."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Move the `11` block after the outer rails are already thin."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the green top route and the last side leftovers."
+        }
+      ],
+      "failurePoints": [
+        "Trying to split the `14/11` pair before the rails are open.",
+        "Using the top pink columns as early movers instead of late cleanup."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 18 Walkthrough and Solution",
+    "description": "Solve Block Out level 18 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

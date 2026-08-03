@@ -1,0 +1,96 @@
+{
+  "id": "en-level-150",
+  "locale": "en",
+  "levelNumber": 150,
+  "title": "Block Out Level 150 Walkthrough",
+  "summary": "Block Out Level 150 closes the set with a compact 4-column match board — deceptively simple after the Super Hard gauntlet. Dual `6` anchor tiles and left-rail `3` group counters are the only objectives. Green right-arrow pushers on the r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/150/",
+        "layout": "Block Out Level 150 closes the set with a compact 4-column match board — deceptively simple after the Super Hard gauntlet. Dual `6` anchor tiles and left-rail `3` group counters are the only objectives. Green right-arrow pushers on the right edge slide entire rows horizontally, turning this into a sliding-rows game rather than the usual block extraction.",
+        "landmarks": [
+          "Block Out Level 150 closes the set with a compact 4-column match board — deceptively simple after the Super Hard gauntlet.",
+          "Dual `6` anchor tiles and left-rail `3` group counters are the only objectives.",
+          "Green right-arrow pushers on the right edge slide entire rows horizontally, turning this into a sliding-rows game rather than the usual block extraction."
+        ],
+        "colors": ["Blue", "Red", "Yellow", "Green", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mMIsmNrntpQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mMIsmNrntpQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the top blue 6 before opening the center-right gap with the second pusher.",
+        "Move the bottom blue 1×2 only after the green 6 tile clears.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Tap the green right-arrow to slide the upper-right green 1×2 leftward, matching the top red/yellow pair without shifting the blue 6."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the top blue 6 tile by matching the blue column beneath it once the top row thins."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the second green right-arrow pusher to open the center-right gap after the first band clears."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Match the middle red/red/yellow band to tick the upper left-rail 3 counter down."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Break the bottom-left green 6 tile by sliding the lower blue 1×2 into the blue/red pair."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the bottom red/yellow/red band to spend the lower left-rail 3 counter."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Tap the right-arrow one last time to eject the final yellow scrap for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Sliding the bottom blue 1×2 before the green 6 breaks, stranding the red pair away from the right-arrow lane.",
+        "Using the second pusher before the top blue 6 clears, splitting the upper band and wasting a 3 counter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/150/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 150 Walkthrough and Solution",
+    "description": "Solve Block Out level 150 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

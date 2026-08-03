@@ -1,0 +1,92 @@
+{
+  "id": "en-level-81",
+  "locale": "en",
+  "levelNumber": 81,
+  "title": "Block Out Level 81 Walkthrough",
+  "summary": "Block Out Level 81 stacks full-width colored horizontal bars in a tall, narrow board. A green bar with counter '1' sits at the top, followed by blue, red, and green bars, then a large yellow/orange block on the right side. A lock block w...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out Level 81 stacks full-width colored horizontal bars in a tall, narrow board. A green bar with counter '1' sits at the top, followed by blue, red, and green bars, then a large yellow/orange block on the right side. A lock block with counter '2' gates the center, and the bottom holds heavy blocks with counters '10' and '5'. Peel bars from the top down, clear the center lock, then feed the heavy bottom blocks last.",
+        "landmarks": [
+          "Block Out Level 81 stacks full-width colored horizontal bars in a tall, narrow board.",
+          "A green bar with counter '1' sits at the top, followed by blue, red, and green bars, then a large yellow/orange block on the right side.",
+          "A lock block with counter '2' gates the center, and the bottom holds heavy blocks with counters '10' and '5'.",
+          "Peel bars from the top down, clear the center lock, then feed the heavy bottom blocks last."
+        ],
+        "colors": ["Green", "Blue", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Peel strictly from the top down — full-width bars cannot slide sideways.",
+        "Clear the lock block in the center before attempting any lower-half bar.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the green bar (counter '1') at the top through the top exit."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the blue bar below it through the top exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Pull the red bar next, continuing the top-down peel."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the lock block with counter '2' in the center-left to unlock the lower stack."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Route the large yellow/orange block out through the widened mid-section."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the bottom blocks (counters '10' and '5') through the bottom exits."
+        }
+      ],
+      "failurePoints": [
+        "Trying to skip a bar in the stack — the full-width bars block everything below them.",
+        "Attempting the bottom blocks before the lock block is cleared, which leaves the lower half sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 81 Walkthrough and Solution",
+    "description": "Solve Block Out level 81 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

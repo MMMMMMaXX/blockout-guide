@@ -1,0 +1,10 @@
+# 文件职责：排除依赖、构建产物和运行时缓存，避免格式化生成文件。
+node_modules
+dist
+.next
+.vinext
+.wrangler
+package-lock.json
+tsconfig.tsbuildinfo
+test-results
+playwright-report

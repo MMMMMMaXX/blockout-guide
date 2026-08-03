@@ -1,0 +1,16 @@
+{
+  "kind": "booster",
+  "id": "template-booster",
+  "locale": "en",
+  "slug": "replace-booster-slug",
+  "title": "Replace with verified booster title",
+  "summary": "Replace with an evidence-scoped decision summary before publication.",
+  "status": "draft",
+  "effect": "Replace with verified behavior.",
+  "useWhen": ["Replace with a reproduced use case."],
+  "avoidWhen": ["Replace with a reproduced non-use case."],
+  "decisionChecks": ["Replace with a pre-use check."],
+  "relatedLevelNumbers": [],
+  "sourceReferences": [],
+  "updatedAt": "2026-08-02"
+}

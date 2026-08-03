@@ -1,0 +1,103 @@
+{
+  "id": "en-level-2",
+  "locale": "en",
+  "levelNumber": 2,
+  "title": "Block Out Level 2 Walkthrough",
+  "summary": "Block Out Level 2 opens with red up and yellow left, then turns into a vertical-column cleanup. Park blue in the upper-left corner, peel the white and black columns through the top lane, and only cash blue out last.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "Block Out Level 2 opens with red up and yellow left, then turns into a vertical-column cleanup. Park blue in the upper-left corner, peel the white and black columns through the top lane, and only cash blue out last.",
+        "landmarks": [
+          "Block Out Level 2 opens with red up and yellow left, then turns into a vertical-column cleanup.",
+          "Park blue in the upper-left corner, peel the white and black columns through the top lane, and only cash blue out last.",
+          "The board mixes Red, Yellow, Blue and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Yellow", "Blue", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Red and yellow are the two opening clears.",
+        "Blue is a brace first and an exit block second.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Move the red L-shaped block up through the top red gate."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Push the yellow T-shaped block left through the yellow side gate."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Slide the blue L into the upper-left corner and leave it parked there."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Raise the far-right white column and then lift the black column beside it into the top-right black gate."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Pull the tall middle white column up into the top-left white gate once the black corner is free."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Use the same top lane to remove the remaining white stack on the right side."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Send the last black column up through the black gate."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Finish by dropping the parked blue L to the blue gate on the left wall."
+        }
+      ],
+      "failurePoints": [
+        "Trying to send the blue L to its exit before the white columns have climbed.",
+        "Ignoring the right black column and lifting white into a blocked corner."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 2 Walkthrough and Solution",
+    "description": "Solve Block Out level 2 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

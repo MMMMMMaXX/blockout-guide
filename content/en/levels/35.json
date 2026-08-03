@@ -1,0 +1,96 @@
+{
+  "id": "en-level-35",
+  "locale": "en",
+  "levelNumber": 35,
+  "title": "Block Out Level 35 Walkthrough",
+  "summary": "Block Out Level 35 is a device-gate puzzle in a mostly empty room. A purple `8` device on the left and a green `7` device on the right track exit traffic, and the order you route pieces through the red right exit and blue bottom exit det...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "Block Out Level 35 is a device-gate puzzle in a mostly empty room. A purple `8` device on the left and a green `7` device on the right track exit traffic, and the order you route pieces through the red right exit and blue bottom exit determines what blocks spawn next. The room starts sparse but fills up fast if exits are used in the wrong sequence — keep one lane open at all times for the next spawn.",
+        "landmarks": [
+          "Block Out Level 35 is a device-gate puzzle in a mostly empty room.",
+          "A purple `8` device on the left and a green `7` device on the right track exit traffic, and the order you route pieces through the red right exit and blue bottom exit determines what blocks spawn next.",
+          "The room starts sparse but fills up fast if exits are used in the wrong sequence — keep one lane open at all times for the next spawn."
+        ],
+        "colors": ["Red", "Yellow", "Purple", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The room looks easy because it starts mostly empty, but each exit spawns a new block — keep one lane free.",
+        "Service the green `7` device on the right first, then the purple `8` on the left.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the red L-shaped block toward the right wall exit to service the green `7` device first."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Move the yellow bar toward the bottom blue exit after the red block has cleared."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the dark center block as a spacer to keep spawned follow-up pieces from blocking exits."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Service the purple `8` device on the left by routing the next spawned piece through its gate."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Continue alternating between the right and bottom exits as new pieces spawn."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Keep one lane free at all times — the lock-up risk is visible at 00:52 in the video."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last colored piece after both device counters are at zero and no more blocks spawn."
+        }
+      ],
+      "failurePoints": [
+        "Using the bottom blue exit before the right red exit is serviced, which produces the wrong follow-up piece and disrupts the device sequence.",
+        "Letting spawned blocks fill the last open lane — once the room is full, there is no recovery move."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 35 Walkthrough and Solution",
+    "description": "Solve Block Out level 35 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

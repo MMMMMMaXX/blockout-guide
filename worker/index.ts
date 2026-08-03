@@ -1,0 +1,76 @@
+/** 文件职责：提供 vinext 的 Cloudflare Worker 入口和图片优化适配。 */
+import {
+  handleImageOptimization,
+  DEFAULT_DEVICE_SIZES,
+  DEFAULT_IMAGE_SIZES,
+} from "vinext/server/image-optimization";
+import handler from "vinext/server/app-router-entry";
+import levels, { editorial } from "virtual:blockout-content";
+import { buildRobotsText, buildSitemapXml } from "@/lib/seo/crawl-files";
+
+interface AssetFetcher {
+  fetch(request: Request): Promise<Response>;
+}
+
+interface Env {
+  ASSETS: AssetFetcher;
+  IMAGES: {
+    input(stream: ReadableStream): {
+      transform(options: Record<string, unknown>): {
+        output(options: { format: string; quality: number }): Promise<{ response(): Response }>;
+      };
+    };
+  };
+}
+
+interface ExecutionContext {
+  waitUntil(promise: Promise<unknown>): void;
+  passThroughOnException(): void;
+}
+
+const worker = {
+  /** 只在约定端点执行图片转换，其余请求交给应用路由处理器。 */
+  async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
+    const url = new URL(request.url);
+
+    if (url.pathname === "/robots.txt") {
+      return new Response(buildRobotsText(), {
+        headers: { "content-type": "text/plain; charset=utf-8" },
+      });
+    }
+
+    if (url.pathname === "/sitemap.xml") {
+      return new Response(buildSitemapXml(levels, editorial), {
+        headers: { "content-type": "application/xml; charset=utf-8" },
+      });
+    }
+
+    if (url.pathname === "/_vinext/image") {
+      const allowedWidths = [...DEFAULT_DEVICE_SIZES, ...DEFAULT_IMAGE_SIZES];
+      return handleImageOptimization(
+        request,
+        {
+          fetchAsset: (path) => {
+            // 生产平台通过 env.ASSETS 服务静态资产；本地 vinext dev 无此绑定，回退到同域 fetch。
+            const assetUrl = new URL(path, request.url);
+            if (env.ASSETS) {
+              return env.ASSETS.fetch(new Request(assetUrl));
+            }
+            return fetch(assetUrl);
+          },
+          transformImage: async (body, { width, format, quality }) => {
+            const result = await env.IMAGES.input(body)
+              .transform(width > 0 ? { width } : {})
+              .output({ format, quality });
+            return result.response();
+          },
+        },
+        allowedWidths,
+      );
+    }
+
+    return handler.fetch(request, env, ctx);
+  },
+};
+
+export default worker;

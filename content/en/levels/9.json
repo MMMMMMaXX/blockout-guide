@@ -1,0 +1,98 @@
+{
+  "id": "en-level-9",
+  "locale": "en",
+  "levelNumber": 9,
+  "title": "Block Out Level 9 Walkthrough",
+  "summary": "Block Out Level 9 is a twin-tower puzzle with a cramped middle notch. Clear the right yellow exit first, give blue the center cavity, then rotate green, pink, and red clockwise around the frame.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "Block Out Level 9 is a twin-tower puzzle with a cramped middle notch. Clear the right yellow exit first, give blue the center cavity, then rotate green, pink, and red clockwise around the frame.",
+        "landmarks": [
+          "Block Out Level 9 is a twin-tower puzzle with a cramped middle notch.",
+          "Clear the right yellow exit first, give blue the center cavity, then rotate green, pink, and red clockwise around the frame.",
+          "The board mixes Pink, Red, Yellow and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Pink", "Red", "Yellow", "Blue", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use the right yellow exit to break the symmetry.",
+        "The center blue block should move as soon as the notch opens.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the mid-right yellow block out through the yellow gate on the right wall."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Move the center blue block into the new opening so the middle notch is no longer blocked."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Rotate the lower-right green block downward and then pull the lower-left blue block into its own lane."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the freed center to shuffle the pink blocks across the top and middle rows while the edge counters shrink."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the lower red block settle into the center once green and blue are no longer crossing it."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Save the two top-corner red blocks until the upper lanes are clear."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish by sending the red pair across the top exits and letting the final blue block drain through the last blue finish."
+        }
+      ],
+      "failurePoints": [
+        "Leaving the center blue block parked after the right yellow exit is already open.",
+        "Trying to force one of the top red blocks before the lower green and blue pieces have rotated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 9 Walkthrough and Solution",
+    "description": "Solve Block Out level 9 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

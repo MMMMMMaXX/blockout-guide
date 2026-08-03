@@ -1,0 +1,96 @@
+{
+  "id": "en-level-40",
+  "locale": "en",
+  "levelNumber": 40,
+  "title": "Block Out Level 40 Walkthrough",
+  "summary": "Block Out Level 40 has a boss frame already at counter `0` — it does not need reduction, just the physical shelf of blocks underneath removed. The densely packed blue, red, green, and yellow blocks below the frame form that shelf, and th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out Level 40 has a boss frame already at counter `0` — it does not need reduction, just the physical shelf of blocks underneath removed. The densely packed blue, red, green, and yellow blocks below the frame form that shelf, and the solve is about shifting the right blocks to break the support. Once the shelf goes, the frame clears instantly and the remaining blocks unwind through the side exits.",
+        "landmarks": [
+          "Block Out Level 40 has a boss frame already at counter `0` — it does not need reduction, just the physical shelf of blocks underneath removed.",
+          "The densely packed blue, red, green, and yellow blocks below the frame form that shelf, and the solve is about shifting the right blocks to break the support.",
+          "Once the shelf goes, the frame clears instantly and the remaining blocks unwind through the side exits."
+        ],
+        "colors": ["Blue", "Red", "Green", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The boss reads `0` — do not waste moves trying to reduce it. Just remove the shelf underneath.",
+        "Watch for blocks sliding up to rebuild the shelf when you clear the lower row in the wrong order.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the small `2`-counter blocks on the left edge to create the first opening."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the blue blocks away from directly under the boss frame to start weakening the shelf."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the red blocks in the center to break the last support point under the `0`-counter frame."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Watch the boss frame clear instantly once the shelf is gone (visible at 01:24)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the newly opened top space to sort the remaining colored blocks."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the red and green blocks through the side exits."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the yellow and blue cleanup after the room has flattened."
+        }
+      ],
+      "failurePoints": [
+        "Treating the boss like a standard counter puzzle — the `0` means it needs no reduction, only a shelf break.",
+        "Shifting the wrong lower block first, which causes remaining pieces to slide up and rebuild the shelf under the boss frame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 40 Walkthrough and Solution",
+    "description": "Solve Block Out level 40 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

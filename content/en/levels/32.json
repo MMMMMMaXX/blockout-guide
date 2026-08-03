@@ -1,0 +1,96 @@
+{
+  "id": "en-level-32",
+  "locale": "en",
+  "levelNumber": 32,
+  "title": "Block Out Level 32 Walkthrough",
+  "summary": "Block Out Level 32 is a symmetrical frame-breaking puzzle. A tall red block formation shaped like a hollow rectangle dominates the center, held in place by cyan `2`-counter blocks on both sides and a yellow `6` cap on top. The solve requ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "Block Out Level 32 is a symmetrical frame-breaking puzzle. A tall red block formation shaped like a hollow rectangle dominates the center, held in place by cyan `2`-counter blocks on both sides and a yellow `6` cap on top. The solve requires even reduction from both flanks: clear the cyan counters first, peel the outer red columns, and only then drop the yellow cap after the red structure has already loosened.",
+        "landmarks": [
+          "Block Out Level 32 is a symmetrical frame-breaking puzzle.",
+          "A tall red block formation shaped like a hollow rectangle dominates the center, held in place by cyan `2`-counter blocks on both sides and a yellow `6` cap on top.",
+          "The solve requires even reduction from both flanks: clear the cyan counters first, peel the outer red columns, and only then drop the yellow cap after the red structure has already loosened."
+        ],
+        "colors": ["Red", "Cyan", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Watch the symmetry — if one flank of the red formation looks thicker than the other, equalize before continuing.",
+        "The yellow `6` cap is a keystone, not an opener. It drops only after the red columns underneath are thinned.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the left cyan `2`-counter block to open a thin lane on the left flank of the red formation."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Mirror that by clearing the right cyan `2`-counter block so both flanks of the red mass are exposed."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start peeling the outer red columns from both edges now that the side lanes exist."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Let the yellow `6` cap at the top begin lowering as the red columns underneath thin out."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Continue alternating left and right red column work to keep the formation balanced."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Once the red mass is mostly separated, feed the freed pieces through the side exits and bottom yellow arrow."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the yellow cap and the last inner red blocks after the frame is broken."
+        }
+      ],
+      "failurePoints": [
+        "Overworking one side of the red formation while the other stays intact — the red mass shifts into the wall on the undeveloped side and locks the board.",
+        "Trying to remove the yellow `6` cap before the red columns underneath have thinned enough, which just reseals the center."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 32 Walkthrough and Solution",
+    "description": "Solve Block Out level 32 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

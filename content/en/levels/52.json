@@ -1,0 +1,91 @@
+{
+  "id": "en-level-52",
+  "locale": "en",
+  "levelNumber": 52,
+  "title": "Block Out Level 52 Walkthrough",
+  "summary": "Block Out Level 52 splits the board with tall red vertical blocks down the center, creating a dual-target puzzle where the left side (green, yellow) and right side (blue, pink) must be cleared in coordination. The counters '10' and '12'...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "Block Out Level 52 splits the board with tall red vertical blocks down the center, creating a dual-target puzzle where the left side (green, yellow) and right side (blue, pink) must be cleared in coordination. The counters '10' and '12' at the top track remaining blocks on each side. Drain the bottom rows first, then work the sides inward toward the center red wall.",
+        "landmarks": [
+          "Block Out Level 52 splits the board with tall red vertical blocks down the center, creating a dual-target puzzle where the left side (green, yellow) and right side (blue, pink) must be cleared in coordination.",
+          "The counters '10' and '12' at the top track remaining blocks on each side.",
+          "Drain the bottom rows first, then work the sides inward toward the center red wall."
+        ],
+        "colors": ["Red", "Green", "Blue", "Yellow", "Pink", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The tall red center blocks are a wall, not an obstacle to rush. Clear both sides first.",
+        "Watch the dual counters at the top — they tell you how many blocks still need to exit on each side.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the lower blue blocks on the left side and pink blocks on the right side toward their respective exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the yellow/orange blocks on the left out through the left exit to open the middle-left area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Move the green blocks at the top-left through the left gate now that the path is clear."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Begin sliding the tall red vertical blocks in the center — they can only move once both sides have room."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the remaining blue blocks on the right through the right exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining red center pieces and the bottom red block."
+        }
+      ],
+      "failurePoints": [
+        "Moving the tall red center blocks before draining the bottom rows — they block both exits simultaneously.",
+        "Focusing on one side only while the other side is still packed, which stalls the center red wall."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 52 Walkthrough and Solution",
+    "description": "Solve Block Out level 52 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

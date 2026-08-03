@@ -1,0 +1,49 @@
+{
+  "kind": "guide",
+  "id": "en-guide-duration-blocks-power",
+  "locale": "en",
+  "slug": "duration-blocks-power",
+  "title": "How to use Duration Block power",
+  "summary": "Clear Duration Blocks at the moment their timed power helps most, and queue the supported moves right after.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Use Block Out Duration Block Power Well",
+    "description": "Time Block Out Duration Block clears so the temporary power supports the hardest moves and is not wasted on easy ones."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "When should I clear Duration Blocks to get the most from their power?",
+  "sections": [
+    {
+      "heading": "Clear on cue, not on sight",
+      "body": [
+        "The power is temporary, so clear the Duration Block when the next moves actually need it.",
+        "Clearing too early wastes the effect before the hard part arrives."
+      ]
+    },
+    {
+      "heading": "Queue the supported moves",
+      "body": [
+        "Decide the moves the power will support before you clear the block.",
+        "Execute them immediately after the clear while the power is active."
+      ]
+    },
+    {
+      "heading": "Do not waste it on easy moves",
+      "body": [
+        "If you could finish a section without the power, save the clear for a tighter spot.",
+        "Match the power to the bottleneck it removes."
+      ]
+    }
+  ],
+  "obstacleIds": [
+    "duration-blocks"
+  ],
+  "boosterIds": [
+    "time-freeze"
+  ],
+  "relatedLevelNumbers": []
+}

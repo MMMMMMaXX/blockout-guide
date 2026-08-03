@@ -1,0 +1,98 @@
+{
+  "id": "en-level-10",
+  "locale": "en",
+  "levelNumber": 10,
+  "title": "Block Out Level 10 Walkthrough",
+  "summary": "Block Out Level 10 replaces plain colors with giant number slabs. Clear the top white blocker, peel the yellow tiles down the right corridor, and only then let the large cyan blocks cascade into the center.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "Block Out Level 10 replaces plain colors with giant number slabs. Clear the top white blocker, peel the yellow tiles down the right corridor, and only then let the large cyan blocks cascade into the center.",
+        "landmarks": [
+          "Block Out Level 10 replaces plain colors with giant number slabs.",
+          "Clear the top white blocker, peel the yellow tiles down the right corridor, and only then let the large cyan blocks cascade into the center.",
+          "The board mixes Cyan, White, Black and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Cyan", "White", "Black", "Yellow", "Red", "Blue", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The top white exit is the first clean action.",
+        "The yellow number column is a wedge that must be reduced before the cyan slabs move.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Send the top-right white blocker up through the white gate."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the first yellow number tile down the right corridor so the upper black blocker can move."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep alternating the yellow tiles and black blockers until the cyan gate on the right starts opening enough for the large slabs to shift."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Slide the upper cyan rectangles downward in stages, turning the `22/21/19` cluster into lower placements as the corridor clears."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the right column is no longer jammed, pull the middle white block into the red lane and release the remaining yellow number tiles through the bottom-right finish."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Use the new central space to separate the last cyan slabs from the red and blue finish bars."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the short pink, blue, and red bars after the final cyan block has already left."
+        }
+      ],
+      "failurePoints": [
+        "Treating the big cyan blocks as the opening move instead of reducing the right corridor first.",
+        "Leaving the yellow number tiles stacked on the right when the black blockers still need to rotate."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 10 Walkthrough and Solution",
+    "description": "Solve Block Out level 10 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

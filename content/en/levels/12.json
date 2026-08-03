@@ -1,0 +1,93 @@
+{
+  "id": "en-level-12",
+  "locale": "en",
+  "levelNumber": 12,
+  "title": "Block Out Level 12 Walkthrough",
+  "summary": "Block Out Level 12 is a sandglass puzzle with two chambers joined by a narrow waist. Pass the long bars through the center throat in alternating order, keep both halves balanced, and use the temporary pockets for the cyan `2` bricks.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "Block Out Level 12 is a sandglass puzzle with two chambers joined by a narrow waist. Pass the long bars through the center throat in alternating order, keep both halves balanced, and use the temporary pockets for the cyan `2` bricks.",
+        "landmarks": [
+          "Block Out Level 12 is a sandglass puzzle with two chambers joined by a narrow waist.",
+          "Pass the long bars through the center throat in alternating order, keep both halves balanced, and use the temporary pockets for the cyan `2` bricks.",
+          "The board mixes Blue, Red, Cyan and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Blue", "Red", "Cyan", "Yellow", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Every strong move either enters or clears the waist.",
+        "Move the paired cyan `2` bricks only after a long bar has crossed.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drop one of the center vertical bars through the narrow throat so the two chambers stop pinning each other."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Swap the top red and blue columns through the waist until one side counter shrinks enough to give extra room."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Move the paired cyan `2` bricks only after a long bar has crossed, so they use the temporary pocket instead of clogging it."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Keep alternating top-to-bottom and bottom-to-top transfers through the center until the outer yellow columns can separate cleanly."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the newly opened side lanes to remove the red columns from each chamber."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish by draining the last yellow and blue columns after the throat is no longer occupied."
+        }
+      ],
+      "failurePoints": [
+        "Trying to clear one chamber completely before using the other half.",
+        "Parking a short block in the throat when a full column still needs to cross."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 12 Walkthrough and Solution",
+    "description": "Solve Block Out level 12 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

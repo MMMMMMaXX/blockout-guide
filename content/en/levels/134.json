@@ -1,0 +1,98 @@
+{
+  "id": "en-level-134",
+  "locale": "en",
+  "levelNumber": 134,
+  "title": "Block Out Level 134 Walkthrough",
+  "summary": "Block Out Level 134 is a Hard vertical board embedding orange keys, blue locks, and wrench tools directly in the block field alongside purple `12` towers and a top `15` strip. The padlocked cyan tile guards the main exit lane, and the ke...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/134/",
+        "layout": "Block Out Level 134 is a Hard vertical board embedding orange keys, blue locks, and wrench tools directly in the block field alongside purple `12` towers and a top `15` strip. The padlocked cyan tile guards the main exit lane, and the key and lock sit on opposite sides — the middle cyan bar must shift left before the key can reach the lock, or the left-arrow lane seals.",
+        "landmarks": [
+          "Block Out Level 134 is a Hard vertical board embedding orange keys, blue locks, and wrench tools directly in the block field alongside purple `12` towers and a top `15` strip.",
+          "The padlocked cyan tile guards the main exit lane, and the key and lock sit on opposite sides — the middle cyan bar must shift left before the key can reach the lock, or the left-arrow lane seals.",
+          "The board mixes Purple, Blue, Cyan and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Blue", "Cyan", "Red", "Pink", "Yellow", "Orange", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72iQQbHvR1s",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72iQQbHvR1s",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the blue 7 pocket before touching the locked cyan tile in the bottom cluster.",
+        "Match the key to the lock before using the wrench tools on the purple L-base.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Break the top 15 strip and the three purple 12 towers without touching the locked cyan tile in the bottom cluster."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the lower-left blue 7 pocket to expose the bottom 9 and 4 counters."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Match the orange key on the left-center band to the blue lock on the right-center."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the orange wrench tools on the left and right flanks to free the purple L-base blocks."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Slide the middle cyan/light-blue bar through the left-arrow lane once the key-lock pair clears."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the remaining red and pink scraps down the red and blue bottom downward arrows."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear the last purple base blocks for the Hard Level board clear."
+        }
+      ],
+      "failurePoints": [
+        "Detonating a bomb tile beside the locked cyan block before the 7 pocket clears, sealing the 9/4 gate.",
+        "Moving the purple L-base before the key-lock pair clears, re-blocking the bottom downward arrows."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/134/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 134 Walkthrough and Solution",
+    "description": "Solve Block Out level 134 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "en-level-19",
+  "locale": "en",
+  "levelNumber": 19,
+  "title": "Block Out Level 19 Walkthrough",
+  "summary": "Block Out Level 19 is a basement-first numeric board. Open the lower red, green, black, and white stack first, then flatten the giant `20/10` cyan carpet, and spend the yellow roof only after the middle has softened.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "Block Out Level 19 is a basement-first numeric board. Open the lower red, green, black, and white stack first, then flatten the giant `20/10` cyan carpet, and spend the yellow roof only after the middle has softened.",
+        "landmarks": [
+          "Block Out Level 19 is a basement-first numeric board.",
+          "Open the lower red, green, black, and white stack first, then flatten the giant `20/10` cyan carpet, and spend the yellow roof only after the middle has softened.",
+          "The board mixes Cyan, Blue, Yellow and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Cyan", "Blue", "Yellow", "Red", "Green", "Black", "White"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The basement is phase one.",
+        "The giant cyan field only matters after the lower blockers have rotated.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Open the right side of the basement so the lower red and green pieces can start rotating."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel away the black and white blockers that are pinning the cyan carpet from below."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Leave the repeated `20/10` slabs mostly parked until the basement has become flatter."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once the lower stack opens, start flattening the cyan carpet from the middle outward."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the top blue-and-yellow roof move only after the center slabs are no longer acting like one solid sheet."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Use the side counters to finish off the remaining cyan values."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "End with the last yellow roof pieces and the bottom red gate."
+        }
+      ],
+      "failurePoints": [
+        "Treating the middle cyan carpet as the opening problem.",
+        "Leaving the basement stacked while trying to move the roof."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 19 Walkthrough and Solution",
+    "description": "Solve Block Out level 19 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

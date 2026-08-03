@@ -1,0 +1,16 @@
+{
+  "kind": "update",
+  "id": "template-update",
+  "locale": "en",
+  "slug": "replace-version-slug",
+  "title": "Replace with sourced version title",
+  "summary": "Replace with verified changes and their guide-library impact.",
+  "status": "draft",
+  "version": "replace-version",
+  "changes": [],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-02",
+  "sourceReferences": [],
+  "updatedAt": "2026-08-02"
+}

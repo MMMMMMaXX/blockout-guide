@@ -1,0 +1,93 @@
+{
+  "id": "en-level-139",
+  "locale": "en",
+  "levelNumber": 139,
+  "title": "Block Out Level 139 Walkthrough",
+  "summary": "Block Out Level 139 is a Super Hard dual-tier board — a rainbow upper grid drains into a lower tier through paired down-arrows, feeding `17` and `13` purple tubes flanked by blue `4` side counters. The upper grid empties first, then the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/139/",
+        "layout": "Block Out Level 139 is a Super Hard dual-tier board — a rainbow upper grid drains into a lower tier through paired down-arrows, feeding `17` and `13` purple tubes flanked by blue `4` side counters. The upper grid empties first, then the real puzzle begins: the lower tier's tubes gate each drop phase independently, and a green `1` tile at the bottom-left must wait until the border counters align.",
+        "landmarks": [
+          "Block Out Level 139 is a Super Hard dual-tier board — a rainbow upper grid drains into a lower tier through paired down-arrows, feeding `17` and `13` purple tubes flanked by blue `4` side counters.",
+          "The upper grid empties first, then the real puzzle begins: the lower tier's tubes gate each drop phase independently, and a green `1` tile at the bottom-left must wait until the border counters align.",
+          "The board mixes Purple, Red, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow", "Orange", "Pink", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hT_Nx8ZCThY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hT_Nx8ZCThY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keep both blue 4 squares sealed until the upper grid is fully empty — spending either early locks the 17 tube.",
+        "Clear the blue 1 bar at the top of the lower tier before touching the right-column red scraps.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the top rainbow row down the red left down-arrow without splitting the yellow right pair on the upper grid."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the remaining upper-grid rows through the yellow right down-arrow until the top tier is fully empty."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Spend both blue 4 side counters once the upper grid clears, unlocking the lower 17 tube."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Break the lower blue 1 bar at the top of the bottom tier after the 17 counter hits zero."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the left-border 5/1/1 counters and the right-border 1/1 pair through the side lanes."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Detonate the green 2×2 cluster at the bottom-center and feed the last red/pink right-column scraps for the SUPER HARD board clear."
+        }
+      ],
+      "failurePoints": [
+        "Spending either blue 4 counter before the upper grid empties, locking the 17 tube above 9.",
+        "Clearing the right-column red scraps before the blue 1 bar breaks, re-sealing the 13 tube."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/139/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 139 Walkthrough and Solution",
+    "description": "Solve Block Out level 139 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

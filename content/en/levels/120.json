@@ -1,0 +1,91 @@
+{
+  "id": "en-level-120",
+  "locale": "en",
+  "levelNumber": 120,
+  "title": "Block Out Level 120 Walkthrough",
+  "summary": "Block Out Level 120 is a fast crown-and-bomb board where the real objectives are specific marked tiles — red `15` and green `25` crowns, red `23` and yellow `48` bombs — not generic color groups. The padlock row at the bottom stays seale...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/120/",
+        "layout": "Block Out Level 120 is a fast crown-and-bomb board where the real objectives are specific marked tiles — red `15` and green `25` crowns, red `23` and yellow `48` bombs — not generic color groups. The padlock row at the bottom stays sealed until the crowns and bombs are all gone. Detonate out of order and the last bomb blocks the final red exit, one move from the PERFECT clear.",
+        "landmarks": [
+          "Block Out Level 120 is a fast crown-and-bomb board where the real objectives are specific marked tiles — red `15` and green `25` crowns, red `23` and yellow `48` bombs — not generic color groups.",
+          "The padlock row at the bottom stays sealed until the crowns and bombs are all gone.",
+          "Detonate out of order and the last bomb blocks the final red exit, one move from the PERFECT clear."
+        ],
+        "colors": ["Red", "Green", "Blue", "Cyan", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q5ubnDWBJ10",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q5ubnDWBJ10",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break red `15` before green `25` — the crown pair order matters for the left-column hole.",
+        "Pop both yellow `48` bombs before spending the bottom padlock counters.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Tap the top red triangle piece, then clear the cyan `4` and blue `10` edge tiles."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the center crown pair — red `15` first, then green `25` — before touching the yellow `60` bricks."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Detonate the red `23` bomb block once the left-column hole opens."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Pop both yellow `48` bomb tiles while the blue `8` and cyan `9` top pair is still movable."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the bottom white `6` and `4` counter tiles to unlock the padlock row."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the remaining red bottom scraps for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Detonating the yellow `48` bombs after the padlock row — one live bomb blocks the final red exit.",
+        "Touching the yellow `60` bricks before the red `15` crown clears."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/120/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 120 Walkthrough and Solution",
+    "description": "Solve Block Out level 120 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

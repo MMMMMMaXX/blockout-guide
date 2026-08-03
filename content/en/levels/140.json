@@ -1,0 +1,91 @@
+{
+  "id": "en-level-140",
+  "locale": "en",
+  "levelNumber": 140,
+  "title": "Block Out Level 140 Walkthrough",
+  "summary": "Block Out Level 140 uses four vertical piston bars as elevators — each must match its column color in the upper grid before the central `7` circle starts counting cycles. The pistons only travel when their color matches, so the upper row...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "Block Out Level 140 uses four vertical piston bars as elevators — each must match its column color in the upper grid before the central `7` circle starts counting cycles. The pistons only travel when their color matches, so the upper row's directional arrow blocks must clear first to reveal the target colors. Align each piston, then drain the `7` circle for the PERFECT clear.",
+        "landmarks": [
+          "Block Out Level 140 uses four vertical piston bars as elevators — each must match its column color in the upper grid before the central `7` circle starts counting cycles.",
+          "The pistons only travel when their color matches, so the upper row's directional arrow blocks must clear first to reveal the target colors.",
+          "Align each piston, then drain the `7` circle for the PERFECT clear."
+        ],
+        "colors": ["Red", "Yellow", "Blue", "Green", "Purple", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keep blue and yellow pistons level during the opening — raising yellow early splits the top-row 1 pair.",
+        "Clear the red L-shape with left/down arrows before lowering the yellow piston on the right.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Raise the red piston bar to the top-row red 2 block and slide it down the red bottom-arrow to spend the 2 counter."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Align the yellow bar with the yellow 1 tile and the blue bar with the blue 1 tile, lowering each through its matching bottom-arrow."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Raise the green bar for the right-column green blocks and spend the white 3 edge counter on the upper-right strip."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the upper panel top row (purple/yellow/blue/green with up-arrows) once all four upper counters hit zero."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Slide the red L-shape with left/down arrows through the lower-left lane, then push the blue vertical up-arrow block through the center corridor."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Lower the yellow and purple right-side pieces and spend the final central 7 circle for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Raising the yellow piston during step 1, splitting the top-row 1 pair and locking the central 7 above 3.",
+        "Lowering the yellow piston before the red L-shape clears, stranding the blue down-arrow block at the base."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 140 Walkthrough and Solution",
+    "description": "Solve Block Out level 140 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

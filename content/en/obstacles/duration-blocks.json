@@ -1,0 +1,37 @@
+{
+  "kind": "obstacle",
+  "id": "en-obstacle-duration-blocks",
+  "locale": "en",
+  "slug": "duration-blocks",
+  "title": "Duration blocks: clear them for a timed power",
+  "summary": "Duration Blocks were introduced in Version 318; clearing them activates a special power that lasts for a limited time.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Duration Blocks Obstacle Guide",
+    "description": "Learn how Block Out Duration Blocks activate a timed power when cleared and when to trigger that power for the most value."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Duration Blocks arrived in Block Out Version 318 with the note 'Clear them and activate their special power!'.",
+    "Clearing a Duration Block triggers a special power rather than only freeing space.",
+    "The power is temporary, so its benefit expires if you do not use it promptly."
+  ],
+  "strategyPoints": [
+    "Prioritize clearing Duration Blocks when the activated power directly helps the next moves.",
+    "Queue the moves you want the power to support right after the clear.",
+    "Time the clear so the power is active during the hardest part of the route."
+  ],
+  "avoidPoints": [
+    "Do not clear a Duration Block early if its power will expire before you need it.",
+    "Do not waste the power on moves you could do without it.",
+    "Do not treat Duration Blocks as ordinary blockers once the power matters."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

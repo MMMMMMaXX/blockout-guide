@@ -1,0 +1,98 @@
+{
+  "id": "en-level-27",
+  "locale": "en",
+  "levelNumber": 27,
+  "title": "Block Out Level 27 Walkthrough",
+  "summary": "Block Out Level 27 is a pocket-release boss puzzle. Empty the right cavity first, start lowering the left `7` boss second, and only then clean up the late green, red, and yellow strips.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "Block Out Level 27 is a pocket-release boss puzzle. Empty the right cavity first, start lowering the left `7` boss second, and only then clean up the late green, red, and yellow strips.",
+        "landmarks": [
+          "Block Out Level 27 is a pocket-release boss puzzle.",
+          "Empty the right cavity first, start lowering the left `7` boss second, and only then clean up the late green, red, and yellow strips.",
+          "The board mixes Purple, White, Black and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "White", "Black", "Green", "Red", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The right pocket opens the left boss.",
+        "The late color strips are post-boss cleanup.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Empty the right white-and-black cavity first."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Lower the left-side counters while the boss is still intact."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start shrinking the framed `7` panel only after the side pocket is clear."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the newly opened space to rotate the late green and red strips."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Bring the yellow strip in only after the boss is already below mid-count."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the side exits once the boss is nearly gone."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last color strips after the framed panel has collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring the right cavity and pulling on the left boss too early.",
+        "Treating the late color strips as the opening phase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 27 Walkthrough and Solution",
+    "description": "Solve Block Out level 27 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

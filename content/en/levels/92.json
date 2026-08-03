@@ -1,0 +1,103 @@
+{
+  "id": "en-level-92",
+  "locale": "en",
+  "levelNumber": 92,
+  "title": "Block Out Level 92 Walkthrough",
+  "summary": "Block Out Level 92 packs colored blocks (a green L-shape, an orange `7` counter block, a large red square, blue, yellow, and purple pieces with lock/key icons) into the upper section while two massive chambers fill the lower board — coun...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/92/",
+        "layout": "Block Out Level 92 packs colored blocks (a green L-shape, an orange `7` counter block, a large red square, blue, yellow, and purple pieces with lock/key icons) into the upper section while two massive chambers fill the lower board — counter `15` in a red frame on top, counter `10` in an orange frame below. Clear the upper section to open lanes, feed the `15` chamber first, sort the spill, then feed the `10` chamber.",
+        "landmarks": [
+          "Block Out Level 92 packs colored blocks (a green L-shape, an orange `7` counter block, a large red square, blue, yellow, and purple pieces with lock/key icons) into the upper section while two massive chambers fill the lower board — counter `15` in a red frame on top, counter `10` in an orange frame below.",
+          "Clear the upper section to open lanes, feed the `15` chamber first, sort the spill, then feed the `10` chamber.",
+          "The board mixes Green, Orange, Yellow and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Orange", "Yellow", "Red", "Blue", "Purple", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "C32pAC1HOlo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=C32pAC1HOlo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the upper section as fast as possible — the two chamber feeds need all the remaining time.",
+        "Remove the small cyan and green blocks in the border strip before starting the `15` chamber feed.",
+        "Sort the spilled blocks immediately after the `15` chamber collapses, before they jam the `10` chamber lane."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the green L-shaped block in the top-left through the left-wall exit to open the first lane (02:54 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Begin feeding the orange `7` block upward through the top exit — seven passes (02:49–02:39)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the lock/key pairs: remove the key blocks to unlock the blue pieces beside the large red square (02:44)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Push the yellow block right through the right-wall exit, then extract the large red square block from the center (02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the small cyan and green blocks in the border strip between upper and lower zones before they drift into the feed lane (02:34)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Begin feeding the upper chamber (counter `15`) through its exit lane — keep this lane permanently clear for fifteen passes (02:29–02:15)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "After the `15` chamber collapses, immediately sort the spilled red, blue, green, and yellow blocks before they block the lower lane (02:10)."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Feed the lower chamber (counter `10`) through the bottom exits — ten passes to finish (02:10–02:00)."
+        }
+      ],
+      "failurePoints": [
+        "Starting the `15` chamber feed while the border strip still has small cyan and green blocks — they drift into the feed lane and stall the counter mid-pass.",
+        "Ignoring the spilled blocks after the `15` chamber collapses — they jam the `10` chamber's exit lane and force multiple recovery moves."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/92/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 92 Walkthrough and Solution",
+    "description": "Solve Block Out level 92 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

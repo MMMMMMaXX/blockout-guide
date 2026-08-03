@@ -1,0 +1,98 @@
+{
+  "id": "en-level-20",
+  "locale": "en",
+  "levelNumber": 20,
+  "title": "Block Out Level 20 Walkthrough",
+  "summary": "Block Out Level 20 is a two-room boss puzzle centered on a huge purple `5` block. Prepare the lower room, keep the green stem free, reduce the frame counters around the boss, and only then let the upper chamber resolve.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "Block Out Level 20 is a two-room boss puzzle centered on a huge purple `5` block. Prepare the lower room, keep the green stem free, reduce the frame counters around the boss, and only then let the upper chamber resolve.",
+        "landmarks": [
+          "Block Out Level 20 is a two-room boss puzzle centered on a huge purple `5` block.",
+          "Prepare the lower room, keep the green stem free, reduce the frame counters around the boss, and only then let the upper chamber resolve.",
+          "The board mixes Purple, Green, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Green", "Red", "Blue", "Pink", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Protect the green stem.",
+        "The lower room is support work for the upper boss.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear space around the yellow bottom gate in the lower room so the first counters begin to fall."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Rotate the red and blue lower-room blocks without pinning the central green stem."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the purple `5` parked in the upper chamber while the top frame counters drop."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the lower room to keep feeding the sides of the upper chamber until the boss frame is almost open."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Free the green stem only after the lower room has enough empty space to absorb the next moves."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Let the upper chamber finish once the purple `5` block is no longer locked by the frame."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "End with the last lower-room colors after the boss block has already cleared."
+        }
+      ],
+      "failurePoints": [
+        "Blocking the green connector with a lower-room color block.",
+        "Trying to move the purple `5` while the frame counters are still high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 20 Walkthrough and Solution",
+    "description": "Solve Block Out level 20 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

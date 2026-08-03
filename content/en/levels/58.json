@@ -1,0 +1,93 @@
+{
+  "id": "en-level-58",
+  "locale": "en",
+  "levelNumber": 58,
+  "title": "Block Out Level 58 Walkthrough",
+  "summary": "Block Out Level 58 is a funnel board with three wide cyan bays, a smaller throat marked `4`, and a cluttered upper deck balancing a purple `6` chamber against a framed blue block on the right. Open the right shoulder first, trim the left...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "Block Out Level 58 is a funnel board with three wide cyan bays, a smaller throat marked `4`, and a cluttered upper deck balancing a purple `6` chamber against a framed blue block on the right. Open the right shoulder first, trim the left `6` chamber second, and only then let the red and green center strips drop into the cyan funnel.",
+        "landmarks": [
+          "Block Out Level 58 is a funnel board with three wide cyan bays, a smaller throat marked `4`, and a cluttered upper deck balancing a purple `6` chamber against a framed blue block on the right.",
+          "Open the right shoulder first, trim the left `6` chamber second, and only then let the red and green center strips drop into the cyan funnel.",
+          "The board mixes Purple, Blue, Orange and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Blue", "Orange", "Green", "Red", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "If the framed blue block is still hanging over the right shoulder, the funnel is not ready.",
+        "Open both shoulders before you let the red center strip drop into the cyan bays.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the framed blue block in the upper-right corner so the right shoulder starts opening."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shorten the skinny cyan `2` counters on that same side before you touch the middle too hard."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start reducing the purple `6` chamber on the left once the right shoulder is lighter."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Let the red center strip and nearby green pieces fall into the three wide cyan bays only after both shoulders are open."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Collapse the lower `4` throat once the top deck has stopped feeding extra blockers into it."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last red vertical piece and the surviving shoulder blocks after the funnel is mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Trying to fill the cyan bays while the framed blue block still hangs over the right shoulder.",
+        "Dropping the red center strip before the left `6` chamber and right `2` counters have both shortened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 58 Walkthrough and Solution",
+    "description": "Solve Block Out level 58 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

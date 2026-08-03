@@ -1,0 +1,93 @@
+{
+  "id": "en-level-5",
+  "locale": "en",
+  "levelNumber": 5,
+  "title": "Block Out Level 5 Walkthrough",
+  "summary": "Block Out Level 5 is a cramped checkerboard between two red columns. Strip the white pieces out through the right gate, let the black blocks collapse into a staircase for the lower-left exit, and save the last red column for the finish.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/5/",
+        "layout": "Block Out Level 5 is a cramped checkerboard between two red columns. Strip the white pieces out through the right gate, let the black blocks collapse into a staircase for the lower-left exit, and save the last red column for the finish.",
+        "landmarks": [
+          "Block Out Level 5 is a cramped checkerboard between two red columns.",
+          "Strip the white pieces out through the right gate, let the black blocks collapse into a staircase for the lower-left exit, and save the last red column for the finish.",
+          "The board mixes Red, White, Black and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "es-W99zOPd8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=es-W99zOPd8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Think right-edge white cleanup first.",
+        "Black needs to form a staircase before the left gate is useful.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the lowest white piece on the right edge out through the white gate."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use the new pocket to peel the next white pieces toward the same exit instead of touching the tall red columns."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Let the black pieces collapse into the lower-center staircase while the center rows are being cleared."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once most of the whites are gone, send the bottom black pieces left into the black gate and then pull the higher black square down into the same channel."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Keep the red columns parked until the white exit and black gate are both finished with their traffic."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish by running the remaining tall red column across the cleared top lane and out through the left red gate."
+        }
+      ],
+      "failurePoints": [
+        "Sliding one of the tall red columns before the black staircase has formed.",
+        "Using the right-side white pocket for red movement instead of spending it on another white exit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/5/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 5 Walkthrough and Solution",
+    "description": "Solve Block Out level 5 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

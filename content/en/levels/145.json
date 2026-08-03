@@ -1,0 +1,96 @@
+{
+  "id": "en-level-145",
+  "locale": "en",
+  "levelNumber": 145,
+  "title": "Block Out Level 145 Walkthrough",
+  "summary": "Block Out Level 145 layers frame counters around a center pink `20` pair, with a bottom combo bar alternating between `6` and `4` as matched groups clear. The combo bar is the real constraint: it must read `6` before the pink pair breaks...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "Block Out Level 145 layers frame counters around a center pink `20` pair, with a bottom combo bar alternating between `6` and `4` as matched groups clear. The combo bar is the real constraint: it must read `6` before the pink pair breaks, or the first combo wastes and the left yellow strip locks in place. A pink troll marker tracks the active clear zone — finish on the red 2×2 and blue `9` for PERFECT.",
+        "landmarks": [
+          "Block Out Level 145 layers frame counters around a center pink `20` pair, with a bottom combo bar alternating between `6` and `4` as matched groups clear.",
+          "The combo bar is the real constraint: it must read `6` before the pink pair breaks, or the first combo wastes and the left yellow strip locks in place.",
+          "A pink troll marker tracks the active clear zone — finish on the red 2×2 and blue `9` for PERFECT."
+        ],
+        "colors": ["Pink", "Red", "Blue", "Green", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Start the combo bar at 6 before breaking the center 20/20 pair.",
+        "Clear the green L-shape before peeling the left yellow strip above it.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top pink up-arrow block and the upper red/yellow row to start the combo bar at 6."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the center pink 20/20 pair without shifting the side yellow stacks."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the upper blue/green vertical columns through the left 2 rail counter."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Peel the left green L-shape and the blue L-shape below it once the top 6 counter drops."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the right-side red 2×2 block beside the 1 label through the 10 right-rail counter."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the bottom 9 box and the 18 corner counter on the remaining blue scraps."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Match the last highlighted group for the PERFECT clear with a score of 20."
+        }
+      ],
+      "failurePoints": [
+        "Breaking the center 20 pair while the combo bar still reads 0, wasting the first combo.",
+        "Clearing the left yellow strip before the green L-shape below it breaks, stranding the red 2×2."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 145 Walkthrough and Solution",
+    "description": "Solve Block Out level 145 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

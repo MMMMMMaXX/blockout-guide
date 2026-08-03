@@ -1,0 +1,96 @@
+{
+  "id": "en-level-50",
+  "locale": "en",
+  "levelNumber": 50,
+  "title": "Block Out Level 50 Walkthrough",
+  "summary": "Block Out Level 50 is the directional slider finale — no bosses, no counters, no devices. Tall arrow blocks packed into three columns can only slide in the direction their arrow points: blue and yellow bars go up, green blocks go down, r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Block Out Level 50 is the directional slider finale — no bosses, no counters, no devices. Tall arrow blocks packed into three columns can only slide in the direction their arrow points: blue and yellow bars go up, green blocks go down, red bars go left or right, and purple pushers fill the edges. The solve is about route order: free one vertical lane first, use the red horizontal bars as traffic controllers (not obstacles), and save the green and purple pieces for after the big bars have cleared.",
+        "landmarks": [
+          "Block Out Level 50 is the directional slider finale — no bosses, no counters, no devices.",
+          "Tall arrow blocks packed into three columns can only slide in the direction their arrow points: blue and yellow bars go up, green blocks go down, red bars go left or right, and purple pushers fill the edges.",
+          "The solve is about route order: free one vertical lane first, use the red horizontal bars as traffic controllers (not obstacles), and save the green and purple pieces for after the big bars have cleared."
+        ],
+        "colors": ["Blue", "Yellow", "Green", "Red", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The red horizontal bars are traffic controllers, not obstacles — keep one in reserve until the verticals are mostly gone.",
+        "Free one long vertical lane first. Do not clear both red bars immediately.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Free the first long vertical lane by sliding one blue or yellow bar up and out."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use that opened lane to shift another yellow or blue arrow block out of the stack."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the right side from overfilling while the first red horizontal bar slides out."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Open the second long lane only after the first side is calmer."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Release the green down-arrow blocks after the vertical blockers are thinner."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Use the purple push blocks late, once the big bars are already gone."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last red or green piece after the room is mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Removing both red horizontal bars before the vertical lanes are ready — this removes your traffic control and the right side overfills.",
+        "Trying to slide a green down-arrow block before the vertical bars above it have cleared, which jams the column."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 50 Walkthrough and Solution",
+    "description": "Solve Block Out level 50 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

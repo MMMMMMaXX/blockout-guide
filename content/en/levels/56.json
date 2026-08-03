@@ -1,0 +1,96 @@
+{
+  "id": "en-level-56",
+  "locale": "en",
+  "levelNumber": 56,
+  "title": "Block Out Level 56 Walkthrough",
+  "summary": "Block Out Level 56 packs a tight grid with a purple '3' block at the top, red and blue blocks filling the upper rows, and yellow/green blocks in the middle. The chokepoint is the purple '3' — it blocks the upper section. Clear the bottom...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/56/",
+        "layout": "Block Out Level 56 packs a tight grid with a purple '3' block at the top, red and blue blocks filling the upper rows, and yellow/green blocks in the middle. The chokepoint is the purple '3' — it blocks the upper section. Clear the bottom first, then work the middle yellow and green blocks out, and finish with the numbered blocks at the top.",
+        "landmarks": [
+          "Block Out Level 56 packs a tight grid with a purple '3' block at the top, red and blue blocks filling the upper rows, and yellow/green blocks in the middle.",
+          "The chokepoint is the purple '3' — it blocks the upper section.",
+          "Clear the bottom first, then work the middle yellow and green blocks out, and finish with the numbered blocks at the top."
+        ],
+        "colors": ["Purple", "Red", "Blue", "Yellow", "Green", "Pink", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sqRrXyRKFBA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sqRrXyRKFBA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The purple '3' block at the top is a multi-pass piece — clear the blocks below it first so it has room to slide.",
+        "Clear the bottom rows first to create sliding space for the upper numbered blocks.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the red and pink blocks at the bottom toward the right exit to open the base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the green blocks on the left out through the left exit to open the lower-left area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Move the yellow blocks in the center through the left exit now that the path is clear."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Begin clearing the blue blocks in the middle through the right exit."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Tackle the purple '3' block at the top — it needs three exits to fully clear."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the remaining red and blue blocks on the right through the right exit."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with any remaining blocks trapped in the corners."
+        }
+      ],
+      "failurePoints": [
+        "Trying to clear the purple '3' block before the blocks below it — it needs room to slide and exit multiple times.",
+        "Clearing the top before the bottom, which leaves the lower blocks trapped with no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/56/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 56 Walkthrough and Solution",
+    "description": "Solve Block Out level 56 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

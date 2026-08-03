@@ -1,0 +1,91 @@
+{
+  "id": "en-level-109",
+  "locale": "en",
+  "levelNumber": 109,
+  "title": "Block Out Level 109 Walkthrough",
+  "summary": "Block Out Level 109 is a Super Hard blast board built around three blue `6` pillars and a row of hammer tools. The hammers break pillar tiles, and a yellow orb follows drawn red and yellow paths to finish the last clusters. The catch is...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/109/",
+        "layout": "Block Out Level 109 is a Super Hard blast board built around three blue `6` pillars and a row of hammer tools. The hammers break pillar tiles, and a yellow orb follows drawn red and yellow paths to finish the last clusters. The catch is sequencing: once the right hammer is spent, the center blast orb must fire — but triggering it before the left path clears strands half the board.",
+        "landmarks": [
+          "Block Out Level 109 is a Super Hard blast board built around three blue `6` pillars and a row of hammer tools.",
+          "The hammers break pillar tiles, and a yellow orb follows drawn red and yellow paths to finish the last clusters.",
+          "The catch is sequencing: once the right hammer is spent, the center blast orb must fire — but triggering it before the left path clears strands half the board."
+        ],
+        "colors": ["Blue", "Red", "Purple", "Green", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MOEMMEAt4Lg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MOEMMEAt4Lg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The yellow blast orb is the finisher, not the opener.",
+        "Save the yellow hammer until the top-right `10` counter is visible.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Use the green hammer tile on the left blue `6` pillar to drop the top-left `13` counter."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Spend the purple hammer on the center `6` pillar once the left rail reads `10`."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the left `8` tile along the red guide path before touching the right pillar."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Save the yellow hammer until the top-right `10` counter is visible and the right rail still shows `7`."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Break the right blue `6` pillar, then move the yellow blast orb along the yellow guide path."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the bottom yellow tile under the starburst and close the remaining side-rail `9` count."
+        }
+      ],
+      "failurePoints": [
+        "Triggering the yellow blast orb before the left `8` tile is gone.",
+        "Spending the yellow hammer too early, leaving the right pillar unbreakable."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/109/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 109 Walkthrough and Solution",
+    "description": "Solve Block Out level 109 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

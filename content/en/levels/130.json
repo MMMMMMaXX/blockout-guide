@@ -1,0 +1,91 @@
+{
+  "id": "en-level-130",
+  "locale": "en",
+  "levelNumber": 130,
+  "title": "Block Out Level 130 Walkthrough",
+  "summary": "Block Out Level 130 chains a 10-wide upper grid to a separate lower counter frame through a lock-and-key mechanism — a blue lock and purple key tile sit in the center row, and matching them opens the feed lane between boards. The red roc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "Block Out Level 130 chains a 10-wide upper grid to a separate lower counter frame through a lock-and-key mechanism — a blue lock and purple key tile sit in the center row, and matching them opens the feed lane between boards. The red rocket-marked blocks in the upper grid look urgent but are just traffic. Move them before the lock/key breaks and the lower green arrow lane seals permanently.",
+        "landmarks": [
+          "Block Out Level 130 chains a 10-wide upper grid to a separate lower counter frame through a lock-and-key mechanism — a blue lock and purple key tile sit in the center row, and matching them opens the feed lane between boards.",
+          "The red rocket-marked blocks in the upper grid look urgent but are just traffic.",
+          "Move them before the lock/key breaks and the lower green arrow lane seals permanently."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Purple", "Pink", "Cyan", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keep the red rocket blocks parked until the blue lock/purple key pair breaks.",
+        "The lower frame counter drops from `20` to `17` as the upper grid clears — watch it before the final push.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the top-row blocks using the blue up-arrow, then clear the green padlock tiles on the upper band."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the chain-linked right-side pair without shifting the red rocket blocks yet."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Match the blue lock tile with the purple key tile in the center row to open the lower frame."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Route the upper grid exits through the left red and right orange arrow lanes."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the bottom counters `4`, `5`, and `1` to feed the lower `17` frame."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the last upper scraps and zero the lower counter tile for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Moving the red rocket blocks before the lock/key pair breaks — the lower green arrow lane seals shut.",
+        "Breaking the chain link while padlock tiles are still on the upper band."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 130 Walkthrough and Solution",
+    "description": "Solve Block Out level 130 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

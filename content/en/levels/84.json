@@ -1,0 +1,91 @@
+{
+  "id": "en-level-84",
+  "locale": "en",
+  "levelNumber": 84,
+  "title": "Block Out Level 84 Walkthrough",
+  "summary": "Block Out Level 84 is a Hard Level with three massive purple blocks bearing the highest counters in the 50-100 range: '12', '21', and '23'. Orange frame borders create chamber partitions around them, with colored blocks packed between th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out Level 84 is a Hard Level with three massive purple blocks bearing the highest counters in the 50-100 range: '12', '21', and '23'. Orange frame borders create chamber partitions around them, with colored blocks packed between the chambers. Clear the small blocks first to open feeding lanes, then feed the purple blocks in ascending counter order — '12' first, '21' second, '23' last.",
+        "landmarks": [
+          "Block Out Level 84 is a Hard Level with three massive purple blocks bearing the highest counters in the 50-100 range: '12', '21', and '23'.",
+          "Orange frame borders create chamber partitions around them, with colored blocks packed between the chambers.",
+          "Clear the small blocks first to open feeding lanes, then feed the purple blocks in ascending counter order — '12' first, '21' second, '23' last."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Feed purple blocks in ascending counter order: '12' first, '21' second, '23' last.",
+        "Keep the '23' block's exit lane clear from the start — never let other blocks drift into its path.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the small colored blocks between the purple chambers through side exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the counter '5' block early."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin feeding the purple '12' block first — it is the lightest."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Feed the purple '21' block once the '12' has shrunk enough to share the lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Save the purple '23' block for last — it needs the widest lane and most passes."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear remaining chamber fragments after all purple blocks are gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to feed the '23' block before the lighter purple blocks have reduced — the lanes are too narrow.",
+        "Leaving colored blocks in the feeding lane, which forces the purple blocks to detour."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 84 Walkthrough and Solution",
+    "description": "Solve Block Out level 84 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

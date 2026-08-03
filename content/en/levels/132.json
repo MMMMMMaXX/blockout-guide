@@ -1,0 +1,96 @@
+{
+  "id": "en-level-132",
+  "locale": "en",
+  "levelNumber": 132,
+  "title": "Block Out Level 132 Walkthrough",
+  "summary": "Block Out Level 132 pins four white `11` overlays onto a 6×6 grid with purple side rails and fixed walls dividing the space. The `6` blocks — not the `11` anchors — are the real objectives, and they must exit through the bottom downward-...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/132/",
+        "layout": "Block Out Level 132 pins four white `11` overlays onto a 6×6 grid with purple side rails and fixed walls dividing the space. The `6` blocks — not the `11` anchors — are the real objectives, and they must exit through the bottom downward-arrow lanes. The yellow `6` and green `6` pair in the center are the last to leave; force them before the right rail hits `3` and the bottom lane closes.",
+        "landmarks": [
+          "Block Out Level 132 pins four white `11` overlays onto a 6×6 grid with purple side rails and fixed walls dividing the space.",
+          "The `6` blocks — not the `11` anchors — are the real objectives, and they must exit through the bottom downward-arrow lanes.",
+          "The yellow `6` and green `6` pair in the center are the last to leave; force them before the right rail hits `3` and the bottom lane closes."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Cyan", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DLaXwz5IAQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DLaXwz5IAQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Collapse all four 11 overlays before sliding the cyan right-lane piece.",
+        "Clear the 6 blocks in order: yellow, then green/blue pair, then red through the right-rail 3.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Break the top red/blue pair under the upward triangles without crossing the left-rail blue 3."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the four white 11 quadrant overlays inward while the side-rail cyan 1 tile stays sealed."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Detonate the yellow 6 cluster in the upper-middle before sliding the cyan right-lane piece."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the green 6 and blue 6 pair through the bottom green and yellow downward arrows."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the red 6 block out the right-rail 3 counter once the center gap opens."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the remaining side-rail counts (3/1/3) to unlock the last cyan L-piece on the right."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Exit the final green and yellow scraps through the open downward lanes for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Splitting an 11 overlay too early, which locks the side-rail 1 tile and seals the center.",
+        "Detonating the red 6 before the center gap opens, blocking the bottom green downward arrow."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/132/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 132 Walkthrough and Solution",
+    "description": "Solve Block Out level 132 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

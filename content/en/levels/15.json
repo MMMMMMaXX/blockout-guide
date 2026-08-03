@@ -1,0 +1,93 @@
+{
+  "id": "en-level-15",
+  "locale": "en",
+  "levelNumber": 15,
+  "title": "Block Out Level 15 Walkthrough",
+  "summary": "Block Out Level 15 is a target-corner twin-tower puzzle. Open the right yellow lane, rotate the middle bars until the lower corner targets can leave, and only then spend the framed top corners.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "Block Out Level 15 is a target-corner twin-tower puzzle. Open the right yellow lane, rotate the middle bars until the lower corner targets can leave, and only then spend the framed top corners.",
+        "landmarks": [
+          "Block Out Level 15 is a target-corner twin-tower puzzle.",
+          "Open the right yellow lane, rotate the middle bars until the lower corner targets can leave, and only then spend the framed top corners.",
+          "The board mixes Blue, Yellow, Pink and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Blue", "Yellow", "Pink", "Green", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The right yellow lane starts the chain.",
+        "Lower corner targets leave before the upper framed corners.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Open the right yellow lane and use it to start rotating the middle red and pink blocks."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Keep the framed blue and yellow top corners parked while the center stack works downward."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Free the lower green target first, then the lower pink target once the bottom notch is no longer crowded."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the new bottom space to separate the central red and blue bars."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "After the lower corners are gone, release the framed upper-right yellow target."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the framed upper-left blue target and the last red bar across the top."
+        }
+      ],
+      "failurePoints": [
+        "Spending a top-corner frame before the lower targets are already moving.",
+        "Ignoring the right yellow lane and trying to rotate the middle stack in place."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 15 Walkthrough and Solution",
+    "description": "Solve Block Out level 15 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

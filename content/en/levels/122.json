@@ -1,0 +1,91 @@
+{
+  "id": "en-level-122",
+  "locale": "en",
+  "levelNumber": 122,
+  "title": "Block Out Level 122 Walkthrough",
+  "summary": "Block Out Level 122 is a head-shaped board — wide at the crown, narrow at the stem — with `60` crown gates and pocket objectives scattered across the face. The pink `29` crown pair at the bottom center and the side counter tiles are real...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "Block Out Level 122 is a head-shaped board — wide at the crown, narrow at the stem — with `60` crown gates and pocket objectives scattered across the face. The pink `29` crown pair at the bottom center and the side counter tiles are real draining objectives. The lower stem is so narrow that one misplaced vertical piece from the upper face can seal the only exit lane.",
+        "landmarks": [
+          "Block Out Level 122 is a head-shaped board — wide at the crown, narrow at the stem — with `60` crown gates and pocket objectives scattered across the face.",
+          "The pink `29` crown pair at the bottom center and the side counter tiles are real draining objectives.",
+          "The lower stem is so narrow that one misplaced vertical piece from the upper face can seal the only exit lane."
+        ],
+        "colors": ["Red", "Blue", "Cyan", "Orange", "Green", "Pink", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the green crown `60` before the red crown `60` to keep the base cluster open.",
+        "Clear both cyan `10` counters before detonating the pink `29` crown pair.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the top red row and the upper-left cyan blocks without touching the bottom crown `60` gap."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the side `17` counter pockets on both ears in alternating passes to keep the frame balanced."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the green crown `60` tile first, then the red crown `60` tile above the yellow/pink/blue base."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Spend the cyan `8` tile and both cyan `10` side counters before the upper body re-seals."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Detonate the pink `29` crown pair at the bottom center once the lower `11` counters are gone."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the isolated pink vertical block and the bottom cyan `4` pair through the narrow stem for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Breaking the red crown `60` before the green crown `60` — this boxes the yellow/pink/blue base cluster.",
+        "Detonating the pink `29` pair before the cyan `10` tiles clear, trapping the isolated pink block in the stem."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 122 Walkthrough and Solution",
+    "description": "Solve Block Out level 122 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

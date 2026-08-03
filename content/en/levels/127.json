@@ -1,0 +1,91 @@
+{
+  "id": "en-level-127",
+  "locale": "en",
+  "levelNumber": 127,
+  "title": "Block Out Level 127 Walkthrough",
+  "summary": "Block Out Level 127 feeds numbered discs — `6`, `4`, `5` — into orange-bordered slots across two chambers, with a bottom Lego brick row supplying the color sequence. The orange-bordered purple `2` pillar anchors the center, and the surro...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/127/",
+        "layout": "Block Out Level 127 feeds numbered discs — `6`, `4`, `5` — into orange-bordered slots across two chambers, with a bottom Lego brick row supplying the color sequence. The orange-bordered purple `2` pillar anchors the center, and the surrounding 2×2 clusters on the right must clear before the pillar can drop. Force the pillar early and it blocks the lower chamber's only feed lane.",
+        "landmarks": [
+          "Block Out Level 127 feeds numbered discs — `6`, `4`, `5` — into orange-bordered slots across two chambers, with a bottom Lego brick row supplying the color sequence.",
+          "The orange-bordered purple `2` pillar anchors the center, and the surrounding 2×2 clusters on the right must clear before the pillar can drop.",
+          "Force the pillar early and it blocks the lower chamber's only feed lane."
+        ],
+        "colors": ["Purple", "Orange", "Green", "Blue", "Red", "Pink", "Yellow", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r6zFw7xFbd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r6zFw7xFbd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Feed the orange `4` into the right `12` chamber before shifting the red 2×2 stack.",
+        "The tall purple `2` pillar is the last objective — do not break it until the bottom green `3` lane is open.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Study the bottom Lego row and feed the first matching pair into the left orange-bordered `14` chamber."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Drop the green `6` disc into the left chamber once the `14` slot opens."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed the orange `4` disc into the right `12` chamber while the white `5` marker on the right rail is still clear."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the red 2×2 and blue 2×2 stacks on the upper-right without blocking the green 2×2 below them."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Route the pink L-shape and bottom green `3` counter through the lower grid."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Break the tall orange-bordered purple `2` pillar and finish the remaining bottom blue scraps."
+        }
+      ],
+      "failurePoints": [
+        "Moving the red 2×2 before the orange `4` disc enters the right `12` chamber — this jams the green `3` lane.",
+        "Breaking the tall purple `2` pillar while the pink L-shape still blocks the lower grid."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/127/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 127 Walkthrough and Solution",
+    "description": "Solve Block Out level 127 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

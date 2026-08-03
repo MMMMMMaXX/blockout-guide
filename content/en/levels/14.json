@@ -1,0 +1,92 @@
+{
+  "id": "en-level-14",
+  "locale": "en",
+  "levelNumber": 14,
+  "title": "Block Out Level 14 Walkthrough",
+  "summary": "Open the white ladder and reduce the top counter before releasing the large cyan centerpiece from its surrounding frame.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "A large cyan counter tile fills the center of a five-color frame, with white pieces concentrated above and to the right and yellow columns holding the side lanes.",
+        "landmarks": [
+          "The center is a large cyan square marked 7.",
+          "A top counter begins at 17 above the central frame.",
+          "White pillars form a ladder on the right side.",
+          "Yellow columns sit on both sides while black pieces anchor the lower corners."
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Work the right-side white lane before spending the bottom yellow exit.",
+        "Leave the cyan 7 in place until the frame has opened on more than one side.",
+        "Judge each clear by the next lane it creates, not only by the block removed now."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Loosen the right edge",
+          "instruction": "Move the upper-right white pieces into their available exit lane so the outer frame begins to shrink."
+        },
+        {
+          "order": 2,
+          "title": "Reduce the top counter",
+          "instruction": "Continue clearing the top structure while keeping the cyan 7 fixed in the center."
+        },
+        {
+          "order": 3,
+          "title": "Preserve the side supports",
+          "instruction": "Use the yellow side columns to keep space available while the lower black pieces are repositioned."
+        },
+        {
+          "order": 4,
+          "title": "Create vertical room",
+          "instruction": "After the right ladder is thinner, bring a white pillar down to open the first vertical lane beside the centerpiece."
+        },
+        {
+          "order": 5,
+          "title": "Release the centerpiece",
+          "instruction": "Move the cyan 7 only when the frame is open on at least two sides, then clear the remaining white and black pieces."
+        },
+        {
+          "order": 6,
+          "title": "Use the yellow exit last",
+          "instruction": "Finish through the bottom yellow exit after the central block and the remaining frame pieces are no longer competing for space."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move the cyan 7 while the right ladder still locks the frame.",
+        "Clearing the bottom yellow lane too early and removing the spacing needed for the middle phase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 14 Walkthrough and Solution",
+    "description": "Match the cyan 7 board, open the right ladder, reduce the top counter and follow the complete Block Out Level 14 solution."
+  },
+  "updatedAt": "2026-08-03"
+}

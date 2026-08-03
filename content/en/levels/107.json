@@ -1,0 +1,91 @@
+{
+  "id": "en-level-107",
+  "locale": "en",
+  "levelNumber": 107,
+  "title": "Block Out Level 107 Walkthrough",
+  "summary": "Block Out Level 107 layers creature markers, dual padlocks, and a right-arrow feed tile onto an irregular brick board. The blue and purple locks gate the two halves of the grid, and the bottom `3` tray is a counter gate — not a free refi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/107/",
+        "layout": "Block Out Level 107 layers creature markers, dual padlocks, and a right-arrow feed tile onto an irregular brick board. The blue and purple locks gate the two halves of the grid, and the bottom `3` tray is a counter gate — not a free refill. The tall yellow cluster on the left and the red C-shape on the right compete for the same lane, so clearing the locks in the wrong order jams the feed.",
+        "landmarks": [
+          "Block Out Level 107 layers creature markers, dual padlocks, and a right-arrow feed tile onto an irregular brick board.",
+          "The blue and purple locks gate the two halves of the grid, and the bottom `3` tray is a counter gate — not a free refill.",
+          "The tall yellow cluster on the left and the red C-shape on the right compete for the same lane, so clearing the locks in the wrong order jams the feed."
+        ],
+        "colors": ["Green", "Yellow", "Red", "Blue", "Purple", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mvigiJZ71eE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mvigiJZ71eE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Open the blue padlock before the purple one — the lower green arrow lane depends on that order.",
+        "Do not spend the bottom `3` tray while either padlock is still closed.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Remove the top green creature tile and the middle yellow troll tile."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the upper-left red/yellow/blue cluster without sliding into either padlock."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed the right-arrow orange block through the open right channel."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Open the blue padlock in the lower-left, then the purple padlock in the lower-center."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Slide the lower green arrow tile through the opened lower lane."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the bottom orange `3` tray to close counters `5` and `4`, then clear the blue L-shape marked `1`."
+        }
+      ],
+      "failurePoints": [
+        "Spending the bottom `3` tray before both padlocks are open — this boxes in the lower green arrow tile.",
+        "Feeding the right-arrow orange tile before the upper-middle gap is actually clear."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/107/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 107 Walkthrough and Solution",
+    "description": "Solve Block Out level 107 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

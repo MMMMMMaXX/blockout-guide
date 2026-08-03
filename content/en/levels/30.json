@@ -1,0 +1,96 @@
+{
+  "id": "en-level-30",
+  "locale": "en",
+  "levelNumber": 30,
+  "title": "Block Out Level 30 Walkthrough",
+  "summary": "Block Out Level 30 is an L-shaped room built around a tall framed boss column with an `11` counter. The red, white, and black blocks packed around the tower base must be cleared first to bring the counter down, and the tower only collaps...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "Block Out Level 30 is an L-shaped room built around a tall framed boss column with an `11` counter. The red, white, and black blocks packed around the tower base must be cleared first to bring the counter down, and the tower only collapses once it drops to around `2`. After the column falls, a second wave of green, red, and white blocks spills out from inside the shaft and needs its own separation phase.",
+        "landmarks": [
+          "Block Out Level 30 is an L-shaped room built around a tall framed boss column with an `11` counter.",
+          "The red, white, and black blocks packed around the tower base must be cleared first to bring the counter down, and the tower only collapses once it drops to around `2`.",
+          "After the column falls, a second wave of green, red, and white blocks spills out from inside the shaft and needs its own separation phase."
+        ],
+        "colors": ["Red", "White", "Green", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Track the boss counter number, not the tower height — if the counter still reads `5` or higher, the base needs more work.",
+        "Feed the green exit at the bottom center before trying to use the left wall exits for the inner mass.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the left-side red blocks toward the left wall exits to create the first gap beside the tower base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Move the white blocks out of the middle base to open a lane between the tower and the right-side red mass."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the right-side red and black blocks through the gaps created by the first two moves, watching the boss counter drop with each piece."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once the counter falls to `2`, let the framed column collapse — the inner green and white blocks will spill into the base area."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Separate the revealed green blocks and feed them through the bottom-center green exit first."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Use the left wall exits for the remaining white and red inner pieces."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last red tower segment after the shaft is empty and the base is flat."
+        }
+      ],
+      "failurePoints": [
+        "Trying to force the boss column down while the base area is still packed with red and white blocks — the counter barely moves because there is no lane for the base pieces to escape into.",
+        "Ignoring the green bottom-center exit in favor of the left wall exits when the inner mass spills out, which causes a traffic jam in the horizontal section."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 30 Walkthrough and Solution",
+    "description": "Solve Block Out level 30 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

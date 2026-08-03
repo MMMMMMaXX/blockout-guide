@@ -1,0 +1,98 @@
+{
+  "id": "en-level-25",
+  "locale": "en",
+  "levelNumber": 25,
+  "title": "Block Out Level 25 Walkthrough",
+  "summary": "Block Out Level 25 is a sandglass support puzzle with tall side rails. Open the white-and-black waist first, rotate the lower pink-cyan chamber second, and only then start spending the long framed side columns.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "Block Out Level 25 is a sandglass support puzzle with tall side rails. Open the white-and-black waist first, rotate the lower pink-cyan chamber second, and only then start spending the long framed side columns.",
+        "landmarks": [
+          "Block Out Level 25 is a sandglass support puzzle with tall side rails.",
+          "Open the white-and-black waist first, rotate the lower pink-cyan chamber second, and only then start spending the long framed side columns.",
+          "The board mixes Purple, Green, Pink and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Green", "Pink", "Cyan", "Red", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Open the waist before touching the side rails.",
+        "The lower chamber needs room before the tall side columns can travel.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the white ladders and black blockers away from the sandglass neck."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Keep the long framed side columns parked while the upper choke is still narrow."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Once the waist opens, rotate the lower pink and cyan mass so the chamber stops pressing upward."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Feed one tall side column only after the lower chamber has created real empty space."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the new room to separate the second tall side column and the inner green strip."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the lower chamber before the last side column leaves."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "End with the remaining green route after the neck is completely open."
+        }
+      ],
+      "failurePoints": [
+        "Trying to spend a side rail while the waist is still narrow.",
+        "Ignoring the lower chamber and overfocusing on the tall rails."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 25 Walkthrough and Solution",
+    "description": "Solve Block Out level 25 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

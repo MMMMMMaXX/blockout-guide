@@ -1,0 +1,96 @@
+{
+  "id": "en-level-142",
+  "locale": "en",
+  "levelNumber": 142,
+  "title": "Block Out Level 142 Walkthrough",
+  "summary": "Block Out Level 142 is a keyhole tower that thins progressively from a dense upper body to a narrow stem, with a fixed `21` void marker locked in the center. Three directional arrow lanes — blue left, red right, purple down — are the onl...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "Block Out Level 142 is a keyhole tower that thins progressively from a dense upper body to a narrow stem, with a fixed `21` void marker locked in the center. Three directional arrow lanes — blue left, red right, purple down — are the only exits. The tower must shed weight from the top first; push the right-side cyan ring before the upper body thins and the `21` void stays buried under collapsing blocks.",
+        "landmarks": [
+          "Block Out Level 142 is a keyhole tower that thins progressively from a dense upper body to a narrow stem, with a fixed `21` void marker locked in the center.",
+          "Three directional arrow lanes — blue left, red right, purple down — are the only exits.",
+          "The tower must shed weight from the top first; push the right-side cyan ring before the upper body thins and the `21` void stays buried under collapsing blocks."
+        ],
+        "colors": ["Red", "Blue", "Yellow", "Purple", "Orange", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Open the blue left lane before touching the right orange stack.",
+        "The 21 void tile never moves — clear around it, not through it.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top blue up-arrow cap and the red/yellow upper band without shifting the 21 void tile."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Feed upper scraps down the purple bottom-arrow lane to open the lower-left blue exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Peel the left purple/blue column through the blue left-arrow lane, leaving the void intact."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the right orange/yellow stack through the red right-arrow lane once the left side is open."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Break the cyan ring around the central yellow block in the mid-tower gap."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Slide the remaining blue and orange scraps off the lower base toward the bottom arrow."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Exit the final scattered blocks for the BLOCK OUT! clear."
+        }
+      ],
+      "failurePoints": [
+        "Opening the right orange lane before the left blue lane thins, locking the mid-tower stack.",
+        "Trying to move the 21 void tile instead of clearing the blocks around it."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 142 Walkthrough and Solution",
+    "description": "Solve Block Out level 142 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

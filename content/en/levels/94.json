@@ -1,0 +1,93 @@
+{
+  "id": "en-level-94",
+  "locale": "en",
+  "levelNumber": 94,
+  "title": "Block Out Level 94 Walkthrough",
+  "summary": "Block Out Level 94 is a four-chamber cascade: `14` and `18` on top, a horizontal `6` bar through the middle, and a tucked-away `3` pocket in the lower-right. Open the lower clutter first, cash the `3` and `6` chambers second, and only th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "Block Out Level 94 is a four-chamber cascade: `14` and `18` on top, a horizontal `6` bar through the middle, and a tucked-away `3` pocket in the lower-right. Open the lower clutter first, cash the `3` and `6` chambers second, and only then settle into the long `14` and `18` feeds.",
+        "landmarks": [
+          "Block Out Level 94 is a four-chamber cascade: `14` and `18` on top, a horizontal `6` bar through the middle, and a tucked-away `3` pocket in the lower-right.",
+          "Open the lower clutter first, cash the `3` and `6` chambers second, and only then settle into the long `14` and `18` feeds.",
+          "The board mixes Purple, Red, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The lower-right `3` pocket is not optional cleanup. It is part of the opener.",
+        "If the `6` bar is still alive, the `18` chamber is probably not ready yet.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the lower-left clutter first, especially the lock/key pieces and the red-green stacks around the bottom chambers."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Open and drain the lower-right `3` chamber so the right quarter finally has rotation space."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Reduce the middle `6` chamber next, using the newly opened lower lanes to keep the cross-lane clear."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Start feeding the upper-left `14` chamber once the lower half is no longer sharing its lanes."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Save the upper-right `18` chamber for the longest late-game feed, when the cyan T-shape and purple elbow below have already moved aside."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last cyan and purple leftovers after the `18` chamber collapses."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring the lower-right `3` pocket and pretending Level 94 only has three chambers.",
+        "Starting the `18` chamber while the middle `6` bar is still competing for the same lane."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 94 Walkthrough and Solution",
+    "description": "Solve Block Out level 94 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

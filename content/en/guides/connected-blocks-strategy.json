@@ -1,0 +1,49 @@
+{
+  "kind": "guide",
+  "id": "en-guide-connected-blocks-strategy",
+  "locale": "en",
+  "slug": "connected-blocks-strategy",
+  "title": "How to clear Connected Blocks",
+  "summary": "Treat the linked pair as one unit, find a shared exit, and avoid stranding one color in a dead lane.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Clear Block Out Connected Blocks Safely",
+    "description": "Route Block Out Connected Blocks by treating the pair as one unit, finding a shared exit and avoiding dead lanes."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "What is the safest way to route Block Out Connected Blocks?",
+  "sections": [
+    {
+      "heading": "Plan the pair as a single piece",
+      "body": [
+        "Connected blocks move together, so map both footprints at once.",
+        "Choose lanes that fit the combined shape without trapping a color."
+      ]
+    },
+    {
+      "heading": "Aim for a shared clear",
+      "body": [
+        "Look for one move order that removes both linked colors.",
+        "If a shared exit is impossible, pick the order that frees the more blocking piece first."
+      ]
+    },
+    {
+      "heading": "Avoid dead lanes",
+      "body": [
+        "Never separate the colors into lanes where only one can reach an exit.",
+        "Keep the partner's path open until the link clears."
+      ]
+    }
+  ],
+  "obstacleIds": [
+    "connected-blocks"
+  ],
+  "boosterIds": [
+    "time-freeze"
+  ],
+  "relatedLevelNumbers": []
+}

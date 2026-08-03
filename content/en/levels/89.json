@@ -1,0 +1,93 @@
+{
+  "id": "en-level-89",
+  "locale": "en",
+  "levelNumber": 89,
+  "title": "Block Out Level 89 Walkthrough",
+  "summary": "Block Out Level 89 opens with a mixed top shelf over two stacked chambers. Strip that shelf first, drain the `6` chamber next, and then clear the keyed left lane plus the orange columns before the `11` chamber gives way to the red T-shap...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out Level 89 opens with a mixed top shelf over two stacked chambers. Strip that shelf first, drain the `6` chamber next, and then clear the keyed left lane plus the orange columns before the `11` chamber gives way to the red T-shaped endgame.",
+        "landmarks": [
+          "Block Out Level 89 opens with a mixed top shelf over two stacked chambers.",
+          "Strip that shelf first, drain the `6` chamber next, and then clear the keyed left lane plus the orange columns before the `11` chamber gives way to the red T-shaped endgame.",
+          "The board mixes Purple, Green, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Green", "Red", "Yellow", "Orange", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "If the top shelf still has live blue or green pieces, the `11` chamber is not ready.",
+        "The keyed yellow lane on the left matters more than the raw `11` count.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Remove the mixed strips on the top shelf, especially the blue row and the green block on the upper-right."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Start shrinking the upper `6` chamber only after the top shelf has stopped feeding blockers downward."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Leave the lower `11` chamber alone until the `6` chamber is nearly gone."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "After the upper chamber opens the board, clear the keyed yellow lane on the left and shorten the orange columns around the center."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the `11` chamber collapse only when the red T-shape and the two blue pools underneath it have room to separate."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the red T-piece, the last orange column, and the remaining yellow L-block near the lower-left corner."
+        }
+      ],
+      "failurePoints": [
+        "Touching the `11` chamber while the top shelf still has live blue or green traffic.",
+        "Ignoring the keyed left lane and trying to brute-force the lower half after the `6` chamber opens."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 89 Walkthrough and Solution",
+    "description": "Solve Block Out level 89 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

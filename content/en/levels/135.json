@@ -1,0 +1,91 @@
+{
+  "id": "en-level-135",
+  "locale": "en",
+  "levelNumber": 135,
+  "title": "Block Out Level 135 Walkthrough",
+  "summary": "Block Out Level 135 seals a tall column on the left edge behind a counter that must hit zero. The top row's blue `6`/`6`/`9` tiles, a yellow 2×2 dot block, and a cyan bidirectional slider create a lateral puzzle in a vertical frame. The...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/135/",
+        "layout": "Block Out Level 135 seals a tall column on the left edge behind a counter that must hit zero. The top row's blue `6`/`6`/`9` tiles, a yellow 2×2 dot block, and a cyan bidirectional slider create a lateral puzzle in a vertical frame. The green right-strip feeds the exit lane — push it before the left-rail counter zeroes out and the sealed column stays locked forever.",
+        "landmarks": [
+          "Block Out Level 135 seals a tall column on the left edge behind a counter that must hit zero.",
+          "The top row's blue `6`/`6`/`9` tiles, a yellow 2×2 dot block, and a cyan bidirectional slider create a lateral puzzle in a vertical frame.",
+          "The green right-strip feeds the exit lane — push it before the left-rail counter zeroes out and the sealed column stays locked forever."
+        ],
+        "colors": ["Blue", "Yellow", "Cyan", "Green", "Red", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UznrtGVtYHY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UznrtGVtYHY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the yellow dot block before sliding the ↔ piece — reversing that order locks the left rail above 4.",
+        "Clear the green right-strip only after the black-bordered 2 tile unlocks.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Spend the left-rail 9 counter by sliding the top blue 6/6/9 trio rightward off the tall left panel."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the yellow 2×2 dot block without splitting the cyan ↔ slider in the center."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Push the cyan double-arrow piece through the center once the left rail drops to 4 and 7."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the green right-strip > lane after the black-bordered 2 tile unlocks."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the bottom red/green/blue cluster down the green bottom-arrow exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the final left-rail 2 on the tall purple column and clear the last scraps for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Sliding the ↔ piece before the yellow dot block breaks, locking the left rail above 4.",
+        "Sending the bottom red cluster down the green arrow before the 2 tile unlocks, stranding the right-strip lane."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/135/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 135 Walkthrough and Solution",
+    "description": "Solve Block Out level 135 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

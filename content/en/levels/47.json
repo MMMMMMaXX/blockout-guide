@@ -1,0 +1,97 @@
+{
+  "id": "en-level-47",
+  "locale": "en",
+  "levelNumber": 47,
+  "title": "Block Out Level 47 Walkthrough",
+  "summary": "Block Out Level 47 has a unique staircase-shaped board where the left side descends in steps and the right side is a straight wall. Numbered counters `11`, `13`, `9`, and `22` are embedded in the staircase. The summit is misleading — the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "Block Out Level 47 has a unique staircase-shaped board where the left side descends in steps and the right side is a straight wall. Numbered counters `11`, `13`, `9`, and `22` are embedded in the staircase. The summit is misleading — the board opens from the right-side lane and the middle of the slope. Clear the `9` at the bottom-left first, peel the middle layers, and save the `22` at the bottom-right for last.",
+        "landmarks": [
+          "Block Out Level 47 has a unique staircase-shaped board where the left side descends in steps and the right side is a straight wall.",
+          "Numbered counters `11`, `13`, `9`, and `22` are embedded in the staircase.",
+          "The summit is misleading — the board opens from the right-side lane and the middle of the slope.",
+          "Clear the `9` at the bottom-left first, peel the middle layers, and save the `22` at the bottom-right for last."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The summit is a distraction — Level 47 opens from the right-side lane and the middle of the slope.",
+        "The `22` at the bottom-right is the last piece. Do not touch it until the middle layers are gone.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the `9` counter at the bottom-left to create the first opening."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Open the right gadget lane and lower its counts."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Peel the staircase from the middle — the `11` and `13` blocks — rather than the peak."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Keep the upper tip of the staircase parked until the lower section is clear."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Rotate the lower colored pieces through the opened pockets."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Reduce the `22` counter at the bottom-right only after the middle is mostly gone."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the upper staircase tip and the last side cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Starting at the very top of the staircase, which keeps the lower lanes clogged and wastes the only useful route.",
+        "Trying to reduce the `22` counter before the middle layers (`11` and `13`) are gone, which leaves no room for the heavy piece to move."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 47 Walkthrough and Solution",
+    "description": "Solve Block Out level 47 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

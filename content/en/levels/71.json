@@ -1,0 +1,93 @@
+{
+  "id": "en-level-71",
+  "locale": "en",
+  "levelNumber": 71,
+  "title": "Block Out Level 71 Walkthrough",
+  "summary": "Block Out Level 71 packs a 6×8 grid with a large purple '13' block at the top, free-sliding smiley blocks in the middle, and directional arrow blocks on the sides. The purple block needs 13 exits — clear the bottom first, then work the s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/71/",
+        "layout": "Block Out Level 71 packs a 6×8 grid with a large purple '13' block at the top, free-sliding smiley blocks in the middle, and directional arrow blocks on the sides. The purple block needs 13 exits — clear the bottom first, then work the smiley blocks, and finish with the heavy purple block at the top.",
+        "landmarks": [
+          "Block Out Level 71 packs a 6×8 grid with a large purple '13' block at the top, free-sliding smiley blocks in the middle, and directional arrow blocks on the sides.",
+          "The purple block needs 13 exits — clear the bottom first, then work the smiley blocks, and finish with the heavy purple block at the top.",
+          "The board mixes Purple, Green, Yellow and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Green", "Yellow", "Blue", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_vwwRLOMKd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_vwwRLOMKd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The purple '13' block is a marathon — clear the smiley blocks first to build space.",
+        "The smiley blocks in the middle are free-sliding — use this freedom to clear paths for the arrow blocks.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the green smiley blocks at the bottom through the bottom exit to open the base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the blue blocks on the left out through the left exit to open the lower-left area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin sliding the yellow and green smiley blocks in the middle freely — they can move in any direction."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the red blocks on the right through the right exit as the middle opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Tackle the large purple '13' block at the top — it needs 13 exits to fully clear."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining smiley blocks trapped in the corners."
+        }
+      ],
+      "failurePoints": [
+        "Trying to clear the '13' block before the smiley blocks — it needs room to slide and exit multiple times.",
+        "Clearing the top before the bottom, which leaves the lower blocks trapped with no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/71/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 71 Walkthrough and Solution",
+    "description": "Solve Block Out level 71 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

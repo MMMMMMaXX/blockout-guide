@@ -1,0 +1,96 @@
+{
+  "id": "en-level-41",
+  "locale": "en",
+  "levelNumber": 41,
+  "title": "Block Out Level 41 Walkthrough",
+  "summary": "Block Out Level 41 has a `5` boss square gated by two `2`-counter devices in the upper corners. Service both devices first to unlock the blue U-shaped blocks above the boss, then let the boss drop once the surrounding space is wide enoug...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/41/",
+        "layout": "Block Out Level 41 has a `5` boss square gated by two `2`-counter devices in the upper corners. Service both devices first to unlock the blue U-shaped blocks above the boss, then let the boss drop once the surrounding space is wide enough. After the boss clears around 01:30, a large colorful mass of blue, yellow, green, red, and purple blocks fills the board for a third sorting phase.",
+        "landmarks": [
+          "Block Out Level 41 has a `5` boss square gated by two `2`-counter devices in the upper corners.",
+          "Service both devices first to unlock the blue U-shaped blocks above the boss, then let the boss drop once the surrounding space is wide enough.",
+          "After the boss clears around 01:30, a large colorful mass of blue, yellow, green, red, and purple blocks fills the board for a third sorting phase."
+        ],
+        "colors": ["Blue", "Red", "Green", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q9Brph8V6fo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q9Brph8V6fo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The two `2` devices in the upper corners are the gate — if they are not at zero, the boss is locked.",
+        "Expect a third phase: after the boss clears, a colorful mass appears and needs sorting.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Service the left `2` device by routing the adjacent blocks through its gate."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Service the right `2` device next."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the blue U-shaped blocks upward once both devices are at zero."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Thin the red and green blocks around the boss as its counter drops from `5`."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the boss square clear once the surrounding space is wide enough (around 01:30)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Sort the revealed blue, yellow, green, red, and purple blocks through the exits."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last color cleanup after the board is mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Trying to reduce the `5` boss while the `2` devices are still active — the upper room stays locked and the boss barely moves.",
+        "Not preparing exit lanes for the color mass that appears after the boss clears, which jams the newly opened space."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/41/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 41 Walkthrough and Solution",
+    "description": "Solve Block Out level 41 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

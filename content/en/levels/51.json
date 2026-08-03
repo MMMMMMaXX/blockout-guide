@@ -1,0 +1,93 @@
+{
+  "id": "en-level-51",
+  "locale": "en",
+  "levelNumber": 51,
+  "title": "Block Out Level 51 Walkthrough",
+  "summary": "Block Out Level 51 is built around two stacked red bars on the left and a cramped parking lot on the lower-right. Open the right-side vertical slot first, then use that freed lane to rotate the cyan bar, yellow trays, and finally the red...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "Block Out Level 51 is built around two stacked red bars on the left and a cramped parking lot on the lower-right. Open the right-side vertical slot first, then use that freed lane to rotate the cyan bar, yellow trays, and finally the red bars without trapping the purple columns.",
+        "landmarks": [
+          "Block Out Level 51 is built around two stacked red bars on the left and a cramped parking lot on the lower-right.",
+          "Open the right-side vertical slot first, then use that freed lane to rotate the cyan bar, yellow trays, and finally the red bars without trapping the purple columns.",
+          "The board mixes Red, Green, Blue and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Green", "Blue", "Purple", "Yellow", "Cyan", "White"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "If the right-side blue pillar is still pinned to the wall, the left stack is not ready yet.",
+        "Keep the purple columns for late cleanup so the right slot stays organized while the red bars rotate.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Open the lower-right parking lot by shifting the tall red pillar and the blue pillar beside the right wall."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use that new slot to shorten the cyan center bar and let the lower-left green strip breathe."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start clearing the stacked red bars on the left only after the right-side slot can accept returning pieces."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Feed the yellow trays through the middle once the first red bar has moved and the cyan lane is shorter."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Leave the two purple columns for late cleanup so they keep the right side organized while the left stack rotates."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last yellow tray and blue right-wall piece after the center lane is empty."
+        }
+      ],
+      "failurePoints": [
+        "Trying to cash both left-side red bars before the right-side parking lot is open.",
+        "Using the purple columns too early and losing the slot that the cyan bar and yellow trays still need."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 51 Walkthrough and Solution",
+    "description": "Solve Block Out level 51 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

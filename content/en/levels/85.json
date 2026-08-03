@@ -1,0 +1,91 @@
+{
+  "id": "en-level-85",
+  "locale": "en",
+  "levelNumber": 85,
+  "title": "Block Out Level 85 Walkthrough",
+  "summary": "Block Out Level 85 packs the board with a large red center block surrounded by green, blue, and purple blocks, plus special blocks with a magnet/trophy 'U' icon that interact with adjacent pieces. Lock/key blocks add sequencing constrain...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/85/",
+        "layout": "Block Out Level 85 packs the board with a large red center block surrounded by green, blue, and purple blocks, plus special blocks with a magnet/trophy 'U' icon that interact with adjacent pieces. Lock/key blocks add sequencing constraints. Clear the green blocks on the left through the left exits first, then the blue blocks on the right, and finally extract the large red center block once the sides are open.",
+        "landmarks": [
+          "Block Out Level 85 packs the board with a large red center block surrounded by green, blue, and purple blocks, plus special blocks with a magnet/trophy 'U' icon that interact with adjacent pieces.",
+          "Lock/key blocks add sequencing constraints.",
+          "Clear the green blocks on the left through the left exits first, then the blue blocks on the right, and finally extract the large red center block once the sides are open."
+        ],
+        "colors": ["Red", "Green", "Blue", "Purple", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "acjCQqZtavE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=acjCQqZtavE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Handle the special 'U' icon blocks early — they interact with adjacent pieces unpredictably.",
+        "Clear sides before center — the red block needs wide lanes.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Extract the green blocks on the left through the left exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Pull the blue blocks on the right through the right exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Handle the special 'U' icon blocks carefully — they interact with adjacent pieces."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the lock/key blocks to unlock gated sections."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Shift the large red center block through its exit once the sides are open."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the orange/yellow blocks at the bottom and remaining purple fragments."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring the special 'U' icon blocks, which can jam adjacent pieces unexpectedly.",
+        "Trying to move the center red block before the sides are cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/85/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 85 Walkthrough and Solution",
+    "description": "Solve Block Out level 85 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "en-level-54",
+  "locale": "en",
+  "levelNumber": 54,
+  "title": "Block Out Level 54 Walkthrough",
+  "summary": "Block Out Level 54 is a 'Hard Level' with four purple boss chambers — counters '3' and '11' on top, '6' and '19' on the bottom. The chambers are packed tightly with narrow gaps between them. Clear the small colored blocks between chamber...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out Level 54 is a 'Hard Level' with four purple boss chambers — counters '3' and '11' on top, '6' and '19' on the bottom. The chambers are packed tightly with narrow gaps between them. Clear the small colored blocks between chambers first, then drain the bottom chambers before tackling the top ones. The '19' chamber is the heaviest — save it for after the surrounding chambers have opened up space.",
+        "landmarks": [
+          "Block Out Level 54 is a 'Hard Level' with four purple boss chambers — counters '3' and '11' on top, '6' and '19' on the bottom.",
+          "The chambers are packed tightly with narrow gaps between them.",
+          "Clear the small colored blocks between chambers first, then drain the bottom chambers before tackling the top ones.",
+          "The '19' chamber is the heaviest — save it for after the surrounding chambers have opened up space."
+        ],
+        "colors": ["Purple", "Yellow", "Red", "Green", "Blue", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the small colored blocks between chambers first — they are the key to opening sliding paths.",
+        "The '19' chamber is a marathon. Clear the smaller chambers first to build space, then chip away at it.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the yellow blocks on the left side to open the gap between the top-left and bottom-left chambers."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the red/orange blocks in the center to open the gap between the left and right chambers."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin draining the bottom-left chamber (counter '6') by sliding its blocks out through the left exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Work the bottom-right chamber (counter '19') — clear it gradually while the bottom-left is also draining."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Move to the top-left chamber (counter '3') — it is the lightest and should clear quickly."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the top-right chamber (counter '11'), which has the most room after the others are drained."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear any remaining colored blocks trapped between the emptied chambers."
+        }
+      ],
+      "failurePoints": [
+        "Draining one chamber completely before touching the others — this removes the sliding walls and jams the remaining chambers.",
+        "Tackling the '19' chamber first when the surrounding space is still packed — it needs room to maneuver."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 54 Walkthrough and Solution",
+    "description": "Solve Block Out level 54 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

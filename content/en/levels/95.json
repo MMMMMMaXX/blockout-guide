@@ -1,0 +1,96 @@
+{
+  "id": "en-level-95",
+  "locale": "en",
+  "levelNumber": 95,
+  "title": "Block Out Level 95 Walkthrough",
+  "summary": "Block Out Level 95 packs colored blocks (red, orange, blue, green, purple, cyan) with lock/key gates into a horizontal upper tier, while two purple chambers fill the lower section — counter `14` in an orange frame on top, counter `11` in...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/95/",
+        "layout": "Block Out Level 95 packs colored blocks (red, orange, blue, green, purple, cyan) with lock/key gates into a horizontal upper tier, while two purple chambers fill the lower section — counter `14` in an orange frame on top, counter `11` in an orange frame below. Yellow accent blocks on the edges are free single-piece clears. Empty the upper tier completely, then feed both chambers for 25 total passes.",
+        "landmarks": [
+          "Block Out Level 95 packs colored blocks (red, orange, blue, green, purple, cyan) with lock/key gates into a horizontal upper tier, while two purple chambers fill the lower section — counter `14` in an orange frame on top, counter `11` in an orange frame below.",
+          "Yellow accent blocks on the edges are free single-piece clears.",
+          "Empty the upper tier completely, then feed both chambers for 25 total passes."
+        ],
+        "colors": ["Purple", "Red", "Orange", "Blue", "Green", "Cyan", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "S3a7Be6nABA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=S3a7Be6nABA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Take the yellow edge blocks first — they are free single-piece clears right next to exits.",
+        "Clear the small blocks between tiers before starting the `14` chamber feed.",
+        "Feed the `14` chamber before the `11` — it needs more room and more passes."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Push the yellow edge blocks on both sides through the left and right exits for immediate room (01:26 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the key block (small cyan with key icon) to unlock the orange block in the upper tier (01:22)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Extract the large red blocks from the center-left through the top or left exit because they are the biggest mass in the upper tier (01:18)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the green and blue blocks from the right side of the upper tier through the right-wall exit (01:15)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Remove the small cyan and red blocks between the upper tier and the `14` chamber before starting the feed because they can drift into the lane (01:11)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Begin feeding the upper purple chamber (counter `14`) — keep its lane permanently clear for fourteen passes (01:07–00:56)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Feed the lower purple chamber (counter `11`) through the bottom exits — eleven passes to finish (00:53–00:45)."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring the yellow edge blocks at the start — they are free room and clearing them first makes every subsequent extraction faster.",
+        "Starting the `14` chamber feed while small cyan and red blocks between tiers are still present — they drift into the feed lane and stall the counter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/95/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 95 Walkthrough and Solution",
+    "description": "Solve Block Out level 95 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

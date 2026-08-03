@@ -1,0 +1,49 @@
+{
+  "id": "template-level-full-guide",
+  "locale": "en",
+  "levelNumber": 1,
+  "title": "Draft full guide level template",
+  "summary": "Editorial template only. Every step must be reproduced against the matching board variant.",
+  "status": "draft",
+  "contentTier": "full-guide",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "template-variant-a",
+      "platforms": [],
+      "boosterUsage": "unknown",
+      "verificationStatus": "video-found",
+      "chapters": [
+        { "seconds": 0, "label": "Add verified opening chapter" },
+        { "seconds": 1, "label": "Add verified middle chapter" },
+        { "seconds": 2, "label": "Add verified finish chapter" }
+      ],
+      "quickTips": [
+        "Replace with a verified opening tip.",
+        "Replace with a verified space-management tip.",
+        "Replace with a verified finishing tip."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Draft step 1",
+          "instruction": "Replace with a reproduced move and its reason."
+        },
+        {
+          "order": 2,
+          "title": "Draft step 2",
+          "instruction": "Replace with a reproduced move and its reason."
+        },
+        {
+          "order": 3,
+          "title": "Draft step 3",
+          "instruction": "Replace with a reproduced move and its reason."
+        }
+      ],
+      "failurePoints": ["Replace with a reproduced failure point."]
+    }
+  ],
+  "sourceReferences": [],
+  "updatedAt": "2026-08-02"
+}

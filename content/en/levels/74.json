@@ -1,0 +1,93 @@
+{
+  "id": "en-level-74",
+  "locale": "en",
+  "levelNumber": 74,
+  "title": "Block Out Level 74 Walkthrough",
+  "summary": "Block Out Level 74 opens with four purple chambers wrapped around a cramped center spine. Drain the tiny `3` pocket at bottom-right first, slide the cyan steps out of the lower lane, then let the `7` and `15` rooms shrink before you fina...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out Level 74 opens with four purple chambers wrapped around a cramped center spine. Drain the tiny `3` pocket at bottom-right first, slide the cyan steps out of the lower lane, then let the `7` and `15` rooms shrink before you finally commit to the huge `20` chamber on the left.",
+        "landmarks": [
+          "Block Out Level 74 opens with four purple chambers wrapped around a cramped center spine.",
+          "Drain the tiny `3` pocket at bottom-right first, slide the cyan steps out of the lower lane, then let the `7` and `15` rooms shrink before you finally commit to the huge `20` chamber on the left.",
+          "The board mixes Purple, Blue, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "If the cyan step piece still covers the lower middle, stay away from the `20` chamber.",
+        "The `3` pocket is not filler. It is the key that opens the lower route for the `7` room.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drain the lower-right purple chamber marked `3` as soon as the level starts."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use that new floor space to slide the cyan step blocks away from the lower middle and free the green strip beside them."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start reducing the lower-left `7` chamber once the cyan piece is no longer blocking its lane."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Let the upper-right `15` chamber lose its easy right-wall exits while the left side is opening."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Leave the upper-left `20` chamber alone until the `7` room is mostly gone and the center red ladder has broken apart."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish by draining the `20` chamber and sweeping out the remaining purple, cyan, and red pieces through the open center."
+        }
+      ],
+      "failurePoints": [
+        "Leaning on the `20` chamber before the lower-right `3` pocket is gone and the cyan steps have moved.",
+        "Trying to work the `7` room while the cyan blocker is still stretched across the lower middle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 74 Walkthrough and Solution",
+    "description": "Solve Block Out level 74 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

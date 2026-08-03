@@ -1,0 +1,92 @@
+{
+  "id": "en-level-83",
+  "locale": "en",
+  "levelNumber": 83,
+  "title": "Block Out Level 83 Walkthrough",
+  "summary": "Block Out Level 83 is a tiered puzzle with three distinct sections. Two heavy purple blocks (counter '12' each) sit in orange frames on the top tier. The middle tier is packed with colored blocks and lock/key pieces. A lower chamber hide...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "Block Out Level 83 is a tiered puzzle with three distinct sections. Two heavy purple blocks (counter '12' each) sit in orange frames on the top tier. The middle tier is packed with colored blocks and lock/key pieces. A lower chamber hides beneath. Clear the middle tier's lock-and-key blocks first to create lanes, then feed the heavy purple blocks through their exits, and finish with the lower chamber.",
+        "landmarks": [
+          "Block Out Level 83 is a tiered puzzle with three distinct sections.",
+          "Two heavy purple blocks (counter '12' each) sit in orange frames on the top tier.",
+          "The middle tier is packed with colored blocks and lock/key pieces.",
+          "A lower chamber hides beneath."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the entire middle tier before touching the purple blocks above.",
+        "The lower chamber only becomes accessible after the middle is mostly empty.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Unlock and clear the lock/key blocks in the middle tier through side exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the colored blocks (red, green, yellow) from the middle tier."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin feeding the left purple block (counter '12') through its exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Feed the right purple block (counter '12') once the first has shrunk enough."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the blue and green blocks flanking the lower chamber."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining pieces in the lower chamber."
+        }
+      ],
+      "failurePoints": [
+        "Touching a purple block before the middle tier has created lanes — the feed stalls immediately.",
+        "Ignoring the lock/key sequence in the middle tier, leaving blocks gated and inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 83 Walkthrough and Solution",
+    "description": "Solve Block Out level 83 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "en-guide-how-to-read-variants",
+  "locale": "en",
+  "slug": "how-to-read-variants",
+  "title": "How to match a Block Out board variant",
+  "summary": "Confirm landmarks, exits, counters and platform context before following a walkthrough so a correct solution is not applied to the wrong layout.",
+  "status": "published",
+  "question": "How can I tell whether a Block Out walkthrough matches the board on my device?",
+  "sections": [
+    {
+      "heading": "Start with landmarks, not the level number",
+      "body": [
+        "A level number is only the first lookup key. Compare the largest center piece, counter values, exit colors and the arrangement of edge blockers before making a move.",
+        "For example, the documented Level 14 board has a cyan 7 in the center, a 17 counter above it, a white ladder on the right and yellow side columns. If any of those anchors are missing, stop and find another variant."
+      ]
+    },
+    {
+      "heading": "Check platform and version context",
+      "body": [
+        "Grand Games describes Block Out as an evolving puzzle with changing layouts, moving elevators, block generators and other dynamic obstacles. A guide therefore records the platform and the date on which its source board was checked.",
+        "Treat a version label as context rather than proof by itself. The visible board landmarks must still match your device."
+      ]
+    },
+    {
+      "heading": "Use the opening move as a final checksum",
+      "body": [
+        "After the landmarks match, verify that the guide's first move is physically available and serves the stated purpose. On Level 14, the opening work belongs on the right white ladder while the cyan centerpiece remains fixed.",
+        "If the first move is blocked, points at a different color or depends on an exit your board does not have, do not force the sequence. Return to the board profile and search for another layout."
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "How to Match Block Out Board Variants",
+    "description": "Compare landmarks, exits, counters, platform and opening moves before using a Block Out walkthrough on your board."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

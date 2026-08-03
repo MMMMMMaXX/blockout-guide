@@ -1,0 +1,91 @@
+{
+  "id": "en-level-117",
+  "locale": "en",
+  "levelNumber": 117,
+  "title": "Block Out Level 117 Walkthrough",
+  "summary": "Block Out Level 117 uses a house-shaped purple frame with a dotted lower grid, side `13` rails, and external `4` feed panels on the left and bottom. The house frame has its own packing order: the arch must stay open until the external pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "Block Out Level 117 uses a house-shaped purple frame with a dotted lower grid, side `13` rails, and external `4` feed panels on the left and bottom. The house frame has its own packing order: the arch must stay open until the external panels have delivered their blocks. Pack the arch too early and the last yellow feed bar has nowhere to go, boxing in the side rails permanently.",
+        "landmarks": [
+          "Block Out Level 117 uses a house-shaped purple frame with a dotted lower grid, side `13` rails, and external `4` feed panels on the left and bottom.",
+          "The house frame has its own packing order: the arch must stay open until the external panels have delivered their blocks.",
+          "Pack the arch too early and the last yellow feed bar has nowhere to go, boxing in the side rails permanently."
+        ],
+        "colors": ["Green", "Blue", "Red", "Orange", "Yellow", "Cyan", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Park the numbered circle in the dotted grid only after the right arrow sliders have a clear lane.",
+        "The left `13` rail must thin before the left cyan `4` panel can feed the arch.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Remove the upper green `2` tile and the blue `4` block from the top cluster."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the left `13` side rail without blocking the dotted lower zone."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed pieces through the left cyan `4` panel to open the house frame."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Route the right red-arrow and blue-arrow sliders once the upper orange/green row thins."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Place the lower yellow circle (`9`, then `6`) into the dotted grid without overfilling the arch."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the bottom yellow bar and right cyan `4` counter to close the remaining side rails at `10`."
+        }
+      ],
+      "failurePoints": [
+        "Overfilling the arch before the right arrow sliders clear — this boxes in the red-arrow lane.",
+        "Placing the lower numbered circle too early while the left `13` rail is still full."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 117 Walkthrough and Solution",
+    "description": "Solve Block Out level 117 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "en-level-39",
+  "locale": "en",
+  "levelNumber": 39,
+  "title": "Block Out Level 39 Walkthrough",
+  "summary": "Block Out Level 39 is labeled 'Super Hard' and is the first triple-boss board in Block Out. The layout is a 2×2 grid: upper-left boss `14`, upper-right boss `21`, lower-right boss `4`, and a packed color mix in the lower-left. The `4` bo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "Block Out Level 39 is labeled 'Super Hard' and is the first triple-boss board in Block Out. The layout is a 2×2 grid: upper-left boss `14`, upper-right boss `21`, lower-right boss `4`, and a packed color mix in the lower-left. The `4` boss opens the lower half, the colored blocks drain next, then the `14` falls before the `21`. Every phase depends on the one before it, and the ordering is absolute.",
+        "landmarks": [
+          "Block Out Level 39 is labeled 'Super Hard' and is the first triple-boss board in Block Out.",
+          "The layout is a 2×2 grid: upper-left boss `14`, upper-right boss `21`, lower-right boss `4`, and a packed color mix in the lower-left.",
+          "The `4` boss opens the lower half, the colored blocks drain next, then the `14` falls before the `21`.",
+          "Every phase depends on the one before it, and the ordering is absolute."
+        ],
+        "colors": ["Green", "Yellow", "Blue", "Red", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Check the lower-right `4` counter before touching anything above it — if it is still alive, neither upper boss can move.",
+        "The cascade is strict: `4` → colors → `14` → `21`. No shortcuts.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Work the blocks around the lower-right `4` chamber first — shift adjacent colored blocks toward the bottom exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Thin the colored blocks in the lower-left quadrant (green, yellow, blue, red, purple) to create room for the `4` boss to collapse."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Once the `4` counter drops to zero (around 01:47), use the freed lower-right space to accelerate the color drain."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Start the upper-left `14` boss only after the lower half is mostly open — watch its counter drop through `10`."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Keep the upper-right `21` boss parked while the `14` is still falling."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Let the `21` boss begin its descent only after the `14` chamber has fully emptied and the upper roof is lighter."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last colored blocks and side counters after all three bosses are gone."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort between all three bosses from the start — none reaches the critical threshold, and the board stalls because no single chamber gets enough room.",
+        "Attempting to reduce the `21` boss before the `14` has collapsed, which wastes the limited upper room on the larger counter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 39 Walkthrough and Solution",
+    "description": "Solve Block Out level 39 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

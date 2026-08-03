@@ -1,0 +1,91 @@
+{
+  "id": "en-level-115",
+  "locale": "en",
+  "levelNumber": 115,
+  "title": "Block Out Level 115 Walkthrough",
+  "summary": "Block Out Level 115 splits the board into three columns gated by directional arrows — green, pink, and blue go up while red, yellow, and orange go down. A pink dotted connector between two `7` pairs is the key piece: drop it through the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/115/",
+        "layout": "Block Out Level 115 splits the board into three columns gated by directional arrows — green, pink, and blue go up while red, yellow, and orange go down. A pink dotted connector between two `7` pairs is the key piece: drop it through the middle column first and the stacks above can finally drain. Touch the left-column `1` stack before the center reshapes and the connector gets buried.",
+        "landmarks": [
+          "Block Out Level 115 splits the board into three columns gated by directional arrows — green, pink, and blue go up while red, yellow, and orange go down.",
+          "A pink dotted connector between two `7` pairs is the key piece: drop it through the middle column first and the stacks above can finally drain.",
+          "Touch the left-column `1` stack before the center reshapes and the connector gets buried."
+        ],
+        "colors": ["Purple", "Cyan", "Pink", "Green", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gk9J6m1hutU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gk9J6m1hutU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The pink dotted connector must drop before any `7` pair can split.",
+        "Clear the right lone `1` through the orange down-arrow to open the right lane early.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Pull the pink dotted connector downward through the middle column using the yellow down-arrow."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Feed the upper left `1` stack of three cyan tiles down through the red column arrow."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the lone right-column cyan `1` through the orange down-arrow to open the right lane."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Split the upper `7` pair in the middle column once the connector has passed the pink up-triangle."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Send the lower left `1` stack through the red down-arrow after the upper `7`s are gone."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Drain the lower `7` pair out through the yellow down-arrow and exit the remaining green column pieces."
+        }
+      ],
+      "failurePoints": [
+        "Moving a left-column `1` stack before the pink dotted connector has dropped.",
+        "Trying to split the `7` pairs while the connector still sits between them."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/115/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 115 Walkthrough and Solution",
+    "description": "Solve Block Out level 115 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

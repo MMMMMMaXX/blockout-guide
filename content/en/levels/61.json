@@ -1,0 +1,91 @@
+{
+  "id": "en-level-61",
+  "locale": "en",
+  "levelNumber": 61,
+  "title": "Block Out Level 61 Walkthrough",
+  "summary": "Block Out Level 61 fills a 6×8 grid with directional arrow blocks — green left-arrows on the left, red right-arrows on the right, blue left-arrows on top, green down-arrows on the bottom, and orange/red up-down blocks in the middle. Ever...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/61/",
+        "layout": "Block Out Level 61 fills a 6×8 grid with directional arrow blocks — green left-arrows on the left, red right-arrows on the right, blue left-arrows on top, green down-arrows on the bottom, and orange/red up-down blocks in the middle. Every block can only slide in its arrow direction. Clear the top and bottom rows first, then work the middle columns vertically.",
+        "landmarks": [
+          "Block Out Level 61 fills a 6×8 grid with directional arrow blocks — green left-arrows on the left, red right-arrows on the right, blue left-arrows on top, green down-arrows on the bottom, and orange/red up-down blocks in the middle.",
+          "Every block can only slide in its arrow direction.",
+          "Clear the top and bottom rows first, then work the middle columns vertically."
+        ],
+        "colors": ["Green", "Red", "Blue", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "kfVQ2SZQEL4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=kfVQ2SZQEL4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The arrows are constraints — a block with a left arrow can ONLY slide left. Plan around this.",
+        "Clear the top and bottom rows first to give the middle blocks room to slide vertically.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top blue blocks with left arrows through the left exit."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the bottom green blocks with down arrows through the bottom exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin sliding the middle orange/red blocks vertically — up-arrow blocks go up, down-arrow blocks go down."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the left green blocks with left arrows through the left exit as the middle opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the right red blocks with right arrows through the right exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining middle blocks that need vertical sliding."
+        }
+      ],
+      "failurePoints": [
+        "Trying to slide a block in a direction its arrow does not point — the arrow is a hard constraint, not a suggestion.",
+        "Clearing middle blocks before the top and bottom rows are open, which traps upper and lower blocks with no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/61/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 61 Walkthrough and Solution",
+    "description": "Solve Block Out level 61 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

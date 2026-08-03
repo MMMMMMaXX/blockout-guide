@@ -1,0 +1,93 @@
+{
+  "id": "en-level-3",
+  "locale": "en",
+  "levelNumber": 3,
+  "title": "Block Out Level 3 Walkthrough",
+  "summary": "Block Out Level 3 is a short chain-reaction puzzle. Drop the center red block first, send the green corner left, cash the lower blue block, and then finish the remaining red and yellow blocks on the bottom gates.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "Block Out Level 3 is a short chain-reaction puzzle. Drop the center red block first, send the green corner left, cash the lower blue block, and then finish the remaining red and yellow blocks on the bottom gates.",
+        "landmarks": [
+          "Block Out Level 3 is a short chain-reaction puzzle.",
+          "Drop the center red block first, send the green corner left, cash the lower blue block, and then finish the remaining red and yellow blocks on the bottom gates.",
+          "The board mixes Green, Yellow, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Yellow", "Red", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use the center red gate as the trigger.",
+        "Green and the lower blue block leave before the final yellow.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the center red block straight down through the red bottom gate."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Move the upper-left green block down and out through the green left gate."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Drop the lower blue block into the blue bottom-left gate."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Lower the middle yellow block into the center lane that just opened."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Send the top-right red block down through the red gate once the middle lane is clear."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last yellow block on the yellow bottom-right gate."
+        }
+      ],
+      "failurePoints": [
+        "Trying to force the top-right red block down before the center red has left.",
+        "Ignoring the green side exit and treating the board like a bottom-only puzzle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 3 Walkthrough and Solution",
+    "description": "Solve Block Out level 3 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

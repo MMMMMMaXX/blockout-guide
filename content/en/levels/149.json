@@ -1,0 +1,96 @@
+{
+  "id": "en-level-149",
+  "locale": "en",
+  "levelNumber": 149,
+  "title": "Block Out Level 149 Walkthrough",
+  "summary": "Block Out Level 149 is a Super Hard four-quadrant puzzle with a bottom micro-block tray and side rails at `27`/`30`. Each quadrant has its own counter that shrinks independently as tray pieces lock in. The left `20` quadrant feeds first,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/149/",
+        "layout": "Block Out Level 149 is a Super Hard four-quadrant puzzle with a bottom micro-block tray and side rails at `27`/`30`. Each quadrant has its own counter that shrinks independently as tray pieces lock in. The left `20` quadrant feeds first, but a cyan `1` anchor and blue vertical `6` block guard the center — break the anchor too early and the `6` drifts into the right pocket, jamming two quadrants at once.",
+        "landmarks": [
+          "Block Out Level 149 is a Super Hard four-quadrant puzzle with a bottom micro-block tray and side rails at `27`/`30`.",
+          "Each quadrant has its own counter that shrinks independently as tray pieces lock in.",
+          "The left `20` quadrant feeds first, but a cyan `1` anchor and blue vertical `6` block guard the center — break the anchor too early and the `6` drifts into the right pocket, jamming two quadrants at once."
+        ],
+        "colors": ["Purple", "Green", "Blue", "Yellow", "Red", "Cyan", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tASeXYR8PkQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tASeXYR8PkQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the yellow polyomino before moving the purple right-strip.",
+        "Keep the cyan 1 anchor intact until the left rail drops from 27 to 25.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Pull the bottom green vertical piece from the tray into the left 20 quadrant using the green left-arrow."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the cyan 1 tile in the center cluster without splitting the red floor bar."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed blue/yellow scraps into the right 23 quadrant once the left rail drops from 27 to 25."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Spend the bottom tray row — green, blue, yellow, purple — to drop the frame to 18/21/2/10."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Break the yellow polyomino in the center after the 2 and 10 bottom counters clear."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the blue vertical 6 block to open the right 10 pocket."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Route the last purple strip through the red right-arrow lane for the glowing center clear."
+        }
+      ],
+      "failurePoints": [
+        "Sliding the purple right-strip before the yellow polyomino breaks, sealing the red right-arrow lane.",
+        "Splitting the red floor bar while the cyan 1 tile is still locked, wasting the first tray feed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/149/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 149 Walkthrough and Solution",
+    "description": "Solve Block Out level 149 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

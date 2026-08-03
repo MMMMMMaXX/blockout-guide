@@ -1,0 +1,98 @@
+{
+  "id": "en-level-6",
+  "locale": "en",
+  "levelNumber": 6,
+  "title": "Block Out Level 6 Walkthrough",
+  "summary": "Block Out Level 6 is the first staged-exit board. Collapse the right-side quota first, keep both top `9` caps shrinking together, and save the red and yellow finish bars for the moment the top gates thaw.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "Block Out Level 6 is the first staged-exit board. Collapse the right-side quota first, keep both top `9` caps shrinking together, and save the red and yellow finish bars for the moment the top gates thaw.",
+        "landmarks": [
+          "Block Out Level 6 is the first staged-exit board.",
+          "Collapse the right-side quota first, keep both top `9` caps shrinking together, and save the red and yellow finish bars for the moment the top gates thaw.",
+          "The board mixes Red, Yellow, White and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Yellow", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The right-side `4` counter is the first target.",
+        "Keep the lower red and yellow bars idle until the side lane opens.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the upper-right white stack into the top-right lane so it can start hitting the right-side quota column."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use the center white bridge to keep feeding the right-side counter until it drops from `4` toward `1`."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Rotate the top black blocker and the upper white blocks through the two `9` counters so both top caps keep shrinking together."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Leave the lower red strip and the lower-right yellow strip parked while the checkerboard center is still doing the quota work."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the right wall opens into a white release lane, peel the last upper white block out and finish the top countdown."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "When the frozen caps convert into colored exits, send the yellow strip to the upper-right gate."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish by running the last red strip to the top-left red gate."
+        }
+      ],
+      "failurePoints": [
+        "Trying to spend the lower red or yellow bars before the right-side counter has nearly collapsed.",
+        "Only shrinking one of the top `9` caps and leaving the other one frozen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 6 Walkthrough and Solution",
+    "description": "Solve Block Out level 6 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

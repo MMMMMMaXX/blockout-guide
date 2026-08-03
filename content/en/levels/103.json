@@ -1,0 +1,96 @@
+{
+  "id": "en-level-103",
+  "locale": "en",
+  "levelNumber": 103,
+  "title": "Block Out Level 103 Walkthrough",
+  "summary": "Block Out Level 103 fills the grid with numbered tiles — `11`, `19`, `14` across the top and a purple `10` bar on the left rail — turning every row into a counting puzzle. The left-rail stack of matching `10` tiles must drain before the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out Level 103 fills the grid with numbered tiles — `11`, `19`, `14` across the top and a purple `10` bar on the left rail — turning every row into a counting puzzle. The left-rail stack of matching `10` tiles must drain before the wide bars can move, and the bottom purple tray counter tracks how many placements remain. The trap is the upper `19` tile: it looks urgent but must wait for the rail.",
+        "landmarks": [
+          "Block Out Level 103 fills the grid with numbered tiles — `11`, `19`, `14` across the top and a purple `10` bar on the left rail — turning every row into a counting puzzle.",
+          "The left-rail stack of matching `10` tiles must drain before the wide bars can move, and the bottom purple tray counter tracks how many placements remain.",
+          "The trap is the upper `19` tile: it looks urgent but must wait for the rail."
+        ],
+        "colors": ["Purple", "Blue", "Pink", "Green", "Yellow", "Cyan", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear every left-rail `10` tile before touching the lower purple `19` bar.",
+        "The upper purple `4` bar can move once the top row is gone — do not wait for the entire center cluster to clear first.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top-row light-blue `11`, `19`, and `14` tiles through the upper exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the left-rail blue `10` stack from top to bottom before touching the center cluster."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Slide the upper purple `4` bar left once the top row and left rail are open."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Break up the center pink/green/yellow singles to open the middle column."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Shift the orange cross and remaining cyan `10` tiles into the side lanes."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Release the lower purple `19` bar through the bottom exit after the left rail is empty."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish the last green cluster and bottom-tray passes to close counter `6`."
+        }
+      ],
+      "failurePoints": [
+        "Trying to slide the lower purple `19` bar before the left-rail `10` stack is gone.",
+        "Clearing the center orange cross too early while the top-row numbers are still blocking the upper exits."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 103 Walkthrough and Solution",
+    "description": "Solve Block Out level 103 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

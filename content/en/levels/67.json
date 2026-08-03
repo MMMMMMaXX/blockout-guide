@@ -1,0 +1,92 @@
+{
+  "id": "en-level-67",
+  "locale": "en",
+  "levelNumber": 67,
+  "title": "Block Out Level 67 Walkthrough",
+  "summary": "Block Out Level 67 splits the board into upper and lower halves connected by maze channels, with a framed keystone block (counter '1') sitting in the center junction. The upper half holds a mix of green, purple, yellow, blue, and red blo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "Block Out Level 67 splits the board into upper and lower halves connected by maze channels, with a framed keystone block (counter '1') sitting in the center junction. The upper half holds a mix of green, purple, yellow, blue, and red blocks. The lower half has three tall cyan blocks with counters '8', '3', and '3'. Remove the keystone first to connect both halves through the maze, then clear the upper colored blocks, and finally feed the tall cyan blocks through the channels to the bottom exits.",
+        "landmarks": [
+          "Block Out Level 67 splits the board into upper and lower halves connected by maze channels, with a framed keystone block (counter '1') sitting in the center junction.",
+          "The upper half holds a mix of green, purple, yellow, blue, and red blocks.",
+          "The lower half has three tall cyan blocks with counters '8', '3', and '3'.",
+          "Remove the keystone first to connect both halves through the maze, then clear the upper colored blocks, and finally feed the tall cyan blocks through the channels to the bottom exits."
+        ],
+        "colors": ["Green", "Purple", "Yellow", "Blue", "Red", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The keystone block with counter '1' is the cheapest move on the board — always clear it first.",
+        "Clear all upper colored blocks before routing the tall cyan blocks through the channels.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the framed keystone block (counter '1') in the center — it connects the two halves."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the green block from the upper-left through the left exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Pull the blue and red blocks at the top through their exits."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Slide the purple/magenta block out once adjacent space opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Route the first tall cyan block (counter '8') through the maze channels to the bottom exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the remaining two cyan blocks (counter '3' each) through the channels."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring the keystone block and trying to move upper blocks first — the halves stay isolated.",
+        "Routing a tall cyan block before the upper section is clear, which blocks the channels for everything else."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 67 Walkthrough and Solution",
+    "description": "Solve Block Out level 67 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

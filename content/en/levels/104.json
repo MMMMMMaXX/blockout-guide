@@ -1,0 +1,93 @@
+{
+  "id": "en-level-104",
+  "locale": "en",
+  "levelNumber": 104,
+  "title": "Block Out Level 104 Walkthrough",
+  "summary": "Block Out Level 104 is a gravity board — green-arrow tiles only fall downward, and chain reactions ripple left to right as columns collapse. The danger is clearing the center too early, before right-column arrow tiles have settled, which...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out Level 104 is a gravity board — green-arrow tiles only fall downward, and chain reactions ripple left to right as columns collapse. The danger is clearing the center too early, before right-column arrow tiles have settled, which cuts off the final chain reaction that sweeps the board clean.",
+        "landmarks": [
+          "Block Out Level 104 is a gravity board — green-arrow tiles only fall downward, and chain reactions ripple left to right as columns collapse.",
+          "The danger is clearing the center too early, before right-column arrow tiles have settled, which cuts off the final chain reaction that sweeps the board clean.",
+          "The board mixes Cyan, Green, Orange and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Cyan", "Green", "Orange", "Purple", "Pink", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Halve the left wall before triggering the center match chain.",
+        "Arrow tiles cannot sidestep — they need a full open column directly beneath them.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top of the left stack through the upper exits to open the first downward column."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Pull green and cyan tiles out of the left wall before touching the center pairs."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Trigger the upper-middle match chain once a vertical gap runs beneath it (starburst around 01:42)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the blue splash column to drop the remaining center arrow tiles straight down."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Sweep the right-side orange and purple arrow tiles through the right-wall exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the bottom-row pink and blue singles after the grid is mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Matching the center cluster before the left wall is half gone — right-column arrow tiles then have no drop lane.",
+        "Clearing bottom singles too early while upper arrow tiles still block the columns above them."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 104 Walkthrough and Solution",
+    "description": "Solve Block Out level 104 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

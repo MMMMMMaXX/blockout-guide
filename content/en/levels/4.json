@@ -1,0 +1,98 @@
+{
+  "id": "en-level-4",
+  "locale": "en",
+  "levelNumber": 4,
+  "title": "Block Out Level 4 Walkthrough",
+  "summary": "Block Out Level 4 is a two-phase striped board. Clear the lower-right white exit and the bottom mint bar first, dismantle the white-and-black blocker ladder on the right, and only then release the long colored bars.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "Block Out Level 4 is a two-phase striped board. Clear the lower-right white exit and the bottom mint bar first, dismantle the white-and-black blocker ladder on the right, and only then release the long colored bars.",
+        "landmarks": [
+          "Block Out Level 4 is a two-phase striped board.",
+          "Clear the lower-right white exit and the bottom mint bar first, dismantle the white-and-black blocker ladder on the right, and only then release the long colored bars.",
+          "The board mixes Red, Yellow, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Yellow", "Green", "Blue", "Orange", "Mint", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The lower-right white exit is the real starter.",
+        "The bottom mint bar is the only long bar you should release before the right ladder collapses.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drop the small white block in the lower-right corner through the white exit."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the bottom mint bar to the right and clear it through its matching side gate."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Let the nearest black blocker fall into the floor lane, then use the new gap to peel the next white blockers down the right edge and out through the white gate."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Keep repeating that right-edge cleanup until the white-and-black ladder is mostly gone and the long bars on the left have room to travel."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Release the blue bar, then the green bar, and then the remaining lower warm bars once their matching right-side gates are open."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Save the upper yellow bar for the penultimate move."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish by sliding the top red bar across to the red side gate."
+        }
+      ],
+      "failurePoints": [
+        "Trying to fire the long blue bar before the right-side blocker ladder has collapsed.",
+        "Ignoring the bottom mint bar and leaving the floor lane sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 4 Walkthrough and Solution",
+    "description": "Solve Block Out level 4 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

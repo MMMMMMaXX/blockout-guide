@@ -1,0 +1,96 @@
+{
+  "id": "en-level-147",
+  "locale": "en",
+  "levelNumber": 147,
+  "title": "Block Out Level 147 Walkthrough",
+  "summary": "Block Out Level 147 is the longest solve in the 101–150 range — a dual-chamber column shifter with a tall left `1` vault and a separate right `13` pocket. Bottom launcher pieces feed the upper grid through narrow lanes. The yellow-outlin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/147/",
+        "layout": "Block Out Level 147 is the longest solve in the 101–150 range — a dual-chamber column shifter with a tall left `1` vault and a separate right `13` pocket. Bottom launcher pieces feed the upper grid through narrow lanes. The yellow-outlined blue column on the left must stay standing until the purple `2` tile and horizontal red bar clear the center, or the vault's feed lane collapses.",
+        "landmarks": [
+          "Block Out Level 147 is the longest solve in the 101–150 range — a dual-chamber column shifter with a tall left `1` vault and a separate right `13` pocket.",
+          "Bottom launcher pieces feed the upper grid through narrow lanes.",
+          "The yellow-outlined blue column on the left must stay standing until the purple `2` tile and horizontal red bar clear the center, or the vault's feed lane collapses."
+        ],
+        "colors": ["Purple", "Yellow", "Blue", "Red", "Orange", "Green", "Cyan", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9uAtDrUE4V0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9uAtDrUE4V0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the 12 highlight before moving the bottom blue-base launcher.",
+        "Keep the 13 pocket sealed until the left 1 chamber accepts its first feed.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the bottom yellow L-piece left on its cyan base to start opening the left 1 chamber without shifting the 13 pocket."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Feed the orange/blue/yellow/red floor cluster upward through the bottom left arrow once the left chamber accepts pieces."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the orange-bordered 12 highlight square in the right chamber after the left column thins."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the yellow-outlined blue vertical column on the left once the 12 tile is gone."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Match the purple 2 tile (orange border) with the yellow 3 scrap above the green arrow block."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the bottom yellow launcher pieces — L on pink base, then 2×2 on blue base — through the center red bar."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Route the last scraps through the green up-arrow exit for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Launching the blue-base yellow 2×2 before the 12 highlight breaks, sealing the green up-arrow lane.",
+        "Opening the 13 pocket before the left 1 chamber thins, flooding the center red bar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/147/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 147 Walkthrough and Solution",
+    "description": "Solve Block Out level 147 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

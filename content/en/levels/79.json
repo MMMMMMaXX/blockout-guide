@@ -1,0 +1,91 @@
+{
+  "id": "en-level-79",
+  "locale": "en",
+  "levelNumber": 79,
+  "title": "Block Out Level 79 Walkthrough",
+  "summary": "Block Out Level 79 is a two-phase board. First you drain a huge purple `17` reservoir sitting under two cramped upper wells. Then the board collapses into a lower tray where a purple bridge-shaped piece must move before the blue and oran...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out Level 79 is a two-phase board. First you drain a huge purple `17` reservoir sitting under two cramped upper wells. Then the board collapses into a lower tray where a purple bridge-shaped piece must move before the blue and orange blocks on the right can escape.",
+        "landmarks": [
+          "Block Out Level 79 is a two-phase board.",
+          "First you drain a huge purple `17` reservoir sitting under two cramped upper wells.",
+          "Then the board collapses into a lower tray where a purple bridge-shaped piece must move before the blue and orange blocks on the right can escape."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat the big `17` reservoir as the opener, not the `7` chamber.",
+        "When the lower tray appears, open the left side before you try to free the blue steps on the right.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drain the giant bottom chamber marked `17` before you overwork either top well."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "While that reservoir is falling, clean the upper-left lane by moving the red L-shape and green stair out of each other's way."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start reducing the upper-right `7` chamber only after the left well is no longer clogging the side counters."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "When both purple chambers are gone, switch focus to the lower tray that appears beneath them."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Open the left side of that lower tray first, then move the purple bridge piece so the blue stepped block on the right has a route."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the right-side blue and orange blocks after the center lane is empty."
+        }
+      ],
+      "failurePoints": [
+        "Treating the upper-right `7` chamber as the first target instead of draining the `17` reservoir underneath it.",
+        "Trying to clear the right-side blue steps in the lower tray before the purple bridge piece has moved."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 79 Walkthrough and Solution",
+    "description": "Solve Block Out level 79 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

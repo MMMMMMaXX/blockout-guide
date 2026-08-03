@@ -1,0 +1,93 @@
+{
+  "id": "en-level-136",
+  "locale": "en",
+  "levelNumber": 136,
+  "title": "Block Out Level 136 Walkthrough",
+  "summary": "Block Out Level 136 splits the board into an upper grid with border numbers gating each slide direction and a lower panel centered on a `13` circle with four colored arrows forming a second scoring zone. The red L-tetromino and yellow 2×...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "Block Out Level 136 splits the board into an upper grid with border numbers gating each slide direction and a lower panel centered on a `13` circle with four colored arrows forming a second scoring zone. The red L-tetromino and yellow 2×2 square compete for center space — clear the cyan up-arrow feeds through the `2` border first, or the lower panel runs out of incoming pieces.",
+        "landmarks": [
+          "Block Out Level 136 splits the board into an upper grid with border numbers gating each slide direction and a lower panel centered on a `13` circle with four colored arrows forming a second scoring zone.",
+          "The red L-tetromino and yellow 2×2 square compete for center space — clear the cyan up-arrow feeds through the `2` border first, or the lower panel runs out of incoming pieces.",
+          "The board mixes Purple, Green, Blue and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Green", "Blue", "Cyan", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the yellow 2×2 before sliding the cyan right bar — reversing that order locks the lower 13 above 4.",
+        "Feed the red L-tetromino through the purple left-arrow only after both side 9 counters clear.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the top purple/green/blue cluster rightward to spend the 2 and 4 top counters without splitting the cyan/yellow right pair."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Feed the red left column down the green down-arrow lane to start spending the left 9 border counter."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the yellow 2×2 square in the upper-center once the right 9 counter drops to 6."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Push the red L-tetromino leftward through the purple left-arrow lane after both side 9 counters clear."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Slide the cyan vertical bar on the right edge down the red right-arrow lane to unlock the lower panel."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the lower 9 tile in the orange circle and feed the last scraps down the yellow up-arrow for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Sliding the cyan right bar before the yellow 2×2 breaks, locking the lower 13 circle above 4.",
+        "Pushing the red L-tetromino left before both side 9 counters clear, stranding the lower panel."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 136 Walkthrough and Solution",
+    "description": "Solve Block Out level 136 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

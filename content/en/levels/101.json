@@ -1,0 +1,91 @@
+{
+  "id": "en-level-101",
+  "locale": "en",
+  "levelNumber": 101,
+  "title": "Block Out Level 101 Walkthrough",
+  "summary": "Block Out Level 101 pairs dual feed chambers — a `9` on top and a `4` below — with patterned side stacks that look important but are actually just walls. The real puzzle is timing: the red down-arrow piece in the bottom tray must wait un...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "Block Out Level 101 pairs dual feed chambers — a `9` on top and a `4` below — with patterned side stacks that look important but are actually just walls. The real puzzle is timing: the red down-arrow piece in the bottom tray must wait until the upper `9` feed is nearly done before it can drop through the center lane. Rush the arrow block and it gets buried under collapsing side stacks.",
+        "landmarks": [
+          "Block Out Level 101 pairs dual feed chambers — a `9` on top and a `4` below — with patterned side stacks that look important but are actually just walls.",
+          "The real puzzle is timing: the red down-arrow piece in the bottom tray must wait until the upper `9` feed is nearly done before it can drop through the center lane.",
+          "Rush the arrow block and it gets buried under collapsing side stacks."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Feed the purple dotted block first to start the upper `9` counter.",
+        "Do not touch the red down-arrow piece until the upper chamber is down to its last one or two passes.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the purple dotted block from the bottom tray into the upper chamber to start the `9` counter."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the left red cross-pattern stack downward so the upper feed lane stays open."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the green and blue tray pieces into the upper chamber once the left stack thins."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Finish the last upper-chamber pass while the center blue arrow column is still empty."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Drop the red down-arrow block through the center lane into the lower `4` chamber."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the remaining patterned blocks from the right yellow/blue stacks to close the lower counter."
+        }
+      ],
+      "failurePoints": [
+        "Moving the red down-arrow piece before the upper chamber is nearly finished — it gets buried under the left stacks.",
+        "Clearing the right yellow stack before the upper feed lane is stable, which closes the center drop lane."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 101 Walkthrough and Solution",
+    "description": "Solve Block Out level 101 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

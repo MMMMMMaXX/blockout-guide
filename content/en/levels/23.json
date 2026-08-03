@@ -1,0 +1,98 @@
+{
+  "id": "en-level-23",
+  "locale": "en",
+  "levelNumber": 23,
+  "title": "Block Out Level 23 Walkthrough",
+  "summary": "Block Out Level 23 is a knot board with two framed lower boxes marked `11` and `8`. Use the top blue lane and right yellow gate to untie the curled center path, then let the two boss boxes fall once the knot is gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "Block Out Level 23 is a knot board with two framed lower boxes marked `11` and `8`. Use the top blue lane and right yellow gate to untie the curled center path, then let the two boss boxes fall once the knot is gone.",
+        "landmarks": [
+          "Block Out Level 23 is a knot board with two framed lower boxes marked `11` and `8`.",
+          "Use the top blue lane and right yellow gate to untie the curled center path, then let the two boss boxes fall once the knot is gone.",
+          "The board mixes Blue, Yellow, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Blue", "Yellow", "Red", "Purple", "Pink", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untie the center before attacking the lower boxes.",
+        "The top blue route is part of the opener, not the closer.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the top blue route first so the middle curl has one less blocker."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use the right yellow lane to pull the upper yellow column away from the knot."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Rotate the red and purple curl pieces until the central path is no longer closed."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Start shrinking the framed `11` box once the left half of the knot has opened."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the framed `8` box fall after the right half has also cleared."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clean up the tall red and yellow columns that were holding the curl in place."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last blue top route after both lower frames are nearly gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to empty a lower framed box while the center curl is still tight.",
+        "Ignoring the right yellow gate and overworking only the top blue route."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 23 Walkthrough and Solution",
+    "description": "Solve Block Out level 23 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

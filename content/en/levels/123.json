@@ -1,0 +1,91 @@
+{
+  "id": "en-level-123",
+  "locale": "en",
+  "levelNumber": 123,
+  "title": "Block Out Level 123 Walkthrough",
+  "summary": "Block Out Level 123 wraps a perimeter frame around a central purple tube, with hammer-tool obstacles guarding the numbered pocket counters. The perimeter tiles must drain before the tube accepts input — and the green `3` tile highlighted...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/123/",
+        "layout": "Block Out Level 123 wraps a perimeter frame around a central purple tube, with hammer-tool obstacles guarding the numbered pocket counters. The perimeter tiles must drain before the tube accepts input — and the green `3` tile highlighted with a yellow line is the gating piece. Clear the top-left pink pocket first, then work the hammer tools inward to open the tube.",
+        "landmarks": [
+          "Block Out Level 123 wraps a perimeter frame around a central purple tube, with hammer-tool obstacles guarding the numbered pocket counters.",
+          "The perimeter tiles must drain before the tube accepts input — and the green `3` tile highlighted with a yellow line is the gating piece.",
+          "Clear the top-left pink pocket first, then work the hammer tools inward to open the tube."
+        ],
+        "colors": ["Pink", "Green", "Orange", "Blue", "Purple", "White", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hMB1I2XGFso",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hMB1I2XGFso",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the orange hammer-tool pair before feeding any blue tile into the central tube.",
+        "Keep the bottom pink row parked until the top perimeter is fully thin.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the top-left pink `4` cluster and the green `5` tile without touching the central orange `3`."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the twin orange hammer-tool blocks on the top-right before feeding any right-wall blue tiles."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Drain the left-wall blue `5` column and the white `1` corner tile to open the left tube entrance."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the bottom pink row and the green/orange bottom pair once the top perimeter is thin."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Route the green `3` tile through the central purple tube using the yellow vertical lane marker."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the right-wall blue `4`/`2` pair and the remaining blue scraps for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Feeding blue tiles into the tube before the hammer-tool blocks break — this pins the green `3` inside.",
+        "Clearing the bottom pink row before the top perimeter thins, sealing the tube corridor."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/123/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 123 Walkthrough and Solution",
+    "description": "Solve Block Out level 123 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "en-level-42",
+  "locale": "en",
+  "levelNumber": 42,
+  "title": "Block Out Level 42 Walkthrough",
+  "summary": "Block Out Level 42 is a two-column sorting puzzle with no bosses or devices. Green, red, white, and black blocks are stacked in two parallel vertical channels separated by a dark center divider, and each color must reach its matching exi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "Block Out Level 42 is a two-column sorting puzzle with no bosses or devices. Green, red, white, and black blocks are stacked in two parallel vertical channels separated by a dark center divider, and each color must reach its matching exit at the bottom. The solve works from top to bottom: peel the upper blocks first to create room, shift the white center blocks to enable cross-column swaps, and sort each color to its exit.",
+        "landmarks": [
+          "Block Out Level 42 is a two-column sorting puzzle with no bosses or devices.",
+          "Green, red, white, and black blocks are stacked in two parallel vertical channels separated by a dark center divider, and each color must reach its matching exit at the bottom.",
+          "The solve works from top to bottom: peel the upper blocks first to create room, shift the white center blocks to enable cross-column swaps, and sort each color to its exit."
+        ],
+        "colors": ["Green", "Red", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Work from top to bottom — the lower blocks cannot sort until the upper ones have cleared their column space.",
+        "The white center blocks are swap enablers, not first moves.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel blocks from the top of one outer column to create the first gap."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Mirror the cleanup on the opposite column to keep the board balanced."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the white center blocks to enable cross-column movement."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Sort the red blocks toward the red bottom exit and green blocks toward the green exit."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Continue working from top to bottom, clearing each color layer in turn."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Keep the center divider open for the final cross-column swaps."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last blocks once both columns are sorted to their exits."
+        }
+      ],
+      "failurePoints": [
+        "Trying to use the center white blocks before the outer columns have thinned — the cross-column swaps need room that only exists after the top layers are peeled.",
+        "Working the bottom blocks before the top is cleared, which jams the columns because there is no vertical room to sort."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 42 Walkthrough and Solution",
+    "description": "Solve Block Out level 42 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

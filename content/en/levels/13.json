@@ -1,0 +1,93 @@
+{
+  "id": "en-level-13",
+  "locale": "en",
+  "levelNumber": 13,
+  "title": "Block Out Level 13 Walkthrough",
+  "summary": "Block Out Level 13 is a pressure board with a crowded right wall and top counters. Soften the right lane first, keep the upper blue band parked as a brace, and collapse the cyan slabs only after the red lane opens.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "Block Out Level 13 is a pressure board with a crowded right wall and top counters. Soften the right lane first, keep the upper blue band parked as a brace, and collapse the cyan slabs only after the red lane opens.",
+        "landmarks": [
+          "Block Out Level 13 is a pressure board with a crowded right wall and top counters.",
+          "Soften the right lane first, keep the upper blue band parked as a brace, and collapse the cyan slabs only after the red lane opens.",
+          "The board mixes Cyan, Yellow, Blue and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Cyan", "Yellow", "Blue", "Pink", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The right red lane matters before the top blue band.",
+        "Cyan slabs should move after the counters, not before them.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the right-edge pieces into the red wall so the tiny `1` side counter disappears first."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Keep shrinking the top `3` and `4` counters while the cyan `10` slab stays parked in the middle."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the yellow belts to bridge across the center only after the right lane is no longer clogged."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Drop the cyan `8` and `6` slabs in sequence so the middle row stops pinning the blue band."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Release the upper blue band once the top counters are nearly exhausted."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish by clearing the last yellow belts and then the final cyan `5` slab."
+        }
+      ],
+      "failurePoints": [
+        "Moving the top blue band before the right red lane has opened.",
+        "Trying to force the cyan `10` slab down while the top counters are still high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 13 Walkthrough and Solution",
+    "description": "Solve Block Out level 13 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

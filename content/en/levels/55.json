@@ -1,0 +1,98 @@
+{
+  "id": "en-level-55",
+  "locale": "en",
+  "levelNumber": 55,
+  "title": "Block Out Level 55 Walkthrough",
+  "summary": "Block Out Level 55 locks a wide purple boss bar with counter `7` across the bottom of the board while packing the upper zone with a large green 2×2 block, four tall cyan blocks (each counter `4`), and assorted red, blue, and yellow piece...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out Level 55 locks a wide purple boss bar with counter `7` across the bottom of the board while packing the upper zone with a large green 2×2 block, four tall cyan blocks (each counter `4`), and assorted red, blue, and yellow pieces. Clear every upper block to count the boss bar down to zero, then sort the hidden layer of tall yellow, orange, and green blocks that appears after the bar collapses.",
+        "landmarks": [
+          "Block Out Level 55 locks a wide purple boss bar with counter `7` across the bottom of the board while packing the upper zone with a large green 2×2 block, four tall cyan blocks (each counter `4`), and assorted red, blue, and yellow pieces.",
+          "Clear every upper block to count the boss bar down to zero, then sort the hidden layer of tall yellow, orange, and green blocks that appears after the bar collapses.",
+          "The board mixes Green, Cyan, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Cyan", "Red", "Blue", "Yellow", "Orange", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Start the four cyan `4` blocks early — they consume 16 total passes through the right-wall exit.",
+        "Do not touch the revealed yellow/orange layer until the purple boss bar has fully disappeared.",
+        "Keep the left lane open after the green 2×2 block exits — you will need it for the second wave."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the small red block near the top-left downward, then push the large green 2×2 block out through the left-wall exit to open the left lane (02:55–02:50 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Route the blue block through the left-wall exit using the gap the green block left behind."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin feeding the four cyan `4` blocks through the right-wall exit — start with the leftmost cyan block and keep the right lane clear for all 16 passes (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the remaining yellow and small red blocks through whichever exit is closest — each piece drops the boss counter by one (counter reads `3` at 02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the counter hits `0` (around 02:29), the purple boss bar collapses and reveals tall yellow, orange, and green blocks underneath."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Slide the revealed yellow tall block toward the left-wall exit first because it blocks the orange block behind it."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Route the orange tall block through the right-wall exit, then finish with the remaining green blocks through the bottom exits (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "Moving a revealed yellow or orange block before the boss bar has fully collapsed — the piece jams against the bar and blocks the exit lane with no way to recover.",
+        "Feeding the cyan `4` blocks through the left-wall exit instead of the right — this clogs the lane needed for the green 2×2 block and stalls the boss countdown."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 55 Walkthrough and Solution",
+    "description": "Solve Block Out level 55 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

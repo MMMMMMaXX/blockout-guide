@@ -1,0 +1,91 @@
+{
+  "id": "en-level-146",
+  "locale": "en",
+  "levelNumber": 146,
+  "title": "Block Out Level 146 Walkthrough",
+  "summary": "Block Out Level 146 runs dual top counters — `20` and `17` — that tick down as scraps clear from a Lego-textured grid. A sealed left yellow column and a red star-dotted anchor pin the lower half. The star-dotted block must break before t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/146/",
+        "layout": "Block Out Level 146 runs dual top counters — `20` and `17` — that tick down as scraps clear from a Lego-textured grid. A sealed left yellow column and a red star-dotted anchor pin the lower half. The star-dotted block must break before the final purple 2×2 can exit, but shifting the green L-piece too early blocks the center lane and strands the anchor.",
+        "landmarks": [
+          "Block Out Level 146 runs dual top counters — `20` and `17` — that tick down as scraps clear from a Lego-textured grid.",
+          "A sealed left yellow column and a red star-dotted anchor pin the lower half.",
+          "The star-dotted block must break before the final purple 2×2 can exit, but shifting the green L-piece too early blocks the center lane and strands the anchor."
+        ],
+        "colors": ["Purple", "Yellow", "Blue", "Red", "Cyan", "Green", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXs9atNLk6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXs9atNLk6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the red star-dotted block before sliding the center purple 2×2.",
+        "Keep the purple 12 cluster intact until the top counters drop below 15.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the left yellow column down with the side green up-arrow to start spending the top 20 counter without shifting the purple 12 pair."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the twin top 20/17 tiles down to 15/12 by clearing the upper cyan 5 and red scraps between them."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Route the blue L-shape and red 2×2 through the center gap once the counters hit 15/12."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the bottom purple 12 cluster and yellow 8 tile to drop the top frames to 6/3."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Break the red star-dotted block on the bottom-right before sliding the center purple 2×2."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the final 6/3 counters on the green L-piece and last blue scraps for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Sliding the purple 2×2 before the red star-dotted block breaks, sealing the bottom red lane.",
+        "Shifting the purple 12 cluster while the top 20 counter is still full, wasting the first spend."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/146/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 146 Walkthrough and Solution",
+    "description": "Solve Block Out level 146 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

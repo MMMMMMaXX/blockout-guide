@@ -1,0 +1,37 @@
+{
+  "kind": "obstacle",
+  "id": "en-obstacle-connected-blocks",
+  "locale": "en",
+  "slug": "connected-blocks",
+  "title": "Connected blocks: linked pieces move as one",
+  "summary": "Connected blocks are linked, so moving one shifts its partner and changes how you route either color.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Connected Blocks Obstacle Guide",
+    "description": "See how Block Out Connected Blocks link pieces together and how to route the paired colors to a shared exit."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Connected Blocks were introduced in Block Out Version 395 as a new blocker.",
+    "Linked blocks move together, so a move on one piece also affects its connected partner.",
+    "The connection holds until a clear condition separates the pieces."
+  ],
+  "strategyPoints": [
+    "Treat the connected pair as a single unit when planning lanes and exits.",
+    "Look for a clear that removes both linked colors without stranding one.",
+    "Position the pair so its combined footprint still leaves a usable path."
+  ],
+  "avoidPoints": [
+    "Do not move one block and assume its partner stays put.",
+    "Do not separate the colors into lanes that cannot both reach an exit.",
+    "Do not plan around the link as if it were a normal independent block."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

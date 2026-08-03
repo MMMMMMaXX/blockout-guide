@@ -1,0 +1,92 @@
+{
+  "id": "en-level-64",
+  "locale": "en",
+  "levelNumber": 64,
+  "title": "Block Out Level 64 Walkthrough",
+  "summary": "Block Out Level 64 is a quadrant-frame puzzle. Orange frame borders divide the board into four chambers — three filled with massive purple numbered blocks (counters 4, 12, and 7), and one packed with small colored blocks. The small block...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/64/",
+        "layout": "Block Out Level 64 is a quadrant-frame puzzle. Orange frame borders divide the board into four chambers — three filled with massive purple numbered blocks (counters 4, 12, and 7), and one packed with small colored blocks. The small blocks in the upper-right quadrant are the only pieces that can move at the start. Clear them first to open the upper half, then feed the purple blocks through their exits in ascending counter order.",
+        "landmarks": [
+          "Block Out Level 64 is a quadrant-frame puzzle.",
+          "Orange frame borders divide the board into four chambers — three filled with massive purple numbered blocks (counters 4, 12, and 7), and one packed with small colored blocks.",
+          "The small blocks in the upper-right quadrant are the only pieces that can move at the start.",
+          "Clear them first to open the upper half, then feed the purple blocks through their exits in ascending counter order."
+        ],
+        "colors": ["Purple", "Green", "Yellow", "Blue", "Red", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gKBANgKGy-w",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gKBANgKGy-w",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The upper-right quadrant is your only lever at the start — extract every small block there first.",
+        "Feed purple blocks in ascending counter order: '4' first, then '7', then '12'.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Extract the small colored blocks from the upper-right quadrant through top and right exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the counter '2' block at the top of the board."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed the upper-left purple block (counter '4') through its exit once the upper half opens."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the freed upper space to begin moving the lower-right purple block (counter '7')."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Work the massive lower-left purple block (counter '12') last — it needs the most room."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear any remaining colored fragments after the purple blocks are gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move a purple block before the upper-right quadrant is cleared — the orange frames prevent it.",
+        "Leaving the counter '12' block until last without creating enough exit lane width first."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/64/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 64 Walkthrough and Solution",
+    "description": "Solve Block Out level 64 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

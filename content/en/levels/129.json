@@ -1,0 +1,91 @@
+{
+  "id": "en-level-129",
+  "locale": "en",
+  "levelNumber": 129,
+  "title": "Block Out Level 129 Walkthrough",
+  "summary": "Block Out Level 129 is a Super Hard two-phase puzzle — the first half is a container-feed packing board, the second half transforms into a red cross sliding through stepped purple wall segments. Empty the top container while its counter...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/129/",
+        "layout": "Block Out Level 129 is a Super Hard two-phase puzzle — the first half is a container-feed packing board, the second half transforms into a red cross sliding through stepped purple wall segments. Empty the top container while its counter drops from `4`, then navigate the red cross through increasingly narrow gaps. Force the cyan `2` tile early and it pins the cross against a wall mid-slide.",
+        "landmarks": [
+          "Block Out Level 129 is a Super Hard two-phase puzzle — the first half is a container-feed packing board, the second half transforms into a red cross sliding through stepped purple wall segments.",
+          "Empty the top container while its counter drops from `4`, then navigate the red cross through increasingly narrow gaps.",
+          "Force the cyan `2` tile early and it pins the cross against a wall mid-slide."
+        ],
+        "colors": ["Purple", "Blue", "Red", "Green", "Yellow", "Cyan", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Qhu6W_7y5o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Qhu6W_7y5o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Every container counter must hit zero before the red cross phase begins.",
+        "The cyan `2` tile on the far right is a trap if moved before the red cluster clears.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the left purple `5` column and the blue `8` block without jamming the lower `5` container."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Feed matching bottom-grid colors into the lower orange-bordered `5` slot, then work the upper `21` container."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the red/yellow/green mid-grid clusters once the right-rail `3` counters thin."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the dense multicolor middle phase before the board opens to the cross puzzle."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Slide the red plus piece past the upper stepped purple wall, then past the lower purple ledge."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Drop the red cross onto the bottom red arrow indicator for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Starting the red cross phase while the top container still shows a number — the stepped walls stay locked.",
+        "Moving the cyan `2` tile before the red cluster on the right is cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/129/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 129 Walkthrough and Solution",
+    "description": "Solve Block Out level 129 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

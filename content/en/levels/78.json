@@ -1,0 +1,92 @@
+{
+  "id": "en-level-78",
+  "locale": "en",
+  "levelNumber": 78,
+  "title": "Block Out Level 78 Walkthrough",
+  "summary": "Block Out Level 78 packs large colored blocks into a rectangular board with dark channel paths constraining movement. The upper half holds large green, blue, and red blocks. The lower center has a yellow/orange framed block with counter...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "Block Out Level 78 packs large colored blocks into a rectangular board with dark channel paths constraining movement. The upper half holds large green, blue, and red blocks. The lower center has a yellow/orange framed block with counter '3' flanked by purple blocks. Clear the upper half first to open the channel routes, extract the purple flanking blocks, then feed the framed block through its exit three times.",
+        "landmarks": [
+          "Block Out Level 78 packs large colored blocks into a rectangular board with dark channel paths constraining movement.",
+          "The upper half holds large green, blue, and red blocks.",
+          "The lower center has a yellow/orange framed block with counter '3' flanked by purple blocks.",
+          "Clear the upper half first to open the channel routes, extract the purple flanking blocks, then feed the framed block through its exit three times."
+        ],
+        "colors": ["Green", "Blue", "Red", "Cyan", "Yellow", "Orange", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the upper half completely before trying to feed the counter '3' block.",
+        "The channel paths force specific routes — plan your extraction to keep lanes clear.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Extract the green blocks from the upper-left through the top and left exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Pull the blue blocks from the upper-right through the right exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the red blocks from the center through the freed upper routes."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the purple blocks flanking the lower center to open lanes for the framed block."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the yellow/orange framed block (counter '3') through its exit three times."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the remaining purple block at the bottom."
+        }
+      ],
+      "failurePoints": [
+        "Trying to feed the counter '3' block before the upper half is clear — the channels jam.",
+        "Leaving purple flanking blocks in place while attempting to route the framed block."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 78 Walkthrough and Solution",
+    "description": "Solve Block Out level 78 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

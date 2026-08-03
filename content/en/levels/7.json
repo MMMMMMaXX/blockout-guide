@@ -1,0 +1,98 @@
+{
+  "id": "en-level-7",
+  "locale": "en",
+  "levelNumber": 7,
+  "title": "Block Out Level 7 Walkthrough",
+  "summary": "Block Out Level 7 is a tall ladder built around one early red side exit. Send the upper-right red block away first, rotate the white ladders through the freed pocket, and let the black mass collapse only after both right-side reds are gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "Block Out Level 7 is a tall ladder built around one early red side exit. Send the upper-right red block away first, rotate the white ladders through the freed pocket, and let the black mass collapse only after both right-side reds are gone.",
+        "landmarks": [
+          "Block Out Level 7 is a tall ladder built around one early red side exit.",
+          "Send the upper-right red block away first, rotate the white ladders through the freed pocket, and let the black mass collapse only after both right-side reds are gone.",
+          "The board mixes Red, White, Black and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use the upper-right red exit first.",
+        "The lower-right red block follows the same wall after the white ladders shift.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the upper-right red block out through the red gate on the right wall."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Lift the top white pillar and use the freed right pocket to rotate the lower-right red block upward."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep shuffling the middle white ladders so the lower-right red block can also leave through the same red side gate."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "After both right-side reds are gone, use the extra height to pull the black roof down and let the center white pillars separate."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the remaining white ladders toward the bottom exit as the bottom counter shrinks."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Save the upper-left red block for the late cleanup once the center has flattened."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish by draining the last black column through the bottom lane."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring the upper-right red side exit and trying to work from the bottom first.",
+        "Forcing the upper-left red block too early before the black roof has dropped."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 7 Walkthrough and Solution",
+    "description": "Solve Block Out level 7 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

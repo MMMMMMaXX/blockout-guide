@@ -1,0 +1,91 @@
+{
+  "id": "en-level-82",
+  "locale": "en",
+  "levelNumber": 82,
+  "title": "Block Out Level 82 Walkthrough",
+  "summary": "Block Out Level 82 fills the board with numbered blocks ranging from counter '1' to '11', plus lock-and-key blocks that gate the extraction sequence. Nearly every block has a counter. Clear the lightest counters first (1, 2, 3) to open l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "Block Out Level 82 fills the board with numbered blocks ranging from counter '1' to '11', plus lock-and-key blocks that gate the extraction sequence. Nearly every block has a counter. Clear the lightest counters first (1, 2, 3) to open lanes, work the medium counters (4, 5) next, and save the heavy blocks (counters '9' and '11' on the left side) for last when the board has the most room.",
+        "landmarks": [
+          "Block Out Level 82 fills the board with numbered blocks ranging from counter '1' to '11', plus lock-and-key blocks that gate the extraction sequence.",
+          "Nearly every block has a counter.",
+          "Clear the lightest counters first (1, 2, 3) to open lanes, work the medium counters (4, 5) next, and save the heavy blocks (counters '9' and '11' on the left side) for last when the board has the most room."
+        ],
+        "colors": ["Green", "Cyan", "Purple", "Yellow", "Pink", "Blue", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Always clear the lowest-counter blocks first — each one opens lanes for the next.",
+        "Match lock-and-key blocks early to unlock gated sections.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the yellow block (counter '1') in the center to open the middle."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the counter '2' block at the bottom through the bottom exit."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Work the green block (counter '3') center-right through the right exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear lock blocks by matching them with their keys to unlock gated sections."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the purple block (counter '4') and green block (counter '5') through their exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Route the heavy blocks (counters '9' and '11') on the left through the widened lanes last."
+        }
+      ],
+      "failurePoints": [
+        "Trying to feed a high-counter block before lighter blocks have opened lanes — it jams immediately.",
+        "Ignoring the lock-and-key sequence, leaving gated blocks inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 82 Walkthrough and Solution",
+    "description": "Solve Block Out level 82 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

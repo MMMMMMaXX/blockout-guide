@@ -1,0 +1,102 @@
+{
+  "id": "en-level-97",
+  "locale": "en",
+  "levelNumber": 97,
+  "title": "Block Out Level 97 Walkthrough",
+  "summary": "Block Out Level 97 stacks two horizontal frames packed with colored blocks. The upper frame holds a yellow block, blue borders, large red blocks, and padlocked orange/yellow pieces (padlock `5`). The lower frame is twice as dense with la...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out Level 97 stacks two horizontal frames packed with colored blocks. The upper frame holds a yellow block, blue borders, large red blocks, and padlocked orange/yellow pieces (padlock `5`). The lower frame is twice as dense with large red and green blocks, blue, orange, purple, and padlocked yellow pieces. Work both frames in alternation — clear non-padlocked edge blocks to unlock the padlock `5` gates in each frame, then feed the large pieces through.",
+        "landmarks": [
+          "Block Out Level 97 stacks two horizontal frames packed with colored blocks.",
+          "The upper frame holds a yellow block, blue borders, large red blocks, and padlocked orange/yellow pieces (padlock `5`).",
+          "The lower frame is twice as dense with large red and green blocks, blue, orange, purple, and padlocked yellow pieces.",
+          "Work both frames in alternation — clear non-padlocked edge blocks to unlock the padlock `5` gates in each frame, then feed the large pieces through."
+        ],
+        "colors": ["Red", "Orange", "Yellow", "Green", "Blue", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Padlock `5` counters are per-frame — clearing upper blocks only unlocks upper padlocks, not lower ones.",
+        "Start with the non-padlocked edge blocks in both frames to build toward the five-clear unlock threshold.",
+        "Feed the large green block in the lower center last — it blocks the center path and needs the most room."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Upper frame: slide the blue border block on the far right through the right-wall exit, then push the yellow block on the far left through the left-wall exit (02:24–02:20 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Lower frame: clear the orange and purple blocks on the far right through the right-wall exit — they are closest and not padlocked (02:20–02:15)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Upper frame: clear the large red blocks in the center-left through the left-wall exit — each removal counts toward the upper padlock `5` unlock (02:15–02:06)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Upper frame padlocks now open: clear the orange and yellow padlocked blocks from the center through the right exit (02:06)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Lower frame: clear non-padlocked blue and red blocks from the center to count toward the lower padlock `5` threshold (02:01–01:52)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Lower frame padlocks now open: clear the yellow padlocked blocks on the far left through the left-wall exit (01:52)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Feed the large green block in the lower center through the bottom exit — it takes several passes and needs the center path clear (01:47–01:38)."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Finish with the remaining small blocks from both frames through the nearest exits (01:38–01:33)."
+        }
+      ],
+      "failurePoints": [
+        "Clearing red blocks in the upper frame before planning the padlocked blocks' exit route — once the surrounding space fills with lower-frame spill, the padlocked blocks have nowhere to go.",
+        "Treating the padlock counters as shared — clearing five upper-frame blocks does not unlock lower-frame padlocks, so working only one frame at a time wastes moves."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 97 Walkthrough and Solution",
+    "description": "Solve Block Out level 97 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

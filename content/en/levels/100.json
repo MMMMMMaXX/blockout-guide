@@ -1,0 +1,93 @@
+{
+  "id": "en-level-100",
+  "locale": "en",
+  "levelNumber": 100,
+  "title": "Block Out Level 100 Walkthrough",
+  "summary": "Block Out Level 100 is a short ring-rotation board built around one moving empty pocket. Open the left side first, chase the gap to the top-right corner, and then use the cleared middle column to flush the final green slabs through the t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out Level 100 is a short ring-rotation board built around one moving empty pocket. Open the left side first, chase the gap to the top-right corner, and then use the cleared middle column to flush the final green slabs through the top and right exits.",
+        "landmarks": [
+          "Block Out Level 100 is a short ring-rotation board built around one moving empty pocket.",
+          "Open the left side first, chase the gap to the top-right corner, and then use the cleared middle column to flush the final green slabs through the top and right exits.",
+          "The board mixes Green, Yellow, Orange and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keep the empty pocket moving. If it gets buried in the middle too early, the ring stalls.",
+        "The top-right corner should open before you try to cash the top-center green slab.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Use the small gap on the left side of the ring to start the rotation."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the top-row slabs so the empty pocket moves into the top-right corner."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Open the middle column once that top-right corner is clear."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Send the top-center green slab out through the top exit as soon as its lane opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the right-side green slab next, then feed the remaining yellow slabs around the ring."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last green blocks once the center is empty."
+        }
+      ],
+      "failurePoints": [
+        "Dropping a slab into the middle before the empty pocket has rotated to the top-right corner.",
+        "Trying to clear the top-center green slab before the middle column is actually open."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 100 Walkthrough and Solution",
+    "description": "Solve Block Out level 100 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

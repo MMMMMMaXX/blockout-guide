@@ -1,0 +1,91 @@
+{
+  "id": "en-level-102",
+  "locale": "en",
+  "levelNumber": 102,
+  "title": "Block Out Level 102 Walkthrough",
+  "summary": "Block Out Level 102 flips the usual formula — instead of sliding blocks out, you're placing them in. An empty main grid sits above a bottom inventory of L-shapes and 2×2 clusters, and the step counter tracks each transfer. The puzzle is...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out Level 102 flips the usual formula — instead of sliding blocks out, you're placing them in. An empty main grid sits above a bottom inventory of L-shapes and 2×2 clusters, and the step counter tracks each transfer. The puzzle is spatial: fitting every piece cleanly without blocking the middle column, where one misplaced green `1` tile can seal the board.",
+        "landmarks": [
+          "Block Out Level 102 flips the usual formula — instead of sliding blocks out, you're placing them in.",
+          "An empty main grid sits above a bottom inventory of L-shapes and 2×2 clusters, and the step counter tracks each transfer.",
+          "The puzzle is spatial: fitting every piece cleanly without blocking the middle column, where one misplaced green `1` tile can seal the board."
+        ],
+        "colors": ["Red", "Yellow", "Green", "Blue", "Purple", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keep the center column empty until the highlighted green `1` piece is placed.",
+        "Watch the step counter — you should reach step 6 before the lower half is fully packed.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drop the first bottom-tray cluster into the upper-left of the main frame to open the run (step 1)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Place the next two clusters along the top row so the center column stays empty."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Move the highlighted green `1` piece through the open center column before filling the lower half."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Transfer the mid-run L-shapes into the left and right lower corners so they do not cross the center lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Place the remaining cyan and purple pairs along the bottom row of the main frame."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the last two-block group from the bottom tray to finish the step-11 completion."
+        }
+      ],
+      "failurePoints": [
+        "Filling the center column before the green `1` piece is placed — the highlighted piece then has no downward path.",
+        "Dropping late L-shapes into the middle of the grid instead of the lower corners, which blocks the final placements."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 102 Walkthrough and Solution",
+    "description": "Solve Block Out level 102 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "en-level-11",
+  "locale": "en",
+  "levelNumber": 11,
+  "title": "Block Out Level 11 Walkthrough",
+  "summary": "Block Out Level 11 is a countdown-wall puzzle. Grind down the tall right cyan column first, strip the center blocker spine into it, and save the left pink and green caps until the wall is in single digits.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "Block Out Level 11 is a countdown-wall puzzle. Grind down the tall right cyan column first, strip the center blocker spine into it, and save the left pink and green caps until the wall is in single digits.",
+        "landmarks": [
+          "Block Out Level 11 is a countdown-wall puzzle.",
+          "Grind down the tall right cyan column first, strip the center blocker spine into it, and save the left pink and green caps until the wall is in single digits.",
+          "The board mixes Pink, Green, White and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Pink", "Green", "White", "Black", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The right cyan column is the main objective at the start.",
+        "Pink and green are late movers.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Use the upper black-and-white blocks to start hitting the right countdown wall and bring the `16` stack down."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Keep feeding the center blocker spine rightward while the side counters on the left also tick lower."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Leave the top pink bar and both green bars parked until the right wall has dropped into single digits."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "When the spine is mostly gone, slide the top green bar into the top finish and clear the upper lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Rotate the lower green bar across the floor once the black base has opened."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Save the pink bar for late cleanup after the green pieces have already left."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last black and white leftovers when the countdown wall is nearly empty."
+        }
+      ],
+      "failurePoints": [
+        "Moving the pink cap before the center spine has done most of the countdown work.",
+        "Only working the small left counters and ignoring the big right wall."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 11 Walkthrough and Solution",
+    "description": "Solve Block Out level 11 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "obstacle",
+  "id": "template-obstacle",
+  "locale": "en",
+  "slug": "replace-obstacle-slug",
+  "title": "Replace with verified obstacle title",
+  "summary": "Replace with an evidence-scoped summary before publication.",
+  "status": "draft",
+  "category": "Replace category",
+  "priority": "state-dependent",
+  "rules": ["Replace with an observed rule."],
+  "strategyPoints": ["Replace with a reproducible decision."],
+  "avoidPoints": ["Replace with an observed failure mode."],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": [],
+  "updatedAt": "2026-08-02"
+}

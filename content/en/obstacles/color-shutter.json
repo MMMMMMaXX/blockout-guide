@@ -1,0 +1,37 @@
+{
+  "kind": "obstacle",
+  "id": "en-obstacle-color-shutter",
+  "locale": "en",
+  "slug": "color-shutter",
+  "title": "Color shutter: a color-gated obstacle",
+  "summary": "Color Shutter is a color-gated obstacle introduced in Version 573 that opens or blocks passages based on color conditions.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Color Shutter Obstacle Guide",
+    "description": "Understand the Block Out Color Shutter obstacle and how to meet its color condition before the gated route opens."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter was added in Block Out Version 573 as a colorful new challenge.",
+    "The shutter's state depends on color conditions on the board, opening or closing a passage.",
+    "You must satisfy the color condition before the gated route becomes usable."
+  ],
+  "strategyPoints": [
+    "Identify which color the shutter expects before committing blocks nearby.",
+    "Clear the required color first so the passage opens for the following moves.",
+    "Re-check the shutter after each clear, because its state can change."
+  ],
+  "avoidPoints": [
+    "Do not push blocks through a shutter that has not met its color condition.",
+    "Do not assume the shutter stays open after one use if the condition resets.",
+    "Do not block the color the shutter needs with pieces you cannot move."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

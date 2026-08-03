@@ -1,0 +1,93 @@
+{
+  "id": "en-level-90",
+  "locale": "en",
+  "levelNumber": 90,
+  "title": "Block Out Level 90 Walkthrough",
+  "summary": "Block Out Level 90 is an open-tray board built around one shared center well. Clear the first yellow shapes without sealing that middle space, then let the red shelf, green staircase, and later yellow blocks rotate through the same openi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "Block Out Level 90 is an open-tray board built around one shared center well. Clear the first yellow shapes without sealing that middle space, then let the red shelf, green staircase, and later yellow blocks rotate through the same opening until the arena empties.",
+        "landmarks": [
+          "Block Out Level 90 is an open-tray board built around one shared center well.",
+          "Clear the first yellow shapes without sealing that middle space, then let the red shelf, green staircase, and later yellow blocks rotate through the same opening until the arena empties.",
+          "The board mixes Yellow, Orange, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Yellow", "Orange", "Red", "Green", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat the middle of the tray like reserved airspace. Do not park pieces there.",
+        "The side locks matter only when you let traffic bunch up next to them.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Move the upper yellow L-shape out first so the top half of the arena opens."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the lower-left green square and the first yellow square without filling the center well."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "When the red shelf appears in the middle, rotate it through the open center instead of pinning it to a side wall."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Let the green staircase and blue foot-shaped pieces cross the middle one at a time while the side exits stay clear."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Save the bulkier yellow shapes for after the red and green traffic has thinned."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last red L-piece and the remaining yellow blocks once the middle of the tray is empty again."
+        }
+      ],
+      "failurePoints": [
+        "Stuffing pieces into the lower corners and closing the center well.",
+        "Treating Level 90 like a channel puzzle instead of an open-tray rotation board."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 90 Walkthrough and Solution",
+    "description": "Solve Block Out level 90 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

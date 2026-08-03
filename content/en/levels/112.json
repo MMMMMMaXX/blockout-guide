@@ -1,0 +1,91 @@
+{
+  "id": "en-level-112",
+  "locale": "en",
+  "levelNumber": 112,
+  "title": "Block Out Level 112 Walkthrough",
+  "summary": "Block Out Level 112 starts with two oversized purple bars — a `7` and a `10` — that shrink through row and column slides into smaller counters as the board contracts. The solve is a slow implosion: the bars break down stage by stage unti...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "Block Out Level 112 starts with two oversized purple bars — a `7` and a `10` — that shrink through row and column slides into smaller counters as the board contracts. The solve is a slow implosion: the bars break down stage by stage until only a center `3` zone remains. Force a perimeter slide before the big bars have split and the entire collapse sequence jams.",
+        "landmarks": [
+          "Block Out Level 112 starts with two oversized purple bars — a `7` and a `10` — that shrink through row and column slides into smaller counters as the board contracts.",
+          "The solve is a slow implosion: the bars break down stage by stage until only a center `3` zone remains.",
+          "Force a perimeter slide before the big bars have split and the entire collapse sequence jams."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The numbered tray tiles at the bottom are finishers — sliding them early closes the green smiley lane.",
+        "Use the top purple arrows to split the `7` bar away from the `10` block before touching the center.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the left blue vertical column upward along the red left arrow to free the top `7` bar."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Push the `7` bar rightward until it splits from the `10` block and the upper board opens on both sides."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Rotate the green smiley bar leftward through the new gap without touching the numbered tray tiles (`1`, `4`, `3`)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Collapse the `10` bar into the center zone using the top purple arrows until the board shows a single `3` pocket."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the scattered edge blocks (red left, blue top, green right, yellow bottom) one at a time around the `3` zone."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the orange `1` and yellow `4` tray tiles through the bottom arrows to finish the last perimeter clears."
+        }
+      ],
+      "failurePoints": [
+        "Sliding the bottom numbered tray tiles (`1`, `4`, `3`) before the `7` and `10` bars have split.",
+        "Forcing the green smiley bar downward while the center `3` pocket is still boxed in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 112 Walkthrough and Solution",
+    "description": "Solve Block Out level 112 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

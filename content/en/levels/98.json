@@ -1,0 +1,102 @@
+{
+  "id": "en-level-98",
+  "locale": "en",
+  "levelNumber": 98,
+  "title": "Block Out Level 98 Walkthrough",
+  "summary": "Block Out Level 98 divides the board into partitioned zones with orange frame borders. Cyan `5` blocks fill the upper-left section, a purple `8` chamber sits in the center behind lock/key gates, and a purple `13` chamber fills the lower...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/98/",
+        "layout": "Block Out Level 98 divides the board into partitioned zones with orange frame borders. Cyan `5` blocks fill the upper-left section, a purple `8` chamber sits in the center behind lock/key gates, and a purple `13` chamber fills the lower section. Narrow channels connect the zones — blocks must route single-file through them. Drain the cyan section first, unlock and feed the `8` chamber, then finish with the `13` chamber for 26 total passes.",
+        "landmarks": [
+          "Block Out Level 98 divides the board into partitioned zones with orange frame borders.",
+          "Cyan `5` blocks fill the upper-left section, a purple `8` chamber sits in the center behind lock/key gates, and a purple `13` chamber fills the lower section.",
+          "Narrow channels connect the zones — blocks must route single-file through them.",
+          "Drain the cyan section first, unlock and feed the `8` chamber, then finish with the `13` chamber for 26 total passes."
+        ],
+        "colors": ["Cyan", "Red", "Purple", "Green", "Blue", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MX11ryK4VL0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MX11ryK4VL0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drain the cyan `5` section first — it is the fastest feed and opens room for everything else.",
+        "Clear all small blocks from channels before starting any chamber feed — one stray piece halts everything.",
+        "Sort spilled blocks immediately after the `8` chamber collapses, before starting the `13` feed."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drain the cyan `5` blocks in the upper-left through the left-wall exit — five passes (02:52 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the large red block below the cyan section through the right-wall exit to open the channel to the center zone (02:46)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Unlock the key blocks to access the purple `8` chamber's zone because the lock gates block the only channel in (02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear small green and blue blocks from the channels between zones before they drift during the feed (02:33)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the purple `8` chamber through the channel — eight passes, keeping the narrow passage clear (02:26–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Sort the spilled blocks from the `8` chamber collapse before they enter the lower zone and block the `13` lane (02:13)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear the small red and cyan blocks around the `13` chamber through nearby exits (02:07)."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Feed the purple `13` chamber through the bottom exits — thirteen passes to finish (02:01–01:41)."
+        }
+      ],
+      "failurePoints": [
+        "Starting the `8` chamber feed while small blocks are still in the channels — they block the single-file passage and halt the feed with no way to clear them without resetting.",
+        "Ignoring the spilled blocks after the `8` chamber collapses — they enter the lower zone and jam the `13` chamber's exit lane, forcing multiple recovery moves."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/98/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 98 Walkthrough and Solution",
+    "description": "Solve Block Out level 98 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

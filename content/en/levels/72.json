@@ -1,0 +1,91 @@
+{
+  "id": "en-level-72",
+  "locale": "en",
+  "levelNumber": 72,
+  "title": "Block Out Level 72 Walkthrough",
+  "summary": "Block Out Level 72 packs a 5×7 grid with numbered blocks '6' and '11' on the sides, free-sliding smiley blocks in the middle, and directional arrow blocks on the edges. The numbered blocks must exit through their gates while the smiley b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out Level 72 packs a 5×7 grid with numbered blocks '6' and '11' on the sides, free-sliding smiley blocks in the middle, and directional arrow blocks on the edges. The numbered blocks must exit through their gates while the smiley blocks are free to move. Clear the bottom first, then work the smiley blocks, and finish with the numbered blocks.",
+        "landmarks": [
+          "Block Out Level 72 packs a 5×7 grid with numbered blocks '6' and '11' on the sides, free-sliding smiley blocks in the middle, and directional arrow blocks on the edges.",
+          "The numbered blocks must exit through their gates while the smiley blocks are free to move.",
+          "Clear the bottom first, then work the smiley blocks, and finish with the numbered blocks."
+        ],
+        "colors": ["Blue", "Yellow", "Orange", "Green", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The smiley blocks in the middle are free-sliding — use this freedom to clear paths for the numbered blocks.",
+        "Clear the lighter '6' block first, then the heavier '11' blocks.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the green smiley blocks at the bottom through the bottom exit to open the base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the yellow blocks on the left out through the left exit to open the lower-left area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin sliding the orange and yellow smiley blocks in the middle freely — they can move in any direction."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the blue blocks on the right through the right exit as the middle opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Tackle the numbered blocks with counters '6' and '11' — clear the lighter '6' first."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the heavier '11' blocks, which have the most room after the others are cleared."
+        }
+      ],
+      "failurePoints": [
+        "Clearing the numbered '11' blocks before the smiley blocks — the '11' blocks need room to slide and exit multiple times.",
+        "Clearing the top before the bottom, which leaves the lower blocks trapped with no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 72 Walkthrough and Solution",
+    "description": "Solve Block Out level 72 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

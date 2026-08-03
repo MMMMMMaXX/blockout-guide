@@ -1,0 +1,91 @@
+{
+  "id": "en-level-105",
+  "locale": "en",
+  "levelNumber": 105,
+  "title": "Block Out Level 105 Walkthrough",
+  "summary": "Block Out Level 105 wraps polyomino bricks around a glowing purple 2×2 square and gives you exactly one shot to break through — a red demolition bar on the right wall. Spend that bar on the wrong cluster and the purple square stays trapp...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "Block Out Level 105 wraps polyomino bricks around a glowing purple 2×2 square and gives you exactly one shot to break through — a red demolition bar on the right wall. Spend that bar on the wrong cluster and the purple square stays trapped forever. The solve is a packing extraction: clear the top counters and yellow 2×2 first, then aim the red bar at the upper red cluster to free the exit path.",
+        "landmarks": [
+          "Block Out Level 105 wraps polyomino bricks around a glowing purple 2×2 square and gives you exactly one shot to break through — a red demolition bar on the right wall.",
+          "Spend that bar on the wrong cluster and the purple square stays trapped forever.",
+          "The solve is a packing extraction: clear the top counters and yellow 2×2 first, then aim the red bar at the upper red cluster to free the exit path."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Fire the red demolition bar at the start — it only works once.",
+        "Move the yellow 2x2 out before trying to exit the purple `1` square.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Trigger the red right-wall bar to break the upper red cluster before any other moves."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the left purple L-piece upward to open space around the center yellow 2x2."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Move the green L on the right side down so the purple `1` square has a clear bottom lane."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Shift the yellow 2x2 out through the top exits to unbox the purple `1` square."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Send the purple `1` square out through the bottom exit to satisfy the top counter."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the remaining blue horizontal piece and pink cluster to finish the top `2` counter."
+        }
+      ],
+      "failurePoints": [
+        "Spending the red demolition bar on the bottom pink cluster instead of the upper red one.",
+        "Trying to slide the purple `1` square before the yellow 2x2 beside it has cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 105 Walkthrough and Solution",
+    "description": "Solve Block Out level 105 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

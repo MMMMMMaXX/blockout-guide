@@ -1,0 +1,96 @@
+{
+  "id": "en-level-141",
+  "locale": "en",
+  "levelNumber": 141,
+  "title": "Block Out Level 141 Walkthrough",
+  "summary": "Block Out Level 141 is a T-shaped keyhole board where a chained red cross blocks the center and numbered pockets surround a green plus cross that must be built and then cleared. The chain breaks by spending the `9` and `8` side counters,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/141/",
+        "layout": "Block Out Level 141 is a T-shaped keyhole board where a chained red cross blocks the center and numbered pockets surround a green plus cross that must be built and then cleared. The chain breaks by spending the `9` and `8` side counters, but the bottom padlock stays closed until the green cross exits through the side arrow lanes. Clear the cross before both counters finish and the padlock seals permanently.",
+        "landmarks": [
+          "Block Out Level 141 is a T-shaped keyhole board where a chained red cross blocks the center and numbered pockets surround a green plus cross that must be built and then cleared.",
+          "The chain breaks by spending the `9` and `8` side counters, but the bottom padlock stays closed until the green cross exits through the side arrow lanes.",
+          "Clear the cross before both counters finish and the padlock seals permanently."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "cFfUvNFciK4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=cFfUvNFciK4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the chained red cross before forming the green plus cross — reversing that order seals the right 8 lane.",
+        "Spend the left 9 pocket before clearing the right 8 arm.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the top blue row and break the chained red cross in the upper cross section without touching the lower 2/2/2 row."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Route the first upper scraps through the purple left-arrow lane to expose the left 9 pocket."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Spend the left 9 counter by sliding blocks off the left arm, then clear the right 8 pocket through the green right-arrow lane."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Form the green plus cross in the center band and match the surrounding red and yellow blocks around it."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the 2/2/2 row across the lower base once the side counters hit zero."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the remaining blue and red scraps down through the bottom padlock gate."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear the last green cross scraps for the OUT! board clear."
+        }
+      ],
+      "failurePoints": [
+        "Sliding yellow side blocks before the chained red cross breaks, sealing the green right-arrow lane.",
+        "Clearing the 2/2/2 row before the 9 and 8 side counters are spent."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/141/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 141 Walkthrough and Solution",
+    "description": "Solve Block Out level 141 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

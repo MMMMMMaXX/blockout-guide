@@ -1,0 +1,91 @@
+{
+  "id": "en-level-113",
+  "locale": "en",
+  "levelNumber": 113,
+  "title": "Block Out Level 113 Walkthrough",
+  "summary": "Block Out Level 113 stacks three chambers vertically with a narrow neck between them that acts as a one-lane airlock. The top blue bar counter ticks from `7` down to `1`, tracking upper-chamber progress, and the middle neck only passes o...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/113/",
+        "layout": "Block Out Level 113 stacks three chambers vertically with a narrow neck between them that acts as a one-lane airlock. The top blue bar counter ticks from `7` down to `1`, tracking upper-chamber progress, and the middle neck only passes one piece at a time. Rotate the yellow 1×3 bar too early and it seals the only path into the lower chamber.",
+        "landmarks": [
+          "Block Out Level 113 stacks three chambers vertically with a narrow neck between them that acts as a one-lane airlock.",
+          "The top blue bar counter ticks from `7` down to `1`, tracking upper-chamber progress, and the middle neck only passes one piece at a time.",
+          "Rotate the yellow 1×3 bar too early and it seals the only path into the lower chamber."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Orange", "Yellow", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U_6NFrNRpeI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=U_6NFrNRpeI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The middle neck is exactly one lane wide — nothing can sit sideways in it.",
+        "Watch the top blue bar counter; the yellow 1×3 only moves once it drops below `4`.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the orange 1×2 polyomino downward through the middle neck to begin opening the upper `7` chamber."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Hold the yellow 1×3 horizontal until the top blue bar counter drops from `7` to `4`."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed the yellow 1×3 through the neck once the upper purple `7` block thins to a single row."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Drop the remaining upper-chamber debris through the neck airlock while the side `7` pads still read open."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Send the green L-piece and blue L-cluster through the neck into the lower `1` chamber."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the lower purple `1` block through the side `3` and `4` pads, then exit the red L-piece at the bottom."
+        }
+      ],
+      "failurePoints": [
+        "Rotating the yellow 1×3 before the top counter drops below `4`, which seals the neck.",
+        "Feeding the lower `1` chamber before the upper `7` block has fully drained."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/113/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 113 Walkthrough and Solution",
+    "description": "Solve Block Out level 113 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

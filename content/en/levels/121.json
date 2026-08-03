@@ -1,0 +1,91 @@
+{
+  "id": "en-level-121",
+  "locale": "en",
+  "levelNumber": 121,
+  "title": "Block Out Level 121 Walkthrough",
+  "summary": "Block Out Level 121 splits the board into a blue-and-yellow upper conveyor and a lower checkerboard grid, connected by a feed lane. The upper tray must drain completely before the green `31` crown block in the lower grid unlocks. The rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "Block Out Level 121 splits the board into a blue-and-yellow upper conveyor and a lower checkerboard grid, connected by a feed lane. The upper tray must drain completely before the green `31` crown block in the lower grid unlocks. The right-side `5` arrow tile is the last gatekeeper — clear it too late and the crown stays boxed in even after the conveyor is empty.",
+        "landmarks": [
+          "Block Out Level 121 splits the board into a blue-and-yellow upper conveyor and a lower checkerboard grid, connected by a feed lane.",
+          "The upper tray must drain completely before the green `31` crown block in the lower grid unlocks.",
+          "The right-side `5` arrow tile is the last gatekeeper — clear it too late and the crown stays boxed in even after the conveyor is empty."
+        ],
+        "colors": ["Blue", "Yellow", "Red", "Orange", "Green", "Cyan", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drain the upper tray completely before chasing the green `31` crown.",
+        "Keep the lower cyan `19` column parked until the upper tray goes dark.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Feed the upper blue/yellow checkerboard through the right-side yellow arrows into the lower tray."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the upper red `23` row and the left-edge cyan `7` badge until the upper tray goes dark."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Peel the lower red/orange/green top cap without touching the center white `15` slot."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Break the green `31` crown block once the left cyan `19` column opens a lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the blue `10` tile and the right-side `5` arrow counter before the yellow stacks thin."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the bottom cyan `26` counter and the remaining blue/yellow scraps for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Chasing the green `31` crown before the upper tray is fully dark — this boxes the center `15` slot.",
+        "Clearing yellow stacks before the blue `10` tile moves, sealing the bottom cyan `26` counter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 121 Walkthrough and Solution",
+    "description": "Solve Block Out level 121 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

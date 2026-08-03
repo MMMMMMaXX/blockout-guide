@@ -1,0 +1,91 @@
+{
+  "id": "en-level-126",
+  "locale": "en",
+  "levelNumber": 126,
+  "title": "Block Out Level 126 Walkthrough",
+  "summary": "Block Out Level 126 lines up horizontal Lego-textured bars with slide arrows, stacking them around twin orange-bordered `7` blocks and a bottom `9`/`11` counter row. The `7` pair must clear in sequence — breaking one without first openin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/126/",
+        "layout": "Block Out Level 126 lines up horizontal Lego-textured bars with slide arrows, stacking them around twin orange-bordered `7` blocks and a bottom `9`/`11` counter row. The `7` pair must clear in sequence — breaking one without first opening the center channel leaves its twin orphaned with no exit lane. The bottom bar only starts counting down once both `7` blocks are gone.",
+        "landmarks": [
+          "Block Out Level 126 lines up horizontal Lego-textured bars with slide arrows, stacking them around twin orange-bordered `7` blocks and a bottom `9`/`11` counter row.",
+          "The `7` pair must clear in sequence — breaking one without first opening the center channel leaves its twin orphaned with no exit lane.",
+          "The bottom bar only starts counting down once both `7` blocks are gone."
+        ],
+        "colors": ["Red", "Pink", "Purple", "Blue", "Cyan", "Green", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tlZ8zHlih30",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tlZ8zHlih30",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The right orange-bordered `7` must go before the left one — reversing the order blocks the `9`/`11` bar.",
+        "Leave the center `4` tower alone until the top yellow/purple/green bar stack is fully cleared.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the top pink `7` and cyan `8` blocks along the row arrows, then clear the yellow/purple/green bar stack on the left."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the center red/blue/cyan `4` tower without sealing the right red arrow lane."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Detach the left blue `2` and purple `4` column once the top bars are gone."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Pop both orange-bordered purple `7` blocks while the bottom cyan `13` and blue `15` counters are still reachable."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the bottom light-blue `9` and `11` counter tiles to open the final lane."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the purple `2` pair and finish through the cyan `4` and yellow `6` exit counters."
+        }
+      ],
+      "failurePoints": [
+        "Clearing the left purple `7` before the right one — the `9`/`11` bar stays locked.",
+        "Touching the center `4` tower while the top yellow/purple/green bars are still in place."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/126/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 126 Walkthrough and Solution",
+    "description": "Solve Block Out level 126 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

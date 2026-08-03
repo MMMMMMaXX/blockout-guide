@@ -1,0 +1,93 @@
+{
+  "id": "en-level-88",
+  "locale": "en",
+  "levelNumber": 88,
+  "title": "Block Out Level 88 Walkthrough",
+  "summary": "Block Out Level 88 is an hourglass board with a blue center spine, a red zigzag hanging under it, and matched purple lock pods on both side walls. Start on the upper-right stack, clear the side locks next, and only then drop the orange b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out Level 88 is an hourglass board with a blue center spine, a red zigzag hanging under it, and matched purple lock pods on both side walls. Start on the upper-right stack, clear the side locks next, and only then drop the orange beam and center spine through the throat into the lower basin.",
+        "landmarks": [
+          "Block Out Level 88 is an hourglass board with a blue center spine, a red zigzag hanging under it, and matched purple lock pods on both side walls.",
+          "Start on the upper-right stack, clear the side locks next, and only then drop the orange beam and center spine through the throat into the lower basin.",
+          "The board mixes Green, Red, Orange and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Red", "Orange", "Blue", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do not start from the bottom basin. This board opens from the neck downward.",
+        "If one lock pod is still on the wall, the blue spine is not ready to drop.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Trim the upper-right stack first so the right wall opens and its outer count starts dropping."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use that new room to release the right purple lock pod, then clear the matching lock pod on the left wall."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Slide the long orange beam across the throat only after the blue center spine has one free side."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Drop the blue spine and the red zigzag through the neck into the lower basin."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the lower-left orange runway and the opposite orange tray once the center pieces are out of the way."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last purple elbow plus the top-left green-and-yellow pieces through the opened side lanes."
+        }
+      ],
+      "failurePoints": [
+        "Starting on the bottom orange trays before the upper-right stack and both side locks have opened the neck.",
+        "Moving the orange beam while the blue center spine is still pinned on both sides."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 88 Walkthrough and Solution",
+    "description": "Solve Block Out level 88 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

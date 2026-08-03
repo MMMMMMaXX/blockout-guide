@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "en-obstacle-ivy",
+  "locale": "en",
+  "slug": "ivy",
+  "title": "Ivy obstacle: reveal covered doors",
+  "summary": "Ivy covers exit doors until block clears trim it away, so routing decisions must account for exits that are not available at the start.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy covers doors and prevents those exits from being treated as open routes.",
+    "Clearing blocks trims the Ivy and reveals the covered doors.",
+    "Grand Games introduced Ivy in the iOS Version 729 release notes dated July 20, 2026."
+  ],
+  "strategyPoints": [
+    "Identify which colors depend on covered doors before committing blocks to narrow holding lanes.",
+    "Prefer early clears that both remove a block and advance access to a needed Ivy-covered door.",
+    "Re-evaluate the route as each door appears; the safest lane can change after the cover is removed."
+  ],
+  "avoidPoints": [
+    "Do not park a required color in front of a lane whose matching door is still covered.",
+    "Do not assume every visible edge is usable before the Ivy-clear condition has been met.",
+    "Do not copy an Ivy route to a board whose covered-door positions differ."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Ivy Obstacle Guide",
+    "description": "Learn how Block Out Ivy covers doors, how block clears reveal exits and which routing mistakes to avoid on Ivy boards."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

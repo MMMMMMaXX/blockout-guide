@@ -1,0 +1,98 @@
+{
+  "id": "en-level-48",
+  "locale": "en",
+  "levelNumber": 48,
+  "title": "Block Out Level 48 Walkthrough",
+  "summary": "Block Out Level 48 is a lid-first boss puzzle with a `10` boss chamber in the lower half buried under a horizontal strip of colored blocks including a `4`-counter piece. Dismantle the lid first — the `4` block is the quickest win — then...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/48/",
+        "layout": "Block Out Level 48 is a lid-first boss puzzle with a `10` boss chamber in the lower half buried under a horizontal strip of colored blocks including a `4`-counter piece. Dismantle the lid first — the `4` block is the quickest win — then let the boss drop and sort the revealed late-game colors through the side exits.",
+        "landmarks": [
+          "Block Out Level 48 is a lid-first boss puzzle with a `10` boss chamber in the lower half buried under a horizontal strip of colored blocks including a `4`-counter piece.",
+          "Dismantle the lid first — the `4` block is the quickest win — then let the boss drop and sort the revealed late-game colors through the side exits.",
+          "The board mixes Yellow, Blue, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Yellow", "Blue", "Red", "Green", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "X5TV6t29kCI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=X5TV6t29kCI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The `4`-counter block in the lid is the first quick win — skip it and the lid stays thick.",
+        "Expect a second phase: revealed colored blocks spill out after the boss drops.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the `4`-counter block in the upper section first — it is the fastest lid reduction."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Dismantle the remaining yellow, blue, and red lid pieces."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the `10` boss parked while the surrounding counters fall."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Drop the boss once the lid is mostly gone."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Sort the revealed late-game colored blocks through the side exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the side counters after the room is no longer split."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "End with the last cleanup once the boss is gone."
+        }
+      ],
+      "failurePoints": [
+        "Skipping the `4`-counter block and trying to reduce the `10` boss directly — the lid stays thick and the boss barely moves.",
+        "Not having side lanes ready when the boss drops, which jams the revealed blocks."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/48/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 48 Walkthrough and Solution",
+    "description": "Solve Block Out level 48 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

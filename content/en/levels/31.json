@@ -1,0 +1,98 @@
+{
+  "id": "en-level-31",
+  "locale": "en",
+  "levelNumber": 31,
+  "title": "Block Out Level 31 Walkthrough",
+  "summary": "Block Out Level 31 is a numbered-cascade board where cyan slabs labeled `5`, `9`, `10`, and `13` are stacked from top to bottom and pinned in place by white and black vertical bars. The slabs must leave in ascending order — `5` first, `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "Block Out Level 31 is a numbered-cascade board where cyan slabs labeled `5`, `9`, `10`, and `13` are stacked from top to bottom and pinned in place by white and black vertical bars. The slabs must leave in ascending order — `5` first, `13` last — and the vertical bars between them are the first things to peel, because they are the only way to unlock each slab in sequence.",
+        "landmarks": [
+          "Block Out Level 31 is a numbered-cascade board where cyan slabs labeled `5`, `9`, `10`, and `13` are stacked from top to bottom and pinned in place by white and black vertical bars.",
+          "The slabs must leave in ascending order — `5` first, `13` last — and the vertical bars between them are the first things to peel, because they are the only way to unlock each slab in sequence.",
+          "The board mixes Green, Cyan, Yellow and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Green", "Cyan", "Yellow", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Count the numbers top to bottom: if a slab's number is higher than the one still sitting above it, the order is wrong.",
+        "The vertical bars are not obstacles to work around — they are the first things to remove.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the upper-right white blocks and the left yellow vertical column to create edge space."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the green `5` block out of the upper-left corner once the top row opens."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the freed top row to peel the black vertical bars away from the center `9` slab."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Shift the `9` slab once the center lane opens, which loosens the two `10` slabs below."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Move the `10` slabs one at a time — the upper one first — after the center is clear enough for their width."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "With the `10`s out, the bottom-center `13` slab finally has a lane. Slide it toward the nearest open exit."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish by clearing the remaining small green, yellow, and black bar fragments after all numbered slabs have left."
+        }
+      ],
+      "failurePoints": [
+        "Attempting to move the `13` slab before the `10`s above it have cleared — the bottom-center is completely blocked until the cascade sequence reaches it.",
+        "Leaving the vertical bars in place and trying to slide the numbered slabs through the narrow remaining gaps, which stalls the board immediately."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 31 Walkthrough and Solution",
+    "description": "Solve Block Out level 31 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

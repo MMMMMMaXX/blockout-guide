@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "en-booster-time-freeze",
+  "locale": "en",
+  "slug": "time-freeze",
+  "title": "Clock booster: when stopping time helps",
+  "summary": "The Clock stops the level timer, which helps execution-heavy attempts but does not repair a blocked route or a mismatched board.",
+  "status": "published",
+  "effect": "The Clock booster stops the active level timer; this behavior is described by players on the official App Store listing.",
+  "useWhen": [
+    "You already know the correct block order but need more execution time to complete it.",
+    "The remaining routes are open and the countdown, rather than board space, is the only immediate failure risk.",
+    "A replay consistently reaches the same solvable final phase with too little time left."
+  ],
+  "avoidWhen": [
+    "The opening board does not match the guide or you have not identified the correct exits.",
+    "Blocks are already locked behind a bad sequence; stopping time does not create board space.",
+    "You are still experimenting with the opening and cannot explain which moves the extra time will enable."
+  ],
+  "decisionChecks": [
+    "Confirm the board variant and planned move order.",
+    "Separate a timing failure from a routing failure.",
+    "Use the Clock only when the remaining sequence is known and physically open.",
+    "Restart instead when the board is already soft-locked."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Clock and Time Freeze Booster Guide",
+    "description": "Decide when the Block Out Clock booster can solve a timing problem and when a blocked route makes Time Freeze a waste."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

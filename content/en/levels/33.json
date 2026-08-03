@@ -1,0 +1,96 @@
+{
+  "id": "en-level-33",
+  "locale": "en",
+  "levelNumber": 33,
+  "title": "Block Out Level 33 Walkthrough",
+  "summary": "Block Out Level 33 is a diamond-shaped board where a large green cross-block and a dense red mass sit above and below a crowded middle belt of yellow, blue, white, and black pieces. The diamond shape makes the wide center row the only pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "Block Out Level 33 is a diamond-shaped board where a large green cross-block and a dense red mass sit above and below a crowded middle belt of yellow, blue, white, and black pieces. The diamond shape makes the wide center row the only path big enough for the two large color masses to travel through, so the belt must be broken open first. Clear the small belt blocks, send the green cross out through the top exit, then let the red mass drain through the bottom.",
+        "landmarks": [
+          "Block Out Level 33 is a diamond-shaped board where a large green cross-block and a dense red mass sit above and below a crowded middle belt of yellow, blue, white, and black pieces.",
+          "The diamond shape makes the wide center row the only path big enough for the two large color masses to travel through, so the belt must be broken open first.",
+          "Clear the small belt blocks, send the green cross out through the top exit, then let the red mass drain through the bottom."
+        ],
+        "colors": ["Green", "Red", "Yellow", "Blue", "White", "Black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The wide middle row is the only real highway — if the belt is still occupied, neither wedge can move.",
+        "Green leaves before red. The green cross-block needs to vacate the upper diamond before the red mass can start moving.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Pull the small yellow and orange blocks from the middle belt toward the left edge of the diamond to start creating a channel."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the blue blocks on the center-right toward the right-edge exit to widen the vertical channel through the belt."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the white blocks from the right edge to fully open the middle passage."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Slide the green cross-block upward through the opened channel and out the top exit point."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the green block is gone, start moving the red mass upward from the lower section through the widened center."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the red blocks through the bottom exit point now that the center belt is no longer clogged."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the remaining black blocks in the bottom-right corner and any small belt fragments left behind."
+        }
+      ],
+      "failurePoints": [
+        "Trying to push the green cross-block through the middle before the belt is open — the green block is the largest piece and needs a fully cleared channel.",
+        "Moving the red mass toward the bottom exit while the green block is still occupying the upper diamond, which jams both large pieces in the center row."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 33 Walkthrough and Solution",
+    "description": "Solve Block Out level 33 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

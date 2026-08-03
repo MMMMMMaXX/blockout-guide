@@ -1,0 +1,98 @@
+{
+  "id": "en-level-17",
+  "locale": "en",
+  "levelNumber": 17,
+  "title": "Block Out Level 17 Walkthrough",
+  "summary": "Block Out Level 17 is a framed-hinge numeric board. Trim the yellow roof first, unlock the green center frame second, and only then flatten the broad cyan slabs marked `19`, `18`, and `16`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "Block Out Level 17 is a framed-hinge numeric board. Trim the yellow roof first, unlock the green center frame second, and only then flatten the broad cyan slabs marked `19`, `18`, and `16`.",
+        "landmarks": [
+          "Block Out Level 17 is a framed-hinge numeric board.",
+          "Trim the yellow roof first, unlock the green center frame second, and only then flatten the broad cyan slabs marked `19`, `18`, and `16`.",
+          "The board mixes Yellow, Green, Cyan and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Yellow", "Green", "Cyan", "Blue", "Pink", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The yellow roof loosens the hinge.",
+        "The big cyan slabs move after the center frame, not before it.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Shave the top yellow row and the upper-right side lane so the `16` counter begins to fall."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Keep the framed green center locked until the upper counters have lost enough weight."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Rotate the red and blue side bars into the middle once the top lane has opened."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use that new space to free the framed green square and stop it from pinning the lower cyan slabs."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Flatten the `19` and `18` cyan slabs from the bottom upward."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clean up the last pink and blue side pieces after the center frame is gone."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish the lower floor counter once the broad cyan layer has fully separated."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move the green hinge before the yellow roof is lighter.",
+        "Treating the lower cyan carpet like the opening puzzle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 17 Walkthrough and Solution",
+    "description": "Solve Block Out level 17 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "en-level-76",
+  "locale": "en",
+  "levelNumber": 76,
+  "title": "Block Out Level 76 Walkthrough",
+  "summary": "Block Out Level 76 packs a 5×7 grid with numbered blue blocks — counters '10' and '1' on top, '1' in the middle, '4' and '1' at the bottom. The blue '10' block needs 10 exits — clear the bottom first, then work the numbered blocks upward...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/76/",
+        "layout": "Block Out Level 76 packs a 5×7 grid with numbered blue blocks — counters '10' and '1' on top, '1' in the middle, '4' and '1' at the bottom. The blue '10' block needs 10 exits — clear the bottom first, then work the numbered blocks upward, and finish with the heavy '10' block at the top.",
+        "landmarks": [
+          "Block Out Level 76 packs a 5×7 grid with numbered blue blocks — counters '10' and '1' on top, '1' in the middle, '4' and '1' at the bottom.",
+          "The blue '10' block needs 10 exits — clear the bottom first, then work the numbered blocks upward, and finish with the heavy '10' block at the top.",
+          "The board mixes Blue, Red, Green and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Blue", "Red", "Green", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "t-dHXsPpANQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=t-dHXsPpANQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The '10' block is a marathon — clear the smaller numbered blocks first to build space.",
+        "Clear the bottom first to give the numbered blocks sliding room.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the red and green blocks at the bottom through the right exit to open the base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the blue blocks on the left out through the left exit to open the lower-left area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin clearing the numbered blue blocks in the middle through their gates — counters decrease as they exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the blue '4' block on the left through the left exit as the middle opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Tackle the blue '10' block at the top — it needs 10 exits to fully clear."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining blue '1' blocks trapped in the corners."
+        }
+      ],
+      "failurePoints": [
+        "Trying to clear the '10' block before the smaller numbered blocks — it needs room to slide and exit multiple times.",
+        "Clearing the top before the bottom, which leaves the lower blocks trapped with no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/76/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 76 Walkthrough and Solution",
+    "description": "Solve Block Out level 76 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

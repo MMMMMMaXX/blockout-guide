@@ -1,0 +1,102 @@
+{
+  "id": "en-level-99",
+  "locale": "en",
+  "levelNumber": 99,
+  "title": "Block Out Level 99 Walkthrough",
+  "summary": "Block Out Level 99 is the Expert Level — the densest and longest puzzle in the 50–100 range at 138 seconds. A large yellow/orange cross-shaped block dominates the center, a purple/blue block fills the top-left corner, green blocks stack...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "Block Out Level 99 is the Expert Level — the densest and longest puzzle in the 50–100 range at 138 seconds. A large yellow/orange cross-shaped block dominates the center, a purple/blue block fills the top-left corner, green blocks stack vertically on the right, pink/magenta blocks line the left, and red blocks fill the remaining gaps. Lock/key icons on at least four blocks force a specific clearing order. Extract edge blocks first, clear the green and pink masses to expose the cross, then route it out last.",
+        "landmarks": [
+          "Block Out Level 99 is the Expert Level — the densest and longest puzzle in the 50–100 range at 138 seconds.",
+          "A large yellow/orange cross-shaped block dominates the center, a purple/blue block fills the top-left corner, green blocks stack vertically on the right, pink/magenta blocks line the left, and red blocks fill the remaining gaps.",
+          "Lock/key icons on at least four blocks force a specific clearing order.",
+          "Extract edge blocks first, clear the green and pink masses to expose the cross, then route it out last."
+        ],
+        "colors": ["Red", "Green", "Blue", "Orange", "Pink", "Yellow", "Purple", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "This is a 138-second marathon — plan moves, do not rush or force.",
+        "Clear the green stack (right) and pink mass (left) before anything else — they expose the cross block's sides.",
+        "The 'Super Slow' badge at ~01:48 means you are behind pace — prioritize the sides."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the smallest edge blocks first: cyan (bottom-right, rightward), blue (top-left, upward), pink (left side, leftward) — each creates incremental room (02:19–02:09 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Begin clearing the green blocks stacked on the right side through the right-wall exit because they expose the cross block's right arm (02:09–01:59)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the pink/magenta blocks on the left side through the left-wall exit because they expose the cross block's left arm (01:59–01:48)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Unlock the key blocks to open the locked paths — the cross-shaped block's lock must be unlocked before it can move (01:48)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the large purple/blue corner block from the top-left through the top or left exit because it frees the cross block's upper arm (01:38–01:27)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Extract the red blocks from the remaining packed areas through the nearest exits (01:27–01:06)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Route the yellow/orange cross-shaped block through the widest available exit path — it needs clearance in all four directions (01:06–00:56)."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Finish with the last small blocks after the cross piece has exited (00:46–00:25)."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move the cross-shaped block before clearing all four of its arms — it extends up, down, left, and right, and cannot move until every direction is clear.",
+        "Falling behind pace and seeing the 'Super Slow' badge — if the green and pink masses are still present at 01:48, the cross block cannot exit in time."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 99 Walkthrough and Solution",
+    "description": "Solve Block Out level 99 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

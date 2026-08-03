@@ -1,0 +1,96 @@
+{
+  "id": "en-level-114",
+  "locale": "en",
+  "levelNumber": 114,
+  "title": "Block Out Level 114 Walkthrough",
+  "summary": "Block Out Level 114 gives you two wrenches and two padlocked blocks, but the real constraint is the four bottom color bars — live quotas, not score decoration. Each wrench unlocks exactly one padlock cluster, and spending the blue wrench...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/114/",
+        "layout": "Block Out Level 114 gives you two wrenches and two padlocked blocks, but the real constraint is the four bottom color bars — live quotas, not score decoration. Each wrench unlocks exactly one padlock cluster, and spending the blue wrench on the wrong lock leaves the left cyan bar stuck at `10` with no tool to fix it. The top device counter dropping to `3` is your signal that time is running out.",
+        "landmarks": [
+          "Block Out Level 114 gives you two wrenches and two padlocked blocks, but the real constraint is the four bottom color bars — live quotas, not score decoration.",
+          "Each wrench unlocks exactly one padlock cluster, and spending the blue wrench on the wrong lock leaves the left cyan bar stuck at `10` with no tool to fix it.",
+          "The top device counter dropping to `3` is your signal that time is running out."
+        ],
+        "colors": ["Red", "Pink", "Yellow", "Orange", "Green", "Cyan", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UAzhWbdstDQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UAzhWbdstDQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Red wrench first on the upper yellow block — it only frees the top half.",
+        "The bottom `14` pink bar is the last quota; clear yellow `12` and green `4` before the star cluster.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Tap the red wrench on the upper yellow block to unlock the top pink/yellow cluster."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the yellow blocks toward the bottom `12` bar before touching the center pink Z-shape."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Peel the left cyan column along the red left arrow until the side counter drops from `15` to `10`."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Tap the blue wrench on the green block to unlock the padlocked orange tile in the lower-middle."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the green blocks out through the bottom `4` bar and the single blue block through the `1` bar."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Break up the pink star cluster on the right and close the bottom `14` pink bar through the green right arrows."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Exit the last orange singles once the bottom counters read `7` and `9`."
+        }
+      ],
+      "failurePoints": [
+        "Spending the blue wrench before the red wrench, leaving the top cluster padlocked.",
+        "Clearing the pink star cluster before the yellow `12` bar is satisfied."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/114/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 114 Walkthrough and Solution",
+    "description": "Solve Block Out level 114 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

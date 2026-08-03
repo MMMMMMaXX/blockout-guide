@@ -1,0 +1,39 @@
+{
+  "kind": "obstacle",
+  "id": "en-obstacle-moving-elevators",
+  "locale": "en",
+  "slug": "moving-elevators",
+  "title": "Moving elevators: time block transfers between lanes",
+  "summary": "Elevators carry blocks between lanes on a cycle, so a clear route can close the moment a piece is lifted away.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Moving Elevators Obstacle Guide",
+    "description": "Understand how Block Out moving elevators move blocks between lanes and when to use the transfer in your route."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Moving elevators shift blocks from one lane to another on a repeating cycle.",
+    "A block loaded onto an elevator leaves its current lane and returns in a different lane after the cycle completes.",
+    "The App Store listing describes Block Out elevators as elements that carry pieces between lanes."
+  ],
+  "strategyPoints": [
+    "Watch the elevator cycle before committing a block that depends on staying in its lane.",
+    "Use the transfer to move a stuck color toward its exit instead of forcing a longer manual route.",
+    "Stage blocks near the elevator when the next cycle clearly helps the planned order."
+  ],
+  "avoidPoints": [
+    "Do not assume a block stays where you placed it once an elevator cycle starts.",
+    "Do not load a color you still need in its lane if the transfer would strand it.",
+    "Do not plan the whole route around one cycle without checking the return lane."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [
+    "block-generators"
+  ]
+}

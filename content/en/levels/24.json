@@ -1,0 +1,98 @@
+{
+  "id": "en-level-24",
+  "locale": "en",
+  "levelNumber": 24,
+  "title": "Block Out Level 24 Walkthrough",
+  "summary": "Block Out Level 24 is a shared-corridor double-boss board with two framed `12` panels. Thin the right pillar ladder first, open the central shaft second, and let the upper boss fall before the lower one follows.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "Block Out Level 24 is a shared-corridor double-boss board with two framed `12` panels. Thin the right pillar ladder first, open the central shaft second, and let the upper boss fall before the lower one follows.",
+        "landmarks": [
+          "Block Out Level 24 is a shared-corridor double-boss board with two framed `12` panels.",
+          "Thin the right pillar ladder first, open the central shaft second, and let the upper boss fall before the lower one follows.",
+          "The board mixes Purple, Red, White and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Red", "White", "Black", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Open the shaft before moving the bosses.",
+        "The upper `12` goes before the lower `12`.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Thin the right ladder of black, red, and white blocks before touching either framed boss."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Open the central shaft near the top `12` panel so the two bosses stop sharing a sealed corridor."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Lower the upper `12` panel once the right edge is no longer crowded."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the freed shaft to begin dropping the lower `12` panel afterward."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Keep the red top gate for late cleanup after the shaft has opened."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Drain the remaining side counters and small color pieces as the second boss falls."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last right-column leftovers after both `12` panels are nearly gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move one boss while the shared shaft is still blocked.",
+        "Using the top red gate before the right corridor has thinned enough."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 24 Walkthrough and Solution",
+    "description": "Solve Block Out level 24 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

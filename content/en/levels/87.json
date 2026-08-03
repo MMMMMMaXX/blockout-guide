@@ -1,0 +1,102 @@
+{
+  "id": "en-level-87",
+  "locale": "en",
+  "levelNumber": 87,
+  "title": "Block Out Level 87 Walkthrough",
+  "summary": "Block Out Level 87 is a flood-drain puzzle with a heavy boss piece. Cyan `7` counter blocks fill the lower two-thirds of the board like a lake, while a green `15` boss block in an orange frame sits on the far left. A packed strip of colo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/87/",
+        "layout": "Block Out Level 87 is a flood-drain puzzle with a heavy boss piece. Cyan `7` counter blocks fill the lower two-thirds of the board like a lake, while a green `15` boss block in an orange frame sits on the far left. A packed strip of colored blocks (orange, green `9`, red, blue, yellow) runs across the top and must clear first. Feed the green `15` boss through the left-wall exit, remove the small `3` counter blocks wedged between the cyan pieces, then let the cyan flood drain through the bottom.",
+        "landmarks": [
+          "Block Out Level 87 is a flood-drain puzzle with a heavy boss piece.",
+          "Cyan `7` counter blocks fill the lower two-thirds of the board like a lake, while a green `15` boss block in an orange frame sits on the far left.",
+          "A packed strip of colored blocks (orange, green `9`, red, blue, yellow) runs across the top and must clear first.",
+          "Feed the green `15` boss through the left-wall exit, remove the small `3` counter blocks wedged between the cyan pieces, then let the cyan flood drain through the bottom."
+        ],
+        "colors": ["Cyan", "Green", "Red", "Blue", "Orange", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AEJlO-_-lBI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AEJlO-_-lBI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Start feeding the green `15` boss the moment the top strip clears — fifteen passes takes time and the lane must stay open.",
+        "Remove the red `3` and green `3` wedge blocks before trying to drain the cyan `7` flood.",
+        "The cyan flood drains on its own through the bottom exits once the wedge blocks are gone — do not try to push it."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the small orange block in the top-left upward through the top-exit arrow to open the first gap (02:55 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Push the yellow block on the right end of the top strip through the right-wall exit (02:50)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the red block through the top exit, then begin feeding the green `9` block upward — it needs nine passes (02:44–02:34)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Route the blue block through the right-wall exit once the green `9` block has thinned enough to free the lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "With the top strip clear, begin feeding the green `15` boss block through the left-wall exit — keep this lane permanently unblocked (02:28–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the small red `3` and green `3` blocks wedged between the cyan `7` pieces to ungate the drain path (around 02:18)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Let the cyan `7` flood drain through the bottom exits once the wedge blocks are gone (02:13–02:02)."
+        },
+        {
+          "order": 8,
+          "title": "Move 8",
+          "instruction": "Finish with the last cyan fragments after the green `15` boss has fully exited (01:57)."
+        }
+      ],
+      "failurePoints": [
+        "Letting a stray block drift into the left-wall lane while feeding the green `15` boss — it stalls the longest feed in the level and forces you to waste moves re-clearing the lane.",
+        "Trying to drain the cyan `7` flood before removing the red `3` and green `3` wedge blocks — they dam the bottom exits and the flood cannot pass."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/87/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 87 Walkthrough and Solution",
+    "description": "Solve Block Out level 87 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

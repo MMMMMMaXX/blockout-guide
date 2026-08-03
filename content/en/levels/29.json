@@ -1,0 +1,98 @@
+{
+  "id": "en-level-29",
+  "locale": "en",
+  "levelNumber": 29,
+  "title": "Block Out Level 29 Walkthrough",
+  "summary": "Block Out Level 29 is a twin-boss spine board. Strip the center red-black-white ladder first, lower the side boss columns second, and only then rotate the late red, yellow, blue, and green maze pieces.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "Block Out Level 29 is a twin-boss spine board. Strip the center red-black-white ladder first, lower the side boss columns second, and only then rotate the late red, yellow, blue, and green maze pieces.",
+        "landmarks": [
+          "Block Out Level 29 is a twin-boss spine board.",
+          "Strip the center red-black-white ladder first, lower the side boss columns second, and only then rotate the late red, yellow, blue, and green maze pieces.",
+          "The board mixes Red, Black, White and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Red", "Black", "White", "Yellow", "Blue", "Green", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The center spine is phase one.",
+        "The late maze only matters after both sides have started opening.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Strip the center red-black-white spine so both side bosses start losing support together."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Keep the side columns mostly parked while the shared counters are still high."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Lower the left and right framed bosses only after the center lane is clearly thinner."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "When the bosses open, rotate the late red, yellow, blue, and green maze pieces into the new pockets."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Keep the top counters falling while the center is no longer a wall."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Use the late green shapes to stop the side lanes from refilling."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish the maze after both side bosses have already collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Trying to solve one side boss before the center spine has opened.",
+        "Ignoring the late maze structure after the side columns start to fall."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 29 Walkthrough and Solution",
+    "description": "Solve Block Out level 29 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

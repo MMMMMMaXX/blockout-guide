@@ -1,0 +1,96 @@
+{
+  "id": "en-level-143",
+  "locale": "en",
+  "levelNumber": 143,
+  "title": "Block Out Level 143 Walkthrough",
+  "summary": "Block Out Level 143 is a dual-board feeder — an upper placement grid drains through a purple phase counter into a lower yellow-bordered frame whose central number ticks from `17` downward. The phase counter gates the speed: each mileston...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/143/",
+        "layout": "Block Out Level 143 is a dual-board feeder — an upper placement grid drains through a purple phase counter into a lower yellow-bordered frame whose central number ticks from `17` downward. The phase counter gates the speed: each milestone unlocks the next batch of pieces for transfer. Push the right-side blocks before the counter reaches its midpoint and the lower frame jams with pieces arriving out of order.",
+        "landmarks": [
+          "Block Out Level 143 is a dual-board feeder — an upper placement grid drains through a purple phase counter into a lower yellow-bordered frame whose central number ticks from `17` downward.",
+          "The phase counter gates the speed: each milestone unlocks the next batch of pieces for transfer.",
+          "Push the right-side blocks before the counter reaches its midpoint and the lower frame jams with pieces arriving out of order."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Purple", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "fSHRe5b75Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=fSHRe5b75Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the middle 2/1 strip before spending the right-rail 9 counter.",
+        "Watch the phase box — it must reach 07 before the lower 7 tile can be zeroed.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the top red/green row in the upper grid using the left inventory blue pieces."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Feed the upper exits through the purple phase box as it cycles 01 → 04."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Spend the right-rail 4/2/9 counters by routing blocks down the right arrow buttons."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Break the middle 2/1 strip once the lower frame drops from 17 toward 7."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the remaining blue clusters in the upper grid through the 07 phase."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Route the lower-frame scraps through the green down-arrow and right-arrow lanes."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Zero the lower 7 tile and clear the last upper scraps for the BLOW OUT! finish."
+        }
+      ],
+      "failurePoints": [
+        "Spending the right-rail 9 before the 2 tile clears, blocking the lower green down-arrow.",
+        "Feeding the upper grid before the phase box reaches 04, wasting blocks in the middle strip."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/143/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 143 Walkthrough and Solution",
+    "description": "Solve Block Out level 143 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

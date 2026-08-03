@@ -1,0 +1,91 @@
+{
+  "id": "en-level-80",
+  "locale": "en",
+  "levelNumber": 80,
+  "title": "Block Out Level 80 Walkthrough",
+  "summary": "Block Out Level 80 fills the board with tall green and blue/cyan vertical columns separated by a center gap of red lock-and-key blocks. The columns cannot move until the lock sequence in the center is solved. Clear the lock-and-key block...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "Block Out Level 80 fills the board with tall green and blue/cyan vertical columns separated by a center gap of red lock-and-key blocks. The columns cannot move until the lock sequence in the center is solved. Clear the lock-and-key blocks first to open the gap, then slide the tall green columns down through the bottom exits, followed by the blue/cyan columns.",
+        "landmarks": [
+          "Block Out Level 80 fills the board with tall green and blue/cyan vertical columns separated by a center gap of red lock-and-key blocks.",
+          "The columns cannot move until the lock sequence in the center is solved.",
+          "Clear the lock-and-key blocks first to open the gap, then slide the tall green columns down through the bottom exits, followed by the blue/cyan columns."
+        ],
+        "colors": ["Green", "Blue", "Cyan", "Red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Focus entirely on the center lock-and-key gap first — no column moves until it opens.",
+        "Slide green columns down before blue/cyan — green is closer to the exits.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Match the key blocks with their corresponding lock blocks in the center gap."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the unlocked red blocks from the center to open the gap."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Slide the tall green column blocks on the left downward through the bottom exits."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Shift the blue/cyan column blocks on the right down once the green columns create room."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the small cyan/blue blocks at the bottom through the down-arrow exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining column fragments."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move a tall column before the center lock blocks are cleared — the columns have no room.",
+        "Mismatching keys and locks, which wastes moves and leaves blocks gated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 80 Walkthrough and Solution",
+    "description": "Solve Block Out level 80 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

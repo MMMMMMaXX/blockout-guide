@@ -1,0 +1,91 @@
+{
+  "id": "en-level-118",
+  "locale": "en",
+  "levelNumber": 118,
+  "title": "Block Out Level 118 Walkthrough",
+  "summary": "Block Out Level 118 layers a red threshold bar across a 6×6 Lego-textured grid with side-rail counters and a star-patterned cyan pocket that must survive the mid-run intact. The grid slides in rows — each push ripples across all six colu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/118/",
+        "layout": "Block Out Level 118 layers a red threshold bar across a 6×6 Lego-textured grid with side-rail counters and a star-patterned cyan pocket that must survive the mid-run intact. The grid slides in rows — each push ripples across all six columns. The center red block looks harmless, but sliding it before the right rail drops buries the star pocket under shifting debris.",
+        "landmarks": [
+          "Block Out Level 118 layers a red threshold bar across a 6×6 Lego-textured grid with side-rail counters and a star-patterned cyan pocket that must survive the mid-run intact.",
+          "The grid slides in rows — each push ripples across all six columns.",
+          "The center red block looks harmless, but sliding it before the right rail drops buries the star pocket under shifting debris."
+        ],
+        "colors": ["Cyan", "Green", "Yellow", "Red", "Purple", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "W5Eeo1DQgt8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=W5Eeo1DQgt8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do not split the star-patterned cyan 3×3 pocket — it anchors the left-center slides.",
+        "Save the right yellow L-cluster until the bottom purple `2` counter appears.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Break the upper cyan tetromino under the red threshold bar without crossing the left `2` rail."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the left green column while keeping the star-patterned cyan 3×3 pocket intact."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Shift the bottom red downward-arrow block through the center after the left rail drops to `10`."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Feed the right-rail `6` and `8` counts down with the green right-arrow lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the yellow L-cluster on the right only after the bottom purple `2` counter is visible."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Exit the last red and yellow scraps through the open downward lane for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Splitting the star-patterned cyan pocket too early, which removes the left-center anchor.",
+        "Moving the right yellow L-cluster before the bottom purple `2` counter is visible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/118/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 118 Walkthrough and Solution",
+    "description": "Solve Block Out level 118 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

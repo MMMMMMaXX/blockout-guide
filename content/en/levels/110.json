@@ -1,0 +1,91 @@
+{
+  "id": "en-level-110",
+  "locale": "en",
+  "levelNumber": 110,
+  "title": "Block Out Level 110 Walkthrough",
+  "summary": "Block Out Level 110 hides a single connected red polyomino in the center of a tall purple frame — it looks like three separate blocks, but moves as one piece. A top `11` gate and left-rail `8` column seal the orange-bordered blue `3` poc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/110/",
+        "layout": "Block Out Level 110 hides a single connected red polyomino in the center of a tall purple frame — it looks like three separate blocks, but moves as one piece. A top `11` gate and left-rail `8` column seal the orange-bordered blue `3` pocket below, and a dense `19` cluster fills the bottom. Split the red shape too early and the pink L-piece on the right gets permanently trapped.",
+        "landmarks": [
+          "Block Out Level 110 hides a single connected red polyomino in the center of a tall purple frame — it looks like three separate blocks, but moves as one piece.",
+          "A top `11` gate and left-rail `8` column seal the orange-bordered blue `3` pocket below, and a dense `19` cluster fills the bottom.",
+          "Split the red shape too early and the pink L-piece on the right gets permanently trapped."
+        ],
+        "colors": ["Blue", "Red", "Green", "Pink", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_D-7FbZBiEE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_D-7FbZBiEE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the center red polyomino as one shape — do not split it early.",
+        "Clear the left-rail `8` before sliding any bottom-cluster pieces.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Remove the top light-blue `11` tile to unlock the orange-bordered center pocket."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Peel the left-rail `8` column before sliding any bottom-cluster pieces."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Clear the space around the center blue `3` pocket without splitting the bottom `19` cluster."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Shift the center red polyomino as one shape, keeping the yellow highlight line intact."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Free the right-side pink `1` tile and the lower pink L-piece after the red shape moves."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the remaining blue base blocks and close the bottom counters `3` and `14`."
+        }
+      ],
+      "failurePoints": [
+        "Splitting the center red polyomino too early, which traps the right pink L-piece.",
+        "Touching the bottom `19` cluster before the top `11` tile and left-rail `8` are gone."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/110/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 110 Walkthrough and Solution",
+    "description": "Solve Block Out level 110 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

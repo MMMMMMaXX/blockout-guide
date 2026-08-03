@@ -1,0 +1,91 @@
+{
+  "id": "en-level-116",
+  "locale": "en",
+  "levelNumber": 116,
+  "title": "Block Out Level 116 Walkthrough",
+  "summary": "Block Out Level 116 wraps perimeter arrows around a central orange-bordered `6` pocket — the arrows are live exits, not decoration. A bottom color-counter tray tracks progress, and the side arrows must open in sequence to avoid trapping...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/116/",
+        "layout": "Block Out Level 116 wraps perimeter arrows around a central orange-bordered `6` pocket — the arrows are live exits, not decoration. A bottom color-counter tray tracks progress, and the side arrows must open in sequence to avoid trapping the white-bordered purple square in the center-right. Force the purple square through while the bottom counters are still high and the tray seals shut.",
+        "landmarks": [
+          "Block Out Level 116 wraps perimeter arrows around a central orange-bordered `6` pocket — the arrows are live exits, not decoration.",
+          "A bottom color-counter tray tracks progress, and the side arrows must open in sequence to avoid trapping the white-bordered purple square in the center-right.",
+          "Force the purple square through while the bottom counters are still high and the tray seals shut."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Cyan", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "nhsbZytgveo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=nhsbZytgveo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The bottom counter tray is a seal — wait until the center-right purple highlight clears.",
+        "Keep the cyan `12`/`10` pair parked until the middle channel actually widens.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the top-left blue `8` and the green top cluster without touching the central orange-bordered `6` pocket."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Slide the red left-arrow column down and clear the bottom-left red `11` tile."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed the cyan `12` and paired `10` tiles through the bottom center once the middle channel opens."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the highlighted white-bordered purple square in the center-right to unlock the blue right-arrow exit."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Close the bottom-tray blue `10`, `8`, and `4` counters before spending the purple `7` pair."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the last green 1x1 and the remaining perimeter arrow exits until the 6x6 grid empties."
+        }
+      ],
+      "failurePoints": [
+        "Spending the bottom counter tray before the center-right purple highlight clears — this seals the blue right-arrow exit.",
+        "Feeding the cyan `12`/`10` pair too early while the central `6` pocket is still boxed in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/116/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 116 Walkthrough and Solution",
+    "description": "Solve Block Out level 116 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

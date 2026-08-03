@@ -1,0 +1,93 @@
+{
+  "id": "en-level-59",
+  "locale": "en",
+  "levelNumber": 59,
+  "title": "Block Out Level 59 Walkthrough",
+  "summary": "Block Out Level 59 starts as a double-chamber board but finishes as a lock puzzle. Open the big central `4` chamber first, thin the lower-left `10` room second, and then use the freed middle to break the chain column before you cash the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/59/",
+        "layout": "Block Out Level 59 starts as a double-chamber board but finishes as a lock puzzle. Open the big central `4` chamber first, thin the lower-left `10` room second, and then use the freed middle to break the chain column before you cash the large pink block on the right.",
+        "landmarks": [
+          "Block Out Level 59 starts as a double-chamber board but finishes as a lock puzzle.",
+          "Open the big central `4` chamber first, thin the lower-left `10` room second, and then use the freed middle to break the chain column before you cash the large pink block on the right.",
+          "The board mixes Purple, Blue, Orange and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Purple", "Blue", "Orange", "Green", "Red", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9gh_W3CS4Yg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9gh_W3CS4Yg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The chained center spine is the real late-game gate, not the big pink block.",
+        "Open the central `4` room before you spend serious effort on the lower-left `10` chamber.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Drain the big central purple chamber marked `4` before you overwork the lower-left `10` room."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Trim the upper shelf while that chamber is shrinking so the middle lane is not boxed in by the side walls."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Start reducing the lower-left `10` chamber only after the center `4` room has already opened some floor space."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "When the chained padlock column appears, clear that center spine before moving the large pink block on the right."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the unlocked middle to slide the pink block and nearby red pieces toward the lower exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the bottom yellow cluster and the last small side pieces after the chain lane is empty."
+        }
+      ],
+      "failurePoints": [
+        "Treating the lower-left `10` chamber like the opener while the central `4` room is still filling the board.",
+        "Trying to move the large pink block before the chained center column has been cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/59/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 59 Walkthrough and Solution",
+    "description": "Solve Block Out level 59 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "en-level-38",
+  "locale": "en",
+  "levelNumber": 38,
+  "title": "Block Out Level 38 Walkthrough",
+  "summary": "Block Out Level 38 has a `12` boss chamber buried under a structured lid of three blue `2` blocks, a pink `15` block, and a purple `6` device. The lid has its own internal sequence — blue `2`s are fast, the device is medium, and the pink...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out Level 38 has a `12` boss chamber buried under a structured lid of three blue `2` blocks, a pink `15` block, and a purple `6` device. The lid has its own internal sequence — blue `2`s are fast, the device is medium, and the pink `15` is slow — and must be dismantled piece by piece before the boss can drop. After the boss falls around 01:33, a mass of red, pink, green, and blue blocks spills out for a second sorting phase.",
+        "landmarks": [
+          "Block Out Level 38 has a `12` boss chamber buried under a structured lid of three blue `2` blocks, a pink `15` block, and a purple `6` device.",
+          "The lid has its own internal sequence — blue `2`s are fast, the device is medium, and the pink `15` is slow — and must be dismantled piece by piece before the boss can drop.",
+          "After the boss falls around 01:33, a mass of red, pink, green, and blue blocks spills out for a second sorting phase."
+        ],
+        "colors": ["Blue", "Pink", "Purple", "Yellow", "Red", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The lid has its own order: blue `2`s first (fast), purple device second (medium), pink `15` last (slow).",
+        "Watch for the spill at 01:33 — if side lanes are not ready, the revealed blocks jam the room.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the three blue `2` blocks from the top row first — they are the quickest lid reductions."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Service the purple `6` device on the top-left by routing the yellow block through its gate."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin thinning the pink `15` block on the upper-right now that the blue blocks are gone."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Watch the boss counter drop through `8` as the lid thins (visible around 01:42)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Open the side lanes so the revealed blocks have somewhere to go after the boss falls."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Let the `12` boss collapse once the lid is mostly gone — the spill happens around 01:33."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Sort the revealed red, pink, green, and blue blocks through the side and bottom exits to finish."
+        }
+      ],
+      "failurePoints": [
+        "Skipping the blue `2` blocks and going straight for the pink `15` — the lid stays too thick for the boss to move.",
+        "Not having the side lanes open when the boss falls at 01:33, which means the revealed blocks pile up with nowhere to go."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 38 Walkthrough and Solution",
+    "description": "Solve Block Out level 38 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

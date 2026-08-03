@@ -1,0 +1,91 @@
+{
+  "id": "en-level-128",
+  "locale": "en",
+  "levelNumber": 128,
+  "title": "Block Out Level 128 Walkthrough",
+  "summary": "Block Out Level 128 drops character blocks — a yellow smiley face and red heart-face tiles — onto a frame-counter board with snowflake ice counters tracking remaining exits. The character blocks are the real objectives, not decoration. C...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/128/",
+        "layout": "Block Out Level 128 drops character blocks — a yellow smiley face and red heart-face tiles — onto a frame-counter board with snowflake ice counters tracking remaining exits. The character blocks are the real objectives, not decoration. Clear the right red stack before the ice counter finishes and the smiley block gets frozen in place with no exit.",
+        "landmarks": [
+          "Block Out Level 128 drops character blocks — a yellow smiley face and red heart-face tiles — onto a frame-counter board with snowflake ice counters tracking remaining exits.",
+          "The character blocks are the real objectives, not decoration.",
+          "Clear the right red stack before the ice counter finishes and the smiley block gets frozen in place with no exit."
+        ],
+        "colors": ["Purple", "Red", "Green", "Blue", "Yellow", "Cyan", "Teal"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_nuD7bwaKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_nuD7bwaKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The red heart block must clear before the right red stack — not after.",
+        "Watch the top display bar: it drops from `12` to `9` to `5` as you progress.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Tap the orange-bordered top `12` display bar, then clear the left purple and red cluster."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the blue and yellow smiley-face pair in the lower center before the right red stack shifts."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Pop the red heart block on the bottom-left once the smiley tiles are gone."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Drain the tall right-side red column while the top display still reads `9`."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the ice counters `18`, `5`, and `2` in order along the right edge."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the remaining green mass and lower multicolor scraps for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Draining the right red stack before the smiley pair clears — the ice `18` counter stays locked.",
+        "Skipping the red heart block while chasing the top display counter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/128/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 128 Walkthrough and Solution",
+    "description": "Solve Block Out level 128 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

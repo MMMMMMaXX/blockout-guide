@@ -1,0 +1,49 @@
+{
+  "kind": "guide",
+  "id": "en-guide-handling-moving-elevators",
+  "locale": "en",
+  "slug": "handling-moving-elevators",
+  "title": "How to route around moving elevators",
+  "summary": "Plan lane transfers instead of fighting the elevator cycle, and keep a buffer lane open for returned blocks.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Route Around Block Out Moving Elevators",
+    "description": "Plan Block Out routes around moving elevators by reading the cycle, using transfers and keeping a buffer lane open."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "How should I plan a Block Out route when elevators move my blocks between lanes?",
+  "sections": [
+    {
+      "heading": "Read the cycle before you move",
+      "body": [
+        "Watch one full elevator cycle to learn which lane a block returns to.",
+        "Commit only blocks whose route still works after the transfer."
+      ]
+    },
+    {
+      "heading": "Use the transfer as a free move",
+      "body": [
+        "When the cycle clearly helps, load a stuck color onto the elevator instead of forcing a longer manual path.",
+        "Keep the return lane clear so the block lands where you want it."
+      ]
+    },
+    {
+      "heading": "Hold a buffer lane",
+      "body": [
+        "Always keep one lane open as a landing spot for returned blocks.",
+        "A buffer prevents the elevator from stranding a piece you still need."
+      ]
+    }
+  ],
+  "obstacleIds": [
+    "moving-elevators"
+  ],
+  "boosterIds": [
+    "time-freeze"
+  ],
+  "relatedLevelNumbers": []
+}

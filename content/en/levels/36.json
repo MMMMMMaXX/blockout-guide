@@ -1,0 +1,96 @@
+{
+  "id": "en-level-36",
+  "locale": "en",
+  "levelNumber": 36,
+  "title": "Block Out Level 36 Walkthrough",
+  "summary": "Block Out Level 36 is a dense mosaic of interlocking red, green, blue, and yellow tetromino-shaped blocks with no boss frames or device counters. The board is so tightly packed that the first gap must come from the top, and the solve wor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "Block Out Level 36 is a dense mosaic of interlocking red, green, blue, and yellow tetromino-shaped blocks with no boss frames or device counters. The board is so tightly packed that the first gap must come from the top, and the solve works downward: clear the green blocks near the top first, shift the center yellow mass, then drain the red and blue blocks through the bottom exits. One wrong slide in the center can jam multiple pieces.",
+        "landmarks": [
+          "Block Out Level 36 is a dense mosaic of interlocking red, green, blue, and yellow tetromino-shaped blocks with no boss frames or device counters.",
+          "The board is so tightly packed that the first gap must come from the top, and the solve works downward: clear the green blocks near the top first, shift the center yellow mass, then drain the red and blue blocks through the bottom exits.",
+          "One wrong slide in the center can jam multiple pieces."
+        ],
+        "colors": ["Red", "Green", "Blue", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Watch the empty space. If the gap created at the top has not traveled down to the center yet, the bottom blocks are still locked.",
+        "The large yellow L-shaped block in the center-left is the key unlock — once it moves, most blocks can follow.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the first small block out through the top exit to create the initial gap in the packed board."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the green blocks near the upper-right toward the top exit to widen the opening."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the new space to move the large yellow L-shaped block in the center-left — this is the key unlock."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once the yellow mass has shifted, the red blocks beneath it can start sliding toward the bottom exits."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Work the blue blocks out through the right side or bottom after the center is less congested."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Keep the bottom exit lanes clear for the final red and green pieces."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last remaining block after the mosaic has unraveled from top to bottom."
+        }
+      ],
+      "failurePoints": [
+        "Trying to force a blue block out through the bottom before the center yellow and red blocks have shifted enough — this creates a deadlock around 01:12.",
+        "Working the bottom exits before the top gap has propagated down through the center, which leaves the entire board locked."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 36 Walkthrough and Solution",
+    "description": "Solve Block Out level 36 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

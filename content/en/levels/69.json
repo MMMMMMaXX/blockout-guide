@@ -1,0 +1,96 @@
+{
+  "id": "en-level-69",
+  "locale": "en",
+  "levelNumber": 69,
+  "title": "Block Out Level 69 Walkthrough",
+  "summary": "Block Out Level 69 is a 'Super Hard' quad-chamber boss level with four large purple blocks — counters '7' and '8' on top, '10' and '4' on the bottom. The blue '12' block at the bottom is an additional heavy target. Clear the bottom first...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out Level 69 is a 'Super Hard' quad-chamber boss level with four large purple blocks — counters '7' and '8' on top, '10' and '4' on the bottom. The blue '12' block at the bottom is an additional heavy target. Clear the bottom first, then work the purple blocks in parallel, letting the smaller ones clear faster while the larger ones gradually open.",
+        "landmarks": [
+          "Block Out Level 69 is a 'Super Hard' quad-chamber boss level with four large purple blocks — counters '7' and '8' on top, '10' and '4' on the bottom.",
+          "The blue '12' block at the bottom is an additional heavy target.",
+          "Clear the bottom first, then work the purple blocks in parallel, letting the smaller ones clear faster while the larger ones gradually open."
+        ],
+        "colors": ["Purple", "Blue", "Yellow", "Red", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The 'Super Hard' label means tighter packing — clear the smaller purple blocks first to build space.",
+        "The blue '12' block at the bottom needs the most room. Clear it first.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the blue blocks at the bottom with counter '12' through the left exit — it needs the most room."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the yellow blocks on the right out through the right exit to open the lower-right area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin draining the bottom-right purple block with counter '4' — it is the lightest and clears fastest."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Work the bottom-left purple block with counter '10' in parallel."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Move to the top-left purple block with counter '7' — it is lighter than the '8'."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the top-right purple block with counter '8', which has the most room after the others are drained."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear any remaining colored blocks trapped between the emptied chambers."
+        }
+      ],
+      "failurePoints": [
+        "Draining the '10' or '8' blocks before the smaller ones — the larger blocks need room to maneuver, and clearing them first removes sliding walls for the others.",
+        "Ignoring the blue '12' block at the bottom — it is the heaviest and needs the most room to exit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 69 Walkthrough and Solution",
+    "description": "Solve Block Out level 69 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "en-level-75",
+  "locale": "en",
+  "levelNumber": 75,
+  "title": "Block Out Level 75 Walkthrough",
+  "summary": "Block Out Level 75 uses a cross-shaped board with stepped pixelated edges — not the usual rectangle. Blocks are packed in both the upper and lower arms of the cross, connected only through a center junction. Clear the upper arm first to...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/75/",
+        "layout": "Block Out Level 75 uses a cross-shaped board with stepped pixelated edges — not the usual rectangle. Blocks are packed in both the upper and lower arms of the cross, connected only through a center junction. Clear the upper arm first to open the junction, then route the lower arm's heavy blocks through the widened center to the bottom exits.",
+        "landmarks": [
+          "Block Out Level 75 uses a cross-shaped board with stepped pixelated edges — not the usual rectangle.",
+          "Blocks are packed in both the upper and lower arms of the cross, connected only through a center junction.",
+          "Clear the upper arm first to open the junction, then route the lower arm's heavy blocks through the widened center to the bottom exits."
+        ],
+        "colors": ["Green", "Red", "Yellow", "Purple", "Orange", "Blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "0-D_Iw1P4YU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=0-D_Iw1P4YU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The center junction is the only path between the upper and lower arms — clear it early.",
+        "Feed the lower arm's heavy blocks last when the center has the most room.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the small green blocks near the upper arm tips through the side exits."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Extract the framed block from the center junction to open the crossing point."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Pull the remaining red and yellow blocks from the upper arm through the top or side exits."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Route the first lower-arm blocks (purple and orange) through the opened center junction."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Feed the larger yellow and blue blocks from the lower arm through the bottom exits."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with the high-counter blocks that need the most passes through the bottom."
+        }
+      ],
+      "failurePoints": [
+        "Trying to route lower-arm blocks through the center before the upper arm is cleared — the junction jams.",
+        "Ignoring the framed block in the center junction, which gates all traffic between the two arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/75/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 75 Walkthrough and Solution",
+    "description": "Solve Block Out level 75 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

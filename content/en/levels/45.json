@@ -1,0 +1,97 @@
+{
+  "id": "en-level-45",
+  "locale": "en",
+  "levelNumber": 45,
+  "title": "Block Out Level 45 Walkthrough",
+  "summary": "Block Out Level 45 is an outside-in puzzle where a thick rim of large red, blue, green, and yellow blocks boxes in smaller framed target blocks in the lower half. The rim must be peeled from the top and sides first — the large blocks lea...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "Block Out Level 45 is an outside-in puzzle where a thick rim of large red, blue, green, and yellow blocks boxes in smaller framed target blocks in the lower half. The rim must be peeled from the top and sides first — the large blocks leave before the targets. Once the center opens, the framed targets can finally travel through to their exits. This inverts the usual boss pattern: the big pieces are the openers, the small ones are the finishers.",
+        "landmarks": [
+          "Block Out Level 45 is an outside-in puzzle where a thick rim of large red, blue, green, and yellow blocks boxes in smaller framed target blocks in the lower half.",
+          "The rim must be peeled from the top and sides first — the large blocks leave before the targets.",
+          "Once the center opens, the framed targets can finally travel through to their exits.",
+          "This inverts the usual boss pattern: the big pieces are the openers, the small ones are the finishers."
+        ],
+        "colors": ["Red", "Blue", "Green", "Yellow", "Pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The large blocks are the rim, not the goal — peel them first.",
+        "The framed targets are finishers that only move after the center has real lanes.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Extract blocks from the upper edge to create the first gap in the rim."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the large blue block on the upper-left toward the left exits."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Move the large red block on the upper-right next."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Use the freed top space to shift the green center block, opening a lane for the lower targets."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Rotate the first framed target through the widened center and out its exit."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Feed the second framed target once the first is gone and the center is wider."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last rim fragments after both targets have left."
+        }
+      ],
+      "failurePoints": [
+        "Trying to move a framed target before the rim has opened — the target needs a wide lane through the center that only exists after the large blocks are gone.",
+        "Peeling only one edge of the rim and leaving the opposite side thick, which blocks the target's path from the other direction."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 45 Walkthrough and Solution",
+    "description": "Solve Block Out level 45 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

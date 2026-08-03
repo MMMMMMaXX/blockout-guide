@@ -1,0 +1,96 @@
+{
+  "id": "en-level-34",
+  "locale": "en",
+  "levelNumber": 34,
+  "title": "Block Out Level 34 Walkthrough",
+  "summary": "Block Out Level 34 is labeled 'Hard Level' and features a twin-boss layout with a left `10` boss and a right `20` boss sitting above a shared red-white-black basement. The solve runs in three phases: clear the basement to bring down both...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "Block Out Level 34 is labeled 'Hard Level' and features a twin-boss layout with a left `10` boss and a right `20` boss sitting above a shared red-white-black basement. The solve runs in three phases: clear the basement to bring down both counters, collapse the smaller left tower first to create room, then use that space to accelerate the right tower's collapse. Once the bosses fall below `9`, hidden colored blocks — green, yellow, blue — spill out and need their own sorting.",
+        "landmarks": [
+          "Block Out Level 34 is labeled 'Hard Level' and features a twin-boss layout with a left `10` boss and a right `20` boss sitting above a shared red-white-black basement.",
+          "The solve runs in three phases: clear the basement to bring down both counters, collapse the smaller left tower first to create room, then use that space to accelerate the right tower's collapse.",
+          "Once the bosses fall below `9`, hidden colored blocks — green, yellow, blue — spill out and need their own sorting."
+        ],
+        "colors": ["Red", "White", "Black", "Green", "Blue", "Yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The left `10` boss is your progress meter. If it is still above `5` when the right boss reads `17`, the basement needs more left-side focus.",
+        "Watch for the phase transition around counter `9` — that is when hidden colored blocks start spilling out of the chambers.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Slide the white blocks in the right basement toward the right exit and move the black blocks out through the bottom arrow."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use the green `5` block at the bottom-left as an early move to open a lane under the left chamber."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Continue thinning the basement until the left `10` boss counter visibly starts dropping — watch for `7` on the left counter."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Focus remaining basement work on the left side so the `10` boss collapses fully before the right `20` boss drops below `17`."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Once the left chamber empties, use the freed space to accelerate the right `20` boss reduction."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "As the right boss falls below `9`, colored blocks — green, yellow, blue — spill out. Sort them through the side and bottom exits."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the last red basement pieces and the remaining revealed colors after both chambers are empty."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort equally between both bosses from the start — the `20` boss needs so much more room that neither tower reaches the critical threshold, and revealed blocks pile up with nowhere to go.",
+        "Ignoring the green `5` block at the bottom-left corner as an early move, which delays opening the lane under the left chamber where progress matters most."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 34 Walkthrough and Solution",
+    "description": "Solve Block Out level 34 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "en-level-125",
+  "locale": "en",
+  "levelNumber": 125,
+  "title": "Block Out Level 125 Walkthrough",
+  "summary": "Block Out Level 125 is a fast U-frame board where a bottom launcher row feeds blocks upward into a U-shaped gap. The side arms must thin to the blue `6` and `4` tiles before the launchers can fire — otherwise the gap overflows. Break tho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/125/",
+        "layout": "Block Out Level 125 is a fast U-frame board where a bottom launcher row feeds blocks upward into a U-shaped gap. The side arms must thin to the blue `6` and `4` tiles before the launchers can fire — otherwise the gap overflows. Break those counters, then spend the launcher row for a PERFECT clear. The white `9` counter on the center green block is the last launch trigger.",
+        "landmarks": [
+          "Block Out Level 125 is a fast U-frame board where a bottom launcher row feeds blocks upward into a U-shaped gap.",
+          "The side arms must thin to the blue `6` and `4` tiles before the launchers can fire — otherwise the gap overflows.",
+          "Break those counters, then spend the launcher row for a PERFECT clear.",
+          "The white `9` counter on the center green block is the last launch trigger."
+        ],
+        "colors": ["Yellow", "Green", "Red", "Orange", "Cyan", "Blue", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "01Yjk5R2M04",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=01Yjk5R2M04",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the blue `6` counter before the blue `4` counter to keep the yellow base pair open.",
+        "Do not touch the center red `17` launcher until both side counter tiles are gone.",
+        "If the board feels stuck, look for the color with the cleanest path and use that to regain space."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Shift the left-arm yellow/green/red stack downward with the far-left green up-arrow without touching the blue `6` tile."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Mirror the right-arm orange/red/blue stack with the far-right green up-arrow, keeping the blue `4` counter parked."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Break the blue `6` counter tile on the left arm once both side stacks are three blocks tall."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Break the blue `4` counter tile on the right arm before the two yellow base bricks move."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Spend the bottom launcher row — left red `25`, center red `17`, right green `25` — to feed the remaining blocks into the U gap."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the bottom `9` counter tile and the last red/blue scraps through the center green arrow for the PERFECT clear."
+        }
+      ],
+      "failurePoints": [
+        "Breaking the blue `4` counter before the blue `6` — this jams the yellow base pair permanently.",
+        "Shifting the center red `17` launcher before both side counter tiles clear, boxing both arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/125/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 125 Walkthrough and Solution",
+    "description": "Solve Block Out level 125 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

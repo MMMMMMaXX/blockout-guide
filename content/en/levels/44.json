@@ -1,0 +1,97 @@
+{
+  "id": "en-level-44",
+  "locale": "en",
+  "levelNumber": 44,
+  "title": "Block Out Level 44 Walkthrough",
+  "summary": "Block Out Level 44 is labeled 'Hard Level' and features a central `5` boss square sitting on a foundation row of four `5`-counter blocks at the bottom. Above the boss, small-counter blocks (cyan `1`, a `3` block) and a purple device must...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out Level 44 is labeled 'Hard Level' and features a central `5` boss square sitting on a foundation row of four `5`-counter blocks at the bottom. Above the boss, small-counter blocks (cyan `1`, a `3` block) and a purple device must be cleared first to give the boss vertical room. The bottom `5` row and the boss collapse in coordination — the boss pushes down as the foundation thins. Pink blocks on the right are the late-phase cleanup.",
+        "landmarks": [
+          "Block Out Level 44 is labeled 'Hard Level' and features a central `5` boss square sitting on a foundation row of four `5`-counter blocks at the bottom.",
+          "Above the boss, small-counter blocks (cyan `1`, a `3` block) and a purple device must be cleared first to give the boss vertical room.",
+          "The bottom `5` row and the boss collapse in coordination — the boss pushes down as the foundation thins.",
+          "Pink blocks on the right are the late-phase cleanup."
+        ],
+        "colors": ["Cyan", "Red", "Pink", "Blue", "Green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The upper counters (`1` and `3`) are small but they gate the whole board — clear them first.",
+        "The boss and the bottom `5` row collapse together, so do not try to clear the foundation independently.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the cyan `1`-counter block at the top to create the first opening above the boss."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Service the purple device at the top of the board."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Remove the `3`-counter block to widen the upper space."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Start dropping the central `5` boss once the upper room is open."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Let the four `5` blocks at the bottom thin as the boss pushes down."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Clear the pink blocks on the right side as the late-phase color."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Finish with the remaining bottom blocks and side exits after the boss is gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to drop the `5` boss before the upper `1` and `3` counters are cleared — the boss has no room to move and the upper space stays sealed.",
+        "Disturbing the bottom `5` row before the boss has started dropping, which removes the support but leaves the boss stuck above with no path down."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 44 Walkthrough and Solution",
+    "description": "Solve Block Out level 44 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

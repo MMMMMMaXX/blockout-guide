@@ -1,0 +1,39 @@
+{
+  "kind": "obstacle",
+  "id": "en-obstacle-block-generators",
+  "locale": "en",
+  "slug": "block-generators",
+  "title": "Block generators: the board keeps growing",
+  "summary": "Generators spawn new blocks over time, so a board that looks open can fill up if you only react instead of clearing.",
+  "status": "published",
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Block Generators Obstacle Guide",
+    "description": "Learn how Block Out block generators add pieces over time and which clearing habits stop the board from filling up."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "Block generators add new blocks to the board on a schedule rather than all at the start.",
+    "The App Store listing names block generators among the game's dynamic obstacles.",
+    "Each spawned block takes board space that you must eventually route to an exit."
+  ],
+  "strategyPoints": [
+    "Clear the oldest, most blocking pieces first so generators do not pile up space.",
+    "Keep at least one lane open as a buffer for incoming blocks.",
+    "Prefer routes that remove a generator's neighbor before the next spawn lands."
+  ],
+  "avoidPoints": [
+    "Do not wait for a perfect move while generators keep adding pieces.",
+    "Do not box yourself into a corner where new blocks have nowhere useful to go.",
+    "Do not ignore a generator just because the current board still looks comfortable."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [
+    "moving-elevators"
+  ]
+}

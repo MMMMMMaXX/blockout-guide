@@ -1,0 +1,91 @@
+{
+  "id": "en-level-66",
+  "locale": "en",
+  "levelNumber": 66,
+  "title": "Block Out Level 66 Walkthrough",
+  "summary": "Block Out Level 66 packs a 5×7 grid with a large blue '13' block at the top, numbered blue blocks with counters '5' in the middle, and directional arrow blocks on the sides. The numbered blocks must exit through their gates while the sid...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/66/",
+        "layout": "Block Out Level 66 packs a 5×7 grid with a large blue '13' block at the top, numbered blue blocks with counters '5' in the middle, and directional arrow blocks on the sides. The numbered blocks must exit through their gates while the side blocks are constrained to one direction. Clear the bottom first, then work the numbered blocks upward.",
+        "landmarks": [
+          "Block Out Level 66 packs a 5×7 grid with a large blue '13' block at the top, numbered blue blocks with counters '5' in the middle, and directional arrow blocks on the sides.",
+          "The numbered blocks must exit through their gates while the side blocks are constrained to one direction.",
+          "Clear the bottom first, then work the numbered blocks upward."
+        ],
+        "colors": ["Blue", "Green", "Red", "Yellow", "Orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "WMLdROI6Sz8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=WMLdROI6Sz8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The '13' block is a marathon — clear the smaller numbered blocks first to build space.",
+        "Watch the numbered counters. They decrease as blocks exit, showing your progress.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Clear the yellow and blue blocks at the bottom through the right exit to open the base."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Shift the green blocks on the left out through the left exit to open the lower-left area."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Begin clearing the numbered blue blocks in the middle through their gates — counters decrease as they exit."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the red blocks on the right through the right exit as the middle opens."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Tackle the large blue '13' block at the top — it needs 13 exits to fully clear."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish with any remaining blocks trapped in the corners."
+        }
+      ],
+      "failurePoints": [
+        "Trying to clear the '13' block before the smaller numbered blocks — it needs room to slide and exit multiple times.",
+        "Clearing the top before the bottom, which leaves the lower blocks trapped with no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/66/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 66 Walkthrough and Solution",
+    "description": "Solve Block Out level 66 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "en-level-144",
+  "locale": "en",
+  "levelNumber": 144,
+  "title": "Block Out Level 144 Walkthrough",
+  "summary": "Block Out Level 144 is a Hard counter board built around purple numbered towers and a seven-bead bottom row with a wrench tool. Border counters tick from `15`/`12`/`20` downward as the towers drain. The two large purple blocks — `6` and...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/144/",
+        "layout": "Block Out Level 144 is a Hard counter board built around purple numbered towers and a seven-bead bottom row with a wrench tool. Border counters tick from `15`/`12`/`20` downward as the towers drain. The two large purple blocks — `6` and `9` — shrink in parallel, and clearing the left stack before the bottom bar hits `17` leaves the wrench tool orphaned with no tower to unlock.",
+        "landmarks": [
+          "Block Out Level 144 is a Hard counter board built around purple numbered towers and a seven-bead bottom row with a wrench tool.",
+          "Border counters tick from `15`/`12`/`20` downward as the towers drain.",
+          "The two large purple blocks — `6` and `9` — shrink in parallel, and clearing the left stack before the bottom bar hits `17` leaves the wrench tool orphaned with no tower to unlock."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Yellow", "Orange", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hmv_9A-ga-k",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hmv_9A-ga-k",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use the purple wrench on the right red bead before breaking the right 9 tower.",
+        "Clear the green/red/yellow/green base row on the left before touching the border 15 counter.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Break the top 9 purple block and peel the left numbered stack (6/2/3/1) without touching the wrench bead."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the green/red/yellow/green base row on the lower-left flank."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Use the purple wrench on the right red bead to unlock the bottom bead row."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the right-side blue 4 stack and the adjacent orange/green/red column."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Break the remaining large purple 6 and 9 towers once the border counters drop."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Spend the left 12/1 rail and the bottom 17 bar on the remaining scraps."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Clear the last isolated orange and blue blocks at the base for the board clear."
+        }
+      ],
+      "failurePoints": [
+        "Clearing the right 9 tower before the wrench bead unlocks, sealing the green/red lower cluster.",
+        "Detonating the bead row before the left 6/2/3/1 stack is fully peeled."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/144/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 144 Walkthrough and Solution",
+    "description": "Solve Block Out level 144 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

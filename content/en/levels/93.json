@@ -1,0 +1,96 @@
+{
+  "id": "en-level-93",
+  "locale": "en",
+  "levelNumber": 93,
+  "title": "Block Out Level 93 Walkthrough",
+  "summary": "Block Out Level 93 arranges two purple chamber blocks in an L-shape — counter `13` in an orange frame on the left and counter `8` in an orange frame below. Red, blue, and yellow blocks are stacked to the right of the `13` chamber, with l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "Block Out Level 93 arranges two purple chamber blocks in an L-shape — counter `13` in an orange frame on the left and counter `8` in an orange frame below. Red, blue, and yellow blocks are stacked to the right of the `13` chamber, with lock/key icons on the blue blocks. The surrounding blocks are sparse and clear in under 10 seconds, making the real challenge the 21 total passes needed across both chambers.",
+        "landmarks": [
+          "Block Out Level 93 arranges two purple chamber blocks in an L-shape — counter `13` in an orange frame on the left and counter `8` in an orange frame below.",
+          "Red, blue, and yellow blocks are stacked to the right of the `13` chamber, with lock/key icons on the blue blocks.",
+          "The surrounding blocks are sparse and clear in under 10 seconds, making the real challenge the 21 total passes needed across both chambers."
+        ],
+        "colors": ["Purple", "Red", "Blue", "Yellow", "Green", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The surrounding blocks clear in under 10 seconds — spend planning time on keeping the `13` feed lane clear.",
+        "Clear the small green and cyan blocks between chambers before starting any feed.",
+        "Feed the `13` chamber first because it takes longer and benefits from maximum room."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Push the red blocks at the top-right through the top or right-wall exit to open the upper lane (02:26 in the video)."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Clear the key blocks to unlock the blue blocks in the middle-right (02:23)."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Slide the unlocked blue blocks and yellow blocks through the right-wall exit to clear the right lane completely (02:20)."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Clear the small green and cyan blocks between the two chambers through the nearest exits because they can drift into the feed path (02:17)."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Begin feeding the purple `13` chamber through the left-wall exit — thirteen passes, keeping the lane permanently clear (02:14–02:05)."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Sort any spilled blocks from the `13` chamber collapse before they reach the `8` chamber's zone (02:05)."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "Feed the purple `8` chamber through the bottom exits — eight passes to finish (02:02–01:54)."
+        }
+      ],
+      "failurePoints": [
+        "Leaving the small green and cyan blocks between chambers during the `13` feed — they drift into the feeding lane and stall the counter mid-pass.",
+        "Starting with the `8` chamber — it sits below the `13` and benefits from the room created after the `13` collapses, not before."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 93 Walkthrough and Solution",
+    "description": "Solve Block Out level 93 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

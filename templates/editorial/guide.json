@@ -1,0 +1,16 @@
+{
+  "kind": "guide",
+  "id": "template-guide",
+  "locale": "en",
+  "slug": "replace-guide-slug",
+  "title": "Replace with a useful strategy title",
+  "summary": "Replace with the guide's independent answer and evidence boundary.",
+  "status": "draft",
+  "question": "Replace with the reusable player question.",
+  "sections": [{ "heading": "Replace heading", "body": ["Replace with reviewed guidance."] }],
+  "obstacleIds": [],
+  "boosterIds": [],
+  "relatedLevelNumbers": [],
+  "sourceReferences": [],
+  "updatedAt": "2026-08-02"
+}

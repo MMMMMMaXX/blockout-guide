@@ -1,0 +1,98 @@
+{
+  "id": "en-level-28",
+  "locale": "en",
+  "levelNumber": 28,
+  "title": "Block Out Level 28 Walkthrough",
+  "summary": "Block Out Level 28 is a stacked chamber puzzle with a top `6` boss and a lower `2` boss. Open the lower room first, collapse the `2` panel next, and let the upper `6` fall only after the chamber is already turning.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "Block Out Level 28 is a stacked chamber puzzle with a top `6` boss and a lower `2` boss. Open the lower room first, collapse the `2` panel next, and let the upper `6` fall only after the chamber is already turning.",
+        "landmarks": [
+          "Block Out Level 28 is a stacked chamber puzzle with a top `6` boss and a lower `2` boss.",
+          "Open the lower room first, collapse the `2` panel next, and let the upper `6` fall only after the chamber is already turning.",
+          "The board mixes Blue, Pink, Red and more.",
+          "The opening layout is a color-sort grid.",
+          "Clear matched tiles to finish the level."
+        ],
+        "colors": ["Blue", "Pink", "Red", "Yellow", "Purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Solve the lower `2` before the upper `6`.",
+        "The lower chamber is the phase-one workspace.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Rotate the lower chamber first and start peeling blue and pink away through the side lanes."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Use that new space to begin shrinking the framed `2` boss."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Keep the upper `6` panel parked while the lower chamber is still crowded."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Once the `2` frame is nearly gone, let the top `6` finally start to fall."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Use the late red and yellow pieces to stop the lower chamber from refilling."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the side exits after the upper boss is already low."
+        },
+        {
+          "order": 7,
+          "title": "Move 7",
+          "instruction": "End with the last bottom colors once both bosses are gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying to lower the `6` panel before the `2` boss has opened.",
+        "Leaving the lower chamber crowded after the first exits are available."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 28 Walkthrough and Solution",
+    "description": "Solve Block Out level 28 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}

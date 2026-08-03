@@ -1,0 +1,91 @@
+{
+  "id": "en-level-119",
+  "locale": "en",
+  "levelNumber": 119,
+  "title": "Block Out Level 119 Walkthrough",
+  "summary": "Block Out Level 119 is a Super Hard packing board — numbered pillars and arrow-marked polyomino pieces must route through a U-shaped corridor with no room for error. A fixed Lego brick cluster blocks one arm of the U, and the rainbow rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/119/",
+        "layout": "Block Out Level 119 is a Super Hard packing board — numbered pillars and arrow-marked polyomino pieces must route through a U-shaped corridor with no room for error. A fixed Lego brick cluster blocks one arm of the U, and the rainbow right-strip can only exit in one direction. Force it before the green snake path and purple winding shape have left and the U corridor locks for good.",
+        "landmarks": [
+          "Block Out Level 119 is a Super Hard packing board — numbered pillars and arrow-marked polyomino pieces must route through a U-shaped corridor with no room for error.",
+          "A fixed Lego brick cluster blocks one arm of the U, and the rainbow right-strip can only exit in one direction.",
+          "Force it before the green snake path and purple winding shape have left and the U corridor locks for good."
+        ],
+        "colors": ["Purple", "Blue", "Green", "Red", "Orange", "Yellow", "Cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r_96PuAWsyE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r_96PuAWsyE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Clear the bottom-left Lego cluster before the right rainbow stack, or the U corridor closes.",
+        "Keep the right `8` column parked until the lower `2` pocket has room to shift.",
+        "Think in chain clears. The best move is the one that sets up the next two moves, not just the quickest current match."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Move 1",
+          "instruction": "Peel the top-left blue `3` marker and open space around the left orange-bordered `14` pillar."
+        },
+        {
+          "order": 2,
+          "title": "Move 2",
+          "instruction": "Break the bottom-left Lego brick cluster (green/red/blue/yellow) without sealing the central U corridor."
+        },
+        {
+          "order": 3,
+          "title": "Move 3",
+          "instruction": "Feed the right tall purple `8` column only after the bottom `2` pocket has room to shift."
+        },
+        {
+          "order": 4,
+          "title": "Move 4",
+          "instruction": "Route the rainbow right-stack through the lower grid using the green right-arrow lane."
+        },
+        {
+          "order": 5,
+          "title": "Move 5",
+          "instruction": "Clear the numbered cyan `1` tile sitting in the U-opening once the left `3` tower thins."
+        },
+        {
+          "order": 6,
+          "title": "Move 6",
+          "instruction": "Finish the bottom counters `8` and `1` and exit the arrow-directed green L on the lower left."
+        }
+      ],
+      "failurePoints": [
+        "Routing the rainbow right-stack before the bottom-left Lego cluster clears — this seals the U corridor.",
+        "Shifting the right `8` column while the lower `2` pocket is still boxed in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/119/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 119 Walkthrough and Solution",
+    "description": "Solve Block Out level 119 with the verified board match, the embedded walkthrough, step-by-step moves, and the common failure points."
+  },
+  "updatedAt": "2026-08-03"
+}
