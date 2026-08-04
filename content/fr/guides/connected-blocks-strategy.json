@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "fr-guide-connected-blocks-strategy",
+  "locale": "fr",
+  "slug": "connected-blocks-strategy",
+  "title": "Comment éliminer les Connected Blocks",
+  "summary": "Traitez la paire liée comme une unité, trouvez une sortie commune et évitez d'abandonner une couleur dans une voie morte.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Éliminez les Connected Blocks de Block Out en toute sécurité",
+    "description": "Acheminez les Connected Blocks de Block Out en traitant la paire comme une unité, en trouvant une sortie commune et en évitant les voies mortes."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Quelle est la façon la plus sûre d'acheminer les Connected Blocks de Block Out ?",
+  "sections": [
+    {
+      "heading": "Planifiez la paire comme une pièce unique",
+      "body": [
+        "Les blocs liés se déplacent ensemble : cartographiez les deux empreintes en même temps.",
+        "Choisissez des voies qui accueillent la forme combinée sans piéger une couleur."
+      ]
+    },
+    {
+      "heading": "Visez une élimination commune",
+      "body": [
+        "Cherchez un ordre de coups qui retire les deux couleurs liées.",
+        "Si une sortie commune est impossible, choisissez l'ordre qui libère d'abord la pièce la plus bloquante."
+      ]
+    },
+    {
+      "heading": "Évitez les voies mortes",
+      "body": [
+        "Ne séparez jamais les couleurs dans des voies où une seule peut atteindre une sortie.",
+        "Gardez le chemin du partenaire ouvert jusqu'à ce que le lien se dissipe."
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

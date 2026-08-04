@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-680",
+  "locale": "zh-cn",
+  "slug": "version-680",
+  "title": "Block Out 680 版本：Florence 街道",
+  "summary": "2026 年 7 月 6 日的更新开放了 Florence 区域，新增了关卡，并带来了 Bug 修复与 UX 改进。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 680 版本：Florence 街道",
+    "description": "阅读有出处的 Block Out 680 版本改动：Florence 区域、新关卡、Bug 修复与 UX 改进。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "680",
+  "releasedAt": "2026-07-06",
+  "changes": [
+    "探索全新区域：漫步在 Florence 迷人的街道上。",
+    "全新关卡正在等你。",
+    "Bug 修复，体验更流畅。",
+    "UX 改进。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

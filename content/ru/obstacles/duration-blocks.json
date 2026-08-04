@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ru-obstacle-duration-blocks",
+  "locale": "ru",
+  "slug": "duration-blocks",
+  "title": "Duration Blocks: очистите их ради временной силы",
+  "summary": "Duration Blocks появились в версии 318; их очистка активирует special power, действующую ограниченное время.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out: гайд по Duration Blocks",
+    "description": "Узнайте, как Block Out Duration Blocks активируют временную силу при очистке и когда её лучше всего запускать."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Duration Blocks появились в Block Out версии 318 с пометкой «Очистите их и активируйте их special power!».",
+    "Очистка Duration Block запускает special power, а не только освобождает место.",
+    "Сила временная, поэтому её преимущество исчезнет, если не использовать его вовремя."
+  ],
+  "strategyPoints": [
+    "Очищайте Duration Blocks в приоритете, когда активированная сила напрямую помогает следующим ходам.",
+    "Подготовьте ходы, которые должна поддержать сила, сразу после очистки.",
+    "Выбирайте момент очистки так, чтобы сила действовала во время самой сложной части маршрута."
+  ],
+  "avoidPoints": [
+    "Не очищайте Duration Block слишком рано, если его сила истечёт до того, как понадобится.",
+    "Не тратьте силу на ходы, которые вы могли бы сделать и без неё.",
+    "Не воспринимайте Duration Blocks как обычные препятствия, когда сила имеет значение."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

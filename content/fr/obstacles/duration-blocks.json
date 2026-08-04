@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "fr-obstacle-duration-blocks",
+  "locale": "fr",
+  "slug": "duration-blocks",
+  "title": "Duration Blocks : éliminez-les pour un pouvoir temporisé",
+  "summary": "Les Duration Blocks ont été introduits dans la Version 318 ; les éliminer active un pouvoir spécial qui dure un temps limité.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out : guide de l'obstacle Duration Blocks",
+    "description": "Apprenez comment les Duration Blocks de Block Out activent un pouvoir temporisé à l'élimination et quand le déclencher pour un maximum d'effet."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Les Duration Blocks sont arrivés dans la Version 318 de Block Out avec la note « Éliminez-les et activez leur pouvoir spécial ! ».",
+    "Éliminer un Duration Block déclenche un pouvoir spécial plutôt que de libérer simplement de l'espace.",
+    "Le pouvoir est temporaire : son avantage expire si vous ne l'utilisez pas rapidement."
+  ],
+  "strategyPoints": [
+    "Donnez la priorité à l'élimination des Duration Blocks quand le pouvoir activé aide directement les coups suivants.",
+    "Enchaînez les coups que vous voulez soutenir avec le pouvoir juste après l'élimination.",
+    "Calibrez l'élimination pour que le pouvoir soit actif pendant la partie la plus difficile de l'itinéraire."
+  ],
+  "avoidPoints": [
+    "N'éliminez pas un Duration Block trop tôt si son pouvoir expire avant que vous en ayez besoin.",
+    "Ne gaspillez pas le pouvoir sur des coups que vous pourriez faire sans lui.",
+    "Ne traitez pas les Duration Blocks comme des bloqueurs ordinaires dès que le pouvoir compte."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

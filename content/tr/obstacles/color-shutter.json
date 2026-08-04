@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "tr-obstacle-color-shutter",
+  "locale": "tr",
+  "slug": "color-shutter",
+  "title": "Color Shutter: renge bağlı bir engel",
+  "summary": "Color Shutter, Version 573'te tanıtılan ve renk koşullarına göre geçitleri açıp kapatan renge bağlı bir engeldir.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Color Shutter Engel Rehberi",
+    "description": "Block Out Color Shutter engelini anlayın ve kapalı rotanın açılmasından önce renk koşulunu nasıl karşılayacağınızı öğrenin."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter, renkli yeni bir meydan okuma olarak Block Out Version 573'e eklendi.",
+    "Panjurun durumu, tahtadaki renk koşullarına bağlıdır; bir geçidi açar veya kapatır.",
+    "Kapalı rota kullanılabilir hale gelmeden önce renk koşulunu sağlamalısınız."
+  ],
+  "strategyPoints": [
+    "Yakında blokları bağlamadan önce panjurun hangi rengi beklediğini belirleyin.",
+    "Geçit sonraki hamleler için açılsın diye önce gereken rengi temizleyin.",
+    "Durumu değişebileceğinden, her temizlikten sonra panjuru yeniden kontrol edin."
+  ],
+  "avoidPoints": [
+    "Renk koşulunu karşılamamış bir panjurdan blok geçirmeyin.",
+    "Koşul sıfırlanırsa panjurun bir kullanımdan sonra açık kaldığını varsaymayın.",
+    "Taşıyamayacağınız parçalarla panjurun ihtiyaç duyduğu rengi kapatmayın."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "zh-cn-guide-how-to-read-variants",
+  "locale": "zh-cn",
+  "slug": "how-to-read-variants",
+  "title": "如何匹配 Block Out 棋盘变体",
+  "summary": "在照搬通关攻略之前，先确认地标、出口、计数器和平台背景，以免把正确解法套用在错误的布局上。",
+  "status": "published",
+  "question": "我该如何判断某篇 Block Out 攻略是否匹配我设备上的棋盘？",
+  "sections": [
+    {
+      "heading": "从地标入手，而非关卡编号",
+      "body": [
+        "关卡编号只是第一步的查找键。在落子前，先对比最大的中心方块、计数器数值、出口颜色以及边缘阻挡物的排布。",
+        "例如，文档记录的 14 关棋盘中心是一个青色 7，上方是一个 17 计数器，右侧有一架白色梯子，侧面是黄色立柱。如果这些锚点有任何一个缺失，就停手去另找变体。"
+      ]
+    },
+    {
+      "heading": "检查平台和版本背景",
+      "body": [
+        "Grand Games 将 Block Out 描述为一款布局不断演变的益智游戏，包含移动电梯、方块生成器以及其他动态障碍。因此攻略会记录其来源棋盘所检查的平台与日期。",
+        "把版本标签当作背景信息，而非单独的证据。棋盘上可见的地标仍必须与你的设备一致。"
+      ]
+    },
+    {
+      "heading": "用开局走子做最后校验",
+      "body": [
+        "地标匹配之后，再确认攻略的第一步在你这里物理上可行，且符合其所述目的。在 14 关中，开局的工作应在右侧白色梯子上进行，而青色中心方块保持不动。",
+        "如果第一步被堵住、指向了不同的颜色，或依赖你棋盘上并不存在的出口，就不要强行照搬顺序。回到棋盘档案，再去寻找另一种布局。"
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "如何匹配 Block Out 棋盘变体",
+    "description": "在把 Block Out 攻略用于你的棋盘前，先对比地标、出口、计数器、平台和开局走子是否一致。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

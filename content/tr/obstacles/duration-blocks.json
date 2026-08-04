@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "tr-obstacle-duration-blocks",
+  "locale": "tr",
+  "slug": "duration-blocks",
+  "title": "Duration Blocks: zamanlı güç için temizleyin",
+  "summary": "Duration Blocks, Version 318'de tanıtıldı; temizlendiğinde sınırlı süre boyunca geçerli özel bir güç etkinleşir.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Duration Blocks Engel Rehberi",
+    "description": "Block Out Duration Blocks'ın temizlendiğinde nasıl zamanlı bir güç etkinleştirdiğini ve bu gücü en çok ne zaman tetikleyeceğinizi öğrenin."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Duration Blocks, 'Temizleyin ve özel güçlerini etkinleştirin!' notuyla Block Out Version 318'e geldi.",
+    "Bir Duration Block'u temizlemek yalnızca alan açmak değil, özel bir güç tetikler.",
+    "Güç geçicidir; hemen kullanmazsanız faydası sona erer."
+  ],
+  "strategyPoints": [
+    "Etkinleşen güç bir sonraki hamlelere doğrudan yardımcı olduğunda Duration Blocks'ı temizlemeyi önceliklendirin.",
+    "Temizlikten hemen sonra gücün desteklemesini istediğiniz hamleleri sıraya koyun.",
+    "Gücün, rotanın en zor kısmında aktif olması için temizliği zamanlayın."
+  ],
+  "avoidPoints": [
+    "Gücü ihtiyacınız olmadan önce sona erecekse bir Duration Block'u erken temizlemeyin.",
+    "Gücü onsuz da yapabileceğiniz hamlelerde harcamayın.",
+    "Güç önem kazandığında Duration Blocks'ı sıradan engel gibi görmeyin."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

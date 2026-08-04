@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "tr-update-version-680",
+  "locale": "tr",
+  "slug": "version-680",
+  "title": "Block Out Version 680: Floransa sokakları",
+  "summary": "6 Temmuz 2026 güncellemesi Floransa bölgesini açtı, yeni seviyeler ekledi ve hata düzeltmeleriyle UX iyileştirmeleri sundu.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 680: Floransa Sokakları",
+    "description": "Kaynaklı Block Out Version 680 değişikliklerini okuyun: Floransa bölgesi, yeni seviyeler, hata düzeltmeleri ve UX iyileştirmeleri."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "680",
+  "releasedAt": "2026-07-06",
+  "changes": [
+    "Yeni bölgeyi keşfedin: Floransa'nın büyüleyici sokaklarında dolaşın.",
+    "Yepyeni seviyeler sizi bekliyor.",
+    "Daha akıcı bir deneyim için hata düzeltmeleri.",
+    "UX iyileştirmeleri."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

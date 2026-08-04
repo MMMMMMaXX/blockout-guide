@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "es-obstacle-color-shutter",
+  "locale": "es",
+  "slug": "color-shutter",
+  "title": "Color Shutter: un obstáculo condicionado por color",
+  "summary": "Color Shutter es un obstáculo condicionado por color introducido en la Versión 573 que abre o bloquea pasajes según condiciones de color.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guía del obstáculo Color Shutter",
+    "description": "Comprende el obstáculo Color Shutter de Block Out y cómo cumplir su condición de color antes de que se abra la ruta."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter se añadió en Block Out Versión 573 como un nuevo y colorido desafío.",
+    "El estado del obturador depende de condiciones de color en el tablero, abriendo o cerrando un pasaje.",
+    "Debes satisfacer la condición de color antes de que la ruta bloqueada sea usable."
+  ],
+  "strategyPoints": [
+    "Identifica qué color espera el obturador antes de colocar bloques cerca.",
+    "Elimina primero el color requerido para que el pasaje se abra en los siguientes movimientos.",
+    "Vuelve a comprobar el obturador tras cada eliminación, porque su estado puede cambiar."
+  ],
+  "avoidPoints": [
+    "No empujes bloques a través de un obturador que no ha cumplido su condición de color.",
+    "No asumas que el obturador permanece abierto tras un uso si la condición se reinicia.",
+    "No bloquees el color que necesita el obturador con piezas que no puedes mover."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "pt-br-guide-handling-moving-elevators",
+  "locale": "pt-br",
+  "slug": "handling-moving-elevators",
+  "title": "Como contornar os moving elevators",
+  "summary": "Planeje transferências de lane em vez de brigar com o ciclo do elevador, e mantenha uma lane de buffer aberta para os blocos que retornam.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Contorne os Moving Elevators do Block Out",
+    "description": "Planeje rotas do Block Out em torno dos moving elevators lendo o ciclo, usando transferências e mantendo uma lane de buffer."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Como devo planejar uma rota do Block Out quando os elevadores movem meus blocos entre lanes?",
+  "sections": [
+    {
+      "heading": "Leia o ciclo antes de mover",
+      "body": [
+        "Observe um ciclo completo do elevador para saber em qual lane um bloco retorna.",
+        "Comprometa apenas blocos cuja rota ainda funcione após a transferência."
+      ]
+    },
+    {
+      "heading": "Use a transferência como uma jogada grátis",
+      "body": [
+        "Quando o ciclo ajuda claramente, carregue uma cor presa no elevador em vez de forçar um caminho manual mais longo.",
+        "Mantenha a lane de retorno livre para que o bloco caia onde você quer."
+      ]
+    },
+    {
+      "heading": "Mantenha uma lane de buffer",
+      "body": [
+        "Sempre mantenha uma lane aberta como ponto de pouso para os blocos que retornam.",
+        "Um buffer evita que o elevador deixe presa uma peça de que você ainda precisa."
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "ru-update-version-729",
+  "locale": "ru",
+  "slug": "version-729",
+  "title": "Block Out версии 729: Ivy и новые уровни",
+  "summary": "iOS-релиз от 20 июля 2026 года добавил область мастерской Mona Lisa, представил двери под Ivy и добавил новые уровни с исправлениями и улучшениями UX.",
+  "status": "published",
+  "version": "729",
+  "releasedAt": "2026-07-20",
+  "changes": [
+    "Добавлена область мастерской за Mona Lisa.",
+    "Представлена Ivy — препятствие, которое убирается удалением блоков для открытия закрытых дверей.",
+    "Добавлены новые уровни.",
+    "Включены исправления ошибок и улучшения пользовательского опыта."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["ivy"],
+  "impactCheckedAt": "2026-08-03",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out версии 729: Ivy и новые уровни",
+    "description": "Читайте проверенные изменения Block Out версии 729, включая препятствие Ivy, область мастерской Mona Lisa, новые уровни и исправления."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

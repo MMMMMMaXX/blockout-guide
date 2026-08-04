@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "pt-br-guide-how-to-read-variants",
+  "locale": "pt-br",
+  "slug": "how-to-read-variants",
+  "title": "Como identificar uma variante de tabuleiro do Block Out",
+  "summary": "Confirme pontos de referência, saídas, contadores e o contexto da plataforma antes de seguir um passo a passo, para não aplicar a solução certa ao layout errado.",
+  "status": "published",
+  "question": "Como posso saber se um passo a passo do Block Out corresponde ao tabuleiro do meu dispositivo?",
+  "sections": [
+    {
+      "heading": "Comece pelos pontos de referência, não pelo número da fase",
+      "body": [
+        "O número da fase é apenas a primeira chave de busca. Compare a maior peça central, os valores dos contadores, as cores das saídas e o arranjo dos bloqueadores de borda antes de fazer qualquer jogada.",
+        "Por exemplo, o tabuleiro documentado da Fase 14 tem um 7 ciano no centro, um contador 17 acima dele, uma escada branca à direita e colunas laterais amarelas. Se algum desses pontos de referência faltar, pare e procure outra variante."
+      ]
+    },
+    {
+      "heading": "Verifique o contexto de plataforma e versão",
+      "body": [
+        "A Grand Games descreve o Block Out como um quebra-cabeça em evolução, com layouts variáveis, moving elevators, block generators e outros obstáculos dinâmicos. Um guia, portanto, registra a plataforma e a data em que o tabuleiro de origem foi verificado.",
+        "Trate um rótulo de versão como contexto, e não como prova por si só. Os pontos de referência visíveis do tabuleiro ainda precisam corresponder ao seu dispositivo."
+      ]
+    },
+    {
+      "heading": "Use a jogada de abertura como verificação final",
+      "body": [
+        "Depois que os pontos de referência coincidirem, verifique se a primeira jogada do guia está fisicamente disponível e serve ao propósito declarado. Na Fase 14, o trabalho de abertura fica na escada branca à direita, enquanto a peça central ciano permanece fixa.",
+        "Se a primeira jogada estiver bloqueada, apontar para uma cor diferente ou depender de uma saída que seu tabuleiro não tem, não force a sequência. Volte ao perfil do tabuleiro e procure outro layout."
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "Como Identificar Variações de Tabuleiro do Block Out",
+    "description": "Compare pontos de referência, saídas, contadores, plataforma e jogadas de abertura antes de usar um passo a passo no seu tabuleiro."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

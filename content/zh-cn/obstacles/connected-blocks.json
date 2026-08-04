@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "zh-cn-obstacle-connected-blocks",
+  "locale": "zh-cn",
+  "slug": "connected-blocks",
+  "title": "Connected Blocks：连动的方块作为一个整体移动",
+  "summary": "Connected Blocks 是连在一起的，所以移动其中一个就会带动它的搭档，从而改变你为两种颜色规划路线的方式。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Connected Blocks 障碍攻略",
+    "description": "了解 Block Out 的 Connected Blocks 如何将方块连在一起，以及如何将配对颜色引导到共享出口。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Connected Blocks 在 Block Out 395 版本中作为新的阻挡物加入游戏。",
+    "相连的方块会一起移动，因此对其中一个方块的移动也会影响其相连的搭档。",
+    "在清除条件将方块分离之前，连接会一直保持。"
+  ],
+  "strategyPoints": [
+    "在规划通道和出口时，把这对相连的方块当作一个整体单元。",
+    "寻找既能移除两色相连方块、又不会让某一色孤立的清除方式。",
+    "摆放这对方块时，确保它们的整体占地仍能留下一条可用路径。"
+  ],
+  "avoidPoints": [
+    "不要移动其中一个方块，就以为它的搭档会原地不动。",
+    "不要把两种颜色分进各自无法抵达出口的通道。",
+    "不要像对待普通的独立方块那样去规划连动关系。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

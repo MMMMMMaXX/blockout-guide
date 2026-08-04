@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "zh-cn-guide-connected-blocks-strategy",
+  "locale": "zh-cn",
+  "slug": "connected-blocks-strategy",
+  "title": "如何清除 Connected Blocks",
+  "summary": "把相连的一对方块当作一个整体，找到共享出口，并避免让某一色困在死路通道里。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "安全地清除 Block Out Connected Blocks",
+    "description": "把 Connected Blocks 当作整体来规划路线，找到共享出口并避开死路通道，从而安全清除。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "规划 Block Out 的 Connected Blocks 最稳妥的方式是什么？",
+  "sections": [
+    {
+      "heading": "把这对方块当作一个整体",
+      "body": [
+        "相连方块会一起移动，所以要同时规划两者的占位。",
+        "选择能容纳整体形状、又不会困住某一色的通道。"
+      ]
+    },
+    {
+      "heading": "以共享清除为目标",
+      "body": [
+        "寻找一种走子顺序，能同时移除两种相连的颜色。",
+        "如果共享出口无法实现，就先选能释放阻挡更严重的方块的顺序。"
+      ]
+    },
+    {
+      "heading": "避开死路通道",
+      "body": [
+        "绝不要把两种颜色分进只有一种能抵达出口的通道。",
+        "在连接解除之前，始终保持搭档的路径畅通。"
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

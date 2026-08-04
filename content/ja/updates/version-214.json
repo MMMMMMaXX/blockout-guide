@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-214",
+  "locale": "ja",
+  "slug": "version-214",
+  "title": "Block Out バージョン214：カラードグリッドブロッカー",
+  "summary": "2026年1月13日のアップデートでカラードグリッドブロッカーが導入され、UXの改善とともに新しいレベルが追加されました。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン214：カラードグリッド",
+    "description": "Block Out バージョン214の変更点を確認しましょう。カラードグリッドブロッカーや新しいレベルが含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "214",
+  "releasedAt": "2026-01-13",
+  "changes": [
+    "真の実力が試される新ブロッカー、カラードグリッドに挑め。",
+    "UXの改善。",
+    "新しいレベルに備えよう。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

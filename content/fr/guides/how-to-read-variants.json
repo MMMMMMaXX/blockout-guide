@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "fr-guide-how-to-read-variants",
+  "locale": "fr",
+  "slug": "how-to-read-variants",
+  "title": "Comment associer une variante de plateau Block Out",
+  "summary": "Confirmez les repères, les sorties, les compteurs et le contexte de la plateforme avant de suivre une solution, pour ne pas appliquer une bonne solution au mauvais agencement.",
+  "status": "published",
+  "question": "Comment savoir si une solution Block Out correspond au plateau de mon appareil ?",
+  "sections": [
+    {
+      "heading": "Commencez par les repères, pas par le numéro de niveau",
+      "body": [
+        "Un numéro de niveau n'est que la première clé de recherche. Comparez la plus grande pièce centrale, les valeurs des compteurs, les couleurs de sortie et l'agencement des bloqueurs de bord avant de jouer un coup.",
+        "Par exemple, le plateau du niveau 14 documenté comporte un 7 cyan au centre, un compteur 17 au-dessus, une échelle blanche à droite et des colonnes latérales jaunes. Si l'un de ces repères manque, arrêtez-vous et cherchez une autre variante."
+      ]
+    },
+    {
+      "heading": "Vérifiez le contexte de la plateforme et de la version",
+      "body": [
+        "Grand Games décrit Block Out comme un puzzle en évolution avec des agencements changeants, des Moving Elevators, des Block Generators et d'autres obstacles dynamiques. Un guide consigne donc la plateforme et la date à laquelle son plateau source a été vérifié.",
+        "Traitez un libellé de version comme un contexte et non comme une preuve en soi. Les repères visibles du plateau doivent toujours correspondre à votre appareil."
+      ]
+    },
+    {
+      "heading": "Utilisez le coup d'ouverture comme somme de contrôle finale",
+      "body": [
+        "Une fois les repères correspondants, vérifiez que le premier coup du guide est physiquement disponible et sert le but indiqué. Au niveau 14, le travail d'ouverture se fait sur l'échelle blanche de droite tandis que la pièce centrale cyan reste fixe.",
+        "Si le premier coup est bloqué, cible une couleur différente ou dépend d'une sortie absente de votre plateau, ne forcez pas la séquence. Revenez au profil du plateau et cherchez un autre agencement."
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "Associez les variantes de plateau de Block Out",
+    "description": "Comparez les repères, les sorties, les compteurs, la plateforme et les coups d'ouverture avant d'utiliser une solution Block Out sur votre plateau."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

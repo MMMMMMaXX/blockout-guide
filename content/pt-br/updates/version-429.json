@@ -1,0 +1,22 @@
+{
+  "kind": "update",
+  "id": "pt-br-update-version-429",
+  "locale": "pt-br",
+  "slug": "version-429",
+  "title": "Block Out Versão 429: novas fases",
+  "summary": "A atualização de 31 de julho de 2026 acrescentou novas fases com melhorias de UX e correções de bugs.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Notas da Atualização Block Out Versão 429",
+    "description": "Leia as mudanças da Versão 429 do Block Out: novas fases, melhorias de UX e correções de bugs."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "429",
+  "releasedAt": "2026-07-31",
+  "changes": ["Novas Fases.", "Melhorias de UX.", "Correções de bugs."],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

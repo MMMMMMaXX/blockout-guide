@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "pt-br-guide-connected-blocks-strategy",
+  "locale": "pt-br",
+  "slug": "connected-blocks-strategy",
+  "title": "Como limpar os Connected Blocks",
+  "summary": "Trate o par ligado como uma unidade, encontre uma saída comum e evite deixar uma cor presa em uma lane sem saída.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Limpe os Connected Blocks do Block Out com Segurança",
+    "description": "Roteie os Connected Blocks do Block Out tratando o par como uma unidade, buscando uma saída comum e evitando lanes sem saída."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Qual é a forma mais segura de rotear os Connected Blocks do Block Out?",
+  "sections": [
+    {
+      "heading": "Planeje o par como uma única peça",
+      "body": [
+        "Os blocos conectados se movem juntos, então mapeie ambas as áreas de ocupação de uma vez.",
+        "Escolha lanes que caibam o formato combinado sem prender uma cor."
+      ]
+    },
+    {
+      "heading": "Mire em uma limpeza conjunta",
+      "body": [
+        "Procure uma ordem de jogadas que remova ambas as cores ligadas.",
+        "Se uma saída comum for impossível, escolha a ordem que libera primeiro a peça mais bloqueadora."
+      ]
+    },
+    {
+      "heading": "Evite lanes sem saída",
+      "body": [
+        "Nunca separe as cores em lanes onde apenas uma pode alcançar uma saída.",
+        "Mantenha o caminho da parceira aberto até o elo se desfazer."
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

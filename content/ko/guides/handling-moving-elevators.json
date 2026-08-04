@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "ko-guide-handling-moving-elevators",
+  "locale": "ko",
+  "slug": "handling-moving-elevators",
+  "title": "Moving Elevators를 피해 경로 짜는 방법",
+  "summary": "엘리베이터 주기와 싸우는 대신 차선 이동을 계획하고, 돌아온 블록을 위해 여유 차선을 열어두세요.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Moving Elevators 피해 경로 짜기",
+    "description": "주기를 읽고 이동을 활용하며 여유 차선을 열어두는 방식으로 Block Out Moving Elevators 주변 경로를 계획하세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "엘리베이터가 블록을 차선 사이로 옮길 때 Block Out 경로를 어떻게 계획해야 하나요?",
+  "sections": [
+    {
+      "heading": "이동하기 전 주기를 읽으세요",
+      "body": [
+        "블록이 어느 차선으로 돌아오는지 알기 위해 엘리베이터 주기 하나를 온전히 지켜보세요.",
+        "이동 후에도 경로가 작동하는 블록만 놓으세요."
+      ]
+    },
+    {
+      "heading": "이동을 무료 수처럼 쓰세요",
+      "body": [
+        "주기가 분명히 도움이 될 때 막힌 색을 길게 우회하는 대신 엘리베이터에 싣세요.",
+        "블록이 원하는 곳에 내리도록 귀환 차선을 비워두세요."
+      ]
+    },
+    {
+      "heading": "여유 차선을 확보하세요",
+      "body": [
+        "항상 돌아온 블록이 착지할 차선 하나를 열어두세요.",
+        "여유 공간이 있으면 엘리베이터가 필요한 조각을 고립시키는 걸 막습니다."
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

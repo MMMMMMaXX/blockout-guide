@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "zh-cn-guide-duration-blocks-power",
+  "locale": "zh-cn",
+  "slug": "duration-blocks-power",
+  "title": "如何使用 Duration Block 技能",
+  "summary": "在限时技能最能帮上忙的那一刻清除 Duration Blocks，并紧接着安排好受支持的走子。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "善用 Block Out Duration Block 技能",
+    "description": "把握 Block Out Duration Block 的清除时机，让临时技能支持最困难的走子，而不浪费在简单步骤上。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "我应该何时清除 Duration Blocks 才能最大化其技能收益？",
+  "sections": [
+    {
+      "heading": "看信号再清除，而非看见就清",
+      "body": [
+        "技能是临时的，所以在后续走子真正需要它时再去清除 Duration Block。",
+        "清除得太早，效果会在困难部分到来前就白白浪费。"
+      ]
+    },
+    {
+      "heading": "排好受支持的走子",
+      "body": [
+        "在清除方块之前，先想好技能要支持的走子。",
+        "趁技能生效时，在清除之后立刻执行这些走子。"
+      ]
+    },
+    {
+      "heading": "别把技能浪费在简单走子上",
+      "body": [
+        "如果不用技能也能完成某一段，就把清除留到更吃紧的环节。",
+        "让技能去对上它真正解除的瓶颈。"
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

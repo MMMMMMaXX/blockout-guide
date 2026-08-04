@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "tr-guide-connected-blocks-strategy",
+  "locale": "tr",
+  "slug": "connected-blocks-strategy",
+  "title": "Connected Blocks nasıl temizlenir",
+  "summary": "Bağlı çifti tek bir birim olarak ele alın, ortak bir çıkış bulun ve bir rengi ölü bir şeritte bırakmaktan kaçının.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Connected Blocks'ı Güvenle Temizleyin",
+    "description": "Block Out Connected Blocks'ı, çifti tek birim olarak ele alıp ortak bir çıkış bularak ve ölü şeritlerden kaçınarak yönlendirin."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Block Out Connected Blocks'ı yönlendirmenin en güvenli yolu nedir?",
+  "sections": [
+    {
+      "heading": "Çifti tek bir parça gibi planlayın",
+      "body": [
+        "Bağlı bloklar birlikte hareket eder; bu yüzden her iki ayak izini aynı anda haritalayın.",
+        "Bir rengi tuzağa düşürmeden birleşik şekle uyan şeritler seçin."
+      ]
+    },
+    {
+      "heading": "Ortak bir temizliğe hedeflenin",
+      "body": [
+        "Her iki bağlı rengi de kaldıran tek bir hamle sırası arayın.",
+        "Ortak bir çıkış imkânsızsa, önce daha çok tıkanan parçayı serbest bırakan sırayı seçin."
+      ]
+    },
+    {
+      "heading": "Ölü şeritlerden kaçının",
+      "body": [
+        "Renkleri yalnızca birinin bir çıkışa ulaşabildiği şeritlere asla ayırmayın.",
+        "Bağ çözülene kadar eşin yolunu açık tutun."
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

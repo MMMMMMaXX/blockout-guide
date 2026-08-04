@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "ja-guide-duration-blocks-power",
+  "locale": "ja",
+  "slug": "duration-blocks-power",
+  "title": "デュレーションブロックのパワーの使い方",
+  "summary": "時間限定パワーが最も役立つ瞬間にデュレーションブロックを消去し、その直後にサポートする手順を続けましょう。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out デュレーションブロックのパワーを活かす",
+    "description": "Block Outのデュレーションブロックは、一時的なパワーが最も難しい手順を支え、易しい手順に無駄遣いされないよう消去のタイミングを合わせます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "デュレーションブロックは、パワーを最大限に活かすためにいつ消去すべき？",
+  "sections": [
+    {
+      "heading": "見えたらではなく、合図で消す",
+      "body": [
+        "パワーは一時的なため、次の手順が本当に必要としたときにデュレーションブロックを消しましょう。",
+        "消しすぎに早いと、難しい場面が来る前に効果が無駄になります。"
+      ]
+    },
+    {
+      "heading": "サポートする手順を待機させる",
+      "body": [
+        "ブロックを消す前に、パワーがサポートする手順を決めましょう。",
+        "パワーが働いている間に、消去の直後にそれらを実行しましょう。"
+      ]
+    },
+    {
+      "heading": "易しい手順に無駄遣いしない",
+      "body": [
+        "パワーなしでセクションを終えられるなら、消去はより厳しい場面のために取っておきましょう。",
+        "パワーは、それが解消するボトルネックに合わせましょう。"
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

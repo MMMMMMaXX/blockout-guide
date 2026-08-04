@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "zh-cn-guide-handling-moving-elevators",
+  "locale": "zh-cn",
+  "slug": "handling-moving-elevators",
+  "title": "如何绕开移动电梯规划路线",
+  "summary": "规划通道转移而非硬扛电梯周期，并为返回的方块保留一条缓冲通道。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "绕开 Block Out 移动电梯规划路线",
+    "description": "通过读懂周期、利用转移并保持缓冲通道畅通，来规划 Block Out 绕过移动电梯的路线。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "当电梯在通道间搬运我的方块时，该如何规划 Block Out 路线？",
+  "sections": [
+    {
+      "heading": "移动前先读懂周期",
+      "body": [
+        "观察一整轮电梯周期，弄清方块会返回到哪条通道。",
+        "只放下在转移之后路线仍然成立的方块。"
+      ]
+    },
+    {
+      "heading": "把转移当作免费的一步",
+      "body": [
+        "当周期明显有利时，把卡住的颜色装上电梯，而不是强行绕更长的手动路径。",
+        "保持返回通道畅通，让方块落在你想要的位置。"
+      ]
+    },
+    {
+      "heading": "留出缓冲通道",
+      "body": [
+        "始终保留一条通道，作为返回方块的落点。",
+        "缓冲能防止电梯把你仍需要的方块扔到无处可去。"
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

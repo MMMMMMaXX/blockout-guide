@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "es-update-version-245",
+  "locale": "es",
+  "slug": "version-245",
+  "title": "Block Out Versión 245: el bloqueador Grinder",
+  "summary": "La actualización del 2 de febrero de 2026 introdujo el bloqueador Grinder, añadió nuevos niveles y entregó mejoras de UX.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Versión 245: Grinder",
+    "description": "Lee los cambios documentados de Block Out Versión 245, incluido el bloqueador Grinder y los nuevos niveles."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "245",
+  "releasedAt": "2026-02-02",
+  "changes": [
+    "Conoce Grinder: el bloqueador más nuevo, listo para desafiarte.",
+    "Mejoras de UX.",
+    "Prepárate para nuevos niveles."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

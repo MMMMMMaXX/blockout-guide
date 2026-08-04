@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ja-obstacle-connected-blocks",
+  "locale": "ja",
+  "slug": "connected-blocks",
+  "title": "コネクテッドブロック：連動するピースは一体として動く",
+  "summary": "コネクテッドブロックは連動しているため、一方を動かすと相方も動き、どちらの色を誘導するかの考え方が変わります。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out コネクテッドブロック攻略ガイド",
+    "description": "Block Outのコネクテッドブロックがピースをどう連動させるかと、ペアの色を同じ出口へ誘導する方法を解説します。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "コネクテッドブロックは、Block Out バージョン395で新しいブロッカーとして登場しました。",
+    "連動したブロックは一緒に動くため、一方のピースを動かすと連動する相方にも影響します。",
+    "クリア条件によってピースが分離するまで、連動は維持されます。"
+  ],
+  "strategyPoints": [
+    "レーンや出口を計画するときは、連動するペアを1つのユニットとして扱いましょう。",
+    "一方を取り残さずに、両方の連動色を消せるクリアを探しましょう。",
+    "ペアを配置するときは、合わせた占有範囲でも使える経路が残るようにしましょう。"
+  ],
+  "avoidPoints": [
+    "一方のブロックを動かして、相方はそのままだと決め込んではいけません。",
+    "両方とも出口に到達できないレーンに、色を分けてはいけません。",
+    "通常の独立したブロックであるかのように、連動を無視して計画してはいけません。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

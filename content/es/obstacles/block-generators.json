@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "es-obstacle-block-generators",
+  "locale": "es",
+  "slug": "block-generators",
+  "title": "Generadores de bloques: el tablero sigue creciendo",
+  "summary": "Los generadores crean nuevos bloques con el tiempo, así que un tablero que parece despejado puede llenarse si solo reaccionas en lugar de eliminar.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guía del obstáculo Generadores de bloques",
+    "description": "Aprende cómo los generadores de bloques de Block Out añaden piezas con el tiempo y qué hábitos de eliminación evitan que se llene el tablero."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "Los generadores de bloques añaden nuevos bloques al tablero según un calendario, no de forma simultánea al inicio.",
+    "La ficha de la App Store menciona los generadores de bloques entre los obstáculos dinámicos del juego.",
+    "Cada bloque generado ocupa espacio del tablero que al final debes encaminar hacia una salida."
+  ],
+  "strategyPoints": [
+    "Elimina primero las piezas más antiguas y bloqueantes para que los generadores no acumulen espacio.",
+    "Mantén al menos un carril abierto como buffer para los bloques entrantes.",
+    "Prefiere rutas que eliminen el vecino de un generador antes de que llegue el siguiente spawn."
+  ],
+  "avoidPoints": [
+    "No esperes el movimiento perfecto mientras los generadores siguen añadiendo piezas.",
+    "No te encierres en una esquina donde los nuevos bloques no tengan a dónde ir.",
+    "No ignores un generador solo porque el tablero actual todavía se ve cómodo."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

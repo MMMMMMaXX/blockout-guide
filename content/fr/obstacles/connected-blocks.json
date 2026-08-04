@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "fr-obstacle-connected-blocks",
+  "locale": "fr",
+  "slug": "connected-blocks",
+  "title": "Connected Blocks : des pièces liées qui bougent ensemble",
+  "summary": "Les Connected Blocks sont liés : déplacer l'un décale son partenaire et modifie la façon dont vous acheminez chaque couleur.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out : guide de l'obstacle Connected Blocks",
+    "description": "Voyez comment les Connected Blocks de Block Out lient des pièces et comment acheminer les couleurs appariées vers une sortie commune."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Les Connected Blocks ont été introduits dans la Version 395 de Block Out comme nouveau bloqueur.",
+    "Les blocs liés se déplacent ensemble : un coup sur une pièce affecte aussi son partenaire lié.",
+    "Le lien persiste jusqu'à ce qu'une condition d'élimination sépare les pièces."
+  ],
+  "strategyPoints": [
+    "Considérez la paire liée comme une unité unique en planifiant les voies et les sorties.",
+    "Cherchez une élimination qui retire les deux couleurs liées sans en abandonner une.",
+    "Positionnez la paire pour que son empreinte combinée laisse encore un chemin praticable."
+  ],
+  "avoidPoints": [
+    "Ne déplacez pas un bloc en supposant que son partenaire reste immobile.",
+    "Ne séparez pas les couleurs dans des voies qui ne peuvent pas toutes deux atteindre une sortie.",
+    "Ne planifiez pas autour du lien comme s'il s'agissait d'un bloc indépendant normal."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ko-obstacle-duration-blocks",
+  "locale": "ko",
+  "slug": "duration-blocks",
+  "title": "Duration Blocks: 제한 시간 능력을 위해 제거하세요",
+  "summary": "Duration Blocks는 Version 318에서 도입되었으며, 제거하면 일정 시간 동안 지속되는 특별한 능력이 활성화됩니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Duration Blocks 장애물 가이드",
+    "description": "Block Out Duration Blocks를 제거하면 일시적 능력이 활성화되는 원리와 그 능력을 가장 유용하게 쓰는 타이밍을 알아보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Duration Blocks는 Block Out Version 318에 '제거하고 특별한 능력을 활성화하세요!'라는 설명과 함께 등장했습니다.",
+    "Duration Block을 제거하면 공간을 비우는 것 외에도 특별한 능력이 발동됩니다.",
+    "능력은 일시적이므로 제때 사용하지 않으면 효과가 사라집니다."
+  ],
+  "strategyPoints": [
+    "활성화된 능력이 다음 수에 직접 도움이 될 때 Duration Block 제거를 우선하세요.",
+    "제거 직후 그 능력이 받쳐줄 수들을 미리 준비해 두세요.",
+    "가장 어려운 구간에서 능력이 활성화되도록 제거 타이밍을 맞추세요."
+  ],
+  "avoidPoints": [
+    "필요해지기 전에 능력이 만료될 거라면 Duration Block을 미리 제거하지 마세요.",
+    "능력 없이도 할 수 있는 수에 능력을 낭비하지 마세요.",
+    "능력이 중요해지면 Duration Block을 평범한 방해물처럼 다루지 마세요."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

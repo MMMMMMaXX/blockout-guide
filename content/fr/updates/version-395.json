@@ -1,0 +1,28 @@
+{
+  "kind": "update",
+  "id": "fr-update-version-395",
+  "locale": "fr",
+  "slug": "version-395",
+  "title": "Block Out Version 395 : Connected Blocks et nouvelle interface",
+  "summary": "La mise à jour du 30 mars 2026 a lancé le bloqueur Connected Blocks, une nouvelle expérience d'interface et de nouveaux niveaux.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 395 : Connected Blocks",
+    "description": "Lisez les changements sourcés de la Version 395 de Block Out, incluant le bloqueur Connected Blocks et une nouvelle expérience d'interface."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "395",
+  "releasedAt": "2026-03-30",
+  "changes": [
+    "Profitez d'une toute nouvelle expérience d'interface excitante.",
+    "Découvrez le nouveau bloqueur : Connected Blocks — là pour rendre les niveaux encore plus excitants.",
+    "Nouveaux niveaux.",
+    "Améliorations UX.",
+    "Corrections de bugs."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["connected-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

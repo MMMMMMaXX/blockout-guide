@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "ko-update-version-680",
+  "locale": "ko",
+  "slug": "version-680",
+  "title": "Block Out Version 680: Florence 거리",
+  "summary": "2026년 7월 6일 업데이트에서 Florence 지역을 열고 새 레벨을 추가하며 버그 수정과 UX 개선을 제공했습니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 680: Florence Streets",
+    "description": "Florence 지역, 새 레벨, 버그 수정, UX 개선을 다룬 Block Out Version 680 변경 사항을 출처와 함께 읽어보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "680",
+  "releasedAt": "2026-07-06",
+  "changes": [
+    "새 지역을 탐험하세요: Florence의 매력적인 거리를 거닐어 보세요.",
+    "새로운 레벨이 기다립니다.",
+    "더 매끄러운 경험을 위한 버그 수정.",
+    "UX 개선."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

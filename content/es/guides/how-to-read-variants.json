@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "es-guide-how-to-read-variants",
+  "locale": "es",
+  "slug": "how-to-read-variants",
+  "title": "Cómo identificar una variante de tablero de Block Out",
+  "summary": "Confirma puntos de referencia, salidas, contadores y contexto de plataforma antes de seguir una guía para no aplicar una solución correcta al diseño equivocado.",
+  "status": "published",
+  "question": "¿Cómo puedo saber si una guía de Block Out coincide con el tablero de mi dispositivo?",
+  "sections": [
+    {
+      "heading": "Empieza por los puntos de referencia, no por el número de nivel",
+      "body": [
+        "Un número de nivel es solo la primera clave de búsqueda. Compara la pieza central más grande, los valores de los contadores, los colores de salida y la disposición de los bloqueadores de borde antes de hacer un movimiento.",
+        "Por ejemplo, el tablero documentado del Nivel 14 tiene un 7 cian en el centro, un contador 17 encima, una escalera blanca a la derecha y columnas laterales amarillas. Si falta alguno de esos anclas, detente y busca otra variante."
+      ]
+    },
+    {
+      "heading": "Comprueba el contexto de plataforma y versión",
+      "body": [
+        "Grand Games describe Block Out como un puzle en evolución con diseños cambiantes, elevadores móviles, generadores de bloques y otros obstáculos dinámicos. Por eso una guía registra la plataforma y la fecha en que se comprobó su tablero fuente.",
+        "Trata una etiqueta de versión como contexto, no como prueba por sí misma. Los puntos de referencia visibles del tablero deben seguir coincidiendo con tu dispositivo."
+      ]
+    },
+    {
+      "heading": "Usa el movimiento de apertura como checksum final",
+      "body": [
+        "Tras coincidir los puntos de referencia, verifica que el primer movimiento de la guía esté físicamente disponible y sirva al propósito indicado. En el Nivel 14, el trabajo de apertura corresponde a la escalera blanca derecha mientras la pieza central cian permanece fija.",
+        "Si el primer movimiento está bloqueado, apunta a un color distinto o depende de una salida que tu tablero no tiene, no fuerces la secuencia. Vuelve al perfil del tablero y busca otro diseño."
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "Cómo identificar variantes de tablero",
+    "description": "Compara puntos de referencia, salidas, contadores, plataforma y movimientos de apertura antes de usar una guía de Block Out en tu tablero."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

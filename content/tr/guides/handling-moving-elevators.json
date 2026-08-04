@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "tr-guide-handling-moving-elevators",
+  "locale": "tr",
+  "slug": "handling-moving-elevators",
+  "title": "Hareketli asansörlerin etrafında nasıl rota çizilir",
+  "summary": "Asansör döngüsüyle mücadele etmek yerine şerit aktarımlarını planlayın ve iade edilen bloklar için bir tampon şerit açık tutun.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Hareketli Asansörlerin Etrafında Rota",
+    "description": "Döngüyü okuyarak, aktarımları kullanarak ve bir tampon şeridi açık tutarak Block Out rotalarını hareketli asansörlerin etrafında planlayın."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Bloklarımı şeritler arasında asansörler taşıdığında Block Out rotasını nasıl planlamalıyım?",
+  "sections": [
+    {
+      "heading": "Hamle etmeden önce döngüyü okuyun",
+      "body": [
+        "Bir bloğun hangi şeride döndüğünü öğrenmek için bir tam asansör döngüsünü izleyin.",
+        "Yalnızca aktarımdan sonra da rotası çalışan blokları bağlayın."
+      ]
+    },
+    {
+      "heading": "Aktarımı ücretsiz bir hamle gibi kullanın",
+      "body": [
+        "Döngü açıkça yardımcı olduğunda, zorlu manuel bir yola zorlamak yerine sıkışmış bir rengi asansöre yükleyin.",
+        "Blok istediğiniz yere insin diye dönüş şeridini açık tutun."
+      ]
+    },
+    {
+      "heading": "Bir tampon şerit tutun",
+      "body": [
+        "İade edilen bloklar için her zaman bir şeridi iniş yeri olarak açık tutun.",
+        "Tampon, asansörün hâlâ ihtiyacınız olan bir parçayı ortada bırakmasını engeller."
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

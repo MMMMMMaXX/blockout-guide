@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "tr-update-version-245",
+  "locale": "tr",
+  "slug": "version-245",
+  "title": "Block Out Version 245: Öğütücü engelleyicisi",
+  "summary": "2 Şubat 2026 güncellemesi Öğütücü engelleyicisini tanıttı, yeni seviyeler ekledi ve UX iyileştirmeleri sundu.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 245: Öğütücü Engelleyici",
+    "description": "Kaynaklı Block Out Version 245 değişikliklerini, Öğütücü engelleyicisi ve yeni seviyeler dahil olmak üzere okuyun."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "245",
+  "releasedAt": "2026-02-02",
+  "changes": [
+    "Öğütücü ile tanışın - sizi zorlamaya hazır en yeni Engelleyici.",
+    "UX İyileştirmeleri.",
+    "Yeni seviyeler için hazır olun."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

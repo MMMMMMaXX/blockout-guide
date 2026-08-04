@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "ko-guide-duration-blocks-power",
+  "locale": "ko",
+  "slug": "duration-blocks-power",
+  "title": "Duration Block 능력을 사용하는 방법",
+  "summary": "Duration Blocks는 일시적 능력이 가장 도움이 될 때 제거하고, 바로 직후에 받쳐줄 수들을 미리 준비하세요.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Duration Block 능력 제대로 쓰기",
+    "description": "일시적 능력이 가장 어려운 수를 받치고 쉬운 수에는 낭비되지 않도록 Block Out Duration Block 제거 타이밍을 맞추세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Duration Blocks를 제거해 능력을 최대한 얻으려면 언제 제거해야 하나요?",
+  "sections": [
+    {
+      "heading": "보이는 대로가 아니라 신호에 맞춰 제거하세요",
+      "body": [
+        "능력은 일시적이므로 다음 수가 실제로 필요할 때 Duration Block을 제거하세요.",
+        "너무 일찍 제거하면 어려운 구간이 오기 전에 효과를 낭비합니다."
+      ]
+    },
+    {
+      "heading": "받쳐줄 수들을 미리 준비하세요",
+      "body": [
+        "블록을 제거하기 전에 그 능력이 도울 수들을 정하세요.",
+        "능력이 활성화된 동안 제거 직후 바로 실행하세요."
+      ]
+    },
+    {
+      "heading": "쉬운 수에 낭비하지 마세요",
+      "body": [
+        "능력 없이도 구간을 끝낼 수 있다면 더 타이트한 곳을 위해 제거를 아껴두세요.",
+        "능력이 제거하는 병목에 맞게 쓰세요."
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

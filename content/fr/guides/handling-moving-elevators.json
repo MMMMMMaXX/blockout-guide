@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "fr-guide-handling-moving-elevators",
+  "locale": "fr",
+  "slug": "handling-moving-elevators",
+  "title": "Comment contourner les Moving Elevators",
+  "summary": "Planifiez les transferts de voie plutôt que de lutter contre le cycle de l'ascenseur, et gardez une voie tampon ouverte pour les blocs retournés.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Contournez les Moving Elevators de Block Out",
+    "description": "Planifiez les itinéraires Block Out autour des Moving Elevators en lisant le cycle, en utilisant les transferts et en gardant une voie tampon."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Comment dois-je planifier un itinéraire Block Out quand les ascenseurs déplacent mes blocs entre les voies ?",
+  "sections": [
+    {
+      "heading": "Lisez le cycle avant de bouger",
+      "body": [
+        "Observez un cycle complet de l'ascenseur pour savoir dans quelle voie un bloc revient.",
+        "N'engagez que les blocs dont l'itinéraire fonctionne encore après le transfert."
+      ]
+    },
+    {
+      "heading": "Utilisez le transfert comme un coup gratuit",
+      "body": [
+        "Quand le cycle aide clairement, chargez une couleur bloquée dans l'ascenseur plutôt que de forcer un chemin manuel plus long.",
+        "Gardez la voie de retour dégagée pour que le bloc atterrisse où vous le souhaitez."
+      ]
+    },
+    {
+      "heading": "Gardez une voie tampon",
+      "body": [
+        "Gardez toujours une voie ouverte comme zone d'atterrissage pour les blocs retournés.",
+        "Un tampon évite que l'ascenseur ne bloque une pièce dont vous avez encore besoin."
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

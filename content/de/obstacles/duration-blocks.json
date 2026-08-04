@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "de-obstacle-duration-blocks",
+  "locale": "de",
+  "slug": "duration-blocks",
+  "title": "Duration Blocks: für eine zeitlich begrenzte Kraft freiräumen",
+  "summary": "Duration Blocks wurden in Version 318 eingeführt; das Abräumen aktiviert eine Sonderkraft, die begrenzte Zeit wirkt.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Duration Blocks Hindernis-Guide",
+    "description": "Erfahre, wie Block Out Duration Blocks beim Abräumen eine zeitlich begrenzte Kraft aktivieren und wann du diese am besten auslöst."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Duration Blocks kamen in Block Out Version 318 mit dem Hinweis „Räume sie ab und aktiviere ihre Sonderkraft!“.",
+    "Das Abräumen eines Duration-Blocks löst eine Sonderkraft aus, statt nur Platz freizugeben.",
+    "Die Kraft ist zeitlich begrenzt, weshalb ihr Nutzen verfällt, wenn du sie nicht rechtzeitig nutzt."
+  ],
+  "strategyPoints": [
+    "Räume Duration Blocks vorrangig ab, wenn die aktivierte Kraft die nächsten Züge direkt unterstützt.",
+    "Reihe die Züge, die du mit der Kraft unterstützen willst, direkt nach dem Abräumen ein.",
+    "Zeitige das Abräumen so, dass die Kraft während des schwersten Teils der Route aktiv ist."
+  ],
+  "avoidPoints": [
+    "Räume einen Duration-Block nicht zu früh ab, wenn seine Kraft verfällt, bevor du sie brauchst.",
+    "Verschwende die Kraft nicht an Züge, die du auch ohne sie schaffst.",
+    "Behandle Duration-Blocks nicht als gewöhnliche Blocker, sobald die Kraft zählt."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

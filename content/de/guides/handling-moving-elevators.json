@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "de-guide-handling-moving-elevators",
+  "locale": "de",
+  "slug": "handling-moving-elevators",
+  "title": "So umgehst du Moving Elevators",
+  "summary": "Plane Spur-Transfers statt gegen den Aufzugszyklus zu kämpfen, und halte eine Puffer-Spur für zurückkehrende Blöcke offen.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Moving Elevators umgehen",
+    "description": "Plane Block Out Routen um Moving Elevators herum, indem du den Zyklus liest, Transfers nutzt und eine Puffer-Spur offen hältst."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Wie sollte ich eine Block Out Route planen, wenn Aufzüge meine Blöcke zwischen Spuren bewegen?",
+  "sections": [
+    {
+      "heading": "Lies den Zyklus, bevor du ziehst",
+      "body": [
+        "Beobachte einen vollen Aufzugszyklus, um zu lernen, in welche Spur ein Block zurückkehrt.",
+        "Platziere nur Blöcke, deren Route nach dem Transfer noch funktioniert."
+      ]
+    },
+    {
+      "heading": "Nutze den Transfer als freien Zug",
+      "body": [
+        "Wenn der Zyklus klar hilft, lade eine feststeckende Farbe auf den Aufzug, statt einen längeren manuellen Pfad zu erzwingen.",
+        "Halte die Rückkehrspur frei, damit der Block dort landet, wo du ihn willst."
+      ]
+    },
+    {
+      "heading": "Halte eine Puffer-Spur",
+      "body": [
+        "Halte stets eine Spur offen als Landeplatz für zurückkehrende Blöcke.",
+        "Ein Puffer verhindert, dass der Aufzug ein Teil stranden lässt, das du noch brauchst."
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

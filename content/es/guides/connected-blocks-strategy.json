@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "es-guide-connected-blocks-strategy",
+  "locale": "es",
+  "slug": "connected-blocks-strategy",
+  "title": "Cómo eliminar los Connected Blocks",
+  "summary": "Trata al par enlazado como una unidad, busca una salida común y evita dejar un color atrapado en un carril muerto.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Elimina Connected Blocks con seguridad",
+    "description": "Encamina los Connected Blocks tratando al par como una unidad, buscando una salida común y evitando carriles muertos."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "¿Cuál es la forma más segura de encaminar los Connected Blocks de Block Out?",
+  "sections": [
+    {
+      "heading": "Planifica el par como una sola pieza",
+      "body": [
+        "Los bloques conectados se mueven juntos, así que mapea ambas huellas a la vez.",
+        "Elige carriles que encajen la forma combinada sin atrapar un color."
+      ]
+    },
+    {
+      "heading": "Apunta a una eliminación compartida",
+      "body": [
+        "Busca un orden de movimientos que quite ambos colores enlazados.",
+        "Si una salida común es imposible, elige el orden que libera primero la pieza más bloqueante."
+      ]
+    },
+    {
+      "heading": "Evita los carriles muertos",
+      "body": [
+        "Nunca separes los colores en carriles donde solo uno puede llegar a una salida.",
+        "Mantén abierta la ruta de la pareja hasta que se desactive el enlace."
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "pt-br-guide-duration-blocks-power",
+  "locale": "pt-br",
+  "slug": "duration-blocks-power",
+  "title": "Como usar o poder dos Duration Blocks",
+  "summary": "Limpe os Duration Blocks no momento em que seu poder temporizado ajuda mais, e enfileire as jogadas apoiadas logo em seguida.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Use Bem o Poder dos Duration Blocks no Block Out",
+    "description": "Cronometre as limpezas dos Duration Blocks para que o poder temporário apoie as jogadas mais difíceis e não seja desperdiçado."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Quando devo limpar os Duration Blocks para aproveitar ao máximo seu poder?",
+  "sections": [
+    {
+      "heading": "Limpe no sinal, não à vista",
+      "body": [
+        "O poder é temporário, então limpe o Duration Block quando as próximas jogadas realmente precisarem dele.",
+        "Limpar cedo demais desperdiça o efeito antes de chegar a parte difícil."
+      ]
+    },
+    {
+      "heading": "Enfileire as jogadas apoiadas",
+      "body": [
+        "Decida as jogadas que o poder apoiará antes de limpar o bloco.",
+        "Execute-as imediatamente após a limpeza, enquanto o poder estiver ativo."
+      ]
+    },
+    {
+      "heading": "Não desperdice em jogadas fáceis",
+      "body": [
+        "Se você conseguiria terminar uma seção sem o poder, guarde a limpeza para um momento mais crítico.",
+        "Combine o poder ao gargalo que ele remove."
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

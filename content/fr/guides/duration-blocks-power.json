@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "fr-guide-duration-blocks-power",
+  "locale": "fr",
+  "slug": "duration-blocks-power",
+  "title": "Comment utiliser le pouvoir des Duration Blocks",
+  "summary": "Éliminez les Duration Blocks au moment où leur pouvoir temporisé est le plus utile, puis enchaînez les coups soutenus juste après.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Utilisez bien le pouvoir des Duration Blocks de Block Out",
+    "description": "Calibrez les éliminations de Duration Blocks pour que le pouvoir temporaire soutienne les coups les plus durs et ne soit pas gaspillé sur les faciles."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Quand dois-je éliminer les Duration Blocks pour tirer le meilleur parti de leur pouvoir ?",
+  "sections": [
+    {
+      "heading": "Éliminez sur signal, pas à vue",
+      "body": [
+        "Le pouvoir est temporaire : éliminez le Duration Block quand les coups suivants en ont réellement besoin.",
+        "Éliminer trop tôt gaspille l'effet avant l'arrivée de la partie difficile."
+      ]
+    },
+    {
+      "heading": "Enchaînez les coups soutenus",
+      "body": [
+        "Décidez des coups que le pouvoir soutiendra avant d'éliminer le bloc.",
+        "Exécutez-les immédiatement après l'élimination tant que le pouvoir est actif."
+      ]
+    },
+    {
+      "heading": "Ne le gaspillez pas sur des coups faciles",
+      "body": [
+        "Si vous pouvez terminer une section sans le pouvoir, gardez l'élimination pour un passage plus serré.",
+        "Associez le pouvoir au goulot d'étranglement qu'il supprime."
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

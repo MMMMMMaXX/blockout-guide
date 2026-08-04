@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ko-obstacle-block-generators",
+  "locale": "ko",
+  "slug": "block-generators",
+  "title": "블록 생성기: 보드가 계속 커집니다",
+  "summary": "생성기는 일정 주기로 새 블록을 만들어 내므로, 제거하지 않고 그저 반응만 하면 한가로워 보이던 보드도 금세 꽉 찰 수 있습니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 블록 생성기 장애물 가이드",
+    "description": "Block Out 블록 생성기가 시간에 따라 조각을 추가하는 방식과 보드가 꽉 차지 않게 막는 제거 습관을 알아보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "블록 생성기는 처음부터 모두 놓는 게 아니라 일정한 주기에 맞춰 보드에 새 블록을 추가합니다.",
+    "App Store 등록 정보에는 블록 생성기가 게임의 동적 장애물 중 하나로 언급되어 있습니다.",
+    "생성된 각 블록은 결국 출구로 보내야 할 보드 공간을 차지합니다."
+  ],
+  "strategyPoints": [
+    "생성기가 공간을 쌓아두지 않도록 가장 오래됐고 가장 막히는 조각을 먼저 제거하세요.",
+    "들어오는 블록을 위한 여유 공간으로 통로 하나 이상을 비워두세요.",
+    "다음 생성 블록이 내려오기 전에 생성기와 인접한 블록을 먼저 제거하는 경로를 선호하세요."
+  ],
+  "avoidPoints": [
+    "생성기가 계속 블록을 추가하는 동안 완벽한 한 수를 기다리지 마세요.",
+    "새 블록이 갈 곳이 없는 구석으로 스스로를 몰아넣지 마세요.",
+    "지금 보드가 아직 편해 보인다고 해서 생성기를 무시하지 마세요."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

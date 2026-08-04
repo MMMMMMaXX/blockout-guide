@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "zh-cn-booster-time-freeze",
+  "locale": "zh-cn",
+  "slug": "time-freeze",
+  "title": "Clock 增益：何时让时间停止有帮助",
+  "summary": "Clock 会停止关卡计时器，这对手感要求高的尝试有帮助，但无法修复被堵死的路线或错配的棋盘。",
+  "status": "published",
+  "effect": "Clock 增益会停止当前关卡的计时器；这一行为由玩家在官方 App Store 页面上描述。",
+  "useWhen": [
+    "你已经知道正确的方块顺序，但需要更多操作时间来完成它。",
+    "剩余路线都是畅通的，且唯一的即时失败风险来自倒计时而非棋盘空间。",
+    "某次重玩总能到达同一个可解的最终阶段，却只剩太少时间。"
+  ],
+  "avoidWhen": [
+    "开局棋盘与攻略不符，或者你还没确认正确的出口。",
+    "方块已被错误的顺序锁死；停止时间并不会创造棋盘空间。",
+    "你仍在尝试摸索开局，无法说明这些额外时间能带来哪些走子。"
+  ],
+  "decisionChecks": [
+    "确认棋盘变体和计划好的走子顺序。",
+    "区分是时间问题还是路线问题。",
+    "只有在剩余顺序已知且物理上畅通时，才使用 Clock。",
+    "当棋盘已经软锁时，改为重新开始。"
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Clock 与 Time Freeze 增益攻略",
+    "description": "判断 Block Out 的 Clock 增益何时能解决时间问题，又在路线被堵时让 Time Freeze 沦为浪费。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "ja-guide-handling-moving-elevators",
+  "locale": "ja",
+  "slug": "handling-moving-elevators",
+  "title": "ムービングエレベーターを避けてどう誘導するか",
+  "summary": "エレベーターの周期と戦うのではなく転送を計画し、戻ってきたブロックのためにバッファーレーンを空けておきましょう。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out ムービングエレベーターを避けて誘導",
+    "description": "Block Outのムービングエレベーターは、周期を読み、転送を使い、バッファーレーンを空けておくことでルートを計画します。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "エレベーターがブロックをレーン間で動かすとき、Block Outのルートをどう計画すべき？",
+  "sections": [
+    {
+      "heading": "動かす前に周期を読む",
+      "body": [
+        "ブロックがどのレーンに戻るかを知るため、エレベーターの1周期を全体を観察しましょう。",
+        "転送後もルートが成り立つブロックだけを配置しましょう。"
+      ]
+    },
+    {
+      "heading": "転送をフリーの一手として使う",
+      "body": [
+        "周期が明らかに助かるときは、長い手動経路を無理に作る代わりに、行き詰まった色をエレベーターに載せましょう。",
+        "ブロックが望む場所に着地するよう、戻り先のレーンを空けておきましょう。"
+      ]
+    },
+    {
+      "heading": "バッファーレーンを確保する",
+      "body": [
+        "常に1つのレーンを空け、戻ってきたブロックの着地場所にしましょう。",
+        "バッファーがあれば、まだ必要なピースがエレベーターに取り残されるのを防げます。"
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

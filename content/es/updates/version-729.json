@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "es-update-version-729",
+  "locale": "es",
+  "slug": "version-729",
+  "title": "Block Out Versión 729: Ivy y nuevos niveles",
+  "summary": "El lanzamiento iOS del 20 de julio de 2026 añadió el área del taller de Mona Lisa, introdujo puertas cubiertas por Ivy y entregó nuevos niveles con correcciones y mejoras de UX.",
+  "status": "published",
+  "version": "729",
+  "releasedAt": "2026-07-20",
+  "changes": [
+    "Añadido un área de taller tras la Mona Lisa.",
+    "Introducido Ivy, un obstáculo que se elimina quitando bloques para revelar puertas cubiertas.",
+    "Añadidos nuevos niveles.",
+    "Incluidas correcciones de errores y mejoras de experiencia de usuario."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["ivy"],
+  "impactCheckedAt": "2026-08-03",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Versión 729: Ivy y nuevos niveles",
+    "description": "Lee los cambios documentados de Block Out Versión 729, incluido el obstáculo Ivy, el taller de Mona Lisa, nuevos niveles y correcciones."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

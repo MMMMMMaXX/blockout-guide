@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "ja-guide-connected-blocks-strategy",
+  "locale": "ja",
+  "slug": "connected-blocks-strategy",
+  "title": "コネクテッドブロックの消し方",
+  "summary": "連動するペアを1つのユニットとして扱い、共通の出口を見つけ、一方の色を行き止まりのレーンに取り残さないようにしましょう。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out コネクテッドブロックを安全に消す",
+    "description": "Block Outのコネクテッドブロックは、ペアを1つのユニットとして扱い、共通の出口を見つけ、行き止まりのレーンを避けて誘導します。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Block Outのコネクテッドブロックを誘導する最も安全な方法は？",
+  "sections": [
+    {
+      "heading": "ペアを1つのピースとして計画する",
+      "body": [
+        "コネクテッドブロックは一緒に動くため、両方の占有範囲を一度に把握しましょう。",
+        "色を閉じ込めずに、合わせた形状に合うレーンを選びましょう。"
+      ]
+    },
+    {
+      "heading": "共通のクリアを目指す",
+      "body": [
+        "両方の連動色を消せる、1つの手順の順序を探しましょう。",
+        "共通の出口が無理なら、より邪魔なピースを先に解放する順序を選びましょう。"
+      ]
+    },
+    {
+      "heading": "行き止まりのレーンを避ける",
+      "body": [
+        "出口に到達できるのが一方だけのレーンに、色を決して分けてはいけません。",
+        "連動が解けるまで、相方の経路を開いたままにしておきましょう。"
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

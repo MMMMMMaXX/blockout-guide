@@ -1,0 +1,28 @@
+{
+  "kind": "update",
+  "id": "ko-update-version-573",
+  "locale": "ko",
+  "slug": "version-573",
+  "title": "Block Out Version 573: Color Shutter",
+  "summary": "2026년 5월 25일 업데이트에서 Color Shutter 장애물을 도입하고 새 레벨을 추가하며 수정과 UX 개선을 제공했습니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 573: Color Shutter",
+    "description": "Color Shutter 장애물, 새 레벨, 수정을 포함한 Block Out Version 573 변경 사항을 출처와 함께 읽어보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "573",
+  "releasedAt": "2026-05-25",
+  "changes": [
+    "새 장애물: Color Shutter — 당신의 모험에 활기를 더할 화려한 새 도전이 준비됐습니다.",
+    "새로운 레벨이 기다립니다.",
+    "새로운 Journey로 모험을 계속하세요.",
+    "더 매끄러운 경험을 위한 버그 수정.",
+    "UX 개선."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["color-shutter"],
+  "impactCheckedAt": "2026-08-03"
+}

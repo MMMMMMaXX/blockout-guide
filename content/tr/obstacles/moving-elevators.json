@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "tr-obstacle-moving-elevators",
+  "locale": "tr",
+  "slug": "moving-elevators",
+  "title": "Hareketli asansörler: blok aktarımlarını şeritler arasında zamanlayın",
+  "summary": "Asansörler blokları bir döngü halinde şeritler arasında taşır; bu yüzden bir parça kaldırılır kaldırmaz açık bir rota kapanabilir.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Hareketli Asansörler Engel Rehberi",
+    "description": "Block Out hareketli asansörlerinin blokları şeritler arasında nasıl taşıdığını ve bu aktarımı rotanızda ne zaman kullanacağınızı anlayın."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Hareketli asansörler blokları tekrarlayan bir döngüyle bir şeritten diğerine kaydırır.",
+    "Asansöre yüklenen bir blok mevcut şeridinden ayrılır ve döngü tamamlandıktan sonra farklı bir şeritte geri döner.",
+    "App Store listesi, Block Out asansörlerini parçaları şeritler arasında taşıyan öğeler olarak tanımlar."
+  ],
+  "strategyPoints": [
+    "Şeridinde kalmasına bağlı bir bloğu bağlamadan önce asansör döngüsünü izleyin.",
+    "Sıkışmış bir rengi zorlu manuel bir rotaya zorlamak yerine, aktarımı kullanarak çıkışına doğru taşıyın.",
+    "Sonraki döngü planlanan sıraya açıkça yardımcı olduğunda blokları asansör yakınına yerleştirin."
+  ],
+  "avoidPoints": [
+    "Bir asansör döngüsü başladığında bloğun koyduğunuz yerde kaldığını varsaymayın.",
+    "Aktarım onu ortada bırakacaksa hâlâ şeridine ihtiyacınız olan bir rengi yüklemeyin.",
+    "Dönüş şeridini kontrol etmeden tüm rotayı tek bir döngüye göre planlamayın."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "de-guide-duration-blocks-power",
+  "locale": "de",
+  "slug": "duration-blocks-power",
+  "title": "So nutzt du die Duration-Block-Kraft",
+  "summary": "Räume Duration-Blocks genau dann ab, wenn ihre zeitlich begrenzte Kraft am meisten hilft, und reihe die unterstützten Züge direkt danach ein.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Duration-Block-Kraft gut nutzen",
+    "description": "Zeitige Block Out Duration-Block-Abräumungen so, dass die temporäre Kraft die schwersten Züge stützt und nicht an leichten verschwendet wird."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Wann sollte ich Duration-Blocks abräumen, um das meiste aus ihrer Kraft zu holen?",
+  "sections": [
+    {
+      "heading": "Räume auf Signal, nicht auf Sicht",
+      "body": [
+        "Die Kraft ist zeitlich begrenzt, räume den Duration-Block also ab, wenn die nächsten Züge sie wirklich brauchen.",
+        "Zu frühes Abräumen verschwendet den Effekt, bevor der schwere Teil erreicht ist."
+      ]
+    },
+    {
+      "heading": "Reihe die unterstützten Züge ein",
+      "body": [
+        "Entscheide vor dem Abräumen des Blocks, welche Züge die Kraft unterstützen wird.",
+        "Führe sie unmittelbar nach dem Abräumen aus, während die Kraft aktiv ist."
+      ]
+    },
+    {
+      "heading": "Verschwende sie nicht an leichten Zügen",
+      "body": [
+        "Könntest du einen Abschnitt ohne die Kraft beenden, spare das Abräumen für eine engere Stelle auf.",
+        "Ordne die Kraft dem Engpass zu, den sie beseitigt."
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

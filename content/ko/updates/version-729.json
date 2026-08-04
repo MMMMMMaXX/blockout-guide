@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "ko-update-version-729",
+  "locale": "ko",
+  "slug": "version-729",
+  "title": "Block Out Version 729: Ivy 및 새 레벨",
+  "summary": "2026년 7월 20일 iOS 출시에서 Mona Lisa 작업실 지역을 추가하고 Ivy로 덮인 문을 도입했으며, 수정과 UX 개선과 함께 새 레벨을 제공했습니다.",
+  "status": "published",
+  "version": "729",
+  "releasedAt": "2026-07-20",
+  "changes": [
+    "Mona Lisa 뒤에 작업실 지역을 추가했습니다.",
+    "Ivy를 도입했습니다. 블록을 제거해 가려진 문을 드러내는 장애물입니다.",
+    "새 레벨을 추가했습니다.",
+    "버그 수정과 사용자 경험 개선을 포함했습니다."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["ivy"],
+  "impactCheckedAt": "2026-08-03",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 729 업데이트: Ivy 및 새 레벨",
+    "description": "Ivy 장애물, Mona Lisa 작업실 지역, 새 레벨, 수정을 포함한 Block Out Version 729 변경 사항을 출처와 함께 읽어보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-214",
+  "locale": "zh-cn",
+  "slug": "version-214",
+  "title": "Block Out 214 版本：Colored Grid 阻挡物",
+  "summary": "2026 年 1 月 13 日的更新引入了 Colored Grid 阻挡物，并新增了带 UX 改进的新关卡。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 214 版本：Colored Grid",
+    "description": "阅读有出处的 Block Out 214 版本改动，包括 Colored Grid 阻挡物以及新增关卡。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "214",
+  "releasedAt": "2026-01-13",
+  "changes": [
+    "来认识新的阻挡物 Colored Grid，它将真正检验你的技巧。",
+    "UX 改进。",
+    "准备好迎接新关卡。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

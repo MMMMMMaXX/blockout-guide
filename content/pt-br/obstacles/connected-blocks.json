@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "pt-br-obstacle-connected-blocks",
+  "locale": "pt-br",
+  "slug": "connected-blocks",
+  "title": "Connected Blocks: peças ligadas se movem em conjunto",
+  "summary": "Os Connected Blocks estão ligados, então mover um desloca o parceiro e muda como você encaminha qualquer uma das cores.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guia do Obstáculo Connected Blocks no Block Out",
+    "description": "Veja como os Connected Blocks do Block Out ligam peças e como encaminhar as cores pareadas para uma saída comum."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Os Connected Blocks foram introduzidos na Versão 395 do Block Out como um novo bloqueador.",
+    "Blocos ligados se movem juntos, então um movimento em uma peça também afeta sua parceira conectada.",
+    "A conexão se mantém até que uma condição de limpeza separe as peças."
+  ],
+  "strategyPoints": [
+    "Trate o par conectado como uma única unidade ao planejar lanes e saídas.",
+    "Procure uma limpeza que remova ambas as cores ligadas sem deixar uma presa.",
+    "Posicione o par para que sua área combinada ainda deixe um caminho utilizável."
+  ],
+  "avoidPoints": [
+    "Não mova um bloco e presuma que sua parceira permanecerá no lugar.",
+    "Não separe as cores em lanes que não consigam alcançar uma saída.",
+    "Não planeje em torno do elo como se fosse um bloco independente normal."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

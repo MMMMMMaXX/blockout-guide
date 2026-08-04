@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "fr-obstacle-color-shutter",
+  "locale": "fr",
+  "slug": "color-shutter",
+  "title": "Color Shutter : un obstacle conditionné par la couleur",
+  "summary": "Color Shutter est un obstacle conditionné par la couleur, introduit dans la Version 573, qui ouvre ou bloque des passages selon des conditions de couleur.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out : guide de l'obstacle Color Shutter",
+    "description": "Comprenez l'obstacle Color Shutter de Block Out et comment satisfaire sa condition de couleur avant l'ouverture de la voie verrouillée."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter a été ajouté dans la Version 573 de Block Out comme un nouveau défi coloré.",
+    "L'état du volet dépend des conditions de couleur sur le plateau, ouvrant ou fermant un passage.",
+    "Vous devez satisfaire la condition de couleur avant que la voie verrouillée ne devienne utilisable."
+  ],
+  "strategyPoints": [
+    "Identifiez la couleur attendue par le volet avant d'engager des blocs à proximité.",
+    "Éliminez d'abord la couleur requise pour que le passage s'ouvre lors des coups suivants.",
+    "Revérifiez le volet après chaque élimination, car son état peut changer."
+  ],
+  "avoidPoints": [
+    "N'envoyez pas de blocs à travers un volet dont la condition de couleur n'est pas remplie.",
+    "Ne supposez pas que le volet reste ouvert après une utilisation si la condition se réinitialise.",
+    "Ne bloquez pas la couleur dont le volet a besoin avec des pièces que vous ne pouvez pas déplacer."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

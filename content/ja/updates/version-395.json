@@ -1,0 +1,28 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-395",
+  "locale": "ja",
+  "slug": "version-395",
+  "title": "Block Out バージョン395：コネクテッドブロックと新UI",
+  "summary": "2026年3月30日のアップデートでコネクテッドブロックブロッカーが初登場し、新しいUI体験と新しいレベルが追加されました。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン395：コネクテッドブロック",
+    "description": "Block Out バージョン395の変更点を確認しましょう。コネクテッドブロックブロッカーや新しいUI体験が含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "395",
+  "releasedAt": "2026-03-30",
+  "changes": [
+    "真新しくエキサイティングなUI体験をお楽しみください。",
+    "新ブロッカー、コネクテッドブロック登場。レベルをさらにエキサイティングにします。",
+    "新しいレベル。",
+    "UXの改善。",
+    "バグ修正。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["connected-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

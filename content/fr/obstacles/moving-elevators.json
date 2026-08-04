@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "fr-obstacle-moving-elevators",
+  "locale": "fr",
+  "slug": "moving-elevators",
+  "title": "Moving Elevators : synchronisez les transferts de blocs entre voies",
+  "summary": "Les ascenseurs transportent des blocs entre les voies selon un cycle ; une voie dégagée peut donc se fermer dès qu'une pièce est soulevée.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out : guide des Moving Elevators",
+    "description": "Comprenez comment les Moving Elevators de Block Out déplacent les blocs entre les voies et quand utiliser le transfert dans votre itinéraire."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Les Moving Elevators déplacent des blocs d'une voie à une autre selon un cycle répétitif.",
+    "Un bloc chargé dans un ascenseur quitte sa voie actuelle et revient dans une autre voie une fois le cycle terminé.",
+    "La fiche App Store décrit les ascenseurs de Block Out comme des éléments transportant des pièces entre les voies."
+  ],
+  "strategyPoints": [
+    "Observez le cycle de l'ascenseur avant d'engager un bloc qui doit rester dans sa voie.",
+    "Utilisez le transfert pour rapprocher une couleur bloquée de sa sortie plutôt que de forcer un itinéraire manuel plus long.",
+    "Placez des blocs près de l'ascenseur quand le prochain cycle aide clairement l'ordre prévu."
+  ],
+  "avoidPoints": [
+    "Ne supposez pas qu'un bloc reste où vous l'avez placé une fois le cycle lancé.",
+    "Ne chargez pas une couleur dont vous avez encore besoin dans sa voie si le transfert la bloquerait.",
+    "Ne planifiez pas tout l'itinéraire autour d'un seul cycle sans vérifier la voie de retour."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

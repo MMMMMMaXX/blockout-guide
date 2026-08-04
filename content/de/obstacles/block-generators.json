@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "de-obstacle-block-generators",
+  "locale": "de",
+  "slug": "block-generators",
+  "title": "Block-Generatoren: das Spielfeld wächst stetig",
+  "summary": "Generatoren erzeugen mit der Zeit neue Blöcke, weshalb ein frei wirkendes Feld volllaufen kann, wenn du nur reagierst, statt abzuräumen.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Block-Generatoren Hindernis-Guide",
+    "description": "Erfahre, wie Block Out Block-Generatoren mit der Zeit Teile hinzufügen und welche Abräum-Gewohnheiten das Feld vor dem Vollaufen bewahren."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "Block-Generatoren fügen dem Spielfeld nach einem Zeitplan neue Blöcke hinzu, nicht alle auf einmal zu Beginn.",
+    "Der App-Store-Eintrag nennt Block-Generatoren unter den dynamischen Hindernissen des Spiels.",
+    "Jeder erzeugte Block belegt Spielfeldplatz, den du letztlich zu einem Ausgang umleiten musst."
+  ],
+  "strategyPoints": [
+    "Räume zuerst die ältesten, am stärksten blockierenden Teile ab, damit Generatoren keinen Platz anhäufen.",
+    "Halte mindestens eine Spur offen als Puffer für eintreffende Blöcke.",
+    "Bevorzuge Routen, die zuerst einen Nachbarn des Generators entfernen, bevor der nächste Block erscheint."
+  ],
+  "avoidPoints": [
+    "Warte nicht auf den perfekten Zug, während Generatoren weiter Teile hinzufügen.",
+    "Bringe dich nicht in eine Ecke, in der neue Blöcke keinen sinnvollen Platz haben.",
+    "Ignoriere einen Generator nicht nur, weil das aktuelle Feld noch entspannt wirkt."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

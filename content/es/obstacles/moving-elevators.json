@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "es-obstacle-moving-elevators",
+  "locale": "es",
+  "slug": "moving-elevators",
+  "title": "Moving Elevators: transfiere bloques entre carriles con tiempo",
+  "summary": "Los elevadores llevan bloques entre carriles en un ciclo, así que una ruta libre puede cerrarse en el momento en que una pieza se eleva.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guía del obstáculo Moving Elevators",
+    "description": "Comprende cómo los elevadores móviles de Block Out mueven bloques entre carriles y cuándo usar la transferencia en tu ruta."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Los elevadores móviles desplazan bloques de un carril a otro en un ciclo repetitivo.",
+    "Un bloque cargado en un elevador abandona su carril actual y regresa en un carril distinto al completar el ciclo.",
+    "La ficha de la App Store describe los elevadores de Block Out como elementos que transportan piezas entre carriles."
+  ],
+  "strategyPoints": [
+    "Observa el ciclo del elevador antes de comprometer un bloque que dependa de permanecer en su carril.",
+    "Usa la transferencia para acercar un color atascado a su salida en lugar de forzar una ruta manual más larga.",
+    "Coloca bloques cerca del elevador cuando el siguiente ciclo ayude claramente al orden planeado."
+  ],
+  "avoidPoints": [
+    "No asumas que un bloque permanece donde lo colocaste una vez iniciado el ciclo del elevador.",
+    "No cargues un color que todavía necesitas en su carril si la transferencia lo dejaría atrapado.",
+    "No planees toda la ruta en torno a un ciclo sin comprobar el carril de retorno."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

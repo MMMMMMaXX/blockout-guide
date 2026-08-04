@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-318",
+  "locale": "zh-cn",
+  "slug": "version-318",
+  "title": "Block Out 318 版本：Duration Blocks",
+  "summary": "2026 年 3 月 2 日的更新引入了 Duration Blocks，清除它会激活一项特殊技能，并新增了关卡。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 318 版本：Duration Blocks",
+    "description": "阅读有出处的 Block Out 318 版本改动，包括清除即可激活特殊技能的 Duration Blocks。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "318",
+  "releasedAt": "2026-03-02",
+  "changes": [
+    "隆重推出 Duration Blocks！清除它们，激活它们的特殊技能。",
+    "新关卡。",
+    "Bug 修复与 UX 改进。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["duration-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

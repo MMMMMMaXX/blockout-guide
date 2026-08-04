@@ -1,0 +1,28 @@
+{
+  "kind": "update",
+  "id": "ru-update-version-573",
+  "locale": "ru",
+  "slug": "version-573",
+  "title": "Block Out версии 573: Color Shutter",
+  "summary": "Обновление от 25 мая 2026 года добавило препятствие Color Shutter и новые уровни с исправлениями и улучшениями UX.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out версии 573: Color Shutter",
+    "description": "Читайте проверенные изменения Block Out версии 573, включая препятствие Color Shutter, новые уровни и исправления."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "573",
+  "releasedAt": "2026-05-25",
+  "changes": [
+    "Новое препятствие: Color Shutter — яркое новое испытание готово разнообразить ваше приключение.",
+    "Совершенно новые уровни ждут вас.",
+    "Продолжайте своё приключение с новым Journey.",
+    "Исправления ошибок ради более плавного опыта.",
+    "Улучшения UX."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["color-shutter"],
+  "impactCheckedAt": "2026-08-03"
+}

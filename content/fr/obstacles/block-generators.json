@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "fr-obstacle-block-generators",
+  "locale": "fr",
+  "slug": "block-generators",
+  "title": "Block Generators : le plateau ne cesse de s'agrandir",
+  "summary": "Les générateurs produisent de nouveaux blocs au fil du temps ; un plateau qui semble dégagé peut donc se remplir si vous vous contentez de réagir au lieu d'éliminer.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guide des Block Generators dans Block Out",
+    "description": "Voyez comment les Block Generators de Block Out ajoutent des pièces au fil du temps et quelles habitudes d'élimination empêchent le plateau de se remplir."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "Les Block Generators ajoutent de nouveaux blocs au plateau selon un calendrier, et non pas tous au départ.",
+    "La fiche App Store cite les Block Generators parmi les obstacles dynamiques du jeu.",
+    "Chaque bloc généré occupe une place sur le plateau que vous devrez finalement acheminer vers une sortie."
+  ],
+  "strategyPoints": [
+    "Éliminez d'abord les pièces les plus anciennes et les plus bloquantes pour éviter que les générateurs n'accumulent de l'espace.",
+    "Gardez au moins une voie libre comme tampon pour les blocs entrants.",
+    "Privilégiez les itinéraires qui éliminent le voisin d'un générateur avant l'arrivée du prochain bloc."
+  ],
+  "avoidPoints": [
+    "N'attendez pas le coup parfait pendant que les générateurs continuent d'ajouter des pièces.",
+    "Ne vous enfermez pas dans un coin où les nouveaux blocs n'ont nulle part où aller.",
+    "N'ignorez pas un générateur simplement parce que le plateau actuel semble encore confortable."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

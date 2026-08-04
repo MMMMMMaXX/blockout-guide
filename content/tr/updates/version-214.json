@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "tr-update-version-214",
+  "locale": "tr",
+  "slug": "version-214",
+  "title": "Block Out Version 214: Renkli Izgara engelleyicisi",
+  "summary": "13 Ocak 2026 güncellemesi Renkli Izgara engelleyicisini tanıttı ve UX iyileştirmeleriyle yeni seviyeler ekledi.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 214: Renkli Izgara",
+    "description": "Kaynaklı Block Out Version 214 değişikliklerini, Renkli Izgara engelleyicisi ve yeni seviyeler dahil olmak üzere okuyun."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "214",
+  "releasedAt": "2026-01-13",
+  "changes": [
+    "Becerilerinizi gerçekten test edecek yeni Engelleyici Renkli Izgara ile tanışın.",
+    "UX İyileştirmeleri.",
+    "Yeni seviyeler için hazır olun."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "de-obstacle-ivy",
+  "locale": "de",
+  "slug": "ivy",
+  "title": "Ivy-Hindernis: verdeckte Türen freilegen",
+  "summary": "Ivy bedeckt Ausgangstüren, bis Block-Abräumen sie zurückstutzt, weshalb Routing-Entscheidungen Ausgänge einbeziehen müssen, die anfangs nicht verfügbar sind.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy bedeckt Türen und verhindert, dass diese Ausgänge als offene Routen gelten.",
+    "Das Abräumen von Blöcken stutzt das Ivy zurück und legt die verdeckten Türen frei.",
+    "Grand Games führte Ivy in den iOS-Versionshinweisen 729 vom 20. Juli 2026 ein."
+  ],
+  "strategyPoints": [
+    "Bestimme vorab, welche Farben von verdeckten Türen abhängen, bevor du Blöcke in enge Halte-Spuren gibst.",
+    "Bevorzuge frühes Abräumen, das sowohl einen Block entfernt als auch den Zugang zu einer benötigten, von Ivy bedeckten Tür erschließt.",
+    "Bewerte die Route neu, sobald jede Tür erscheint; die sicherste Spur kann sich nach dem Entfernen der Bedeckung ändern."
+  ],
+  "avoidPoints": [
+    "Parke keine benötigte Farbe vor einer Spur, deren passende Tür noch bedeckt ist.",
+    "Gehe nicht davon aus, dass jede sichtbare Kante nutzbar ist, bevor die Ivy-Abräum-Bedingung erfüllt ist.",
+    "Kopiere keine Ivy-Route auf ein Feld, dessen Positionen der bedeckten Türen abweichen."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Ivy Hindernis-Guide",
+    "description": "Erfahre, wie Block Out Ivy Türen bedeckt, wie Block-Abräumen Ausgänge freilegt und welche Routing-Fehler auf Ivy-Feldern du vermeidest."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

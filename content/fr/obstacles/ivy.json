@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "fr-obstacle-ivy",
+  "locale": "fr",
+  "slug": "ivy",
+  "title": "Obstacle Ivy : révélez les portes dissimulées",
+  "summary": "Ivy recouvre les portes de sortie jusqu'à ce que des éliminations de blocs l'écartent ; les décisions d'acheminement doivent donc tenir compte de sorties indisponibles au départ.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy recouvre les portes et empêche de traiter ces sorties comme des voies ouvertes.",
+    "Éliminer des blocs taille l'Ivy et révèle les portes dissimulées.",
+    "Grand Games a introduit Ivy dans les notes de version iOS 729 datées du 20 juillet 2026."
+  ],
+  "strategyPoints": [
+    "Identifiez les couleurs qui dépendent des portes couvertes avant d'engager des blocs dans des voies de stockage étroites.",
+    "Privilégiez les éliminations précoces qui retirent un bloc et ouvrent l'accès à une porte Ivy nécessaire.",
+    "Réévaluez l'itinéraire à chaque porte qui apparaît ; la voie la plus sûre peut changer une fois le recouvrement retiré."
+  ],
+  "avoidPoints": [
+    "Ne garez pas une couleur requise devant une voie dont la porte correspondante est encore couverte.",
+    "Ne supposez pas que chaque bord visible est utilisable avant d'avoir rempli la condition d'élimination de l'Ivy.",
+    "Ne copiez pas un itinéraire Ivy sur un plateau dont les positions des portes couvertes diffèrent."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out : guide de l'obstacle Ivy",
+    "description": "Apprenez comment Ivy dans Block Out recouvre les portes, comment les éliminations révèlent les sorties et quelles erreurs d'acheminement éviter."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ko-obstacle-connected-blocks",
+  "locale": "ko",
+  "slug": "connected-blocks",
+  "title": "Connected Blocks: 연결된 조각은 하나로 움직입니다",
+  "summary": "Connected Blocks는 서로 연결되어 있어 하나를 움직이면 짝도 같이 움직이고, 두 색을 보내는 방식이 바뀝니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Connected Blocks 장애물 가이드",
+    "description": "Block Out Connected Blocks가 조각을 어떻게 연결하는지, 그리고 연결된 색을 공유 출구로 보내는 방법을 확인하세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Connected Blocks는 Block Out Version 395에 새로운 방해 요소로 도입되었습니다.",
+    "연결된 블록은 함께 움직이므로 한 조각을 움직이면 연결된 짝에도 영향을 줍니다.",
+    "제거 조건이 조각을 분리하기 전까지 연결은 유지됩니다."
+  ],
+  "strategyPoints": [
+    "통로와 출구를 계획할 때 연결된 쌍을 하나의 단위로 다루세요.",
+    "한쪽 색을 버리지 않고 연결된 두 색을 모두 없애는 제거를 찾으세요.",
+    "쌍의 결합 면적이 여전히 쓸 수 있는 길을 남기도록 배치하세요."
+  ],
+  "avoidPoints": [
+    "한 블록을 움직이고 짝은 그대로 있을 것이라 가정하지 마세요.",
+    "두 색을 모두 출구에 닿을 수 없는 통로로 나누지 마세요.",
+    "연결을 마치 평범한 독립 블록인 것처럼 계획하지 마세요."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

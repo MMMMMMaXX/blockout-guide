@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "de-obstacle-moving-elevators",
+  "locale": "de",
+  "slug": "moving-elevators",
+  "title": "Moving Elevators: Block-Transfers zwischen Spuren zeitlich abstimmen",
+  "summary": "Aufzüge tragen Blöcke im Zyklus zwischen Spuren, weshalb eine freie Route schließen kann, sobald ein Teil weggehoben wird.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Moving Elevators Hindernis-Guide",
+    "description": "Verstehe, wie Block Out Aufzüge Blöcke zwischen Spuren bewegen und wann du den Transfer in deiner Route nutzt."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Moving Elevators verschieben Blöcke in wiederkehrendem Zyklus von einer Spur in eine andere.",
+    "Ein auf einen Aufzug geladener Block verlässt seine aktuelle Spur und kehrt nach Abschluss des Zyklus in einer anderen Spur zurück.",
+    "Der App-Store-Eintrag beschreibt Block Out Aufzüge als Elemente, die Teile zwischen Spuren tragen."
+  ],
+  "strategyPoints": [
+    "Beobachte den Aufzugszyklus, bevor du einen Block platzierst, der davon abhängt, in seiner Spur zu bleiben.",
+    "Nutze den Transfer, um eine feststeckende Farbe zu ihrem Ausgang zu bringen, statt einen längeren manuellen Weg zu erzwingen.",
+    "Stelle Blöcke nahe dem Aufzug bereit, wenn der nächste Zyklus die geplante Reihenfolge klar unterstützt."
+  ],
+  "avoidPoints": [
+    "Gehe nicht davon aus, dass ein Block dort bleibt, wo du ihn platziert hast, sobald ein Aufzugszyklus startet.",
+    "Lade keine Farbe, die du in ihrer Spur noch brauchst, auf, wenn der Transfer sie stranden würde.",
+    "Plane die ganze Route nicht um einen Zyklus herum, ohne die Rückkehrspur zu prüfen."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

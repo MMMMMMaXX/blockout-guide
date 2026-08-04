@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "es-obstacle-ivy",
+  "locale": "es",
+  "slug": "ivy",
+  "title": "Ivy: revela las puertas cubiertas",
+  "summary": "Ivy cubre las puertas de salida hasta que las eliminaciones de bloques la recortan, así que las decisiones de ruta deben contemplar salidas no disponibles al inicio.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy cubre puertas e impide que esas salidas se traten como rutas abiertas.",
+    "Eliminar bloques recorta la Ivy y revela las puertas cubiertas.",
+    "Grand Games introdujo Ivy en las notas de la versión iOS 729, fechadas el 20 de julio de 2026."
+  ],
+  "strategyPoints": [
+    "Identifica qué colores dependen de puertas cubiertas antes de comprometer bloques en carriles estrechos de espera.",
+    "Prefiere eliminaciones tempranas que quiten un bloque y a la vez avancen el acceso a una puerta cubierta por Ivy que necesitas.",
+    "Reevalúa la ruta a medida que aparece cada puerta; el carril más seguro puede cambiar tras quitarse la cobertura."
+  ],
+  "avoidPoints": [
+    "No estaciones un color requerido frente a un carril cuya puerta correspondiente sigue cubierta.",
+    "No asumas que cada borde visible es utilizable antes de cumplir la condición de eliminación de Ivy.",
+    "No copies una ruta de Ivy a un tablero cuyas posiciones de puertas cubiertas difieren."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guía del obstáculo Ivy",
+    "description": "Aprende cómo Ivy de Block Out cubre puertas, cómo las eliminaciones revelan salidas y qué errores de ruta evitar en tableros Ivy."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

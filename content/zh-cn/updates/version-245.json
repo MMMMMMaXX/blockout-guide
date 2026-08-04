@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-245",
+  "locale": "zh-cn",
+  "slug": "version-245",
+  "title": "Block Out 245 版本：Grinder 阻挡物",
+  "summary": "2026 年 2 月 2 日的更新引入了 Grinder 阻挡物，新增了关卡并带来了 UX 改进。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 245 版本：Grinder 阻挡物",
+    "description": "阅读有出处的 Block Out 245 版本改动，包括 Grinder 阻挡物以及新增关卡。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "245",
+  "releasedAt": "2026-02-02",
+  "changes": [
+    "来认识 Grinder —— 准备向你发起挑战的最新阻挡物。",
+    "UX 改进。",
+    "准备好迎接新关卡。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

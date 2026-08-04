@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "pt-br-update-version-214",
+  "locale": "pt-br",
+  "slug": "version-214",
+  "title": "Block Out Versão 214: o bloqueador Colored Grid",
+  "summary": "A atualização de 13 de janeiro de 2026 introduziu o bloqueador Colored Grid e acrescentou novas fases com melhorias de UX.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Versão 214: Colored Grid",
+    "description": "Leia as mudanças da Versão 214 do Block Out, incluindo o bloqueador Colored Grid e novas fases."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "214",
+  "releasedAt": "2026-01-13",
+  "changes": [
+    "Conheça o novo bloqueador Colored Grid, que vai realmente testar suas habilidades.",
+    "Melhorias de UX.",
+    "Prepare-se para novas fases."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "es-update-version-680",
+  "locale": "es",
+  "slug": "version-680",
+  "title": "Block Out Versión 680: calles de Florencia",
+  "summary": "La actualización del 6 de julio de 2026 abrió la zona de Florencia, añadió nuevos niveles y entregó correcciones de errores con mejoras de UX.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Versión 680: Florencia",
+    "description": "Lee los cambios documentados de Block Out Versión 680: la zona de Florencia, nuevos niveles, correcciones y mejoras de UX."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "680",
+  "releasedAt": "2026-07-06",
+  "changes": [
+    "Explora la nueva zona: pasea por las encantadoras calles de Florencia.",
+    "Te esperan niveles totalmente nuevos.",
+    "Corrección de errores para una experiencia más fluida.",
+    "Mejoras de UX."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

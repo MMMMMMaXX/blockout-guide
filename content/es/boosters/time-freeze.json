@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "es-booster-time-freeze",
+  "locale": "es",
+  "slug": "time-freeze",
+  "title": "Booster del reloj: cuándo detener el tiempo ayuda",
+  "summary": "El Reloj detiene el temporizador del nivel, lo que ayuda en intentos que exigen ejecución, pero no repara una ruta bloqueada ni un tablero desajustado.",
+  "status": "published",
+  "effect": "El booster del Reloj detiene el temporizador del nivel activo; este comportamiento lo describen jugadores en la ficha oficial de la App Store.",
+  "useWhen": [
+    "Ya conoces el orden correcto de los bloques pero necesitas más tiempo de ejecución para completarlo.",
+    "Las rutas restantes están abiertas y la cuenta regresiva, no el espacio del tablero, es el único riesgo inmediato de fallo.",
+    "Una repetición llega consistentemente a la misma fase final solvable con muy poco tiempo restante."
+  ],
+  "avoidWhen": [
+    "El tablero inicial no coincide con la guía o no has identificado las salidas correctas.",
+    "Los bloques ya están bloqueados por una mala secuencia; detener el tiempo no crea espacio en el tablero.",
+    "Todavía estás probando la apertura y no puedes explicar qué movimientos habilitará el tiempo extra."
+  ],
+  "decisionChecks": [
+    "Confirma la variante del tablero y el orden de movimientos planeado.",
+    "Separa un fallo de tiempo de un fallo de enrutamiento.",
+    "Usa el Reloj solo cuando la secuencia restante es conocida y físicamente abierta.",
+    "Reinicia en cambio cuando el tablero ya está bloqueado a medias."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guía del booster Reloj y Time Freeze",
+    "description": "Decide cuándo el booster Reloj de Block Out resuelve un problema de tiempo y cuándo una ruta bloqueada hace perder el Time Freeze."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

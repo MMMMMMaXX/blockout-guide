@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "ru-update-version-318",
+  "locale": "ru",
+  "slug": "version-318",
+  "title": "Block Out версии 318: Duration Blocks",
+  "summary": "Обновление от 2 марта 2026 года добавило Duration Blocks, чья очистка активирует special power, а также новые уровни.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out версии 318: Duration Blocks",
+    "description": "Читайте проверенные изменения Block Out версии 318, включая Duration Blocks, чья очистка активирует special power."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "318",
+  "releasedAt": "2026-03-02",
+  "changes": [
+    "Представляем Duration Blocks! Очистите их и активируйте их special power.",
+    "Новые уровни.",
+    "Исправления ошибок и улучшения UX."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["duration-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "tr-booster-time-freeze",
+  "locale": "tr",
+  "slug": "time-freeze",
+  "title": "Saat güçlendiricisi: zamanı durdurmanın işe yaradığı durumlar",
+  "summary": "Saat, seviye zamanlayıcısını durdurur; bu, yürütme ağırlıklı denemelerde yardımcı olur ama kilitlenmiş bir rotayı veya uyumsuz bir tahtayı onarmaz.",
+  "status": "published",
+  "effect": "Saat güçlendiricisi aktif seviye zamanlayıcısını durdurur; bu davranış, oyuncular tarafından resmi App Store listesinde açıklanmaktadır.",
+  "useWhen": [
+    "Doğru blok sırasını zaten biliyorsunuz ama tamamlamak için daha fazla yürütme zamanına ihtiyacınız var.",
+    "Kalan rotalar açık ve geri sayım, tahta alanı değil, tek acil başarısızlık riski.",
+    "Bir tekrar, çok az zaman kala aynı çözülebilir son aşamaya tutarlı şekilde ulaşıyor."
+  ],
+  "avoidWhen": [
+    "Açılış tahtası rehberle eşleşmiyor veya doğru çıkışları belirlemediniz.",
+    "Bloklar zaten kötü bir sıralamanın arkasında kilitli; zamanı durdurmak tahta alanı yaratmaz.",
+    "Hâlâ açılışı deniyorsunuz ve ek sürenin hangi hamleleri sağlayacağını açıklayamıyorsunuz."
+  ],
+  "decisionChecks": [
+    "Tahta varyantını ve planlanan hamle sırasını onaylayın.",
+    "Zamanlama hatasını bir yönlendirme hatasından ayırın.",
+    "Saat'i yalnızca kalan sıra biliniyorsa ve fiziksel olarak açıksa kullanın.",
+    "Tahta zaten yumuşak kilitliyse bunun yerine yeniden başlatın."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Saat ve Zaman Dondurma Güçlendiricisi Rehberi",
+    "description": "Block Out Saat güçlendiricisinin ne zaman bir zamanlama sorununu çözebileceğine ve engellenmiş bir rotanın Zaman Dondurma'yı nasıl israf ettireceğine karar verin."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

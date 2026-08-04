@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "pt-br-obstacle-ivy",
+  "locale": "pt-br",
+  "slug": "ivy",
+  "title": "Obstáculo Ivy: revela portas cobertas",
+  "summary": "A Ivy cobre as portas de saída até que limpezas de blocos a removam, então as decisões de roteamento precisam considerar saídas indisponíveis no início.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "A Ivy cobre portas e impede que essas saídas sejam tratadas como rotas abertas.",
+    "Limpar blocos poda a Ivy e revela as portas cobertas.",
+    "A Grand Games introduziu a Ivy nas notas da versão iOS 729, de 20 de julho de 2026."
+  ],
+  "strategyPoints": [
+    "Identifique quais cores dependem de portas cobertas antes de comprometer blocos em lanes estreitas de espera.",
+    "Prefira limpezas antecipadas que removam um bloco e avancem o acesso a uma porta coberta de Ivy necessária.",
+    "Reavalie a rota conforme cada porta aparece; a lane mais segura pode mudar após a cobertura ser removida."
+  ],
+  "avoidPoints": [
+    "Não estacione uma cor necessária na frente de uma lane cuja porta correspondente ainda está coberta.",
+    "Não presuma que toda borda visível é utilizável antes de a condição de limpeza da Ivy ser atendida.",
+    "Não copie uma rota de Ivy para um tabuleiro cujas posições de portas cobertas diferem."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guia do Obstáculo Ivy no Block Out",
+    "description": "Saiba como a Ivy do Block Out cobre portas, como limpezas revelam saídas e quais erros de roteamento evitar em tabuleiros com Ivy."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

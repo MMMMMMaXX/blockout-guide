@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ko-obstacle-moving-elevators",
+  "locale": "ko",
+  "slug": "moving-elevators",
+  "title": "Moving Elevators: 차선 사이 블록 이동 타이밍",
+  "summary": "엘리베이터는 주기적으로 차선 사이를 블록을 운반하므로, 조각이 들어 올려지는 순간 깔끔한 경로가 닫힐 수 있습니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Moving Elevators 장애물 가이드",
+    "description": "Block Out Moving Elevators가 차선 사이를 블록을 어떻게 옮기는지와 경로에서 그 이동을 언제 써야 하는지 알아보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Moving elevators는 반복되는 주기에 따라 블록을 한 차선에서 다른 차선으로 옮깁니다.",
+    "엘리베이터에 실린 블록은 현재 차선을 떠나 주기가 끝난 뒤 다른 차선으로 돌아옵니다.",
+    "App Store 등록 정보에는 Block Out 엘리베이터가 차선 사이에 조각을 운반하는 요소로 설명되어 있습니다."
+  ],
+  "strategyPoints": [
+    "자신의 차선에 머물러야 하는 블록을 놓기 전에 엘리베이터 주기를 지켜보세요.",
+    "길게 우회하는 대신 엘리베이터 이동을 이용해 막힌 색을 출구 쪽으로 옮기세요.",
+    "다음 주기가 계획한 순서에 분명히 도움이 될 때 엘리베이터 근처에 블록을 배치하세요."
+  ],
+  "avoidPoints": [
+    "엘리베이터 주기가 시작되면 블록이 놓은 자리에 그대로 있을 것이라 가정하지 마세요.",
+    "이동이 블록을 고립시킬 거라면 차선에서 여전히 필요한 색을 싣지 마세요.",
+    "귀환 차선을 확인하지 않고 한 주기에만 전체 경로를 계획하지 마세요."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

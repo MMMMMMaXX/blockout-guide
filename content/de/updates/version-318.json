@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "de-update-version-318",
+  "locale": "de",
+  "slug": "version-318",
+  "title": "Block Out Version 318: Duration Blocks",
+  "summary": "Das Update vom 2. März 2026 führte Duration Blocks ein, deren Abräumen eine Sonderkraft aktiviert, plus neue Level.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 318: Duration Blocks",
+    "description": "Lies die belegten Block Out Version 318 Änderungen, einschließlich der Duration Blocks, deren Abräumen eine Sonderkraft aktiviert."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "318",
+  "releasedAt": "2026-03-02",
+  "changes": [
+    "Einführung von Duration Blocks! Räume sie ab und aktiviere ihre Sonderkraft.",
+    "Neue Level.",
+    "Bug-Fixes & UX-Verbesserungen."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["duration-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

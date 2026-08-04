@@ -1,0 +1,22 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-455",
+  "locale": "zh-cn",
+  "slug": "version-455",
+  "title": "Block Out 455 版本：UX 与修复",
+  "summary": "2026 年 8 月 1 日的更新侧重于 UX 改进与 Bug 修复。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 455 版本更新说明",
+    "description": "阅读有出处的 Block Out 455 版本改动：UX 改进与 Bug 修复。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "455",
+  "releasedAt": "2026-08-01",
+  "changes": ["UX 改进。", "Bug 修复。"],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

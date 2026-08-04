@@ -1,0 +1,28 @@
+{
+  "kind": "update",
+  "id": "tr-update-version-395",
+  "locale": "tr",
+  "slug": "version-395",
+  "title": "Block Out Version 395: Connected Blocks ve yeni arayüz",
+  "summary": "30 Mart 2026 güncellemesi Connected Blocks engelleyicisini, yeni bir arayüz deneyimini ve yeni seviyeleri tanıttı.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 395: Connected Blocks",
+    "description": "Kaynaklı Block Out Version 395 değişikliklerini, Connected Blocks engelleyicisi ve yeni bir arayüz deneyimi dahil olmak üzere okuyun."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "395",
+  "releasedAt": "2026-03-30",
+  "changes": [
+    "Yepyeni ve heyecan verici bir arayüz deneyiminin keyfini çıkarın.",
+    "Yeni engelleyiciyle tanışın: Connected Blocks — seviyeleri daha da heyecanlı hale getirmek için burada.",
+    "Yeni Seviyeler.",
+    "UX İyileştirmeleri.",
+    "Hata Düzeltmeleri."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["connected-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

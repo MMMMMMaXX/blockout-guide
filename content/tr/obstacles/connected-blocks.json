@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "tr-obstacle-connected-blocks",
+  "locale": "tr",
+  "slug": "connected-blocks",
+  "title": "Connected Blocks: bağlı parçalar birlikte hareket eder",
+  "summary": "Bağlı bloklar birbirine bağlıdır; birini hareket ettirmek eşini de kaydırır ve her iki rengi yönlendirme biçiminizi değiştirir.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Connected Blocks Engel Rehberi",
+    "description": "Block Out Connected Blocks'ın parçaları nasıl birbirine bağladığını ve eşleşen renkleri ortak bir çıkışa nasıl yönlendireceğinizi görün."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Connected Blocks, Block Out Version 395'te yeni bir engel olarak tanıtıldı.",
+    "Bağlı bloklar birlikte hareket eder; bir parçaya yapılan hamle, bağlı eşini de etkiler.",
+    "Bağ, parçaları ayıran bir temizleme koşulu sağlanana kadar devam eder."
+  ],
+  "strategyPoints": [
+    "Şeritleri ve çıkışları planlarken bağlı çifti tek bir birim olarak ele alın.",
+    "İkisini de ortada bırakmadan her iki bağlı rengi de kaldıran bir temizlik arayın.",
+    "Çifti, birleşik ayak izinin hâlâ kullanışlı bir yol bıraktığı yere konumlandırın."
+  ],
+  "avoidPoints": [
+    "Bir bloğu hareket ettirip eşinin olduğu yerde kaldığını varsaymayın.",
+    "Renkleri her ikisinin de bir çıkışa ulaşamayacağı şeritlere ayırmayın.",
+    "Bağı, normal bağımsız bir blokmuş gibi planlamayın."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

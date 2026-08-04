@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "es-guide-duration-blocks-power",
+  "locale": "es",
+  "slug": "duration-blocks-power",
+  "title": "Cómo usar el poder de los Duration Blocks",
+  "summary": "Elimina los Duration Blocks en el momento en que su poder temporizado ayuda más, y prepara los movimientos apoyados justo después.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Usa bien el poder de Duration Blocks",
+    "description": "Sincroniza las eliminaciones de Duration Blocks para que el poder temporal apoye los movimientos más difíciles y no se desperdicie en fáciles."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "¿Cuándo debo eliminar los Duration Blocks para sacar el mayor provecho de su poder?",
+  "sections": [
+    {
+      "heading": "Elimina a la señal, no a la vista",
+      "body": [
+        "El poder es temporal, así que elimina el Duration Block cuando los siguientes movimientos realmente lo necesiten.",
+        "Eliminarlo demasiado pronto malgasta el efecto antes de llegar la parte difícil."
+      ]
+    },
+    {
+      "heading": "Prepara los movimientos apoyados",
+      "body": [
+        "Decide los movimientos que apoyará el poder antes de eliminar el bloque.",
+        "Ejecútalos inmediatamente después de la eliminación mientras el poder esté activo."
+      ]
+    },
+    {
+      "heading": "No lo malgastes en movimientos fáciles",
+      "body": [
+        "Si pudieras terminar una sección sin el poder, reserva la eliminación para un punto más apretado.",
+        "Empareja el poder con el cuello de botella que elimina."
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

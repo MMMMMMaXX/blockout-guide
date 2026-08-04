@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "zh-cn-obstacle-color-shutter",
+  "locale": "zh-cn",
+  "slug": "color-shutter",
+  "title": "Color Shutter：颜色门控障碍",
+  "summary": "Color Shutter 是在 573 版本中加入的颜色门控障碍，会根据颜色条件开启或封闭通道。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Color Shutter 障碍攻略",
+    "description": "理解 Block Out 的 Color Shutter 障碍，以及如何在门控通道开启前满足其颜色条件。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter 在 Block Out 573 版本中作为全新的色彩挑战加入游戏。",
+    "百叶窗的状态取决于棋盘上的颜色条件，会开启或封闭某条通道。",
+    "你必须先满足颜色条件，被门控的通道才会可用。"
+  ],
+  "strategyPoints": [
+    "在附近放置方块之前，先确认百叶窗期望的是哪种颜色。",
+    "优先清除所需颜色，让后续走子时通道能够开启。",
+    "每次清除后重新检查百叶窗，因为它的状态可能会变化。"
+  ],
+  "avoidPoints": [
+    "不要强行把方块推过尚未满足颜色条件的百叶窗。",
+    "如果条件会重置，不要假设百叶窗在一次使用后仍保持开启。",
+    "不要用你无法移动的方块挡住百叶窗所需的颜色。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

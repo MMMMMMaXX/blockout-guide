@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-318",
+  "locale": "ja",
+  "slug": "version-318",
+  "title": "Block Out バージョン318：デュレーションブロック",
+  "summary": "2026年3月2日のアップデートでデュレーションブロックが導入され、消去すると特殊パワーが発動するほか、新しいレベルも追加されました。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン318：デュレーションブロック",
+    "description": "Block Out バージョン318の変更点を確認しましょう。消すと特殊パワーが発動するデュレーションブロックなどが含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "318",
+  "releasedAt": "2026-03-02",
+  "changes": [
+    "デュレーションブロック登場！消して特殊パワーを発動させよう。",
+    "新しいレベル。",
+    "バグ修正とUXの改善。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["duration-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

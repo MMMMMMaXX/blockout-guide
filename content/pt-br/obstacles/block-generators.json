@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "pt-br-obstacle-block-generators",
+  "locale": "pt-br",
+  "slug": "block-generators",
+  "title": "Block generators: o tabuleiro continua crescendo",
+  "summary": "Os geradores produzem novos blocos com o tempo, então um tabuleiro que parece livre pode encher se você só reage em vez de limpar.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guia do Obstáculo Block Generators no Block Out",
+    "description": "Veja como os Block Generators do Block Out adicionam peças com o tempo e quais hábitos de limpeza evitam que o tabuleiro encha."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "Os block generators adicionam novos blocos ao tabuleiro em um cronograma, em vez de uma só vez no início.",
+    "A listagem da App Store cita os block generators entre os obstáculos dinâmicos do jogo.",
+    "Cada bloco gerado ocupa espaço no tabuleiro que você precisará eventualmente encaminhar para uma saída."
+  ],
+  "strategyPoints": [
+    "Limpe primeiro as peças mais antigas e que mais bloqueiam, para os geradores não acumularem espaço.",
+    "Mantenha ao menos uma lane aberta como buffer para os blocos que chegam.",
+    "Prefira rotas que removam o vizinho de um gerador antes do próximo surgimento."
+  ],
+  "avoidPoints": [
+    "Não espere um movimento perfeito enquanto os geradores continuam adicionando peças.",
+    "Não se feche em um canto onde os novos blocos não têm para onde ir.",
+    "Não ignore um gerador só porque o tabuleiro atual ainda parece confortável."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

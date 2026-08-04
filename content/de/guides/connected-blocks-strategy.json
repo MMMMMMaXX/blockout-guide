@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "de-guide-connected-blocks-strategy",
+  "locale": "de",
+  "slug": "connected-blocks-strategy",
+  "title": "So räumst du Connected Blocks ab",
+  "summary": "Behandle das verbundene Paar als eine Einheit, finde einen gemeinsamen Ausgang und vermeide, dass eine Farbe in einer Sackgasse strandet.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Connected Blocks sicher abräumen",
+    "description": "Leite Block Out Connected Blocks, indem du das Paar als Einheit behandelst, einen gemeinsamen Ausgang findest und Sackgassen vermeidest."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Was ist der sicherste Weg, Block Out Connected Blocks zu leiten?",
+  "sections": [
+    {
+      "heading": "Plane das Paar als ein Teil",
+      "body": [
+        "Connected Blocks bewegen sich gemeinsam, also erfasse beide Fußabdrücke auf einmal.",
+        "Wähle Spuren, die die gemeinsame Form aufnehmen, ohne eine Farbe gefangen zu setzen."
+      ]
+    },
+    {
+      "heading": "Ziele auf ein gemeinsames Abräumen",
+      "body": [
+        "Suche nach einer Zugreihenfolge, die beide verbundenen Farben entfernt.",
+        "Ist ein gemeinsamer Ausgang unmöglich, wähle die Reihenfolge, die zuerst das stärker blockierende Teil befreit."
+      ]
+    },
+    {
+      "heading": "Vermeide Sackgassen",
+      "body": [
+        "Trenne die Farben nie in Spuren, in denen nur eine einen Ausgang erreichen kann.",
+        "Halte den Pfad des Partners offen, bis die Verbindung aufgehoben ist."
+      ]
+    }
+  ],
+  "obstacleIds": ["connected-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

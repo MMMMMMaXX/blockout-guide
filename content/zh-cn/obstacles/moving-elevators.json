@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "zh-cn-obstacle-moving-elevators",
+  "locale": "zh-cn",
+  "slug": "moving-elevators",
+  "title": "Moving Elevators：把握方块在通道间转移的时机",
+  "summary": "电梯会按周期在通道之间运送方块，因此在方块被吊离的瞬间，一条畅通的路线就可能关闭。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Moving Elevators 障碍攻略",
+    "description": "理解 Block Out 的移动电梯如何在通道间运送方块，以及该在何时把转移纳入你的路线规划。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "移动电梯会按循环周期把方块从一条通道转移到另一条通道。",
+    "装载到电梯上的方块会离开当前通道，并在周期结束后从另一条通道返回。",
+    "App Store 上的游戏介绍将 Block Out 的电梯描述为在通道之间运送方块的元件。"
+  ],
+  "strategyPoints": [
+    "在把依赖停留在某条通道的方块落下之前，先观察电梯的周期。",
+    "利用转移把卡住的颜色送往它的出口，而不是强行绕更长的手动路线。",
+    "当下一轮周期明显有助于既定顺序时，把方块在电梯附近就位。"
+  ],
+  "avoidPoints": [
+    "一旦电梯周期启动，不要假设方块仍停在你放置的位置。",
+    "如果转移会让某个仍需要的颜色卡住，不要把它装上电梯。",
+    "不要在没有确认返回通道的情况下，把整条路线都押在一个周期上。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

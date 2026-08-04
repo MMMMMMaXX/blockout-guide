@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-729",
+  "locale": "zh-cn",
+  "slug": "version-729",
+  "title": "Block Out 729 版本：Ivy 与新关卡",
+  "summary": "2026 年 7 月 20 日的 iOS 版本新增了 Mona Lisa 工坊区域，引入被 Ivy 覆盖的门，并带来新关卡及修复与 UX 改进。",
+  "status": "published",
+  "version": "729",
+  "releasedAt": "2026-07-20",
+  "changes": [
+    "在 Mona Lisa 身后新增了一个工坊区域。",
+    "引入 Ivy，一种通过消除方块来露出被覆盖出口门的障碍。",
+    "新增关卡。",
+    "包含 Bug 修复与用户体验改进。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["ivy"],
+  "impactCheckedAt": "2026-08-03",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 729 版本更新：Ivy 与新关卡",
+    "description": "阅读有出处的 Block Out 729 版本改动，包括 Ivy 障碍、Mona Lisa 工坊区域、新关卡与修复。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

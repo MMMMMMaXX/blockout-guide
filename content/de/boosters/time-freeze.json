@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "de-booster-time-freeze",
+  "locale": "de",
+  "slug": "time-freeze",
+  "title": "Clock-Booster: wann das Stoppen der Zeit hilft",
+  "summary": "Die Uhr stoppt den Level-Timer, was ausführungslastige Versuche hilft, aber eine blockierte Route oder ein falsch zusammengesetztes Feld nicht repariert.",
+  "status": "published",
+  "effect": "Der Clock-Booster stoppt den aktiven Level-Timer; dieses Verhalten wird von Spielern im offiziellen App-Store-Eintrag beschrieben.",
+  "useWhen": [
+    "Du kennst die richtige Block-Reihenfolge bereits, brauchst aber mehr Ausführungszeit, um sie zu beenden.",
+    "Die verbleibenden Routen sind offen und der Countdown, nicht der Spielfeldplatz, ist das einzige unmittelbare Fehlerrisiko.",
+    "Ein erneuter Versuch erreicht konsequent dieselbe lösbare Endphase mit zu wenig verbleibender Zeit."
+  ],
+  "avoidWhen": [
+    "Das Eröffnungsfeld entspricht nicht dem Guide oder du hast die richtigen Ausgänge nicht identifiziert.",
+    "Blöcke stecken bereits hinter einer schlechten Sequenz; das Stoppen der Zeit schafft keinen Spielfeldplatz.",
+    "Du experimentierst noch mit der Eröffnung und kannst nicht erklären, welche Züge die zusätzliche Zeit ermöglicht."
+  ],
+  "decisionChecks": [
+    "Bestätige die Feld-Variante und die geplante Zugreihenfolge.",
+    "Trenne ein Zeit- von einem Routing-Versagen.",
+    "Nutze die Uhr nur, wenn die verbleibende Sequenz bekannt und physisch offen ist.",
+    "Starte stattdessen neu, wenn das Feld bereits weich blockiert ist."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Clock und Time Freeze Booster-Guide",
+    "description": "Entscheide, wann der Block Out Clock-Booster ein Zeitproblem löst und wann eine blockierte Route Time Freeze verschwendet."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

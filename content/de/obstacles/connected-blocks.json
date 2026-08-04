@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "de-obstacle-connected-blocks",
+  "locale": "de",
+  "slug": "connected-blocks",
+  "title": "Connected Blocks: verbundene Teile bewegen sich gemeinsam",
+  "summary": "Connected Blocks sind verbunden, weshalb das Bewegen eines Teils seinen Partner verschiebt und ändert, wie du beide Farben leitest.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Connected Blocks Hindernis-Guide",
+    "description": "Sieh, wie Block Out Connected Blocks Teile verbindet und wie du die gepaarten Farben zu einem gemeinsamen Ausgang leitest."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "linkage",
+  "priority": "state-dependent",
+  "rules": [
+    "Connected Blocks wurden in Block Out Version 395 als neuer Blocker eingeführt.",
+    "Verbundene Blöcke bewegen sich gemeinsam, sodass ein Zug an einem Teil auch dessen Partner beeinflusst.",
+    "Die Verbindung hält, bis eine Abräum-Bedingung die Teile trennt."
+  ],
+  "strategyPoints": [
+    "Behandle das verbundene Paar beim Planen von Spuren und Ausgängen als eine Einheit.",
+    "Suche nach einem Abräumen, das beide verbundenen Farben entfernt, ohne eine davon zurückzulassen.",
+    "Positioniere das Paar so, dass sein gemeinsamer Fußabdruck noch einen nutzbaren Pfad freilässt."
+  ],
+  "avoidPoints": [
+    "Bewege nicht einen Block und gehe davon aus, dass sein Partner an Ort und Stelle bleibt.",
+    "Trenne die Farben nicht in Spuren, die beide keinen Ausgang erreichen können.",
+    "Plane nicht um die Verbindung herum, als wäre sie ein normaler, unabhängiger Block."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

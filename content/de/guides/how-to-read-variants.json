@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "de-guide-how-to-read-variants",
+  "locale": "de",
+  "slug": "how-to-read-variants",
+  "title": "So gleicht man eine Block Out Feld-Variante ab",
+  "summary": "Bestätige Wahrzeichen, Ausgänge, Zähler und Plattform-Kontext, bevor du einer Anleitung folgst, damit eine richtige Lösung nicht auf das falsche Layout angewendet wird.",
+  "status": "published",
+  "question": "Wie erkenne ich, ob eine Block Out Anleitung zum Feld auf meinem Gerät passt?",
+  "sections": [
+    {
+      "heading": "Beginne mit Wahrzeichen, nicht mit der Levelnummer",
+      "body": [
+        "Eine Levelnummer ist nur der erste Suchschlüssel. Vergleiche das größte Mittelteil, Zählerwerte, Ausgangsfarben und die Anordnung der Rand-Blocker, bevor du einen Zug machst.",
+        "Auf Level 14 etwa hat das dokumentierte Feld ein türkisfarbenes 7 in der Mitte, einen 17-Zähler darüber, eine weiße Leiter rechts und gelbe Seitensäulen. Fehlt eines dieser Anker, stoppe und suche eine andere Variante."
+      ]
+    },
+    {
+      "heading": "Prüfe Plattform- und Versions-Kontext",
+      "body": [
+        "Grand Games beschreibt Block Out als ein sich entwickelndes Rätsel mit wechselnden Layouts, Moving Elevators, Block-Generatoren und weiteren dynamischen Hindernissen. Ein Guide zeichnet daher Plattform und Datum auf, an dem sein Quellfeld geprüft wurde.",
+        "Behandle eine Versionsangabe als Kontext, nicht als alleinigen Beweis. Die sichtbaren Feld-Wahrzeichen müssen zu deinem Gerät passen."
+      ]
+    },
+    {
+      "heading": "Nutze den Eröffnungszug als finale Prüfsumme",
+      "body": [
+        "Nachdem die Wahrzeichen passen, verifiziere, dass der erste Zug der Anleitung physisch verfügbar ist und dem genannten Zweck dient. Auf Level 14 gehört die Eröffnungsarbeit auf die weiße Leiter rechts, während das türkisfarbene Mittelteil fix bleibt.",
+        "Ist der erste Zug blockiert, zielt auf eine andere Farbe oder hängt von einem Ausgang ab, den dein Feld nicht hat, erzwinge die Sequenz nicht. Kehre zum Feldprofil zurück und suche ein anderes Layout."
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "Block Out Feld-Varianten richtig abgleichen",
+    "description": "Vergleiche Wahrzeichen, Ausgänge, Zähler, Plattform und Eröffnungszüge, bevor du eine Block Out Anleitung auf deinem Feld nutzt."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

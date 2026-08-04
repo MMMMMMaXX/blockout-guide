@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-245",
+  "locale": "ja",
+  "slug": "version-245",
+  "title": "Block Out バージョン245：グラインダーブロッカー",
+  "summary": "2026年2月2日のアップデートでグラインダーブロッカーが導入され、新しいレベルが追加され、UXの改善も行われました。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン245：グラインダーブロッカー",
+    "description": "Block Out バージョン245の変更点を確認しましょう。グラインダーブロッカーや新しいレベルが含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "245",
+  "releasedAt": "2026-02-02",
+  "changes": [
+    "あなたに挑戦する用意のできた最新ブロッカー、グラインダーに会いに行こう。",
+    "UXの改善。",
+    "新しいレベルに備えよう。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

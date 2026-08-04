@@ -1,0 +1,46 @@
+{
+  "kind": "guide",
+  "id": "tr-guide-how-to-read-variants",
+  "locale": "tr",
+  "slug": "how-to-read-variants",
+  "title": "Block Out tahta varyantı nasıl eşleştirilir",
+  "summary": "Bir geçişi takip etmeden önce doğru çözümün yanlış düzene uygulanmaması için simge, çıkış, sayaç ve platform bağlamını doğrulayın.",
+  "status": "published",
+  "question": "Cihazındaki Block Out geçişinin tahtamla eşleştiğini nasıl anlayabilirim?",
+  "sections": [
+    {
+      "heading": "Simgelere seviye numarasından başlayın",
+      "body": [
+        "Seviye numarası yalnızca ilk arama anahtarıdır. Bir hamle yapmadan önce en büyük merkez parçasını, sayaç değerlerini, çıkış renklerini ve kenar engelleyicilerin düzenini karşılaştırın.",
+        "Örneğin, belgelenmiş 14. Seviye tahtasının merkezinde camgöbeği bir 7, onun üzerinde 17'lik bir sayaç, sağda beyaz bir merdiven ve sarı yan sütunlar vardır. Bu tutucuların herhangi biri eksikse durun ve başka bir varyant arayın."
+      ]
+    },
+    {
+      "heading": "Platform ve sürüm bağlamını kontrol edin",
+      "body": [
+        "Grand Games, Block Out'u değişen düzenler, hareketli asansörler, blok üreticiler ve diğer dinamik engeller içeren gelişen bir bulmaca olarak tanımlar. Bu nedenle bir rehber, kaynak tahtasının kontrol edildiği platformu ve tarihi kaydeder.",
+        "Bir sürüm etiketini kendi başına kanıt değil bağlam olarak ele alın. Görünür tahta simgeleri hâlâ cihazınızla eşleşmelidir."
+      ]
+    },
+    {
+      "heading": "Açılış hamlesini son bir sağlama olarak kullanın",
+      "body": [
+        "Simgeeler eşleştikten sonra, rehberin ilk hamlesinin fiziksel olarak mevcut olduğunu ve belirtilen amaca hizmet ettiğini doğrulayın. 14. Seviye'de açılış işi, camgöbeği merkez parça sabit kalırken sağdaki beyaz merdivende yapılmalıdır.",
+        "İlk hamle engellenmişse, farklı bir rengi işaret ediyorsa veya tahtanızda olmayan bir çıkışa bağlıysa, sıralamayı zorlamayın. Tahta profiline dönün ve başka bir düzen arayın."
+      ]
+    }
+  ],
+  "obstacleIds": ["ivy"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": [14],
+  "sourceReferences": [
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568",
+    "https://levelsolve.com/block-out/level/14/"
+  ],
+  "seo": {
+    "title": "Block Out Tahta Varyantlarını Eşleştirme",
+    "description": "Bir Block Out geçişini kendi tahtanızda kullanmadan önce simge, çıkış, sayaç, platform ve açılış hamlelerini karşılaştırın."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

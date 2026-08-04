@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "tr-obstacle-block-generators",
+  "locale": "tr",
+  "slug": "block-generators",
+  "title": "Blok üreticileri: tahta sürekli büyür",
+  "summary": "Üreticiler zamanla yeni bloklar oluşturur; yalnızca tepki verirseniz değil de temizlerseniz açık görünen bir tahta dolabilir.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Blok Üreticileri Rehberi",
+    "description": "Block Out blok üreticilerinin zamanla nasıl parça eklediğini ve tahtanın dolmasını önleyen temizleme alışkanlıklarını öğrenin."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "Blok üreticileri, başta değil de bir programa göre tahtaya yeni bloklar ekler.",
+    "App Store listesi, blok üreticilerini oyunun dinamik engelleri arasında sayar.",
+    "Her oluşturulan blok, sonunda bir çıkışa yönlendirmeniz gereken tahta alanı kaplar."
+  ],
+  "strategyPoints": [
+    "Üreticiler alan biriktirmesin diye en eski, en çok tıkayan parçaları önce temizleyin.",
+    "Gelen bloklar için tampon olarak en az bir şeridi açık tutun.",
+    "Bir sonraki oluşturma düşmeden, önce üreticinin komşusunu kaldıran rotaları tercih edin."
+  ],
+  "avoidPoints": [
+    "Üreticiler parça eklemeye devam ederken mükemmel hamleyi beklemeyin.",
+    "Yeni blokların gidecek faydalı bir yeri olmadığı bir köşeye kendinizi hapsetmeyin.",
+    "Mevcut tahta hâlâ rahat görünse de bir üreticiyi görmezden gelmeyin."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

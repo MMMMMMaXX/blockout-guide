@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ko-obstacle-color-shutter",
+  "locale": "ko",
+  "slug": "color-shutter",
+  "title": "Color Shutter: 색상 조건의 장애물",
+  "summary": "Color Shutter는 Version 573에서 추가된 색상 기반 장애물로, 색상 조건에 따라 통로를 열거나 막습니다.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Color Shutter 장애물 가이드",
+    "description": "Block Out Color Shutter 장애물과 차단된 경로가 열리기 전 그 색상 조건을 어떻게 맞추는지 알아보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter는 Block Out Version 573에 새롭고 화려한 도전 과제로 추가되었습니다.",
+    "셔터의 상태는 보드의 색상 조건에 따라 달라지며 통로를 열거나 닫습니다.",
+    "차단된 경로를 이용할 수 있게 되기 전에 색상 조건을 충족해야 합니다."
+  ],
+  "strategyPoints": [
+    "주변에 블록을 놓기 전에 셔터가 기대하는 색상을 먼저 파악하세요.",
+    "필요한 색상을 먼저 제거해 다음 수를 위해 통로가 열리게 하세요.",
+    "상태가 바뀔 수 있으므로 제거할 때마다 셔터를 다시 확인하세요."
+  ],
+  "avoidPoints": [
+    "색상 조건을 충족하지 않은 셔터로 블록을 밀어 넣지 마세요.",
+    "조건이 초기화되면 한 번 사용 후에도 열려 있다고 가정하지 마세요.",
+    "옮길 수 없는 조각으로 셔터가 필요로 하는 색상을 가리지 마세요."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

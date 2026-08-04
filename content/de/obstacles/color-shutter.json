@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "de-obstacle-color-shutter",
+  "locale": "de",
+  "slug": "color-shutter",
+  "title": "Color Shutter: ein farbabhängiges Hindernis",
+  "summary": "Color Shutter ist ein farbabhängiges Hindernis aus Version 573, das Passagen je nach Farbbedingung öffnet oder blockiert.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Color Shutter Hindernis-Guide",
+    "description": "Verstehe das Block Out Color Shutter Hindernis und wie du seine Farbbedingung erfüllst, bevor die gesperrte Route sich öffnet."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "Color Shutter wurde in Block Out Version 573 als bunte neue Herausforderung hinzugefügt.",
+    "Der Zustand des Verschlusses hängt von Farbbedingungen auf dem Feld ab und öffnet oder schließt eine Passage.",
+    "Du musst die Farbbedingung erfüllen, bevor die gesperrte Route nutzbar wird."
+  ],
+  "strategyPoints": [
+    "Bestimme zuerst, welche Farbe der Verschluss erwartet, bevor du Blöcke in der Nähe platzierst.",
+    "Räume zuerst die benötigte Farbe ab, damit sich die Passage für die folgenden Züge öffnet.",
+    "Prüfe den Verschluss nach jedem Abräumen erneut, da sich sein Zustand ändern kann."
+  ],
+  "avoidPoints": [
+    "Schiebe keine Blöcke durch einen Verschluss, der seine Farbbedingung noch nicht erfüllt hat.",
+    "Gehe nicht davon aus, dass der Verschluss nach einmaliger Nutzung offen bleibt, falls die Bedingung zurückgesetzt wird.",
+    "Blockiere nicht die Farbe, die der Verschluss braucht, mit Steinen, die du nicht bewegen kannst."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

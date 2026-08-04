@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "pt-br-obstacle-duration-blocks",
+  "locale": "pt-br",
+  "slug": "duration-blocks",
+  "title": "Duration Blocks: limpe-os para um poder temporizado",
+  "summary": "Os Duration Blocks foram introduzidos na Versão 318; limpá-los ativa um poder especial que dura por tempo limitado.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guia do Obstáculo Duration Blocks no Block Out",
+    "description": "Saiba como os Duration Blocks do Block Out ativam um poder temporizado ao serem limpos e quando usá-lo com mais proveito."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "timed power",
+  "priority": "medium",
+  "rules": [
+    "Os Duration Blocks chegaram na Versão 318 do Block Out com a nota 'Limpe-os e ative seu poder especial!'.",
+    "Limpar um Duration Block dispara um poder especial, e não apenas libera espaço.",
+    "O poder é temporário, então seu benefício expira se você não o usar rapidamente."
+  ],
+  "strategyPoints": [
+    "Priorize limpar os Duration Blocks quando o poder ativado ajuda diretamente nas próximas jogadas.",
+    "Enfileire as jogadas que você quer que o poder apoie logo após a limpeza.",
+    "Cronometre a limpeza para que o poder esteja ativo durante a parte mais difícil da rota."
+  ],
+  "avoidPoints": [
+    "Não limpe um Duration Block cedo demais se seu poder expirar antes de você precisar dele.",
+    "Não desperdice o poder em jogadas que você conseguiria fazer sem ele.",
+    "Não trate os Duration Blocks como bloqueadores comuns quando o poder importa."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

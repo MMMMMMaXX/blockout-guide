@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "pt-br-booster-time-freeze",
+  "locale": "pt-br",
+  "slug": "time-freeze",
+  "title": "Booster do Relógio: quando parar o tempo ajuda",
+  "summary": "O Relógio para o cronômetro da fase, o que ajuda tentativas pesadas de execução, mas não conserta uma rota bloqueada nem um tabuleiro incompatível.",
+  "status": "published",
+  "effect": "O booster do Relógio para o cronômetro da fase ativa; esse comportamento é descrito por jogadores na listagem oficial da App Store.",
+  "useWhen": [
+    "Você já sabe a ordem correta dos blocos, mas precisa de mais tempo de execução para concluí-la.",
+    "As rotas restantes estão abertas e a contagem regressiva, e não o espaço do tabuleiro, é o único risco imediato de falha.",
+    "Uma reprodução alcança consistentemente a mesma fase final solucionável com tempo insuficiente."
+  ],
+  "avoidWhen": [
+    "O tabuleiro inicial não corresponde ao guia ou você ainda não identificou as saídas corretas.",
+    "Os blocos já estão travados por trás de uma sequência ruim; parar o tempo não cria espaço no tabuleiro.",
+    "Você ainda está experimentando a abertura e não consegue explicar quais jogadas o tempo extra permitirá."
+  ],
+  "decisionChecks": [
+    "Confirme a variante do tabuleiro e a ordem de jogadas planejada.",
+    "Separe uma falha de tempo de uma falha de roteamento.",
+    "Use o Relógio apenas quando a sequência restante for conhecida e estiver fisicamente aberta.",
+    "Reinicie quando o tabuleiro já estiver travado de forma irrecuperável."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guia do Booster Relógio e Time Freeze no Block Out",
+    "description": "Decida quando o booster Relógio do Block Out resolve um problema de tempo e quando uma rota bloqueada torna o Time Freeze um desperdício."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

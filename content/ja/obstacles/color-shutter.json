@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ja-obstacle-color-shutter",
+  "locale": "ja",
+  "slug": "color-shutter",
+  "title": "カラーシャッター：色条件付きの障害物",
+  "summary": "Color Shutterはバージョン573で登場した色条件付きの障害物で、色の条件に応じて通路を開閉します。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out カラーシャッター攻略ガイド",
+    "description": "Block Outのカラーシャッターがどのような障害物で、ゲート付きの通路が開く前に色条件をどう満たすかを解説します。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "color gate",
+  "priority": "medium",
+  "rules": [
+    "カラーシャッターは、Block Out バージョン573で追加された、色鮮やかな新たなチャレンジです。",
+    "シャッターの状態は盤面上の色条件に依存し、通路を開いたり閉じたりします。",
+    "ゲート付きのルートが使えるようになる前に、色条件を満たす必要があります。"
+  ],
+  "strategyPoints": [
+    "近くにブロックを配置する前に、シャッターが求めている色を確認しましょう。",
+    "続く手順のために通路が開くよう、求められている色を最初に消去しましょう。",
+    "状態が変化する可能性があるため、消去のたびにシャッターを再度確認しましょう。"
+  ],
+  "avoidPoints": [
+    "色条件を満たしていないシャッターにブロックを押し込んではいけません。",
+    "条件がリセットされる場合、一度使ったからといってシャッターが開いたままだと決めつけてはいけません。",
+    "動かせないピースで、シャッターが必要とする色を塞いではいけません。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": []
+}

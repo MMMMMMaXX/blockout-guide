@@ -1,0 +1,26 @@
+{
+  "kind": "update",
+  "id": "tr-update-version-318",
+  "locale": "tr",
+  "slug": "version-318",
+  "title": "Block Out Version 318: Duration Blocks",
+  "summary": "2 Mart 2026 güncellemesi, temizlendiğinde özel bir güç etkinleştiren Duration Blocks'ı tanıttı ve yeni seviyeler ekledi.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Version 318: Duration Blocks",
+    "description": "Kaynaklı Block Out Version 318 değişikliklerini, temizlendiğinde özel bir güç etkinleştiren Duration Blocks dahil olmak üzere okuyun."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "318",
+  "releasedAt": "2026-03-02",
+  "changes": [
+    "Duration Blocks tanıtılıyor! Onları temizleyin ve özel güçlerini etkinleştirin.",
+    "Yeni Seviyeler.",
+    "Hata Düzeltmeleri ve UX İyileştirmeleri."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["duration-blocks"],
+  "impactCheckedAt": "2026-08-03"
+}

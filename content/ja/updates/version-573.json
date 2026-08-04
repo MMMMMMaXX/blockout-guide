@@ -1,0 +1,28 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-573",
+  "locale": "ja",
+  "slug": "version-573",
+  "title": "Block Out バージョン573：カラーシャッター",
+  "summary": "2026年5月25日のアップデートでカラーシャッター障害物が導入され、修正とUXの改善とともに新しいレベルが追加されました。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン573：カラーシャッター",
+    "description": "Block Out バージョン573の変更点を確認しましょう。カラーシャッター障害物や新しいレベル、修正が含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "573",
+  "releasedAt": "2026-05-25",
+  "changes": [
+    "新障害物：カラーシャッター。あなたの冒険に彩りを添える、色鮮やかな新たなチャレンジの準備完了。",
+    "真新しいレベルがあなたを待っています。",
+    "新しいジャーニーで冒険を続けましょう。",
+    "より快適な体験のためのバグ修正。",
+    "UXの改善。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["color-shutter"],
+  "impactCheckedAt": "2026-08-03"
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "update",
+  "id": "zh-cn-update-version-429",
+  "locale": "zh-cn",
+  "slug": "version-429",
+  "title": "Block Out 429 版本：新关卡",
+  "summary": "2026 年 7 月 31 日的更新新增了关卡，并带来 UX 改进与 Bug 修复。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 429 版本更新说明",
+    "description": "阅读有出处的 Block Out 429 版本改动：新关卡、UX 改进与 Bug 修复。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "429",
+  "releasedAt": "2026-07-31",
+  "changes": ["新关卡。", "UX 改进。", "Bug 修复。"],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

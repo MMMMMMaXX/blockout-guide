@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "ko-obstacle-ivy",
+  "locale": "ko",
+  "slug": "ivy",
+  "title": "Ivy 장애물: 가려진 문을 드러내세요",
+  "summary": "Ivy는 블록을 제거해 잘라내기 전까지 출구 문을 가리므로, 시작 시 이용할 수 없는 출구까지 감안해 경로를 정해야 합니다.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy는 문을 덮어 해당 출구를 열린 경로로 다룰 수 없게 만듭니다.",
+    "블록을 제거하면 Ivy가 잘려 나가며 가려진 문이 드러납니다.",
+    "Grand Games는 iOS Version 729 출시 노트(2026년 7월 20일자)에서 Ivy를 도입했습니다."
+  ],
+  "strategyPoints": [
+    "좁은 대기 통로에 블록을 놓기 전에 어떤 색이 가려진 문에 의존하는지 파악하세요.",
+    "블록을 제거하면서 동시에 필요한 Ivy로 덮인 문에 대한 접근을 앞당기는 조기 제거를 선호하세요.",
+    "문이 하나씩 나타날 때마다 경로를 다시 평가하세요. 덮개가 벗겨지면 가장 안전한 통로가 바뀔 수 있습니다."
+  ],
+  "avoidPoints": [
+    "일치하는 문이 아직 덮인 통로 앞에 필요한 색을 주차해 두지 마세요.",
+    "Ivy 제거 조건이 충족되기 전에는 모든 보이는 가장자리가 쓸모 있다고 가정하지 마세요.",
+    "가려진 문 위치가 다른 보드에 Ivy 경로를 그대로 복사하지 마세요."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Ivy 장애물 가이드",
+    "description": "Block Out Ivy가 문을 어떻게 가리는지, 블록 제거가 출구를 드러내는 방식과 Ivy 보드에서 피해야 할 경로 실수를 알아보세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

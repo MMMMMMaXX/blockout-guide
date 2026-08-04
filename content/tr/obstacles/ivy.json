@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "tr-obstacle-ivy",
+  "locale": "tr",
+  "slug": "ivy",
+  "title": "Ivy engeli: kapatılan kapıları ortaya çıkarın",
+  "summary": "Ivy, blok temizlikleri onu budayıncaya kadar çıkış kapılarını örter; bu yüzden yönlendirme kararları başta kullanılamayan çıkışları hesaba katmalıdır.",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy kapıları örter ve bu çıkışların açık rota olarak ele alınmasını engeller.",
+    "Blokları temizlemek Ivy'yi budar ve örtülü kapıları ortaya çıkarır.",
+    "Grand Games, Ivy'yi 20 Temmuz 2026 tarihli iOS Version 729 sürüm notlarında tanıttı."
+  ],
+  "strategyPoints": [
+    "Dar bekleme şeritlerine blok bağlamadan önce hangi renklerin örtülü kapılara bağlı olduğunu belirleyin.",
+    "Hem bir bloğu kaldıran hem de ihtiyaç duyulan Ivy'li kapıya erişimi ilerleten erken temizlikleri tercih edin.",
+    "Her kapı belirdiğinde rotayı yeniden değerlendirin; örtü kalktıktan sonra en güvenli şerit değişebilir."
+  ],
+  "avoidPoints": [
+    "Gereken bir rengi, eşleşen kapısının hâlâ örtülü olduğu bir şeridin önüne park etmeyin.",
+    "Ivy temizleme koşulu karşılanmadan önce her görünür kenarın kullanılabilir olduğunu varsaymayın.",
+    "Örtülü kapı konumları farklı olan bir tahtaya Ivy rotasını kopyalamayın."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Ivy Engel Rehberi",
+    "description": "Block Out Ivy'nin kapıları nasıl örttüğünü, blok temizliklerinin çıkışları nasıl açığa çıkardığını ve Ivy tahtalarında hangi yönlendirme hatalarından kaçınılacağını öğrenin."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

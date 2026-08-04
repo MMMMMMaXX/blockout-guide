@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-680",
+  "locale": "ja",
+  "slug": "version-680",
+  "title": "Block Out バージョン680：フィレンツェの街角",
+  "summary": "2026年7月6日のアップデートでフィレンツェエリアが開放され、新しいレベルが追加され、バグ修正とUXの改善が行われました。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン680：フィレンツェの街角",
+    "description": "Block Out バージョン680の変更点を確認しましょう。フィレンツェエリア、新しいレベル、バグ修正、UXの改善が含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "680",
+  "releasedAt": "2026-07-06",
+  "changes": [
+    "新エリアを探索しよう。フィレンツェの魅力的な街角をぶらりと歩いて。",
+    "真新しいレベルがあなたを待っています。",
+    "より快適な体験のためのバグ修正。",
+    "UXの改善。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

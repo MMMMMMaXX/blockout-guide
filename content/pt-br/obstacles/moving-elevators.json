@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "pt-br-obstacle-moving-elevators",
+  "locale": "pt-br",
+  "slug": "moving-elevators",
+  "title": "Moving Elevators: transferência de blocos entre lanes no tempo",
+  "summary": "Os elevadores transportam blocos entre lanes em um ciclo, então uma rota livre pode se fechar no momento em que uma peça é levantada.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Guia do Obstáculo Moving Elevators no Block Out",
+    "description": "Entenda como os moving elevators do Block Out movem blocos entre lanes e quando usar a transferência na sua rota."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "lane transfer",
+  "priority": "high",
+  "rules": [
+    "Os moving elevators deslocam blocos de uma lane para outra em um ciclo repetitivo.",
+    "Um bloco carregado em um elevador deixa sua lane atual e retorna em uma lane diferente após o ciclo terminar.",
+    "A listagem da App Store descreve os elevadores do Block Out como elementos que carregam peças entre lanes."
+  ],
+  "strategyPoints": [
+    "Observe o ciclo do elevador antes de comprometer um bloco que depende de permanecer em sua lane.",
+    "Use a transferência para levar uma cor presa em direção à saída, em vez de forçar uma rota manual mais longa.",
+    "Posicione blocos perto do elevador quando o próximo ciclo claramente ajuda a ordem planejada."
+  ],
+  "avoidPoints": [
+    "Não presuma que um bloco permanece onde você o colocou assim que um ciclo de elevador inicia.",
+    "Não carregue uma cor de que ainda precisa em sua lane se a transferência a deixar presa.",
+    "Não planeje toda a rota em torno de um ciclo sem verificar a lane de retorno."
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["block-generators"]
+}

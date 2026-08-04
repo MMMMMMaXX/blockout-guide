@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "zh-cn-obstacle-ivy",
+  "locale": "zh-cn",
+  "slug": "ivy",
+  "title": "Ivy 障碍：清除藤蔓露出被覆盖的门",
+  "summary": "Ivy 会覆盖出口门，直到方块被清除才能修剪掉藤蔓，因此路线规划必须考虑开局时还不可用的出口。",
+  "status": "published",
+  "category": "door cover",
+  "priority": "high",
+  "rules": [
+    "Ivy 会覆盖出口门，使这些出口无法被视为可用路线。",
+    "清除方块会修剪 Ivy 并露出被覆盖的门。",
+    "Grand Games 在 2026 年 7 月 20 日发布的 iOS 729 版本更新说明中引入了 Ivy。"
+  ],
+  "strategyPoints": [
+    "在把方块放入狭窄的暂存通道之前，先确认哪些颜色依赖被覆盖的门。",
+    "优先进行既能消除方块又能推进通往所需 Ivy 覆盖门的清除。",
+    "每扇门出现后重新评估路线；移除覆盖后，最安全的通道可能会改变。"
+  ],
+  "avoidPoints": [
+    "不要把需要的颜色停在匹配门仍被覆盖的通道前。",
+    "在 Ivy 清除条件满足之前，不要假设每个可见边缘都可用。",
+    "不要把 Ivy 路线照搬到有不同被覆盖门位置的棋盘上。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Ivy 障碍攻略",
+    "description": "了解 Block Out 中的 Ivy 如何覆盖出口门，方块清除如何露出出口，以及在 Ivy 棋盘上应避免哪些路线错误。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "ja-update-version-729",
+  "locale": "ja",
+  "slug": "version-729",
+  "title": "Block Out バージョン729：アイビーと新しいレベル",
+  "summary": "2026年7月20日のiOSリリースでモナリザの工房エリアが追加され、アイビーに覆われた扉が導入され、修正とUXの改善とともに新しいレベルが追加されました。",
+  "status": "published",
+  "version": "729",
+  "releasedAt": "2026-07-20",
+  "changes": [
+    "モナリザの背面に工房エリアを追加。",
+    "ブロックを取り除いて覆われた扉をあらわにする障害物、アイビーを導入。",
+    "新しいレベルを追加。",
+    "バグ修正とユーザー体験の改善を含む。"
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": ["ivy"],
+  "impactCheckedAt": "2026-08-03",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out バージョン729 アップデート：アイビーと新レベル",
+    "description": "Block Out バージョン729の変更点を確認しましょう。アイビー障害物、モナリザ工房エリア、新レベル、修正が含まれます。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

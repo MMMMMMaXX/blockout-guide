@@ -1,0 +1,22 @@
+{
+  "kind": "update",
+  "id": "ru-update-version-429",
+  "locale": "ru",
+  "slug": "version-429",
+  "title": "Block Out версии 429: новые уровни",
+  "summary": "Обновление от 31 июля 2026 года добавило новые уровни с улучшениями UX и исправлениями ошибок.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Примечания к Block Out версии 429",
+    "description": "Читайте проверенные изменения Block Out версии 429: новые уровни, улучшения UX и исправления ошибок."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "429",
+  "releasedAt": "2026-07-31",
+  "changes": ["Новые уровни.", "Улучшения UX.", "Исправления ошибок."],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

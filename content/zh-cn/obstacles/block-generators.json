@@ -1,0 +1,35 @@
+{
+  "kind": "obstacle",
+  "id": "zh-cn-obstacle-block-generators",
+  "locale": "zh-cn",
+  "slug": "block-generators",
+  "title": "方块生成器：棋盘会不断扩张",
+  "summary": "生成器会随着时间生成新方块，所以如果只被动应对而不去清除，看似开阔的棋盘也会被填满。",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out 方块生成器障碍攻略",
+    "description": "了解 Block Out 方块生成器如何随时间不断加入方块，以及哪些清除习惯能防止棋盘被填满。"
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "category": "spawner",
+  "priority": "high",
+  "rules": [
+    "方块生成器会按时间表向棋盘添加新方块，而不是在开局时一次性全部出现。",
+    "App Store 上的游戏介绍将方块生成器列为游戏中的动态障碍之一。",
+    "每个生成的方块都会占据棋盘空间，你最终必须把它引导到某个出口。"
+  ],
+  "strategyPoints": [
+    "优先清除最旧、最阻挡的方块，防止生成器不断堆积空间。",
+    "至少留出一条通道作为新方块的缓冲空间。",
+    "在下一波生成落下之前，优先清除生成器相邻的方块。"
+  ],
+  "avoidPoints": [
+    "不要在生成器不断加入方块时，一味等待所谓的完美一步。",
+    "不要把自己逼进死胡同，让新方块无处可去。",
+    "不要因为当前棋盘看起来还很宽裕，就忽视某个生成器。"
+  ],
+  "relatedLevelNumbers": [],
+  "relatedObstacleIds": ["moving-elevators"]
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "update",
+  "id": "pt-br-update-version-455",
+  "locale": "pt-br",
+  "slug": "version-455",
+  "title": "Block Out Versão 455: UX e correções",
+  "summary": "A atualização de 1º de agosto de 2026 focou em melhorias de UX e correções de bugs.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Notas da Atualização Block Out Versão 455",
+    "description": "Leia as mudanças da Versão 455 do Block Out: melhorias de UX e correções de bugs."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "455",
+  "releasedAt": "2026-08-01",
+  "changes": ["Melhorias de UX.", "Correções de bugs."],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "fr-booster-time-freeze",
+  "locale": "fr",
+  "slug": "time-freeze",
+  "title": "Booster Clock : quand arrêter le temps aide",
+  "summary": "La Clock arrête le chronomètre du niveau, ce qui aide les tentatives exigeantes en exécution mais ne répare pas un itinéraire bloqué ni un plateau inadapté.",
+  "status": "published",
+  "effect": "Le booster Clock arrête le chronomètre actif du niveau ; ce comportement est décrit par les joueurs sur la fiche officielle App Store.",
+  "useWhen": [
+    "Vous connaissez déjà le bon ordre des blocs mais avez besoin de plus de temps d'exécution pour le terminer.",
+    "Les voies restantes sont ouvertes et le compte à rebours, plutôt que l'espace du plateau, est le seul risque d'échec immédiat.",
+    "Une reprise atteint systématiquement la même phase finale solvable avec trop peu de temps restant."
+  ],
+  "avoidWhen": [
+    "Le plateau de départ ne correspond pas au guide ou vous n'avez pas identifié les bonnes sorties.",
+    "Les blocs sont déjà bloqués par une mauvaise séquence ; arrêter le temps ne crée pas d'espace sur le plateau.",
+    "Vous expérimentez encore le départ et ne pouvez pas expliquer quels coups le temps supplémentaire permettra."
+  ],
+  "decisionChecks": [
+    "Confirmez la variante du plateau et l'ordre des coups prévu.",
+    "Distinguiez un échec de timing d'un échec d'acheminement.",
+    "Utilisez la Clock uniquement quand la séquence restante est connue et physiquement ouverte.",
+    "Redémarrez plutôt quand le plateau est déjà en situation de blocage partiel."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out : guide du booster Clock et Time Freeze",
+    "description": "Décidez quand le booster Clock de Block Out règle un problème de timing et quand un itinéraire bloqué rend Time Freeze inutile."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

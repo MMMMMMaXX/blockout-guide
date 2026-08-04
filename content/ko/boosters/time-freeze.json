@@ -1,0 +1,34 @@
+{
+  "kind": "booster",
+  "id": "ko-booster-time-freeze",
+  "locale": "ko",
+  "slug": "time-freeze",
+  "title": "Clock 부스터: 시간을 멈추는 게 도움이 될 때",
+  "summary": "Clock은 레벨 타이머를 멈추며, 실행이 많은 시도에는 도움이 되지만 막힌 경로나 맞지 않는 보드를 고치지는 않습니다.",
+  "status": "published",
+  "effect": "Clock 부스터는 진행 중인 레벨 타이머를 멈춥니다. 이 동작은 공식 App Store 등록 정보에서 플레이어들이 설명하고 있습니다.",
+  "useWhen": [
+    "올바른 블록 순서는 이미 알고 있지만 이를 완료할 실행 시간이 더 필요할 때.",
+    "남은 경로는 열려 있고 즉각적인 실패 위험은 보드 공간이 아니라 카운트다운뿐일 때.",
+    "리플레이가 너무 적은 시간만 남겨둔 채 똑같이 풀 수 있는 마지막 단계까지 일관되게 도달할 때."
+  ],
+  "avoidWhen": [
+    "시작 보드가 가이드와 맞지 않거나 올바른 출구를 아직 파악하지 못했을 때.",
+    "블록이 이미 나쁜 순서 뒤에 갇혀 있을 때. 시간을 멈춰도 보드 공간이 생기지 않습니다.",
+    "아직 시작 부분을 실험 중이며 추가 시간으로 어떤 수가 가능해질지 설명할 수 없을 때."
+  ],
+  "decisionChecks": [
+    "보드 변형과 계획한 이동 순서를 확인하세요.",
+    "타이밍 실패와 경로 실패를 구분하세요.",
+    "남은 수열을 알고 물리적으로 열려 있을 때만 Clock을 사용하세요.",
+    "보드가 이미 소프트 락 상태라면 대신 다시 시작하세요."
+  ],
+  "relatedLevelNumbers": [],
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Clock 및 Time Freeze 부스터 가이드",
+    "description": "Block Out Clock 부스터가 타이밍 문제를 언제 해결할 수 있는지, 그리고 막힌 경로 때문에 Time Freeze가 낭비가 되는 경우를 판단하세요."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03"
+}

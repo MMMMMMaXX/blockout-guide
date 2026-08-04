@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "tr-guide-duration-blocks-power",
+  "locale": "tr",
+  "slug": "duration-blocks-power",
+  "title": "Duration Block gücü nasıl kullanılır",
+  "summary": "Duration Blocks'ı zamanlı güçlerinin en çok yardımcı olduğu anda temizleyin ve desteklenen hamleleri hemen ardından sıraya koyun.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out Duration Block Gücünü İyi Kullanın",
+    "description": "Block Out Duration Block temizliklerini, geçici gücün en zor hamleleri desteklemesi ve kolay olanlarda israf edilmemesi için zamanlayın."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "Duration Blocks'ı gücünden en çok fayda sağlamak için ne zaman temizlemeliyim?",
+  "sections": [
+    {
+      "heading": "İşarete göre, görür görmez değil",
+      "body": [
+        "Güç geçicidir; bu yüzden Duration Block'u bir sonraki hamleler gerçekten ihtiyaç duyduğunda temizleyin.",
+        "Çok erken temizlemek, zor kısım gelmeden etkiyi israf eder."
+      ]
+    },
+    {
+      "heading": "Desteklenen hamleleri sıraya koyun",
+      "body": [
+        "Bloğu temizlemeden önce gücün destekleyeceği hamleleri kararlaştırın.",
+        "Güç aktifken temizlikten hemen sonra onları uygulayın."
+      ]
+    },
+    {
+      "heading": "Kolay hamlelerde israf etmeyin",
+      "body": [
+        "Bir bölümü güç olmadan bitirebiliyorsanız, temizliği daha sıkışık bir yere saklayın.",
+        "Gücü, giderdiği darboğaza uygun kullanın."
+      ]
+    }
+  ],
+  "obstacleIds": ["duration-blocks"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}

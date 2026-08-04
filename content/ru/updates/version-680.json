@@ -1,0 +1,27 @@
+{
+  "kind": "update",
+  "id": "ru-update-version-680",
+  "locale": "ru",
+  "slug": "version-680",
+  "title": "Block Out версии 680: улицы Флоренции",
+  "summary": "Обновление от 6 июля 2026 года открыло область Florence, добавило новые уровни и исправления ошибок с улучшениями UX.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Block Out версии 680: улицы Florence",
+    "description": "Читайте проверенные изменения Block Out версии 680: область Florence, новые уровни, исправления ошибок и улучшения UX."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "version": "680",
+  "releasedAt": "2026-07-06",
+  "changes": [
+    "Исследуйте новую область: прогуляйтесь по очаровательным улицам Florence.",
+    "Совершенно новые уровни ждут вас.",
+    "Исправления ошибок ради более плавного опыта.",
+    "Улучшения UX."
+  ],
+  "affectedLevelNumbers": [],
+  "affectedObstacleIds": [],
+  "impactCheckedAt": "2026-08-03"
+}

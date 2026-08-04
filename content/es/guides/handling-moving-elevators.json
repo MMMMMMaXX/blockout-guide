@@ -1,0 +1,43 @@
+{
+  "kind": "guide",
+  "id": "es-guide-handling-moving-elevators",
+  "locale": "es",
+  "slug": "handling-moving-elevators",
+  "title": "Cómo esquivar los elevadores móviles",
+  "summary": "Planifica transferencias de carril en lugar de luchar contra el ciclo del elevador, y mantén un carril buffer abierto para los bloques devueltos.",
+  "status": "published",
+  "sourceReferences": ["https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"],
+  "seo": {
+    "title": "Esquiva los Moving Elevators",
+    "description": "Planifica rutas de Block Out en torno a elevadores móviles leyendo el ciclo, usando transferencias y manteniendo un carril buffer abierto."
+  },
+  "verifiedAt": "2026-08-03",
+  "updatedAt": "2026-08-03",
+  "question": "¿Cómo debo planificar una ruta de Block Out cuando los elevadores mueven mis bloques entre carriles?",
+  "sections": [
+    {
+      "heading": "Lee el ciclo antes de mover",
+      "body": [
+        "Observa un ciclo completo del elevador para saber a qué carril regresa un bloque.",
+        "Compromete solo bloques cuya ruta siga funcionando tras la transferencia."
+      ]
+    },
+    {
+      "heading": "Usa la transferencia como un movimiento gratis",
+      "body": [
+        "Cuando el ciclo ayuda claramente, carga un color atascado en el elevador en lugar de forzar una ruta manual más larga.",
+        "Mantén despejado el carril de retorno para que el bloque caiga donde lo quieres."
+      ]
+    },
+    {
+      "heading": "Conserva un carril buffer",
+      "body": [
+        "Siempre mantén un carril abierto como lugar de aterrizaje para los bloques devueltos.",
+        "Un buffer evita que el elevador deje atrapada una pieza que todavía necesitas."
+      ]
+    }
+  ],
+  "obstacleIds": ["moving-elevators"],
+  "boosterIds": ["time-freeze"],
+  "relatedLevelNumbers": []
+}
