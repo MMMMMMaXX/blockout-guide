@@ -14,7 +14,9 @@ function getOutputFile(pathname: string): string {
 /** 预渲染 HTML 由根布局统一种植 lang="en"，此处按路径前缀改写为真实语言，保证静态 SEO 正确。 */
 function injectHtmlLang(html: string, pathname: string): string {
   const prefix = pathname.split("/")[1] ?? defaultLocale;
-  const locale = supportedLocales.includes(prefix as never) ? (prefix as keyof typeof localeMeta) : defaultLocale;
+  const locale = supportedLocales.includes(prefix as never)
+    ? (prefix as keyof typeof localeMeta)
+    : defaultLocale;
   const htmlLang = localeMeta[locale]?.htmlLang ?? "en";
   return html.replace(/<html\s+lang="en"/, `<html lang="${htmlLang}"`);
 }

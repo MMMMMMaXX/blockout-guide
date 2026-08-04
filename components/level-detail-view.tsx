@@ -75,7 +75,10 @@ export function LevelDetailView({ level }: LevelDetailViewProps) {
             <QuickTipsModule tips={variant.quickTips} />
           ) : null}
         </div>
-        {showProse && level.contentTier === "full-guide" && variant.steps && variant.steps.length > 0 ? (
+        {showProse &&
+        level.contentTier === "full-guide" &&
+        variant.steps &&
+        variant.steps.length > 0 ? (
           <SolutionStepsModule steps={variant.steps} />
         ) : null}
       </section>

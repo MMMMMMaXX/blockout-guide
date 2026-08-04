@@ -26,7 +26,8 @@ export function LevelCard({ level, locale }: LevelCardProps) {
   const t = getMessages(locale);
   const thumb = getCardThumbnail(level);
   const showSummary = level.locale === locale;
-  const difficultyLabel = t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
+  const difficultyLabel =
+    t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
   const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";
   const tierLabel = t.contentTier[tierKey as keyof typeof t.contentTier] ?? level.contentTier;
   return (
@@ -42,9 +43,7 @@ export function LevelCard({ level, locale }: LevelCardProps) {
         ) : (
           <BoardPreview compact />
         )}
-        <span className={`badge badge--${level.difficulty ?? "easy"}`}>
-          {difficultyLabel}
-        </span>
+        <span className={`badge badge--${level.difficulty ?? "easy"}`}>{difficultyLabel}</span>
       </div>
       <div className="level-card__body">
         <div>

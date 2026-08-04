@@ -81,7 +81,8 @@ export function highlightColors({ text, locale }: HighlightColorsProps): ReactNo
       if (COLOR_HEX[key]) {
         return (
           <span key={index} className="color-inline">
-            <ColorDot name={key} locale={locale} /> {locale ? localizedColorName(part, locale) : part}
+            <ColorDot name={key} locale={locale} />{" "}
+            {locale ? localizedColorName(part, locale) : part}
           </span>
         );
       }

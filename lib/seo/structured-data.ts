@@ -39,7 +39,12 @@ export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<st
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: t.nav.home, item: `${baseUrl}/${locale}/` },
-        { "@type": "ListItem", position: 2, name: t.nav.levels, item: `${baseUrl}/${locale}/levels/` },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: t.nav.levels,
+          item: `${baseUrl}/${locale}/levels/`,
+        },
         { "@type": "ListItem", position: 3, name: `Level ${level.levelNumber}`, item: url },
       ],
     },

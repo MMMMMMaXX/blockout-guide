@@ -30,12 +30,7 @@
     "title": "Bloqué sur un niveau ? Commencez par le bon plateau.",
     "lede": "Trouvez une variante correspondante, puis accédez à la vidéo, aux premiers coups et aux notes sur les obstacles sans parcourir un long article.",
     "searchPlaceholder": "Recherchez un niveau ou accédez directement à un numéro",
-    "chips": [
-      "Variantes de plateau",
-      "Vidéo portrait",
-      "Selon la version",
-      "Aucune page vide"
-    ],
+    "chips": ["Variantes de plateau", "Vidéo portrait", "Selon la version", "Aucune page vide"],
     "statusStrip": [
       {
         "value": "30 s",

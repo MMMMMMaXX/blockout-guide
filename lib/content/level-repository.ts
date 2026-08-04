@@ -22,7 +22,8 @@ function unionByNumber(levels: readonly LevelArticle[], locale: Locale): Resolve
   for (const level of levels) {
     const existing = byNumber.get(level.levelNumber);
     if (!existing) byNumber.set(level.levelNumber, level);
-    else if (existing.locale !== locale && level.locale === locale) byNumber.set(level.levelNumber, level);
+    else if (existing.locale !== locale && level.locale === locale)
+      byNumber.set(level.levelNumber, level);
   }
   return [...byNumber.values()]
     .sort((left, right) => left.levelNumber - right.levelNumber)

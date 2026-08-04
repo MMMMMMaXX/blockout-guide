@@ -30,12 +30,7 @@
     "title": "Preso em uma fase? Comece pelo tabuleiro certo.",
     "lede": "Encontre a variante compatível e tenha o vídeo, os primeiros movimentos e as observações sobre obstáculos sem ler um artigo longo.",
     "searchPlaceholder": "Busque qualquer fase ou pule para um número",
-    "chips": [
-      "Variantes de tabuleiro",
-      "Vídeo vertical",
-      "Ciente da versão",
-      "Sem páginas vazias"
-    ],
+    "chips": ["Variantes de tabuleiro", "Vídeo vertical", "Ciente da versão", "Sem páginas vazias"],
     "statusStrip": [
       {
         "value": "30 s",

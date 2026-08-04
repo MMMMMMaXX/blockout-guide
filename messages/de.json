@@ -30,12 +30,7 @@
     "title": "Festgefahren in einem Level? Beginne mit dem richtigen Brett.",
     "lede": "Finde eine passende Variante und erhalte das Video, die Eröffnungszüge und Hinweise zu Hindernissen – ohne einen langen Artikel zu wälzen.",
     "searchPlaceholder": "Jedes Level suchen oder zu einer Nummer springen",
-    "chips": [
-      "Brett-Varianten",
-      "Hochformat-Video",
-      "Versionenbewusst",
-      "Keine leeren Seiten"
-    ],
+    "chips": ["Brett-Varianten", "Hochformat-Video", "Versionenbewusst", "Keine leeren Seiten"],
     "statusStrip": [
       {
         "value": "30 Sek",

@@ -30,12 +30,7 @@
     "title": "Stuck on a level? Start with the right board.",
     "lede": "Find a matching variant, then get the video, opening moves and obstacle notes without digging through a long article.",
     "searchPlaceholder": "Search every level or jump to a number",
-    "chips": [
-      "Board variants",
-      "Portrait video",
-      "Version-aware",
-      "No empty pages"
-    ],
+    "chips": ["Board variants", "Portrait video", "Version-aware", "No empty pages"],
     "statusStrip": [
       {
         "value": "30 sec",

@@ -30,12 +30,7 @@
     "title": "Bir seviyede mi takıldınız? Doğru tahtayla başlayın.",
     "lede": "Eşleşen bir varyantı bulun, ardından uzun bir makaleye göz atmak zorunda kalmadan videoyu, açılış hamlelerini ve engel notlarını alın.",
     "searchPlaceholder": "Her seviyeyi arayın veya bir numaraya atlayın",
-    "chips": [
-      "Tahta varyantları",
-      "Dikey video",
-      "Sürüm farkında",
-      "Boş sayfa yok"
-    ],
+    "chips": ["Tahta varyantları", "Dikey video", "Sürüm farkında", "Boş sayfa yok"],
     "statusStrip": [
       {
         "value": "30 sn",

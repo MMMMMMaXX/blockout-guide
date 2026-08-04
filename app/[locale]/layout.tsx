@@ -13,5 +13,9 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
   if (!isLocale(raw)) notFound();
   const locale = raw as Locale;
   const messages = getMessages(locale);
-  return <SiteShell locale={locale} messages={messages}>{children}</SiteShell>;
+  return (
+    <SiteShell locale={locale} messages={messages}>
+      {children}
+    </SiteShell>
+  );
 }

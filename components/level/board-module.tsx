@@ -76,7 +76,8 @@ export function BoardModule({
   const showProse = level.locale === locale;
   const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";
   const tierLabel = t.contentTier[tierKey as keyof typeof t.contentTier] ?? level.contentTier;
-  const difficultyLabel = t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
+  const difficultyLabel =
+    t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
   return (
     <article className="board-card">
       <div className="detail-title">

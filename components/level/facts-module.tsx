@@ -14,8 +14,7 @@ export function FactsModule({ level, variant, locale }: FactsModuleProps) {
   const t = getMessages(locale);
   const colors = variant.boardProfile?.colors ?? [];
 
-  const statusValue =
-    level.status === "published" ? t.status.published : level.status;
+  const statusValue = level.status === "published" ? t.status.published : level.status;
   const verificationValue =
     variant.verificationStatus === "source-verified"
       ? t.verificationStatus.sourceVerified
