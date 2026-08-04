@@ -271,6 +271,101 @@
   },
   "editorial": {
     "publishedArticles": "{count} 篇已发布文章",
-    "updated": "更新于 {date}"
+    "updated": "更新于 {date}",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "机制库",
+        "title": "Block Out 障碍",
+        "description": "经验证的规则、棋盘优先级、失败模式以及受影响的已发布关卡。",
+        "emptyTitle": "尚未发布任何障碍文章",
+        "emptyCopy": "添加一篇完整的已发布障碍文章，即可在此自动出现。"
+      },
+      "boosters": {
+        "eyebrow": "决策库",
+        "title": "Block Out 增益道具",
+        "description": "判断经核实的增益道具何时有效、何时无效。",
+        "emptyTitle": "尚未发布任何增益道具决策指南",
+        "emptyCopy": "添加一篇完整的已发布增益道具指南，即可在此自动出现。"
+      },
+      "guides": {
+        "eyebrow": "策略库",
+        "title": "Block Out 策略攻略",
+        "description": "针对多个已验证关卡中反复出现问题的可复用决策。",
+        "emptyTitle": "尚未发布任何策略攻略",
+        "emptyCopy": "添加一篇完整的已发布攻略，即可在此自动出现。"
+      },
+      "updates": {
+        "eyebrow": "版本观察",
+        "title": "Block Out 更新",
+        "description": "来源变更、受影响内容以及版本发布后所需的校验工作。",
+        "emptyTitle": "尚未发布任何版本更新",
+        "emptyCopy": "添加一篇完整的已发布更新文章，即可在此自动出现。"
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "障碍",
+        "booster": "增益道具决策指南",
+        "guide": "策略攻略",
+        "update": "版本"
+      },
+      "labels": {
+        "verified": "已验证",
+        "updated": "已更新",
+        "released": "已发布",
+        "impactChecked": "影响已核查",
+        "priority": "优先级"
+      },
+      "relatedEyebrow": "相关关卡",
+      "relatedTitle": "已验证示例",
+      "relatedTitleObstacle": "使用此障碍的已验证关卡",
+      "emptyCount": "0 个已验证链接",
+      "emptyCountImpact": "0 项公开影响",
+      "emptyTitle": "未关联任何关卡级示例",
+      "emptyTitleImpact": "发布说明中未提及任何单独关卡",
+      "emptyCopyObstacle": "上述障碍规则完整，无需推断关卡关系。",
+      "emptyCopyBooster": "使用上方的决策清单区分时序问题与路由问题。",
+      "emptyCopyGuide": "该攻略仍可通过其来源化的通用决策框架获取。",
+      "emptyCopyImpact": "来源化影响通过 Ivy 障碍关系记录。",
+      "obstacle": {
+        "rulesEyebrow": "机制规则",
+        "rulesTitle": "运作方式",
+        "strategyEyebrow": "决策优先级",
+        "strategyTitle": "策略检查",
+        "avoidEyebrow": "避免",
+        "avoidTitle": "常见错误",
+        "evidenceEyebrow": "证据记录",
+        "evidenceTitle": "来源与范围",
+        "sourceRefs": "{count} 条来源引用已记录。",
+        "checkedOn": "事实已于 {date} 核查。"
+      },
+      "booster": {
+        "effectEyebrow": "已验证效果",
+        "useEyebrow": "建议考虑使用",
+        "useTitle": "可能适用的情况",
+        "avoidEyebrow": "不要浪费它",
+        "avoidTitle": "无法修复该尝试的情况",
+        "checklistEyebrow": "决策清单"
+      },
+      "guide": {
+        "question": "问题",
+        "sectionEyebrow": "第 {n} 节",
+        "factsEyebrow": "编辑事实",
+        "factsTitle": "证据边界",
+        "sourceRefs": "{count} 条来源引用已记录。",
+        "verifiedOn": "已验证于 {date}",
+        "updatedOn": "已更新于 {date}"
+      },
+      "update": {
+        "changesEyebrow": "已验证变更",
+        "changesTitle": "变更内容",
+        "noClaims": "此结构模板不含任何生产环境声明。",
+        "impactEyebrow": "影响覆盖",
+        "impactTitle": "内容影响",
+        "levels": "关卡",
+        "obstacles": "障碍",
+        "sources": "来源"
+      }
+    }
   }
 }

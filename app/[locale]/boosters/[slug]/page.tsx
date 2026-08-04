@@ -9,11 +9,14 @@ import {
   getPublishedRelatedLevels,
 } from "@/lib/content/editorial-repository";
 import type { Locale } from "@/lib/content/types";
+import { supportedLocales } from "@/lib/i18n/locales";
 import { getMessages } from "@/lib/i18n/messages";
 
 type PageProps = { params: Promise<{ locale: string; slug: string }> };
 export function generateStaticParams() {
-  return getPublishedBoosters("en").map((article) => ({ slug: article.slug }));
+  return supportedLocales.flatMap((locale) =>
+    getPublishedBoosters("en").map((article) => ({ locale, slug: article.slug })),
+  );
 }
 /** Booster 草稿永不索引，发布后使用经过门禁的 SEO 信息。 */
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -50,22 +53,26 @@ export default async function BoosterDetailPage({ params }: PageProps) {
         <span>{article.title}</span>
       </nav>
       <header className="article-hero">
-        <p className="eyebrow">BOOSTER DECISION GUIDE</p>
+        <p className="eyebrow">{t.editorial.detail.eyebrow.booster}</p>
         <h1>{article.title}</h1>
         <p>{article.summary}</p>
         <div className="article-facts">
-          <span>Verified: {article.verifiedAt ?? article.updatedAt}</span>
-          <span>Updated: {article.updatedAt}</span>
+          <span>
+            {t.editorial.detail.labels.verified}: {article.verifiedAt ?? article.updatedAt}
+          </span>
+          <span>
+            {t.editorial.detail.labels.updated}: {article.updatedAt}
+          </span>
         </div>
       </header>
       <section className="content-panel effect-callout">
-        <p className="eyebrow">VERIFIED EFFECT</p>
+        <p className="eyebrow">{t.editorial.detail.booster.effectEyebrow}</p>
         <h2>{article.effect}</h2>
       </section>
       <div className="decision-grid">
         <section className="content-panel">
-          <p className="eyebrow">CONSIDER USING</p>
-          <h2>When it may help</h2>
+          <p className="eyebrow">{t.editorial.detail.booster.useEyebrow}</p>
+          <h2>{t.editorial.detail.booster.useTitle}</h2>
           <ul className="plain-list plain-list--good">
             {article.useWhen.map((item) => (
               <li key={item}>{item}</li>
@@ -73,8 +80,8 @@ export default async function BoosterDetailPage({ params }: PageProps) {
           </ul>
         </section>
         <section className="content-panel">
-          <p className="eyebrow">DO NOT WASTE IT</p>
-          <h2>When it will not fix the attempt</h2>
+          <p className="eyebrow">{t.editorial.detail.booster.avoidEyebrow}</p>
+          <h2>{t.editorial.detail.booster.avoidTitle}</h2>
           <ul className="plain-list plain-list--warn">
             {article.avoidWhen.map((item) => (
               <li key={item}>{item}</li>
@@ -83,7 +90,7 @@ export default async function BoosterDetailPage({ params }: PageProps) {
         </section>
       </div>
       <section className="content-panel editorial-section">
-        <p className="eyebrow">DECISION CHECKLIST</p>
+        <p className="eyebrow">{t.editorial.detail.booster.checklistEyebrow}</p>
         <ol className="number-list">
           {article.decisionChecks.map((item) => (
             <li key={item}>{item}</li>
@@ -93,8 +100,8 @@ export default async function BoosterDetailPage({ params }: PageProps) {
       <section className="section">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">RELATED LEVELS</p>
-            <h2>Verified examples</h2>
+            <p className="eyebrow">{t.editorial.detail.relatedEyebrow}</p>
+            <h2>{t.editorial.detail.relatedTitle}</h2>
           </div>
         </div>
         {relatedLevels.length > 0 ? (
@@ -105,11 +112,9 @@ export default async function BoosterDetailPage({ params }: PageProps) {
           </div>
         ) : (
           <div className="empty-state">
-            <span>0 verified links</span>
-            <h2>No level-specific example is linked</h2>
-            <p>
-              Use the decision checklist above to separate timing problems from routing problems.
-            </p>
+            <span>{t.editorial.detail.emptyCount}</span>
+            <h2>{t.editorial.detail.emptyTitle}</h2>
+            <p>{t.editorial.detail.emptyCopyBooster}</p>
           </div>
         )}
       </section>

@@ -271,6 +271,101 @@
   },
   "editorial": {
     "publishedArticles": "{count} veröffentlichte Artikel",
-    "updated": "Aktualisiert am {date}"
+    "updated": "Aktualisiert am {date}",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "MECHANIK-BIBLIOTHEK",
+        "title": "Block Out Hindernisse",
+        "description": "Verifizierte Regeln, Brett-Prioritäten, Fehlerquellen und die veröffentlichten Level, die sie betreffen.",
+        "emptyTitle": "Es ist noch kein Hindernis-Artikel veröffentlicht",
+        "emptyCopy": "Füge einen vollständigen veröffentlichten Hindernis-Artikel hinzu, damit er hier automatisch erscheint."
+      },
+      "boosters": {
+        "eyebrow": "ENTSCHEIDUNGS-BIBLIOTHEK",
+        "title": "Block Out Booster",
+        "description": "Entscheide, wann ein verifizierter Booster hilft und wann nicht.",
+        "emptyTitle": "Es ist noch kein Booster-Entscheidungsleitfaden veröffentlicht",
+        "emptyCopy": "Füge einen vollständigen veröffentlichten Booster-Leitfaden hinzu, damit er hier automatisch erscheint."
+      },
+      "guides": {
+        "eyebrow": "STRATEGIE-BIBLIOTHEK",
+        "title": "Block Out Strategie-Anleitungen",
+        "description": "Wiederverwendbare Entscheidungen für Probleme, die in mehr als einem verifizierten Level auftreten.",
+        "emptyTitle": "Es ist noch kein Strategie-Leitfaden veröffentlicht",
+        "emptyCopy": "Füge einen vollständigen veröffentlichten Leitfaden hinzu, damit er hier automatisch erscheint."
+      },
+      "updates": {
+        "eyebrow": "VERSIONS-VERFOLGUNG",
+        "title": "Block Out Updates",
+        "description": "Recherchierte Änderungen, betroffener Inhalt und die nach einer Veröffentlichung nötige Verifizierungsarbeit.",
+        "emptyTitle": "Es ist noch kein Versions-Update veröffentlicht",
+        "emptyCopy": "Füge einen vollständigen veröffentlichten Update-Artikel hinzu, damit er hier automatisch erscheint."
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "HINDERNIS",
+        "booster": "BOOSTER-ENTSCHEIDUNGSLEITFADEN",
+        "guide": "STRATEGIE-LEITFADEN",
+        "update": "VERSION"
+      },
+      "labels": {
+        "verified": "Verifiziert",
+        "updated": "Aktualisiert",
+        "released": "Freigegeben",
+        "impactChecked": "Auswirkung geprüft",
+        "priority": "Priorität"
+      },
+      "relatedEyebrow": "VERWANDTE LEVEL",
+      "relatedTitle": "Verifizierte Beispiele",
+      "relatedTitleObstacle": "Verifizierte Level mit diesem Hindernis",
+      "emptyCount": "0 verifizierte Links",
+      "emptyCountImpact": "0 öffentliche Auswirkungen",
+      "emptyTitle": "Es ist kein level-spezifisches Beispiel verknüpft",
+      "emptyTitleImpact": "In den Versionshinweisen wurde kein einzelnes Level genannt",
+      "emptyCopyObstacle": "Die Hindernis-Regeln oben bleiben ohne eine abgeleitete Level-Beziehung vollständig.",
+      "emptyCopyBooster": "Nutze die Entscheidungs-Checkliste oben, um Zeitprobleme von Routing-Problemen zu trennen.",
+      "emptyCopyGuide": "Der Leitfaden bleibt über seinen recherchierten allgemeinen Entscheidungsrahmen verfügbar.",
+      "emptyCopyImpact": "Die recherchierte Auswirkung wird stattdessen über die Ivy-Hindernis-Beziehung erfasst.",
+      "obstacle": {
+        "rulesEyebrow": "MECHANIK-REGELN",
+        "rulesTitle": "So funktioniert es",
+        "strategyEyebrow": "ENTSCHEIDUNGS-PRIORITÄT",
+        "strategyTitle": "Strategie-Prüfungen",
+        "avoidEyebrow": "VERMEIDEN",
+        "avoidTitle": "Häufige Fehler",
+        "evidenceEyebrow": "BEWEIS-AUFZEICHNUNG",
+        "evidenceTitle": "Quellen und Geltungsbereich",
+        "sourceRefs": "{count} Quellverweise erfasst.",
+        "checkedOn": "Fakten wurden am {date} geprüft."
+      },
+      "booster": {
+        "effectEyebrow": "VERIFIZIERTE WIRKUNG",
+        "useEyebrow": "ERWÄGEN ZU NUTZEN",
+        "useTitle": "Wann es helfen kann",
+        "avoidEyebrow": "NICHT VERGEUDEN",
+        "avoidTitle": "Wann es den Versuch nicht behebt",
+        "checklistEyebrow": "ENTSCHEIDUNGS-CHECKLISTE"
+      },
+      "guide": {
+        "question": "Frage",
+        "sectionEyebrow": "ABSCHNITT {n}",
+        "factsEyebrow": "REDAKTIONELLE FAKTEN",
+        "factsTitle": "Beweis-Grenze",
+        "sourceRefs": "{count} Quellverweise erfasst.",
+        "verifiedOn": "Verifiziert am {date}",
+        "updatedOn": "Aktualisiert am {date}"
+      },
+      "update": {
+        "changesEyebrow": "VERIFIZIERTE ÄNDERUNGEN",
+        "changesTitle": "Was sich geändert hat",
+        "noClaims": "Diese Strukturvorlage enthält keine Produktionsbehauptungen.",
+        "impactEyebrow": "AUSWIRKUNGS-ABDECKUNG",
+        "impactTitle": "Inhalts-Auswirkung",
+        "levels": "Level",
+        "obstacles": "Hindernisse",
+        "sources": "Quellen"
+      }
+    }
   }
 }

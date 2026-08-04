@@ -4,6 +4,7 @@ import { EditorialCollection } from "@/components/editorial-collection";
 import { getPublishedUpdates } from "@/lib/content/editorial-repository";
 import type { Locale } from "@/lib/content/types";
 import { supportedLocales } from "@/lib/i18n/locales";
+import { getMessages } from "@/lib/i18n/messages";
 import { buildFullAlternates } from "@/lib/seo/metadata";
 
 type PageProps = { params: Promise<{ locale: string }> };
@@ -17,32 +18,34 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params;
   const current = locale as Locale;
+  const t = getMessages(current);
   return {
-    title: "Block Out updates",
-    description: "Track verified Block Out version changes and guide revalidation status.",
+    title: t.editorial.pages.updates.title,
+    description: t.editorial.pages.updates.description,
     alternates: buildFullAlternates(`/${current}/updates/`),
     robots: "index, follow",
   };
 }
 
-/** Updates 页面强调对攻略库的影响，而不是复制普通新闻流。 */
+/** Updates 页面强调对攻略库的影响，而不是复制普通新闻流；非英文语言回退到英文源内容。 */
 export default async function UpdatesPage({ params }: PageProps) {
   const { locale } = await params;
   const current = locale as Locale;
+  const t = getMessages(current);
   const updates = getPublishedUpdates(current);
   return (
     <div className="shell page">
       <header className="page-heading">
-        <p className="eyebrow">VERSION WATCH</p>
-        <h1>Block Out updates</h1>
-        <p>Sourced changes, affected content and the verification work required after a release.</p>
+        <p className="eyebrow">{t.editorial.pages.updates.eyebrow}</p>
+        <h1>{t.editorial.pages.updates.title}</h1>
+        <p>{t.editorial.pages.updates.description}</p>
       </header>
       <EditorialCollection
         locale={current}
         items={updates}
         routeSegment="updates"
-        emptyTitle="No version update is published yet"
-        emptyCopy="Add a complete published update article to make it appear here automatically."
+        emptyTitle={t.editorial.pages.updates.emptyTitle}
+        emptyCopy={t.editorial.pages.updates.emptyCopy}
       />
     </div>
   );

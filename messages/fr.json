@@ -271,6 +271,101 @@
   },
   "editorial": {
     "publishedArticles": "{count} articles publiés",
-    "updated": "Mis à jour le {date}"
+    "updated": "Mis à jour le {date}",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "BIBLIOTHÈQUE DE MÉCANIQUES",
+        "title": "Obstacles Block Out",
+        "description": "Règles vérifiées, priorités du plateau, modes d'échec et niveaux publiés concernés.",
+        "emptyTitle": "Aucun article sur les obstacles n'est encore publié",
+        "emptyCopy": "Ajoutez un article complet et publié sur les obstacles pour qu'il apparaisse ici automatiquement."
+      },
+      "boosters": {
+        "eyebrow": "BIBLIOTHÈQUE DE DÉCISIONS",
+        "title": "Boosters Block Out",
+        "description": "Décidez quand un booster vérifié aide et quand il n'aide pas.",
+        "emptyTitle": "Aucun guide de décision sur les boosters n'est encore publié",
+        "emptyCopy": "Ajoutez un guide complet et publié sur les boosters pour qu'il apparaisse ici automatiquement."
+      },
+      "guides": {
+        "eyebrow": "BIBLIOTHÈQUE DE STRATÉGIES",
+        "title": "Guides stratégiques Block Out",
+        "description": "Décisions réutilisables pour les problèmes qui apparaissent dans plusieurs niveaux vérifiés.",
+        "emptyTitle": "Aucun guide stratégique n'est encore publié",
+        "emptyCopy": "Ajoutez un guide complet et publié pour qu'il apparaisse ici automatiquement."
+      },
+      "updates": {
+        "eyebrow": "SUIVI DES VERSIONS",
+        "title": "Mises à jour Block Out",
+        "description": "Changements sourcés, contenu concerné et travail de vérification requis après une sortie.",
+        "emptyTitle": "Aucune mise à jour de version n'est encore publiée",
+        "emptyCopy": "Ajoutez un article complet et publié sur les mises à jour pour qu'il apparaisse ici automatiquement."
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "OBSTACLE",
+        "booster": "GUIDE DE DÉCISION BOOSTER",
+        "guide": "GUIDE STRATÉGIQUE",
+        "update": "VERSION"
+      },
+      "labels": {
+        "verified": "Vérifié",
+        "updated": "Mis à jour",
+        "released": "Publié",
+        "impactChecked": "Impact vérifié",
+        "priority": "Priorité"
+      },
+      "relatedEyebrow": "NIVEAUX ASSOCIÉS",
+      "relatedTitle": "Exemples vérifiés",
+      "relatedTitleObstacle": "Niveaux vérifiés utilisant cet obstacle",
+      "emptyCount": "0 lien vérifié",
+      "emptyCountImpact": "0 impact public",
+      "emptyTitle": "Aucun exemple propre à un niveau n'est lié",
+      "emptyTitleImpact": "Aucun niveau individuel n'a été nommé dans les notes de version",
+      "emptyCopyObstacle": "Les règles d'obstacle ci-dessus restent complètes sans relation de niveau déduite.",
+      "emptyCopyBooster": "Utilisez la liste de contrôle de décision ci-dessus pour séparer les problèmes de timing des problèmes de routage.",
+      "emptyCopyGuide": "Le guide reste disponible via son cadre de décision général sourcé.",
+      "emptyCopyImpact": "L'impact sourcé est enregistré via la relation d'obstacle Ivy à la place.",
+      "obstacle": {
+        "rulesEyebrow": "RÈGLES DE MÉCANIQUE",
+        "rulesTitle": "Comment ça fonctionne",
+        "strategyEyebrow": "PRIORITÉ DE DÉCISION",
+        "strategyTitle": "Vérifications de stratégie",
+        "avoidEyebrow": "À ÉVITER",
+        "avoidTitle": "Erreurs courantes",
+        "evidenceEyebrow": "REGISTRE DE PREUVES",
+        "evidenceTitle": "Sources et périmètre",
+        "sourceRefs": "{count} références source enregistrées.",
+        "checkedOn": "Les faits ont été vérifiés le {date}."
+      },
+      "booster": {
+        "effectEyebrow": "EFFET VÉRIFIÉ",
+        "useEyebrow": "ENVISAGEZ L'UTILISATION",
+        "useTitle": "Quand cela peut aider",
+        "avoidEyebrow": "NE LE GASPILLEZ PAS",
+        "avoidTitle": "Quand cela ne corrigera pas la tentative",
+        "checklistEyebrow": "LISTE DE CONTRÔLE DE DÉCISION"
+      },
+      "guide": {
+        "question": "Question",
+        "sectionEyebrow": "SECTION {n}",
+        "factsEyebrow": "FAITS ÉDITORIAUX",
+        "factsTitle": "Limite des preuves",
+        "sourceRefs": "{count} références source enregistrées.",
+        "verifiedOn": "Vérifié le {date}",
+        "updatedOn": "Mis à jour le {date}"
+      },
+      "update": {
+        "changesEyebrow": "CHANGEMENTS VÉRIFIÉS",
+        "changesTitle": "Ce qui a changé",
+        "noClaims": "Ce modèle de structure ne contient aucune affirmation de production.",
+        "impactEyebrow": "COUVERTURE D'IMPACT",
+        "impactTitle": "Impact sur le contenu",
+        "levels": "Niveaux",
+        "obstacles": "Obstacles",
+        "sources": "Sources"
+      }
+    }
   }
 }

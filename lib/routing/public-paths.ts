@@ -35,11 +35,14 @@ export function getPublicPaths(
     update: "updates",
   };
   const publishedEditorial = editorial.filter((article) => article.status === "published");
-  const detailPaths = publishedEditorial.map(
-    (article) => `/${article.locale}/${kindSegments[article.kind]}/${article.slug}/`,
+  // 编辑内容仅英文源，但为非英文语言预渲染（Tier A：英文正文 + 本地化界面），可索引。
+  const detailPaths = supportedLocales.flatMap((locale) =>
+    publishedEditorial.map(
+      (article) => `/${locale}/${kindSegments[article.kind]}/${article.slug}/`,
+    ),
   );
-  const collectionPaths = publishedEditorial.map(
-    (article) => `/${article.locale}/${kindSegments[article.kind]}/`,
+  const collectionPaths = supportedLocales.flatMap((locale) =>
+    publishedEditorial.map((article) => `/${locale}/${kindSegments[article.kind]}/`),
   );
 
   return [

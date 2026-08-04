@@ -9,13 +9,16 @@ import {
   getPublishedRelatedLevels,
 } from "@/lib/content/editorial-repository";
 import type { Locale } from "@/lib/content/types";
-import { getMessages } from "@/lib/i18n/messages";
+import { supportedLocales } from "@/lib/i18n/locales";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
 
 type PageProps = { params: Promise<{ locale: string; slug: string }> };
 
-/** 只为真实内容实体生成详情参数，不批量制造机制空页。 */
+/** 为全部受支持语言生成详情参数（非英文回退到英文源内容），不批量制造机制空页。 */
 export function generateStaticParams() {
-  return getPublishedObstacles("en").map((article) => ({ slug: article.slug }));
+  return supportedLocales.flatMap((locale) =>
+    getPublishedObstacles("en").map((article) => ({ locale, slug: article.slug })),
+  );
 }
 
 /** 草稿机制显式 noindex，发布后使用独立 SEO 或内容摘要。 */
@@ -54,20 +57,28 @@ export default async function ObstacleDetailPage({ params }: PageProps) {
         <span>{article.title}</span>
       </nav>
       <header className="article-hero">
-        <p className="eyebrow">OBSTACLE · {article.category}</p>
+        <p className="eyebrow">
+          {t.editorial.detail.eyebrow.obstacle} · {article.category}
+        </p>
         <h1>{article.title}</h1>
         <p>{article.summary}</p>
         <div className="article-facts">
-          <span>Priority: {article.priority}</span>
-          <span>Verified: {article.verifiedAt ?? article.updatedAt}</span>
-          <span>Updated: {article.updatedAt}</span>
+          <span>
+            {t.editorial.detail.labels.priority}: {article.priority}
+          </span>
+          <span>
+            {t.editorial.detail.labels.verified}: {article.verifiedAt ?? article.updatedAt}
+          </span>
+          <span>
+            {t.editorial.detail.labels.updated}: {article.updatedAt}
+          </span>
         </div>
       </header>
       <div className="article-columns">
         <div className="article-main">
           <section className="content-panel">
-            <p className="eyebrow">MECHANIC RULES</p>
-            <h2>How Ivy works</h2>
+            <p className="eyebrow">{t.editorial.detail.obstacle.rulesEyebrow}</p>
+            <h2>{t.editorial.detail.obstacle.rulesTitle}</h2>
             <ul className="plain-list">
               {article.rules.map((item) => (
                 <li key={item}>{item}</li>
@@ -75,8 +86,8 @@ export default async function ObstacleDetailPage({ params }: PageProps) {
             </ul>
           </section>
           <section className="content-panel">
-            <p className="eyebrow">DECISION PRIORITY</p>
-            <h2>Strategy checks</h2>
+            <p className="eyebrow">{t.editorial.detail.obstacle.strategyEyebrow}</p>
+            <h2>{t.editorial.detail.obstacle.strategyTitle}</h2>
             <ul className="plain-list plain-list--good">
               {article.strategyPoints.map((item) => (
                 <li key={item}>{item}</li>
@@ -84,8 +95,8 @@ export default async function ObstacleDetailPage({ params }: PageProps) {
             </ul>
           </section>
           <section className="content-panel">
-            <p className="eyebrow">AVOID</p>
-            <h2>Common mistakes</h2>
+            <p className="eyebrow">{t.editorial.detail.obstacle.avoidEyebrow}</p>
+            <h2>{t.editorial.detail.obstacle.avoidTitle}</h2>
             <ul className="plain-list plain-list--warn">
               {article.avoidPoints.map((item) => (
                 <li key={item}>{item}</li>
@@ -94,17 +105,25 @@ export default async function ObstacleDetailPage({ params }: PageProps) {
           </section>
         </div>
         <aside className="article-side content-panel">
-          <p className="eyebrow">EVIDENCE RECORD</p>
-          <h2>Sources and scope</h2>
-          <p>{article.sourceReferences.length} source references recorded.</p>
-          <p>Facts were checked on {article.verifiedAt ?? article.updatedAt}.</p>
+          <p className="eyebrow">{t.editorial.detail.obstacle.evidenceEyebrow}</p>
+          <h2>{t.editorial.detail.obstacle.evidenceTitle}</h2>
+          <p>
+            {interpolate(t.editorial.detail.obstacle.sourceRefs, {
+              count: article.sourceReferences.length,
+            })}
+          </p>
+          <p>
+            {interpolate(t.editorial.detail.obstacle.checkedOn, {
+              date: article.verifiedAt ?? article.updatedAt,
+            })}
+          </p>
         </aside>
       </div>
       <section className="section">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">RELATED LEVELS</p>
-            <h2>Verified levels using this obstacle</h2>
+            <p className="eyebrow">{t.editorial.detail.relatedEyebrow}</p>
+            <h2>{t.editorial.detail.relatedTitleObstacle}</h2>
           </div>
         </div>
         {relatedLevels.length > 0 ? (
@@ -115,9 +134,9 @@ export default async function ObstacleDetailPage({ params }: PageProps) {
           </div>
         ) : (
           <div className="empty-state">
-            <span>0 verified links</span>
-            <h2>No level-specific example is linked</h2>
-            <p>The obstacle rules above remain complete without an inferred level relationship.</p>
+            <span>{t.editorial.detail.emptyCount}</span>
+            <h2>{t.editorial.detail.emptyTitle}</h2>
+            <p>{t.editorial.detail.emptyCopyObstacle}</p>
           </div>
         )}
       </section>

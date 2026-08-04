@@ -271,6 +271,101 @@
   },
   "editorial": {
     "publishedArticles": "{count} yayınlanmış makale",
-    "updated": "{date} güncellendi"
+    "updated": "{date} güncellendi",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "MEKANİK KÜTÜPHANESİ",
+        "title": "Block Out engelleri",
+        "description": "Doğrulanmış kurallar, tahta öncelikleri, hata modları ve etkilediği yayınlanmış seviyeler.",
+        "emptyTitle": "Henüz yayınlanmış bir engel makalesi yok",
+        "emptyCopy": "Otomatik olarak burada görünmesi için eksiksiz bir yayınlanmış engel makalesi ekleyin."
+      },
+      "boosters": {
+        "eyebrow": "KARAR KÜTÜPHANESİ",
+        "title": "Block Out yardımcıları",
+        "description": "Doğrulanmış bir yardımcının ne zaman işe yaradığına ve ne zaman yaramadığına karar verin.",
+        "emptyTitle": "Henüz yayınlanmış bir yardımcı karar rehberi yok",
+        "emptyCopy": "Otomatik olarak burada görünmesi için eksiksiz bir yayınlanmış yardımcı rehberi ekleyin."
+      },
+      "guides": {
+        "eyebrow": "STRATEJİ KÜTÜPHANESİ",
+        "title": "Block Out strateji rehberleri",
+        "description": "Birden fazla doğrulanmış seviyede ortaya çıkan sorunlar için yeniden kullanılabilir kararlar.",
+        "emptyTitle": "Henüz yayınlanmış bir strateji rehberi yok",
+        "emptyCopy": "Otomatik olarak burada görünmesi için eksiksiz bir yayınlanmış rehber ekleyin."
+      },
+      "updates": {
+        "eyebrow": "SÜRÜM TAKİBİ",
+        "title": "Block Out güncellemeleri",
+        "description": "Kaynaklı değişiklikler, etkilenen içerik ve bir sürümden sonra gereken doğrulama çalışması.",
+        "emptyTitle": "Henüz yayınlanmış bir sürüm güncellemesi yok",
+        "emptyCopy": "Otomatik olarak burada görünmesi için eksiksiz bir yayınlanmış güncelleme makalesi ekleyin."
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "ENGEL",
+        "booster": "YARDIMCI KARAR REHBERİ",
+        "guide": "STRATEJİ REHBERİ",
+        "update": "SÜRÜM"
+      },
+      "labels": {
+        "verified": "Doğrulanmış",
+        "updated": "Güncellendi",
+        "released": "Yayınlandı",
+        "impactChecked": "Etki kontrol edildi",
+        "priority": "Öncelik"
+      },
+      "relatedEyebrow": "İLGİLİ SEVİYELER",
+      "relatedTitle": "Doğrulanmış örnekler",
+      "relatedTitleObstacle": "Bu engeli kullanan doğrulanmış seviyeler",
+      "emptyCount": "0 doğrulanmış bağlantı",
+      "emptyCountImpact": "0 genel etki",
+      "emptyTitle": "Hiçbir seviyeye özgü örnek bağlı değil",
+      "emptyTitleImpact": "Sürüm notlarında hiçbir ayrı seviyeden bahsedilmedi",
+      "emptyCopyObstacle": "Yukarıdaki engel kuralları, çıkarılmış bir seviye ilişkisi olmadan eksiksiz kalır.",
+      "emptyCopyBooster": "Zamanlama sorunlarını yönlendirme sorunlarından ayırmak için yukarıdaki karar kontrol listesini kullanın.",
+      "emptyCopyGuide": "Rehber, kaynaklı genel karar çerçevesi aracılığıyla kullanılabilir durumda kalır.",
+      "emptyCopyImpact": "Kaynaklı etki bunun yerine Ivy engel ilişkisi üzerinden kaydedilir.",
+      "obstacle": {
+        "rulesEyebrow": "MEKANİK KURALLARI",
+        "rulesTitle": "Nasıl çalışır",
+        "strategyEyebrow": "KARAR ÖNCELİĞİ",
+        "strategyTitle": "Strateji kontrolleri",
+        "avoidEyebrow": "KAÇIN",
+        "avoidTitle": "Yaygın hatalar",
+        "evidenceEyebrow": "KANIT KAYDI",
+        "evidenceTitle": "Kaynaklar ve kapsam",
+        "sourceRefs": "{count} kaynak referansı kaydedildi.",
+        "checkedOn": "Gerçekler {date} tarihinde kontrol edildi."
+      },
+      "booster": {
+        "effectEyebrow": "DOĞRULANMIŞ ETKİ",
+        "useEyebrow": "KULLANMAYI DEĞERLENDİRİN",
+        "useTitle": "Ne zaman yardımcı olabileceği",
+        "avoidEyebrow": "BOŞA HARCAMAYIN",
+        "avoidTitle": "Ne zaman denemeyi düzeltemeyeceği",
+        "checklistEyebrow": "KARAR KONTROL LİSTESİ"
+      },
+      "guide": {
+        "question": "Soru",
+        "sectionEyebrow": "BÖLÜM {n}",
+        "factsEyebrow": "EDİTÖRYAL GERÇEKLER",
+        "factsTitle": "Kanıt sınırı",
+        "sourceRefs": "{count} kaynak referansı kaydedildi.",
+        "verifiedOn": "{date} doğrulandı",
+        "updatedOn": "{date} güncellendi"
+      },
+      "update": {
+        "changesEyebrow": "DOĞRULANMIŞ DEĞİŞİKLİKLER",
+        "changesTitle": "Ne değişti",
+        "noClaims": "Bu yapı şablonu hiçbir üretim iddiası içermez.",
+        "impactEyebrow": "ETKİ KAPSAMI",
+        "impactTitle": "İçerik etkisi",
+        "levels": "Seviyeler",
+        "obstacles": "Engeller",
+        "sources": "Kaynaklar"
+      }
+    }
   }
 }

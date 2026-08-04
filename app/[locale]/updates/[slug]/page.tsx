@@ -9,13 +9,16 @@ import {
   getPublishedRelatedLevels,
 } from "@/lib/content/editorial-repository";
 import type { Locale } from "@/lib/content/types";
+import { supportedLocales } from "@/lib/i18n/locales";
 import { getMessages } from "@/lib/i18n/messages";
 
 type PageProps = { params: Promise<{ locale: string; slug: string }> };
 
-/** 详情参数来自真实 Update 文件，不预建任意版本号。 */
+/** 详情参数来自真实 Update 文件，并为全部受支持语言生成（非英文回退到英文源内容）。 */
 export function generateStaticParams() {
-  return getPublishedUpdates("en").map((article) => ({ slug: article.slug }));
+  return supportedLocales.flatMap((locale) =>
+    getPublishedUpdates("en").map((article) => ({ locale, slug: article.slug })),
+  );
 }
 
 /** 结构模板保持 noindex；真实 Update 由 Schema 保证发布信息完整。 */
@@ -54,19 +57,29 @@ export default async function UpdateDetailPage({ params }: PageProps) {
         <span>{article.version}</span>
       </nav>
       <header className="article-hero">
-        <p className="eyebrow">VERSION {article.version}</p>
+        <p className="eyebrow">
+          {t.editorial.detail.eyebrow.update} {article.version}
+        </p>
         <h1>{article.title}</h1>
         <p>{article.summary}</p>
         <div className="article-facts">
-          <span>Released: {article.releasedAt ?? "Template value not supplied"}</span>
-          <span>Impact checked: {article.impactCheckedAt ?? "Template value not supplied"}</span>
-          <span>Updated: {article.updatedAt}</span>
+          <span>
+            {t.editorial.detail.labels.released}:{" "}
+            {article.releasedAt ?? "Template value not supplied"}
+          </span>
+          <span>
+            {t.editorial.detail.labels.impactChecked}:{" "}
+            {article.impactCheckedAt ?? "Template value not supplied"}
+          </span>
+          <span>
+            {t.editorial.detail.labels.updated}: {article.updatedAt}
+          </span>
         </div>
       </header>
       <div className="decision-grid">
         <section className="content-panel">
-          <p className="eyebrow">VERIFIED CHANGES</p>
-          <h2>What changed</h2>
+          <p className="eyebrow">{t.editorial.detail.update.changesEyebrow}</p>
+          <h2>{t.editorial.detail.update.changesTitle}</h2>
           {article.changes.length > 0 ? (
             <ul className="plain-list">
               {article.changes.map((change) => (
@@ -74,23 +87,23 @@ export default async function UpdateDetailPage({ params }: PageProps) {
               ))}
             </ul>
           ) : (
-            <p className="muted-copy">This structure template contains no production claims.</p>
+            <p className="muted-copy">{t.editorial.detail.update.noClaims}</p>
           )}
         </section>
         <section className="content-panel">
-          <p className="eyebrow">IMPACT COVERAGE</p>
-          <h2>Content impact</h2>
+          <p className="eyebrow">{t.editorial.detail.update.impactEyebrow}</p>
+          <h2>{t.editorial.detail.update.impactTitle}</h2>
           <dl className="compact-facts">
             <div>
-              <dt>Levels</dt>
+              <dt>{t.editorial.detail.update.levels}</dt>
               <dd>{article.affectedLevelNumbers.length}</dd>
             </div>
             <div>
-              <dt>Obstacles</dt>
+              <dt>{t.editorial.detail.update.obstacles}</dt>
               <dd>{article.affectedObstacleIds.length}</dd>
             </div>
             <div>
-              <dt>Sources</dt>
+              <dt>{t.editorial.detail.update.sources}</dt>
               <dd>{article.sourceReferences.length}</dd>
             </div>
           </dl>
@@ -99,8 +112,8 @@ export default async function UpdateDetailPage({ params }: PageProps) {
       <section className="section">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">AFFECTED LEVELS</p>
-            <h2>Published guides affected by this release</h2>
+            <p className="eyebrow">{t.editorial.detail.relatedEyebrow}</p>
+            <h2>{t.editorial.detail.relatedTitle}</h2>
           </div>
         </div>
         {affectedLevels.length > 0 ? (
@@ -111,9 +124,9 @@ export default async function UpdateDetailPage({ params }: PageProps) {
           </div>
         ) : (
           <div className="empty-state">
-            <span>0 public impacts</span>
-            <h2>No individual level was named in the release notes</h2>
-            <p>The sourced impact is recorded through the Ivy obstacle relationship instead.</p>
+            <span>{t.editorial.detail.emptyCountImpact}</span>
+            <h2>{t.editorial.detail.emptyTitleImpact}</h2>
+            <p>{t.editorial.detail.emptyCopyImpact}</p>
           </div>
         )}
       </section>

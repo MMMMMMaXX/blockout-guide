@@ -4,6 +4,7 @@ import { EditorialCollection } from "@/components/editorial-collection";
 import { getPublishedBoosters } from "@/lib/content/editorial-repository";
 import type { Locale } from "@/lib/content/types";
 import { supportedLocales } from "@/lib/i18n/locales";
+import { getMessages } from "@/lib/i18n/messages";
 import { buildFullAlternates } from "@/lib/seo/metadata";
 
 type PageProps = { params: Promise<{ locale: string }> };
@@ -17,32 +18,34 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params;
   const current = locale as Locale;
+  const t = getMessages(current);
   return {
-    title: "Block Out boosters",
-    description: "Decide when a verified Block Out booster helps and when it does not.",
+    title: t.editorial.pages.boosters.title,
+    description: t.editorial.pages.boosters.description,
     alternates: buildFullAlternates(`/${current}/boosters/`),
     robots: "index, follow",
   };
 }
 
-/** 页面只呈现通过使用/不使用条件门禁的 published 指南。 */
+/** 页面只呈现通过使用/不使用条件门禁的 published 指南；非英文语言回退到英文源内容。 */
 export default async function BoostersPage({ params }: PageProps) {
   const { locale } = await params;
   const current = locale as Locale;
+  const t = getMessages(current);
   const boosters = getPublishedBoosters(current);
   return (
     <div className="shell page">
       <header className="page-heading">
-        <p className="eyebrow">DECISION LIBRARY</p>
-        <h1>Block Out booster guides</h1>
-        <p>Start with the failure reason, then decide whether a booster changes the outcome.</p>
+        <p className="eyebrow">{t.editorial.pages.boosters.eyebrow}</p>
+        <h1>{t.editorial.pages.boosters.title}</h1>
+        <p>{t.editorial.pages.boosters.description}</p>
       </header>
       <EditorialCollection
         locale={current}
         items={boosters}
         routeSegment="boosters"
-        emptyTitle="No booster decision guide is published yet"
-        emptyCopy="Add a complete published booster guide to make it appear here automatically."
+        emptyTitle={t.editorial.pages.boosters.emptyTitle}
+        emptyCopy={t.editorial.pages.boosters.emptyCopy}
       />
     </div>
   );

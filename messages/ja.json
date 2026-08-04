@@ -271,6 +271,101 @@
   },
   "editorial": {
     "publishedArticles": "{count} 件の公開記事",
-    "updated": "{date} 更新"
+    "updated": "{date} 更新",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "メカニックライブラリ",
+        "title": "Block Out の障害物",
+        "description": "検証済みのルール、盤面の優先順位、失敗パターン、およびそれらが影響する公開レベル。",
+        "emptyTitle": "障害物の記事はまだ公開されていません",
+        "emptyCopy": "完全な公開障害物記事を追加すると、ここに自動的に表示されます。"
+      },
+      "boosters": {
+        "eyebrow": "判断ライブラリ",
+        "title": "Block Out のブースター",
+        "description": "検証済みブースターが役立つ場合と役立たない場合を見極めます。",
+        "emptyTitle": "ブースターの判断ガイドはまだ公開されていません",
+        "emptyCopy": "完全な公開ブースターガイドを追加すると、ここに自動的に表示されます。"
+      },
+      "guides": {
+        "eyebrow": "戦略ライブラリ",
+        "title": "Block Out の戦略ガイド",
+        "description": "複数の検証済みレベルに現れる問題に対する再利用可能な判断。",
+        "emptyTitle": "戦略ガイドはまだ公開されていません",
+        "emptyCopy": "完全な公開ガイドを追加すると、ここに自動的に表示されます。"
+      },
+      "updates": {
+        "eyebrow": "バージョン監視",
+        "title": "Block Out のアップデート",
+        "description": "出典付きの変更点、影響を受けるコンテンツ、およびリリース後に必要な検証作業。",
+        "emptyTitle": "バージョンアップデートはまだ公開されていません",
+        "emptyCopy": "完全な公開アップデート記事を追加すると、ここに自動的に表示されます。"
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "障害物",
+        "booster": "ブースター判断ガイド",
+        "guide": "戦略ガイド",
+        "update": "バージョン"
+      },
+      "labels": {
+        "verified": "検証済み",
+        "updated": "更新済み",
+        "released": "リリース済み",
+        "impactChecked": "影響確認済み",
+        "priority": "優先度"
+      },
+      "relatedEyebrow": "関連レベル",
+      "relatedTitle": "検証済みの例",
+      "relatedTitleObstacle": "この障害物を使用する検証済みレベル",
+      "emptyCount": "検証済みリンク 0 件",
+      "emptyCountImpact": "公開影響 0 件",
+      "emptyTitle": "レベル固有の例がリンクされていません",
+      "emptyTitleImpact": "リリースノートに個別のレベル名は記載されていません",
+      "emptyCopyObstacle": "上記の障害物ルールは、推測されたレベル関係がなくても完全なままです。",
+      "emptyCopyBooster": "上記の判断チェックリストを使って、タイミングの問題と経路の問題を区別してください。",
+      "emptyCopyGuide": "このガイドは、出典付きの一般判断フレームワークを通じて引き続き利用できます。",
+      "emptyCopyImpact": "出典付きの影響は、代わりに Ivy 障害物の関連付けを通じて記録されます。",
+      "obstacle": {
+        "rulesEyebrow": "メカニックのルール",
+        "rulesTitle": "仕組み",
+        "strategyEyebrow": "判断の優先順位",
+        "strategyTitle": "戦略の確認",
+        "avoidEyebrow": "避けるべきこと",
+        "avoidTitle": "よくある間違い",
+        "evidenceEyebrow": "証拠記録",
+        "evidenceTitle": "出典と範囲",
+        "sourceRefs": "{count} 件の出典参照を記録しました。",
+        "checkedOn": "事実は {date} に確認されました。"
+      },
+      "booster": {
+        "effectEyebrow": "検証済みの効果",
+        "useEyebrow": "使用を検討",
+        "useTitle": "役立つ可能性がある場合",
+        "avoidEyebrow": "無駄にしないで",
+        "avoidTitle": "試行を修正できない場合",
+        "checklistEyebrow": "判断チェックリスト"
+      },
+      "guide": {
+        "question": "質問",
+        "sectionEyebrow": "セクション {n}",
+        "factsEyebrow": "編集事実",
+        "factsTitle": "証拠の境界",
+        "sourceRefs": "{count} 件の出典参照を記録しました。",
+        "verifiedOn": "{date} 検証済み",
+        "updatedOn": "{date} 更新"
+      },
+      "update": {
+        "changesEyebrow": "検証済みの変更",
+        "changesTitle": "変更点",
+        "noClaims": "この構造テンプレートには、本番環境の主張は含まれていません。",
+        "impactEyebrow": "影響の範囲",
+        "impactTitle": "コンテンツへの影響",
+        "levels": "レベル",
+        "obstacles": "障害物",
+        "sources": "出典"
+      }
+    }
   }
 }

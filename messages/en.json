@@ -209,7 +209,102 @@
   },
   "editorial": {
     "publishedArticles": "{count} published articles",
-    "updated": "Updated {date}"
+    "updated": "Updated {date}",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "MECHANIC LIBRARY",
+        "title": "Block Out obstacles",
+        "description": "Verified rules, board priorities, failure modes and the published levels they affect.",
+        "emptyTitle": "No obstacle article is published yet",
+        "emptyCopy": "Add a complete published obstacle article to make it appear here automatically."
+      },
+      "boosters": {
+        "eyebrow": "DECISION LIBRARY",
+        "title": "Block Out boosters",
+        "description": "Decide when a verified booster helps and when it does not.",
+        "emptyTitle": "No booster decision guide is published yet",
+        "emptyCopy": "Add a complete published booster guide to make it appear here automatically."
+      },
+      "guides": {
+        "eyebrow": "STRATEGY LIBRARY",
+        "title": "Block Out strategy guides",
+        "description": "Reusable decisions for problems that appear across more than one verified level.",
+        "emptyTitle": "No strategy guide is published yet",
+        "emptyCopy": "Add a complete published guide to make it appear here automatically."
+      },
+      "updates": {
+        "eyebrow": "VERSION WATCH",
+        "title": "Block Out updates",
+        "description": "Sourced changes, affected content and the verification work required after a release.",
+        "emptyTitle": "No version update is published yet",
+        "emptyCopy": "Add a complete published update article to make it appear here automatically."
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "OBSTACLE",
+        "booster": "BOOSTER DECISION GUIDE",
+        "guide": "STRATEGY GUIDE",
+        "update": "VERSION"
+      },
+      "labels": {
+        "verified": "Verified",
+        "updated": "Updated",
+        "released": "Released",
+        "impactChecked": "Impact checked",
+        "priority": "Priority"
+      },
+      "relatedEyebrow": "RELATED LEVELS",
+      "relatedTitle": "Verified examples",
+      "relatedTitleObstacle": "Verified levels using this obstacle",
+      "emptyCount": "0 verified links",
+      "emptyCountImpact": "0 public impacts",
+      "emptyTitle": "No level-specific example is linked",
+      "emptyTitleImpact": "No individual level was named in the release notes",
+      "emptyCopyObstacle": "The obstacle rules above remain complete without an inferred level relationship.",
+      "emptyCopyBooster": "Use the decision checklist above to separate timing problems from routing problems.",
+      "emptyCopyGuide": "The guide remains available through its sourced general decision framework.",
+      "emptyCopyImpact": "The sourced impact is recorded through the Ivy obstacle relationship instead.",
+      "obstacle": {
+        "rulesEyebrow": "MECHANIC RULES",
+        "rulesTitle": "How it works",
+        "strategyEyebrow": "DECISION PRIORITY",
+        "strategyTitle": "Strategy checks",
+        "avoidEyebrow": "AVOID",
+        "avoidTitle": "Common mistakes",
+        "evidenceEyebrow": "EVIDENCE RECORD",
+        "evidenceTitle": "Sources and scope",
+        "sourceRefs": "{count} source references recorded.",
+        "checkedOn": "Facts were checked on {date}."
+      },
+      "booster": {
+        "effectEyebrow": "VERIFIED EFFECT",
+        "useEyebrow": "CONSIDER USING",
+        "useTitle": "When it may help",
+        "avoidEyebrow": "DO NOT WASTE IT",
+        "avoidTitle": "When it will not fix the attempt",
+        "checklistEyebrow": "DECISION CHECKLIST"
+      },
+      "guide": {
+        "question": "Question",
+        "sectionEyebrow": "SECTION {n}",
+        "factsEyebrow": "EDITORIAL FACTS",
+        "factsTitle": "Evidence boundary",
+        "sourceRefs": "{count} source references recorded.",
+        "verifiedOn": "Verified {date}",
+        "updatedOn": "Updated {date}"
+      },
+      "update": {
+        "changesEyebrow": "VERIFIED CHANGES",
+        "changesTitle": "What changed",
+        "noClaims": "This structure template contains no production claims.",
+        "impactEyebrow": "IMPACT COVERAGE",
+        "impactTitle": "Content impact",
+        "levels": "Levels",
+        "obstacles": "Obstacles",
+        "sources": "Sources"
+      }
+    }
   },
   "search": {
     "title": "Search",

@@ -4,6 +4,7 @@ import { EditorialCollection } from "@/components/editorial-collection";
 import { getPublishedObstacles } from "@/lib/content/editorial-repository";
 import type { Locale } from "@/lib/content/types";
 import { supportedLocales } from "@/lib/i18n/locales";
+import { getMessages } from "@/lib/i18n/messages";
 import { buildFullAlternates } from "@/lib/seo/metadata";
 
 type PageProps = { params: Promise<{ locale: string }> };
@@ -17,32 +18,34 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params;
   const current = locale as Locale;
+  const t = getMessages(current);
   return {
-    title: "Block Out obstacles",
-    description: "Learn verified Block Out obstacle rules, priorities and related levels.",
+    title: t.editorial.pages.obstacles.title,
+    description: t.editorial.pages.obstacles.description,
     alternates: buildFullAlternates(`/${current}/obstacles/`),
     robots: "index, follow",
   };
 }
 
-/** 聚合页不回退展示研究草稿。 */
+/** 聚合页不回退展示研究草稿；非英文语言回退到英文源内容。 */
 export default async function ObstaclesPage({ params }: PageProps) {
   const { locale } = await params;
   const current = locale as Locale;
+  const t = getMessages(current);
   const obstacles = getPublishedObstacles(current);
   return (
     <div className="shell page">
       <header className="page-heading">
-        <p className="eyebrow">MECHANIC LIBRARY</p>
-        <h1>Block Out obstacles</h1>
-        <p>Verified rules, board priorities, failure modes and the published levels they affect.</p>
+        <p className="eyebrow">{t.editorial.pages.obstacles.eyebrow}</p>
+        <h1>{t.editorial.pages.obstacles.title}</h1>
+        <p>{t.editorial.pages.obstacles.description}</p>
       </header>
       <EditorialCollection
         locale={current}
         items={obstacles}
         routeSegment="obstacles"
-        emptyTitle="No obstacle article is published yet"
-        emptyCopy="Add a complete published obstacle article to make it appear here automatically."
+        emptyTitle={t.editorial.pages.obstacles.emptyTitle}
+        emptyCopy={t.editorial.pages.obstacles.emptyCopy}
       />
     </div>
   );

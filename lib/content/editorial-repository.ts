@@ -25,6 +25,13 @@ function getPublishedByKind<K extends EditorialKind>(locale: Locale, kind: K) {
   return getByKind(locale, kind).filter((article) => article.status === "published");
 }
 
+/** 非英文语言回退到英文源内容，避免聚合页为空、详情页 404（与关卡 Tier A 一致）。 */
+function getPublishedByKindFallback<K extends EditorialKind>(locale: Locale, kind: K) {
+  const localized = getPublishedByKind(locale, kind);
+  if (localized.length > 0 || locale === "en") return localized;
+  return getPublishedByKind("en", kind);
+}
+
 /** 解析关联关卡时再次经过 published 边界，禁止详情页生成草稿卡片。 */
 export function getPublishedRelatedLevels(locale: Locale, levelNumbers: readonly number[]) {
   const allowed = new Set(levelNumbers);
@@ -34,7 +41,7 @@ export function getPublishedRelatedLevels(locale: Locale, levelNumbers: readonly
 export const getPreviewObstacles = (locale: Locale): readonly ObstacleArticle[] =>
   getByKind(locale, "obstacle");
 export const getPublishedObstacles = (locale: Locale): readonly ObstacleArticle[] =>
-  getPublishedByKind(locale, "obstacle");
+  getPublishedByKindFallback(locale, "obstacle");
 export const getPublishedObstacleBySlug = (locale: Locale, slug: string) =>
   getPublishedObstacles(locale).find((article) => article.slug === slug);
 export const getPreviewObstacleBySlug = (locale: Locale, slug: string) =>
@@ -43,7 +50,7 @@ export const getPreviewObstacleBySlug = (locale: Locale, slug: string) =>
 export const getPreviewBoosters = (locale: Locale): readonly BoosterArticle[] =>
   getByKind(locale, "booster");
 export const getPublishedBoosters = (locale: Locale): readonly BoosterArticle[] =>
-  getPublishedByKind(locale, "booster");
+  getPublishedByKindFallback(locale, "booster");
 export const getPublishedBoosterBySlug = (locale: Locale, slug: string) =>
   getPublishedBoosters(locale).find((article) => article.slug === slug);
 export const getPreviewBoosterBySlug = (locale: Locale, slug: string) =>
@@ -52,7 +59,7 @@ export const getPreviewBoosterBySlug = (locale: Locale, slug: string) =>
 export const getPreviewGuides = (locale: Locale): readonly GuideArticle[] =>
   getByKind(locale, "guide");
 export const getPublishedGuides = (locale: Locale): readonly GuideArticle[] =>
-  getPublishedByKind(locale, "guide");
+  getPublishedByKindFallback(locale, "guide");
 export const getPublishedGuideBySlug = (locale: Locale, slug: string) =>
   getPublishedGuides(locale).find((article) => article.slug === slug);
 export const getPreviewGuideBySlug = (locale: Locale, slug: string) =>
@@ -61,7 +68,7 @@ export const getPreviewGuideBySlug = (locale: Locale, slug: string) =>
 export const getPreviewUpdates = (locale: Locale): readonly UpdateArticle[] =>
   getByKind(locale, "update");
 export const getPublishedUpdates = (locale: Locale): readonly UpdateArticle[] =>
-  getPublishedByKind(locale, "update");
+  getPublishedByKindFallback(locale, "update");
 export const getPublishedUpdateBySlug = (locale: Locale, slug: string) =>
   getPublishedUpdates(locale).find((article) => article.slug === slug);
 export const getPreviewUpdateBySlug = (locale: Locale, slug: string) =>

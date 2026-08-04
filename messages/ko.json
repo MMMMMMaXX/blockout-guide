@@ -271,6 +271,101 @@
   },
   "editorial": {
     "publishedArticles": "{count}개의 게시된 글",
-    "updated": "{date} 업데이트"
+    "updated": "{date} 업데이트",
+    "pages": {
+      "obstacles": {
+        "eyebrow": "메커니즘 라이브러리",
+        "title": "Block Out 장애물",
+        "description": "검증된 규칙, 보드 우선순위, 실패 양상 및 이들이 영향을 주는 게시된 레벨.",
+        "emptyTitle": "아직 게시된 장애물 문서가 없습니다",
+        "emptyCopy": "완전한 게시된 장애물 문서를 추가하면 여기에 자동으로 표시됩니다."
+      },
+      "boosters": {
+        "eyebrow": "결정 라이브러리",
+        "title": "Block Out 부스터",
+        "description": "검증된 부스터가 도움이 될 때와 그렇지 않을 때를 판단하세요.",
+        "emptyTitle": "아직 게시된 부스터 결정 가이드가 없습니다",
+        "emptyCopy": "완전한 게시된 부스터 가이드를 추가하면 여기에 자동으로 표시됩니다."
+      },
+      "guides": {
+        "eyebrow": "전략 라이브러리",
+        "title": "Block Out 전략 가이드",
+        "description": "둘 이상의 검증된 레벨에 나타나는 문제에 대한 재사용 가능한 결정.",
+        "emptyTitle": "아직 게시된 전략 가이드가 없습니다",
+        "emptyCopy": "완전한 게시된 가이드를 추가하면 여기에 자동으로 표시됩니다."
+      },
+      "updates": {
+        "eyebrow": "버전 감시",
+        "title": "Block Out 업데이트",
+        "description": "출처가 명시된 변경 사항, 영향을 받는 콘텐츠, 그리고 출시 후 필요한 검증 작업.",
+        "emptyTitle": "아직 게시된 버전 업데이트가 없습니다",
+        "emptyCopy": "완전한 게시된 업데이트 문서를 추가하면 여기에 자동으로 표시됩니다."
+      }
+    },
+    "detail": {
+      "eyebrow": {
+        "obstacle": "장애물",
+        "booster": "부스터 결정 가이드",
+        "guide": "전략 가이드",
+        "update": "버전"
+      },
+      "labels": {
+        "verified": "검증됨",
+        "updated": "업데이트됨",
+        "released": "출시됨",
+        "impactChecked": "영향 확인됨",
+        "priority": "우선순위"
+      },
+      "relatedEyebrow": "관련 레벨",
+      "relatedTitle": "검증된 예시",
+      "relatedTitleObstacle": "이 장애물을 사용하는 검증된 레벨",
+      "emptyCount": "검증된 연결 0개",
+      "emptyCountImpact": "공개 영향 0개",
+      "emptyTitle": "레벨별 예시가 연결되어 있지 않습니다",
+      "emptyTitleImpact": "출시 노트에 개별 레벨이 명시되지 않았습니다",
+      "emptyCopyObstacle": "위 장애물 규칙은 추론된 레벨 관계 없이도 완전히 유지됩니다.",
+      "emptyCopyBooster": "위 결정 체크리스트를 사용해 타이밍 문제와 라우팅 문제를 구분하세요.",
+      "emptyCopyGuide": "이 가이드는 출처가 명시된 일반 결정 프레임워크를 통해 계속 제공됩니다.",
+      "emptyCopyImpact": "출처가 명시된 영향은 대신 아이비 장애물 관계를 통해 기록됩니다.",
+      "obstacle": {
+        "rulesEyebrow": "메커니즘 규칙",
+        "rulesTitle": "작동 방식",
+        "strategyEyebrow": "결정 우선순위",
+        "strategyTitle": "전략 검토",
+        "avoidEyebrow": "피해야 할 점",
+        "avoidTitle": "흔한 실수",
+        "evidenceEyebrow": "증거 기록",
+        "evidenceTitle": "출처 및 범위",
+        "sourceRefs": "{count}개의 출처 참조가 기록되었습니다.",
+        "checkedOn": "사실은 {date}에 확인되었습니다."
+      },
+      "booster": {
+        "effectEyebrow": "검증된 효과",
+        "useEyebrow": "사용 고려",
+        "useTitle": "도움이 될 수 있는 경우",
+        "avoidEyebrow": "낭비하지 마세요",
+        "avoidTitle": "시도를 해결하지 못하는 경우",
+        "checklistEyebrow": "결정 체크리스트"
+      },
+      "guide": {
+        "question": "질문",
+        "sectionEyebrow": "섹션 {n}",
+        "factsEyebrow": "편집 사실",
+        "factsTitle": "증거 경계",
+        "sourceRefs": "{count}개의 출처 참조가 기록되었습니다.",
+        "verifiedOn": "{date} 검증됨",
+        "updatedOn": "{date} 업데이트됨"
+      },
+      "update": {
+        "changesEyebrow": "검증된 변경 사항",
+        "changesTitle": "변경된 내용",
+        "noClaims": "이 구조 템플릿에는 실제 서비스 주장이 포함되어 있지 않습니다.",
+        "impactEyebrow": "영향 범위",
+        "impactTitle": "콘텐츠 영향",
+        "levels": "레벨",
+        "obstacles": "장애물",
+        "sources": "출처"
+      }
+    }
   }
 }
