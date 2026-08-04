@@ -96,7 +96,7 @@ export default async function LocaleHomePage({ params }: PageProps) {
         </div>
       </section>
 
-      <section className="shell status-strip" aria-label="Product principles">
+      <section className="shell status-strip" aria-label={t.aria.productPrinciples}>
         {t.home.statusStrip.map((item) => (
           <div key={item.value}>
             <strong>{item.value}</strong>
@@ -174,7 +174,7 @@ export default async function LocaleHomePage({ params }: PageProps) {
                   to={`/${segment}/${article.slug}/`}
                   key={article.id}
                 >
-                  <span>{article.kind}</span>
+                  <span>{t.editorial.detail.eyebrow[article.kind]}</span>
                   <h3>{article.title}</h3>
                   <p>{article.summary}</p>
                   <strong>{t.home.readVerified}</strong>

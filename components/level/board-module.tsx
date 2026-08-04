@@ -1,7 +1,8 @@
 /** 文件职责：渲染关卡详情的棋盘卡片（标题、难度、Variant 切换与开局棋盘）。所有关卡复用同一组件。 */
 import Image from "next/image";
 import Link from "next/link";
-import type { LevelArticle, LevelVariant, Locale } from "@/lib/content/types";
+import type { LevelVariant, Locale } from "@/lib/content/types";
+import type { ResolvedLevel } from "@/lib/content/level-repository";
 import { BoardPreview } from "@/components/board-preview";
 import { BoardProfile } from "@/components/board-profile";
 import { getMessages, interpolate } from "@/lib/i18n/messages";
@@ -10,7 +11,7 @@ import { withLocale } from "@/lib/i18n/locale-path";
 type VariantOption = { id: string; label: string };
 
 type BoardModuleProps = {
-  level: LevelArticle;
+  level: ResolvedLevel;
   variant: LevelVariant;
   variantOptions: VariantOption[];
   selectedIndex: number;
@@ -19,7 +20,7 @@ type BoardModuleProps = {
 };
 
 type BoardBodyProps = {
-  level: LevelArticle;
+  level: ResolvedLevel;
   variant: LevelVariant;
   locale: Locale;
   showProse: boolean;
@@ -73,7 +74,7 @@ export function BoardModule({
   locale,
 }: BoardModuleProps) {
   const t = getMessages(locale);
-  const showProse = level.locale === locale;
+  const showProse = level.sourceLocale === locale;
   const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";
   const tierLabel = t.contentTier[tierKey as keyof typeof t.contentTier] ?? level.contentTier;
   const difficultyLabel =

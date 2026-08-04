@@ -157,6 +157,7 @@
     "versionNotRecorded": "Version non enregistrée",
     "boardColors": "Couleurs du plateau",
     "boardMatchNote": "Suivez cette solution uniquement si le plateau de départ et la plateforme correspondent à votre jeu.",
+    "verificationNote": "Statut de vérification : {status}. Les solutions sont associées au plateau source avant publication.",
     "chapters": "Chapitres vidéo",
     "notAvailable": "Pas encore disponible dans cette langue"
   },
@@ -233,12 +234,40 @@
     "noResult": "Aucun plateau correspondant trouvé.",
     "similarity": "Similarité",
     "chooseCorrect": "Choisissez le bon plateau",
-    "submitVariant": "Soumettre une nouvelle variante"
+    "submitVariant": "Soumettre une nouvelle variante",
+    "plannedEyebrow": "ZONE PRODUIT PLANIFIÉE",
+    "plannedDescription": "La phase 4 associera une capture recadrée aux variantes de plateau les plus proches.",
+    "plannedCardLabel": "Non publié",
+    "plannedCardTitle": "La route est réservée à la fonction d'association de plateau de la phase 4.",
+    "plannedCardCopy": "Cette page est volontairement exclue de l'indexation jusqu'à ce qu'elle dispose d'un contenu utile et validé."
   },
   "hardLevels": {
     "eyebrow": "NIVEAUX DIFFICILES",
     "title": "Niveaux difficiles et experts",
-    "subtitle": "Niveaux classés difficiles, experts ou très difficiles, avec des vidéos solutions vérifiées."
+    "subtitle": "Niveaux classés difficiles, experts ou très difficiles, avec des vidéos solutions vérifiées.",
+    "failurePatterns": {
+      "eyebrow": "MOTIFS D'ÉCHEC",
+      "title": "Diagnostiquez la tentative avant de réessayer",
+      "items": [
+        {
+          "title": "Plateau différent",
+          "copy": "Confirmez la disposition de départ et la plateforme avant de copier les coups."
+        },
+        {
+          "title": "Centre bloqué",
+          "copy": "Privilégiez les coups qui créent de l'espace avant d'éliminer les pièces de bordure commodes."
+        },
+        {
+          "title": "Pression des coups",
+          "copy": "Comparez la séquence de départ avant de dépenser des boosters sur une tentative faible."
+        },
+        {
+          "title": "Dérive de version",
+          "copy": "Revérifiez la date de vérification quand le jeu modifie une disposition de niveau."
+        }
+      ]
+    },
+    "verifiedHardLevels": "Niveaux difficiles vérifiés"
   },
   "about": {
     "eyebrow": "PÉRIMÈTRE ÉDITORIAL",
@@ -256,6 +285,17 @@
     "home": "Retour à l'accueil",
     "levels": "Parcourir les niveaux"
   },
+  "aria": {
+    "primaryNavigation": "Navigation principale",
+    "allLevelNumbers": "Tous les numéros de niveau",
+    "siteSearch": "Recherche sur le site",
+    "contentType": "Type de contenu",
+    "searchResultPages": "Pages de résultats de recherche",
+    "breadcrumb": "Fil d'Ariane",
+    "productPrinciples": "Principes du produit",
+    "allLevels": "Tous les niveaux",
+    "adjacentLevels": "Niveaux adjacents"
+  },
   "missingTranslation": {
     "title": "Ce guide n'est pas encore disponible en {language}.",
     "viewEnglish": "Voir le guide en anglais",
@@ -267,7 +307,8 @@
     "loading": "Chargement…",
     "previous": "Précédent",
     "next": "Suivant",
-    "level": "Niveau {level}"
+    "level": "Niveau {level}",
+    "browse": "Parcourir"
   },
   "editorial": {
     "publishedArticles": "{count} articles publiés",
@@ -360,6 +401,7 @@
         "changesEyebrow": "CHANGEMENTS VÉRIFIÉS",
         "changesTitle": "Ce qui a changé",
         "noClaims": "Ce modèle de structure ne contient aucune affirmation de production.",
+        "dateMissing": "Date non enregistrée",
         "impactEyebrow": "COUVERTURE D'IMPACT",
         "impactTitle": "Impact sur le contenu",
         "levels": "Niveaux",

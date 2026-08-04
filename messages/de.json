@@ -157,6 +157,7 @@
     "versionNotRecorded": "Version nicht erfasst",
     "boardColors": "Brettfarben",
     "boardMatchNote": "Folge dieser Lösung nur, wenn das Eröffnungsbrett und die Plattform zu deinem Spiel passen.",
+    "verificationNote": "Verifizierungsstatus: {status}. Lösungen werden vor der Veröffentlichung mit dem Quell-Brett abgeglichen.",
     "chapters": "Videokapitel",
     "notAvailable": "In dieser Sprache noch nicht verfügbar"
   },
@@ -233,12 +234,40 @@
     "noResult": "Kein passendes Brett gefunden.",
     "similarity": "Ähnlichkeit",
     "chooseCorrect": "Wähle das richtige Brett",
-    "submitVariant": "Neue Variante einreichen"
+    "submitVariant": "Neue Variante einreichen",
+    "plannedEyebrow": "GEPLANTER PRODUKTBEREICH",
+    "plannedDescription": "Phase 4 gleicht einen zugeschnittenen Screenshot mit den ähnlichsten Brett-Varianten ab.",
+    "plannedCardLabel": "Nicht veröffentlicht",
+    "plannedCardTitle": "Die Route ist für das Brett-Abgleich-Feature von Phase 4 reserviert.",
+    "plannedCardCopy": "Diese Seite ist bewusst von der Indexierung ausgeschlossen, bis sie validierte, nützliche Inhalte hat."
   },
   "hardLevels": {
     "eyebrow": "SCHWERE LEVEL",
     "title": "Schwere und Experten-Level",
-    "subtitle": "Level mit Schwierigkeit Schwer, Experte oder Super Schwer, mit verifizierten Video-Lösungen."
+    "subtitle": "Level mit Schwierigkeit Schwer, Experte oder Super Schwer, mit verifizierten Video-Lösungen.",
+    "failurePatterns": {
+      "eyebrow": "FEHLER-MUSTER",
+      "title": "Den Versuch diagnostizieren, bevor du es erneut versuchst",
+      "items": [
+        {
+          "title": "Brett-Abweichung",
+          "copy": "Bestätige das Eröffnungs-Layout und die Plattform, bevor du Züge kopierst."
+        },
+        {
+          "title": "Blockierte Mitte",
+          "copy": "Priorisiere platzschaffende Züge, bevor du bequeme Randsteine entfernst."
+        },
+        {
+          "title": "Zug-Druck",
+          "copy": "Vergleiche die Eröffnungsfolge, bevor du Booster für einen schwachen Versuch einsetzt."
+        },
+        {
+          "title": "Versions-Drift",
+          "copy": "Prüfe das Verifizierungsdatum erneut, wenn das Spiel ein Level-Layout ändert."
+        }
+      ]
+    },
+    "verifiedHardLevels": "Verifizierte schwere Level"
   },
   "about": {
     "eyebrow": "REDAKTIONELLER RAHMEN",
@@ -256,6 +285,17 @@
     "home": "Zurück zur Startseite",
     "levels": "Level durchsuchen"
   },
+  "aria": {
+    "primaryNavigation": "Hauptnavigation",
+    "allLevelNumbers": "Alle Level-Nummern",
+    "siteSearch": "Seitensuche",
+    "contentType": "Inhaltstyp",
+    "searchResultPages": "Suchergebnis-Seiten",
+    "breadcrumb": "Brotkrumenpfad",
+    "productPrinciples": "Produktprinzipien",
+    "allLevels": "Alle Level",
+    "adjacentLevels": "Benachbarte Level"
+  },
   "missingTranslation": {
     "title": "Diese Anleitung ist noch nicht in {language} verfügbar.",
     "viewEnglish": "Englische Anleitung ansehen",
@@ -267,7 +307,8 @@
     "loading": "Lädt…",
     "previous": "Zurück",
     "next": "Weiter",
-    "level": "Level {level}"
+    "level": "Level {level}",
+    "browse": "Stöbern"
   },
   "editorial": {
     "publishedArticles": "{count} veröffentlichte Artikel",
@@ -360,6 +401,7 @@
         "changesEyebrow": "VERIFIZIERTE ÄNDERUNGEN",
         "changesTitle": "Was sich geändert hat",
         "noClaims": "Diese Strukturvorlage enthält keine Produktionsbehauptungen.",
+        "dateMissing": "Datum nicht erfasst",
         "impactEyebrow": "AUSWIRKUNGS-ABDECKUNG",
         "impactTitle": "Inhalts-Auswirkung",
         "levels": "Level",

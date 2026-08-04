@@ -70,7 +70,7 @@ export default async function LevelDetailPage({ params }: PageProps) {
   return (
     <div className="shell page detail-page">
       <JsonLd data={buildLevelJsonLd(level, locale)} />
-      <nav className="breadcrumbs" aria-label="Breadcrumb">
+      <nav className="breadcrumbs" aria-label={getMessages(locale).aria.breadcrumb}>
         <LocaleLink to="/">{getMessages(locale).nav.home}</LocaleLink>
         <span>/</span>
         <LocaleLink to="/levels/">{getMessages(locale).nav.levels}</LocaleLink>

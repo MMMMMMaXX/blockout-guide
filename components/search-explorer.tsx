@@ -61,7 +61,7 @@ export function SearchExplorer({
   }
 
   return (
-    <section className="search-explorer" aria-label="Site search">
+    <section className="search-explorer" aria-label={t.aria.siteSearch}>
       <label className="search-field">
         <span>{t.search.label}</span>
         <input
@@ -75,7 +75,7 @@ export function SearchExplorer({
           }}
         />
       </label>
-      <div className="filter-buttons" aria-label="Content type">
+      <div className="filter-buttons" aria-label={t.aria.contentType}>
         {searchTypes.map((option) => (
           <button
             type="button"
@@ -119,7 +119,7 @@ export function SearchExplorer({
             ))}
           </div>
           {pagination.pageCount > 1 ? (
-            <nav className="pagination" aria-label="Search result pages">
+            <nav className="pagination" aria-label={t.aria.searchResultPages}>
               <button
                 type="button"
                 disabled={pagination.page === 1}

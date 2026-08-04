@@ -53,7 +53,7 @@ export function HeroLevelSearch({ levels }: HeroLevelSearchProps) {
           onChange={() => setOpen(true)}
           aria-controls={open ? "hero-level-jump" : undefined}
         />
-        <span className="hero-level-search__cta">Browse</span>
+        <span className="hero-level-search__cta">{t.common.browse}</span>
       </div>
       {open ? (
         <div id="hero-level-jump" className="hero-level-search__dropdown">

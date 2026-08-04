@@ -45,7 +45,7 @@ export default async function UpdateDetailPage({ params }: PageProps) {
   const affectedLevels = getPublishedRelatedLevels(current, article.affectedLevelNumbers);
   return (
     <div className="shell page editorial-detail">
-      <nav className="breadcrumbs" aria-label="Breadcrumb">
+      <nav className="breadcrumbs" aria-label={t.aria.breadcrumb}>
         <LocaleLink locale={current} to="/">
           {t.nav.home}
         </LocaleLink>
@@ -65,11 +65,11 @@ export default async function UpdateDetailPage({ params }: PageProps) {
         <div className="article-facts">
           <span>
             {t.editorial.detail.labels.released}:{" "}
-            {article.releasedAt ?? "Template value not supplied"}
+            {article.releasedAt ?? t.editorial.detail.update.dateMissing}
           </span>
           <span>
             {t.editorial.detail.labels.impactChecked}:{" "}
-            {article.impactCheckedAt ?? "Template value not supplied"}
+            {article.impactCheckedAt ?? t.editorial.detail.update.dateMissing}
           </span>
           <span>
             {t.editorial.detail.labels.updated}: {article.updatedAt}

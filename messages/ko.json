@@ -157,6 +157,7 @@
     "versionNotRecorded": "버전 미기록",
     "boardColors": "보드 색상",
     "boardMatchNote": "시작 보드와 플랫폼이 내 게임과 일치할 때만 이 해법을 따르세요.",
+    "verificationNote": "검증 상태: {status}. 해법은 게시 전에 출처 보드와 대조하여 매칭됩니다.",
     "chapters": "영상 챕터",
     "notAvailable": "이 언어에서는 아직 제공되지 않습니다"
   },
@@ -233,12 +234,40 @@
     "noResult": "일치하는 보드를 찾지 못했습니다.",
     "similarity": "유사도",
     "chooseCorrect": "올바른 보드 선택",
-    "submitVariant": "새 변형 제출"
+    "submitVariant": "새 변형 제출",
+    "plannedEyebrow": "예정된 제품 영역",
+    "plannedDescription": "4단계에서는 잘린 스크린샷을 가장 가까운 보드 변형에 매칭합니다.",
+    "plannedCardLabel": "미게시",
+    "plannedCardTitle": "이 경로는 4단계 보드 매칭 기능을 위해 예약되어 있습니다.",
+    "plannedCardCopy": "이 페이지는 검증되고 유용한 콘텐츠를 갖출 때까지 색인에서 의도적으로 제외됩니다."
   },
   "hardLevels": {
     "eyebrow": "어려운 레벨",
     "title": "어려운 레벨과 전문가 레벨",
-    "subtitle": "어려움·전문가·초난이도로 분류된 레벨이며 검증된 영상 해법을 제공합니다."
+    "subtitle": "어려움·전문가·초난이도로 분류된 레벨이며 검증된 영상 해법을 제공합니다.",
+    "failurePatterns": {
+      "eyebrow": "실패 패턴",
+      "title": "다시 시도하기 전에 시도를 진단하세요",
+      "items": [
+        {
+          "title": "보드 불일치",
+          "copy": "행마를 그대로 따라 하기 전에 시작 레이아웃과 플랫폼을 확인하세요."
+        },
+        {
+          "title": "막힌 중앙",
+          "copy": "편한 가장자리 조각을 지우기 전에 공간을 확보하는 행마를 우선하세요."
+        },
+        {
+          "title": "행마 압박",
+          "copy": "약한 시도에 부스터를 쓰기 전에 초반 행마 순서를 비교하세요."
+        },
+        {
+          "title": "버전 표류",
+          "copy": "게임이 레벨 레이아웃을 바꿀 때마다 검증 날짜를 다시 확인하세요."
+        }
+      ]
+    },
+    "verifiedHardLevels": "검증된 어려운 레벨"
   },
   "about": {
     "eyebrow": "편집 범위",
@@ -256,6 +285,17 @@
     "home": "홈으로 돌아가기",
     "levels": "레벨 둘러보기"
   },
+  "aria": {
+    "primaryNavigation": "주 탐색",
+    "allLevelNumbers": "전체 레벨 번호",
+    "siteSearch": "사이트 검색",
+    "contentType": "콘텐츠 유형",
+    "searchResultPages": "검색 결과 페이지",
+    "breadcrumb": "브레드크럼",
+    "productPrinciples": "제품 원칙",
+    "allLevels": "모든 레벨",
+    "adjacentLevels": "인접 레벨"
+  },
   "missingTranslation": {
     "title": "{language} 버전 가이드는 아직 제공되지 않습니다.",
     "viewEnglish": "영문 가이드 보기",
@@ -267,7 +307,8 @@
     "loading": "불러오는 중…",
     "previous": "이전",
     "next": "다음",
-    "level": "레벨 {level}"
+    "level": "레벨 {level}",
+    "browse": "둘러보기"
   },
   "editorial": {
     "publishedArticles": "{count}개의 게시된 글",
@@ -360,6 +401,7 @@
         "changesEyebrow": "검증된 변경 사항",
         "changesTitle": "변경된 내용",
         "noClaims": "이 구조 템플릿에는 실제 서비스 주장이 포함되어 있지 않습니다.",
+        "dateMissing": "날짜 미기록",
         "impactEyebrow": "영향 범위",
         "impactTitle": "콘텐츠 영향",
         "levels": "레벨",

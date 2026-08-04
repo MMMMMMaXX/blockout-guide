@@ -41,7 +41,7 @@ export function LevelJumpDropdown({ levels, onClose, showHeader = true }: LevelJ
   }, [levels]);
 
   return (
-    <div className="level-jump-menu" role="listbox" aria-label="All level numbers">
+    <div className="level-jump-menu" role="listbox" aria-label={t.aria.allLevelNumbers}>
       {showHeader ? (
         <div className="level-jump-menu__head">
           <span>{interpolate(t.levels.allPublished, { count: levels.length })}</span>

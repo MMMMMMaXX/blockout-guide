@@ -157,6 +157,7 @@
     "versionNotRecorded": "バージョン未記録",
     "boardColors": "盤面の色",
     "boardMatchNote": "開始盤面とプラットフォームがあなたのゲームと一致する場合のみ、この解法に従ってください。",
+    "verificationNote": "検証ステータス: {status}。解決策は公開前に出典盤面と照合されます。",
     "chapters": "動画のチャプター",
     "notAvailable": "この言語ではまだ利用できません"
   },
@@ -233,12 +234,40 @@
     "noResult": "一致する盤面が見つかりませんでした。",
     "similarity": "類似度",
     "chooseCorrect": "正しい盤面を選択",
-    "submitVariant": "新しいバリエーションを送信"
+    "submitVariant": "新しいバリエーションを送信",
+    "plannedEyebrow": "計画中の製品エリア",
+    "plannedDescription": "フェーズ 4 では、切り取ったスクリーンショットを最も近い盤面バリエーションに照合します。",
+    "plannedCardLabel": "未公開",
+    "plannedCardTitle": "このルートはフェーズ 4 のボード照合機能用に予約されています。",
+    "plannedCardCopy": "このページは、検証済みで有用なコンテンツを持つようになるまで、意図的にインデックスから除外されています。"
   },
   "hardLevels": {
     "eyebrow": "高難度レベル",
     "title": "高難度・エキスパートレベル",
-    "subtitle": "難易度が難しい・エキスパート・超難しいと評価されたレベル。検証済みの動画解法付き。"
+    "subtitle": "難易度が難しい・エキスパート・超難しいと評価されたレベル。検証済みの動画解法付き。",
+    "failurePatterns": {
+      "eyebrow": "失敗パターン",
+      "title": "再挑戦する前に、試行を診断する",
+      "items": [
+        {
+          "title": "盤面の不一致",
+          "copy": "手順をコピーする前に、開始レイアウトとプラットフォームを確認してください。"
+        },
+        {
+          "title": "中央の閉塞",
+          "copy": "都合の良い端のピースを消す前に、空間を作る手を優先してください。"
+        },
+        {
+          "title": "手数の圧迫",
+          "copy": "弱い試行にブースターを使う前に、初手の順序を比較してください。"
+        },
+        {
+          "title": "バージョンのずれ",
+          "copy": "ゲームがレベルレイアウトを変更した場合は、検証日を再確認してください。"
+        }
+      ]
+    },
+    "verifiedHardLevels": "検証済みの高難度レベル"
   },
   "about": {
     "eyebrow": "編集方針",
@@ -256,6 +285,17 @@
     "home": "ホームへ戻る",
     "levels": "レベルを参照"
   },
+  "aria": {
+    "primaryNavigation": "メインナビゲーション",
+    "allLevelNumbers": "すべてのレベル番号",
+    "siteSearch": "サイト検索",
+    "contentType": "コンテンツの種類",
+    "searchResultPages": "検索結果ページ",
+    "breadcrumb": "パンくずリスト",
+    "productPrinciples": "製品の原則",
+    "allLevels": "すべてのレベル",
+    "adjacentLevels": "隣接レベル"
+  },
   "missingTranslation": {
     "title": "このガイドは {language} 版がまだ利用できません。",
     "viewEnglish": "英語のガイドを表示",
@@ -267,7 +307,8 @@
     "loading": "読み込み中…",
     "previous": "前へ",
     "next": "次へ",
-    "level": "レベル {level}"
+    "level": "レベル {level}",
+    "browse": "参照"
   },
   "editorial": {
     "publishedArticles": "{count} 件の公開記事",
@@ -360,6 +401,7 @@
         "changesEyebrow": "検証済みの変更",
         "changesTitle": "変更点",
         "noClaims": "この構造テンプレートには、本番環境の主張は含まれていません。",
+        "dateMissing": "日付が記録されていません",
         "impactEyebrow": "影響の範囲",
         "impactTitle": "コンテンツへの影響",
         "levels": "レベル",

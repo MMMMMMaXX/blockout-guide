@@ -162,6 +162,7 @@
     "versionNotRecorded": "Versión no registrada",
     "boardColors": "Colores del tablero",
     "boardMatchNote": "Sigue esta solución solo cuando el tablero inicial y la plataforma coincidan con tu juego.",
+    "verificationNote": "Estado de verificación: {status}. Las soluciones se comparan con el tablero de la fuente antes de publicarse.",
     "chapters": "Capítulos del vídeo",
     "notAvailable": "Aún no disponible en este idioma"
   },
@@ -238,12 +239,40 @@
     "noResult": "No se encontró ningún tablero coincidente.",
     "similarity": "Similitud",
     "chooseCorrect": "Elige el tablero correcto",
-    "submitVariant": "Enviar una nueva variante"
+    "submitVariant": "Enviar una nueva variante",
+    "plannedEyebrow": "ZONA DE PRODUCTO PLANIFICADA",
+    "plannedDescription": "La fase 4 coincidirá una captura recortada con las variantes de tablero más cercanas.",
+    "plannedCardLabel": "No publicado",
+    "plannedCardTitle": "La ruta está reservada para la función de coincidencia de tablero de la fase 4.",
+    "plannedCardCopy": "Esta página se excluye intencionadamente de la indexación hasta que tenga contenido validado y útil."
   },
   "hardLevels": {
     "eyebrow": "NIVELES DIFÍCILES",
     "title": "Niveles difíciles y expertos",
-    "subtitle": "Niveles clasificados como difíciles, expertos o súper difíciles, con vídeos de solución verificados."
+    "subtitle": "Niveles clasificados como difíciles, expertos o súper difíciles, con vídeos de solución verificados.",
+    "failurePatterns": {
+      "eyebrow": "PATRONES DE FALLO",
+      "title": "Diagnostica el intento antes de reintentar",
+      "items": [
+        {
+          "title": "Discrepancia de tablero",
+          "copy": "Confirma el diseño inicial y la plataforma antes de copiar movimientos."
+        },
+        {
+          "title": "Centro bloqueado",
+          "copy": "Prioriza los movimientos que liberan espacio antes de eliminar piezas cómodas del borde."
+        },
+        {
+          "title": "Presión de movimientos",
+          "copy": "Compara la secuencia inicial antes de gastar potenciadores en un intento débil."
+        },
+        {
+          "title": "Deriva de versión",
+          "copy": "Vuelve a comprobar la fecha de verificación cuando el juego cambia el diseño de un nivel."
+        }
+      ]
+    },
+    "verifiedHardLevels": "Niveles difíciles verificados"
   },
   "about": {
     "eyebrow": "ALCANCE EDITORIAL",
@@ -261,6 +290,17 @@
     "home": "Volver al inicio",
     "levels": "Explorar niveles"
   },
+  "aria": {
+    "primaryNavigation": "Navegación principal",
+    "allLevelNumbers": "Todos los números de nivel",
+    "siteSearch": "Búsqueda del sitio",
+    "contentType": "Tipo de contenido",
+    "searchResultPages": "Páginas de resultados de búsqueda",
+    "breadcrumb": "Ruta de navegación",
+    "productPrinciples": "Principios del producto",
+    "allLevels": "Todos los niveles",
+    "adjacentLevels": "Niveles adyacentes"
+  },
   "missingTranslation": {
     "title": "Esta guía aún no está disponible en {language}.",
     "viewEnglish": "Ver guía en inglés",
@@ -272,7 +312,8 @@
     "loading": "Cargando…",
     "previous": "Anterior",
     "next": "Siguiente",
-    "level": "Nivel {level}"
+    "level": "Nivel {level}",
+    "browse": "Explorar"
   },
   "editorial": {
     "publishedArticles": "{count} artículos publicados",
@@ -365,6 +406,7 @@
         "changesEyebrow": "CAMBIOS VERIFICADOS",
         "changesTitle": "Qué cambió",
         "noClaims": "Esta plantilla de estructura no contiene afirmaciones de producción.",
+        "dateMissing": "Fecha no registrada",
         "impactEyebrow": "COBERTURA DE IMPACTO",
         "impactTitle": "Impacto en el contenido",
         "levels": "Niveles",

@@ -1,17 +1,18 @@
 /** 文件职责：以统一竖屏卡片展示关卡摘要与内容发布状态。 */
 import Link from "next/link";
-import type { LevelArticle, Locale } from "@/lib/content/types";
+import type { Locale } from "@/lib/content/types";
+import type { ResolvedLevel } from "@/lib/content/level-repository";
 import { withLocale } from "@/lib/i18n/locale-path";
 import { getMessages, interpolate } from "@/lib/i18n/messages";
 import { BoardPreview } from "./board-preview";
 
 type LevelCardProps = {
-  level: LevelArticle;
+  level: ResolvedLevel;
   locale: Locale;
 };
 
 /** 优先使用真实棋盘封面或视频缩略图，避免占位图形冒充真实关卡。 */
-function getCardThumbnail(level: LevelArticle): string | null {
+function getCardThumbnail(level: ResolvedLevel): string | null {
   const variant = level.variants[0];
   if (!variant) return null;
   if (variant.boardImage) return variant.boardImage;
@@ -25,7 +26,7 @@ function getCardThumbnail(level: LevelArticle): string | null {
 export function LevelCard({ level, locale }: LevelCardProps) {
   const t = getMessages(locale);
   const thumb = getCardThumbnail(level);
-  const showSummary = level.locale === locale;
+  const showSummary = level.sourceLocale === locale;
   const difficultyLabel =
     t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
   const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";

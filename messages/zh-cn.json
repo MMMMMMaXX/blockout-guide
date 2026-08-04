@@ -157,6 +157,7 @@
     "versionNotRecorded": "未记录版本",
     "boardColors": "棋盘颜色",
     "boardMatchNote": "仅在开局棋盘与平台与你的游戏一致时，才套用此解法。",
+    "verificationNote": "校验状态：{status}。解法在发布前已与源棋盘匹配。",
     "chapters": "视频章节",
     "notAvailable": "该语言版本暂未提供"
   },
@@ -233,12 +234,40 @@
     "noResult": "未找到匹配的棋盘。",
     "similarity": "相似度",
     "chooseCorrect": "选择正确棋盘",
-    "submitVariant": "提交新的变体"
+    "submitVariant": "提交新的变体",
+    "plannedEyebrow": "规划中的产品区域",
+    "plannedDescription": "Phase 4 将把裁剪后的截图与最接近的棋盘变体进行匹配。",
+    "plannedCardLabel": "未发布",
+    "plannedCardTitle": "该路径为 Phase 4 棋盘匹配功能预留。",
+    "plannedCardCopy": "在本页拥有经过验证、有用的内容之前，已刻意将其排除在索引之外。"
   },
   "hardLevels": {
     "eyebrow": "高难关卡",
     "title": "困难与专家关卡",
-    "subtitle": "标记为困难、专家或极难的关卡，均附已校验的视频解法。"
+    "subtitle": "标记为困难、专家或极难的关卡，均附已校验的视频解法。",
+    "failurePatterns": {
+      "eyebrow": "失败模式",
+      "title": "重试前先诊断你的尝试",
+      "items": [
+        {
+          "title": "棋盘不匹配",
+          "copy": "复制走法前，先确认开局布局与平台。"
+        },
+        {
+          "title": "中心受阻",
+          "copy": "在清除顺手的边缘方块前，优先做腾出空间的走法。"
+        },
+        {
+          "title": "走法压力",
+          "copy": "在把增益道具浪费在一次薄弱的尝试上之前，先对比开局序列。"
+        },
+        {
+          "title": "版本漂移",
+          "copy": "当游戏改变关卡布局时，重新核对校验日期。"
+        }
+      ]
+    },
+    "verifiedHardLevels": "已校验的高难关卡"
   },
   "about": {
     "eyebrow": "编辑范围",
@@ -256,6 +285,17 @@
     "home": "返回首页",
     "levels": "浏览关卡"
   },
+  "aria": {
+    "primaryNavigation": "主导航",
+    "allLevelNumbers": "全部关卡编号",
+    "siteSearch": "站内搜索",
+    "contentType": "内容类型",
+    "searchResultPages": "搜索结果页",
+    "breadcrumb": "面包屑导航",
+    "productPrinciples": "产品原则",
+    "allLevels": "全部关卡",
+    "adjacentLevels": "相邻关卡"
+  },
   "missingTranslation": {
     "title": "该攻略的 {language} 版本尚未提供。",
     "viewEnglish": "查看英文攻略",
@@ -267,7 +307,8 @@
     "loading": "加载中…",
     "previous": "上一页",
     "next": "下一页",
-    "level": "关卡 {level}"
+    "level": "关卡 {level}",
+    "browse": "浏览"
   },
   "editorial": {
     "publishedArticles": "{count} 篇已发布文章",
@@ -360,6 +401,7 @@
         "changesEyebrow": "已验证变更",
         "changesTitle": "变更内容",
         "noClaims": "此结构模板不含任何生产环境声明。",
+        "dateMissing": "未记录日期",
         "impactEyebrow": "影响覆盖",
         "impactTitle": "内容影响",
         "levels": "关卡",

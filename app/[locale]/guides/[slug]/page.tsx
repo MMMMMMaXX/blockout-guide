@@ -45,7 +45,7 @@ export default async function GuideDetailPage({ params }: PageProps) {
   const relatedLevels = getPublishedRelatedLevels(current, article.relatedLevelNumbers);
   return (
     <div className="shell page editorial-detail">
-      <nav className="breadcrumbs" aria-label="Breadcrumb">
+      <nav className="breadcrumbs" aria-label={t.aria.breadcrumb}>
         <LocaleLink locale={current} to="/">
           {t.nav.home}
         </LocaleLink>

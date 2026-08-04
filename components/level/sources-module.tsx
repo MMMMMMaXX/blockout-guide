@@ -1,6 +1,6 @@
 /** 文件职责：渲染关卡详情的来源与核验模块，公开攻略出处与核验状态（数据驱动新增模块）。 */
 import type { LevelArticle, LevelVariant, Locale } from "@/lib/content/types";
-import { getMessages } from "@/lib/i18n/messages";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
 
 type SourcesModuleProps = {
   level: LevelArticle;
@@ -12,6 +12,10 @@ type SourcesModuleProps = {
 export function SourcesModule({ level, variant, locale }: SourcesModuleProps) {
   if (level.sourceReferences.length === 0) return null;
   const t = getMessages(locale);
+  const statusText =
+    variant.verificationStatus === "source-verified"
+      ? t.verificationStatus.sourceVerified
+      : variant.verificationStatus.replaceAll("-", " ");
   return (
     <section className="content-panel source-panel">
       <p className="eyebrow">{t.levelDetail.sources}</p>
@@ -26,8 +30,7 @@ export function SourcesModule({ level, variant, locale }: SourcesModuleProps) {
         ))}
       </ul>
       <p className="source-note">
-        Verification status: {variant.verificationStatus.replaceAll("-", " ")}. Solutions are
-        matched to the source board before publication.
+        {interpolate(t.levelDetail.verificationNote, { status: statusText })}
       </p>
     </section>
   );

@@ -157,6 +157,7 @@
     "versionNotRecorded": "Versão não registrada",
     "boardColors": "Cores do tabuleiro",
     "boardMatchNote": "Siga esta solução apenas quando o tabuleiro inicial e a plataforma corresponderem ao seu jogo.",
+    "verificationNote": "Status de verificação: {status}. As soluções são comparadas ao tabuleiro de origem antes da publicação.",
     "chapters": "Capítulos do vídeo",
     "notAvailable": "Ainda não disponível neste idioma"
   },
@@ -233,12 +234,40 @@
     "noResult": "Nenhum tabuleiro compatível encontrado.",
     "similarity": "Semelhança",
     "chooseCorrect": "Escolha o tabuleiro correto",
-    "submitVariant": "Enviar uma nova variante"
+    "submitVariant": "Enviar uma nova variante",
+    "plannedEyebrow": "ÁREA DE PRODUTO PLANEJADA",
+    "plannedDescription": "A Fase 4 vai comparar uma captura recortada com as variantes de tabuleiro mais próximas.",
+    "plannedCardLabel": "Não publicado",
+    "plannedCardTitle": "A rota é reservada para o recurso de correspondência de tabuleiro da Fase 4.",
+    "plannedCardCopy": "Esta página é intencionalmente excluída da indexação até ter conteúdo útil e validado."
   },
   "hardLevels": {
     "eyebrow": "FASES DIFÍCEIS",
     "title": "Fases difíceis e especialistas",
-    "subtitle": "Fases classificadas como difícil, especialista ou super difícil, com soluções em vídeo verificadas."
+    "subtitle": "Fases classificadas como difícil, especialista ou super difícil, com soluções em vídeo verificadas.",
+    "failurePatterns": {
+      "eyebrow": "PADRÕES DE FALHA",
+      "title": "Diagnostique a tentativa antes de tentar de novo",
+      "items": [
+        {
+          "title": "Tabuleiro incompatível",
+          "copy": "Confirme o layout inicial e a plataforma antes de copiar os movimentos."
+        },
+        {
+          "title": "Centro bloqueado",
+          "copy": "Priorize movimentos que abram espaço antes de limpar peças de borda convenientes."
+        },
+        {
+          "title": "Pressão de movimentos",
+          "copy": "Compare a sequência inicial antes de gastar boosters em uma tentativa fraca."
+        },
+        {
+          "title": "Desvio de versão",
+          "copy": "Verifique novamente a data de verificação quando o jogo alterar o layout de uma fase."
+        }
+      ]
+    },
+    "verifiedHardLevels": "Fases difíceis verificadas"
   },
   "about": {
     "eyebrow": "ESCOPO EDITORIAL",
@@ -256,6 +285,17 @@
     "home": "Voltar ao início",
     "levels": "Explorar fases"
   },
+  "aria": {
+    "primaryNavigation": "Navegação principal",
+    "allLevelNumbers": "Todos os números de fase",
+    "siteSearch": "Busca do site",
+    "contentType": "Tipo de conteúdo",
+    "searchResultPages": "Páginas de resultados de busca",
+    "breadcrumb": "Caminho de navegação",
+    "productPrinciples": "Princípios do produto",
+    "allLevels": "Todas as fases",
+    "adjacentLevels": "Fases adjacentes"
+  },
   "missingTranslation": {
     "title": "Este guia ainda não está disponível em {language}.",
     "viewEnglish": "Ver guia em inglês",
@@ -267,7 +307,8 @@
     "loading": "Carregando…",
     "previous": "Anterior",
     "next": "Próximo",
-    "level": "Nível {level}"
+    "level": "Nível {level}",
+    "browse": "Explorar"
   },
   "editorial": {
     "publishedArticles": "{count} artigos publicados",
@@ -360,6 +401,7 @@
         "changesEyebrow": "MUDANÇAS VERIFICADAS",
         "changesTitle": "O que mudou",
         "noClaims": "Este modelo de estrutura não contém afirmações de produção.",
+        "dateMissing": "Data não registrada",
         "impactEyebrow": "COBERTURA DE IMPACTO",
         "impactTitle": "Impacto no conteúdo",
         "levels": "Níveis",

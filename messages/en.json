@@ -157,6 +157,7 @@
     "versionNotRecorded": "Version not recorded",
     "boardColors": "Board colors",
     "boardMatchNote": "Follow this solution only when the opening board and platform match your game.",
+    "verificationNote": "Verification status: {status}. Solutions are matched to the source board before publication.",
     "chapters": "Video chapters",
     "notAvailable": "Not available in this language yet"
   },
@@ -298,6 +299,7 @@
         "changesEyebrow": "VERIFIED CHANGES",
         "changesTitle": "What changed",
         "noClaims": "This structure template contains no production claims.",
+        "dateMissing": "Date not recorded",
         "impactEyebrow": "IMPACT COVERAGE",
         "impactTitle": "Content impact",
         "levels": "Levels",
@@ -332,12 +334,40 @@
     "noResult": "No matching board found.",
     "similarity": "Similarity",
     "chooseCorrect": "Choose the correct board",
-    "submitVariant": "Submit a new variant"
+    "submitVariant": "Submit a new variant",
+    "plannedEyebrow": "PLANNED PRODUCT AREA",
+    "plannedDescription": "Phase 4 will match a cropped screenshot to the closest board variants.",
+    "plannedCardLabel": "Not published",
+    "plannedCardTitle": "The route is reserved for the Phase 4 board-matching feature.",
+    "plannedCardCopy": "This page is intentionally excluded from indexing until it has validated, useful content."
   },
   "hardLevels": {
     "eyebrow": "HARD LEVELS",
     "title": "Hard and expert levels",
-    "subtitle": "Levels rated hard, expert or super-hard, with verified video solutions."
+    "subtitle": "Levels rated hard, expert or super-hard, with verified video solutions.",
+    "failurePatterns": {
+      "eyebrow": "FAILURE PATTERNS",
+      "title": "Diagnose the attempt before retrying",
+      "items": [
+        {
+          "title": "Board mismatch",
+          "copy": "Confirm the opening layout and platform before copying moves."
+        },
+        {
+          "title": "Blocked center",
+          "copy": "Prioritize space-making moves before clearing convenient edge pieces."
+        },
+        {
+          "title": "Move pressure",
+          "copy": "Compare the opening sequence before spending boosters on a weak attempt."
+        },
+        {
+          "title": "Version drift",
+          "copy": "Re-check the verified date when the game changes a level layout."
+        }
+      ]
+    },
+    "verifiedHardLevels": "Verified hard levels"
   },
   "about": {
     "eyebrow": "EDITORIAL SCOPE",
@@ -355,6 +385,17 @@
     "home": "Back to home",
     "levels": "Browse levels"
   },
+  "aria": {
+    "primaryNavigation": "Primary navigation",
+    "allLevelNumbers": "All level numbers",
+    "siteSearch": "Site search",
+    "contentType": "Content type",
+    "searchResultPages": "Search result pages",
+    "breadcrumb": "Breadcrumb",
+    "productPrinciples": "Product principles",
+    "allLevels": "All levels",
+    "adjacentLevels": "Adjacent levels"
+  },
   "missingTranslation": {
     "title": "This guide is not available in {language} yet.",
     "viewEnglish": "View English guide",
@@ -366,6 +407,7 @@
     "loading": "Loading…",
     "previous": "Previous",
     "next": "Next",
-    "level": "Level {level}"
+    "level": "Level {level}",
+    "browse": "Browse"
   }
 }

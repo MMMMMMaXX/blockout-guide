@@ -157,6 +157,7 @@
     "versionNotRecorded": "Sürüm kaydedilmedi",
     "boardColors": "Tahta renkleri",
     "boardMatchNote": "Bu çözümü yalnızca açılış tahtası ve platform oyununuzla eşleştiğinde izleyin.",
+    "verificationNote": "Doğrulama durumu: {status}. Çözümler, yayınlanmadan önce kaynak tahtayla eşleştirilir.",
     "chapters": "Video bölümleri",
     "notAvailable": "Bu dilde henüz mevcut değil"
   },
@@ -233,12 +234,40 @@
     "noResult": "Eşleşen tahta bulunamadı.",
     "similarity": "Benzerlik",
     "chooseCorrect": "Doğru tahtayı seçin",
-    "submitVariant": "Yeni bir varyant gönder"
+    "submitVariant": "Yeni bir varyant gönder",
+    "plannedEyebrow": "PLANLANAN ÜRÜN ALANI",
+    "plannedDescription": "Aşama 4, kırpılmış bir ekran görüntüsünü en yakın tahta varyantlarıyla eşleştirecek.",
+    "plannedCardLabel": "Yayınlanmadı",
+    "plannedCardTitle": "Bu rota, Aşama 4 tahta eşleştirme özelliği için ayrılmıştır.",
+    "plannedCardCopy": "Bu sayfa, doğrulanmış ve faydalı içeriğe sahip olana kadar dizine eklenmenin dışında tutulur."
   },
   "hardLevels": {
     "eyebrow": "ZOR SEVİYELER",
     "title": "Zor ve uzman seviyeleri",
-    "subtitle": "Zor, uzman veya çok zor olarak derecelendirilen seviyeler, doğrulanmış video çözümleriyle birlikte."
+    "subtitle": "Zor, uzman veya çok zor olarak derecelendirilen seviyeler, doğrulanmış video çözümleriyle birlikte.",
+    "failurePatterns": {
+      "eyebrow": "BAŞARISIZLIK KALIPLARI",
+      "title": "Yeniden denemeden önce denemeyi teşhis edin",
+      "items": [
+        {
+          "title": "Tahta uyuşmazlığı",
+          "copy": "Hamleleri kopyalamadan önce açılış düzenini ve platformu doğrulayın."
+        },
+        {
+          "title": "Kilitlenen merkez",
+          "copy": "Uygun kenar parçalarını temizlemeden önce alan açan hamlelere öncelik verin."
+        },
+        {
+          "title": "Hamle baskısı",
+          "copy": "Zayıf bir denemede yardımcı harcamadan önce açılış dizisini karşılaştırın."
+        },
+        {
+          "title": "Sürüm sapması",
+          "copy": "Oyun bir seviye düzenini değiştirdiğinde doğrulanan tarihi yeniden kontrol edin."
+        }
+      ]
+    },
+    "verifiedHardLevels": "Doğrulanmış zor seviyeler"
   },
   "about": {
     "eyebrow": "EDİTÖRYAL KAPSAM",
@@ -256,6 +285,17 @@
     "home": "Ana sayfaya dön",
     "levels": "Seviyeleri göz at"
   },
+  "aria": {
+    "primaryNavigation": "Birincil gezinme",
+    "allLevelNumbers": "Tüm seviye numaraları",
+    "siteSearch": "Site araması",
+    "contentType": "İçerik türü",
+    "searchResultPages": "Arama sonucu sayfaları",
+    "breadcrumb": "Sayfa yolu",
+    "productPrinciples": "Ürün ilkeleri",
+    "allLevels": "Tüm seviyeler",
+    "adjacentLevels": "Bitişik seviyeler"
+  },
   "missingTranslation": {
     "title": "Bu rehber henüz {language} dilinde mevcut değil.",
     "viewEnglish": "İngilizce rehberi görüntüle",
@@ -267,7 +307,8 @@
     "loading": "Yükleniyor…",
     "previous": "Önceki",
     "next": "Sonraki",
-    "level": "Seviye {level}"
+    "level": "Seviye {level}",
+    "browse": "Göz at"
   },
   "editorial": {
     "publishedArticles": "{count} yayınlanmış makale",
@@ -360,6 +401,7 @@
         "changesEyebrow": "DOĞRULANMIŞ DEĞİŞİKLİKLER",
         "changesTitle": "Ne değişti",
         "noClaims": "Bu yapı şablonu hiçbir üretim iddiası içermez.",
+        "dateMissing": "Tarih kaydedilmedi",
         "impactEyebrow": "ETKİ KAPSAMI",
         "impactTitle": "İçerik etkisi",
         "levels": "Seviyeler",

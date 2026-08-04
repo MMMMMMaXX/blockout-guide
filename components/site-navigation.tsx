@@ -36,7 +36,7 @@ export function SiteNavigation({ locale, messages }: { locale: Locale; messages:
       <nav
         className={`main-nav${isOpen ? " main-nav--open" : ""}`}
         id="primary-navigation"
-        aria-label="Primary navigation"
+        aria-label={messages.aria.primaryNavigation}
       >
         {items.map(([label, to]) => {
           const target = `/${locale}${to}`;

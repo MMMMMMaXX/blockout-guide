@@ -8,17 +8,17 @@ export type LevelFilters = {
   difficulty: DifficultyFilter;
 };
 
-export type LevelRangeGroup = {
+export type LevelRangeGroup<T extends LevelArticle = LevelArticle> = {
   start: number;
   end: number;
-  levels: readonly LevelArticle[];
+  levels: readonly T[];
 };
 
 /** 同时匹配关卡号、标题和摘要；难度筛选严格使用结构化字段。 */
-export function filterLevels(
-  levels: readonly LevelArticle[],
+export function filterLevels<T extends LevelArticle>(
+  levels: readonly T[],
   filters: LevelFilters,
-): readonly LevelArticle[] {
+): readonly T[] {
   const query = filters.query.trim().toLocaleLowerCase();
   return levels.filter((level) => {
     const matchesDifficulty =
@@ -29,8 +29,8 @@ export function filterLevels(
 }
 
 /** 将结果限制在稳定页长内，并在筛选后自动修正越界页码。 */
-export function paginateLevels(
-  levels: readonly LevelArticle[],
+export function paginateLevels<T extends LevelArticle>(
+  levels: readonly T[],
   requestedPage: number,
   pageSize = 12,
 ) {
@@ -44,11 +44,11 @@ export function paginateLevels(
 }
 
 /** 按每 rangeSize 关分组，帮助大规模内容库保持可扫描性。 */
-export function groupLevelsByRange(
-  levels: readonly LevelArticle[],
+export function groupLevelsByRange<T extends LevelArticle>(
+  levels: readonly T[],
   rangeSize = 50,
-): readonly LevelRangeGroup[] {
-  const groups = new Map<number, LevelArticle[]>();
+): readonly LevelRangeGroup<T>[] {
+  const groups = new Map<number, T[]>();
   [...levels]
     .sort((a, b) => a.levelNumber - b.levelNumber)
     .forEach((level) => {

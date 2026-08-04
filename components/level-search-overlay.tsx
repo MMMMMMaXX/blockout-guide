@@ -74,7 +74,9 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
         <span className="level-search-trigger__label">
           {size === "hero" ? t.home.searchPlaceholder : t.nav.search}
         </span>
-        {size === "hero" ? <span className="level-search-trigger__cta">Browse</span> : null}
+        {size === "hero" ? (
+          <span className="level-search-trigger__cta">{t.common.browse}</span>
+        ) : null}
       </button>
 
       {open ? (
@@ -82,7 +84,7 @@ export function LevelSearchTrigger({ levels, size = "bar", placeholder }: LevelS
           className="level-search-overlay"
           role="dialog"
           aria-modal="true"
-          aria-label="All levels"
+          aria-label={t.aria.allLevels}
         >
           <div className="level-search-backdrop" onClick={() => setOpen(false)} />
           <div className="level-search-panel">

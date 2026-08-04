@@ -8,13 +8,9 @@ import { buildFullAlternates } from "@/lib/seo/metadata";
 import type { Locale } from "@/lib/content/types";
 
 const sections = {
-  "board-matcher": [
-    "Board matcher",
-    "Phase 4 will match a cropped screenshot to the closest board variants.",
-  ],
+  "board-matcher": "boardMatcher",
 } as const;
 
-type Section = keyof typeof sections;
 type PageProps = { params: Promise<{ locale: string; section: string }> };
 
 /** 为所有受支持语言与其已枚举栏目生成静态参数（栏目本身为独立动态段）。 */
@@ -32,7 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!(section in sections)) return {};
   return {
     title: t.boardMatcher.title,
-    description: sections[section as Section][1],
+    description: t.boardMatcher.plannedDescription,
     alternates: buildFullAlternates(`/${current}/${section}/`),
     robots: "noindex, follow",
   };
@@ -44,18 +40,15 @@ export default async function PlannedSectionPage({ params }: PageProps) {
   const current = locale as Locale;
   const t = getMessages(current);
   if (!(section in sections)) notFound();
-  const [, description] = sections[section as Section];
   return (
     <div className="shell page planned-page">
-      <p className="eyebrow">PLANNED PRODUCT AREA</p>
+      <p className="eyebrow">{t.boardMatcher.plannedEyebrow}</p>
       <h1>{t.boardMatcher.title}</h1>
-      <p>{description}</p>
+      <p>{t.boardMatcher.plannedDescription}</p>
       <div className="planned-card">
-        <span>Not published</span>
-        <h2>The route is reserved for the Phase 4 board-matching feature.</h2>
-        <p>
-          This page is intentionally excluded from indexing until it has validated, useful content.
-        </p>
+        <span>{t.boardMatcher.plannedCardLabel}</span>
+        <h2>{t.boardMatcher.plannedCardTitle}</h2>
+        <p>{t.boardMatcher.plannedCardCopy}</p>
         <LocaleLink className="button-link" to="/">
           {t.notFound.home}
         </LocaleLink>

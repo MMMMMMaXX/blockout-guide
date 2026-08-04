@@ -7,13 +7,6 @@ import { supportedLocales } from "@/lib/i18n/locales";
 import { getMessages } from "@/lib/i18n/messages";
 import { buildFullAlternates } from "@/lib/seo/metadata";
 
-const failurePatterns = [
-  ["Board mismatch", "Confirm the opening layout and platform before copying moves."],
-  ["Blocked center", "Prioritize space-making moves before clearing convenient edge pieces."],
-  ["Move pressure", "Compare the opening sequence before spending boosters on a weak attempt."],
-  ["Version drift", "Re-check the verified date when the game changes a level layout."],
-] as const;
-
 type PageProps = { params: Promise<{ locale: string }> };
 
 /** 为所有受支持语言生成高难关卡聚合页静态参数。 */
@@ -40,6 +33,7 @@ export default async function HardLevelsPage({ params }: PageProps) {
   const current = locale as Locale;
   const t = getMessages(current);
   const levels = getPublishedHardLevels(current);
+  const patterns = t.hardLevels.failurePatterns;
   return (
     <div className="shell page">
       <header className="page-heading">
@@ -50,23 +44,23 @@ export default async function HardLevelsPage({ params }: PageProps) {
       <section className="failure-patterns" aria-labelledby="failure-pattern-heading">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">FAILURE PATTERNS</p>
-            <h2 id="failure-pattern-heading">Diagnose the attempt before retrying</h2>
+            <p className="eyebrow">{patterns.eyebrow}</p>
+            <h2 id="failure-pattern-heading">{patterns.title}</h2>
           </div>
         </div>
         <div className="feature-grid">
-          {failurePatterns.map(([title, copy], index) => (
-            <article className="feature-card" key={title}>
+          {patterns.items.map((item, index) => (
+            <article className="feature-card" key={item.title}>
               <span>{index + 1}</span>
-              <h3>{title}</h3>
-              <p>{copy}</p>
+              <h3>{item.title}</h3>
+              <p>{item.copy}</p>
             </article>
           ))}
         </div>
       </section>
       <section className="hard-library" aria-labelledby="hard-library-heading">
         <h2 id="hard-library-heading" className="sr-only">
-          Verified hard levels
+          {t.hardLevels.verifiedHardLevels}
         </h2>
         <LevelsExplorer levels={levels} />
       </section>

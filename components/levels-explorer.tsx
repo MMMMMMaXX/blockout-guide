@@ -2,7 +2,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { LevelArticle } from "@/lib/content/types";
+import type { ResolvedLevel } from "@/lib/content/level-repository";
 import {
   filterLevels,
   groupLevelsByRange,
@@ -26,7 +26,7 @@ function buildRanges(minLevel: number, maxLevel: number): { start: number; end: 
 }
 
 type LevelsExplorerProps = {
-  levels: readonly LevelArticle[];
+  levels: readonly ResolvedLevel[];
 };
 
 /** 每次改变检索条件都回到第一页，避免用户落在已经不存在的页码。 */

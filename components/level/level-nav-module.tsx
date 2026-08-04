@@ -16,7 +16,7 @@ type LevelNavModuleProps = {
 export function LevelNavModule({ locale, previousLevel, nextLevel }: LevelNavModuleProps) {
   const t = getMessages(locale);
   return (
-    <nav className="mobile-level-nav" aria-label="Adjacent levels">
+    <nav className="mobile-level-nav" aria-label={t.aria.adjacentLevels}>
       {previousLevel ? (
         <Link href={withLocale(locale, `/levels/${previousLevel.levelNumber}/`)}>
           ← {previousLevel.levelNumber}
