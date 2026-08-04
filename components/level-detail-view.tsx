@@ -35,13 +35,13 @@ function getVariantLabel(level: LevelArticle, index: number, locale: Locale) {
  * 关卡详情主体：模块顺序与条件渲染集中在此处。
  * 因为每一个模块都是独立组件，修改任一模块样式或在此调整模块顺序，都会同时作用于全部关卡页。
  * 上/下关与搜索已移至滚动后常驻的悬浮底部条（FloatingLevelBar），避免重复渲染。
- * 长文本模块（提示/步骤/失败点/FAQ）仅在目标语言存在对应 overlay 时展示，否则按视频层级呈现，绝不显示英文长文本。
+ * 攻略正文（提示/步骤/失败点/FAQ）随视频一起展示：视频本身即英文 walkthrough，攻略正文同源英文，
+ * 非源语言页保留本地化 UI 外壳并展示英文攻略主体，不再因语言差异留白。
  */
 export function LevelDetailView({ level }: LevelDetailViewProps) {
   const [selectedVariantIndex, setSelectedVariantIndex] = useState(0);
   const locale = useLocale();
   const variant = level.variants[selectedVariantIndex];
-  const showProse = level.sourceLocale === locale;
   const isEnhanced = level.contentTier !== "video";
   const variantOptions = level.variants.map((item, index) => ({
     id: item.id,
@@ -63,35 +63,34 @@ export function LevelDetailView({ level }: LevelDetailViewProps) {
       </section>
 
       <section className="detail-grid detail-grid--with-steps">
-        <div className="detail-grid__top">
+        <div className="detail-cell detail-cell--video">
           <VideoModule
             levelNumber={level.levelNumber}
             video={variant.video}
-            chapters={showProse && isEnhanced ? variant.chapters : undefined}
+            chapters={isEnhanced ? variant.chapters : undefined}
             poster={variant.boardImage}
             locale={locale}
           />
-          {showProse && isEnhanced && variant.quickTips && variant.quickTips.length > 0 ? (
-            <QuickTipsModule tips={variant.quickTips} />
-          ) : null}
         </div>
-        {showProse &&
-        level.contentTier === "full-guide" &&
-        variant.steps &&
-        variant.steps.length > 0 ? (
-          <SolutionStepsModule steps={variant.steps} />
+        {isEnhanced && variant.quickTips && variant.quickTips.length > 0 ? (
+          <div className="detail-cell detail-cell--tips">
+            <QuickTipsModule tips={variant.quickTips} />
+          </div>
+        ) : null}
+        {level.contentTier === "full-guide" && variant.steps && variant.steps.length > 0 ? (
+          <div className="detail-cell detail-cell--steps">
+            <SolutionStepsModule steps={variant.steps} />
+          </div>
         ) : null}
       </section>
 
-      {showProse && isEnhanced && variant.failurePoints && variant.failurePoints.length > 0 ? (
+      {isEnhanced && variant.failurePoints && variant.failurePoints.length > 0 ? (
         <FailurePointsModule failures={variant.failurePoints} />
       ) : null}
 
       <SourcesModule level={level} variant={variant} locale={locale} />
 
-      {showProse ? (
-        <FaqModule levelNumber={level.levelNumber} boosterUsage={variant.boosterUsage} />
-      ) : null}
+      <FaqModule levelNumber={level.levelNumber} boosterUsage={variant.boosterUsage} />
     </>
   );
 }

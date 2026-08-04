@@ -1681,15 +1681,24 @@ a:focus-visible {
   margin-top: 15px;
   align-items: start;
 }
-/* 完整攻略关卡：上方视频与快速提示横向并列（视频更宽），下方放解法步骤列表。 */
+/* 完整攻略关卡：左列为视频，右列为快速提示，下方全宽放解法步骤。 */
 .detail-grid--with-steps {
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr);
+  grid-template-areas:
+    "video tips"
+    "steps steps";
 }
-.detail-grid__top {
-  display: grid;
-  grid-template-columns: minmax(0, 1.75fr) minmax(0, 1fr);
-  gap: 15px;
-  align-items: start;
+.detail-cell {
+  min-width: 0;
+}
+.detail-cell--video {
+  grid-area: video;
+}
+.detail-cell--tips {
+  grid-area: tips;
+}
+.detail-cell--steps {
+  grid-area: steps;
 }
 .content-panel {
   padding: 18px;
@@ -1720,21 +1729,24 @@ a:focus-visible {
   font-size: 0.78rem;
 }
 .youtube-player {
-  display: grid;
-  grid-template-columns: minmax(150px, 180px) minmax(0, 1fr);
+  display: flex;
   gap: 16px;
-  align-items: start;
+  align-items: flex-start;
   justify-content: start;
 }
 .youtube-player .video-embed {
-  min-height: 440px;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.youtube-player .chapter-list {
+  flex: 0 0 180px;
+  max-width: 220px;
 }
 .video-embed {
-  order: 2;
   position: relative;
-  aspect-ratio: 9 / 16;
+  aspect-ratio: 16 / 9;
+  width: min(100%, calc(80vh * 16 / 9));
   max-width: 100%;
-  min-height: 420px;
   margin-inline: 0;
   overflow: hidden;
   border-radius: 20px;
@@ -1901,8 +1913,7 @@ a:focus-visible {
 .source-panel {
   margin-top: 15px;
 }
-.detail-grid > .solution-steps,
-.detail-grid > .detail-grid__top {
+.detail-grid > .solution-steps {
   margin-top: 0;
 }
 .solution-steps > h2 {
@@ -2419,17 +2430,23 @@ a:focus-visible {
   .board-card__body--with-image .board-image {
     max-width: 160px;
   }
-  .youtube-player {
+  .detail-grid--with-steps {
     grid-template-columns: 1fr;
+    grid-template-areas:
+      "video"
+      "tips"
+      "steps";
+  }
+  .youtube-player {
+    flex-direction: column;
   }
   .youtube-player .video-embed {
-    min-height: 420px;
+    width: 100%;
   }
-  .chapter-list {
+  .youtube-player .chapter-list {
     order: -1;
-  }
-  .detail-grid__top {
-    grid-template-columns: 1fr;
+    flex-basis: auto;
+    max-width: 100%;
   }
   .solution-steps > ol > li:has(.step-media--landscape) .step-content {
     flex-direction: column;

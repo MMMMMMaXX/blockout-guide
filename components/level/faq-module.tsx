@@ -2,7 +2,7 @@
 "use client";
 
 import { useLocale } from "@/lib/i18n/use-locale";
-import { getMessages } from "@/lib/i18n/messages";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
 
 type FaqModuleProps = {
   levelNumber: number;
@@ -11,20 +11,21 @@ type FaqModuleProps = {
 
 /** 单关卡 FAQ；修改此组件会同时影响所有关卡页的问答展示。 */
 export function FaqModule({ levelNumber, boosterUsage }: FaqModuleProps) {
-  const t = getMessages(useLocale());
+  const locale = useLocale();
+  const t = getMessages(locale);
+  const usageLabel =
+    (t.boosterStatus[boosterUsage as keyof typeof t.boosterStatus] as string | undefined) ??
+    boosterUsage;
   return (
     <section className="content-panel detail-faq">
       <p className="eyebrow">{t.levelDetail.faq}</p>
       <details>
-        <summary>Why might my Level {levelNumber} board look different?</summary>
-        <p>Game version, platform or staged rollout differences can change a board layout.</p>
+        <summary>{interpolate(t.levelDetail.faqBoardDiffersQuestion, { level: levelNumber })}</summary>
+        <p>{t.levelDetail.faqBoardDiffersAnswer}</p>
       </details>
       <details>
-        <summary>Should I use a booster?</summary>
-        <p>
-          This Variant records booster use as <strong>{boosterUsage}</strong>. Match the board
-          before treating that note as applicable.
-        </p>
+        <summary>{t.levelDetail.faqBoosterQuestion}</summary>
+        <p>{interpolate(t.levelDetail.faqBoosterAnswer, { usage: usageLabel })}</p>
       </details>
     </section>
   );
