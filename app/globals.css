@@ -175,6 +175,81 @@ button {
   color: var(--text);
 }
 
+.language-switcher {
+  position: relative;
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.language-switcher__toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 40px;
+  padding: 0 12px;
+  border: 1px solid var(--line-strong);
+  border-radius: 12px;
+  background: white;
+  color: var(--text);
+  font-size: 0.78rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.language-switcher__toggle:hover,
+.language-switcher__toggle:focus-visible,
+.language-switcher--open .language-switcher__toggle {
+  border-color: var(--brand);
+  background: var(--brand-soft);
+  color: var(--brand-dark);
+}
+
+.language-switcher__menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 60;
+  min-width: 180px;
+  max-width: min(calc(100vw - 32px), 240px);
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface);
+  box-shadow: var(--shadow-hover);
+}
+
+.language-switcher__menu li {
+  margin: 0;
+}
+
+.language-switcher__menu button {
+  width: 100%;
+  min-height: 36px;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-align: left;
+}
+
+.language-switcher__menu button:hover,
+.language-switcher__menu button:focus-visible {
+  background: var(--surface-soft);
+  color: var(--brand-dark);
+}
+
+.language-switcher__menu button.is-current {
+  background: var(--brand-soft);
+  color: var(--brand-dark);
+  font-weight: 800;
+}
+
 .level-jump {
   display: flex;
   gap: 9px;

@@ -2,6 +2,7 @@
 import type { ReactNode } from "react";
 import type { Locale } from "@/lib/content/types";
 import type { Messages } from "@/lib/i18n/messages";
+import { localeMeta } from "@/lib/i18n/locale-meta";
 import { LocaleLink } from "./locale-link";
 import { SiteNavigation } from "./site-navigation";
 import { LanguageSwitcher } from "./language-switcher";
@@ -33,7 +34,9 @@ export function SiteShell({
             <span>{m.brand.name}</span>
           </LocaleLink>
           <SiteNavigation locale={locale} messages={m} />
-          <LanguageSwitcher />
+          <LanguageSwitcher
+            ariaLabel={`${m.nav.language}: ${localeMeta[locale]?.label ?? locale}`}
+          />
         </div>
       </header>
       <main id="main">{children}</main>

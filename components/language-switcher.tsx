@@ -9,7 +9,7 @@ import { changeLocale, stripLocale } from "@/lib/i18n/locale-path";
 import { buildLocaleCookie } from "@/lib/i18n/locale-cookie";
 
 /** 下拉式语言切换器；点击即切换路径并写入 stratlore_locale Cookie。 */
-export function LanguageSwitcher() {
+export function LanguageSwitcher({ ariaLabel }: { ariaLabel?: string }) {
   const pathname = usePathname();
   const router = useRouter();
   const [open, setOpen] = useState(false);
@@ -30,11 +30,12 @@ export function LanguageSwitcher() {
         className="language-switcher__toggle"
         aria-haspopup="true"
         aria-expanded={open}
+        aria-label={ariaLabel}
         onClick={() => setOpen((value) => !value)}
       >
         <span aria-hidden="true">🌐</span>
         <span>{localeMeta[current]?.label ?? "English"}</span>
-        <span className="sr-only">Change language</span>
+        {ariaLabel ? <span className="sr-only">{ariaLabel}</span> : null}
       </button>
       {open ? (
         <ul className="language-switcher__menu" role="menu">
