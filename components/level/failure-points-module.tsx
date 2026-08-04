@@ -14,7 +14,8 @@ const ACCENT_CYCLE = ["pink", "purple", "cyan", "green", "orange", "yellow"] as 
 
 /** 单关卡失败点；修改此组件会同时影响所有关卡页的失败点展示。 */
 export function FailurePointsModule({ failures }: FailurePointsModuleProps) {
-  const t = getMessages(useLocale());
+  const locale = useLocale();
+  const t = getMessages(locale);
   return (
     <section className="content-panel failure-panel">
       <p className="eyebrow">{t.levelDetail.failurePoints}</p>
@@ -25,7 +26,7 @@ export function FailurePointsModule({ failures }: FailurePointsModuleProps) {
             className={`failure-card failure-card--${ACCENT_CYCLE[index % ACCENT_CYCLE.length]}`}
           >
             <span aria-hidden="true">{index + 1}</span>
-            <p>{highlightColors(failure)}</p>
+            <p>{highlightColors({ text: failure, locale })}</p>
           </div>
         ))}
       </div>

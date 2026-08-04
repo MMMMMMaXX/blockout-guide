@@ -118,6 +118,16 @@
     "searchPlaceholder": "Recherchez par numéro de niveau ou par difficulté",
     "allPublished": "Tous les {count} niveaux publiés",
     "noLevels": "Aucun niveau de production n'est encore publié.",
+    "levelRange": "Niveaux {start}–{end}",
+    "publishedCount": "{count} niveaux publiés",
+    "empty": {
+      "title": "La bibliothèque attend un contenu vérifié",
+      "copy": "Les brouillons restent hors de la découverte tant que les contrôles de plateau, de version et de source ne sont pas passés."
+    },
+    "noMatch": {
+      "title": "Essayez un autre niveau ou une autre difficulté",
+      "copy": "Les filtres ne recherchent que les guides vérifiés et publiés."
+    },
     "quickJump": "Aller à",
     "searchLabel": "Rechercher les niveaux vérifiés",
     "resultCount": "{count} guides vérifiés"
@@ -142,8 +152,16 @@
     "compareSource": "Comparer avec la source",
     "openFullLibrary": "Ouvrir la bibliothèque complète des niveaux",
     "quickFacts": "En bref",
+    "status": "Statut",
+    "verification": "Vérification",
+    "checked": "Vérifié",
     "platform": "Plateforme",
     "gameVersion": "Version du jeu",
+    "notVerified": "Non vérifié",
+    "pending": "En attente",
+    "versionNotRecorded": "Version non enregistrée",
+    "boardColors": "Couleurs du plateau",
+    "boardMatchNote": "Suivez cette solution uniquement si le plateau de départ et la plateforme correspondent à votre jeu.",
     "chapters": "Chapitres vidéo",
     "notAvailable": "Pas encore disponible dans cette langue"
   },
@@ -155,6 +173,38 @@
     "all": "Tous",
     "medium": "Moyen",
     "label": "Difficulté"
+  },
+  "contentTier": {
+    "fullGuide": "Guide complet",
+    "video": "Vidéo"
+  },
+  "status": {
+    "published": "Publié"
+  },
+  "verificationStatus": {
+    "sourceVerified": "Source vérifiée"
+  },
+  "platform": {
+    "ios": "iOS",
+    "android": "Android"
+  },
+  "color": {
+    "red": "Rouge",
+    "yellow": "Jaune",
+    "blue": "Bleu",
+    "white": "Blanc",
+    "black": "Noir",
+    "green": "Vert",
+    "pink": "Rose",
+    "cyan": "Cyan",
+    "purple": "Pourpre",
+    "violet": "Violet",
+    "orange": "Orange",
+    "teal": "Sarcelle",
+    "lime": "Citron vert",
+    "magenta": "Magenta",
+    "gray": "Gris",
+    "grey": "Gris"
   },
   "boosterStatus": {
     "none": "Aucun booster",
@@ -175,6 +225,7 @@
     "noMatchTitle": "Aucune correspondance publiée pour « {query} »",
     "noMatchCopy": "Essayez un autre titre, numéro de niveau, obstacle, booster ou mot-clé de mise à jour.",
     "resultCount": "{count} résultats",
+    "indexedArticles": "{count} articles indexés",
     "label": "Rechercher le contenu publié",
     "inputPlaceholder": "Numéro de niveau, obstacle, booster ou question"
   },
@@ -220,6 +271,11 @@
     "levels": "Niveaux",
     "loading": "Chargement…",
     "previous": "Précédent",
-    "next": "Suivant"
+    "next": "Suivant",
+    "level": "Niveau {level}"
+  },
+  "editorial": {
+    "publishedArticles": "{count} articles publiés",
+    "updated": "Mis à jour le {date}"
   }
 }

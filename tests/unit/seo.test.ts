@@ -19,8 +19,8 @@ describe("SEO helpers", () => {
   });
 
   it("keeps the WebSite search target aligned with the real query parameter", () => {
-    expect(JSON.stringify(buildWebsiteJsonLd())).toContain("search_term_string");
-    expect(JSON.stringify(buildWebsiteJsonLd())).toContain("/en/search/?q=");
+    expect(JSON.stringify(buildWebsiteJsonLd("en"))).toContain("search_term_string");
+    expect(JSON.stringify(buildWebsiteJsonLd("en"))).toContain("/en/search/?q=");
   });
 
   it("keeps drafts out of Sitemap and search out of robots", () => {
@@ -33,6 +33,6 @@ describe("SEO helpers", () => {
     );
     expect(xml).toContain("/en/levels/1/");
     expect(xml).not.toContain("/en/levels/2/");
-    expect(buildRobotsText()).toContain("Disallow: /en/search/");
+    expect(buildRobotsText()).toContain("Disallow: /search/");
   });
 });

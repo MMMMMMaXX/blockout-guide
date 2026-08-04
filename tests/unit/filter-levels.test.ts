@@ -31,18 +31,18 @@ describe("level filters", () => {
   });
 
   it("groups sorted levels into stable ranges", () => {
-    expect(groupLevelsByRange(levels).map((group) => group.label)).toEqual([
-      "Levels 1–50",
-      "Levels 51–100",
-      "Levels 101–150",
+    expect(groupLevelsByRange(levels).map((group) => [group.start, group.end])).toEqual([
+      [1, 50],
+      [51, 100],
+      [101, 150],
     ]);
   });
 
   it("accepts a custom range size", () => {
-    expect(groupLevelsByRange(levels, 30).map((group) => group.label)).toEqual([
-      "Levels 1–30",
-      "Levels 31–60",
-      "Levels 91–120",
+    expect(groupLevelsByRange(levels, 30).map((group) => [group.start, group.end])).toEqual([
+      [1, 30],
+      [31, 60],
+      [91, 120],
     ]);
   });
 

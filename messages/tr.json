@@ -118,6 +118,16 @@
     "searchPlaceholder": "Seviye numarası veya zorluk derecesine göre arayın",
     "allPublished": "Tüm {count} yayınlanmış seviye",
     "noLevels": "Henüz yayınlanmış bir üretim seviyesi yok.",
+    "levelRange": "Seviyeler {start}–{end}",
+    "publishedCount": "{count} yayınlanmış seviye",
+    "empty": {
+      "title": "Kütüphane doğrulanmış içerik bekliyor",
+      "copy": "Taslaklar, tahta, sürüm ve kaynak kontrolleri geçene kadar keşfin dışında kalır."
+    },
+    "noMatch": {
+      "title": "Başka bir seviye veya zorluk deneyin",
+      "copy": "Filtreler yalnızca doğrulanmış, yayınlanmış rehberleri arar."
+    },
     "quickJump": "Hızlı atla",
     "searchLabel": "Doğrulanmış seviyeleri ara",
     "resultCount": "{count} doğrulanmış rehber"
@@ -142,8 +152,16 @@
     "compareSource": "Kaynakla karşılaştır",
     "openFullLibrary": "Tam seviye kütüphanesini aç",
     "quickFacts": "Hızlı bilgiler",
+    "status": "Durum",
+    "verification": "Doğrulama",
+    "checked": "Kontrol edildi",
     "platform": "Platform",
     "gameVersion": "Oyun sürümü",
+    "notVerified": "Doğrulanmadı",
+    "pending": "Beklemede",
+    "versionNotRecorded": "Sürüm kaydedilmedi",
+    "boardColors": "Tahta renkleri",
+    "boardMatchNote": "Bu çözümü yalnızca açılış tahtası ve platform oyununuzla eşleştiğinde izleyin.",
     "chapters": "Video bölümleri",
     "notAvailable": "Bu dilde henüz mevcut değil"
   },
@@ -155,6 +173,38 @@
     "all": "Tümü",
     "medium": "Orta",
     "label": "Zorluk"
+  },
+  "contentTier": {
+    "fullGuide": "Tam rehber",
+    "video": "Video"
+  },
+  "status": {
+    "published": "Yayınlandı"
+  },
+  "verificationStatus": {
+    "sourceVerified": "Kaynak doğrulandı"
+  },
+  "platform": {
+    "ios": "iOS",
+    "android": "Android"
+  },
+  "color": {
+    "red": "Kırmızı",
+    "yellow": "Sarı",
+    "blue": "Mavi",
+    "white": "Beyaz",
+    "black": "Siyah",
+    "green": "Yeşil",
+    "pink": "Pembe",
+    "cyan": "Camgöbeği",
+    "purple": "Mor",
+    "violet": "Menekşe",
+    "orange": "Turuncu",
+    "teal": "Çakır",
+    "lime": "Limon",
+    "magenta": "Macenta",
+    "gray": "Gri",
+    "grey": "Gri"
   },
   "boosterStatus": {
     "none": "Yardımcı yok",
@@ -175,6 +225,7 @@
     "noMatchTitle": "“{query}” için yayınlanmış eşleşme yok",
     "noMatchCopy": "Başka bir başlık, seviye numarası, engel, güçlendirici veya güncelleme anahtar kelimesi deneyin.",
     "resultCount": "{count} sonuç",
+    "indexedArticles": "{count} dizine eklenmiş makale",
     "label": "Yayınlanmış içeriği ara",
     "inputPlaceholder": "Seviye numarası, engel, güçlendirici veya soru"
   },
@@ -220,6 +271,11 @@
     "levels": "Seviyeler",
     "loading": "Yükleniyor…",
     "previous": "Önceki",
-    "next": "Sonraki"
+    "next": "Sonraki",
+    "level": "Seviye {level}"
+  },
+  "editorial": {
+    "publishedArticles": "{count} yayınlanmış makale",
+    "updated": "{date} güncellendi"
   }
 }

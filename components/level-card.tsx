@@ -2,7 +2,13 @@
 import Link from "next/link";
 import type { LevelArticle, Locale } from "@/lib/content/types";
 import { withLocale } from "@/lib/i18n/locale-path";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
 import { BoardPreview } from "./board-preview";
+
+type LevelCardProps = {
+  level: LevelArticle;
+  locale: Locale;
+};
 
 /** 优先使用真实棋盘封面或视频缩略图，避免占位图形冒充真实关卡。 */
 function getCardThumbnail(level: LevelArticle): string | null {
@@ -15,9 +21,14 @@ function getCardThumbnail(level: LevelArticle): string | null {
   return null;
 }
 
-/** 整卡保持单一链接目标，并显式标明草稿以避免误解为真实攻略。 */
-export function LevelCard({ level, locale }: { level: LevelArticle; locale: Locale }) {
+/** 整卡保持单一链接目标；非源语言页隐藏英文摘要（Tier A）。 */
+export function LevelCard({ level, locale }: LevelCardProps) {
+  const t = getMessages(locale);
   const thumb = getCardThumbnail(level);
+  const showSummary = level.locale === locale;
+  const difficultyLabel = t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
+  const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";
+  const tierLabel = t.contentTier[tierKey as keyof typeof t.contentTier] ?? level.contentTier;
   return (
     <Link className="level-card" href={withLocale(locale, `/levels/${level.levelNumber}/`)}>
       <div className="level-card__media">
@@ -25,24 +36,24 @@ export function LevelCard({ level, locale }: { level: LevelArticle; locale: Loca
           <img
             className="level-card__thumb"
             src={thumb}
-            alt={`Block Out level ${level.levelNumber} board`}
+            alt={interpolate(t.levelDetail.title, { level: level.levelNumber })}
             loading="lazy"
           />
         ) : (
           <BoardPreview compact />
         )}
         <span className={`badge badge--${level.difficulty ?? "easy"}`}>
-          {level.difficulty ?? "unrated"}
+          {difficultyLabel}
         </span>
       </div>
       <div className="level-card__body">
         <div>
-          <p className="eyebrow">{level.contentTier}</p>
-          <h3>Level {level.levelNumber}</h3>
+          <p className="eyebrow">{tierLabel}</p>
+          <h3>{interpolate(t.common.level, { level: level.levelNumber })}</h3>
         </div>
         <span aria-hidden="true">→</span>
       </div>
-      <p>{level.summary}</p>
+      {showSummary ? <p>{level.summary}</p> : null}
     </Link>
   );
 }

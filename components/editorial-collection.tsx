@@ -2,6 +2,17 @@
 import Link from "next/link";
 import type { EditorialArticle, Locale } from "@/lib/content/types";
 import { withLocale } from "@/lib/i18n/locale-path";
+import { getMessages, interpolate } from "@/lib/i18n/messages";
+
+const kindToNavKey: Record<
+  EditorialArticle["kind"],
+  "obstacles" | "boosters" | "guides" | "updates"
+> = {
+  obstacle: "obstacles",
+  booster: "boosters",
+  guide: "guides",
+  update: "updates",
+};
 
 type EditorialCollectionProps = {
   locale: Locale;
@@ -19,10 +30,11 @@ export function EditorialCollection({
   emptyTitle,
   emptyCopy,
 }: EditorialCollectionProps) {
+  const t = getMessages(locale);
   if (items.length === 0)
     return (
       <section className="empty-state">
-        <span>0 published articles</span>
+        <span>{interpolate(t.editorial.publishedArticles, { count: 0 })}</span>
         <h2>{emptyTitle}</h2>
         <p>{emptyCopy}</p>
       </section>
@@ -46,11 +58,13 @@ export function EditorialCollection({
                   : "↻"}
           </div>
           <div>
-            <p className="eyebrow">{item.kind}</p>
+            <p className="eyebrow">{t.nav[kindToNavKey[item.kind]]}</p>
             <h2>{item.title}</h2>
             <p>{item.summary}</p>
           </div>
-          <span className="editorial-card__meta">Updated {item.updatedAt} →</span>
+          <span className="editorial-card__meta">
+            {interpolate(t.editorial.updated, { date: item.updatedAt })} →
+          </span>
         </Link>
       ))}
     </div>

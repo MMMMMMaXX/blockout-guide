@@ -118,6 +118,16 @@
     "searchPlaceholder": "Search by level number or difficulty",
     "allPublished": "All {count} published levels",
     "noLevels": "No production level is published yet.",
+    "levelRange": "Levels {start}–{end}",
+    "publishedCount": "{count} published levels",
+    "empty": {
+      "title": "The library is waiting for verified content",
+      "copy": "Drafts stay out of discovery until board, version and source checks pass."
+    },
+    "noMatch": {
+      "title": "Try another level or difficulty",
+      "copy": "The filters only search verified, published guides."
+    },
     "quickJump": "Quick jump",
     "searchLabel": "Search verified levels",
     "resultCount": "{count} verified guides"
@@ -142,8 +152,16 @@
     "compareSource": "Compare with source",
     "openFullLibrary": "Open full level library",
     "quickFacts": "Quick facts",
+    "status": "Status",
+    "verification": "Verification",
+    "checked": "Checked",
     "platform": "Platform",
     "gameVersion": "Game version",
+    "notVerified": "Not verified",
+    "pending": "Pending",
+    "versionNotRecorded": "Version not recorded",
+    "boardColors": "Board colors",
+    "boardMatchNote": "Follow this solution only when the opening board and platform match your game.",
     "chapters": "Video chapters",
     "notAvailable": "Not available in this language yet"
   },
@@ -156,11 +174,47 @@
     "medium": "Medium",
     "label": "Difficulty"
   },
+  "contentTier": {
+    "fullGuide": "Full guide",
+    "video": "Video"
+  },
+  "status": {
+    "published": "Published"
+  },
+  "verificationStatus": {
+    "sourceVerified": "Source verified"
+  },
+  "platform": {
+    "ios": "iOS",
+    "android": "Android"
+  },
+  "color": {
+    "red": "Red",
+    "yellow": "Yellow",
+    "blue": "Blue",
+    "white": "White",
+    "black": "Black",
+    "green": "Green",
+    "pink": "Pink",
+    "cyan": "Cyan",
+    "purple": "Purple",
+    "violet": "Violet",
+    "orange": "Orange",
+    "teal": "Teal",
+    "lime": "Lime",
+    "magenta": "Magenta",
+    "gray": "Gray",
+    "grey": "Grey"
+  },
   "boosterStatus": {
     "none": "No booster",
     "optional": "Optional",
     "used": "Used",
     "unknown": "Unknown"
+  },
+  "editorial": {
+    "publishedArticles": "{count} published articles",
+    "updated": "Updated {date}"
   },
   "search": {
     "title": "Search",
@@ -175,6 +229,7 @@
     "noMatchTitle": "No published match for \"{query}\"",
     "noMatchCopy": "Try another title, level number, obstacle, booster or update keyword.",
     "resultCount": "{count} results",
+    "indexedArticles": "{count} indexed articles",
     "label": "Search published content",
     "inputPlaceholder": "Level number, obstacle, booster or question"
   },
@@ -220,6 +275,7 @@
     "levels": "Levels",
     "loading": "Loading…",
     "previous": "Previous",
-    "next": "Next"
+    "next": "Next",
+    "level": "Level {level}"
   }
 }

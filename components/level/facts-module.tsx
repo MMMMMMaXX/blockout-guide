@@ -13,45 +13,62 @@ type FactsModuleProps = {
 export function FactsModule({ level, variant, locale }: FactsModuleProps) {
   const t = getMessages(locale);
   const colors = variant.boardProfile?.colors ?? [];
+
+  const statusValue =
+    level.status === "published" ? t.status.published : level.status;
+  const verificationValue =
+    variant.verificationStatus === "source-verified"
+      ? t.verificationStatus.sourceVerified
+      : variant.verificationStatus.replaceAll("-", " ");
+  const platformValue =
+    variant.platforms.length > 0
+      ? variant.platforms
+          .map((p) => (t.platform[p as keyof typeof t.platform] as string | undefined) ?? p)
+          .join(", ")
+      : t.levelDetail.pending;
+  const boosterValue =
+    (t.boosterStatus[variant.boosterUsage as keyof typeof t.boosterStatus] as string | undefined) ??
+    variant.boosterUsage;
+  const gameVersionValue = variant.gameVersion ?? t.levelDetail.versionNotRecorded;
+  const checkedValue = variant.verifiedAt ?? t.levelDetail.notVerified;
+
   return (
     <aside className="facts-card">
       <p className="eyebrow">{t.levelDetail.quickFacts}</p>
       <h2>{t.levelDetail.quickFacts}</h2>
       <dl>
         <div>
-          <dt>Status</dt>
-          <dd>{level.status}</dd>
+          <dt>{t.levelDetail.status}</dt>
+          <dd>{statusValue}</dd>
         </div>
         <div>
           <dt>{t.levelDetail.gameVersion}</dt>
-          <dd>{variant.gameVersion ?? "Version not recorded"}</dd>
+          <dd>{gameVersionValue}</dd>
         </div>
         <div>
           <dt>{t.levelDetail.platform}</dt>
-          <dd>{variant.platforms.length > 0 ? variant.platforms.join(", ") : "Pending"}</dd>
+          <dd>{platformValue}</dd>
         </div>
         <div>
           <dt>{t.levelDetail.booster}</dt>
-          <dd>{variant.boosterUsage}</dd>
+          <dd>{boosterValue}</dd>
         </div>
         <div>
-          <dt>Verification</dt>
-          <dd>{variant.verificationStatus.replaceAll("-", " ")}</dd>
+          <dt>{t.levelDetail.verification}</dt>
+          <dd>{verificationValue}</dd>
         </div>
         <div>
-          <dt>Checked</dt>
-          <dd>{variant.verifiedAt ?? "Not verified"}</dd>
+          <dt>{t.levelDetail.checked}</dt>
+          <dd>{checkedValue}</dd>
         </div>
       </dl>
       {colors.length > 0 ? (
         <div className="facts-colors">
-          <p className="facts-colors__label">Board colors</p>
-          <ColorChips colors={colors} />
+          <p className="facts-colors__label">{t.levelDetail.boardColors}</p>
+          <ColorChips colors={colors} locale={locale} />
         </div>
       ) : null}
-      <div className="callout">
-        Follow this solution only when the opening board and platform match your game.
-      </div>
+      <div className="callout">{t.levelDetail.boardMatchNote}</div>
     </aside>
   );
 }

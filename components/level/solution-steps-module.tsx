@@ -13,7 +13,8 @@ type SolutionStepsModuleProps = {
 
 /** 单关卡逐步解法；修改此组件会同时影响所有关卡页的解法展示。 */
 export function SolutionStepsModule({ steps }: SolutionStepsModuleProps) {
-  const t = getMessages(useLocale());
+  const locale = useLocale();
+  const t = getMessages(locale);
   return (
     <section className="content-panel solution-steps">
       <p className="eyebrow">{t.levelDetail.solutionSteps}</p>
@@ -25,7 +26,7 @@ export function SolutionStepsModule({ steps }: SolutionStepsModuleProps) {
             <div className="step-content">
               <div className="step-copy">
                 <h3>{step.title}</h3>
-                <p>{highlightColors(step.instruction)}</p>
+                <p>{highlightColors({ text: step.instruction, locale })}</p>
               </div>
               {step.image ? (
                 <StepImage

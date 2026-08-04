@@ -16,34 +16,26 @@ import { getMessages, interpolate } from "@/lib/i18n/messages";
 
 const RANGE_SIZE = 30;
 
-type LevelRange = { label: string; start: number; end: number };
-
-function buildRanges(minLevel: number, maxLevel: number): LevelRange[] {
-  const ranges: LevelRange[] = [];
+function buildRanges(minLevel: number, maxLevel: number): { start: number; end: number }[] {
+  const ranges: { start: number; end: number }[] = [];
   for (let start = minLevel; start <= maxLevel; start += RANGE_SIZE) {
     const end = Math.min(start + RANGE_SIZE - 1, maxLevel);
-    ranges.push({ label: `${start}-${end}`, start, end });
+    ranges.push({ start, end });
   }
   return ranges;
 }
 
 type LevelsExplorerProps = {
   levels: readonly LevelArticle[];
-  emptyTitle?: string;
-  emptyCopy?: string;
 };
 
 /** 每次改变检索条件都回到第一页，避免用户落在已经不存在的页码。 */
-export function LevelsExplorer({
-  levels,
-  emptyTitle = "The library is waiting for verified content",
-  emptyCopy = "Drafts stay out of discovery until board, version and solution checks pass.",
-}: LevelsExplorerProps) {
+export function LevelsExplorer({ levels }: LevelsExplorerProps) {
   const locale = useLocale();
   const t = getMessages(locale);
   const [query, setQuery] = useState("");
   const [difficulty, setDifficulty] = useState<DifficultyFilter>("all");
-  const [range, setRange] = useState<LevelRange | null>(null);
+  const [range, setRange] = useState<{ start: number; end: number } | null>(null);
   const [page, setPage] = useState(1);
   const [isJumpMenuOpen, setJumpMenuOpen] = useState(false);
   const searchFieldRef = useRef<HTMLDivElement | null>(null);
@@ -112,13 +104,13 @@ export function LevelsExplorer({
     setPage(1);
   }
 
-  function selectRange(next: LevelRange | null) {
+  function selectRange(next: { start: number; end: number } | null) {
     setRange(next);
     setPage(1);
   }
 
   return (
-    <section className="levels-explorer" aria-label="Level explorer">
+    <section className="levels-explorer" aria-label={t.nav.levels}>
       <div className="level-filters">
         <div className="level-filters__search" ref={searchFieldRef}>
           <label>
@@ -165,11 +157,11 @@ export function LevelsExplorer({
           {ranges.map((item) => (
             <button
               type="button"
-              key={item.label}
+              key={`${item.start}-${item.end}`}
               aria-pressed={range?.start === item.start}
               onClick={() => selectRange(item)}
             >
-              {item.label}
+              {item.start}-{item.end}
             </button>
           ))}
         </div>
@@ -181,32 +173,37 @@ export function LevelsExplorer({
 
       {levels.length === 0 ? (
         <div className="empty-state">
-          <span>0 published levels</span>
-          <h2>{emptyTitle}</h2>
-          <p>{emptyCopy}</p>
+          <span>{interpolate(t.levels.publishedCount, { count: 0 })}</span>
+          <h2>{t.levels.empty.title}</h2>
+          <p>{t.levels.empty.copy}</p>
         </div>
       ) : filtered.length === 0 ? (
         <div className="empty-state">
-          <span>No matching guides</span>
-          <h2>Try another level or difficulty</h2>
-          <p>The filters only search verified, published guides.</p>
+          <span>{interpolate(t.levels.resultCount, { count: 0 })}</span>
+          <h2>{t.levels.noMatch.title}</h2>
+          <p>{t.levels.noMatch.copy}</p>
         </div>
       ) : (
         <>
           <div className="level-groups">
-            {groups.map((group) => (
-              <section key={group.label} aria-labelledby={group.label.replace(/\s/g, "-")}>
-                <h2 id={group.label.replace(/\s/g, "-")}>{group.label}</h2>
-                <div className="level-grid">
-                  {group.levels.map((level) => (
-                    <LevelCard key={level.id} level={level} locale={locale} />
-                  ))}
-                </div>
-              </section>
-            ))}
+            {groups.map((group) => {
+              const headingId = `levels-${group.start}-${group.end}`;
+              return (
+                <section key={headingId} aria-labelledby={headingId}>
+                  <h2 id={headingId}>
+                    {interpolate(t.levels.levelRange, { start: group.start, end: group.end })}
+                  </h2>
+                  <div className="level-grid">
+                    {group.levels.map((level) => (
+                      <LevelCard key={level.id} level={level} locale={locale} />
+                    ))}
+                  </div>
+                </section>
+              );
+            })}
           </div>
           {pagination.pageCount > 1 ? (
-            <nav className="pagination" aria-label="Level pages">
+            <nav className="pagination" aria-label={t.nav.levels}>
               <button
                 type="button"
                 disabled={pagination.page === 1}

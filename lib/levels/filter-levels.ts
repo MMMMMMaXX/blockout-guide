@@ -9,7 +9,8 @@ export type LevelFilters = {
 };
 
 export type LevelRangeGroup = {
-  label: string;
+  start: number;
+  end: number;
   levels: readonly LevelArticle[];
 };
 
@@ -55,7 +56,8 @@ export function groupLevelsByRange(
       groups.set(start, [...(groups.get(start) ?? []), level]);
     });
   return [...groups.entries()].map(([start, items]) => ({
-    label: `Levels ${start}–${start + rangeSize - 1}`,
+    start,
+    end: start + rangeSize - 1,
     levels: items,
   }));
 }

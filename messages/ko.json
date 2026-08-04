@@ -118,6 +118,16 @@
     "searchPlaceholder": "레벨 번호나 난이도로 검색",
     "allPublished": "게시된 레벨 전체 {count}개",
     "noLevels": "아직 공식 레벨이 게시되지 않았습니다.",
+    "levelRange": "레벨 {start}–{end}",
+    "publishedCount": "{count}개 게시된 레벨",
+    "empty": {
+      "title": "라이브러리가 검증된 콘텐츠를 기다리고 있습니다",
+      "copy": "보드·버전·출처 확인을 통과하기 전까지 초안은 검색에 노출되지 않습니다."
+    },
+    "noMatch": {
+      "title": "다른 레벨이나 난이도를 시도하세요",
+      "copy": "필터는 검증·게시된 가이드만 검색합니다."
+    },
     "quickJump": "빠른 이동",
     "searchLabel": "검증된 레벨 검색",
     "resultCount": "{count}개의 검증된 가이드"
@@ -142,8 +152,16 @@
     "compareSource": "출처와 비교",
     "openFullLibrary": "전체 레벨 라이브러리 열기",
     "quickFacts": "핵심 정보",
+    "status": "상태",
+    "verification": "검증",
+    "checked": "확인됨",
     "platform": "플랫폼",
     "gameVersion": "게임 버전",
+    "notVerified": "미검증",
+    "pending": "대기 중",
+    "versionNotRecorded": "버전 미기록",
+    "boardColors": "보드 색상",
+    "boardMatchNote": "시작 보드와 플랫폼이 내 게임과 일치할 때만 이 해법을 따르세요.",
     "chapters": "영상 챕터",
     "notAvailable": "이 언어에서는 아직 제공되지 않습니다"
   },
@@ -155,6 +173,38 @@
     "all": "전체",
     "medium": "중간",
     "label": "난이도"
+  },
+  "contentTier": {
+    "fullGuide": "전체 가이드",
+    "video": "영상"
+  },
+  "status": {
+    "published": "게시됨"
+  },
+  "verificationStatus": {
+    "sourceVerified": "출처 검증됨"
+  },
+  "platform": {
+    "ios": "iOS",
+    "android": "Android"
+  },
+  "color": {
+    "red": "빨강",
+    "yellow": "노랑",
+    "blue": "파랑",
+    "white": "흰색",
+    "black": "검정",
+    "green": "초록",
+    "pink": "분홍",
+    "cyan": "시안",
+    "purple": "보라",
+    "violet": "바이올렛",
+    "orange": "주황",
+    "teal": "청록",
+    "lime": "라임",
+    "magenta": "마젠타",
+    "gray": "회색",
+    "grey": "회색"
   },
   "boosterStatus": {
     "none": "부스터 없음",
@@ -175,6 +225,7 @@
     "noMatchTitle": "“{query}”에 일치하는 게시물 없음",
     "noMatchCopy": "다른 제목, 레벨 번호, 장애물, 부스터 또는 업데이트 키워드를 시도하세요.",
     "resultCount": "{count}개의 결과",
+    "indexedArticles": "{count}개 색인된 문서",
     "label": "게시된 콘텐츠 검색",
     "inputPlaceholder": "레벨 번호, 장애물, 부스터 또는 질문"
   },
@@ -220,6 +271,11 @@
     "levels": "레벨",
     "loading": "불러오는 중…",
     "previous": "이전",
-    "next": "다음"
+    "next": "다음",
+    "level": "레벨 {level}"
+  },
+  "editorial": {
+    "publishedArticles": "{count}개의 게시된 글",
+    "updated": "{date} 업데이트"
   }
 }

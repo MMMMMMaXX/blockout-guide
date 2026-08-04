@@ -68,11 +68,7 @@ export default async function HardLevelsPage({ params }: PageProps) {
         <h2 id="hard-library-heading" className="sr-only">
           Verified hard levels
         </h2>
-        <LevelsExplorer
-          levels={levels}
-          emptyTitle="No complete hard-level guide is available"
-          emptyCopy="Add a complete published level article to make it appear here automatically."
-        />
+        <LevelsExplorer levels={levels} />
       </section>
     </div>
   );

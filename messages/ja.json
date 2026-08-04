@@ -118,6 +118,16 @@
     "searchPlaceholder": "レベル番号または難易度で検索",
     "allPublished": "公開済みレベル {count} 件すべて",
     "noLevels": "本番レベルはまだ公開されていません。",
+    "levelRange": "レベル {start}–{end}",
+    "publishedCount": "{count} 件の公開レベル",
+    "empty": {
+      "title": "ライブラリは検証済みコンテンツを待っています",
+      "copy": "盤面・バージョン・出典のチェックを通るまで、ドラフトは検索対象外に留められます。"
+    },
+    "noMatch": {
+      "title": "別のレベルまたは難易度をお試しください",
+      "copy": "フィルターは検証済みで公開されたガイドのみを検索します。"
+    },
     "quickJump": "クイックジャンプ",
     "searchLabel": "検証済みレベルを検索",
     "resultCount": "{count} 件の検証済みガイド"
@@ -142,8 +152,16 @@
     "compareSource": "出典と比較",
     "openFullLibrary": "完全なレベルライブラリを開く",
     "quickFacts": "クイックファクト",
+    "status": "ステータス",
+    "verification": "検証",
+    "checked": "確認済み",
     "platform": "プラットフォーム",
     "gameVersion": "ゲームバージョン",
+    "notVerified": "未検証",
+    "pending": "保留中",
+    "versionNotRecorded": "バージョン未記録",
+    "boardColors": "盤面の色",
+    "boardMatchNote": "開始盤面とプラットフォームがあなたのゲームと一致する場合のみ、この解法に従ってください。",
     "chapters": "動画のチャプター",
     "notAvailable": "この言語ではまだ利用できません"
   },
@@ -155,6 +173,38 @@
     "all": "すべて",
     "medium": "中程度",
     "label": "難易度"
+  },
+  "contentTier": {
+    "fullGuide": "完全ガイド",
+    "video": "動画"
+  },
+  "status": {
+    "published": "公開済み"
+  },
+  "verificationStatus": {
+    "sourceVerified": "出典検証済み"
+  },
+  "platform": {
+    "ios": "iOS",
+    "android": "Android"
+  },
+  "color": {
+    "red": "赤",
+    "yellow": "黄",
+    "blue": "青",
+    "white": "白",
+    "black": "黒",
+    "green": "緑",
+    "pink": "ピンク",
+    "cyan": "シアン",
+    "purple": "パープル",
+    "violet": "バイオレット",
+    "orange": "オレンジ",
+    "teal": "ティール",
+    "lime": "ライム",
+    "magenta": "マゼンタ",
+    "gray": "グレー",
+    "grey": "グレー"
   },
   "boosterStatus": {
     "none": "ブースターなし",
@@ -175,6 +225,7 @@
     "noMatchTitle": "「{query}」に一致する公開コンテンツはありません",
     "noMatchCopy": "別のタイトル、レベル番号、障害、ブースター、または更新キーワードをお試しください。",
     "resultCount": "{count} 件の結果",
+    "indexedArticles": "{count} 件の索引付き記事",
     "label": "公開済みコンテンツを検索",
     "inputPlaceholder": "レベル番号、障害、ブースター、または質問"
   },
@@ -220,6 +271,11 @@
     "levels": "レベル",
     "loading": "読み込み中…",
     "previous": "前へ",
-    "next": "次へ"
+    "next": "次へ",
+    "level": "レベル {level}"
+  },
+  "editorial": {
+    "publishedArticles": "{count} 件の公開記事",
+    "updated": "{date} 更新"
   }
 }

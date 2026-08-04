@@ -2,9 +2,10 @@
 "use client";
 
 import { useState } from "react";
-import type { LevelArticle } from "@/lib/content/types";
+import type { LevelArticle, Locale } from "@/lib/content/types";
 import type { ResolvedLevel } from "@/lib/content/level-repository";
 import { useLocale } from "@/lib/i18n/use-locale";
+import { getMessages } from "@/lib/i18n/messages";
 import { BoardModule } from "./level/board-module";
 import { FactsModule } from "./level/facts-module";
 import { VideoModule } from "./level/video-module";
@@ -19,11 +20,15 @@ type LevelDetailViewProps = {
 };
 
 /** Variant 标签优先使用平台与版本，避免假装拥有尚未记录的名称。 */
-function getVariantLabel(level: LevelArticle, index: number) {
+function getVariantLabel(level: LevelArticle, index: number, locale: Locale) {
+  const t = getMessages(locale);
   const variant = level.variants[index];
-  const platform =
-    variant.platforms.length > 0 ? variant.platforms.join(" / ") : "Platform not recorded";
-  return `${platform} · ${variant.gameVersion ?? `Variant ${index + 1}`}`;
+  const platforms = variant.platforms
+    .map((p) => (t.platform[p as keyof typeof t.platform] as string | undefined) ?? p)
+    .join(" / ");
+  const platform = platforms || t.levelDetail.platform;
+  const version = variant.gameVersion ?? `${t.levelDetail.variant} ${index + 1}`;
+  return `${platform} · ${version}`;
 }
 
 /**
@@ -40,7 +45,7 @@ export function LevelDetailView({ level }: LevelDetailViewProps) {
   const isEnhanced = level.contentTier !== "video";
   const variantOptions = level.variants.map((item, index) => ({
     id: item.id,
-    label: getVariantLabel(level, index),
+    label: getVariantLabel(level, index, locale),
   }));
 
   return (

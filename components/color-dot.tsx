@@ -1,5 +1,7 @@
 /** 文件职责：把颜色名映射为视觉色块，放在颜色名前作为“要操作的颜色块”提示。所有关卡复用。 */
 import type { ReactNode } from "react";
+import type { Locale } from "@/lib/content/types";
+import { getMessages } from "@/lib/i18n/messages";
 
 const COLOR_HEX: Record<string, string> = {
   blue: "#3b6fe0",
@@ -25,30 +27,38 @@ export function colorHex(name: string): string {
   return COLOR_HEX[name.toLowerCase().trim()] ?? "#8a91a8";
 }
 
-type ColorDotProps = { name: string; size?: number };
+/** 取得本地化颜色显示名；未知颜色保留原名。 */
+export function localizedColorName(name: string, locale: Locale): string {
+  const t = getMessages(locale);
+  const key = name.toLowerCase().trim();
+  return (t.color[key as keyof typeof t.color] as string | undefined) ?? name;
+}
+
+type ColorDotProps = { name: string; size?: number; locale?: Locale };
 
 /** 单个颜色圆点；修改此组件会同时影响所有关卡页的颜色提示。 */
-export function ColorDot({ name, size = 14 }: ColorDotProps) {
+export function ColorDot({ name, size = 14, locale }: ColorDotProps) {
   return (
     <span
       className="color-dot"
       aria-hidden="true"
-      title={name}
+      title={locale ? localizedColorName(name, locale) : name}
       style={{ background: colorHex(name), width: size, height: size }}
     />
   );
 }
 
-type ColorChipsProps = { colors: string[] };
+type ColorChipsProps = { colors: string[]; locale?: Locale };
 
 /** 一排“色块 + 颜色名”的组合；放在事实卡与棋盘档案中，使颜色可一眼辨识。 */
-export function ColorChips({ colors }: ColorChipsProps) {
+export function ColorChips({ colors, locale }: ColorChipsProps) {
   if (colors.length === 0) return null;
+  const labels = colors.map((color) => localizedColorName(color, locale ?? "en")).join(", ");
   return (
-    <span className="color-chips" aria-label={`Colors: ${colors.join(", ")}`}>
+    <span className="color-chips" aria-label={labels}>
       {colors.map((color) => (
         <span key={color} className="color-chip">
-          <ColorDot name={color} /> {color}
+          <ColorDot name={color} locale={locale} /> {localizedColorName(color, locale ?? "en")}
         </span>
       ))}
     </span>
@@ -57,11 +67,13 @@ export function ColorChips({ colors }: ColorChipsProps) {
 
 const COLOR_PATTERN = new RegExp(`\\b(${Object.keys(COLOR_HEX).join("|")})\\b`, "gi");
 
+type HighlightColorsProps = { text: string; locale?: Locale };
+
 /**
  * 在普通文本中识别已知颜色名，并在其前方插入一枚色块，使其成为“要操作的颜色块”提示。
  * 屏幕阅读器仍读到颜色名本身；色块仅作视觉强调（aria-hidden）。
  */
-export function highlightColors(text: string): ReactNode {
+export function highlightColors({ text, locale }: HighlightColorsProps): ReactNode {
   const parts = text.split(COLOR_PATTERN);
   return parts.map((part, index) => {
     if (index % 2 === 1) {
@@ -69,7 +81,7 @@ export function highlightColors(text: string): ReactNode {
       if (COLOR_HEX[key]) {
         return (
           <span key={index} className="color-inline">
-            <ColorDot name={key} /> {part}
+            <ColorDot name={key} locale={locale} /> {locale ? localizedColorName(part, locale) : part}
           </span>
         );
       }

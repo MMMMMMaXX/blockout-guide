@@ -90,7 +90,7 @@ export function SearchExplorer({
 
       {query.trim().length === 0 ? (
         <div className="empty-state">
-          <span>{entries.length} indexed articles</span>
+          <span>{interpolate(t.search.indexedArticles, { count: entries.length })}</span>
           <h2>{t.search.emptyTitle}</h2>
           <p>{t.search.emptyCopy}</p>
         </div>
@@ -108,7 +108,7 @@ export function SearchExplorer({
           <div className="search-results">
             {pagination.items.map((entry) => (
               <Link className="search-result" href={entry.href} key={entry.id}>
-                <span className="badge">{entry.type}</span>
+                <span className="badge">{typeLabels[entry.type](t)}</span>
                 <div>
                   <h2>{entry.title}</h2>
                   <p>{entry.summary}</p>
