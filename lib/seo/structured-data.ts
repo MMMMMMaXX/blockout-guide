@@ -72,13 +72,21 @@ export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<st
     },
   ];
   if (variant.video?.embedAllowed) {
+    const videoId = variant.video.videoId;
+    // Google 要求 VideoObject 的 uploadDate 必须是带时区的 ISO 8601 日期时间，
+    // 且必须提供 thumbnailUrl。verifiedAt 在内容层是 ISO 日期（YYYY-MM-DD），
+    // 这里统一补零时刻 UTC。
+    const uploadDate = variant.verifiedAt
+      ? `${variant.verifiedAt}T00:00:00+00:00`
+      : `${level.updatedAt}T00:00:00+00:00`;
     entities.push({
       "@context": "https://schema.org",
       "@type": "VideoObject",
       name: videoName,
       description: videoDescription,
-      uploadDate: variant.verifiedAt,
-      embedUrl: `https://www.youtube-nocookie.com/embed/${variant.video.videoId}`,
+      thumbnailUrl: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+      uploadDate,
+      embedUrl: `https://www.youtube-nocookie.com/embed/${videoId}`,
       contentUrl: variant.video.sourceUrl,
       inLanguage: localeMeta[locale]?.hreflang ?? locale,
     });
