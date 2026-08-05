@@ -14,6 +14,7 @@
     "check:comments": "node scripts/check-comments.mjs",
     "validate:content": "node --experimental-strip-types scripts/validate-content.ts",
     "validate:templates": "node --experimental-strip-types scripts/validate-templates.ts",
+    "validate:i18n": "node scripts/check-i18n-parity.mjs",
     "sync:playlist": "node --experimental-strip-types scripts/sync-playlist.ts",
     "generate:levels": "node --experimental-strip-types scripts/generate-levels.ts",
     "generate:levels:151-500": "node --experimental-strip-types scripts/generate-levels-151-500.ts",
@@ -24,7 +25,7 @@
     "test:worker": "node --test tests/rendered-html.test.mjs",
     "test:e2e": "playwright test",
     "test": "npm run validate:templates && npm run validate:content && npm run test:unit && npm run build && npm run test:worker",
-    "quality": "npm run format:check && npm run check:comments && npm run typecheck && npm run lint && npm run test && npm run test:e2e",
+    "quality": "npm run format:check && npm run check:comments && npm run typecheck && npm run lint && npm run validate:i18n && npm run test && npm run test:e2e",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "preview": "vinext start"
   },
