@@ -22,11 +22,10 @@ function getCardThumbnail(level: ResolvedLevel): string | null {
   return null;
 }
 
-/** 整卡保持单一链接目标；非源语言页隐藏英文摘要（Tier A）。 */
+/** 整卡保持单一链接目标；摘要随关卡数据本地化渲染。 */
 export function LevelCard({ level, locale }: LevelCardProps) {
   const t = getMessages(locale);
   const thumb = getCardThumbnail(level);
-  const showSummary = level.sourceLocale === locale;
   const difficultyLabel =
     t.difficulty[level.difficulty as keyof typeof t.difficulty] ?? level.difficulty;
   const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";
@@ -53,7 +52,7 @@ export function LevelCard({ level, locale }: LevelCardProps) {
         </div>
         <span aria-hidden="true">→</span>
       </div>
-      {showSummary ? <p>{level.summary}</p> : null}
+      <p>{level.summary}</p>
     </Link>
   );
 }

@@ -23,14 +23,13 @@ type BoardBodyProps = {
   level: ResolvedLevel;
   variant: LevelVariant;
   locale: Locale;
-  showProse: boolean;
 };
 
 /**
  * 棋盘 + 档案组合：开局势必露出可识别的颜色与地标，因此即便有开局图也保留档案块；
  * 没有开局图与档案时回退到通用占位，避免空容器。
  */
-function BoardBody({ level, variant, locale, showProse }: BoardBodyProps) {
+function BoardBody({ level, variant, locale }: BoardBodyProps) {
   const t = getMessages(locale);
   const hasImage = Boolean(variant.boardImage);
   const hasProfile = Boolean(variant.boardProfile);
@@ -58,7 +57,7 @@ function BoardBody({ level, variant, locale, showProse }: BoardBodyProps) {
         </div>
       ) : null}
       {hasProfile ? (
-        <BoardProfile profile={variant.boardProfile!} locale={locale} showProse={showProse} />
+        <BoardProfile profile={variant.boardProfile!} locale={locale} />
       ) : null}
     </div>
   );
@@ -74,7 +73,6 @@ export function BoardModule({
   locale,
 }: BoardModuleProps) {
   const t = getMessages(locale);
-  const showProse = level.sourceLocale === locale;
   const tierKey = level.contentTier === "full-guide" ? "fullGuide" : "video";
   const tierLabel = t.contentTier[tierKey as keyof typeof t.contentTier] ?? level.contentTier;
   const difficultyLabel =
@@ -85,7 +83,7 @@ export function BoardModule({
         <div>
           <p className="eyebrow">{tierLabel}</p>
           <h1>{interpolate(t.common.level, { level: level.levelNumber })}</h1>
-          {showProse ? <p>{level.summary}</p> : null}
+          <p>{level.summary}</p>
         </div>
         {level.difficulty ? (
           <span className={`badge badge--${level.difficulty}`}>{difficultyLabel}</span>
@@ -107,7 +105,7 @@ export function BoardModule({
       ) : (
         <p className="variant-label">{variantOptions[0]?.label}</p>
       )}
-      <BoardBody level={level} variant={variant} locale={locale} showProse={showProse} />
+      <BoardBody level={level} variant={variant} locale={locale} />
       <p className="board-check">
         {t.levelDetail.boardDifferent}{" "}
         <Link href={withLocale(locale, "/board-matcher/")}>{t.levelDetail.compareSource}</Link>

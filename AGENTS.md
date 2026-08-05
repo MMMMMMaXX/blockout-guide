@@ -54,7 +54,7 @@
 2. 所有用户可见的 UI 字符串必须走消息键（`messages/<locale>.json` + `getMessages(locale)`/`interpolate`），**严禁在组件里硬编码英文文案**（含 aria-label、按钮、标题、卡片标签、FAQ 问答）。
 3. 新增或重命名消息键时，`en.json` 为规范超集，其余 9 种语言必须同步补齐，且措辞需符合各语言习惯（游戏术语如「关卡 / 棋盘 / 助推器」不得机翻错译）。
 4. 编辑型内容（obstacles/boosters/guides/updates）每种 slug 必须在 10 种语言都有对应 JSON 实体；缺失时 `editorial-repository` 回退到 `en` 源内容，但仍须补齐以避免回退。
-5. **非源语言页不得因缺少译文而隐藏模块或留白**。除本条明列的 Tier A 例外外，所有攻略模块（Video walkthrough / Quick tips / Step-by-step / Failure points / FAQ）对所有语言一致渲染；视频本身是英文 walkthrough，故攻略正文同源英文、随视频一同展示。
-6. **Tier A 例外（唯一允许的隐藏）**：棋盘模块的 `level.summary` 与 `BoardProfile` 地标正文为英文源文且无译文，非源语言页按 `showProse = sourceLocale === locale` 隐藏，**仅此两处**；新增任何语言门控前必须先提供译文，否则视为违规。
+5. **非源语言页不得因缺少译文而隐藏模块或留白**。所有攻略模块（Video walkthrough / Quick tips / Step-by-step / Failure points / FAQ）与棋盘摘要/档案对所有语言一致渲染；视频本身是英文 walkthrough，攻略正文随视频以对应语言版本展示，通过 `content/<locale>/levels/<N>.json` 提供本地化数据。
+6. **禁止新增 Tier A 隐藏**：棋盘模块的 `level.summary`、`BoardProfile` 地标正文与关卡卡片摘要**不得再按 `sourceLocale === locale` 门控隐藏**；若某语言暂无译文，必须先补齐 `content/<locale>/levels/<N>.json`，不得以「缺译文」为由留白或回退到隐藏。
 7. 每次改动后必须运行 `npm run validate:i18n`（脚本 `scripts/check-i18n-parity.mjs`）：校验 10 语言消息键完全一致、编辑内容 10 语言覆盖完整。该校验已接入 `npm run quality`，CI 不得跳过。
 8. 验证多语言渲染时，至少抽测 2–3 种非英文语言（含 CJK 与西里尔字母）的关卡详情页，确认无英文残留、视频比例正常（16:9 且高度 ≤80vh）、三栏布局齐全。

@@ -6,11 +6,10 @@ import { getMessages } from "@/lib/i18n/messages";
 type BoardProfileProps = {
   profile: NonNullable<LevelVariant["boardProfile"]>;
   locale: Locale;
-  showProse: boolean;
 };
 
 /** 棋盘档案用于确认布局，不声称复刻游戏美术或像素级位置。 */
-export function BoardProfile({ profile, locale, showProse }: BoardProfileProps) {
+export function BoardProfile({ profile, locale }: BoardProfileProps) {
   const t = getMessages(locale);
   const colorNames = profile.colors.map((color) => localizedColorName(color, locale)).join(", ");
   return (
@@ -22,20 +21,16 @@ export function BoardProfile({ profile, locale, showProse }: BoardProfileProps) 
           </span>
         ))}
       </div>
-      {showProse ? (
-        <>
-          <h2>{t.levelDetail.confirmLandmarks}</h2>
-          <p>{profile.layout}</p>
-          <ul>
-            {profile.landmarks.map((landmark) => (
-              <li key={landmark}>{landmark}</li>
-            ))}
-          </ul>
-          <a href={profile.sourceUrl} rel="noreferrer" target="_blank">
-            {t.levelDetail.compareSource}
-          </a>
-        </>
-      ) : null}
+      <h2>{t.levelDetail.confirmLandmarks}</h2>
+      <p>{profile.layout}</p>
+      <ul>
+        {profile.landmarks.map((landmark) => (
+          <li key={landmark}>{landmark}</li>
+        ))}
+      </ul>
+      <a href={profile.sourceUrl} rel="noreferrer" target="_blank">
+        {t.levelDetail.compareSource}
+      </a>
     </div>
   );
 }

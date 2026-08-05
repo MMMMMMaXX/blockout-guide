@@ -1,9 +1,9 @@
 /** 文件职责：提供稳定关卡查询语义，并统一隔离 draft/archived 内容。
  *
  * 多语言策略：关卡核心数据（棋盘、视频、难度、颜色）与语言无关，全站只维护一份。
- * 任意受支持语言都可通过 union 取得已发布关卡核心数据；返回对象带 `sourceLocale`
- * 标记原始内容语言，页面据此决定是否展示语言相关长文本（quickTips/faq/steps）。
- * 当目标语言没有对应 overlay 时，页面降级为 Tier A（仅视频 + 本地化 UI），绝不显示英文长文本。
+ * 受支持语言的本地化正文放在 `content/<locale>/levels/<N>.json`，由 discovery 聚合后与
+ * `en` 源数据按 `levelNumber` 匹配；返回对象带 `sourceLocale` 标记实际来源语言。
+ * 当目标语言暂无本地化文件时，回退到 `en` 源内容，不再隐藏任何模块。
  */
 import levelManifest from "virtual:blockout-content";
 import type { Difficulty, LevelArticle, Locale } from "./types";
