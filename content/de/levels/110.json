@@ -1,0 +1,91 @@
+{
+  "id": "de-level-110",
+  "locale": "de",
+  "levelNumber": 110,
+  "title": "Block Out Level 110 Lösung",
+  "summary": "Block Out Level 110 hides single connected rot polyomino in Mitte von hoch lila frame — es schaut like three trennen Blöcke, aber Züge als one Bauteil. Oben `11` Ausgang und links-rail `8` Spalte seal orange-bordered blau `3` poc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/110/",
+        "layout": "Block Out Level 110 hides single connected rot polyomino in Mitte von hoch lila frame — es schaut like three trennen Blöcke, aber Züge als one Bauteil. Oben `11` Ausgang und links-rail `8` Spalte seal orange-bordered blau `3` pocket unterhalb, und dense `19` cluster fills unten. Split rot shape too früh und pink L-Bauteil auf rechts gets permanently eingesperrt.",
+        "landmarks": [
+          "Block Out Level 110 hides single connected rot polyomino in Mitte von hoch lila frame — es schaut like three trennen Blöcke, aber Züge als one Bauteil.",
+          "Oben `11` Ausgang und links-rail `8` Spalte seal orange-bordered blau `3` pocket unterhalb, und dense `19` cluster fills unten.",
+          "Split rot shape too früh und pink L-Bauteil auf rechts gets permanently eingesperrt."
+        ],
+        "colors": ["blue", "red", "green", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_D-7FbZBiEE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_D-7FbZBiEE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break Mitte rot polyomino als one shape — tu nicht split es früh.",
+        "Räumen links-rail `8` bevor sliding irgendein unten-cluster Bauteile.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen oben light-blau `11` Kachel zu unlock orange-bordered Mitte pocket."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen links-rail `8` Spalte bevor sliding irgendein unten-cluster Bauteile."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen Platz around Mitte blau `3` pocket ohne splitting unten `19` cluster."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verschieben Mitte rot polyomino als one shape, keeping gelb highlight line intact."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Freigeben rechts-Seite pink `1` Kachel und untere pink L-Bauteil nach rot shape Züge."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden remaining blau base Blöcke und close unten Zähler `3` und `14`."
+        }
+      ],
+      "failurePoints": [
+        "Splitting Mitte rot polyomino too früh, welche sperrt ein rechts pink L-Bauteil.",
+        "Touching unten `19` cluster bevor oben `11` Kachel und links-rail `8` sind gone."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/110/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 110 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 110 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

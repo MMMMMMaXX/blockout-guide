@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-9",
+  "locale": "tr",
+  "levelNumber": 9,
+  "title": "Block Out Seviye 9 Rehberi",
+  "summary": "Block Out Seviye 9 bir Ikiz-kule bulmaca ile dar orta çentikdır. Temizle sağ sarı çıkış ilk, ver mavi merkez boşluk, sonra döndür yeşil, pembe, ve kırmızı clockwise çerçeveden.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "Block Out Seviye 9 bir Ikiz-kule bulmaca ile dar orta çentikdır. Temizle sağ sarı çıkış ilk, ver mavi merkez boşluk, sonra döndür yeşil, pembe, ve kırmızı clockwise çerçeveden.",
+        "landmarks": [
+          "Block Out Seviye 9 bir Ikiz-kule bulmaca ile dar orta çentikdır.",
+          "Temizle sağ sarı çıkış ilk, ver mavi merkez boşluk, sonra döndür yeşil, pembe, ve kırmızı clockwise çerçeveden.",
+          "Tahta pembe, kırmızı, sarı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kullan sağ sarı çıkış kır symmetry.",
+        "Merkez mavi blok meli hareket ettir soon çentik açılır.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır mid-sağ sarı blok dışarı sarı kapıdan sağ duvarda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Hareket ettir merkez mavi blok yeni açarak böylece orta çentike hayır daha uzun engellendi."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Döndür daha düşük-sağ yeşil blok aşağı doğru ve sonra çek daha düşük-sol mavi blok onun owna şerit."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan serbest bırakıldı merkez shufflea pembe bloklar üstden ve orta sıralar sırasında kenar sayaçlar küçült."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak daha düşük kırmızı blok settle merkez sonraya yeşil ve mavi hayır daha uzun geçerek o."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sakla iki üst-köşe kırmızı bloklar kadar üst şeritler temizle."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile göndererek kırmızı çift üst çıkışlardan ve bırakarak son mavi blok boşalt son mavi bitirden."
+        }
+      ],
+      "failurePoints": [
+        "Bırakarak merkez mavi blok park edildi sonra sağ sarı çıkış zaten açık.",
+        "Deneyerek zorla bir üst kırmızı bloklar önce daha düşük yeşil ve mavi parçalar döndürüldü."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 9 Rehberi ve Çözümü",
+    "description": "Block Out seviye 9'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

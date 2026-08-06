@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-145",
+  "locale": "tr",
+  "levelNumber": 145,
+  "title": "Block Out Seviye 145 Rehberi",
+  "summary": "Block Out Seviye 145 layers çerçeve sayaçlar merkezden pembe `20` çift, ile alt combo çubuk alternating arasında `6` ve `4` eşleşti gruplar temizle. combo çubuk gerçek constraint: o meli read `6` önce pembe çift breaks...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "Block Out Seviye 145 layers çerçeve sayaçlar merkezden pembe `20` çift, ile alt combo çubuk alternating arasında `6` ve `4` eşleşti gruplar temizle. combo çubuk gerçek constraint: o meli read `6` önce pembe çift breaks, veya ilk combo israf eder ve sol sarı sök kilitlenir yerleştirde. pembe troll marker izler active temizle zone — bitir kırmızı 2×2 ve mavi `9` için mükemmel.",
+        "landmarks": [
+          "Block Out Seviye 145 layers çerçeve sayaçlar merkezden pembe `20` çift, ile alt combo çubuk alternating arasında `6` ve `4` eşleşti gruplar temizle.",
+          "Combo çubuk gerçek constraint: o meli read `6` önce pembe çift breaks, veya ilk combo israf eder ve sol sarı sök kilitlenir yerleştirde.",
+          "Pembe troll marker izler active temizle zone — bitir kırmızı 2×2 ve mavi `9` için mükemmel."
+        ],
+        "colors": ["pink", "red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Başla combo çubuk 6 önce breaking merkez 20/20 çift.",
+        "Temizle yeşil L-şekil önce soyarak sol sarı sök üstünde o.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst pembe yukarı-ok blok ve üst kırmızı/sarı sıra başla combo çubuk 6."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır merkez pembe 20/20 çift olmadan kaydırarak yan sarı istifler."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle üst mavi/yeşil dikey sütunlar sol 2 ray sayaç."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Soy sol yeşil L-şekil ve mavi L-şekil altında o sonra üst 6 sayaç düşer."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle sağ-yan kırmızı 2×2 blok 1 label 10 sağ-ray sayaç."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca alt 9 box ve 18 köşe sayaç kalan mavi artıklarda."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Eşleştir son highlighted grupla için mükemmel temizle ile score 20."
+        }
+      ],
+      "failurePoints": [
+        "Breaking merkez 20 çift sırasında combo çubuk hâlâ reads 0, wasting ilk combo.",
+        "Temizleyerek sol sarı sök önce yeşil L-şekil altında o breaks, stranding kırmızı 2×2."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 145 Rehberi ve Çözümü",
+    "description": "Block Out seviye 145'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

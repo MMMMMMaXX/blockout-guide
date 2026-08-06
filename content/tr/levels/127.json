@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-127",
+  "locale": "tr",
+  "levelNumber": 127,
+  "title": "Block Out Seviye 127 Rehberi",
+  "summary": "Block Out Seviye 127 besler numaralı discs — `6`, `4`, `5` — turuncu-çerçeveli yuvalar ikiden odalar, ile alt Lego tuğla sıra supplying renk sequence. turuncu-çerçeveli mor `2` direk anchors merkez, ve surro...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/127/",
+        "layout": "Block Out Seviye 127 besler numaralı discs — `6`, `4`, `5` — turuncu-çerçeveli yuvalar ikiden odalar, ile alt Lego tuğla sıra supplying renk sequence. turuncu-çerçeveli mor `2` direk anchors merkez, ve çevreleyerek 2×2 kümeler sağ meli temizlede önce direk ebilir düşür. zorla direk erken ve o bloklar daha düşük oda's sadece besle şerit.",
+        "landmarks": [
+          "Block Out Seviye 127 besler numaralı discs — `6`, `4`, `5` — turuncu-çerçeveli yuvalar ikiden odalar, ile alt Lego tuğla sıra supplying renk sequence.",
+          "Turuncu-çerçeveli mor `2` direk anchors merkez, ve çevreleyerek 2×2 kümeler sağ meli temizlede önce direk ebilir düşür.",
+          "Zorla direk erken ve o bloklar daha düşük oda's sadece besle şerit."
+        ],
+        "colors": ["purple", "orange", "green", "blue", "red", "pink", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r6zFw7xFbd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r6zFw7xFbd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Besle turuncu `4` sağa `12` oda önce kaydırarak kırmızı 2×2 istifler.",
+        "Uzun mor `2` direk son hedef — değil kır o kadar alt yeşil `3` şerit açık.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Study alt Lego sıra ve besle ilk eşleştirerek çift sola turuncu-çerçeveli `14` oda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Düşür yeşil `6` disc sol odaya sonra `14` yuva açılır."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle turuncu `4` disc sağa `12` oda sırasında beyaz `5` marker sağ rayda hâlâ temizle."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kırmızı 2×2 ve mavi 2×2 istifler üst-sağ olmadan engelleyerek yeşil 2×2 altında onları."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yönlendir pembe L-şekil ve alt yeşil `3` sayaç daha düşük ızgaradan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kır uzun turuncu-çerçeveli mor `2` direk ve bitir kalan alt mavi artıklar."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek kırmızı 2×2 önce turuncu `4` disc enters sağ `12` oda — bu sıkışır yeşil `3` şerit.",
+        "Breaking uzun mor `2` direk sırasında pembe L-şekil hâlâ bloklar daha düşük ızgara."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/127/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 127 Rehberi ve Çözümü",
+    "description": "Block Out seviye 127'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

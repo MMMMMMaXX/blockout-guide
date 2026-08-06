@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-121",
+  "locale": "ja",
+  "levelNumber": 121,
+  "title": "ブロックアウト レベル121 攻略",
+  "summary": "ブロックアウト レベル121は盤面を、青と黄の上部コンベアと、供給通路でつながる下部の市松模様グリッドに分けています。上部のトレイは、下部グリッドの緑の「31」王冠ブロックが解除される前に完全に排水する必要があります。右側の…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "ブロックアウト レベル121は盤面を、青と黄の上部コンベアと、供給通路でつながる下部の市松模様グリッドに分けています。上部のトレイは、下部グリッドの緑の「31」王冠ブロックが解除される前に完全に排水する必要があります。右側の「5」矢印タイルが最後の門番です—それを遅く消去すると、コンベアが空になった後でも王冠が閉じ込められたままになります。",
+        "landmarks": [
+          "ブロックアウト レベル 121 青- -黄 上の、下の チェッカー盤、通す レーン.。",
+          "上の トレイ 排出する、緑 `31` ブロック 下の .。",
+          "右-側 `5` 矢印 タイル — 消去する、残し、.。"
+        ],
+        "colors": ["blue", "yellow", "red", "orange", "green", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を排出して上の トレイ、緑 `31` .。",
+        "を維持して下の シアン `19` 列 配置し、上の トレイ .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を通して上の 青/黄 チェッカー盤 右-側 黄 矢印 下の トレイ.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して上の 赤 `23` 行、左- シアン `7`、上の トレイ .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を剥がして下部の赤/オレンジ/緑 上部のふた 中央 白 `15` .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "緑のを割りて`31` ブロック、左 シアン `19` 列 レーン.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "青のを使いて`10` タイル、右-側 `5` 矢印 カウンター、黄 積み .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて下 シアン `26` カウンター、青/黄 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "緑 `31`、上の トレイ — 箱 中央 `15` .。",
+        "消去 黄 積み、青 `10` タイル 手順、を塞ぎて下 シアン `26` カウンター.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル121 攻略と解説",
+    "description": "ブロックアウト レベル121 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "de-level-3",
+  "locale": "de",
+  "levelNumber": 3,
+  "title": "Block Out Level 3 Lösung",
+  "summary": "Block Out Level 3 ist kurz Kette-reaction Puzzle. Fallen lassen Mitte rot Block erste, senden grün Ecke links, herausholen untere blau Block, und dann beenden remaining rot und gelb Blöcke auf unten gates.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "Block Out Level 3 ist kurz Kette-reaction Puzzle. Fallen lassen Mitte rot Block erste, senden grün Ecke links, herausholen untere blau Block, und dann beenden remaining rot und gelb Blöcke auf unten gates.",
+        "landmarks": [
+          "Block Out Level 3 ist kurz Kette-reaction Puzzle.",
+          "Fallen lassen Mitte rot Block erste, senden grün Ecke links, herausholen untere blau Block, und dann beenden remaining rot und gelb Blöcke auf unten gates.",
+          "Das Spielfeld mixes Grün, Gelb, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Verwenden Mitte roter Ausgang als trigger.",
+        "Grün und untere blau Block lassen bevor endgültig gelb.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben Mitte rot Block straight runter durch rot unterer Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Bewegen obere linke grün Block runter und hinaus durch grün linker Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Fallen lassen untere blau Block in blau untere linke Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Untere mittlere gelb Block in Mitte Bahn dass just geöffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Senden obere rechte rot Block runter durch roter Ausgang once mittlere Bahn ist räumen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte gelb Block auf gelb untere rechte Ausgang."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu force obere rechte rot Block runter bevor Mitte rot hat links.",
+        "Ignoring grün Seite Ausgang und treating das Spielfeld like unten-nur Puzzle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 3 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 3 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

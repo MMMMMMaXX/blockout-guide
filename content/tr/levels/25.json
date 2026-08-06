@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-25",
+  "locale": "tr",
+  "levelNumber": 25,
+  "title": "Block Out Seviye 25 Rehberi",
+  "summary": "Block Out Seviye 25 bir Sandglass destek bulmaca ile uzun yan raylardır. Açık beyaz-ve-siyah bel ilk, döndür daha düşük pembe-camgöbeği oda saniye, ve sadece sonra başla harcayarak uzun çerçeveli yan sütunlar.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "Block Out Seviye 25 bir Sandglass destek bulmaca ile uzun yan raylardır. Açık beyaz-ve-siyah bel ilk, döndür daha düşük pembe-camgöbeği oda saniye, ve sadece sonra başla harcayarak uzun çerçeveli yan sütunlar.",
+        "landmarks": [
+          "Block Out Seviye 25 bir Sandglass destek bulmaca ile uzun yan raylardır.",
+          "Açık beyaz-ve-siyah bel ilk, döndür daha düşük pembe-camgöbeği oda saniye, ve sadece sonra başla harcayarak uzun çerçeveli yan sütunlar.",
+          "Tahta mor, yeşil, pembe ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "green", "pink", "cyan", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Açık bel önce dokunarak yan raylar.",
+        "Daha düşük oda gerektirir alan önce uzun yan sütunlar ebilir ilerle.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy beyaz merdivenler ve siyah engelleyiciler uzakta sandglassdan boyun."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut uzun çerçeveli yan sütunlar park edildi sırasında üst tıka hâlâ dar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Sonra bel açılır, döndür daha düşük pembe ve camgöbeği kütle böylece oda stops pressing yukarı doğru."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle bir uzun yan sütun sadece sonra daha düşük oda created gerçek boş alan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan yeni alan ayı saniye uzun yan sütun ve iç yeşil sök."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir daha düşük oda önce son yan sütun bırakır."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "End ile kalan yeşil yönlendir sonra boyun completely açık."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek harcaya yan ray sırasında bel hâlâ dar.",
+        "Ignoring daha düşük oda ve overfocusing uzun raylarda."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 25 Rehberi ve Çözümü",
+    "description": "Block Out seviye 25'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

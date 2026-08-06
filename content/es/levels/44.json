@@ -1,0 +1,97 @@
+{
+  "id": "es-level-44",
+  "locale": "es",
+  "levelNumber": 44,
+  "title": "Guía de Block Out Nivel 44",
+  "summary": "Block Out nivel 44 es labeled 'Hard nivel' y features a central `5` jefe bloque sitting en una fila foundation de four `5`-contador bloques en the inferior. Sobre el jefe, pequeño-contador bloques (cian `1`, a `3` bloque) y un dispositivo morado debe...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out nivel 44 es labeled 'Hard nivel' y features a central `5` jefe bloque sitting en una fila foundation de four `5`-contador bloques en the inferior. Sobre el jefe, pequeño-contador bloques (cian `1`, a `3` bloque) y un dispositivo morado debe be cleared primero a give el jefe vertical room. The inferior `5` fila y el jefe collapse en coordination — el jefe pushes abajo mientras the foundation thins. Rosa bloques en the derecho son the late-phase cleanup.",
+        "landmarks": [
+          "Block Out nivel 44 es labeled 'Hard nivel' y features a central `5` jefe bloque sitting en una fila foundation de four `5`-contador bloques en the inferior.",
+          "Sobre el jefe, pequeño-contador bloques (cian `1`, a `3` bloque) y un dispositivo morado debe be cleared primero a give el jefe vertical room.",
+          "The inferior `5` fila y el jefe collapse en coordination — el jefe pushes abajo mientras the foundation thins.",
+          "Rosa bloques en the derecho son the late-phase cleanup."
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The superior contadores (`1` y `3`) son pequeño pero ellos puerta el tablero whole — despejado los primero.",
+        "El jefe y the inferior `5` fila collapse together, así do no try a despejado the foundation independently.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the cian `1`-contador bloque en the superior a create the primero opening sobre el jefe."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Service el dispositivo morado en the superior de el tablero."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Remove the `3`-contador bloque a widen el espacio superior."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Empieza dropping the central `5` jefe once the superior room es abierto."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Let the four `5` bloques en the inferior fino mientras el jefe pushes abajo."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the rosa bloques en el lado derecho mientras the late-phase color."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con the restante inferior bloques y lado salidas después el jefe es gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying a drop the `5` jefe antes the superior `1` y `3` contadores son cleared — el jefe has no room a movimiento y el espacio superior stays sealed.",
+        "Disturbing the inferior `5` fila antes el jefe has started dropping, que removes the support pero leaves el jefe stuck sobre con no camino abajo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 44",
+    "description": "Resuelve Block Out nivel 44 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

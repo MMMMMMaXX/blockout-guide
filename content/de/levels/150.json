@@ -1,0 +1,96 @@
+{
+  "id": "de-level-150",
+  "locale": "de",
+  "levelNumber": 150,
+  "title": "Block Out Level 150 Lösung",
+  "summary": "Block Out Level 150 closes set mit compact 4-Spalte abgleichen Spielfeld — deceptively simple nach Super schwer gauntlet. Dual `6` anchor Kacheln und links-rail `3` zusammenfassen Zähler sind nur objectives. Grün rechts-Pfeil Schieber auf r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/150/",
+        "layout": "Block Out Level 150 closes set mit compact 4-Spalte abgleichen Spielfeld — deceptively simple nach Super schwer gauntlet. Dual `6` anchor Kacheln und links-rail `3` zusammenfassen Zähler sind nur objectives. Grün rechts-Pfeil Schieber auf rechts edge schieben entire rows horizontally, turning dieses in sliding-rows game eher als usual Block extraction.",
+        "landmarks": [
+          "Block Out Level 150 closes set mit compact 4-Spalte abgleichen Spielfeld — deceptively simple nach Super schwer gauntlet.",
+          "Dual `6` anchor Kacheln und links-rail `3` zusammenfassen Zähler sind nur objectives.",
+          "Grün rechts-Pfeil Schieber auf rechts edge schieben entire rows horizontally, turning dieses in sliding-rows game eher als usual Block extraction."
+        ],
+        "colors": ["blue", "red", "yellow", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mMIsmNrntpQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mMIsmNrntpQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break oben blau 6 bevor Eröffnungs- Mitte-rechts gap mit second Schieber.",
+        "Bewegen unten blau 1×2 nur nach grün 6 Kachel räumt.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Tap grün rechts-Pfeil zu schieben obere rechte grün 1×2 leftward, abgleichend oben rot/gelb pair ohne verschiebend blau 6."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen oben blau 6 Kachel durch abgleichend blau Spalte beneath es once oben Reihe thins."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden second grün rechts-Pfeil Schieber zu öffnen Mitte-rechts gap nach erste band räumt."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Abgleichen mittlere rot/rot/gelb band zu tick obere links-rail 3 Zähler runter."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Break untere linke grün 6 Kachel durch sliding untere blau 1×2 in blau/rot pair."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen unten rot/gelb/rot band zu spend untere links-rail 3 Zähler."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Tap rechts-Pfeil one letzte time zu eject endgültig gelb scrap für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Sliding unten blau 1×2 bevor grün 6 breaks, stranding rot pair weg von rechts-Pfeil Bahn.",
+        "Verwendend second Schieber bevor oben blau 6 räumt, splitting obere band und wasting 3 Zähler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/150/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 150 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 150 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ja-level-51",
+  "locale": "ja",
+  "levelNumber": 51,
+  "title": "ブロックアウト レベル51 攻略",
+  "summary": "ブロックアウト レベル51は、左側に積み重ねられた2本の赤いバーと、右下の狭い駐車場を中心に構成されています。まず右側の縦スロットを開け、空いた通路を使ってシアンのバーや黄色のトレイを回転させ、最後に赤いバーを…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "ブロックアウト レベル51は、左側に積み重ねられた2本の赤いバーと、右下の狭い駐車場を中心に構成されています。まず右側の縦スロットを開け、空いた通路を使ってシアンのバーや黄色のトレイを回転させ、最後に紫の柱を閉じ込めないよう赤いバーを動かします。",
+        "landmarks": [
+          "ブロックアウト レベル 51 周りを 赤の棒 左、狭い 下の-右.。",
+          "を開きて右に、-側、使う 解放し レーン 回転させる シアン 棒、黄、赤の棒 紫 .。",
+          "混ぜる 赤、緑、青、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右-側 青 柱 壁、左 積み .。",
+        "紫のを維持して、右 残し 赤の棒 回転させる.。",
+        "盤面が行き詰まったら、最もクリアな経路を持つ色を見つけ、それを使って再びスペースを作りましょう。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を開きて下の-右 ずらし 赤 柱、青 柱 右の壁.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を使いてシアン 中央 棒、を出して下の-左 緑 取り除く .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "消去を始めて赤の棒 左、右-側 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄のを通して中央の、赤 棒 動かし、シアン レーン .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を残して紫、維持する 右側 左 積み .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて黄 トレイ、青 右-壁 ピース、中央レーン .。"
+        }
+      ],
+      "failurePoints": ["回収する 左-側 赤の棒、右-側 開く.。", "紫、シアン 棒、黄 必要とする.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル51 攻略と解説",
+    "description": "ブロックアウト レベル51 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

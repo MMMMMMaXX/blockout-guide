@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-136",
+  "locale": "pt-br",
+  "levelNumber": 136,
+  "title": "Guia do nível 136 do Block Out",
+  "summary": "O nível 136 do Block Out divide o tabuleiro em uma grade superior com números nas bordas que controlam cada direção de deslize e um painel inferior centrado em um círculo `13` com quatro setas coloridas formando uma segunda zona de pontuação. O tetromino vermelho em L e o quadrado amarelo 2×2...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "O nível 136 do Block Out divide o tabuleiro em uma grade superior com números nas bordas que controlam cada direção de deslize e um painel inferior centrado em um círculo `13` com quatro setas coloridas formando uma segunda zona de pontuação. O tetromino vermelho em L e o quadrado amarelo 2×2 competem pelo espaço central — limpe primeiro as alimentações da seta ciano para cima através da borda `2`, ou o painel inferior fica sem peças de entrada.",
+        "landmarks": [
+          "O nível 136 do Block Out divide o tabuleiro em uma grade superior com números nas bordas que controlam cada direção de deslize e um painel inferior centrado em um círculo `13` com quatro setas coloridas formando uma segunda zona de pontuação.",
+          "Vermelho L-tetromino e amarelo 2×2 quadrado compita para centro espaço — limpar ciano cima-seta alimenta através `2` borda primeiro, ou inferior painel corre para fora de incoming peças.",
+          "Tabuleiro mistura Roxo, Verde, Azul e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "green", "blue", "cyan", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre amarelo 2×2 antes que deslizando ciano direita barra — reversing que ordem cadeados inferior 13 acima 4.",
+        "Alimente vermelho L-tetromino através roxo esquerda-seta único depois ambos lateral 9 contadores limpar.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize superior roxo/verde/azul aglomerado para a direita para gaste 2 e 4 superior contadores sem dividindo ciano/amarelo direita par."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Alimente vermelho esquerda coluna baixo verde baixo-seta pista para comece gastando esquerda 9 borda contador."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre amarelo 2×2 quadrado em superior-centro uma vez direita 9 contador solta para 6."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Empurre vermelho L-tetromino leftward através roxo esquerda-seta pista depois ambos lateral 9 contadores limpar."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize ciano vertical barra em direita borda baixo vermelho direita-seta pista para desbloqueie inferior painel."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste inferior 9 peça em laranja circle e alimente último recortes baixo amarelo cima-seta para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando ciano direita barra antes que amarelo 2×2 quebra, locking inferior 13 circle acima 4.",
+        "Pushing vermelho L-tetromino esquerda antes que ambos lateral 9 contadores limpar, stranding inferior painel."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 136 do Block Out",
+    "description": "Resolva o nível 136 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

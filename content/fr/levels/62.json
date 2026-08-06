@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-62",
+  "locale": "fr",
+  "levelNumber": 62,
+  "title": "Guide Block Out Niveau 62",
+  "summary": "Block Out Niveau 62 fills 5×8 grille avec smiley face blocs dans le milieu (libérez-sliding) et directional arrow blocs sur sides — bleu gauche-arrows sur la gauche, rouge droite-arrows sur la droite. blocs smiley peut déplacez freely, mais ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "Block Out Niveau 62 fills 5×8 grille avec smiley face blocs dans le milieu (libérez-sliding) et directional arrow blocs sur sides — bleu gauche-arrows sur la gauche, rouge droite-arrows sur la droite. blocs smiley peut déplacez freely, mais arrow blocs sont constrained. Dégagez le haut et bas rangées premier, alors work le milieu blocs smiley, et terminez avec côté arrow blocs.",
+        "landmarks": [
+          "Block Out Niveau 62 fills 5×8 grille avec smiley face blocs dans le milieu (libérez-sliding) et directional arrow blocs sur sides — bleu gauche-arrows sur la gauche, rouge droite-arrows sur la droite.",
+          "Blocs smiley peut déplacez freely, mais arrow blocs sont constrained.",
+          "Dégagez le haut et bas rangées premier, alors work le milieu blocs smiley, et terminez avec côté arrow blocs."
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Blocs smiley dans le milieu sont libérez-sliding — utilisez ce freedom à dégagez paths pour directional arrow blocs.",
+        "Dégagez le haut et bas rangées premier à donnez le milieu blocs salle à déplacez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut orange blocs smiley à travers la sortie supérieure à ouvrez supérieur section."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez le bas vert blocs smiley à travers la sortie inférieure à ouvrez abaissez section."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez sliding le milieu blocs smiley freely — ils peut déplacez dans un direction."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez bleu gauche-arrow blocs sur la gauche à travers la sortie gauche comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez rouge droite-arrow blocs sur la droite à travers la sortie droite."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant blocs smiley piégé dans coins."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement côté arrow blocs avant le milieu blocs smiley ont salle — le milieu blocs obtenez piégé.",
+        "Essayant à dégagez le milieu avant le haut et bas rangées sont ouvrez, qui jams plateau."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 62",
+    "description": "Résolvez le niveau 62 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

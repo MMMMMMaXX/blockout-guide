@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-3",
+  "locale": "ja",
+  "levelNumber": 3,
+  "title": "ブロックアウト レベル3 攻略",
+  "summary": "ブロックアウト レベル3は、短い連鎖パズルです。まず中央の赤ブロックを落とし、緑の角を左へ送り、下部の青ブロックを回収し、その後は残りの赤と黄のブロックを下部の出口から仕上げます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "ブロックアウト レベル3は、短い連鎖パズルです。まず中央の赤ブロックを落とし、緑の角を左へ送り、下部の青ブロックを回収し、その後は残りの赤と黄のブロックを下部の出口から仕上げます。",
+        "landmarks": [
+          "ブロックアウト レベル 3 連鎖 .。",
+          "を落として中央の赤のブロック、を送りて緑の角 左、を回収して下部の青のブロック、を終えて残りの赤と黄のブロック 下部の出口.。",
+          "混ぜる 緑、黄、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を使いて中央の赤の出口 作動させる.。",
+        "緑、下部の青のブロック 残す、最後の黄.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて中央の赤のブロック まっすぐ 下 赤 下 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "手順 左上の緑のブロック 下、緑 左の出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を落として下部の青のブロック 青の左下の出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を下げて中央の黄のブロック 今開いた中央レーン.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を送りて右上の赤のブロック 下 赤の出口、中央レーンが空いている.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて最後の黄のブロック 黄の右下の出口.。"
+        }
+      ],
+      "failurePoints": [
+        "無理に動かす 右上の赤のブロック 下、中央の赤が出た.。",
+        "を無視して緑の側面出口、を扱いて下- .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル3 攻略と解説",
+    "description": "ブロックアウト レベル3 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

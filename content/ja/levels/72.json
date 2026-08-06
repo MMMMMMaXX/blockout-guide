@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-72",
+  "locale": "ja",
+  "levelNumber": 72,
+  "title": "ブロックアウト レベル72 攻略",
+  "summary": "ブロックアウト レベル72は、側面に番号付きブロック「6」と「11」、中央に自由に滑るスマイリーブロック、端に向き矢印ブロックを詰め込んだ5×7グリッドです。番号付きブロックは各ゲートから抜け出す必要があり、スマイリー…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "ブロックアウト レベル72は、側面に番号付きブロック「6」と「11」、中央に自由に滑るスマイリーブロック、端に向き矢印ブロックを詰め込んだ5×7グリッドです。番号付きブロックは各ゲートから抜け出す必要があり、スマイリーは自由に動かせます。まず底を消去し、次にスマイリーブロックを進め、最後に番号付きブロックで締めくくります。",
+        "landmarks": [
+          "ブロックアウト レベル 72 5×7 '6'、'11'、を解放して-スライドさせ スマイル 中央の、矢印 .。",
+          "出口 出口 スマイル 解放する 手順.。",
+          "を消去して下、進める スマイル、終える .。"
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "スマイル 中央の 解放する-スライドさせ — 使う 消去する .。",
+        "を消去して'6' ブロック、'11' .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑スマイルを消去して下 下部の出口 開く 台座.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄のをずらして左 左 出口 開く 下の-左 エリア.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "スライドさせ オレンジ、黄 スマイル 中央の — 手順 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青のを消去して右 右 出口 中央の .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "カウンター '6'、'11' — 消去する '6' .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて'11'、消去し.。"
+        }
+      ],
+      "failurePoints": [
+        "消去 '11'、スマイル — '11' 必要とする スライドさせる、出口 .。",
+        "消去 上、下、下の スライドさせ .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル72 攻略と解説",
+    "description": "ブロックアウト レベル72 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

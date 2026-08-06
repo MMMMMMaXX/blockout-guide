@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-52",
+  "locale": "zh-cn",
+  "levelNumber": 52,
+  "title": "Block Out 第 52 关通关攻略",
+  "summary": "Block Out 第 52 关用中央高大的红色竖向方块将棋盘一分为二，构成一个双目标拼图：左侧（绿、黄）与右侧（蓝、粉）必须协调清理。顶部的 `10` 和 `12` 计数……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "Block Out 第 52 关用中央高大的红色竖向方块将棋盘一分为二，构成一个双目标拼图：左侧（绿、黄）与右侧（蓝、粉）必须协调清理。顶部的 `10` 和 `12` 计数块跟踪每一侧剩余的方块。先排干底部各列，再自两侧向中央红墙推进。",
+        "landmarks": [
+          "Block Out 第 52 关用中央高大的红色竖向方块将棋盘一分为二，构成一个双目标拼图：左侧（绿、黄）与右侧（蓝、粉）必须协调清理。",
+          "顶部的 `10` 和 `12` 计数块跟踪每一侧剩余的方块。",
+          "先排干底部各列，再自两侧向中央红墙推进。"
+        ],
+        "colors": ["red", "green", "blue", "yellow", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央高大的红色方块是一堵墙，而非急于清除的障碍。先清理两侧。",
+        "留意顶部的双计数块——它们告诉你每一侧还有多少方块需要离场。",
+        "若棋盘陷入僵局，找一条路径最顺畅的颜色，借它重新打开空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将左侧下方的蓝色方块和右侧的粉色方块分别导向各自的出口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将左侧的黄/橙方块经左侧出口移出，打开中左区域。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "通道已通，将左上角的绿色方块经左侧出口移出。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "开始滑动中央高大的红色竖向方块——只有两侧都有空间时它们才能移动。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "将右侧残余的蓝色方块经右侧出口清除。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "以任何残余的中央红色方块和底部红块收尾，完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在排干底部各列前就移动中央高大的红色方块——它们会同时堵住两个出口。",
+        "只专注一侧而另一侧仍拥挤，会导致中央红墙停滞。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 52 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 52 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

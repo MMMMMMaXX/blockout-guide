@@ -1,0 +1,119 @@
+{
+  "id": "tr-level-249",
+  "locale": "tr",
+  "levelNumber": 249,
+  "title": "Block Out Seviye 249 Rehberi",
+  "summary": "Block Out! süper zor Seviye 249 çözüm anlatım. izle gömülü anlatım temizle bu süper-zor tahta.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "super-hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/249.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/249",
+        "layout": "Block Out Seviye 249 açılır süperde-zor renk sıralama tahta baskın ile mavi, pembe, yeşil, mor, kırmızı karolar. tam başlayarak düzen ve doğrulanmış çözüm gösterilen gömülü anlatımda video; eşleştir senin tahta videoya önce takip ederek hareket ettir sıra.",
+        "landmarks": [
+          "Tahta belirgin şekilde mavi, pembe, yeşil içerir.",
+          "Renk grupları, seviyeyi temizlemek için ayrılmalı ve istiflenmelidir.",
+          "Gömülü anlatım, tam başlangıç düzenini ve çözüm sırasını gösterir."
+        ],
+        "colors": ["blue", "pink", "green", "purple", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "V5s6V4Qd-Eg",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=V5s6V4Qd-Eg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Açarak tahta"
+        },
+        {
+          "seconds": 64,
+          "label": "Ilk birleşmeler"
+        },
+        {
+          "seconds": 128,
+          "label": "Mid-tahta temizleyerek"
+        },
+        {
+          "seconds": 188,
+          "label": "Son çıkış"
+        }
+      ],
+      "quickTips": [
+        "Önce mavi ve pembe bloklarını gruplayın — açılış tahtasına hâkimdirler, bu yüzden onları erken temizlemek en fazla alanı açar.",
+        "İlk iki birleşmeniz bitene kadar bir sütunu tampon olarak boş tutun; bu, kötü bir hamleyi geri almak için tek güvenli yerdir.",
+        "Park et karışık veya tuzağa düştü yeşil bloklar en kısa sütunda, asla en uzun bir, böylece sen tut temiz çıkış şerit.",
+        "Bu süper-zor tahta bırakır az pay için hata — plan dolu çıkış yönlendir önce senin ilk hareket ettir daha ziyade tepki vererek."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Tahtayı eşleştir",
+          "instruction": "Doğrula mavi/pembe düzen eşleşmeler anlatım önce sen hareket ettir; farklı çeşit demektir farklı çözüm.",
+          "image": "/boards/249.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Baskın rengi temizle",
+          "instruction": "Birleştir mavi sütunlar ilk serbest en büyük bölgee tahta ve azalt parçalar sen meli izle.",
+          "image": "/boards/249.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Bir tampon şerit aç",
+          "instruction": "Kaydır pembe bloklar kenara bire kısa sütun böylece karışık istifler kal ayrılabilir ve çıkış şerit kalır açık.",
+          "image": "/boards/249.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Yukarıdan aşağıya çalış",
+          "instruction": "Temizle üst böylece hiçbir şey kilitlenir erken; tut tampon sütun müsait kadar tahta neredeyse boş.",
+          "image": "/boards/249.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Çıkışı yönlendir",
+          "instruction": "Gönder son bloklar dışarı aynı şeritden gösterilen videoda, sırada anlatım gösterir.",
+          "image": "/boards/249.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "Birleştirerek en uzun sütun ilk tüketir senin sadece tampon şerit ve tuzağa düşürür daha düşük bloklar o.",
+        "Kovalayarak dolu mavi istifler önce ayırak karışık renkler bırakır bloklar sen ebilir hayır daha uzun ulaş.",
+        "Başlayarak süre ölçer önce tahta eşleşti israf eder 8–12 saniye iyileşme süperde-zor tahta.",
+        "Bırakarak pembe bloklar otur diğerleride zorlar yeniden başlatma sen ebilirdi kaçınıldı ile bir erken kaydır."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/249",
+    "https://www.youtube.com/watch?v=V5s6V4Qd-Eg",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 249 Rehberi ve Çözümü",
+    "description": "Çöz Block Out Seviye 249 ile doğrulanmış süper-zor anlatım video ve tahta renkler. izle gömülü çözüm eşleştir senin başlayarak tahta."
+  },
+  "updatedAt": "2026-08-03"
+}

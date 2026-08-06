@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-13",
+  "locale": "fr",
+  "levelNumber": 13,
+  "title": "Guide Block Out Niveau 13",
+  "summary": "Block Out Niveau 13 est pressure plateau avec encombré mur droit et haut compteurs. Adoucissez la droite voie premier, gardez supérieur bleu bande garé comme contreventement, et effondrez les dalles cyan seulement après la voie rouge opens.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "Block Out Niveau 13 est pressure plateau avec encombré mur droit et haut compteurs. Adoucissez la droite voie premier, gardez supérieur bleu bande garé comme contreventement, et effondrez les dalles cyan seulement après la voie rouge opens.",
+        "landmarks": [
+          "Block Out Niveau 13 est pressure plateau avec encombré mur droit et haut compteurs.",
+          "Adoucissez la droite voie premier, gardez supérieur bleu bande garé comme contreventement, et effondrez les dalles cyan seulement après la voie rouge opens.",
+          "Le plateau mélange cyan, jaune et bleu et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["cyan", "yellow", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Droite voie rouge matters avant le haut bleu bande.",
+        "Cyan dalles doit déplacez après compteurs, pas avant les.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez la droite-bord pièces dans le mur rouge donc tiny `1` côté compteur disappears premier."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Gardez shrinking le haut `3` et `4` compteurs pendant cyan `10` dalle stays garé dans le milieu."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez jaune belts à bridge à travers le centre seulement après la droite voie est non longer clogged."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez tomber cyan `8` et `6` dalles dans sequence donc le milieu rangée stops pinning bleu bande."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Relâchez supérieur bleu bande une fois le haut compteurs sont presque exhausted."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez par dégagement dernier jaune belts et alors final cyan `5` dalle."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant le haut bleu bande avant la droite voie rouge a opened.",
+        "Essayant à forcez cyan `10` dalle bas pendant le haut compteurs sont toujours high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 13",
+    "description": "Résolvez le niveau 13 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

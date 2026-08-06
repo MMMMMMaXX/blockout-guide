@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-141",
+  "locale": "ja",
+  "levelNumber": 141,
+  "title": "ブロックアウト レベル141 攻略",
+  "summary": "ブロックアウト レベル141はＴ字型の鍵穴盤面で、鎖でつながった赤の十字が中央を塞ぎ、番号付きポケットが緑の十字（プラス）を取り囲んでいます。それは組み立ててから消去する必要があります。鎖は「9」と「8」の側面カウンターを使って切れます…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/141/",
+        "layout": "ブロックアウト レベル141はＴ字型の鍵穴盤面で、鎖でつながった赤の十字が中央を塞ぎ、番号付きポケットが緑の十字（プラス）を取り囲んでいます。それは組み立ててから消去する必要があります。鎖は「9」と「8」の側面カウンターを使って切れますが、底部の南京錠は緑の十字が側面の矢印通路を通って出るまで閉じたままです。両方のカウンターが終わる前に十字を消去すると、南京錠が永久に封じられます。",
+        "landmarks": [
+          "ブロックアウト レベル 141 Ｔ字型 赤 横切る 中央、囲む 緑 横切る、消去し.。",
+          "`9`、`8` 側 カウンター、下 錠 残し、緑 横切る 出口 側 矢印 レーン.。",
+          "を消去して横切る、カウンター 終える、錠 .。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "cFfUvNFciK4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=cFfUvNFciK4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を割りて赤 横切る、緑 横切る — 右 8 レーン.。",
+        "を使いて左に、9 空きマス、消去 右 8 腕.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を剥がして上 青 行、を割りて赤 横切る 上の 横切る 区画 下の 2/2/2 行.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を通して上の 紫 左-矢印 レーン 左 9 空きマス.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を使いて左に、9 カウンター スライドさせ 左 腕、消去する 右 8 空きマス 緑 右-矢印 レーン.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "緑のを作りて横切る 中央 帯、を揃えて赤、黄 周りを .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去して2/2/2 行 渡り 下の 台座、側 カウンター .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して青、赤 下 下 錠 出口.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を消去して緑 横切る ! 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "黄のをスライドさせて側、赤 横切る、緑のを塞ぎて右-矢印 レーン.。",
+        "消去 2/2/2 行、9、8 側 カウンター 使い.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/141/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル141 攻略と解説",
+    "description": "ブロックアウト レベル141 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

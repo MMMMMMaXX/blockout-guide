@@ -1,0 +1,103 @@
+{
+  "id": "zh-cn-level-2",
+  "locale": "zh-cn",
+  "levelNumber": 2,
+  "title": "Block Out 第 2 关通关攻略",
+  "summary": "Block Out 第 2 关以红色在上、黄色在左开局，随后转为竖向成列清理。先将蓝色方块停在左上角，经顶部通道剥离白色与黑色列，最后才让蓝色方块离场。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "Block Out 第 2 关以红色在上、黄色在左开局，随后转为竖向成列清理。先将蓝色方块停在左上角，经顶部通道剥离白色与黑色列，最后才让蓝色方块离场。",
+        "landmarks": [
+          "Block Out 第 2 关以红色在上、黄色在左开局，随后转为竖向成列清理。",
+          "将蓝色方块停在左上角，经顶部通道剥离白色与黑色列，最后才让蓝色方块离场。",
+          "棋盘混合了红色、黄色、蓝色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "红色与黄色是最初两次清理的目标。",
+        "蓝色先是支撑块，最后才是出口方块。",
+        "若棋盘陷入僵局，找一条路径最顺畅的颜色，借它重新打开空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将红色 L 形方块向上经顶部红色出口移出。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将黄色 T 形方块向左经黄色侧边出口推出。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "将蓝色 L 形方块滑入左上角并停在那里。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "先抬升最右侧的白色列，再将它旁边的黑色列提入右上角的黑色出口。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "待黑色角落腾空后，将中部高耸的白色列向上拉入左上角的白色出口。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "利用同一条顶部通道清除右侧剩余的白色方块堆。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "将最后一根黑色列经黑色出口向上送出。"
+        },
+        {
+          "order": 8,
+          "title": "第 8 步",
+          "instruction": "最后将停好的蓝色 L 形方块下落至左墙的蓝色出口完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在白色列尚未爬升前就试图将蓝色 L 形方块送往出口。",
+        "忽视右侧黑色列，把白色方块提入已被堵死的角落。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 2 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 2 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

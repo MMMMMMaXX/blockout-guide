@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-51",
+  "locale": "zh-cn",
+  "levelNumber": 51,
+  "title": "Block Out 第 51 关通关攻略",
+  "summary": "Block Out 第 51 关以左侧两根堆叠的红色长条和右下角一个拥挤的停车场为核心。先打开右侧竖向槽位，再利用腾出的通道旋转青色长条、黄色托盘，最后在不困住紫色列的前提下处理红色长条……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "Block Out 第 51 关以左侧两根堆叠的红色长条和右下角一个拥挤的停车场为核心。先打开右侧竖向槽位，再利用腾出的通道旋转青色长条、黄色托盘，最后在不困住紫色列的前提下处理红色长条。",
+        "landmarks": [
+          "Block Out 第 51 关以左侧两根堆叠的红色长条和右下角一个拥挤的停车场为核心。",
+          "先打开右侧竖向槽位，再利用腾出的通道旋转青色长条、黄色托盘，最后在不困住紫色列的前提下处理红色长条。",
+          "棋盘混合了红色、绿色、蓝色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "若右侧蓝色立柱仍贴墙卡死，说明左侧堆叠尚未就绪。",
+        "将紫色列留到后期清理，以便红色长条旋转时右侧槽位保持有序。",
+        "若棋盘陷入僵局，找一条路径最顺畅的颜色，借它重新打开空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "移动右侧高大的红色立柱和贴右墙的蓝色立柱，打开右下角的停车场。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用新槽位缩短中央青色长条，让左下角的绿色条带获得喘息空间。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "只有在右侧槽位能接收回转方块后，才开始清理左侧堆叠的红色长条。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "待第一根红色长条移开、青色通道变短后，将黄色托盘从中间送入。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "将两根紫色列留到后期清理，使左侧堆叠旋转时右侧保持有序。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "中心通道清空后，以最后的黄色托盘和右侧贴墙蓝色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧停车场打开前就试图清理左侧两根红色长条。",
+        "过早使用紫色列，导致青色长条与黄色托盘仍需要的槽位丢失。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 51 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 51 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

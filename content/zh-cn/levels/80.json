@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-80",
+  "locale": "zh-cn",
+  "levelNumber": 80,
+  "title": "Block Out 第80关攻略",
+  "summary": "Block Out 第80关棋盘上满是细高的绿色和蓝/青色竖列，中间由一道红色锁钥方块的间隙隔开。在中心的解锁序列解出之前，这些列无法移动。先清空锁钥方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "Block Out 第80关棋盘上满是细高的绿色和蓝/青色竖列，中间由一道红色锁钥方块的间隙隔开。在中心的解锁序列解出之前，这些列无法移动。先清空锁钥方块以打开间隙，再将细高的绿色列向下滑出底部出口，接着是蓝/青色列。",
+        "landmarks": [
+          "Block Out 第80关棋盘上满是细高的绿色和蓝/青色竖列，中间由一道红色锁钥方块的间隙隔开。",
+          "在中心的解锁序列解出之前，这些列无法移动。",
+          "先清空锁钥方块以打开间隙，再将细高的绿色列向下滑出底部出口，接着是蓝/青色列。"
+        ],
+        "colors": ["green", "blue", "cyan", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先把全部注意力放在中心的锁钥间隙上——在它打开之前任何列都不能动。",
+        "先让绿色列向下滑动，再处理蓝/青色——绿色更靠近出口。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将中心间隙中的钥匙方块与其对应的锁块匹配。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "清空中心已解锁的红色方块，打开间隙。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将左侧细高的绿色列方块向下滑出底部出口。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "等绿色列腾出空间后，将右侧的蓝/青色列方块向下移。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将底部的小号青/蓝色方块从下箭头出口清空。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理任何剩余的列碎片。"
+        }
+      ],
+      "failurePoints": [
+        "在中心锁块清空之前就移动细高列——这些列没有空间。",
+        "钥匙与锁不匹配，浪费步数并让方块被挡住。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第80关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第80关。"
+  },
+  "updatedAt": "2026-08-03"
+}

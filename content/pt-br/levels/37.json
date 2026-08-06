@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-37",
+  "locale": "pt-br",
+  "levelNumber": 37,
+  "title": "Guia do nível 37 do Block Out",
+  "summary": "Block Out Nível 37 centers em grande laranja-emoldurado chefe quadrado com `7` contador. Dois pequeno `1`-contador suporte blocos fica diretamente debaixo chefe e deve be separado primeiro para crie solte pista. verde blocos em inferior escoe...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "Block Out Nível 37 centers em grande laranja-emoldurado chefe quadrado com `7` contador. Dois pequeno `1`-contador suporte blocos fica diretamente debaixo chefe e deve be separado primeiro para crie solte pista. verde blocos em inferior escoe cedo, lateral azul e rosa blocos fino próximo, e chefe finalmente descends uma vez seu inferior pista é limpar. Depois chefe cai ao redor 01:11, segundo onda de rosa e azul blocos remains para limpeza.",
+        "landmarks": [
+          "Block Out Nível 37 centers em grande laranja-emoldurado chefe quadrado com `7` contador.",
+          "Dois pequeno `1`-contador suporte blocos fica diretamente debaixo chefe e deve be separado primeiro para crie solte pista.",
+          "Verde blocos em inferior escoe cedo, lateral azul e rosa blocos fino próximo, e chefe finalmente descends uma vez seu inferior pista é limpar.",
+          "Depois chefe cai ao redor 01:11, segundo onda de rosa e azul blocos remains para limpeza."
+        ],
+        "colors": ["yellow", "blue", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dois `1`-contador blocos abaixo chefe olhe pequeno, mas eles são saída — até eles são indo, chefe tem no para baixo pista.",
+        "Verde blocos em inferior são cedo saídas. Limpar os primeiro para crie inferior espaço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize amarelo barra em esquerda para abra esquerda lateral pista."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar verde blocos em inferior através azul saída seta para crie espaço abaixo chefe."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Remova dois `1`-contador blocos sentado diretamente debaixo chefe quadrado."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Desloque azul blocos em direita lateral para dê chefe horizontal espaço."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Como chefe contador solta em direção a `5`, continue afinando rosa e azul blocos em ambos lados."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deixe chefe quadrado solte através limpo inferior pista uma vez contador é low suficiente (visível em 01:11)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine restante rosa e azul limpeza blocos depois chefe é indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para inferior chefe quadrado enquanto dois `1`-contador suporte blocos são ainda em coloque — chefe precisa limpar vertical pista para solte.",
+        "Limpando lateral blocos antes que inferior verde saída é abra, que deixa inferior área empacotado e dá chefe nowhere para caia."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 37 do Block Out",
+    "description": "Resolva o nível 37 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-85",
+  "locale": "tr",
+  "levelNumber": 85,
+  "title": "Block Out Seviye 85 Rehberi",
+  "summary": "Block Out Seviye 85 barındırır tahta ile büyük kırmızı merkez blok surrounded ile yeşil, mavi, ve mor bloklar, plus special bloklar ile magnet/trophy 'U' icon ki interact ile adjacent parçalar. kilitlen/anahtar bloklar add sequencing constrain...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/85/",
+        "layout": "Block Out Seviye 85 barındırır tahta ile büyük kırmızı merkez blok surrounded ile yeşil, mavi, ve mor bloklar, plus special bloklar ile magnet/trophy 'U' icon ki interact ile adjacent parçalar. kilitlen/anahtar bloklar add sequencing constraints. temizle yeşil bloklar solda sol çıkışlardan ilk, sonra mavi bloklar sağda, ve sonunda extract büyük kırmızı merkez blok sonra yanlar açık.",
+        "landmarks": [
+          "Block Out Seviye 85 barındırır tahta ile büyük kırmızı merkez blok surrounded ile yeşil, mavi, ve mor bloklar, plus special bloklar ile magnet/trophy 'U' icon ki interact ile adjacent parçalar.",
+          "Kilitlen/anahtar bloklar add sequencing constraints.",
+          "Temizle yeşil bloklar solda sol çıkışlardan ilk, sonra mavi bloklar sağda, ve sonunda extract büyük kırmızı merkez blok sonra yanlar açık."
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "acjCQqZtavE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=acjCQqZtavE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Handle special 'U' icon bloklar erken — onlar interact ile adjacent parçalar unpredictably.",
+        "Temizle yanlar önce merkez — kırmızı blok gerektirir geniş şeritler.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Extract yeşil bloklar solda sol çıkışlardan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Çek mavi bloklar sağda sağ çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Handle special 'U' icon bloklar dikkatlice — onlar interact ile adjacent parçalar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kilitlen/anahtar bloklar kilidini aç gated bölümler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır büyük kırmızı merkez blok onun çıkışdan sonra yanlar açık."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile turuncu/sarı bloklar altda ve kalan mor parçalar."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring special 'U' icon bloklar, hangi ebilir sıkış adjacent parçalar unexpectedly.",
+        "Deneyerek hareket ettir merkez kırmızı blok önce yanlar temizlendi."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/85/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 85 Rehberi ve Çözümü",
+    "description": "Block Out seviye 85'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-110",
+  "locale": "tr",
+  "levelNumber": 110,
+  "title": "Block Out Seviye 110 Rehberi",
+  "summary": "Block Out Seviye 110 Single bağlı kırmızı çokgen merkez uzun mor çerçevede — o bakar like üç ayı bloklar, ama hamleler bir parça gizler. Üst `11` kapı ve sol-ray `8` sütun mühürle turuncu-çerçeveli mavi `3` poc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/110/",
+        "layout": "Block Out Seviye 110 Single bağlı kırmızı çokgen merkez uzun mor çerçevede — o bakar like üç ayı bloklar, ama hamleler bir parça gizler. Üst `11` kapı ve sol-ray `8` sütun mühürle turuncu-çerçeveli mavi `3` cep altında, ve sıkışık `19` küme dolur alt. bölündü kırmızı şekil çok erken ve pembe L-parça sağ getsde permanently tuzağa düştü.",
+        "landmarks": [
+          "Block Out Seviye 110 hides single bağlı kırmızı çokgen merkez uzun mor çerçevede — o bakar like üç ayı bloklar, ama hamleler bir parça.",
+          "Üst `11` kapı ve sol-ray `8` sütun mühürle turuncu-çerçeveli mavi `3` cep altında, ve sıkışık `19` küme dolur alt.",
+          "Bölündü kırmızı şekil çok erken ve pembe L-parça sağ getsde permanently tuzağa düştü."
+        ],
+        "colors": ["blue", "red", "green", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_D-7FbZBiEE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_D-7FbZBiEE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır merkez kırmızı çokgen bir şekil — değil bölündü o erken.",
+        "Temizle sol-ray `8` önce kaydırarak any alt-küme parçalar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaldır üst light-mavi `11` karo kilidini aç turuncu-çerçeveli merkez cep."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy sol-ray `8` sütun önce kaydırarak any alt-küme parçalar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle alan merkezden mavi `3` cep olmadan bölerek alt `19` küme."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır merkez kırmızı çokgen bir şekil, tutarak sarı highlight çizgi intact."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Serbest sağ-yan pembe `1` karo ve daha düşük pembe L-parça sonra kırmızı şekil hamleler."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir kalan mavi taban bloklar ve close alt sayaçlar `3` ve `14`."
+        }
+      ],
+      "failurePoints": [
+        "Bölerek merkez kırmızı çokgen çok erken, hangi tuzağa düşürür sağ pembe L-parça.",
+        "Dokunarak alt `19` küme önce üst `11` karo ve sol-ray `8` gitti."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/110/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 110 Rehberi ve Çözümü",
+    "description": "Block Out seviye 110'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

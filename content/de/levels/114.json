@@ -1,0 +1,96 @@
+{
+  "id": "de-level-114",
+  "locale": "de",
+  "levelNumber": 114,
+  "title": "Block Out Level 114 Lösung",
+  "summary": "Block Out Level 114 gives du two wrenches und two padlocked Blöcke, aber real constraint ist four unten Farbe bars — live quotas, nicht score decoration. Jede wrench unlocks exactly one padlock cluster, und spending blau wrench...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/114/",
+        "layout": "Block Out Level 114 gives du two wrenches und two padlocked Blöcke, aber real constraint ist four unten Farbe bars — live quotas, nicht score decoration. Jede wrench unlocks exactly one padlock cluster, und spending blau wrench auf falsch verklemmen lässt links türkis bar fest bei `10` mit kein tool zu fix es. Oben Gerät Zähler dropping zu `3` ist dein signal dass time ist running hinaus.",
+        "landmarks": [
+          "Block Out Level 114 gives du two wrenches und two padlocked Blöcke, aber real constraint ist four unten Farbe bars — live quotas, nicht score decoration.",
+          "Jede wrench unlocks exactly one padlock cluster, und spending blau wrench auf falsch verklemmen lässt links türkis bar fest bei `10` mit kein tool zu fix es.",
+          "Oben Gerät Zähler dropping zu `3` ist dein signal dass time ist running hinaus."
+        ],
+        "colors": ["red", "pink", "yellow", "orange", "green", "cyan", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UAzhWbdstDQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UAzhWbdstDQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rot wrench erste auf obere gelb Block — es nur gibt frei oben half.",
+        "Unten `14` pink bar ist letzte quota; räumen gelb `12` und grün `4` bevor star cluster.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Tap rot wrench auf obere gelb Block zu unlock oben pink/gelb cluster."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen gelb Blöcke toward unten `12` bar bevor touching Mitte pink Z-shape."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abziehen links türkis Spalte along rot links Pfeil bis Seite Zähler fällt … lassen von `15` zu `10`."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Tap blau wrench auf grün Block zu unlock padlocked orange Kachel in untere-mittlere."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen grün Blöcke hinaus durch unten `4` bar und single blau Block durch `1` bar."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Break hoch pink star cluster auf rechts und close unten `14` pink bar durch grün rechts Pfeile."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ausgang letzte orange singles once unten Zähler read `7` und `9`."
+        }
+      ],
+      "failurePoints": [
+        "Spending blau wrench bevor rot wrench, leaving oben cluster padlocked.",
+        "Räumend pink star cluster bevor gelb `12` bar ist satisfied."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/114/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 114 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 114 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

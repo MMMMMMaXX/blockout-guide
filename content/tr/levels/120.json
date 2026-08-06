@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-120",
+  "locale": "tr",
+  "levelNumber": 120,
+  "title": "Block Out Seviye 120 Rehberi",
+  "summary": "Block Out Seviye 120 bir Hızlı crown-ve-bomb tahta nere gerçek objectives specific marked karolar — kırmızı `15` ve yeşil `25` crowns, kırmızı `23` ve sarı `48` bombs — değil generic renk gruplardır. Asma kilit sıra alt kalırda seale...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/120/",
+        "layout": "Block Out Seviye 120 bir Hızlı crown-ve-bomb tahta nere gerçek objectives specific marked karolar — kırmızı `15` ve yeşil `25` crowns, kırmızı `23` ve sarı `48` bombs — değil generic renk gruplardır. Asma kilit sıra alt kalırda mühürlendi kadar crowns ve bombs tüm gitti. Detonate dışarı sıra ve son bomb bloklar son kırmızı çıkış, bir hareket ettir mükemmelden temizle.",
+        "landmarks": [
+          "Block Out Seviye 120 bir Hızlı crown-ve-bomb tahta nere gerçek objectives specific marked karolar — kırmızı `15` ve yeşil `25` crowns, kırmızı `23` ve sarı `48` bombs — değil generic renk gruplardır.",
+          "Asma kilit sıra alt kalırda mühürlendi kadar crowns ve bombs tüm gitti.",
+          "Detonate dışarı sıra ve son bomb bloklar son kırmızı çıkış, bir hareket ettir mükemmelden temizle."
+        ],
+        "colors": ["red", "green", "blue", "cyan", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q5ubnDWBJ10",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q5ubnDWBJ10",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır kırmızı `15` önce yeşil `25` — crown çift sıra matters için sol-sütun delik.",
+        "Pop her ikisi de sarı `48` bombs önce harcayarak alt asma kilit sayaçlar.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Tap üst kırmızı triangle parça, sonra temizle camgöbeği `4` ve mavi `10` kenar karolar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır merkez crown çift — kırmızı `15` ilk, sonra yeşil `25` — önce dokunarak sarı `60` tuğlalar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Detonate kırmızı `23` bomb blok sonra sol-sütun delik açılır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Pop her ikisi de sarı `48` bomb karolar sırasında mavi `8` ve camgöbeği `9` üst çift hâlâ movable."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca alt beyaz `6` ve `4` sayaç karolar kilidini aç asma kilit sıra."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir kalan kırmızı alt artıklar için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Detonating sarı `48` bombs sonra asma kilit sıra — bir live bomb bloklar son kırmızı çıkış.",
+        "Dokunarak sarı `60` tuğlalar önce kırmızı `15` crown temizlenir."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/120/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 120 Rehberi ve Çözümü",
+    "description": "Block Out seviye 120'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

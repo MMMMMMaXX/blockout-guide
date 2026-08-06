@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-124",
+  "locale": "ja",
+  "levelNumber": 124,
+  "title": "ブロックアウト レベル124 攻略",
+  "summary": "ブロックアウト レベル124は「ハード」のポリオミノ迷路で、緑の蛇の経路と紫のうねる形状がグリッドを通る一方通行の通路を作っています。赤の「32」星ブロックとシアンポケットが主な目標ですが、蛇とうねる形状が…を決定します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/124/",
+        "layout": "ブロックアウト レベル124は「ハード」のポリオミノ迷路で、緑の蛇の経路と紫のうねる形状がグリッドを通る一方通行の通路を作っています。赤の「32」星ブロックとシアンポケットが主な目標ですが、蛇とうねる形状が取り出し順を決定します—彼らを順不同に滑らせると、グリッドが封じられ、番号付き星ブロックが戻る通路もなく閉じ込められます。",
+        "landmarks": [
+          "ブロックアウト レベル 124 ポリオミノ 迷路 緑、紫 作る - レーン .。",
+          "赤 `32` 星 ブロック、シアン 空きマス 目的、— スライドさせる 順序、星 レーン .。",
+          "混ぜる 赤、青、シアン、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "blue", "cyan", "green", "orange", "yellow", "purple", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "K4yNR5TX9yc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=K4yNR5TX9yc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "シアンのを排出して`1`/`3`/`8` 空きマス、動かし 黄 `1` タイル.。",
+        "緑のを使いて`9` カウンター、赤のを割りて`32` 星 ブロック.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を剥がして上の-左 青、緑 赤 `32` 星 タイル.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して上 `10`/`10` 角、左- 緑 `20` カウンター 開く 迷路 中央.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤のを割りて`32` 星 ブロック、オレンジ Ｌ字型 中央-右 ずらす.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "シアンのを使いて`1`/`3`/`8` 空きマス タイル — `1`、`3`、`8` —、黄 `1` タイル 手順.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "- 青 `15`、緑 `9`、シアン `5` カウンター 紫 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えてオレンジ -、下 白 `3` 積み 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "シアン `8` タイル、`1` — 箱 黄 `1` タイル 紫 .。",
+        "赤のを割りて`32` 星、緑 `9` カウンター、オレンジ Ｌ字型 右の壁.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/124/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル124 攻略と解説",
+    "description": "ブロックアウト レベル124 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

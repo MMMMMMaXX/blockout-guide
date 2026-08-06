@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-104",
+  "locale": "pt-br",
+  "levelNumber": 104,
+  "title": "Guia do nível 104 do Block Out",
+  "summary": "Block Out Nível 104 é gravity tabuleiro — verde-seta peças único caia para baixo, e corrente reactions ripple esquerda para direita como colunas colapse. perigo é limpando centro também cedo, antes que direita-coluna seta peças tem settled, que...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out Nível 104 é gravity tabuleiro — verde-seta peças único caia para baixo, e corrente reactions ripple esquerda para direita como colunas colapse. perigo é limpando centro também cedo, antes que direita-coluna seta peças tem settled, que cuts off final corrente reaction que sweeps tabuleiro limpo.",
+        "landmarks": [
+          "Block Out Nível 104 é gravity tabuleiro — verde-seta peças único caia para baixo, e corrente reactions ripple esquerda para direita como colunas colapse.",
+          "Perigo é limpando centro também cedo, antes que direita-coluna seta peças tem settled, que cuts off final corrente reaction que sweeps tabuleiro limpo.",
+          "Tabuleiro mistura Ciano, Verde, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["cyan", "green", "orange", "purple", "pink", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Halve esquerda parede antes que triggering centro correspondência corrente.",
+        "Seta peças não pode sidestep — eles precisa cheio abra coluna diretamente abaixo os.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior de esquerda empilhe através superior saídas para abra primeiro para baixo coluna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Puxe verde e ciano peças para fora de esquerda parede antes que tocando centro pares."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Trigger superior-meio correspondência corrente uma vez vertical lacuna corre abaixo ele (starburst ao redor 01:42)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use azul splash coluna para solte restante centro seta peças reto baixo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Sweep direita-lateral laranja e roxo seta peças através direita-parede saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine inferior-fileira rosa e azul singles depois grade é principalmente vazio."
+        }
+      ],
+      "failurePoints": [
+        "Correspondência centro aglomerado antes que esquerda parede é metade indo — direita-coluna seta peças então tem no solte pista.",
+        "Limpando inferior singles também cedo enquanto superior seta peças ainda bloco colunas acima os."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 104 do Block Out",
+    "description": "Resolva o nível 104 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

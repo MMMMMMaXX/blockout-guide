@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-65",
+  "locale": "zh-cn",
+  "levelNumber": 65,
+  "title": "Block Out 第65关攻略",
+  "summary": "Block Out 第65关是一个嵌套框拼图，有两层可见边框——深色外框和橙色内框——包裹着彩色方块核心。在两层框都打开之前，内部方块无法移动。先剥离外框……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "Block Out 第65关是一个嵌套框拼图，有两层可见边框——深色外框和橙色内框——包裹着彩色方块核心。在两层框都打开之前，内部方块无法移动。先抽出粉色和红色边缘方块剥离外框，再打破橙色内框，释放绿色、蓝色、紫色和红色方块。内框中带计数「10」的黄色方块最重，最后出口。",
+        "landmarks": [
+          "Block Out 第65关是一个嵌套框拼图，有两层可见边框——深色外框和橙色内框——包裹着彩色方块核心。",
+          "在两层框都打开之前，内部方块无法移动。",
+          "先抽出粉色和红色边缘方块剥离外框，再打破橙色内框，释放绿色、蓝色、紫色和红色方块。",
+          "内框中带计数「10」的黄色方块最重，最后出口。"
+        ],
+        "colors": ["purple", "green", "blue", "red", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在外框失去足够多的方块之前，不要碰内框。",
+        "黄色「10」方块需要宽阔的通道——为它的长程输送保持出口畅通。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将外框边缘的小号粉色/洋红色方块从就近出口拉出。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "抽出外框与内框之间左侧的红色方块。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "外框变薄后，打破橙色内框边框，释放核心方块。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将内框区左上角的紫色方块从左侧出口滑出。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "从中心经可用出口抽出绿色和蓝色方块。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "反复将黄色「10」方块送入其出口，直到完全清空。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "最后处理右侧剩余的红色方块。"
+        }
+      ],
+      "failurePoints": [
+        "试图让内部方块穿过仍未解封的边框——在两层都打开之前它们无法移动。",
+        "没有给黄色「10」方块留出足够的宽阔通道，导致收尾阶段缓慢而拥挤。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第65关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第65关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-118",
+  "locale": "de",
+  "levelNumber": 118,
+  "title": "Block Out Level 118 Lösung",
+  "summary": "Block Out Level 118 layers rot threshold bar über 6×6 Lego-textured Raster mit Seite-rail Zähler und star-patterned türkis pocket dass muss survive mittlere-run intact. Raster schiebt in rows — jede schieben ripples über alle six colu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/118/",
+        "layout": "Block Out Level 118 layers rot threshold bar über 6×6 Lego-textured Raster mit Seite-rail Zähler und star-patterned türkis pocket dass muss survive mittlere-run intact. Raster schiebt in rows — jede schieben ripples über alle six Spalten. Mitte rot Block schaut harmless, aber sliding es bevor rechts rail fällt … lassen buries star pocket unter verschiebend debris.",
+        "landmarks": [
+          "Block Out Level 118 layers rot threshold bar über 6×6 Lego-textured Raster mit Seite-rail Zähler und star-patterned türkis pocket dass muss survive mittlere-run intact.",
+          "Raster schiebt in rows — jede schieben ripples über alle six Spalten.",
+          "Mitte rot Block schaut harmless, aber sliding es bevor rechts rail fällt … lassen buries star pocket unter verschiebend debris."
+        ],
+        "colors": ["cyan", "green", "yellow", "red", "purple", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "W5Eeo1DQgt8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=W5Eeo1DQgt8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tu nicht split star-patterned türkis 3×3 pocket — es anchors links-Mitte schiebt.",
+        "Aufsparen rechts gelb L-cluster bis unten lila `2` Zähler appears.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Break obere türkis tetromino unter rot threshold bar ohne überquerend links `2` rail."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen links grün Spalte while keeping star-patterned türkis 3×3 pocket intact."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben unten rot nach unten-Pfeil Block durch Mitte nach links rail fällt … lassen zu `10`."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen rechts-rail `6` und `8` counts runter mit grün rechts-Pfeil Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen gelb L-cluster auf rechts nur nach unten lila `2` Zähler ist visible."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Ausgang letzte rot und gelb scraps durch öffnen nach unten Bahn für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Splitting star-patterned türkis pocket too früh, welche entfernt links-Mitte anchor.",
+        "Moving rechts gelb L-cluster bevor unten lila `2` Zähler ist visible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/118/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 118 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 118 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

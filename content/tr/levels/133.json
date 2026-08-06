@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-133",
+  "locale": "tr",
+  "levelNumber": 133,
+  "title": "Block Out Seviye 133 Rehberi",
+  "summary": "Block Out Seviye 133 arranges numaralı anahtar bloklar armsda T-şekilli tahta, ile merkez `13` omurga ve alt blast ızgara. yönlü oklar mavi aşağı doğru blok ve yeşil sağ-sök mark sadece legal çıkışlar. üst-le...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/133/",
+        "layout": "Block Out Seviye 133 arranges numaralı anahtar bloklar armsda T-şekilli tahta, ile merkez `13` omurga ve alt blast ızgara. yönlü oklar mavi aşağı doğru blok ve yeşil sağ-sök mark sadece legal çıkışlar. üst-sol macenta `7` alcove meli temizle önce uzun mavi `1` istifler ebilir kaydır — otherwise o bloklar merkez omurga's sadece drainage yol.",
+        "landmarks": [
+          "Block Out Seviye 133 arranges numaralı anahtar bloklar armsda T-şekilli tahta, ile merkez `13` omurga ve alt blast ızgara.",
+          "Yönlü oklar mavi aşağı doğru blok ve yeşil sağ-sök mark sadece legal çıkışlar.",
+          "Üst-sol macenta `7` alcove meli temizle önce uzun mavi `1` istifler ebilir kaydır — otherwise o bloklar merkez omurga's sadece drainage yol."
+        ],
+        "colors": ["cyan", "magenta", "green", "blue", "red", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lUJCT64KCKk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=lUJCT64KCKk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tut yeşil sol çubuk intact sırasında temizleyerek alt blast ızgara.",
+        "Sakla 1/10 çift kadar 9 karo kilidini açar alt flareda.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Pop üst camgöbeği 24 ve 21 karolar plus sol/sağ arm 17 ve 19 bloklar önce merkez 13 sütun düşer."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle alt renkli ızgara yeşil sol çubukdan outward, tutarak 1/10 çift mühürlendi için son kapı."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır merkez 13 omurga sonra her ikisi de arm alcoves boş, besleyerek 18 yan karo bele."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır mavi aşağı doğru-ok blok dar koridordan sonra sayaçlar küçült 12."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Detonate yeşil sağ-ok küme alt flareda sonra 9 karo kilidini açar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca alt 0/1 sayaçlar ve çıkış son macenta ve mavi artıklar için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Dropping merkez 13 omurga önce arm alcoves boş, mühürleyerek bel.",
+        "Hareket ettirerek yeşil sağ-ok küme önce 9 karo kilidini açar, tuzağa düşürerek 0/1 kapı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/133/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 133 Rehberi ve Çözümü",
+    "description": "Block Out seviye 133'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

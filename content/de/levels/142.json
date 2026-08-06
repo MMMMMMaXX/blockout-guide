@@ -1,0 +1,96 @@
+{
+  "id": "de-level-142",
+  "locale": "de",
+  "levelNumber": 142,
+  "title": "Block Out Level 142 Lösung",
+  "summary": "Block Out Level 142 ist keyhole tower dass thins progressively von dense obere body zu narrow stem, mit fixed `21` void marker verklemmt in Mitte. Three gerichtet Pfeil lanes — blau links, rot rechts, lila runter — sind onl...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "Block Out Level 142 ist keyhole tower dass thins progressively von dense obere body zu narrow stem, mit fixed `21` void marker verklemmt in Mitte. Three gerichtet Pfeil lanes — blau links, rot rechts, lila runter — sind nur exits. Tower muss shed weight von oben erste; schieben rechts-Seite türkis ring bevor obere body thins und `21` void stays buried unter collapsing Blöcke.",
+        "landmarks": [
+          "Block Out Level 142 ist keyhole tower dass thins progressively von dense obere body zu narrow stem, mit fixed `21` void marker verklemmt in Mitte.",
+          "Three gerichtet Pfeil lanes — blau links, rot rechts, lila runter — sind nur exits.",
+          "Tower muss shed weight von oben erste; schieben rechts-Seite türkis ring bevor obere body thins und `21` void stays buried unter collapsing Blöcke."
+        ],
+        "colors": ["red", "blue", "yellow", "purple", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Öffnen blau linke Bahn bevor touching rechts orange stapeln.",
+        "21 void Kachel never Züge — räumen around es, nicht durch es.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben blau hoch-Pfeil cap und rot/gelb obere band ohne verschiebend 21 void Kachel."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hinausführen obere scraps runter lila unten-Pfeil Bahn zu öffnen untere linke blau Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abziehen links lila/blau Spalte durch blau links-Pfeil Bahn, leaving void intact."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen rechts orange/gelb stapeln durch rot rechts-Pfeil Bahn once linke Seite ist öffnen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Break türkis ring around central gelb Block in mittlere-tower gap."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Schieben remaining blau und orange scraps ab untere base toward unten Pfeil."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ausgang endgültig scattered Blöcke für Block hinaus! Räumen."
+        }
+      ],
+      "failurePoints": [
+        "Eröffnungs- rechts orange Bahn bevor links blau Bahn thins, locking mittlere-tower stapeln.",
+        "Versuchen zu bewegen 21 void Kachel stattdessen von räumend Blöcke around es."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 142 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 142 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-23",
+  "locale": "pt-br",
+  "levelNumber": 23,
+  "title": "Guia do nível 23 do Block Out",
+  "summary": "Block Out Nível 23 é knot tabuleiro com dois emoldurado inferior caixas marcado `11` e `8`. Use superior azul pista e direita amarelo saída para untie curled centro caminho, então deixe dois chefe caixas caia uma vez knot é indo.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "Block Out Nível 23 é knot tabuleiro com dois emoldurado inferior caixas marcado `11` e `8`. Use superior azul pista e direita amarelo saída para untie curled centro caminho, então deixe dois chefe caixas caia uma vez knot é indo.",
+        "landmarks": [
+          "Block Out Nível 23 é knot tabuleiro com dois emoldurado inferior caixas marcado `11` e `8`.",
+          "Use superior azul pista e direita amarelo saída para untie curled centro caminho, então deixe dois chefe caixas caia uma vez knot é indo.",
+          "Tabuleiro mistura Azul, Amarelo, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untie centro antes que attacking inferior caixas.",
+        "Superior azul roteie é parte de opener, não closer.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente superior azul roteie primeiro so meio curl tem um less bloqueador."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use direita amarelo pista para puxe superior amarelo coluna longe de knot."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gire vermelho e roxo curl peças até central caminho é no mais longo fechado."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece encolhendo emoldurado `11` box uma vez esquerda metade de knot tem aberto."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe emoldurado `8` box caia depois direita metade tem também limpo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpo cima alto vermelho e amarelo colunas que were holding curl em coloque."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último azul superior roteie depois ambos inferior molduras são quase indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para vazio inferior emoldurado box enquanto centro curl é ainda apertado.",
+        "Ignorando direita amarelo saída e overworking único superior azul roteie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 23 do Block Out",
+    "description": "Resolva o nível 23 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

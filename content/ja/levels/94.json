@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-94",
+  "locale": "ja",
+  "levelNumber": 94,
+  "title": "ブロックアウト レベル94 攻略",
+  "summary": "ブロックアウト レベル94は4部屋のカスケードです：上部に「14」と「18」、中央を通る横の「6」の棒、右下に隠れた「3」のポケット。まず下部の雑然とした部分を開け、「3」と「6」の部屋を次に回収し、それからだけ…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "ブロックアウト レベル94は4部屋のカスケードです：上部に「14」と「18」、中央を通る横の「6」の棒、右下に隠れた「3」のポケット。まず下部の雑然とした部分を開け、「3」と「6」の部屋を次に回収し、それからだけ長い「14」と「18」の供給に落ち着きます。",
+        "landmarks": [
+          "ブロックアウト レベル 94 -部屋 : `14`、`18` 上、`6` 棒 中央の、- `3` 空きマス 下の-右.。",
+          "を開きて下の、を回収して`3`、`6` 部屋、`14`、`18` .。",
+          "混ぜる 紫、赤、緑、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "下の-右 `3` 空きマス . .。",
+        "`6` 棒、`18` 部屋 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して下の-左、ロックする/鍵、赤-緑 積み 周りを 下 部屋.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を開きて、を排出して下の-右 `3` 部屋、右 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を減らして中央の `6` 部屋、開き 下の レーン 維持する 横切る-レーン 消去する.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を始めて上の-左 `14` 部屋、下の レーン.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を取っておきて上の-右 `18` 部屋 - 通す、シアン -、紫 下 動かし 脇.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えてシアン、紫、`18` 部屋 .。"
+        }
+      ],
+      "failurePoints": [
+        "を無視して下の-右 `3` 空きマス、レベル 94 部屋.。",
+        "開始 `18` 部屋 中央の `6` 棒 レーン.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル94 攻略と解説",
+    "description": "ブロックアウト レベル94 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-106",
+  "locale": "de",
+  "levelNumber": 106,
+  "title": "Block Out Level 106 Lösung",
+  "summary": "Block Out Level 106 ist compartment maze where pocket Zähler hide inside lila walls und one-way nach oben-Pfeil Bahn runs durch Mitte. Numbered Kacheln sind real objectives, nicht labels — jede pocket muss drain bevor nächste...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "Block Out Level 106 ist compartment maze where pocket Zähler hide inside lila walls und one-way nach oben-Pfeil Bahn runs durch Mitte. Numbered Kacheln sind real objectives, nicht labels — jede pocket muss drain bevor nächste Wand öffnet. Unten conveyor Reihe führt hinaus whole system, und pulling es too früh collapses Mitte channel while obere pockets sind still live.",
+        "landmarks": [
+          "Block Out Level 106 ist compartment maze where pocket Zähler hide inside lila walls und one-way nach oben-Pfeil Bahn runs durch Mitte.",
+          "Numbered Kacheln sind real objectives, nicht labels — jede pocket muss drain bevor nächste Wand öffnet.",
+          "Unten conveyor Reihe führt hinaus whole system, und pulling es too früh collapses Mitte channel while obere pockets sind still live."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mitte nach oben-Pfeil Bahn ist main hinausführen ansteuern — tu nicht Block es mit unten Reihe.",
+        "Wait für rechts-pocket rot `1`/`2` pair zu räumen bevor dropping unten conveyor Reihe.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben obere linke grün/gelb/blau cluster in Mitte nach oben-Pfeil Bahn."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen türkis `8` und blau `10` Kacheln von obere-mittlere pocket."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abziehen obere rechte rot `12` und `14` stapeln once Mitte channel ist fully öffnen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden highlighted blau `4` Kachel mittlere-run zu unlock mittlere-links isolated pocket."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Fallen lassen unten horizontal Reihe nur nach rechts-pocket rot `1` und `2` Kacheln sind gone."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit unten-tray triangle Bauteil und close Zähler `5`, `2`, und `8`."
+        }
+      ],
+      "failurePoints": [
+        "Pulling unten conveyor Reihe bevor rechts-pocket rot `1`/`2` pair räumt — dieses seals maze.",
+        "Rushing gelb `16` Kachel bevor türkis `8` und blau `10` pockets sind empty."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 106 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 106 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

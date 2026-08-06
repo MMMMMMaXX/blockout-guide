@@ -1,0 +1,91 @@
+{
+  "id": "es-level-84",
+  "locale": "es",
+  "levelNumber": 84,
+  "title": "Guía de Block Out Nivel 84",
+  "summary": "Block Out nivel 84 es un nivel Hard con three massive morado bloques bearing the highest contadores en the 50-100 range: '12', '21', y '23'. Naranja marco borders create cámara partitions alrededor los, con de color bloques packed entre th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out nivel 84 es un nivel Hard con three massive morado bloques bearing the highest contadores en the 50-100 range: '12', '21', y '23'. Naranja marco borders create cámara partitions alrededor los, con de color bloques packed entre el cámaras. Elimina the pequeño bloques primero a abierto feeding carriles, luego feed the morado bloques en ascending contador orden — '12' primero, '21' second, '23' último.",
+        "landmarks": [
+          "Block Out nivel 84 es un nivel Hard con three massive morado bloques bearing the highest contadores en the 50-100 range: '12', '21', y '23'.",
+          "Naranja marco borders create cámara partitions alrededor los, con de color bloques packed entre el cámaras.",
+          "Elimina the pequeño bloques primero a abierto feeding carriles, luego feed the morado bloques en ascending contador orden — '12' primero, '21' second, '23' último."
+        ],
+        "colors": ["morado", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Introduce morado bloques en ascending contador orden: '12' primero, '21' second, '23' último.",
+        "Mantén the '23' bloque's salida carril despejado desde the start — never let other bloques drift en su camino.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the pequeño de color bloques entre the morado cámaras por lado salidas."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Extract el contador '5' bloque early."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza feeding the morado '12' bloque primero — lo es the más claro."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Introduce the morado '21' bloque once the '12' has shrunk enough a share el carril."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Ahorra the morado '23' bloque para último — lo needs el carril widest y most pasadas."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina restante cámara fragments después todos morado bloques son gone."
+        }
+      ],
+      "failurePoints": [
+        "Trying a feed the '23' bloque antes the más claro morado bloques have reduced — el carriles son too narrow.",
+        "Leaving de color bloques en el carril feeding, que forces the morado bloques a detour."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 84",
+    "description": "Resuelve Block Out nivel 84 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

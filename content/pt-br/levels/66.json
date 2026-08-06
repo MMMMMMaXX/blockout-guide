@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-66",
+  "locale": "pt-br",
+  "levelNumber": 66,
+  "title": "Guia do nível 66 do Block Out",
+  "summary": "Block Out Nível 66 empacota 5×7 grade com grande azul '13' bloco em superior, numerado azul blocos com contadores '5' em meio, e direcional seta blocos em lados. numerado blocos deve saída através seus saídas enquanto sid...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/66/",
+        "layout": "Block Out Nível 66 empacota 5×7 grade com grande azul '13' bloco em superior, numerado azul blocos com contadores '5' em meio, e direcional seta blocos em lados. numerado blocos deve saída através seus saídas enquanto lateral blocos são constrained para um direção. Limpar inferior primeiro, então funciona numerado blocos para cima.",
+        "landmarks": [
+          "Block Out Nível 66 empacota 5×7 grade com grande azul '13' bloco em superior, numerado azul blocos com contadores '5' em meio, e direcional seta blocos em lados.",
+          "Numerado blocos deve saída através seus saídas enquanto lateral blocos são constrained para um direção.",
+          "Limpar inferior primeiro, então funciona numerado blocos para cima."
+        ],
+        "colors": ["blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "WMLdROI6Sz8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=WMLdROI6Sz8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'13' bloco é marathon — limpar menor numerado blocos primeiro para construa espaço.",
+        "Assista numerado contadores. Eles decrease como blocos saída, showing seu progresso.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar amarelo e azul blocos em inferior através direita saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque verde blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece limpando numerado azul blocos em meio através seus saídas — contadores decrease como eles saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar vermelho blocos em direita através direita saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Tackle grande azul '13' bloco em superior — ele precisa 13 saídas para totalmente limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar '13' bloco antes que menor numerado blocos — ele precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando superior antes que inferior, que deixa inferior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/66/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 66 do Block Out",
+    "description": "Resolva o nível 66 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

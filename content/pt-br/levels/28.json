@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-28",
+  "locale": "pt-br",
+  "levelNumber": 28,
+  "title": "Guia do nível 28 do Block Out",
+  "summary": "Block Out Nível 28 é empilhado câmara quebra-cabeça com superior `6` chefe e inferior `2` chefe. Abra inferior espaço primeiro, colapse `2` painel próximo, e deixe superior `6` caia único depois câmara é já turning.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "Block Out Nível 28 é empilhado câmara quebra-cabeça com superior `6` chefe e inferior `2` chefe. Abra inferior espaço primeiro, colapse `2` painel próximo, e deixe superior `6` caia único depois câmara é já turning.",
+        "landmarks": [
+          "Block Out Nível 28 é empilhado câmara quebra-cabeça com superior `6` chefe e inferior `2` chefe.",
+          "Abra inferior espaço primeiro, colapse `2` painel próximo, e deixe superior `6` caia único depois câmara é já turning.",
+          "Tabuleiro mistura Azul, Rosa, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Resolva inferior `2` antes que superior `6`.",
+        "Inferior câmara é fase-um workspace.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Gire inferior câmara primeiro e comece descascando azul e rosa longe através lateral pistas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use que novo espaço para comece encolhendo emoldurado `2` chefe."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha superior `6` painel estacionado enquanto inferior câmara é ainda cheio."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez `2` moldura é quase indo, deixe superior `6` finalmente comece para caia."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use tarde vermelho e amarelo peças para stop inferior câmara de refilling."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine lateral saídas depois superior chefe é já low."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termina com último inferior cores uma vez ambos chefes são indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para inferior `6` painel antes que `2` chefe tem aberto.",
+        "Deixando inferior câmara cheio depois primeiro saídas são disponível."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 28 do Block Out",
+    "description": "Resolva o nível 28 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

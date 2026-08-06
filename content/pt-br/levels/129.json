@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-129",
+  "locale": "pt-br",
+  "levelNumber": 129,
+  "title": "Guia do nível 129 do Block Out",
+  "summary": "Block Out Nível 129 é Super Difícil dois-fase quebra-cabeça — primeiro metade é container-alimente empacotando tabuleiro, segundo metade transforms em vermelho cruz deslizando através stepped roxo parede segmentos. Vazio superior container enquanto seu contador...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/129/",
+        "layout": "Block Out Nível 129 é Super Difícil dois-fase quebra-cabeça — primeiro metade é container-alimente empacotando tabuleiro, segundo metade transforms em vermelho cruz deslizando através stepped roxo parede segmentos. Vazio superior container enquanto seu contador solta de `4`, então navigate vermelho cruz através increasingly estreito gaps. Force ciano `2` peça cedo e ele pins cruz contra parede mid-deslize.",
+        "landmarks": [
+          "Block Out Nível 129 é Super Difícil dois-fase quebra-cabeça — primeiro metade é container-alimente empacotando tabuleiro, segundo metade transforms em vermelho cruz deslizando através stepped roxo parede segmentos.",
+          "Vazio superior container enquanto seu contador solta de `4`, então navigate vermelho cruz através increasingly estreito gaps.",
+          "Force ciano `2` peça cedo e ele pins cruz contra parede mid-deslize."
+        ],
+        "colors": ["purple", "blue", "red", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Qhu6W_7y5o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Qhu6W_7y5o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cada container contador deve hit zero antes que vermelho cruz fase começa.",
+        "Ciano `2` peça em longe direita é trap se movido antes que vermelho aglomerado limpa.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar esquerda roxo `5` coluna e azul `8` bloco sem jamming inferior `5` container."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Alimente correspondência inferior-grade cores em inferior laranja-bordered `5` fenda, então funciona superior `21` container."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre vermelho/amarelo/verde mid-grade aglomerados uma vez direita-trilho `3` contadores fino."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar denso multicolor meio fase antes que tabuleiro abre para cruz quebra-cabeça."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize vermelho mais peça past superior stepped roxo parede, então past inferior roxo ledge."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Solte vermelho cruz sobre inferior vermelho seta indicator para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Inicial vermelho cruz fase enquanto superior container ainda mostra número — stepped paredes permaneça trancado.",
+        "Movendo ciano `2` peça antes que vermelho aglomerado em direita é limpo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/129/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 129 do Block Out",
+    "description": "Resolva o nível 129 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

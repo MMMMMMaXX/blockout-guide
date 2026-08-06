@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-38",
+  "locale": "ko",
+  "levelNumber": 38,
+  "title": "블록 아웃 레벨 38 공략",
+  "summary": "블록 아웃 레벨 38은 세 개의 파란색 `2` 블록, 분홍색 `15` 블록, 보라색 `6` 장치로 된 구조화된 뚜껑 아래 묻힌 `12` 보스 방을 가지고 있습니다. 뚜껑에는 고유한 내부 순서가 있습니다 — 파란색 `2`는 빠르고, 장치는 중간이며, 분홍색 `15`는 느립니다 — 보스가 떨어지려면 조각별로 해체해야 합니다. 보스가 01:33 부근에서 떨어진 뒤에는 빨간색, 분홍색, 녹색, 파란색 블록의 덩어리가 쏟아져 두 번째 정렬 단계로 이어집니다.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "블록 아웃 레벨 38은 세 개의 파란색 `2` 블록, 분홍색 `15` 블록, 보라색 `6` 장치로 된 구조화된 뚜껑 아래 묻힌 `12` 보스 방을 가지고 있습니다. 뚜껑에는 고유한 내부 순서가 있습니다 — 파란색 `2`는 빠르고, 장치는 중간이며, 분홍색 `15`는 느립니다 — 보스가 떨어지려면 조각별로 해체해야 합니다. 보스가 01:33 부근에서 떨어진 뒤에는 빨간색, 분홍색, 녹색, 파란색 블록의 덩어리가 쏟아져 두 번째 정렬 단계로 이어집니다.",
+        "landmarks": [
+          "블록 아웃 레벨 38은 세 개의 파란색 `2` 블록, 분홍색 `15` 블록, 보라색 `6` 장치로 된 구조화된 뚜껑 아래 묻힌 `12` 보스 방을 가지고 있습니다.",
+          "뚜껑에는 고유한 내부 순서가 있습니다 — 파란색 `2`는 빠르고, 장치는 중간이며, 분홍색 `15`는 느립니다 — 보스가 떨어지려면 조각별로 해체해야 합니다.",
+          "보스가 01:33 부근에서 떨어진 뒤에는 빨간색, 분홍색, 녹색, 파란색 블록의 덩어리가 쏟아져 두 번째 정렬 단계로 이어집니다."
+        ],
+        "colors": ["blue", "pink", "purple", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "뚜껑에는 자체 순서가 있습니다. 파란색 `2` 먼저(빠름), 보라색 장치 다음(중간), 분홍색 `15` 마지막(느림).",
+        "01:33의 쏟아짐을 지켜보세요 — 측면 차선이 준비되지 않으면 드러난 블록이 방을 막습니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "가장 빠른 뚜껑 감소인 맨 위 행의 세 파란색 `2` 블록을 먼저 치우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "노란색 블록을 자신의 게이트로 보내 위쪽 왼쪽의 보라색 `6` 장치를 서비스하세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "파란색 블록이 사라졌으니 이제 위쪽 오른쪽의 분홍색 `15` 블록을 가늘게 하기 시작하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "뚜껑이 가늘어지며(01:42 부근에 보임) 보스 카운터가 `8`을 통해 떨어지는 것을 지켜보세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "보스가 떨어질 때 드러난 블록이 갈 곳이 있도록 측면 차선을 여세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "뚜껑이 대부분 사라지면 `12` 보스가 무너지게 하세요 — 쏟아짐은 01:33 부근입니다."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "드러난 빨간색, 분홍색, 녹색, 파란색 블록을 측면과 아래쪽 출구로 정렬해 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "파란색 `2` 블록을 건너뛰고 분홍색 `15`로 곧장 가는 것 — 뚜껑이 너무 두꺼워 보스가 움직이지 않습니다.",
+        "보스가 01:33에 떨어질 때 측면 차선이 열려 있지 않은 것, 그러면 드러난 블록이 갈 곳 없이 쌓입니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 38 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 38을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

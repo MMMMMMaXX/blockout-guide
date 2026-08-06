@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-65",
+  "locale": "pt-br",
+  "levelNumber": 65,
+  "title": "Guia do nível 65 do Block Out",
+  "summary": "Block Out Nível 65 é nested-moldura quebra-cabeça com dois visível moldura camadas — escuro externo moldura e laranja interno moldura — wrapping core de colorido blocos. blocos dentro não pode mova até ambos molduras abra. Descasque externo moldura firs...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "Block Out Nível 65 é nested-moldura quebra-cabeça com dois visível moldura camadas — escuro externo moldura e laranja interno moldura — wrapping core de colorido blocos. blocos dentro não pode mova até ambos molduras abra. Descasque externo moldura primeiro por extraindo rosa e vermelho borda peças, então quebre interno laranja moldura para livre verde, azul, roxo, e vermelho blocos. amarelo bloco com contador '10' dentro interno moldura é heaviest peça e saídas último.",
+        "landmarks": [
+          "Block Out Nível 65 é nested-moldura quebra-cabeça com dois visível moldura camadas — escuro externo moldura e laranja interno moldura — wrapping core de colorido blocos.",
+          "Blocos dentro não pode mova até ambos molduras abra.",
+          "Descasque externo moldura primeiro por extraindo rosa e vermelho borda peças, então quebre interno laranja moldura para livre verde, azul, roxo, e vermelho blocos.",
+          "Amarelo bloco com contador '10' dentro interno moldura é heaviest peça e saídas último."
+        ],
+        "colors": ["purple", "green", "blue", "red", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do não touch interno moldura até externo moldura tem lost suficiente peças.",
+        "Amarelo '10' bloco precisa largo pistas — mantenha saídas limpar para seu longo alimente.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Puxe pequeno rosa/magenta blocos de externo moldura bordas através nearby saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia vermelho blocos em esquerda lateral entre externo e interno molduras."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Uma vez externo moldura afina, quebre interno laranja moldura borda para livre core blocos."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deslize roxo bloco de superior-esquerda de interno área através esquerda saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Extraia verde e azul blocos de centro através disponível saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente amarelo '10' bloco através seu saída repeatedly até totalmente limpo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com restante vermelho blocos em direita lateral."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para force interno blocos através ainda-vedado moldura — eles não pode mova até ambos camadas abra.",
+        "Não deixando largo suficiente pistas para amarelo '10' bloco, que causas lento e apertado endgame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 65 do Block Out",
+    "description": "Resolva o nível 65 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

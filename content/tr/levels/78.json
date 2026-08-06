@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-78",
+  "locale": "tr",
+  "levelNumber": 78,
+  "title": "Block Out Seviye 78 Rehberi",
+  "summary": "Block Out Seviye 78 barındırır büyük renkli bloklar dikdörtgene tahta ile dark kanal paths constraining movement. üst yarı holds büyük yeşil, mavi, ve kırmızı bloklar. daha düşük merkez sarı/turuncu çerçeveli blok ile sayaç...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "Block Out Seviye 78 barındırır büyük renkli bloklar dikdörtgene tahta ile dark kanal paths constraining movement. üst yarı holds büyük yeşil, mavi, ve kırmızı bloklar. daha düşük merkez sarı/turuncu çerçeveli blok ile sayaç '3' flanked ile mor bloklar. temizle üst yarı ilk açık kanala routes, extract mor flanking bloklar, sonra besle çerçeveli blok onun çıkışdan üç times.",
+        "landmarks": [
+          "Block Out Seviye 78 barındırır büyük renkli bloklar dikdörtgene tahta ile dark kanal paths constraining movement.",
+          "Üst yarı holds büyük yeşil, mavi, ve kırmızı bloklar.",
+          "Daha düşük merkez sarı/turuncu çerçeveli blok ile sayaç '3' flanked ile mor bloklar.",
+          "Temizle üst yarı ilk açık kanala routes, extract mor flanking bloklar, sonra besle çerçeveli blok onun çıkışdan üç times."
+        ],
+        "colors": ["green", "blue", "red", "cyan", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle üst yarı completely önce deneyerek besle sayaç '3' blok.",
+        "Kanal paths zorla specific routes — plan senin extraction tuta şeritler temizle.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Extract yeşil bloklar üst-sol üstden ve sol çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Çek mavi bloklar üst-sağ sağ çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır kırmızı bloklar merkezden serbest bırakıldı üst routes."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle mor bloklar flanking daha düşük merkez açık şeritlere için çerçeveli blok."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle sarı/turuncu çerçeveli blok (sayaç '3') onun çıkışdan üç times."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile kalan mor blok altda."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek besle sayaç '3' blok önce üst yarı temizle — kanallar sıkış.",
+        "Bırakarak mor flanking bloklar yerleştirde sırasında attempting yönlendir çerçeveli blok."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 78 Rehberi ve Çözümü",
+    "description": "Block Out seviye 78'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-35",
+  "locale": "zh-cn",
+  "levelNumber": 35,
+  "title": "Block Out 第 35 关通关攻略",
+  "summary": "Block Out 第 35 关是一个装置门拼图，房间基本为空。左侧一个紫色 `8` 装置和右侧一个绿色 `7` 装置跟踪出口流量，而你经红色右侧出口和蓝色底部出口运送方块的顺序决定了下一批……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "Block Out 第 35 关是一个装置门拼图，房间基本为空。左侧一个紫色 `8` 装置和右侧一个绿色 `7` 装置跟踪出口流量，而你经红色右侧出口和蓝色底部出口运送方块的顺序决定了接下来生成哪些方块。房间起初稀疏，但若以错误顺序使用出口便会迅速填满——务必始终保留一条通道以备下一批生成。",
+        "landmarks": [
+          "Block Out 第 35 关是一个装置门拼图，房间基本为空。左侧的紫色 `8` 装置和右侧的绿色 `7` 装置追踪出口流量，而你让方块通过红色右出口和蓝色底部出口的先后顺序，决定了接下来会生成什么方块。房间起初稀疏，但如果出口使用顺序错误就会迅速填满——始终保留一条通道给下一次生成。",
+          "左侧的紫色 `8` 装置和右侧的绿色 `7` 装置追踪出口流量，而你让方块通过红色右出口和蓝色底部出口的先后顺序，决定了接下来会生成什么方块。",
+          "房间起初稀疏，但如果出口使用顺序错误就会迅速填满——始终保留一条通道给下一次生成。"
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "房间看起来简单，因为它起初基本为空，但每个出口都会生成新方块——保留一条空闲通道。",
+        "先处理右侧的绿色 `7` 装置，再处理左侧的紫色 `8`。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把红色 L 形方块滑向右墙出口，以先服务绿色 `7` 装置。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在红色方块清空后，把黄色长条移向底部蓝色出口。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "用中央深色方块作为间隔块，防止生成的后续方块堵住出口。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "通过紫色 `8` 装置的门路由下一块生成的方块，从而服务左侧的紫色 `8` 装置。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "随着新方块生成，继续在右侧和底部出口之间交替。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "始终保留一条空闲通道——锁死风险在视频 00:52 处可见。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个装置计数都归零且不再生成方块后，用最后的彩色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧红色出口被服务之前就使用底部蓝色出口，会生成错误的后续方块并打乱装置顺序。",
+        "让生成的方块填满最后一条空闲通道——一旦房间满了，就没有恢复走法。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 35 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 35 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

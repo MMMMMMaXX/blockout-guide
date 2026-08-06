@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-88",
+  "locale": "zh-cn",
+  "levelNumber": 88,
+  "title": "Block Out 第88关攻略",
+  "summary": "Block Out 第88关是一个沙漏形棋盘，有蓝色中心脊梁、其下悬挂的红色之字形，以及两侧墙上的成对紫色锁舱。从右上堆叠开始，第二步清侧锁，之后才将橙色横梁和中心脊梁经喉部落入下方水池。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out 第88关是一个沙漏形棋盘，有蓝色中心脊梁、其下悬挂的红色之字形，以及两侧墙上的成对紫色锁舱。从右上堆叠开始，第二步清侧锁，之后才将橙色横梁和中心脊梁经喉部落入下方水池。",
+        "landmarks": [
+          "Block Out 第88关是一个沙漏形棋盘，有蓝色中心脊梁、其下悬挂的红色之字形，以及两侧墙上的成对紫色锁舱。",
+          "从右上堆叠开始，第二步清侧锁，之后才将橙色横梁和中心脊梁经喉部落入下方水池。",
+          "棋盘混合了绿色、红色、橙色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "不要从底部水池开始。这个棋盘从颈部向下打开。",
+        "只要墙上还有一个锁舱，蓝色脊梁就还没准备好落下。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "先削减右上堆叠，让右墙打开，其外侧计数开始下降。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "利用这块新空间释放右侧紫色锁舱，再清空左侧墙上相匹配的锁舱。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "只有在蓝色中心脊梁有一侧腾空后，才将长橙色横梁横过喉部。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将蓝色脊梁和红色之字形经颈部落入下方水池。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "中心方块让开后，清空左下角的橙色跑道和对面的橙色托盘。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后通过已打开的侧通道，用最后的紫色弯头以及左上角的绿黄方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在右上堆叠和两侧锁舱打开颈部之前，就从底部橙色托盘开始。",
+        "在蓝色中心脊梁仍被两侧夹住时移动橙色横梁。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第88关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第88关。"
+  },
+  "updatedAt": "2026-08-03"
+}

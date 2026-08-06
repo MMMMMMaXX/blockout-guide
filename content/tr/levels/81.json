@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-81",
+  "locale": "tr",
+  "levelNumber": 81,
+  "title": "Block Out Seviye 81 Rehberi",
+  "summary": "Block Out Seviye 81 istifler dolu-width renkli yatay çubuklar uzun, dar tahta. yeşil çubuk ile sayaç '1' oturur üstde, followed ile mavi, kırmızı, ve yeşil çubuklar, sonra büyük sarı/turuncu blok sağ yanda. kilitlen blok w...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out Seviye 81 istifler dolu-width renkli yatay çubuklar uzun, dar tahta. yeşil çubuk ile sayaç '1' oturur üstde, followed ile mavi, kırmızı, ve yeşil çubuklar, sonra büyük sarı/turuncu blok sağ yanda. kilitlen blok ile sayaç '2' kapılar merkez, ve alt holds heavy bloklar ile sayaçlar '10' ve '5'. soy çubuklar üstden aşağı, temizle merkez kilitlen, sonra besle heavy alt bloklar son.",
+        "landmarks": [
+          "Block Out Seviye 81 istifler dolu-width renkli yatay çubuklar uzun, dar tahta.",
+          "Yeşil çubuk ile sayaç '1' oturur üstde, followed ile mavi, kırmızı, ve yeşil çubuklar, sonra büyük sarı/turuncu blok sağ yanda.",
+          "Kilitlen blok ile sayaç '2' kapılar merkez, ve alt holds heavy bloklar ile sayaçlar '10' ve '5'.",
+          "Soy çubuklar üstden aşağı, temizle merkez kilitlen, sonra besle heavy alt bloklar son."
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Soy strictly üstden aşağı — dolu-width çubuklar cannot kaydır sideways.",
+        "Temizle kilitlen blok merkez öncede attempting any daha düşük-yarı çubuk.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır yeşil çubuk (sayaç '1') üstde üst çıkışdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract mavi çubuk altında o üst çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Çek kırmızı çubuk sonraki, continuing yukarıdan aşağıya soy."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kilitlen blok ile sayaç '2' merkezde-sol kilidini aç daha düşük istifler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yönlendir büyük sarı/turuncu blok dışarı widenedden mid-bölüm."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle alt bloklar (sayaçlar '10' ve '5') alt çıkışlardan."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek skipe çubuk istiflerde — dolu-width çubuklar blok everything altında onları.",
+        "Attempting alt bloklar önce kilitlen blok temizlendi, hangi bırakır daha düşük yarı mühürlendi."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 81 Rehberi ve Çözümü",
+    "description": "Block Out seviye 81'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

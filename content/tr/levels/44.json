@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-44",
+  "locale": "tr",
+  "levelNumber": 44,
+  "title": "Block Out Seviye 44 Rehberi",
+  "summary": "Block Out Seviye 44 etiketli 'zor Level' ve içerir merkezi `5` ana blok kare oturarak foundationda sıra dört `5`-sayaç bloklar altda. üstünde ana blok, küçük-sayaç bloklar (camgöbeği `1`, `3` blok) ve mor cihaz meli...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out Seviye 44 etiketli 'zor Level' ve içerir merkezi `5` ana blok kare oturarak foundationda sıra dört `5`-sayaç bloklar altda. üstünde ana blok, küçük-sayaç bloklar (camgöbeği `1`, `3` blok) ve mor cihaz meli temizlendi ilk ver ana blok dikey alan. alt `5` sıra ve ana blok çökert coordinationda — ana blok pushes aşağı foundation thins. pembe bloklar sağda geç-aşama temizlik.",
+        "landmarks": [
+          "Block Out Seviye 44 etiketli 'zor Level' ve içerir merkezi `5` ana blok kare oturarak foundationda sıra dört `5`-sayaç bloklar altda.",
+          "Üstünde ana blok, küçük-sayaç bloklar (camgöbeği `1`, `3` blok) ve mor cihaz meli temizlendi ilk ver ana blok dikey alan.",
+          "Alt `5` sıra ve ana blok çökert coordinationda — ana blok pushes aşağı foundation thins.",
+          "Pembe bloklar sağda geç-aşama temizlik."
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Üst sayaçlar (`1` ve `3`) küçük ama onlar kapı tüm tahta — temizle onları ilk.",
+        "Ana blok ve alt `5` sıra çökert birlikte, böylece değil dene temizle foundation independently.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle camgöbeği `1`-sayaç blok üstde oluştur ilk açarak üstünde ana blok."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Service mor cihaz üst tahtada."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaldır `3`-sayaç blok genişlete üst alan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla dropping merkezi `5` ana blok sonra üst alan açık."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak dört `5` bloklar alt ince ana blok pushes aşağı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle pembe bloklar sağ yanda geç-aşama renk."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kalan alt bloklar ve yan çıkışlar sonra ana blok gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek düşür `5` ana blok önce üst `1` ve `3` sayaçlar temizlendi — ana blok hayır alan hareket ettir ve üst alan kalır mühürlendi.",
+        "Disturbing alt `5` sıra önce ana blok başladı dropping, hangi removes destek ama bırakır ana blok sıkıştı üstünde ile hayır yol aşağı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 44 Rehberi ve Çözümü",
+    "description": "Block Out seviye 44'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

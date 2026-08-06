@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-50",
+  "locale": "fr",
+  "levelNumber": 50,
+  "title": "Guide Block Out Niveau 50",
+  "summary": "Block Out Niveau 50 est directional slider finale — non bosses, non compteurs, non devices. Haut arrow blocs packed dans trois colonnes peut seulement glissez dans direction leur arrow points: bleu et barres jaune allez haut, blocs vert allez bas, r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Block Out Niveau 50 est directional slider finale — non bosses, non compteurs, non devices. Haut arrow blocs packed dans trois colonnes peut seulement glissez dans direction leur arrow points: bleu et barres jaune allez haut, blocs vert allez bas, barres rouge allez gauche ou droite, et violet pushers fill bords. résolvez est à propos de acheminez ordre: libérez one vertical voie premier, utilisez rouge horizontal barres comme traffic controllers (pas obstacles), et économisez vert et pièces violet pour après big barres ont cleared.",
+        "landmarks": [
+          "Block Out Niveau 50 est directional slider finale — non bosses, non compteurs, non devices.",
+          "Haut arrow blocs packed dans trois colonnes peut seulement glissez dans direction leur arrow points: bleu et barres jaune allez haut, blocs vert allez bas, barres rouge allez gauche ou droite, et violet pushers fill bords.",
+          "Résolvez est à propos de acheminez ordre: libérez one vertical voie premier, utilisez rouge horizontal barres comme traffic controllers (pas obstacles), et économisez vert et pièces violet pour après big barres ont cleared."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rouge horizontal barres sont traffic controllers, pas obstacles — gardez one dans reserve jusqu'à verticals sont mostly gone.",
+        "Libérez one long vertical voie premier. pas dégagez les deux barres rouge immediately.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Libérez premier long vertical voie par sliding one bleu ou barre jaune haut et hors."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez que opened voie à décalez another jaune ou bleu arrow block out de stack."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez le côté droit de overfilling pendant premier rouge horizontal barre slides hors."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Ouvrez second long voie seulement après premier côté est calmer."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Relâchez vert bas-arrow blocs après vertical blockers sont thinner."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Utilisez violet poussez blocs tardif, une fois big barres sont déjà gone."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier rouge ou pièce vert après salle est mostly videz."
+        }
+      ],
+      "failurePoints": [
+        "Removing les deux rouge horizontal barres avant vertical voies sont prêt — ce removes votre traffic control et le côté droit overfills.",
+        "Essayant à glissez vert bas-arrow bloc avant vertical barres au-dessus il ont cleared, qui jams colonne."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 50",
+    "description": "Résolvez le niveau 50 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

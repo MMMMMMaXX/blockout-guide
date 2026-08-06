@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-4",
+  "locale": "fr",
+  "levelNumber": 4,
+  "title": "Guide Block Out Niveau 4",
+  "summary": "Block Out Niveau 4 est deux phases rayé plateau. Dégagez inférieur droit sortie blanc et le bas barre menthe premier, démontez blanc-et-noir blocker échelle sur la droite, et seulement alors relâchez long coloré barres.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "Block Out Niveau 4 est deux phases rayé plateau. Dégagez inférieur droit sortie blanc et le bas barre menthe premier, démontez blanc-et-noir blocker échelle sur la droite, et seulement alors relâchez long coloré barres.",
+        "landmarks": [
+          "Block Out Niveau 4 est deux phases rayé plateau.",
+          "Dégagez inférieur droit sortie blanc et le bas barre menthe premier, démontez blanc-et-noir blocker échelle sur la droite, et seulement alors relâchez long coloré barres.",
+          "Le plateau mélange rouge, jaune et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Inférieur droit sortie blanc est real starter.",
+        "Bas barre menthe est seulement long barre vous doit relâchez avant la droite échelle collapses.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Laissez tomber petit bloc blanc dans le coin inférieur droit à travers la sortie blanc."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez le bas barre menthe à la droite et dégagez il à travers son correspondant côté porte."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Laissez nearest noir blocker tombe dans floor voie, alors utilisez nouveau gap à pelez suivant blanc blockers bas le bord droit et hors à travers la porte blanc."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Gardez repeating que droite-bord cleanup jusqu'à blanc-et-noir échelle est mostly gone et long barres sur la gauche ont salle à travel."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Relâchez la barre bleu, alors la barre vert, et alors restant abaissez warm barres une fois leur correspondant droite-côté portes sont ouvrez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Économisez supérieur barre jaune pour penultimate déplacez."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par sliding le haut barre rouge à travers à rouge côté porte."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à fire long barre bleu avant la droite-côté blocker échelle a collapsed.",
+        "Ignoring le bas barre menthe et laissant floor voie sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 4",
+    "description": "Résolvez le niveau 4 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

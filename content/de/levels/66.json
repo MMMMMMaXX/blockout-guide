@@ -1,0 +1,91 @@
+{
+  "id": "de-level-66",
+  "locale": "de",
+  "levelNumber": 66,
+  "title": "Block Out Level 66 Lösung",
+  "summary": "Block Out Level 66 packs 5×7 Raster mit large blau '13' Block bei oben, numbered blau Blöcke mit Zähler '5' in mittlere, und gerichtet Pfeil-Blöcke auf sides. Numbered Blöcke muss Ausgang durch ihr gates while sid...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/66/",
+        "layout": "Block Out Level 66 packs 5×7 Raster mit large blau '13' Block bei oben, numbered blau Blöcke mit Zähler '5' in mittlere, und gerichtet Pfeil-Blöcke auf sides. Numbered Blöcke muss Ausgang durch ihr gates while Seite Blöcke sind constrained zu one direction. Räumen unten erste, dann arbeiten numbered Blöcke nach oben.",
+        "landmarks": [
+          "Block Out Level 66 packs 5×7 Raster mit large blau '13' Block bei oben, numbered blau Blöcke mit Zähler '5' in mittlere, und gerichtet Pfeil-Blöcke auf sides.",
+          "Numbered Blöcke muss Ausgang durch ihr gates while Seite Blöcke sind constrained zu one direction.",
+          "Räumen unten erste, dann arbeiten numbered Blöcke nach oben."
+        ],
+        "colors": ["blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "WMLdROI6Sz8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=WMLdROI6Sz8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'13' Block ist marathon — räumen smaller numbered Blöcke erste zu build Platz.",
+        "Anschauen numbered Zähler. Sie decrease als Blöcke Ausgang, showing dein progress.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen gelb und blau Blöcke bei unten durch rechts Ausgang zu öffnen base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben grün Blöcke auf links hinaus durch links Ausgang zu öffnen untere linke Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin räumend numbered blau Blöcke in mittlere durch ihr gates — Zähler decrease als sie Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen rot Blöcke auf rechts durch rechts Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Tackle large blau '13' Block bei oben — es needs 13 exits zu fully räumen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining Blöcke eingesperrt in corners."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu räumen '13' Block bevor smaller numbered Blöcke — es needs Raum zu schieben und Ausgang multiple times.",
+        "Räumend oben bevor unten, welche lässt untere Blöcke eingesperrt mit kein sliding Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/66/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 66 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 66 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-28",
+  "locale": "fr",
+  "levelNumber": 28,
+  "title": "Guide Block Out Niveau 28",
+  "summary": "Block Out Niveau 28 est empilé chambre énigme avec haut `6` boss et abaissez `2` boss. Ouvrez abaissez salle premier, effondrez `2` panneau suivant, et laissez supérieur `6` tombe seulement après chambre est déjà turning.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "Block Out Niveau 28 est empilé chambre énigme avec haut `6` boss et abaissez `2` boss. Ouvrez abaissez salle premier, effondrez `2` panneau suivant, et laissez supérieur `6` tombe seulement après chambre est déjà turning.",
+        "landmarks": [
+          "Block Out Niveau 28 est empilé chambre énigme avec haut `6` boss et abaissez `2` boss.",
+          "Ouvrez abaissez salle premier, effondrez `2` panneau suivant, et laissez supérieur `6` tombe seulement après chambre est déjà turning.",
+          "Le plateau mélange bleu, rose et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Résolvez abaissez `2` avant supérieur `6`.",
+        "Abaissez chambre est phase-one workspace.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tournez abaissez chambre premier et commencez peeling bleu et rose loin à travers côté voies."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez que nouveau espace à commencez shrinking encadré `2` boss."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez supérieur `6` panneau garé pendant abaissez chambre est toujours encombré."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois `2` cadre est presque gone, laissez le haut `6` finally commencez à tombe."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Utilisez tardif rouge et pièces jaune à arrêtez abaissez chambre de refilling."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez côté sorties après supérieur boss est déjà bas."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Fin avec dernier bas couleurs une fois les deux bosses sont gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à abaissez `6` panneau avant `2` boss a opened.",
+        "Laissant abaissez chambre encombré après premier sorties sont available."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 28",
+    "description": "Résolvez le niveau 28 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

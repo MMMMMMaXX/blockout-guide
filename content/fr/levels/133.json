@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-133",
+  "locale": "fr",
+  "levelNumber": 133,
+  "title": "Guide Block Out Niveau 133",
+  "summary": "Block Out Niveau 133 arranges numéroté clé blocs sur arms de en forme de T plateau, avec centre `13` colonne et bas blast grille. Directional arrows sur bleu vers le bas bloc et vert droite-retirez mark seulement legal sorties. haut-le...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/133/",
+        "layout": "Block Out Niveau 133 arranges numéroté clé blocs sur arms de en forme de T plateau, avec centre `13` colonne et bas blast grille. Directional arrows sur bleu vers le bas bloc et vert droite-retirez mark seulement legal sorties. haut-gauche magenta `7` alcove doit dégagez avant haut bleu `1` stack peut décalez — sinon il blocs le centre colonne's seulement drainage chemin.",
+        "landmarks": [
+          "Block Out Niveau 133 arranges numéroté clé blocs sur arms de en forme de T plateau, avec centre `13` colonne et bas blast grille.",
+          "Directional arrows sur bleu vers le bas bloc et vert droite-retirez mark seulement legal sorties.",
+          "Haut-gauche magenta `7` alcove doit dégagez avant haut bleu `1` stack peut décalez — sinon il blocs le centre colonne's seulement drainage chemin."
+        ],
+        "colors": ["cyan", "magenta", "green", "blue", "red", "yellow", "violet", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lUJCT64KCKk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=lUJCT64KCKk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gardez vert gauche barre intact pendant dégagement le bas blast grille.",
+        "Économisez 1/10 paire jusqu'à 9 tuile unlocks sur le bas flare.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pop le haut cyan 24 et 21 tuiles plus la gauche/droite arm 17 et 19 blocs avant le centre 13 colonne tombent."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez le bas coloré grille de vert gauche barre outward, keeping 1/10 paire sealed pour final porte."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez le centre 13 colonne une fois les deux arm alcoves videz, feeding 18 côté tuile dans taille."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Glissez bleu vers le bas-arrow bloc à travers étroit corridor après compteurs shrink à 12."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Detonate vert droite-arrow amas sur le bas flare une fois 9 tuile unlocks."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez le bas 0/1 compteurs et sortie dernier magenta et bleu scraps pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Dropping le centre 13 colonne avant arm alcoves videz, sealing taille.",
+        "Déplaçant vert droite-arrow amas avant 9 tuile unlocks, trapping 0/1 porte."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/133/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 133",
+    "description": "Résolvez le niveau 133 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

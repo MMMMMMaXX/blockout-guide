@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-55",
+  "locale": "tr",
+  "levelNumber": 55,
+  "title": "Block Out Seviye 55 Rehberi",
+  "summary": "Block Out Seviye 55 kilitlenir geniş mor ana blok çubuk ile sayaç `7` alt tahtadan sırasında packing üst zone ile büyük yeşil 2×2 blok, dört uzun camgöbeği bloklar (her sayaç `4`), ve assorted kırmızı, mavi, ve sarı parça...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out Seviye 55 kilitlenir geniş mor ana blok çubuk ile sayaç `7` alt tahtadan sırasında packing üst zone ile büyük yeşil 2×2 blok, dört uzun camgöbeği bloklar (her sayaç `4`), ve assorted kırmızı, mavi, ve sarı parçalar. temizle every üst blok counta ana blok çubuk aşağı zeroya, sonra sort gizlendi layer uzun sarı, turuncu, ve yeşil bloklar ki appears sonra çubuk çöker.",
+        "landmarks": [
+          "Block Out Seviye 55 kilitlenir geniş mor ana blok çubuk ile sayaç `7` alt tahtadan sırasında packing üst zone ile büyük yeşil 2×2 blok, dört uzun camgöbeği bloklar (her sayaç `4`), ve assorted kırmızı, mavi, ve sarı parçalar.",
+          "Temizle every üst blok counta ana blok çubuk aşağı zeroya, sonra sort gizlendi layer uzun sarı, turuncu, ve yeşil bloklar ki appears sonra çubuk çöker.",
+          "Tahta yeşil, camgöbeği, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Başla dört camgöbeği `4` bloklar erken — onlar consume 16 total passes sağdan-duvar çıkış.",
+        "Değil dokun açığa çıktı sarı/turuncu layer kadar mor ana blok çubuk fully disappeared.",
+        "Tut sol şerit açık sonra yeşil 2×2 blok çıkışlar — sen gerektir o için saniye wave."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır küçük kırmızı blok üstde-sol aşağı doğru, sonra it büyük yeşil 2×2 blok dışarı soldan-duvar çıkış açık sol şerite (02:55–02:50 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Yönlendir mavi blok soldan-duvar çıkış kullanarak boşluk yeşil blok sol ."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla besleyerek dört camgöbeği `4` bloklar sağdan-duvar çıkış — başla ile en soldaki camgöbeği blok ve tut sağ şerit temizle için tüm 16 passes (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kalan sarı ve küçük kırmızı bloklar whicheverden çıkış closest — her parça düşer ana blok sayaç ile bir (sayaç reads `3` 02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra sayaç hits `0` ( 02:29), mor ana blok çubuk çöker ve reveals uzun sarı, turuncu, ve yeşil bloklar underneath."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kaydır açığa çıktı sarı uzun blok sola-duvar çıkış ilk çünkü o bloklar turuncu blok o."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Yönlendir turuncu uzun blok sağdan-duvar çıkış, sonra bitir ile kalan yeşil bloklar alt çıkışlardan (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek açığa çıktı sarı veya turuncu blok önce ana blok çubuk fully çöktü — parça sıkışır çubuka ve bloklar çıkış şerit ile hayır way iyileşe.",
+        "Besleyerek camgöbeği `4` bloklar soldan-duvar çıkış yerine sağ — bu clogs şerit needed için yeşil 2×2 blok ve durur ana blok geri sayım."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 55 Rehberi ve Çözümü",
+    "description": "Block Out seviye 55'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-21",
+  "locale": "zh-cn",
+  "levelNumber": 21,
+  "title": "Block Out 第 21 关通关攻略",
+  "summary": "Block Out 第 21 关是一个三层 Boss 阶梯。先击破带框的 `9` 面板，再解开中央彩色条带，最后才开始收缩下方的 `16` 和 `18` 面板。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "Block Out 第 21 关是一个三层 Boss 阶梯。先击破带框的 `9` 面板，再解开中央彩色条带，最后才开始收缩下方的 `16` 和 `18` 面板。",
+        "landmarks": [
+          "Block Out 第 21 关是一个三层 Boss 阶梯。",
+          "先击破带框的 `9` 面板，再解开中央彩色条带，最后才开始收缩下方的 `16` 和 `18` 面板。",
+          "棋盘混合了蓝色、黄色、绿色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先解决带框的 `9`。",
+        "下方的 `16` 和 `18` 数值分别是第二阶段和第三阶段。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "处理顶部计数器，清空上方色带，让带框的 `9` 面板暴露出来。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在触碰下方 Boss 之前，先放下 `9` 面板。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "利用腾出的中央通道旋转粉色、绿色和蓝色的长条。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦中央不再拥挤，就开始收缩下方的 `16` 面板。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "只有当 `16` 框已经打开后，才让 `18` 面板开始落下。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "当下方面板变薄时，把底部绿色出口留到后期清理。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个底部 Boss 都坍塌后，用剩余的高长宽条收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在顶部 `9` 还存活时就试图收缩下方带框的数值。",
+        "在顶部 Boss 打开后，仍让中央条带保持积压。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 21 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 21 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

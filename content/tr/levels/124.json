@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-124",
+  "locale": "tr",
+  "levelNumber": 124,
+  "title": "Block Out Seviye 124 Rehberi",
+  "summary": "Block Out Seviye 124 bir Zor çokgen maze nere yeşil snake yol ve mor winding şekil oluştur bir-way şeritler ızgaradandır. Kırmızı `32` yıldız blok ve camgöbeği cep main objectives, ama snake ve winding şekiller dicta...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/124/",
+        "layout": "Block Out Seviye 124 bir Zor çokgen maze nere yeşil snake yol ve mor winding şekil oluştur bir-way şeritler ızgaradandır. Kırmızı `32` yıldız blok ve camgöbeği cep main objectives, ama snake ve winding şekiller dictate extraction sıra — kaydır onları dışarı sequence ve ızgara seals, tuzağa düşürerek numaralı yıldız bloklar ile hayır şerit arka.",
+        "landmarks": [
+          "Block Out Seviye 124 bir Zor çokgen maze nere yeşil snake yol ve mor winding şekil oluştur bir-way şeritler ızgaradandır.",
+          "Kırmızı `32` yıldız blok ve camgöbeği cep main objectives, ama snake ve winding şekiller dictate extraction sıra — kaydır onları dışarı sequence ve ızgara seals, tuzağa düşürerek numaralı yıldız bloklar ile hayır şerit arka.",
+          "Tahta kırmızı, mavi, camgöbeği ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "blue", "cyan", "green", "orange", "yellow", "purple", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "K4yNR5TX9yc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=K4yNR5TX9yc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boşalt camgöbeği `1`/`3`/`8` cep ascendingde sıra önce hareket ettirerek sarı `1` karo.",
+        "Harca yeşil `9` sayaç önce breaking kırmızı `32` yıldız blok.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst-sol mavi bloklar ve çöz yeşil snake yol olmadan dokunarak kırmızı `32` yıldız karo."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle üst `10`/`10` köşe labels ve sol-kenar yeşil `20` sayaç açık mazea merkez."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır kırmızı `32` yıldız blok sonra turuncu L-şekiller merkezden-sağ alan kaydır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Harca camgöbeği `1`/`3`/`8` cep karolar sırada — `1` ilk, sonra `3`, sonra `8` — önce sarı `1` karo hamleler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Detonate mid-ızgara mavi `15`, yeşil `9`, ve camgöbeği `5` sayaçlar sırasında mor winding şekil hâlâ movable."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir kalan turuncu L-artıklar ve alt beyaz `3` istifler için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Çekerek camgöbeği `8` karo önce `1` — bu boxes sarı `1` karo mor snakea.",
+        "Breaking kırmızı `32` yıldız önce yeşil `9` sayaç temizlenir, tuzağa düşürerek turuncu L-şekil sağ duvarda."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/124/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 124 Rehberi ve Çözümü",
+    "description": "Block Out seviye 124'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

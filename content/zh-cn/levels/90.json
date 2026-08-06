@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-90",
+  "locale": "zh-cn",
+  "levelNumber": 90,
+  "title": "Block Out 第90关攻略",
+  "summary": "Block Out 第90关是一个围绕单一共享中心井建造的开放托盘棋盘。先清空第一批黄色方块而不封死中间空间，然后让红色搁板、绿色阶梯和后续黄色方块经同一个开口旋转，直到场地清空。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "Block Out 第90关是一个围绕单一共享中心井建造的开放托盘棋盘。先清空第一批黄色方块而不封死中间空间，然后让红色搁板、绿色阶梯和后续黄色方块经同一个开口旋转，直到场地清空。",
+        "landmarks": [
+          "Block Out 第90关是一个围绕单一共享中心井建造的开放托盘棋盘。",
+          "先清空第一批黄色方块而不封死中间空间，然后让红色搁板、绿色阶梯和后续黄色方块经同一个开口旋转，直到场地清空。",
+          "棋盘混合了黄色、橙色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["yellow", "orange", "red", "green", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "把托盘中央当作预留空域。不要把方块停在那里。",
+        "只有当你让通行方块在侧锁旁挤成一团时，侧锁才重要。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "先把上方黄色 L 形块移出，让场地上半部分打开。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在不填满中心井的前提下，清空左下角绿色正方形和第一个黄色正方形。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "当红色搁板出现在中央时，让它经打开的中心旋转，而不是钉在侧墙上。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "在侧出口保持畅通时，让绿色阶梯和蓝色脚形块一次一个地穿过中央。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "把更笨重的黄色方块留到红色和绿色通道变稀薄之后。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "托盘中央再次清空后，用最后的红色 L 形块和剩余黄色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "把方块塞进下角并封闭中心井。",
+        "把第 90 关当作通道拼图，而非开放托盘旋转棋盘来对待。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第90关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第90关。"
+  },
+  "updatedAt": "2026-08-03"
+}

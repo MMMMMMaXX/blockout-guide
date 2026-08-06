@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-89",
+  "locale": "zh-cn",
+  "levelNumber": 89,
+  "title": "Block Out 第89关攻略",
+  "summary": "Block Out 第89关开局是叠放在两个堆栈室之上的混合顶架。先剥离该架，第二步排空「6」室，然后清理带钥匙的左侧通道和橙色竖列，之后「11」室让位给红色 T 形残局。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out 第89关开局是叠放在两个堆栈室之上的混合顶架。先剥离该架，第二步排空「6」室，然后清理带钥匙的左侧通道和橙色竖列，之后「11」室让位给红色 T 形残局。",
+        "landmarks": [
+          "Block Out 第89关开局是叠放在两个堆栈室之上的混合顶架。",
+          "先剥离该架，第二步排空「6」室，然后清理带钥匙的左侧通道和橙色竖列，之后「11」室让位给红色 T 形残局。",
+          "棋盘混合了紫色、绿色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "如果顶架还有活动的蓝色或绿色方块，「11」室还没准备好。",
+        "左侧带钥匙的黄色通道比裸「11」计数更重要。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "移除顶架上的混合条块，尤其是蓝色行和右上角的绿色方块。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "只有在顶架不再向下输送阻挡块后，才开始收缩上方「6」室。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "在「6」室几乎消失之前，不要碰下方「11」室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "上层打开棋盘后，清理左侧带钥匙的黄色通道，并缩短中心周围的橙色竖列。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "只有当红色 T 形及其下方两个蓝色泳池有空间分开时，才让「11」室坍塌。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后用红色 T 形块、最后的橙色竖列和左下角附近的剩余黄色 L 形块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在顶架还有活动的蓝色或绿色通行时触碰「11」室。",
+        "忽视带钥匙的左侧通道，在「6」室打开后试图蛮力强攻下半部分。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第89关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第89关。"
+  },
+  "updatedAt": "2026-08-03"
+}

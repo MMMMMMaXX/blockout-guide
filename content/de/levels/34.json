@@ -1,0 +1,96 @@
+{
+  "id": "de-level-34",
+  "locale": "de",
+  "levelNumber": 34,
+  "title": "Block Out Level 34 Lösung",
+  "summary": "Block Out Level 34 ist labeled 'schwer Level' und weist auf twin-Boss Layout mit links `10` Boss und rechts `20` Boss sitting über geteilt rot-weiß-schwarz basement. Lösen runs in three phases: räumen basement zu bring runter beide...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "Block Out Level 34 ist labeled 'schwer Level' und weist auf twin-Boss Layout mit links `10` Boss und rechts `20` Boss sitting über geteilt rot-weiß-schwarz basement. Lösen runs in three phases: räumen basement zu bring runter beide Zähler, collapse smaller links tower erste zu create Raum, dann verwenden dass Platz zu accelerate rechts tower's collapse. Once Bosse fall unterhalb `9`, hidden colored Blöcke — grün, gelb, blau — spill hinaus und need ihr own sorting.",
+        "landmarks": [
+          "Block Out Level 34 ist labeled 'schwer Level' und weist auf twin-Boss Layout mit links `10` Boss und rechts `20` Boss sitting über geteilt rot-weiß-schwarz basement.",
+          "Lösen runs in three phases: räumen basement zu bring runter beide Zähler, collapse smaller links tower erste zu create Raum, dann verwenden dass Platz zu accelerate rechts tower's collapse.",
+          "Once Bosse fall unterhalb `9`, hidden colored Blöcke — grün, gelb, blau — spill hinaus und need ihr own sorting."
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Links `10` Boss ist dein progress meter. Wenn es ist still über `5` when rechts Boss reads `17`, basement needs mehr links-Seite focus.",
+        "Anschauen für phase transition around Zähler `9` — dass ist when hidden colored Blöcke starten spilling hinaus von chambers.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben weiß Blöcke in rechts basement toward rechts Ausgang und bewegen schwarz Blöcke hinaus durch unten Pfeil."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden grün `5` Block bei untere linke als früh bewegen zu öffnen Bahn unter links chamber."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Continue thinning basement bis links `10` Boss Zähler visibly startet dropping — anschauen für `7` auf links Zähler."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Focus remaining basement arbeiten auf linke Seite also `10` Boss collapses fully bevor rechts `20` Boss fällt … lassen unterhalb `17`."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once links chamber empties, verwenden freigegeben Platz zu accelerate rechts `20` Boss reduction."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Als rechts Boss falls unterhalb `9`, colored Blöcke — grün, gelb, blau — spill hinaus. Sort sie durch Seite und unten exits."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte rot basement Bauteile und remaining revealed Farben nach beide chambers sind empty."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort equally zwischen beide Bosse von starten — `20` Boss needs also much mehr Raum dass neither tower reaches critical threshold, und revealed Blöcke pile hoch mit nowhere zu go.",
+        "Ignoring grün `5` Block bei untere linke Ecke als früh bewegen, welche delays Eröffnungs- Bahn unter links chamber where progress matters meisten."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 34 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 34 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

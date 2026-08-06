@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-69",
+  "locale": "ja",
+  "levelNumber": 69,
+  "title": "ブロックアウト レベル69 攻略",
+  "summary": "ブロックアウト レベル69は「スーパーハード」の4部屋ボスレベルで、4つの大きな紫ブロック（上部にカウンター「7」と「8」、下部に「10」と「4」）があります。底部の青の「12」ブロックは追加の重い標的です。まず底部を消去し…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "ブロックアウト レベル69は「スーパーハード」の4部屋ボスレベルで、4つの大きな紫ブロック（上部にカウンター「7」と「8」、下部に「10」と「4」）があります。底部の青の「12」ブロックは追加の重い標的です。まず底部を消去し、次に紫ブロックを並行して進め、小さいものを先に消しつつ大きいものを徐々に開放します。",
+        "landmarks": [
+          "ブロックアウト レベル 69 ' ' -部屋 ボス レベル 紫 — カウンター '7'、'8' 上、'10'、'4' 下.。",
+          "青 '12' ブロック 下 目標.。",
+          "を消去して下、進める 紫、消去する 開く.。"
+        ],
+        "colors": ["purple", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "' ' 意味し 詰め — 消去する 紫 .。",
+        "青 '12' ブロック 下 必要とし . 消去する .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "青のを消去して下 カウンター '12' 左 出口 — 必要とし .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄のをずらして右 右 出口 開く 下の-右 エリア.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "下-右 紫 ブロック カウンター '4' —、.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を進めて下-左 紫 ブロック カウンター '10' .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "手順 上-左 紫 ブロック カウンター '7' — '8'.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて上-右 紫 ブロック カウンター '8'、排出し.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を消去して間 部屋.。"
+        }
+      ],
+      "failurePoints": [
+        "'10' '8'、— 必要とする、消去 スライドさせ 壁 .。",
+        "青のを無視して'12' ブロック 下 —、を必要として出口.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル69 攻略と解説",
+    "description": "ブロックアウト レベル69 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

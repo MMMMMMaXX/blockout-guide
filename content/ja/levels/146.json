@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-146",
+  "locale": "ja",
+  "levelNumber": 146,
+  "title": "ブロックアウト レベル146 攻略",
+  "summary": "ブロックアウト レベル146は、LEGO風グリッドから欠片が消えるにつれて下がる二つの上部カウンター—「20」と「17」—を走らせます。封じられた左の黄の列と、赤の星点の固定点が下半分を固定します。星点のブロックは最後の紫の2×2が抜け出す前に壊れる必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/146/",
+        "layout": "ブロックアウト レベル146は、LEGO風グリッドから欠片が消えるにつれて下がる二つの上部カウンター—「20」と「17」—を走らせます。封じられた左の黄の列と、赤の星点の固定点が下半分を固定します。星点のブロックは最後の紫の2×2が抜け出す前に壊れる必要がありますが、緑のＬ字型ピースを早く動かすと中央の通路を塞ぎ、固定点が取り残されます。",
+        "landmarks": [
+          "ブロックアウト レベル 146 上部のカウンター — `20`、`17` — 下 消去する - .。",
+          "左 黄 列、赤 星- アンカー 下の .。",
+          "星- ブロック 割る、紫 2×2 出口、ずらし 緑 Ｌ字型 中央レーン、アンカー.。"
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "cyan", "green", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXs9atNLk6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXs9atNLk6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤星を割りて- ブロック、をスライドさせて中央 紫 2×2.。",
+        "紫のを維持して12 塊、上部のカウンター 落とす 下 15.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "黄列をスライドさせて左に、下 側 緑 上-矢印 始める 上 20 カウンター ずらし 紫 12 ペア.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を割りて上 20/17 タイル 下 15/12 消去 上の シアン 5、赤 間 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を通して青の字型-、赤 2×2 中央 隙間、カウンター 15/12.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して下 紫 12 塊、黄 8 タイル 落とす 上 枠 6/3.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "赤星を割りて- ブロック 下-右、をスライドさせて中央 紫 2×2.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて6/3 カウンター 緑 Ｌ字型、青 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "紫のをスライドさせて2×2、赤 星- ブロック、を塞ぎて下 赤 レーン.。",
+        "紫のをずらして12 塊 上 20 カウンター、使う.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/146/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル146 攻略と解説",
+    "description": "ブロックアウト レベル146 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

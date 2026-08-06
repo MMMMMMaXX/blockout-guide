@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-17",
+  "locale": "tr",
+  "levelNumber": 17,
+  "title": "Block Out Seviye 17 Rehberi",
+  "summary": "Block Out Seviye 17 bir Çerçeveli-hinge numeric tahtadır. Trim sarı çatı ilk, kilidini aç yeşil merkez çerçeve saniye, ve sadece sonra flatten broad camgöbeği levhalar marked `19`, `18`, ve `16`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "Block Out Seviye 17 bir Çerçeveli-hinge numeric tahtadır. Trim sarı çatı ilk, kilidini aç yeşil merkez çerçeve saniye, ve sadece sonra flatten broad camgöbeği levhalar marked `19`, `18`, ve `16`.",
+        "landmarks": [
+          "Block Out Seviye 17 bir Çerçeveli-hinge numeric tahtadır.",
+          "Trim sarı çatı ilk, kilidini aç yeşil merkez çerçeve saniye, ve sadece sonra flatten broad camgöbeği levhalar marked `19`, `18`, ve `16`.",
+          "Tahta sarı, yeşil, camgöbeği ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sarı çatı loosens hinge.",
+        "Büyük camgöbeği levhalar hareket ettir sonra merkez çerçeve, değil önce o.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Shave üst sarı sıra ve üst-sağ yan şerit böylece `16` sayaç başlar düşe."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut çerçeveli yeşil merkez kilitlendi kadar üst sayaçlar lost enough weight."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Döndür kırmızı ve mavi yan çubuklar orta sonraya üst şerit açıldı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan ki yeni alan serbest çerçeveliye yeşil kare ve stop o sabitleyerekden daha düşük camgöbeği levhalar."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Flatten `19` ve `18` camgöbeği levhalar alt yukarı doğru."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temiz yukarı son pembe ve mavi yan parçalar sonra merkez çerçeve gitti."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir daha düşük zemin sayaç sonra broad camgöbeği layer fully ayrıldı."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir yeşil hinge önce sarı çatı lighter.",
+        "Treating daha düşük camgöbeği carpet like açarak bulmaca."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 17 Rehberi ve Çözümü",
+    "description": "Block Out seviye 17'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

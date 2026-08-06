@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-34",
+  "locale": "ja",
+  "levelNumber": 34,
+  "title": "ブロックアウト レベル34 攻略",
+  "summary": "ブロックアウト レベル34は『ハードレベル』と印が付き、左の『10』ボスと右の『20』ボスが共有の赤・白・黒の地下室の上に位置する双ボス構成です。解き方は3つのフェーズで進みます——地下室を消去して両方の",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "ブロックアウト レベル34は『ハードレベル』と印が付き、左の『10』ボスと右の『20』ボスが共有の赤・白・黒の地下室の上に位置する双ボス構成です。解き方は3つのフェーズで進みます——両方のカウンターを下げるため地下室を消去し、部屋を作るため最初に小さい左の塔を崩し、その後そのスペースを使って右の塔の崩落を加速させます。ボスが『9』を下回ると、隠された色付きブロック——緑・黄・青——があふれ出し、独自の仕分けが必要になります。",
+        "landmarks": [
+          "ブロックアウト レベル 34 ' レベル'、を備えて-ボス 左 `10` ボス、右 `20` ボス 配置し 上 赤-白-黒 地下.。",
+          ": 消去する 地下 下 カウンター、を崩して左 塔 作る、使う 右 塔' 崩す.。",
+          "ボス 落ちる 下 `9`、— 緑、黄、青 —、を必要として.。"
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "左 `10` ボス メーター. 上 `5` 右 ボス `17`、地下 必要とし 左-側 .。",
+        "周りを カウンター `9` — 始める 部屋.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "白のをスライドさせて右 地下 の方へ 右 出口、手順 黒 下 矢印.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑のを使いて`5` ブロック 下-左 手順 開く レーン 左 部屋.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "地下、左 `10` ボス カウンター — `7` 左 カウンター.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "地下 進める 左 側、`10` ボス、右 `20` ボス 下 `17`.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "左 部屋、を使いて解放し 右 `20` ボス .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "右 ボス 下 `9`、— 緑、黄、青 — . 色分け 側、下 出口.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて赤 地下、現し、部屋 .。"
+        }
+      ],
+      "failurePoints": [
+        "間 ボス 始める — `20` ボス 必要とし、塔、現し 上 .。",
+        "緑のを無視して`5` ブロック 下-左 角 手順、開始 レーン 左 部屋 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル34 攻略と解説",
+    "description": "ブロックアウト レベル34 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

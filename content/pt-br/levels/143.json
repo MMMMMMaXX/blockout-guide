@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-143",
+  "locale": "pt-br",
+  "levelNumber": 143,
+  "title": "Guia do nível 143 do Block Out",
+  "summary": "O nível 143 do Block Out é um alimentador de tabuleiro duplo — uma grade de posicionamento superior escoa através de um contador de fase roxo para uma moldura inferior com borda amarela cujo número central decresce de `17` para baixo. O contador de fase controla a velocidade: cada marco...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/143/",
+        "layout": "O nível 143 do Block Out é um alimentador de tabuleiro duplo — uma grade de posicionamento superior escoa através de um contador de fase roxo para uma moldura inferior com borda amarela cujo número central decresce de `17` para baixo. O contador de fase controla a velocidade: cada marco libera o próximo lote de peças para transferência. Empurre os blocos do lado direito antes que o contador atinja seu ponto médio ou a moldura inferior engarrafa com peças chegando fora de ordem.",
+        "landmarks": [
+          "O nível 143 do Block Out é um alimentador de tabuleiro duplo — uma grade de posicionamento superior escoa através de um contador de fase roxo para uma moldura inferior com borda amarela cujo número central decresce de `17` para baixo.",
+          "Fase contador saídas velocidade: cada milestone desbloqueia próximo batch de peças para transfer.",
+          "Empurre direita-lateral blocos antes que contador reaches seu midpoint e inferior moldura entrava com peças arriving para fora de ordem."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "fSHRe5b75Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=fSHRe5b75Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar meio 2/1 remova antes que gastando direita-trilho 9 contador.",
+        "Assista fase box — ele deve alcance 07 antes que inferior 7 peça pode be zeroed.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior vermelho/verde fileira em superior grade usando esquerda inventory azul peças."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Alimente superior saídas através roxo fase box como ele cycles 01 → 04."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gaste direita-trilho 4/2/9 contadores por routing blocos baixo direita seta buttons."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quebre meio 2/1 remova uma vez inferior moldura solta de 17 em direção a 7."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar restante azul aglomerados em superior grade através 07 fase."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Roteie inferior-moldura recortes através verde baixo-seta e direita-seta pistas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Zero inferior 7 peça e limpar último superior recortes para BLOW Para fora! termine."
+        }
+      ],
+      "failurePoints": [
+        "Gastando direita-trilho 9 antes que 2 peça limpa, bloqueando inferior verde baixo-seta.",
+        "Alimentando superior grade antes que fase box reaches 04, wasting blocos em meio remova."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/143/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 143 do Block Out",
+    "description": "Resolva o nível 143 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

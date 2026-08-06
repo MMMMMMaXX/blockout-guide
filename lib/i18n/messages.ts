@@ -14,7 +14,7 @@ import tr from "@/messages/tr.json";
 /** 英文目录充当类型与回退基准；所有语言键必须与之保持一致。 */
 export type Messages = typeof en;
 
-const catalogs: Record<Locale, Messages> = {
+export const catalogs: Record<Locale, Messages> = {
   en,
   "zh-cn": zhCn,
   "pt-br": ptBr,

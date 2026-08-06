@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-38",
+  "locale": "zh-cn",
+  "levelNumber": 38,
+  "title": "Block Out 第 38 关通关攻略",
+  "summary": "Block Out 第 38 关有一个 `12` Boss 腔室，埋在结构化盖子之下：三块蓝色 `2` 方块、一块粉色 `15` 方块和一个紫色 `6` 装置。盖子有其内部顺序——蓝色 `2` 快、装置中等、粉色……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out 第 38 关有一个 `12` Boss 腔室，埋在结构化盖子之下：三块蓝色 `2` 方块、一块粉色 `15` 方块和一个紫色 `6` 装置。盖子有其内部顺序——蓝色 `2` 快、装置中等、粉色 `15` 慢——在 Boss 能够落下前必须逐块拆解。Boss 在约 01:33 倒下后，一大团红、粉、绿、蓝方块涌出，进入第二阶段排序。",
+        "landmarks": [
+          "Block Out 第 38 关有一个 `12` Boss 腔室，埋在结构化盖子之下：三块蓝色 `2` 方块、一块粉色 `15` 方块和一个紫色 `6` 装置。盖子有自己的内部顺序——蓝色 `2` 快，装置中等，粉色 `15` 慢——必须在 Boss 落下前逐块拆解。Boss 在约 01:33 倒下后，一大堆红、粉、绿、蓝方块涌出，进入第二阶段分类。",
+          "盖子有自己的内部顺序——蓝色 `2` 快，装置中等，粉色 `15` 慢——必须在 Boss 落下前逐块拆解。",
+          "Boss 在约 01:33 倒下后，一大堆红、粉、绿、蓝方块涌出，进入第二阶段分类。"
+        ],
+        "colors": ["blue", "pink", "purple", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "盖子有自己的顺序：蓝色 `2` 先（快），紫色装置其次（中），粉色 `15` 最后（慢）。",
+        "留意 01:33 的涌出——如果侧边通道没准备好，暴露的方块会堵住房间。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先从顶行清理三块蓝色 `2` 方块——它们是最快削减的盖子部分。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把黄色方块通过紫色 `6` 装置的门路由，从而服务左上角的紫色 `6` 装置。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "既然蓝色方块已去，就开始削薄右上角的粉色 `15` 方块。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "随着盖子变薄，留意 Boss 计数穿过 `8`（约 01:42 可见）。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "打开侧边通道，让暴露的方块在 Boss 落下后有处可去。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "一旦盖子基本消失，就让 `12` Boss 坍塌——涌出发生在约 01:33。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "通过侧边和底部出口分类暴露出的红、粉、绿、蓝方块来收尾。"
+        }
+      ],
+      "failurePoints": [
+        "跳过蓝色 `2` 方块直接去动粉色 `15`——盖子仍太厚，Boss 无法移动。",
+        "在 Boss 于 01:33 落下时侧边通道没打开，导致暴露的方块无处可去地堆积。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 38 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 38 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

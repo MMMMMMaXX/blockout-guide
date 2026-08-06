@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-69",
+  "locale": "pt-br",
+  "levelNumber": 69,
+  "title": "Guia do nível 69 do Block Out",
+  "summary": "Block Out Nível 69 é 'Super Difícil' quad-câmara chefe nível com quatro grande roxo blocos — contadores '7' e '8' em superior, '10' e '4' em inferior. azul '12' bloco em inferior é additional pesado alvo. Limpar inferior primeiro...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out Nível 69 é 'Super Difícil' quad-câmara chefe nível com quatro grande roxo blocos — contadores '7' e '8' em superior, '10' e '4' em inferior. azul '12' bloco em inferior é additional pesado alvo. Limpar inferior primeiro, então funciona roxo blocos em paralelo, deixando menor uns limpar faster enquanto maior uns gradually abra.",
+        "landmarks": [
+          "Block Out Nível 69 é 'Super Difícil' quad-câmara chefe nível com quatro grande roxo blocos — contadores '7' e '8' em superior, '10' e '4' em inferior.",
+          "Azul '12' bloco em inferior é additional pesado alvo.",
+          "Limpar inferior primeiro, então funciona roxo blocos em paralelo, deixando menor uns limpar faster enquanto maior uns gradually abra."
+        ],
+        "colors": ["purple", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'Super Difícil' label significa tighter empacotando — limpar menor roxo blocos primeiro para construa espaço.",
+        "Azul '12' bloco em inferior precisa mais espaço. Limpar ele primeiro.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar azul blocos em inferior com contador '12' através esquerda saída — ele precisa mais espaço."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque amarelo blocos em direita para fora através direita saída para abra inferior-direita área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece escoando inferior-direita roxo bloco com contador '4' — ele é lightest e limpa fastest."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Funciona inferior-esquerda roxo bloco com contador '10' em paralelo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mova para superior-esquerda roxo bloco com contador '7' — ele é mais leve do que '8'."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com superior-direita roxo bloco com contador '8', que tem mais espaço depois outros são drained."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar qualquer restante colorido blocos preso entre emptied câmaras."
+        }
+      ],
+      "failurePoints": [
+        "Escoando '10' ou '8' blocos antes que menor uns — maior blocos precisa espaço para maneuver, e limpando os primeiro remove deslizando paredes para outros.",
+        "Ignorando azul '12' bloco em inferior — ele é heaviest e precisa mais espaço para saída."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 69 do Block Out",
+    "description": "Resolva o nível 69 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

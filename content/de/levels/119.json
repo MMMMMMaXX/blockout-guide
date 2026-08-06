@@ -1,0 +1,91 @@
+{
+  "id": "de-level-119",
+  "locale": "de",
+  "levelNumber": 119,
+  "title": "Block Out Level 119 Lösung",
+  "summary": "Block Out Level 119 ist Super schwer packing Spielfeld — numbered pillars und Pfeil-marked polyomino Bauteile muss ansteuern durch U-shaped corridor mit kein Raum für Fehler. Fixed Lego brick cluster Blöcke one arm von U, und rainbow rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/119/",
+        "layout": "Block Out Level 119 ist Super schwer packing Spielfeld — numbered pillars und Pfeil-marked polyomino Bauteile muss ansteuern durch U-shaped corridor mit kein Raum für Fehler. Fixed Lego brick cluster Blöcke one arm von U, und rainbow rechts-entfernen kann nur Ausgang in one direction. Force es bevor grün snake Pfad und lila winding shape haben links und U corridor verklemmt für good.",
+        "landmarks": [
+          "Block Out Level 119 ist Super schwer packing Spielfeld — numbered pillars und Pfeil-marked polyomino Bauteile muss ansteuern durch U-shaped corridor mit kein Raum für Fehler.",
+          "Fixed Lego brick cluster Blöcke one arm von U, und rainbow rechts-entfernen kann nur Ausgang in one direction.",
+          "Force es bevor grün snake Pfad und lila winding shape haben links und U corridor verklemmt für good."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r_96PuAWsyE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r_96PuAWsyE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen untere linke Lego cluster bevor rechts rainbow stapeln, oder U corridor closes.",
+        "Behalten rechts `8` Spalte geparkt bis untere `2` pocket hat Raum zu verschieben.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen obere linke blau `3` marker und öffnen Platz around links orange-bordered `14` pillar."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break untere linke Lego brick cluster (grün/rot/blau/gelb) ohne sealing central U corridor."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen rechts hoch lila `8` Spalte nur nach unten `2` pocket hat Raum zu verschieben."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Ansteuern rainbow rechts-stapeln durch untere Raster verwendend grün rechts-Pfeil Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen numbered türkis `1` Kachel sitting in U-Eröffnungs- once links `3` tower thins."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden unten Zähler `8` und `1` und Ausgang Pfeil-directed grün L auf untere links."
+        }
+      ],
+      "failurePoints": [
+        "Routing rainbow rechts-stapeln bevor untere linke Lego cluster räumt — dieses seals U corridor.",
+        "Verschiebend rechts `8` Spalte while untere `2` pocket ist still boxed in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/119/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 119 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 119 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

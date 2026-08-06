@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-4",
+  "locale": "pt-br",
+  "levelNumber": 4,
+  "title": "Guia do nível 4 do Block Out",
+  "summary": "Block Out Nível 4 é dois-fase striped tabuleiro. Limpar inferior-direita branco saída e inferior menta barra primeiro, dismantle branco-e-preto bloqueador escada em direita, e único então libere longo colorido barras.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "Block Out Nível 4 é dois-fase striped tabuleiro. Limpar inferior-direita branco saída e inferior menta barra primeiro, dismantle branco-e-preto bloqueador escada em direita, e único então libere longo colorido barras.",
+        "landmarks": [
+          "Block Out Nível 4 é dois-fase striped tabuleiro.",
+          "Limpar inferior-direita branco saída e inferior menta barra primeiro, dismantle branco-e-preto bloqueador escada em direita, e único então libere longo colorido barras.",
+          "Tabuleiro mistura Vermelho, Amarelo, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Inferior-direita branco saída é real starter.",
+        "Inferior menta barra é único longo barra você should libere antes que direita escada colapsa.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Solte pequeno branco bloco em inferior-direita canto através branco saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize inferior menta barra para direita e limpar ele através seu correspondência lateral saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deixe nearest preto bloqueador caia em chão pista, então use novo lacuna para descasque próximo branco bloqueadores baixo direita borda e para fora através branco saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Mantenha repetindo que direita-borda limpeza até branco-e-preto escada é principalmente indo e longo barras em esquerda tem espaço para travel."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Libere azul barra, então verde barra, e então restante inferior warm barras uma vez seus correspondência direita-lateral saídas são abra."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Salve superior amarelo barra para penultimate mova."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por deslizando superior vermelho barra através para vermelho lateral saída."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para fire longo azul barra antes que direita-lateral bloqueador escada tem collapsed.",
+        "Ignorando inferior menta barra e deixando chão pista vedado."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 4 do Block Out",
+    "description": "Resolva o nível 4 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

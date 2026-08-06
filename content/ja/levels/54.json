@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-54",
+  "locale": "ja",
+  "levelNumber": 54,
+  "title": "ブロックアウト レベル54 攻略",
+  "summary": "ブロックアウト レベル54は「ハードレベル」で、4つの紫のボス部屋（上部にカウンター「3」と「11」、下部に「6」と「19」）があります。各部屋は隙間なく詰め込まれ、間隔はわずかです。部屋と部屋の間の小さな色ブロックをまず消去し…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "ブロックアウト レベル54は「ハードレベル」で、4つの紫のボス部屋（上部にカウンター「3」と「11」、下部に「6」と「19」）があります。各部屋は隙間なく詰め込まれ、間隔はわずかです。まず部屋と部屋の間の小さな色ブロックを消去し、その後上部の部屋に取り掛かる前に下部の部屋を空にします。「19」の部屋が最も重いので、周囲の部屋が空間を開けるまで取っておきます。",
+        "landmarks": [
+          "ブロックアウト レベル 54 ' レベル' 紫 ボス 部屋 — カウンター '3'、'11' 上、'6'、'19' 下.。",
+          "部屋 詰まった 間 .。",
+          "を消去して間 部屋、排出する 下 部屋、上 .。",
+          "'19' 部屋 — 取っておく、部屋 開き 上 .。"
+        ],
+        "colors": ["purple", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去して間 部屋 — 鍵 開始 スライドさせ .。",
+        "'19' 部屋 . 消去する 部屋、.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "黄のを消去して左 側 開く 隙間 間 上-左、下-左 部屋.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "赤のをずらして/オレンジ 中央 開く 隙間 間 左、右 部屋.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "下-左 部屋 (カウンター '6') スライドさせ 左 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を進めて下-右 部屋 (カウンター '19') — 消去する 下-左 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "手順 上-左 部屋 (カウンター '3') —、消去する .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて上-右 部屋 (カウンター '11')、排出し.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を消去して間 部屋.。"
+        }
+      ],
+      "failurePoints": [
+        "部屋、— スライドさせ 壁、詰まり 部屋.。",
+        "'19' 部屋 詰まった — 必要とし .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル54 攻略と解説",
+    "description": "ブロックアウト レベル54 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

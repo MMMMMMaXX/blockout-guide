@@ -1,0 +1,91 @@
+{
+  "id": "de-level-135",
+  "locale": "de",
+  "levelNumber": 135,
+  "title": "Block Out Level 135 Lösung",
+  "summary": "Block Out Level 135 seals hoch Spalte auf links edge hinter Zähler dass muss hit zero. Oben Reihe's blau `6`/`6`/`9` Kacheln, gelb 2×2 dot Block, und türkis bidirectional Schieber create lateral Puzzle in vertikal frame....",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/135/",
+        "layout": "Block Out Level 135 seals hoch Spalte auf links edge hinter Zähler dass muss hit zero. Oben Reihe's blau `6`/`6`/`9` Kacheln, gelb 2×2 dot Block, und türkis bidirectional Schieber create lateral Puzzle in vertikal frame. Grün rechts-entfernen führt hinaus Ausgangs-Bahn — schieben es bevor links-rail Zähler zeroes hinaus und sealed Spalte stays verklemmt forever.",
+        "landmarks": [
+          "Block Out Level 135 seals hoch Spalte auf links edge hinter Zähler dass muss hit zero.",
+          "Oben Reihe's blau `6`/`6`/`9` Kacheln, gelb 2×2 dot Block, und türkis bidirectional Schieber create lateral Puzzle in vertikal frame.",
+          "Grün rechts-entfernen führt hinaus Ausgangs-Bahn — schieben es bevor links-rail Zähler zeroes hinaus und sealed Spalte stays verklemmt forever."
+        ],
+        "colors": ["blue", "yellow", "cyan", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UznrtGVtYHY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UznrtGVtYHY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break gelb dot Block bevor sliding ↔ Bauteil — reversing dass Reihenfolge verklemmt links rail über 4.",
+        "Räumen grün rechts-entfernen nur nach schwarz-bordered 2 Kachel unlocks.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Spend links-rail 9 Zähler durch sliding oben blau 6/6/9 trio rightward ab hoch links panel."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break gelb 2×2 dot Block ohne splitting türkis ↔ Schieber in Mitte."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben türkis double-Pfeil Bauteil durch Mitte once links rail fällt … lassen zu 4 und 7."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen grün rechts-entfernen > Bahn nach schwarz-bordered 2 Kachel unlocks."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen unten rot/grün/blau cluster runter grün unten-Pfeil Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend endgültig links-rail 2 auf hoch lila Spalte und räumen letzte scraps für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Sliding ↔ Bauteil bevor gelb dot Block breaks, locking links rail über 4.",
+        "Sending unten rot cluster runter grün Pfeil bevor 2 Kachel unlocks, stranding rechts-entfernen Bahn."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/135/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 135 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 135 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

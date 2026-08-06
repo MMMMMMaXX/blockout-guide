@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-10",
+  "locale": "zh-cn",
+  "levelNumber": 10,
+  "title": "Block Out 第 10 关通关攻略",
+  "summary": "Block Out 第 10 关用巨型数字方块取代了纯色方块。先清空顶部的白色阻挡块，把黄色方块沿右侧通道向下剥离，之后才让巨大的青色方块层层落入中央。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "Block Out 第 10 关用巨型数字方块取代了纯色方块。先清空顶部的白色阻挡块，把黄色方块沿右侧通道向下剥离，之后才让巨大的青色方块层层落入中央。",
+        "landmarks": [
+          "Block Out 第 10 关用巨型数字方块取代了纯色方块。",
+          "先清空顶部的白色阻挡块，把黄色方块沿右侧通道向下剥离，之后才让巨大的青色方块层层落入中央。",
+          "棋盘上混合了青色、白色、黑色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "顶部白色出口是第一步干净的举动。",
+        "黄色数字列是一块楔子，必须在青色方块移动前先削减。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右上角的白色阻挡块从白色出口向上送出。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把第一块黄色数字方块沿右侧通道向下剥离，以便上方的黑色阻挡块能够移动。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "持续交替黄色方块和黑色阻挡块，直到右侧的青色出口开始打开到足以让大方块移动。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "分阶段把上方的青色矩形向下滑动，随着通道清空，把 `22/21/19` 这一簇转为更低的摆放。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "右侧列不再卡住后，把中间的白色方块拉入红色通道，并把剩余的黄色数字方块从右下角出口释放。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "利用新的中央空间，把最后的青色方块与红色和蓝色收尾长条分开。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在最后的青色方块已经离开后，以短小的粉色、蓝色和红色长条收尾。"
+        }
+      ],
+      "failurePoints": [
+        "把巨大的青色方块当作开局动作，而没有先削减右侧通道。",
+        "在黑色阻挡块还需要旋转时，把黄色数字方块堆在右侧不动。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 10 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 10 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

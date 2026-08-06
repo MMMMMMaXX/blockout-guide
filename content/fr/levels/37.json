@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-37",
+  "locale": "fr",
+  "levelNumber": 37,
+  "title": "Guide Block Out Niveau 37",
+  "summary": "Block Out Niveau 37 centers sur large orange-encadré boss carré avec `7` compteur. Deux petit `1`-compteur support blocs restez directement sous boss et doit être separated premier à create laissez tomber voie. blocs vert à le bas drainez...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "Block Out Niveau 37 centers sur large orange-encadré boss carré avec `7` compteur. Deux petit `1`-compteur support blocs restez directement sous boss et doit être separated premier à create laissez tomber voie. blocs vert à le bas drainez tôt, côté bleu et blocs rose amincissez suivant, et boss finally descends une fois son abaissez voie est dégagez. Après boss tombe autour 01:11, second wave de rose et blocs bleu remains pour cleanup.",
+        "landmarks": [
+          "Block Out Niveau 37 centers sur large orange-encadré boss carré avec `7` compteur.",
+          "Deux petit `1`-compteur support blocs restez directement sous boss et doit être separated premier à create laissez tomber voie.",
+          "Blocs vert à le bas drainez tôt, côté bleu et blocs rose amincissez suivant, et boss finally descends une fois son abaissez voie est dégagez.",
+          "Après boss tombe autour 01:11, second wave de rose et blocs bleu remains pour cleanup."
+        ],
+        "colors": ["yellow", "blue", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Deux `1`-compteur blocs sous boss look petit, mais ils sont porte — jusqu'à ils sont gone, boss a non vers le bas voie.",
+        "Vert blocs à le bas sont tôt sorties. Dégagez les premier à create abaissez espace.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez la barre jaune sur la gauche à ouvrez le côté gauche voie."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez les blocs vert à le bas à travers la sortie bleu arrow à create espace sous boss."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Remove deux `1`-compteur blocs sitting directement sous boss carré."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Décalez les blocs bleu sur le côté droit à donnez boss horizontal salle."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Comme boss compteur tombent vers `5`, continue thinning rose et blocs bleu sur les deux sides."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Laissez boss carré laissez tomber à travers cleared abaissez voie une fois compteur est bas assez (visible à 01:11)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez restant rose et bleu cleanup blocs après boss est gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à abaissez boss carré pendant deux `1`-compteur support blocs sont toujours dans placez — boss needs dégagez vertical voie à laissez tomber.",
+        "Dégagement côté blocs avant le bas sortie vert est ouvrez, qui leaves abaissez zone packed et donne boss nowhere à tombe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 37",
+    "description": "Résolvez le niveau 37 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

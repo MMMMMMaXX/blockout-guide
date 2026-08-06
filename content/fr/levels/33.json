@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-33",
+  "locale": "fr",
+  "levelNumber": 33,
+  "title": "Guide Block Out Niveau 33",
+  "summary": "Block Out Niveau 33 est diamond-shaped plateau où large vert croisez-bloc et dense rouge mass restez au-dessus et sous encombré milieu belt de jaune, bleu, blanc, et pièces noir. diamond shape fait large centre rangée seulement pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "Block Out Niveau 33 est diamond-shaped plateau où large vert croisez-bloc et dense rouge mass restez au-dessus et sous encombré milieu belt de jaune, bleu, blanc, et pièces noir. diamond shape fait large centre rangée seulement chemin big assez pour deux large couleur masses à travel à travers, donc belt doit être broken ouvrez premier. Dégagez petit belt blocs, envoyez vert croisez hors à travers la sortie supérieure, alors laissez rouge mass drainez à travers le bas.",
+        "landmarks": [
+          "Block Out Niveau 33 est diamond-shaped plateau où large vert croisez-bloc et dense rouge mass restez au-dessus et sous encombré milieu belt de jaune, bleu, blanc, et pièces noir.",
+          "Diamond shape fait large centre rangée seulement chemin big assez pour deux large couleur masses à travel à travers, donc belt doit être broken ouvrez premier.",
+          "Dégagez petit belt blocs, envoyez vert croisez hors à travers la sortie supérieure, alors laissez rouge mass drainez à travers le bas."
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Large milieu rangée est seulement real highway — si belt est toujours occupied, neither wedge peut déplacez.",
+        "Vert leaves avant rouge. vert croisez-bloc needs à vacate supérieur diamond avant rouge mass peut commencez déplaçant.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tirez petit jaune et blocs orange de le milieu belt vers le bord gauche de diamond à commencez creating channel."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs bleu sur le centre-droite vers la droite-bord sortie à widen vertical channel à travers belt."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez les blocs blanc de le bord droit à fully ouvrez le milieu passage."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Glissez vert croisez-bloc vers le haut à travers opened channel et hors la sortie supérieure point."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois le bloc vert est gone, commencez déplaçant rouge mass vers le haut de abaissez section à travers widened centre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez les blocs rouge à travers la sortie inférieure point maintenant que le centre belt est non longer clogged."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec restant blocs noir dans le bas-droite coin et un petit belt fragments gauche derrière."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à poussez vert croisez-bloc à travers le milieu avant belt est ouvrez — le bloc vert est largest pièce et needs fully cleared channel.",
+        "Déplaçant rouge mass vers la sortie inférieure pendant le bloc vert est toujours occupying supérieur diamond, qui jams les deux large pièces dans le centre rangée."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 33",
+    "description": "Résolvez le niveau 33 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

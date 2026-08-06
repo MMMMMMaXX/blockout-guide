@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-139",
+  "locale": "fr",
+  "levelNumber": 139,
+  "title": "Guide Block Out Niveau 139",
+  "summary": "Block Out Niveau 139 est Super Hard dual-tier plateau — rainbow supérieur grille drains dans abaissez tier à travers paired bas-arrows, feeding `17` et `13` violet tubes flanked par bleu `4` côté compteurs. supérieur grille empties premier, alors ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/139/",
+        "layout": "Block Out Niveau 139 est Super Hard dual-tier plateau — rainbow supérieur grille drains dans abaissez tier à travers paired bas-arrows, feeding `17` et `13` violet tubes flanked par bleu `4` côté compteurs. supérieur grille empties premier, alors real énigme commence: abaissez tier's tubes porte chaque laissez tomber phase independently, et vert `1` tuile à le bas-gauche doit attendez jusqu'à border compteurs align.",
+        "landmarks": [
+          "Block Out Niveau 139 est Super Hard dual-tier plateau — rainbow supérieur grille drains dans abaissez tier à travers paired bas-arrows, feeding `17` et `13` violet tubes flanked par bleu `4` côté compteurs.",
+          "Supérieur grille empties premier, alors real énigme commence: abaissez tier's tubes porte chaque laissez tomber phase independently, et vert `1` tuile à le bas-gauche doit attendez jusqu'à border compteurs align.",
+          "Le plateau mélange violet, rouge et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow", "orange", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hT_Nx8ZCThY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hT_Nx8ZCThY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gardez les deux bleu 4 carrés sealed jusqu'à supérieur grille est fully videz — spending either tôt verrous 17 tube.",
+        "Dégagez bleu 1 barre à le haut de abaissez tier avant touching la droite-colonne rouge scraps.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez le haut rainbow rangée bas rouge gauche bas-arrow sans splitting jaune droite paire sur supérieur grille."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez restant supérieur-grille rangées à travers jaune droite bas-arrow jusqu'à le haut tier est fully videz."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dépensez les deux bleu 4 côté compteurs une fois supérieur grille dégage, unlocking abaissez 17 tube."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Cassez abaissez bleu 1 barre à le haut de le bas tier après 17 compteur hits zero."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez la gauche-border 5/1/1 compteurs et la droite-border 1/1 paire à travers côté voies."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Detonate vert 2×2 amas à le bas-centre et alimentez dernier rouge/rose droite-colonne scraps pour SUPER HARD plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Spending either bleu 4 compteur avant supérieur grille empties, locking 17 tube au-dessus 9.",
+        "Dégagement la droite-colonne rouge scraps avant bleu 1 barre breaks, re-sealing 13 tube."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/139/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 139",
+    "description": "Résolvez le niveau 139 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

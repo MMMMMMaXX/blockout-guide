@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-12",
+  "locale": "tr",
+  "levelNumber": 12,
+  "title": "Block Out Seviye 12 Rehberi",
+  "summary": "Block Out Seviye 12 bir Sandglass bulmaca ile iki odalar joined ile dar beldır. Pass uzun çubuklar merkez boğazdan alternatingde sıra, tut her ikisi de halves balanced, ve kullan temporary cepler için camgöbeği `2` tuğlalar.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "Block Out Seviye 12 bir Sandglass bulmaca ile iki odalar joined ile dar beldır. Pass uzun çubuklar merkez boğazdan alternatingde sıra, tut her ikisi de halves balanced, ve kullan temporary cepler için camgöbeği `2` tuğlalar.",
+        "landmarks": [
+          "Block Out Seviye 12 bir Sandglass bulmaca ile iki odalar joined ile dar beldır.",
+          "Pass uzun çubuklar merkez boğazdan alternatingde sıra, tut her ikisi de halves balanced, ve kullan temporary cepler için camgöbeği `2` tuğlalar.",
+          "Tahta mavi, kırmızı, camgöbeği ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Every strong hareket ettir either enters veya temizlenir bel.",
+        "Hareket ettir paired camgöbeği `2` tuğlalar sadece sonra uzun çubuk geçti.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Düşür bir merkez dikey çubuklar dar boğazdan böylece iki odalar stop sabitleyerek her diğer."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Değiştir üst kırmızı ve mavi sütunlar belden kadar bir yan sayaç küçülür enough ver ekstra alan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir paired camgöbeği `2` tuğlalar sadece sonra uzun çubuk geçti, böylece onlar kullan temporary cep yerine clogging o."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Tut alternating üst--alt ve alt--üst transfers merkez kadardan dış sarı sütunlar ebilir ayı cleanly."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan newly açıldı yan şeritler kaldır kırmızı sütunlar her odadan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile boşaltarak son sarı ve mavi sütunlar sonra boğaz hayır daha uzun occupied."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek temizle bir oda completely önce kullanarak diğer yarı.",
+        "Parking kısa blok boğazda ne zaman dolu sütun hâlâ gerektirir geç."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 12 Rehberi ve Çözümü",
+    "description": "Block Out seviye 12'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

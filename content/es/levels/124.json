@@ -1,0 +1,93 @@
+{
+  "id": "es-level-124",
+  "locale": "es",
+  "levelNumber": 124,
+  "title": "Guía de Block Out Nivel 124",
+  "summary": "Block Out nivel 124 es a Hard polyomino maze dónde a verde snake camino y a morado winding shape form one-way carriles por the grid. The rojo `32` star bloque y cian pocket son the main objectives, pero the snake y winding shapes dicta...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/124/",
+        "layout": "Block Out nivel 124 es a Hard polyomino maze dónde a verde snake camino y a morado winding shape form one-way carriles por the grid. The rojo `32` star bloque y cian pocket son the main objectives, pero the snake y winding shapes dictate el orden extraction — slide los fuera de sequence y the grid seals, trapping the numbered star bloques con no carril atrás.",
+        "landmarks": [
+          "Block Out nivel 124 es a Hard polyomino maze dónde a verde snake camino y a morado winding shape form one-way carriles por the grid.",
+          "The rojo `32` star bloque y cian pocket son the main objectives, pero the snake y winding shapes dictate el orden extraction — slide los fuera de sequence y the grid seals, trapping the numbered star bloques con no carril atrás.",
+          "El tablero mixes rojo, azul, cian y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["red", "blue", "cyan", "green", "orange", "yellow", "morado", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "K4yNR5TX9yc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=K4yNR5TX9yc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drena the cian `1`/`3`/`8` pocket en ascending orden antes moving the amarillo `1` baldosa.",
+        "Gasta the verde `9` contador antes breaking the rojo `32` star bloque.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Peel the superior-izquierdo azul bloques y unwind the verde snake camino without touching the rojo `32` star baldosa."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Elimina the superior `10`/`10` esquina labels y the izquierdo-borde verde `20` contador a abierto el centro maze."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Break the rojo `32` star bloque once the naranja L-shapes a lo largo el centro-derecho have room a shift."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Gasta the cian `1`/`3`/`8` pocket baldosas en orden — `1` primero, luego `3`, luego `8` — antes the amarillo `1` baldosa movimientos."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Detonate the mid-grid azul `15`, verde `9`, y cian `5` contadores mientras the morado winding shape es todavía movable."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina the restante naranja L-restos y the inferior blanco `3` stack para the PERFECT despejado."
+        }
+      ],
+      "failurePoints": [
+        "Tira the cian `8` baldosa antes the `1` — este boxes the amarillo `1` baldosa contra the morado snake.",
+        "Breaking the rojo `32` star antes the verde `9` contador clears, trapping the naranja L-shape en la pared derecho."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/124/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 124",
+    "description": "Resuelve Block Out nivel 124 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

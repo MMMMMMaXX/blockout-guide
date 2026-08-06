@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-83",
+  "locale": "zh-cn",
+  "levelNumber": 83,
+  "title": "Block Out 第83关攻略",
+  "summary": "Block Out 第83关是一个分层拼图，有三个不同的区域。顶层橙色边框中有两个沉重的紫色方块（各计数「12」）。中层塞满了彩色方块和锁/钥块。下方还隐藏着一个下层区域。先清空中层的锁钥方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "Block Out 第83关是一个分层拼图，有三个不同的区域。顶层橙色边框中有两个沉重的紫色方块（各计数「12」）。中层塞满了彩色方块和锁/钥块。下方还隐藏着一个下层区域。先清空中层的锁钥方块以创建通道，再将沉重的紫色方块送入其出口，最后处理下层区域。",
+        "landmarks": [
+          "Block Out 第83关是一个分层拼图，有三个不同的区域。",
+          "顶层橙色边框中有两个沉重的紫色方块（各计数「12」）。",
+          "中层塞满了彩色方块和锁/钥块。",
+          "下方还隐藏着一个下层区域。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在碰顶部的紫色方块之前，先彻底清空中层。",
+        "下层区域只有在中层基本清空后才可进入。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "通过侧边出口解锁并清空中层的锁/钥方块。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "从中层抽出彩色方块（红、绿、黄）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始将左侧的紫色方块（计数「12」）送入其出口。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "等第一个缩小得差不多后，输送右侧的紫色方块（计数「12」）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "清空下层区域两侧的蓝色和绿色方块。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理下层区域中剩余的方块。"
+        }
+      ],
+      "failurePoints": [
+        "在中层尚未创建通道之前就碰紫色方块——输送会立刻停滞。",
+        "忽视中层的锁/钥序列，导致方块被挡住且无法触及。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第83关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第83关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-109",
+  "locale": "de",
+  "levelNumber": 109,
+  "title": "Block Out Level 109 Lösung",
+  "summary": "Block Out Level 109 ist Super schwer blast Spielfeld built around three blau `6` pillars und Reihe von hammer tools. Hammers break pillar Kacheln, und gelb orb follows drawn rot und gelb paths zu beenden letzte clusters. Catch ist...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/109/",
+        "layout": "Block Out Level 109 ist Super schwer blast Spielfeld built around three blau `6` pillars und Reihe von hammer tools. Hammers break pillar Kacheln, und gelb orb follows drawn rot und gelb paths zu beenden letzte clusters. Catch ist sequencing: once rechts hammer ist spent, Mitte blast orb muss fire — aber triggering es bevor links Pfad räumt strands half das Spielfeld.",
+        "landmarks": [
+          "Block Out Level 109 ist Super schwer blast Spielfeld built around three blau `6` pillars und Reihe von hammer tools.",
+          "Hammers break pillar Kacheln, und gelb orb follows drawn rot und gelb paths zu beenden letzte clusters.",
+          "Catch ist sequencing: once rechts hammer ist spent, Mitte blast orb muss fire — aber triggering es bevor links Pfad räumt strands half das Spielfeld."
+        ],
+        "colors": ["blue", "red", "purple", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MOEMMEAt4Lg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MOEMMEAt4Lg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gelb blast orb ist finisher, nicht opener.",
+        "Aufsparen gelb hammer bis obere rechte `10` Zähler ist visible.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Verwenden grün hammer Kachel auf links blau `6` pillar zu fallen lassen obere linke `13` Zähler."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Spend lila hammer auf Mitte `6` pillar once links rail reads `10`."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen links `8` Kachel along rot guide Pfad bevor touching rechts pillar."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Aufsparen gelb hammer bis obere rechte `10` Zähler ist visible und rechts rail still zeigt `7`."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Break rechts blau `6` pillar, dann bewegen gelb blast orb along gelb guide Pfad."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden unten gelb Kachel unter starburst und close remaining Seite-rail `9` count."
+        }
+      ],
+      "failurePoints": [
+        "Triggering gelb blast orb bevor links `8` Kachel ist gone.",
+        "Spending gelb hammer too früh, leaving rechts pillar unbreakable."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/109/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 109 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 109 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

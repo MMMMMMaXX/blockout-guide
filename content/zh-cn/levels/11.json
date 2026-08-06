@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-11",
+  "locale": "zh-cn",
+  "levelNumber": 11,
+  "title": "Block Out 第 11 关通关攻略",
+  "summary": "Block Out 第 11 关是一道倒计时墙谜题。先磨掉右侧高耸的青色方块列，把中间的阻挡脊消入其中，并把左侧的粉色和绿色顶块留到墙面只剩个位数时再处理。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "Block Out 第 11 关是一道倒计时墙谜题。先磨掉右侧高耸的青色方块列，把中间的阻挡脊消入其中，并把左侧的粉色和绿色顶块留到墙面只剩个位数时再处理。",
+        "landmarks": [
+          "Block Out 第 11 关是一道倒计时墙谜题。",
+          "先磨掉右侧高耸的青色方块列，把中间的阻挡脊消入其中，并把左侧的粉色和绿色顶块留到墙面只剩个位数时再处理。",
+          "棋盘上混合了粉色、绿色、白色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["pink", "green", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右侧的青色方块列开局时就是主要目标。",
+        "粉色和绿色是后期才移动的方块。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先用上方黑白相间的方块去撞击右侧的倒计时墙，把标着 `16` 的方块堆降下来。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "持续把中间的阻挡脊向右推送，同时左侧的计数方块也会逐格下降。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "把顶部的粉色横条和两根绿色横条停在原位，直到右侧墙面降到个位数。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "当阻挡脊基本消除后，把顶部绿色横条滑入顶部出口，清空上方通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "等黑色底座打开后，把下方绿色横条沿地面旋转横移。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "把粉色横条留到后期清理，等绿色方块先离开后再处理。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "等倒计时墙几乎清空时，用最后的黑白残余方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在中间阻挡脊还没完成大部分倒计时工作前就移动粉色顶块。",
+        "只处理左侧的小计数器，而忽视了右侧的大墙。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 11 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 11 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

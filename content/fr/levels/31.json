@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-31",
+  "locale": "fr",
+  "levelNumber": 31,
+  "title": "Guide Block Out Niveau 31",
+  "summary": "Block Out Niveau 31 est numéroté-cascade plateau où dalles cyan étiqueté `5`, `9`, `10`, et `13` sont empilé de haut à bas et pinned dans placez par blanc et noir vertical barres. dalles doit quittez dans ascending ordre — `5` premier, `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "Block Out Niveau 31 est numéroté-cascade plateau où dalles cyan étiqueté `5`, `9`, `10`, et `13` sont empilé de haut à bas et pinned dans placez par blanc et noir vertical barres. dalles doit quittez dans ascending ordre — `5` premier, `13` dernier — et vertical barres entre les sont premier things à pelez, parce que ils sont seulement chemin à déverrouillez chaque dalle dans sequence.",
+        "landmarks": [
+          "Block Out Niveau 31 est numéroté-cascade plateau où dalles cyan étiqueté `5`, `9`, `10`, et `13` sont empilé de haut à bas et pinned dans placez par blanc et noir vertical barres.",
+          "Dalles doit quittez dans ascending ordre — `5` premier, `13` dernier — et vertical barres entre les sont premier things à pelez, parce que ils sont seulement chemin à déverrouillez chaque dalle dans sequence.",
+          "Le plateau mélange vert, cyan et jaune et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Count numéros haut à bas: si dalle's numéro est higher que one toujours sitting au-dessus il, ordre est faux.",
+        "Vertical barres sont pas obstacles à work autour — ils sont premier things à remove.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez supérieur droit blocs blanc et la gauche jaune vertical colonne à create bord espace."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez vert `5` block out de le coin supérieur gauche une fois le haut rangée opens."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez freed haut rangée à pelez noir vertical barres loin de le centre `9` dalle."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Décalez `9` dalle une fois le centre voie opens, qui loosens deux `10` dalles sous."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Déplacez `10` dalles one à time — supérieur one premier — après le centre est dégagez assez pour leur width."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Avec `10`s hors, le bas-centre `13` dalle finally a voie. Glissez il vers nearest ouvrez sortie."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par dégagement restant petit vert, jaune, et barre noir fragments après all numéroté dalles ont gauche."
+        }
+      ],
+      "failurePoints": [
+        "Attempting à déplacez `13` dalle avant `10`s au-dessus il ont cleared — le bas-centre est completely blocked jusqu'à cascade sequence atteint il.",
+        "Laissant vertical barres dans placez et essayant à glissez numéroté dalles à travers étroit restant gaps, qui stalls plateau immediately."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 31",
+    "description": "Résolvez le niveau 31 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

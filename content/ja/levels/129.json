@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-129",
+  "locale": "ja",
+  "levelNumber": 129,
+  "title": "ブロックアウト レベル129 攻略",
+  "summary": "ブロックアウト レベル129は「スーパーハード」の2段階パズルです—前半は容器供給の詰め込み盤面、後半は段状の紫の壁の区切りを赤の十字が滑る形に変わります。上部の容器をカウンターが「4」から下がっている間に空にし…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/129/",
+        "layout": "ブロックアウト レベル129は「スーパーハード」の2段階パズルです—前半は容器供給の詰め込み盤面、後半は段状の紫の壁の区切りを赤の十字が滑る形に変わります。上部の容器をカウンターが「4」から下がっている間に空にし、次に赤の十字を次第に狭まる隙間を通して進めます。シアンの「2」タイルを早く無理に動かすと、十字がスライド途中で壁に押し付けられます。",
+        "landmarks": [
+          "ブロックアウト レベル 129 2段階の — -通す 詰め、赤 横切る スライドさせ 紫 壁 .。",
+          "上 カウンター `4`、赤 横切る .。",
+          "シアンのを無理に動かして`2` タイル、横切る 壁 -スライドさせる.。"
+        ],
+        "colors": ["purple", "blue", "red", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Qhu6W_7y5o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Qhu6W_7y5o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "カウンター、赤 横切る .。",
+        "シアン `2` タイル 遠い 右 罠 動かし、赤 塊 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "紫のを消去して左に、`5` 列、青 `8` ブロック 下の `5` .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "揃いを通して下- 下の オレンジ- `5`、進める 上の `21` .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤のを割りて/黄/緑 -、右-レール `3` カウンター .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "密集したを消去して中央の、横切る .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "赤のをスライドさせてピース 上の 紫 壁、下の 紫 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "赤のを落として横切る 下 赤 矢印 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "開始 赤 横切る 上 示し — 壁 残す .。",
+        "動かし シアン `2` タイル、赤 塊 右 消去し.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/129/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル129 攻略と解説",
+    "description": "ブロックアウト レベル129 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

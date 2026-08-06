@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-26",
+  "locale": "zh-cn",
+  "levelNumber": 26,
+  "title": "Block Out 第 26 关通关攻略",
+  "summary": "Block Out 第 26 关是一个桥接与 Boss 棋盘。先让上方腔室排入 `18` 咽喉，再降低桥梁，最后才让下方巨大的 `21` Boss 开始坍塌。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "Block Out 第 26 关是一个桥接与 Boss 棋盘。先让上方腔室排入 `18` 咽喉，再降低桥梁，最后才让下方巨大的 `21` Boss 开始坍塌。",
+        "landmarks": [
+          "Block Out 第 26 关是一个桥接与 Boss 棋盘。",
+          "先让上方腔室排入 `18` 咽喉，再降低桥梁，最后才让下方巨大的 `21` Boss 开始坍塌。",
+          "棋盘混合了粉色、绿色、白色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`18` 咽喉开启了本关。",
+        "下方的 `21` 面板是第二阶段的目标。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将上方腔室喂入中央 `18` 咽喉，并开始降低其计数。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在下方 `21` 面板保持未触及时，继续削薄顶部的侧边计数器。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "利用顶部房间里的黑白阻挡块，防止桥梁重新填满。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦 `18` 通道大幅降低，就打开通往下方腔室的通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "只有在桥梁不再拥挤后，才开始收缩 `21` Boss。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "一旦底部房间有实际空间，就旋转后期的紫色和红色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在下方 Boss 已经落下后，用顶部的最后残余收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在桥梁打开之前就试图处理下方 Boss。",
+        "在 `18` 咽喉已经开始下落后，又让上方腔室将其重新填满。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 26 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 26 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

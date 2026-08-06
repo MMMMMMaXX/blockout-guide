@@ -1,0 +1,119 @@
+{
+  "id": "tr-level-200",
+  "locale": "tr",
+  "levelNumber": 200,
+  "title": "Block Out Seviye 200 Anlatımı",
+  "summary": "Block Out! Seviye 200 Çözüm Anlatımı. Bu kolay tahtayı temizlemek için gömülü anlatımı izleyin.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/200.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/200",
+        "layout": "Block Out seviye 200, mavi, kırmızı, pembe, sarı ve yeşil karoların baskın olduğu bir kolay renk sıralı tahtada açılır. Tam başlangıç düzeni ve doğrulanmış çözüm gömülü anlatım videosunda gösterilmiştir; hamle sırasını uygulamadan önce tahtanızı videoyla eşleştirin.",
+        "landmarks": [
+          "The tahta prominently features blue, red, ve pink bloklar.",
+          "Renk gruplar must be separated ve stacked to temizle the level.",
+          "The embedded walkthrough shows the exact starting layout ve solution order."
+        ],
+        "colors": ["blue", "red", "pink", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rXYPO2Bx3yo",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=rXYPO2Bx3yo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Açılış tahta"
+        },
+        {
+          "seconds": 66,
+          "label": "First birleştirir"
+        },
+        {
+          "seconds": 131,
+          "label": "Mid-tahta temizleme"
+        },
+        {
+          "seconds": 193,
+          "label": "Final çıkış"
+        }
+      ],
+      "quickTips": [
+        "Grup the blue ve red bloklar first — they dominate the açılış tahta, so temizleme them early opens the most alan.",
+        "Keep one sütun empty as a tampon until your first two birleştirir are done; it is the only safe place to reverse a bad hareket.",
+        "Park mixed or trapped pink bloklar in the shortest sütun, never the tallest one, so you keep a clean çıkış şerit.",
+        "If two sütunlar share the same top renk, birleştir the alt-risk one first ve save the other for the finale."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Eşleştir the tahta",
+          "instruction": "Confirm the blue/red layout eşleştirir the walkthrough before you hareket; a different variant means a different solution.",
+          "image": "/boards/200.avif",
+          "imageAlt": "Blok Out level tahta reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Temizle the dominant renk",
+          "instruction": "Birleştir the blue sütunlar first to free the largest area of the tahta ve reduce the parçalar you must track.",
+          "image": "/boards/200.avif",
+          "imageAlt": "Blok Out level tahta reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Open a tampon şerit",
+          "instruction": "Shift red bloklar kenara içine one short sütun so mixed yığınlar stay separable ve the çıkış şerit stays open.",
+          "image": "/boards/200.avif",
+          "imageAlt": "Blok Out level tahta reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Work top-down",
+          "instruction": "Temizle from the top so nothing locks early; keep the tampon sütun available until the tahta is nearly empty.",
+          "image": "/boards/200.avif",
+          "imageAlt": "Blok Out level tahta reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Rota the çıkış",
+          "instruction": "Send the last bloklar out üzerinden the same şerit shown in the video, in the order the walkthrough demonstrates.",
+          "image": "/boards/200.avif",
+          "imageAlt": "Blok Out level tahta reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "Merging the tallest sütun first burns your only tampon şerit ve traps the alt bloklar arkasında it.",
+        "Chasing a full blue yığın before separating mixed renkler leaves bloklar you can no longer reach.",
+        "Starting the timer before the tahta is eşleşti wastes 8–12 seconds of recovery on a easy tahta.",
+        "Letting red bloklar sit arkasında others forces a restart you could have avoided with one early shift."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/200",
+    "https://www.youtube.com/watch?v=rXYPO2Bx3yo",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 200 Anlatımı ve Çözümü",
+    "description": "Block Out seviye 200'i doğrulanmış kolay anlatım videosu ve tahta renkleriyle çözün. Başlangıç tahtanızı eşleştirmek için gömülü çözümü izleyin."
+  },
+  "updatedAt": "2026-08-03"
+}

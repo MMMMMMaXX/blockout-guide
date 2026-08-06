@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-83",
+  "locale": "fr",
+  "levelNumber": 83,
+  "title": "Guide Block Out Niveau 83",
+  "summary": "Block Out Niveau 83 est tiered énigme avec trois distinct sections. Deux heavy blocs violet (compteur '12' chaque) restez dans orange cadres sur le haut tier. milieu tier est packed avec blocs colorés et verrou/clé pièces. abaissez chambre hide...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "Block Out Niveau 83 est tiered énigme avec trois distinct sections. Deux heavy blocs violet (compteur '12' chaque) restez dans orange cadres sur le haut tier. milieu tier est packed avec blocs colorés et verrou/clé pièces. abaissez chambre hides beneath. Dégagez le milieu tier's verrou-et-clé blocs premier à create voies, alors alimentez heavy blocs violet à travers leur sorties, et terminez avec abaissez chambre.",
+        "landmarks": [
+          "Block Out Niveau 83 est tiered énigme avec trois distinct sections.",
+          "Deux heavy blocs violet (compteur '12' chaque) restez dans orange cadres sur le haut tier.",
+          "Milieu tier est packed avec blocs colorés et verrou/clé pièces.",
+          "Abaissez chambre hides beneath."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez entire milieu tier avant touching les blocs violet au-dessus.",
+        "Abaissez chambre seulement becomes accessible après le milieu est mostly videz.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Déverrouillez et dégagez verrou/clé blocs dans le milieu tier à travers côté sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract blocs colorés (rouge, vert, jaune) de le milieu tier."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez feeding la gauche bloc violet (compteur '12') à travers son sortie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Alimentez la droite bloc violet (compteur '12') une fois premier a shrunk assez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez bleu et blocs vert flanking abaissez chambre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant pièces dans abaissez chambre."
+        }
+      ],
+      "failurePoints": [
+        "Touching un bloc violet avant le milieu tier a created voies — alimentez stalls immediately.",
+        "Ignoring verrou/clé sequence dans le milieu tier, laissant blocs gated et inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 83",
+    "description": "Résolvez le niveau 83 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

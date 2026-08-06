@@ -1,0 +1,93 @@
+{
+  "id": "de-level-76",
+  "locale": "de",
+  "levelNumber": 76,
+  "title": "Block Out Level 76 Lösung",
+  "summary": "Block Out Level 76 packs 5×7 Raster mit numbered blau Blöcke — Zähler '10' und '1' auf oben, '1' in mittlere, '4' und '1' bei unten. Blau '10' Block needs 10 exits — räumen unten erste, dann arbeiten numbered Blöcke nach oben...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/76/",
+        "layout": "Block Out Level 76 packs 5×7 Raster mit numbered blau Blöcke — Zähler '10' und '1' auf oben, '1' in mittlere, '4' und '1' bei unten. Blau '10' Block needs 10 exits — räumen unten erste, dann arbeiten numbered Blöcke nach oben, und beenden mit heavy '10' Block bei oben.",
+        "landmarks": [
+          "Block Out Level 76 packs 5×7 Raster mit numbered blau Blöcke — Zähler '10' und '1' auf oben, '1' in mittlere, '4' und '1' bei unten.",
+          "Blau '10' Block needs 10 exits — räumen unten erste, dann arbeiten numbered Blöcke nach oben, und beenden mit heavy '10' Block bei oben.",
+          "Das Spielfeld mixes Blau, Rot, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "t-dHXsPpANQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=t-dHXsPpANQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'10' Block ist marathon — räumen smaller numbered Blöcke erste zu build Platz.",
+        "Räumen unten erste zu give numbered Blöcke sliding Raum.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen rot und grün Blöcke bei unten durch rechts Ausgang zu öffnen base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben blau Blöcke auf links hinaus durch links Ausgang zu öffnen untere linke Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin räumend numbered blau Blöcke in mittlere durch ihr gates — Zähler decrease als sie Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen blau '4' Block auf links durch links Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Tackle blau '10' Block bei oben — es needs 10 exits zu fully räumen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining blau '1' Blöcke eingesperrt in corners."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu räumen '10' Block bevor smaller numbered Blöcke — es needs Raum zu schieben und Ausgang multiple times.",
+        "Räumend oben bevor unten, welche lässt untere Blöcke eingesperrt mit kein sliding Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/76/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 76 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 76 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

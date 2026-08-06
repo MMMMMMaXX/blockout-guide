@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-83",
+  "locale": "pt-br",
+  "levelNumber": 83,
+  "title": "Guia do nível 83 do Block Out",
+  "summary": "Block Out Nível 83 é tiered quebra-cabeça com três distinct seções. Dois pesado roxo blocos (contador '12' cada) fica em laranja molduras em superior nível. meio nível é empacotado com colorido blocos e cadeado/chave peças. inferior câmara oculte...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "Block Out Nível 83 é tiered quebra-cabeça com três distinct seções. Dois pesado roxo blocos (contador '12' cada) fica em laranja molduras em superior nível. meio nível é empacotado com colorido blocos e cadeado/chave peças. inferior câmara hides abaixo. Limpar meio nível's cadeado-e-chave blocos primeiro para crie pistas, então alimente pesado roxo blocos através seus saídas, e termine com inferior câmara.",
+        "landmarks": [
+          "Block Out Nível 83 é tiered quebra-cabeça com três distinct seções.",
+          "Dois pesado roxo blocos (contador '12' cada) fica em laranja molduras em superior nível.",
+          "Meio nível é empacotado com colorido blocos e cadeado/chave peças.",
+          "Inferior câmara hides abaixo."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar entire meio nível antes que tocando roxo blocos acima.",
+        "Inferior câmara único becomes accessible depois meio é principalmente vazio.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Desbloqueie e limpar cadeado/chave blocos em meio nível através lateral saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia colorido blocos (vermelho, verde, amarelo) de meio nível."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece alimentando esquerda roxo bloco (contador '12') através seu saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente direita roxo bloco (contador '12') uma vez primeiro tem shrunk suficiente."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar azul e verde blocos flanking inferior câmara."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante peças em inferior câmara."
+        }
+      ],
+      "failurePoints": [
+        "Tocando roxo bloco antes que meio nível tem created pistas — alimente stalls immediately.",
+        "Ignorando cadeado/chave sequência em meio nível, deixando blocos comporta e inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 83 do Block Out",
+    "description": "Resolva o nível 83 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

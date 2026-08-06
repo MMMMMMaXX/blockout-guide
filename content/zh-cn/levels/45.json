@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-45",
+  "locale": "zh-cn",
+  "levelNumber": 45,
+  "title": "Block Out 第 45 关通关攻略",
+  "summary": "Block Out 第 45 关是一个由外而内的拼图：下半部由红、蓝、绿、黄大型方块组成的厚实外框，围住了较小的带框目标方块。必须先从顶部和侧边剥离外框——大型方块先……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "Block Out 第 45 关是一个由外而内的拼图：下半部由红、蓝、绿、黄大型方块组成的厚实外框，围住了较小的带框目标方块。必须先从顶部和侧边剥离外框——大型方块先于目标方块离场。中心一旦打开，带框目标方块才能最终经由出口送出。这反转了常见的 Boss 模式：大块是开场者，小块是收尾者。",
+        "landmarks": [
+          "Block Out 第 45 关是一个由外而内的拼图：下半部由红、蓝、绿、黄大型方块组成的厚实外框，围住了较小的带框目标方块。",
+          "必须先从顶部和侧边剥离外框——大型方块先于目标方块离场。",
+          "中心一旦打开，带框目标方块才能最终经由出口送出。",
+          "这反转了常见的 Boss 模式：大块是开场者，小块是收尾者。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "大型方块是外框而非目标——先剥离它们。",
+        "带框目标方块是收尾者，只有中心出现真正通道后才会移动。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "从上方边缘取出方块，在外框上开出第一个缺口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将左上角的大型蓝色方块移向左侧出口。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "接着移动右上角的大型红色方块。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用腾出的顶部空间移动绿色中央方块，为目标方块下方的通路打开一条通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "旋转第一个带框目标方块，穿过拓宽的中心并从出口送出。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "待第一个目标方块离开、中心更宽后，送入第二个带框目标方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "两个目标方块都离开后，处理外框最后的碎片完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在外框尚未打开前就试图移动带框目标方块——目标方块需要一条穿过中心的宽通道，而那只有在大型方块消失后才存在。",
+        "只剥离外框的一侧、而让对侧保持厚实，会从另一方向堵住目标方块的路径。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 45 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 45 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

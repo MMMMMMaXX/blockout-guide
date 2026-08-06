@@ -1,0 +1,101 @@
+{
+  "id": "es-level-96",
+  "locale": "es",
+  "levelNumber": 96,
+  "title": "Guía de Block Out Nivel 96",
+  "summary": "Block Out nivel 96 es a pure density puzzle — no cámaras, no marcos, solo pared-a-pared de color bloques de varying sizes. A tall rojo bloque con contador `12` divides el centro like una pared, two grande morado bloques (contadores `9` y `5`) do...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "Block Out nivel 96 es a pure density puzzle — no cámaras, no marcos, solo pared-a-pared de color bloques de varying sizes. A tall rojo bloque con contador `12` divides el centro like una pared, two grande morado bloques (contadores `9` y `5`) dominate the derecho half, y naranja/verde bloques fill the izquierdo. Elimina el contador pequeño-`1` borde bloques primero para breathing room, unlock the gated verde `3` bloque, luego feed the grande piezas por su más cercano salidas.",
+        "landmarks": [
+          "Block Out nivel 96 es a pure density puzzle — no cámaras, no marcos, solo pared-a-pared de color bloques de varying sizes.",
+          "A tall rojo bloque con contador `12` divides el centro like una pared, two grande morado bloques (contadores `9` y `5`) dominate the derecho half, y naranja/verde bloques fill the izquierdo.",
+          "Elimina el contador pequeño-`1` borde bloques primero para breathing room, unlock the gated verde `3` bloque, luego feed the grande piezas por su más cercano salidas."
+        ],
+        "colors": ["red", "blue", "green", "morado", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Elimina el contador pequeño-`1` borde bloques primero — cada one creates room para the grande bloques a shift.",
+        "Desbloquea the verde `3` bloque early por removing su amarillo clave — lo puertas the izquierdo-lado camino.",
+        "The tall rojo `12` bloque divides el tablero like una pared — despejado both lados de lo antes starting su feed."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina el contador pequeño-`1` bloques alrededor el bordes: naranja upward (superior salida), amarillo `1` rightward (derecho-pared salida), cian `1` downward (inferior salida) — cada creates breathing room (02:54–02:48 en el vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Empuja the amarillo clave bloque cerca el centro por el salida derecho a unlock the gated verde `3` bloque (02:42)."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza feeding the superior morado `9` bloque por the derecho-pared salida — nine pasadas (02:42–02:30)."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the unlocked verde `3` bloque por the izquierdo-pared salida ahora ese la puerta es abierto (02:30)."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Empieza feeding the tall rojo `12` bloque por the izquierdo-pared salida — twelve pasadas, keeping el carril izquierdo despejado de debris (02:25–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Introduce the inferior morado `5` bloque por the inferior derecho-pared salida — five pasadas (02:13–02:07)."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Elimina restante naranja, amarillo, y azul bloques por su más cercano salidas mientras el tablero opens (02:07–02:01)."
+        },
+        {
+          "order": 8,
+          "title": "Mueve 8",
+          "instruction": "Termina con the último pequeño bloques en the inferior once el tablero es mostly abierto (01:56)."
+        }
+      ],
+      "failurePoints": [
+        "Starting the tall rojo `12` bloque feed antes clearing the pequeño debris en el lado izquierdo — lo stalls mid-feed y traps the naranja y verde bloques detrás lo.",
+        "Ignoring the locked verde `3` bloque's clave early en — el bloque clave debe salida antes el bloque verde puede movimiento, y leaving lo late creates a bottleneck."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 96",
+    "description": "Resuelve Block Out nivel 96 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

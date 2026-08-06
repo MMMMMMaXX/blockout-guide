@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-104",
+  "locale": "tr",
+  "levelNumber": 104,
+  "title": "Block Out Seviye 104 Rehberi",
+  "summary": "Block Out Seviye 104 bir Gravity tahta — yeşil-ok karolar sadece düş aşağı doğru, ve zincir reactions ripple sol sağ sütunlara çökertdır. Tehlike temizleyerek merkez çok erken, önce sağ-sütun ok karolar settled, hangi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out Seviye 104 bir Gravity tahta — yeşil-ok karolar sadece düş aşağı doğru, ve zincir reactions ripple sol sağ sütunlara çökertdır. Tehlike temizleyerek merkez çok erken, önce sağ-sütun ok karolar settled, hangi cuts son zincirden reaction ki sweeps tahta temiz.",
+        "landmarks": [
+          "Block Out Seviye 104 bir Gravity tahta — yeşil-ok karolar sadece düş aşağı doğru, ve zincir reactions ripple sol sağ sütunlara çökertdır.",
+          "Tehlike temizleyerek merkez çok erken, önce sağ-sütun ok karolar settled, hangi cuts son zincirden reaction ki sweeps tahta temiz.",
+          "Tahta camgöbeği, yeşil, turuncu ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["cyan", "green", "orange", "purple", "pink", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Halve sol duvar önce triggering merkez eşleştir zincir.",
+        "Ok karolar cannot kenara al — onlar gerektir dolu açık sütun doğrudan altında onları.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst sol istifler üst çıkışlardan açık ilk aşağı doğru sütun."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Çek yeşil ve camgöbeği karolar dışarı sol duvar önce dokunarak merkez çiftler."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Trigger üst-orta eşleştir zincir sonra dikey boşluk runs altında o (starburst 01:42)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan mavi splash sütun düşür kalan merkez ok karolar straight aşağı."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sweep sağ-yan turuncu ve mor ok karolar sağdan-duvar çıkışlar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir alt-sıra pembe ve mavi tekliler sonra ızgara çoğunlukla boş."
+        }
+      ],
+      "failurePoints": [
+        "Eşleştirerek merkez küme önce sol duvar yarı gitti — sağ-sütun ok karolar sonra hayır düşür şerit.",
+        "Temizleyerek alt tekliler çok erken sırasında üst ok karolar hâlâ blok sütunlar üstünde onları."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 104 Rehberi ve Çözümü",
+    "description": "Block Out seviye 104'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

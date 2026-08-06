@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-130",
+  "locale": "fr",
+  "levelNumber": 130,
+  "title": "Guide Block Out Niveau 130",
+  "summary": "Block Out Niveau 130 chains 10-large supérieur grille à séparé abaissez compteur cadre à travers verrou-et-clé mechanism — bleu verrou et violet clé tuile restez dans le centre rangée, et correspondant les opens alimentez voie entre plateaux. rouge roc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "Block Out Niveau 130 chains 10-large supérieur grille à séparé abaissez compteur cadre à travers verrou-et-clé mechanism — bleu verrou et violet clé tuile restez dans le centre rangée, et correspondant les opens alimentez voie entre plateaux. rouge rocket-marked blocs dans supérieur grille look urgent mais sont juste traffic. Déplacez les avant verrou/clé breaks et abaissez vert arrow voie sceaux permanently.",
+        "landmarks": [
+          "Block Out Niveau 130 chains 10-large supérieur grille à séparé abaissez compteur cadre à travers verrou-et-clé mechanism — bleu verrou et violet clé tuile restez dans le centre rangée, et correspondant les opens alimentez voie entre plateaux.",
+          "Rouge rocket-marked blocs dans supérieur grille look urgent mais sont juste traffic.",
+          "Déplacez les avant verrou/clé breaks et abaissez vert arrow voie sceaux permanently."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "violet", "pink", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gardez rouge rocket blocs garé jusqu'à bleu verrou/violet clé paire breaks.",
+        "Abaissez cadre compteur tombent de `20` à `17` comme supérieur grille dégage — regardez il avant final poussez.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez le haut-rangée blocs utilisant bleu haut-arrow, alors dégagez vert cadenas tuiles sur supérieur bande."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez chaîne-linked droite-côté paire sans shifting rouge rocket blocs yet."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Correspondre bleu verrou tuile avec violet clé tuile dans le centre rangée à ouvrez abaissez cadre."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Acheminez supérieur grille sorties à travers la gauche rouge et droite orange arrow voies."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez le bas compteurs `4`, `5`, et `1` à alimentez abaissez `17` cadre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez dernier supérieur scraps et zero abaissez compteur tuile pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant rouge rocket blocs avant verrou/clé paire breaks — abaissez vert arrow voie sceaux shut.",
+        "Breaking chaîne link pendant cadenas tuiles sont toujours sur supérieur bande."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 130",
+    "description": "Résolvez le niveau 130 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

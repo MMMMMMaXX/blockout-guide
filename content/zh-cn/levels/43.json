@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-43",
+  "locale": "zh-cn",
+  "levelNumber": 43,
+  "title": "Block Out 第 43 关通关攻略",
+  "summary": "Block Out 第 43 关是一张密集的四格骨牌棋盘，核心是一块占据中右部、同时封堵四个方向的大型蓝色十字形方块。红色 L 形块布满左侧与下方区域，绿色方块位于右下方……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/43/",
+        "layout": "Block Out 第 43 关是一张密集的四格骨牌棋盘，核心是一块占据中右部、同时封堵四个方向的大型蓝色十字形方块。红色 L 形块布满左侧与下方区域，绿色方块位于右下方，黄色方块散落在中左侧。解法由外向内剥离：先取出红色 L 形块，待蓝色十字形方块腾出空间后移动它，最后将绿、黄方块经底部出口送出。",
+        "landmarks": [
+          "Block Out 第 43 关是一张密集的四格骨牌棋盘，核心是一块占据中右部、同时封堵四个方向的大型蓝色十字形方块。",
+          "红色 L 形块布满左侧与下方区域，绿色方块位于右下方，黄色方块散落在中左侧。",
+          "解法由外向内剥离：先取出红色 L 形块，待蓝色十字形方块腾出空间后移动它，最后将绿、黄方块经底部出口送出。"
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OlsWS-kJ0KI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OlsWS-kJ0KI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "蓝色十字形方块同时封堵四个方向——在四周 L 形块削减前不要试图移动它。",
+        "先从左侧边缘清除红色 L 形块，以腾出最大空间。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将一个小方块从顶部出口滑出，开出第一个缺口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将红色 L 形方块从左侧经侧边出口取出。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "削减中左侧的黄色方块，为蓝色十字形方块腾出移动空间。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "待四周空间足够宽后，旋转蓝色十字形方块。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "十字形方块移走后，将绿色方块滑向底部出口。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "将残余的红、黄方块碎片经可用出口清除。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "待棋盘基本清空后，处理最后一个方块完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在四周 L 形块削减前就强行让蓝色十字形方块穿过窄缝——十字形方块需要在多个方向都有空间才能移动。",
+        "忽视左侧红色 L 形块而从底部开始，会导致中心过于拥挤，十字形方块无法旋转。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/43/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 43 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 43 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

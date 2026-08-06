@@ -1,0 +1,98 @@
+{
+  "id": "de-level-25",
+  "locale": "de",
+  "levelNumber": 25,
+  "title": "Block Out Level 25 Lösung",
+  "summary": "Block Out Level 25 ist sandglass support Puzzle mit hoch Seite rails. Öffnen weiß-und-schwarz waist erste, drehen untere pink-türkis chamber second, und nur dann starten spending long framed Seite Spalten.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "Block Out Level 25 ist sandglass support Puzzle mit hoch Seite rails. Öffnen weiß-und-schwarz waist erste, drehen untere pink-türkis chamber second, und nur dann starten spending long framed Seite Spalten.",
+        "landmarks": [
+          "Block Out Level 25 ist sandglass support Puzzle mit hoch Seite rails.",
+          "Öffnen weiß-und-schwarz waist erste, drehen untere pink-türkis chamber second, und nur dann starten spending long framed Seite Spalten.",
+          "Das Spielfeld mixes Lila, Grün, Pink und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "green", "pink", "cyan", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Öffnen waist bevor touching Seite rails.",
+        "Untere chamber needs Raum bevor hoch Seite Spalten kann travel.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen weiß ladders und schwarz Blockierer weg von sandglass neck."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten long framed Seite Spalten geparkt while obere choke ist still narrow."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Once waist öffnet, drehen untere pink und türkis mass also chamber stops pressing nach oben."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen one hoch Seite Spalte nur nach untere chamber hat created real empty Platz."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden new Raum zu trennen second hoch Seite Spalte und inner grün entfernen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden untere chamber bevor letzte Seite Spalte lässt."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "End mit remaining grün ansteuern nach neck ist completely öffnen."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu spend Seite rail while waist ist still narrow.",
+        "Ignoring untere chamber und overfocusing auf hoch rails."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 25 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 25 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-72",
+  "locale": "fr",
+  "levelNumber": 72,
+  "title": "Guide Block Out Niveau 72",
+  "summary": "Block Out Niveau 72 packs 5×7 grille avec blocs numérotés '6' et '11' sur sides, libérez-sliding blocs smiley dans le milieu, et directional arrow blocs sur bords. blocs numérotés doit sortie à travers leur portes pendant smiley b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out Niveau 72 packs 5×7 grille avec blocs numérotés '6' et '11' sur sides, libérez-sliding blocs smiley dans le milieu, et directional arrow blocs sur bords. blocs numérotés doit sortie à travers leur portes pendant blocs smiley sont libérez à déplacez. Dégagez le bas premier, alors work blocs smiley, et terminez avec blocs numérotés.",
+        "landmarks": [
+          "Block Out Niveau 72 packs 5×7 grille avec blocs numérotés '6' et '11' sur sides, libérez-sliding blocs smiley dans le milieu, et directional arrow blocs sur bords.",
+          "Blocs numérotés doit sortie à travers leur portes pendant blocs smiley sont libérez à déplacez.",
+          "Dégagez le bas premier, alors work blocs smiley, et terminez avec blocs numérotés."
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Blocs smiley dans le milieu sont libérez-sliding — utilisez ce freedom à dégagez paths pour blocs numérotés.",
+        "Dégagez lighter '6' bloc premier, alors heavier '11' blocs.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez vert blocs smiley à le bas à travers la sortie inférieure à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs jaune sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez sliding orange et jaune blocs smiley dans le milieu freely — ils peut déplacez dans un direction."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez les blocs bleu sur la droite à travers la sortie droite comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tackle blocs numérotés avec compteurs '6' et '11' — dégagez lighter '6' premier."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec heavier '11' blocs, qui ont most salle après others sont cleared."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement numéroté '11' blocs avant blocs smiley — '11' blocs besoin salle à glissez et sortie multiple times.",
+        "Dégagement le haut avant le bas, qui leaves abaissez blocs piégé avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 72",
+    "description": "Résolvez le niveau 72 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

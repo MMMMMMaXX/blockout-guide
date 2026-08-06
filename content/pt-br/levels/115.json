@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-115",
+  "locale": "pt-br",
+  "levelNumber": 115,
+  "title": "Guia do nível 115 do Block Out",
+  "summary": "Block Out Nível 115 divide tabuleiro em três colunas comporta por direcional setas — verde, rosa, e azul go cima enquanto vermelho, amarelo, e laranja go baixo. rosa dotted conector entre dois `7` pares é chave peça: solte ele através ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/115/",
+        "layout": "Block Out Nível 115 divide tabuleiro em três colunas comporta por direcional setas — verde, rosa, e azul go cima enquanto vermelho, amarelo, e laranja go baixo. rosa dotted conector entre dois `7` pares é chave peça: solte ele através meio coluna primeiro e empilha acima pode finalmente escoe. Touch esquerda-coluna `1` empilhe antes que centro reshapes e conector obtém enterrado.",
+        "landmarks": [
+          "Block Out Nível 115 divide tabuleiro em três colunas comporta por direcional setas — verde, rosa, e azul go cima enquanto vermelho, amarelo, e laranja go baixo.",
+          "Rosa dotted conector entre dois `7` pares é chave peça: solte ele através meio coluna primeiro e empilha acima pode finalmente escoe.",
+          "Touch esquerda-coluna `1` empilhe antes que centro reshapes e conector obtém enterrado."
+        ],
+        "colors": ["purple", "cyan", "pink", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gk9J6m1hutU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gk9J6m1hutU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rosa dotted conector deve solte antes que qualquer `7` par pode divida.",
+        "Limpar direita lone `1` através laranja baixo-seta para abra direita pista cedo.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Puxe rosa dotted conector para baixo através meio coluna usando amarelo baixo-seta."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Alimente superior esquerda `1` empilhe de três ciano peças baixo através vermelho coluna seta."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar lone direita-coluna ciano `1` através laranja baixo-seta para abra direita pista."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Divida superior `7` par em meio coluna uma vez conector tem passed rosa cima-triangle."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Envie inferior esquerda `1` empilhe através vermelho baixo-seta depois superior `7`s são indo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Escoe inferior `7` par para fora através amarelo baixo-seta e saída restante verde coluna peças."
+        }
+      ],
+      "failurePoints": [
+        "Movendo esquerda-coluna `1` empilhe antes que rosa dotted conector tem dropped.",
+        "Tentando para divida `7` pares enquanto conector ainda fica entre os."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/115/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 115 do Block Out",
+    "description": "Resolva o nível 115 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

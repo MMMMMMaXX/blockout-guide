@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-107",
+  "locale": "zh-cn",
+  "levelNumber": 107,
+  "title": "Block Out 第107关攻略",
+  "summary": "Block Out 第107关把生物标记、双挂锁和右箭头输送方块叠在一个不规则砖块棋盘上。蓝色和紫色锁把守网格的两半，底部「3」托盘是一个计数门——而非免费补充。左侧高大的黄色簇和右侧红色 C 形争夺同一条通道，因此用错顺序清锁会卡住输送。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/107/",
+        "layout": "Block Out 第107关把生物标记、双挂锁和右箭头输送方块叠在一个不规则砖块棋盘上。蓝色和紫色锁把守网格的两半，底部「3」托盘是一个计数门——而非免费补充。左侧高大的黄色簇和右侧红色 C 形争夺同一条通道，因此用错顺序清锁会卡住输送。",
+        "landmarks": [
+          "Block Out 第107关把生物标记、双挂锁和右箭头输送方块叠在一个不规则砖块棋盘上。",
+          "蓝色和紫色锁把守网格的两半，底部「3」托盘是一个计数门——而非免费补充。",
+          "左侧高大的黄色簇和右侧红色 C 形争夺同一条通道，因此用错顺序清锁会卡住输送。"
+        ],
+        "colors": ["green", "yellow", "red", "blue", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mvigiJZ71eE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mvigiJZ71eE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先打开蓝色挂锁再开紫色——下方绿色箭头通道取决于这个顺序。",
+        "在任一挂锁仍关闭时，不要动用底部「3」托盘。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "移除顶部绿色生物方块和中间黄色巨魔方块。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在不滑入任一挂锁的前提下，拆开左上角的红/黄/蓝簇。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将右箭头橙色方块经打开的右侧通道输送。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "打开左下角的蓝色挂锁，再开中下部的紫色挂锁。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将下方绿色箭头方块经打开的下方通道滑出。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "动用底部橙色「3」托盘关闭计数「5」和「4」，再清空标记为「1」的蓝色 L 形块。"
+        }
+      ],
+      "failurePoints": [
+        "在两个挂锁都打开之前就动用底部「3」托盘——这会把下方绿色箭头方块困住。",
+        "在上方中部空隙真正清空之前就输送右箭头橙色方块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/107/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第107关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第107关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-104",
+  "locale": "fr",
+  "levelNumber": 104,
+  "title": "Guide Block Out Niveau 104",
+  "summary": "Block Out Niveau 104 est gravity plateau — vert-arrow tuiles seulement tombe vers le bas, et chaîne reactions ripple gauche à droite comme colonnes effondrez. danger est dégagement le centre too tôt, avant droite-colonne arrow tuiles ont settled, qui...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out Niveau 104 est gravity plateau — vert-arrow tuiles seulement tombe vers le bas, et chaîne reactions ripple gauche à droite comme colonnes effondrez. danger est dégagement le centre too tôt, avant droite-colonne arrow tuiles ont settled, qui cuts off final chaîne reaction que sweeps plateau nettoiez.",
+        "landmarks": [
+          "Block Out Niveau 104 est gravity plateau — vert-arrow tuiles seulement tombe vers le bas, et chaîne reactions ripple gauche à droite comme colonnes effondrez.",
+          "Danger est dégagement le centre too tôt, avant droite-colonne arrow tuiles ont settled, qui cuts off final chaîne reaction que sweeps plateau nettoiez.",
+          "Le plateau mélange cyan, vert et orange et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["cyan", "green", "orange", "violet", "pink", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Halve le mur gauche avant triggering le centre correspondre chaîne.",
+        "Arrow tuiles cannot sidestep — ils besoin plein ouvrez colonne directement beneath les.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut de la gauche stack à travers supérieur sorties à ouvrez premier vers le bas colonne."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Tirez vert et tuiles cyan hors de le mur gauche avant touching le centre paires."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Trigger supérieur-milieu correspondre chaîne une fois vertical gap runs beneath il (starburst autour 01:42)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez bleu splash colonne à laissez tomber restant centre arrow tuiles droit bas."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Sweep la droite-côté orange et violet arrow tuiles à travers la droite-mur sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez le bas-rangée rose et bleu singles après grille est mostly videz."
+        }
+      ],
+      "failurePoints": [
+        "Correspondant le centre amas avant le mur gauche est half gone — droite-colonne arrow tuiles alors ont non laissez tomber voie.",
+        "Dégagement bas singles too tôt pendant supérieur arrow tuiles toujours bloc colonnes au-dessus les."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 104",
+    "description": "Résolvez le niveau 104 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

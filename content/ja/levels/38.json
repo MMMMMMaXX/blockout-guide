@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-38",
+  "locale": "ja",
+  "levelNumber": 38,
+  "title": "ブロックアウト レベル38 攻略",
+  "summary": "ブロックアウト レベル38は、3つの青の『2』ブロック・ピンクの『15』ブロック・紫の『6』装置からなる構造的なふたの下に埋もれた『12』のボス部屋です。ふたには独自の内部順序があり——青の『2』は早く、装置は中くらい、ピンクの『15』は遅く——ボスが落ちる前に",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "ブロックアウト レベル38は、3つの青の『2』ブロック・ピンクの『15』ブロック・紫の『6』装置からなる構造的なふたの下に埋もれた『12』のボス部屋です。ふたには独自の内部順序があり——青の『2』は早く、装置は中くらい、ピンクの『15』は遅く——ボスが落ちる前に少しずつ分解する必要があります。ボスが01:33付近で落下した後、赤・ピンク・緑・青のブロックの塊があふれ出し、第2の仕分けフェーズになります。",
+        "landmarks": [
+          "ブロックアウト レベル 38 `12` ボス 部屋 埋まった ふた 青 `2`、ピンク `15` ブロック、紫 `6` 装置.。",
+          "ふた 順序 — 青 `2`、装置、ピンク `15` —、ピース ピース、ボス 落とす.。",
+          "ボス 周りを 01:33、塊 赤、ピンク、緑、青 .。"
+        ],
+        "colors": ["blue", "pink", "purple", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "ふた : 青 `2` ()、紫 装置 ()、ピンク `15` ().。",
+        "01:33 — 側 レーン、現し .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して青 `2` 上段 — ふた .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "紫 `6` 装置 上-左 黄 ブロック 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "ピンク `15` ブロック 上の-右 青 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "ボス カウンター 落とす `8` ふた ( 周りを 01:42).。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を開きて側 レーン、現し、ボス .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を出して`12` ボス 崩す、ふた — 周りを 01:33.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "色分け 現し 赤、ピンク、緑、青 側、下 出口 終える.。"
+        }
+      ],
+      "failurePoints": [
+        "青 `2`、まっすぐ ピンク `15` — ふた 残し ボス 手順.。",
+        "側 レーン 開く ボス 01:33、意味し 現し 上 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル38 攻略と解説",
+    "description": "ブロックアウト レベル38 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

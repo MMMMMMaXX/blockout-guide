@@ -1,0 +1,96 @@
+{
+  "id": "es-level-40",
+  "locale": "es",
+  "levelNumber": 40,
+  "title": "Guía de Block Out Nivel 40",
+  "summary": "Block Out nivel 40 has un marco jefe ya en contador `0` — lo does no need reduction, solo the physical shelf de bloques underneath removed. The densely packed azul, rojo, verde, y amarillo bloques debajo el marco form ese shelf, y th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out nivel 40 has un marco jefe ya en contador `0` — lo does no need reduction, solo the physical shelf de bloques underneath removed. The densely packed azul, rojo, verde, y amarillo bloques debajo el marco form ese shelf, y the solve es about shifting the derecho bloques a break the support. Once the shelf goes, el marco clears instantly y the restante bloques unwind por el lado salidas.",
+        "landmarks": [
+          "Block Out nivel 40 has un marco jefe ya en contador `0` — lo does no need reduction, solo the physical shelf de bloques underneath removed.",
+          "The densely packed azul, rojo, verde, y amarillo bloques debajo el marco form ese shelf, y the solve es about shifting the derecho bloques a break the support.",
+          "Once the shelf goes, el marco clears instantly y the restante bloques unwind por el lado salidas."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El jefe reads `0` — do no waste movimientos trying a reduce lo. Solo remove the shelf underneath.",
+        "Observa para bloques sliding arriba a rebuild the shelf cuando tú despejado la fila inferior en el orden wrong.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the pequeño `2`-contador bloques en la borde izquierdo a create the primero opening."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desliza the azul bloques lejos desde directly bajo el marco jefe a start weakening the shelf."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Desplaza the rojo bloques en el centro a break the último support punto bajo the `0`-contador marco."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Observa el marco jefe despejado instantly once the shelf es gone (visible en 01:24)."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Usa the newly opened superior espacio a sort the restante de color bloques."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Introduce the rojo y verde bloques por el lado salidas."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con the amarillo y azul cleanup después the room has flattened."
+        }
+      ],
+      "failurePoints": [
+        "Treating el jefe like un contador standard puzzle — the `0` means lo needs no reduction, solo a shelf break.",
+        "Shifting the wrong inferior bloque primero, que causes restante piezas a slide arriba y rebuild the shelf bajo el marco jefe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 40",
+    "description": "Resuelve Block Out nivel 40 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

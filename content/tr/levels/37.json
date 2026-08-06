@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-37",
+  "locale": "tr",
+  "levelNumber": 37,
+  "title": "Block Out Seviye 37 Rehberi",
+  "summary": "Block Out Seviye 37 centers büyük turuncu-çerçeveli ana blok kare ile `7` sayaç. iki küçük `1`-sayaç destek bloklar otur doğrudan ana blok ve meli ayrıldı ilk oluştur düşür şerit. yeşil bloklar alt boşaltda...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "Block Out Seviye 37 centers büyük turuncu-çerçeveli ana blok kare ile `7` sayaç. iki küçük `1`-sayaç destek bloklar otur doğrudan ana blok ve meli ayrıldı ilk oluştur düşür şerit. yeşil bloklar alt boşaltda erken, yan mavi ve pembe bloklar ince sonraki, ve ana blok sonunda descends sonra onun daha düşük şerit temizle. sonra ana blok düşer 01:11, saniye wave pembe ve mavi bloklar remains için temizlik.",
+        "landmarks": [
+          "Block Out Seviye 37 centers büyük turuncu-çerçeveli ana blok kare ile `7` sayaç.",
+          "Iki küçük `1`-sayaç destek bloklar otur doğrudan ana blok ve meli ayrıldı ilk oluştur düşür şerit.",
+          "Yeşil bloklar alt boşaltda erken, yan mavi ve pembe bloklar ince sonraki, ve ana blok sonunda descends sonra onun daha düşük şerit temizle.",
+          "Sonra ana blok düşer 01:11, saniye wave pembe ve mavi bloklar remains için temizlik."
+        ],
+        "colors": ["yellow", "blue", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Iki `1`-sayaç bloklar altında ana blok bak küçük, ama onlar kapı — kadar onlar gitti, ana blok hayır aşağı doğru şerit.",
+        "Yeşil bloklar alt erken çıkışlarda. temizle onları ilk oluştur daha düşük alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır sarı çubuk solda açık sol yana şerit."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle yeşil bloklar altda mavi çıkışdan ok oluştur alan altında ana blok."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaldır iki `1`-sayaç bloklar oturarak doğrudan ana blok kare."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır mavi bloklar sağ yanda ver ana blok yatay alan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Ana blok sayaç düşer `5`, continue thinning pembe ve mavi bloklar her ikisi de yanlar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bırak ana blok kare düşür temizlendiden daha düşük şerit sonra sayaç low enough (visible 01:11)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir kalan pembe ve mavi temizlik bloklar sonra ana blok gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek daha düşük ana blok kare sırasında iki `1`-sayaç destek bloklar hâlâ yerleştirde — ana blok gerektirir temizle dikey şerit düşür.",
+        "Temizleyerek yan bloklar önce alt yeşil çıkış açık, hangi bırakır daha düşük bölge sıkıştırılmış ve gives ana blok nowhere düşe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 37 Rehberi ve Çözümü",
+    "description": "Block Out seviye 37'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

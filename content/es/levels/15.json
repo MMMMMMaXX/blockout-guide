@@ -1,0 +1,93 @@
+{
+  "id": "es-level-15",
+  "locale": "es",
+  "levelNumber": 15,
+  "title": "Guía de Block Out Nivel 15",
+  "summary": "El nivel 15 de Block Out es un rompecabezas de dos torres con esquinas objetivo. Abre el carril amarillo derecho, gira las barras centrales hasta que puedan salir los objetivos de la esquina inferior y solo entonces gasta las esquinas superiores enmarcadas.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "El nivel 15 de Block Out es un rompecabezas de dos torres con esquinas objetivo. Abre el carril amarillo derecho, gira las barras centrales hasta que puedan salir los objetivos de la esquina inferior y solo entonces gasta las esquinas superiores enmarcadas.",
+        "landmarks": [
+          "El nivel 15 de Block Out es un rompecabezas de dos torres con esquinas objetivo.",
+          "Abre el carril amarillo derecho, gira las barras centrales hasta que puedan salir los objetivos de la esquina inferior y solo entonces gasta las esquinas superiores enmarcadas.",
+          "El tablero combina azul, amarillo, rosa y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El carril amarillo derecho inicia la cadena.",
+        "Los objetivos de la esquina inferior salen antes que las esquinas superiores enmarcadas.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Abre el carril amarillo derecho y úsalo para empezar a girar los bloques rojos y rosas centrales."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mantén estacionadas las esquinas superiores enmarcadas azul y amarillo mientras la pila central baja."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Libera primero el objetivo verde inferior y luego el objetivo rosa inferior una vez que la muesca inferior ya no esté saturada."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Usa el nuevo espacio inferior para separar las barras centrales roja y azul."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Tras salir las esquinas inferiores, libera el objetivo amarillo superior derecho enmarcado."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina con el objetivo azul superior izquierdo enmarcado y la última barra roja por la parte superior."
+        }
+      ],
+      "failurePoints": [
+        "Gastar un marco de esquina superior antes de que los objetivos inferiores ya se estén moviendo.",
+        "Ignorar el carril amarillo derecho e intentar girar la pila central en su sitio."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 15",
+    "description": "Resuelve el nivel 15 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

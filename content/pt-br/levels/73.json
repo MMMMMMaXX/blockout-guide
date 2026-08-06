@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-73",
+  "locale": "pt-br",
+  "levelNumber": 73,
+  "title": "Guia do nível 73 do Block Out",
+  "summary": "Block Out Nível 73 empacota 5×7 grade com grande roxo '17' bloco em inferior, livre-deslizando sorriso blocos em meio, e direcional seta blocos em lados. roxo bloco precisa 17 saídas — limpar superior primeiro, então funciona s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/73/",
+        "layout": "Block Out Nível 73 empacota 5×7 grade com grande roxo '17' bloco em inferior, livre-deslizando sorriso blocos em meio, e direcional seta blocos em lados. roxo bloco precisa 17 saídas — limpar superior primeiro, então funciona sorriso blocos, e termine com pesado roxo bloco em inferior.",
+        "landmarks": [
+          "Block Out Nível 73 empacota 5×7 grade com grande roxo '17' bloco em inferior, livre-deslizando sorriso blocos em meio, e direcional seta blocos em lados.",
+          "Roxo bloco precisa 17 saídas — limpar superior primeiro, então funciona sorriso blocos, e termine com pesado roxo bloco em inferior.",
+          "Tabuleiro mistura Roxo, Vermelho, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "red", "orange", "blue", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Ny0dQAgq5AE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Ny0dQAgq5AE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Roxo '17' bloco é marathon — limpar sorriso blocos primeiro para construa espaço.",
+        "Sorriso blocos em meio são livre-deslizando — use este freedom para limpar caminhos para seta blocos.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar vermelho e laranja blocos em superior através superior saída para abra superior seção."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque azul blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece deslizando verde e amarelo sorriso blocos em meio freely — eles pode mova em qualquer direção."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar vermelho blocos em direita através direita saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Tackle grande roxo '17' bloco em inferior — ele precisa 17 saídas para totalmente limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante sorriso blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar '17' bloco antes que sorriso blocos — ele precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando meio antes que superior, que deixa superior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/73/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 73 do Block Out",
+    "description": "Resolva o nível 73 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

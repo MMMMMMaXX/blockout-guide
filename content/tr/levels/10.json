@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-10",
+  "locale": "tr",
+  "levelNumber": 10,
+  "title": "Block Out Seviye 10 Rehberi",
+  "summary": "Block Out Seviye 10 Düz renkler ile dev numara levhalar değiştirir. Temizle üst beyaz engelleyici, soy sarı karolar aşağı sağ koridor, ve sadece sonra bırak büyük camgöbeği bloklar cascade merkeze.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "Block Out Seviye 10 Düz renkler ile dev numara levhalar değiştirir. Temizle üst beyaz engelleyici, soy sarı karolar aşağı sağ koridor, ve sadece sonra bırak büyük camgöbeği bloklar cascade merkeze.",
+        "landmarks": [
+          "Block Out Seviye 10 replaces düz renkler ile dev numara levhalar.",
+          "Temizle üst beyaz engelleyici, soy sarı karolar aşağı sağ koridor, ve sadece sonra bırak büyük camgöbeği bloklar cascade merkeze.",
+          "Tahta camgöbeği, beyaz, siyah ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Üst beyaz çıkış ilk temiz action.",
+        "Sarı numara sütun kamala ki meli azaldı önce camgöbeği levhalar hareket ettir.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Gönder üst-sağ beyaz engelleyici yukarı beyaz kapıdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy ilk sarı numara karo aşağı sağ koridor böylece üst siyah engelleyici ebilir hareket ettir."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut alternating sarı karolar ve siyah engelleyiciler kadar camgöbeği kapı sağ startsda açarak enough için büyük levhalar kaydır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır üst camgöbeği rectangles aşağı doğru stagesda, dönerek `22/21/19` küme daha düşük placementsa koridor temizlenir."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra sağ sütun hayır daha uzun jammed, çek orta beyaz blok kırmızı şerite ve bırak kalan sarı numara karolar altdan-sağ bitir."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kullan yeni merkezi alan ayı son camgöbeği levhalar kırmızı ve mavi bitir çubuklar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kısa pembe, mavi, ve kırmızı çubuklar sonra son camgöbeği blok zaten sol."
+        }
+      ],
+      "failurePoints": [
+        "Treating büyük camgöbeği bloklar açarak hareket ettir yerine azaltarak sağ koridor ilk.",
+        "Bırakarak sarı numara karolar istiflendi sağ ne zaman siyah engelleyicilerde hâlâ gerektir döndür."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 10 Rehberi ve Çözümü",
+    "description": "Block Out seviye 10'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

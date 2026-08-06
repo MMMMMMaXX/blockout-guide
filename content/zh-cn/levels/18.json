@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-18",
+  "locale": "zh-cn",
+  "levelNumber": 18,
+  "title": "Block Out 第 18 关通关攻略",
+  "summary": "Block Out 第 18 关是一个围绕青色 `14/11` 配对的双层框谜题。先剥开侧向阶梯和计数器，把中心方块保持在一起直到边框变薄，最后从绿色顶部路线收尾。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "Block Out 第 18 关是一个围绕青色 `14/11` 配对的双层框谜题。先剥开侧向阶梯和计数器，把中心方块保持在一起直到边框变薄，最后从绿色顶部路线收尾。",
+        "landmarks": [
+          "Block Out 第 18 关是一个围绕青色 `14/11` 配对的双层框谜题。",
+          "先剥开侧向阶梯和计数器，把中心方块保持在一起直到边框变薄，最后从绿色顶部路线收尾。",
+          "棋盘上混合了青色、粉色、蓝色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在分开中心配对之前，先打开边框。",
+        "绿色顶部出口是后期路线，不是首选路线。",
+        "用连锁消除的思路来思考。最佳走子是能为接下来两步铺路的，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "剥离右侧黑白相间的阶梯，使侧向计数器开始下降。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把青色 `14` 顶盖和青色 `11` 中心块停在原位，同时它们周围的框逐渐松开。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "等第一道阶梯打开足够空间后，在左侧镜像地进行同样的清理。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "只有在两侧边框都变窄后，才把青色 `14` 顶盖与 `11` 方块分开。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用腾出的顶部通道，剥离蓝色和粉色方块列。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "等外侧边框已经变薄后，再移动 `11` 方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "从绿色顶部路线和最后的侧向残余收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在边框打开前就试图把 `14/11` 配对分开。",
+        "把顶部粉色方块列当作前期移动方块，而不是留到后期清理。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 18 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 18 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

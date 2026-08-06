@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-15",
+  "locale": "tr",
+  "levelNumber": 15,
+  "title": "Block Out Seviye 15 Rehberi",
+  "summary": "Block Out Seviye 15 bir Hedef-köşe ikiz-kule bulmacadır. Açık sağ sarı şerit, döndür orta çubuklar kadar daha düşük köşe hedefler ebilir bırak, ve sadece sonra harca çerçeveli üst köşeler.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "Block Out Seviye 15 bir Hedef-köşe ikiz-kule bulmacadır. Açık sağ sarı şerit, döndür orta çubuklar kadar daha düşük köşe hedefler ebilir bırak, ve sadece sonra harca çerçeveli üst köşeler.",
+        "landmarks": [
+          "Block Out Seviye 15 bir Hedef-köşe ikiz-kule bulmacadır.",
+          "Açık sağ sarı şerit, döndür orta çubuklar kadar daha düşük köşe hedefler ebilir bırak, ve sadece sonra harca çerçeveli üst köşeler.",
+          "Tahta mavi, sarı, pembe ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sağ sarı şerit starts zincir.",
+        "Daha düşük köşe hedefler bırak önce üst çerçeveli köşeler.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Açık sağ sarı şerit ve kullan o başla döndürerek orta kırmızı ve pembe bloklar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut çerçeveli mavi ve sarı üst köşeler park edildi sırasında merkez istifler works aşağı doğru."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Serbest daha düşük yeşil hedef ilk, sonra daha düşük pembe hedef sonra alt çentik hayır daha uzun kalabalık."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan yeni alt alan ayı merkezi kırmızı ve mavi çubuklar."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra daha düşük köşeler gitti, bırak çerçeveli üst-sağ sarı hedef."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile çerçeveli üst-sol mavi hedef ve son kırmızı çubuk üstden."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak üst-köşe çerçeve önce daha düşük hedefler zaten hareket ettirerek.",
+        "Ignoring sağ sarı şerit ve deneyerek döndür orta istifler yerleştirde."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 15 Rehberi ve Çözümü",
+    "description": "Block Out seviye 15'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

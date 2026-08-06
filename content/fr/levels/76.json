@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-76",
+  "locale": "fr",
+  "levelNumber": 76,
+  "title": "Guide Block Out Niveau 76",
+  "summary": "Block Out Niveau 76 packs 5×7 grille avec numéroté blocs bleu — compteurs '10' et '1' sur haut, '1' dans le milieu, '4' et '1' à le bas. bleu '10' bloc needs 10 sorties — dégagez le bas premier, alors work blocs numérotés vers le haut...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/76/",
+        "layout": "Block Out Niveau 76 packs 5×7 grille avec numéroté blocs bleu — compteurs '10' et '1' sur haut, '1' dans le milieu, '4' et '1' à le bas. bleu '10' bloc needs 10 sorties — dégagez le bas premier, alors work blocs numérotés vers le haut, et terminez avec heavy '10' bloc à le haut.",
+        "landmarks": [
+          "Block Out Niveau 76 packs 5×7 grille avec numéroté blocs bleu — compteurs '10' et '1' sur haut, '1' dans le milieu, '4' et '1' à le bas.",
+          "Bleu '10' bloc needs 10 sorties — dégagez le bas premier, alors work blocs numérotés vers le haut, et terminez avec heavy '10' bloc à le haut.",
+          "Le plateau mélange bleu, rouge et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "t-dHXsPpANQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=t-dHXsPpANQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'10' bloc est marathon — dégagez smaller blocs numérotés premier à build espace.",
+        "Dégagez le bas premier à donnez blocs numérotés sliding salle.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez rouge et blocs vert à le bas à travers la sortie droite à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs bleu sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez dégagement numéroté blocs bleu dans le milieu à travers leur portes — compteurs decrease comme ils sortie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez bleu '4' bloc sur la gauche à travers la sortie gauche comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tackle bleu '10' bloc à le haut — il needs 10 sorties à fully dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant bleu '1' blocs piégé dans coins."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dégagez '10' bloc avant smaller blocs numérotés — il needs salle à glissez et sortie multiple times.",
+        "Dégagement le haut avant le bas, qui leaves abaissez blocs piégé avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/76/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 76",
+    "description": "Résolvez le niveau 76 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

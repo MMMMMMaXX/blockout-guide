@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-8",
+  "locale": "zh-cn",
+  "levelNumber": 8,
+  "title": "Block Out 第 8 关通关攻略",
+  "summary": "Block Out 第 8 关在右下角凹槽里藏着一块巨大的红色石板。先让绿色、白色和黑色的迷你方块穿过顶部和右侧计数器，再利用打开的通道，最终移动那块红色石板。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "Block Out 第 8 关在右下角凹槽里藏着一块巨大的红色石板。先让绿色、白色和黑色的迷你方块穿过顶部和右侧计数器，再利用打开的通道，最终移动那块红色石板。",
+        "landmarks": [
+          "Block Out 第 8 关在右下角凹槽里藏着一块巨大的红色石板。",
+          "先让绿色、白色和黑色的迷你方块穿过顶部和右侧计数器，再利用打开的通道，最终移动那块红色石板。",
+          "棋盘上混合了红色、绿色、白色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "开局时上方的通道比那块巨大红色石板更重要。",
+        "在顶部封顶缩减的同时，让右侧的计量条持续下降。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右上角的白色与黑色一对方块推入右侧配额通道，开始缩减 `9` 计量条。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "让上方的绿色迷你方块横穿顶部通道，使 `17` 封顶和右侧计量条同步下降。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "利用狭窄的中央立柱，把下一块白色方块向下传递，避免右上方的列重新填满。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "持续削减黑绿方块簇，直到右列几乎空了、侧边计量条几乎耗尽。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "上方通道打开后，把剩余的小方块挪到一旁，给红色石板腾出一条干净的纵向通道。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "把巨大的红色矩形向上并横移，朝向左侧墙上的红色出口。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "配额完全清空后，把最后一块绿色迷你方块从顶部绿色出口送出，作为收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在上方通道基本清空之前，就试图移动那块超大红色石板。",
+        "忽略了右侧的配额通道，只处理顶部封顶。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 8 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 8 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

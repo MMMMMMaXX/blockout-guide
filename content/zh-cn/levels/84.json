@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-84",
+  "locale": "zh-cn",
+  "levelNumber": 84,
+  "title": "Block Out 第84关攻略",
+  "summary": "Block Out 第84关是一个困难关，有三个巨大的紫色方块，计数在最高区间：12、21 和 23。橙色边框在它们周围形成分区，彩色方块塞在各室之间。先清空小方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out 第84关是一个困难关，有三个巨大的紫色方块，计数在最高区间：12、21 和 23。橙色边框在它们周围形成分区，彩色方块塞在各室之间。先清空小方块以打开输送通道，再按计数从小到大的顺序输送紫色方块——先「12」，再「21」，最后「23」。",
+        "landmarks": [
+          "Block Out 第84关是一个困难关，有三个巨大的紫色方块，计数在最高区间：12、21 和 23。",
+          "橙色边框在它们周围形成分区，彩色方块塞在各室之间。",
+          "先清空小方块以打开输送通道，再按计数从小到大的顺序输送紫色方块——先「12」，再「21」，最后「23」。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "按计数从小到大的顺序输送紫色方块：先「12」，再「21」，最后「23」。",
+        "从一开始就要保持「23」方块的出口通道畅通——绝不让其他方块漂进它的路径。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将紫色各室之间的小彩色方块从侧边出口清空。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "尽早抽出计数「5」的方块。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "先开始输送紫色「12」方块——它最轻。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "等「12」缩小到足以共用通道后，输送紫色「21」方块。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "把紫色「23」方块留到最后——它需要最宽的通道和最多的次数。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "所有紫色方块清空后，清理剩余的室碎片。"
+        }
+      ],
+      "failurePoints": [
+        "在较轻的紫色方块缩小之前就试图输送「23」方块——通道太窄。",
+        "在输送通道中留下彩色方块，迫使紫色方块绕路。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第84关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第84关。"
+  },
+  "updatedAt": "2026-08-03"
+}

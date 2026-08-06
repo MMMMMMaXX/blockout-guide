@@ -1,0 +1,98 @@
+{
+  "id": "de-level-29",
+  "locale": "de",
+  "levelNumber": 29,
+  "title": "Block Out Level 29 Lösung",
+  "summary": "Block Out Level 29 ist twin-Boss spine Spielfeld. Entfernen Mitte rot-schwarz-weiß ladder erste, untere Seite Boss Spalten second, und nur dann drehen spät rot, gelb, blau, und grün maze Bauteile.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "Block Out Level 29 ist twin-Boss spine Spielfeld. Entfernen Mitte rot-schwarz-weiß ladder erste, untere Seite Boss Spalten second, und nur dann drehen spät rot, gelb, blau, und grün maze Bauteile.",
+        "landmarks": [
+          "Block Out Level 29 ist twin-Boss spine Spielfeld.",
+          "Entfernen Mitte rot-schwarz-weiß ladder erste, untere Seite Boss Spalten second, und nur dann drehen spät rot, gelb, blau, und grün maze Bauteile.",
+          "Das Spielfeld mixes Rot, Schwarz, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mitte spine ist phase one.",
+        "Spät maze nur matters nach beide sides haben gestartet Eröffnungs-.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen Mitte rot-schwarz-weiß spine also beide Seite Bosse starten losing support together."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten Seite Spalten mostly geparkt while geteilt Zähler sind still high."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Untere links und rechts framed Bosse nur nach Mitte Bahn ist clearly thinner."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "When Bosse öffnen, drehen spät rot, gelb, blau, und grün maze Bauteile in new pockets."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Behalten oben Zähler falling while Mitte ist kein longer Wand."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Verwenden spät grün shapes zu stop Seite lanes von refilling."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden maze nach beide Seite Bosse haben bereits collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu lösen one Seite Boss bevor Mitte spine hat geöffnet.",
+        "Ignoring spät maze structure nach Seite Spalten starten zu fall."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 29 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 29 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

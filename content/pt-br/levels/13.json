@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-13",
+  "locale": "pt-br",
+  "levelNumber": 13,
+  "title": "Guia do nível 13 do Block Out",
+  "summary": "Block Out Nível 13 é pressão tabuleiro com cheio direita parede e superior contadores. Soften direita pista primeiro, mantenha superior azul faixa estacionado como brace, e colapse ciano lajes único depois vermelho pista abre.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "Block Out Nível 13 é pressão tabuleiro com cheio direita parede e superior contadores. Soften direita pista primeiro, mantenha superior azul faixa estacionado como brace, e colapse ciano lajes único depois vermelho pista abre.",
+        "landmarks": [
+          "Block Out Nível 13 é pressão tabuleiro com cheio direita parede e superior contadores.",
+          "Soften direita pista primeiro, mantenha superior azul faixa estacionado como brace, e colapse ciano lajes único depois vermelho pista abre.",
+          "Tabuleiro mistura Ciano, Amarelo, Azul e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["cyan", "yellow", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Direita vermelho pista matters antes que superior azul faixa.",
+        "Ciano lajes should mova depois contadores, não antes que os.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente direita-borda peças em vermelho parede so tiny `1` lateral contador disappears primeiro."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha encolhendo superior `3` e `4` contadores enquanto ciano `10` laje permanece estacionado em meio."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use amarelo belts para bridge através centro único depois direita pista é no mais longo clogged."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Solte ciano `8` e `6` lajes em sequência so meio fileira stops pinning azul faixa."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Libere superior azul faixa uma vez superior contadores são quase exhausted."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine por limpando último amarelo belts e então final ciano `5` laje."
+        }
+      ],
+      "failurePoints": [
+        "Movendo superior azul faixa antes que direita vermelho pista tem aberto.",
+        "Tentando para force ciano `10` laje baixo enquanto superior contadores são ainda high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 13 do Block Out",
+    "description": "Resolva o nível 13 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

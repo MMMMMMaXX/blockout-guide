@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-21",
+  "locale": "fr",
+  "levelNumber": 21,
+  "title": "Guide Block Out Niveau 21",
+  "summary": "Block Out Niveau 21 est triple-boss échelle. Cassez encadré `9` panneau premier, déroulez colorful milieu retirez second, et seulement alors commencez shrinking abaissez `16` et `18` panneaux.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "Block Out Niveau 21 est triple-boss échelle. Cassez encadré `9` panneau premier, déroulez colorful milieu retirez second, et seulement alors commencez shrinking abaissez `16` et `18` panneaux.",
+        "landmarks": [
+          "Block Out Niveau 21 est triple-boss échelle.",
+          "Cassez encadré `9` panneau premier, déroulez colorful milieu retirez second, et seulement alors commencez shrinking abaissez `16` et `18` panneaux.",
+          "Le plateau mélange bleu, jaune et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Résolvez encadré `9` premier.",
+        "Abaissez `16` et `18` values sont phase deux et phase trois.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Work le haut compteurs et dégagez supérieur couleur bande donc encadré `9` panneau est exposed."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Laissez tomber `9` panneau avant touching abaissez bosses."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez freed milieu corridor à tournez rose, vert, et barres bleu."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez shrinking abaissez `16` panneau une fois le centre est non longer packed."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez `18` panneau commencez falling seulement après `16` cadre a déjà opened."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Économisez floor sortie vert pour tardif cleanup quand abaissez panneaux sont amincissez."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec restant haut couleur barres après les deux bas bosses ont collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à shrink abaissez encadré values pendant le haut `9` est toujours alive.",
+        "Laissant le milieu retirez packed après le haut boss a opened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 21",
+    "description": "Résolvez le niveau 21 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

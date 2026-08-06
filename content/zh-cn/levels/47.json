@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-47",
+  "locale": "zh-cn",
+  "levelNumber": 47,
+  "title": "Block Out 第 47 关通关攻略",
+  "summary": "Block Out 第 47 关是一张独特的阶梯状棋盘：左侧逐级下降，右侧是一面直墙。编号计数块 `11`、`13`、`9`、`22` 嵌入阶梯之中。顶点具有迷惑性——……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "Block Out 第 47 关是一张独特的阶梯状棋盘：左侧逐级下降，右侧是一面直墙。编号计数块 `11`、`13`、`9`、`22` 嵌入阶梯之中。顶点具有迷惑性——棋盘从右侧通道和斜坡中段打开。先清除左下角的 `9`，剥离中间各层，最后才处理右下角的 `22`。",
+        "landmarks": [
+          "Block Out 第 47 关是一张独特的阶梯状棋盘：左侧逐级下降，右侧是一面直墙。",
+          "编号计数块 `11`、`13`、`9`、`22` 嵌入阶梯之中。",
+          "顶点具有迷惑性——棋盘从右侧通道和斜坡中段打开。",
+          "先清除左下角的 `9`，剥离中间各层，最后才处理右下角的 `22`。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "顶点只是干扰——第 47 关从右侧通道和斜坡中段打开。",
+        "右下角的 `22` 是最后一块。在中间各层清除前不要碰它。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "清除左下角的 `9` 计数块，开出第一个缺口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "打开右侧机关通道并降低其计数。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "从阶梯中段剥离——即 `11` 和 `13` 方块——而非从顶端。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "在下方区域清空前，让阶梯上端的尖端保持不动。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "通过打开的凹槽旋转下方的彩色方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "只有中间基本清空后，才削减右下角的 `22` 计数块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "以阶梯上端尖端和最后的侧边清理收尾，完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "从阶梯最顶端开始，会导致下方通道堵塞，浪费唯一有用的路线。",
+        "在中间各层（`11` 和 `13`）清除前就试图削减 `22` 计数块，导致重块没有移动空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 47 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 47 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

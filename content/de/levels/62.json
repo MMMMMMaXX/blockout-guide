@@ -1,0 +1,91 @@
+{
+  "id": "de-level-62",
+  "locale": "de",
+  "levelNumber": 62,
+  "title": "Block Out Level 62 Lösung",
+  "summary": "Block Out Level 62 fills 5×8 Raster mit smiley face Blöcke in mittlere (freigeben-sliding) und gerichtet Pfeil-Blöcke auf sides — blau links-Pfeile auf links, rot rechts-Pfeile auf rechts. Smiley Blöcke kann bewegen freely, aber...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "Block Out Level 62 fills 5×8 Raster mit smiley face Blöcke in mittlere (freigeben-sliding) und gerichtet Pfeil-Blöcke auf sides — blau links-Pfeile auf links, rot rechts-Pfeile auf rechts. Smiley Blöcke kann bewegen freely, aber Pfeil-Blöcke sind constrained. Räumen oben und unten rows erste, dann arbeiten mittlere smiley Blöcke, und beenden mit Seite Pfeil-Blöcke.",
+        "landmarks": [
+          "Block Out Level 62 fills 5×8 Raster mit smiley face Blöcke in mittlere (freigeben-sliding) und gerichtet Pfeil-Blöcke auf sides — blau links-Pfeile auf links, rot rechts-Pfeile auf rechts.",
+          "Smiley Blöcke kann bewegen freely, aber Pfeil-Blöcke sind constrained.",
+          "Räumen oben und unten rows erste, dann arbeiten mittlere smiley Blöcke, und beenden mit Seite Pfeil-Blöcke."
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Smiley Blöcke in mittlere sind freigeben-sliding — verwenden dieses freedom zu räumen paths für gerichtet Pfeil-Blöcke.",
+        "Räumen oben und unten rows erste zu give mittlere Blöcke Raum zu bewegen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben orange smiley Blöcke durch oben Ausgang zu öffnen obere section."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen unten grün smiley Blöcke durch unten Ausgang zu öffnen untere section."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin sliding mittlere smiley Blöcke freely — sie kann bewegen in irgendein direction."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen blau links-Pfeil-Blöcke auf links durch links Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen rot rechts-Pfeil-Blöcke auf rechts durch rechts Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining smiley Blöcke eingesperrt in corners."
+        }
+      ],
+      "failurePoints": [
+        "Räumend Seite Pfeil-Blöcke bevor mittlere smiley Blöcke haben Raum — mittlere Blöcke get eingesperrt.",
+        "Versuchen zu räumen mittlere bevor oben und unten rows sind öffnen, welche jams das Spielfeld."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 62 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 62 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

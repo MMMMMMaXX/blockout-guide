@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-68",
+  "locale": "ja",
+  "levelNumber": 68,
+  "title": "ブロックアウト レベル68 攻略",
+  "summary": "ブロックアウト レベル68は、水平の仕切りバーで分けた2つの部屋を縦に積み重ねています。上部の部屋には緑ブロック、大きな青の正方形、オレンジと黄のピースが混在します。下部の部屋は巨大な紫の…が支配しています。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "ブロックアウト レベル68は、水平の仕切りバーで分けた2つの部屋を縦に積み重ねています。上部の部屋には緑ブロック、大きな青の正方形、オレンジと黄のピースが混在します。下部の部屋は赤い枠に包まれたカウンター「7」の巨大な紫の長方形が支配しています。まず上部の部屋を完全に消去します—仕切りバーは空になるまで開きません。次に赤い枠を剥ぎ、紫ブロックを出口から7回通します。",
+        "landmarks": [
+          "ブロックアウト レベル 68 積み 部屋、棒.。",
+          "上の 部屋 緑、青 四角、オレンジ/黄 .。",
+          "下の 部屋 支配し 紫 カウンター '7' 赤 枠.。",
+          "を消去して上の 部屋 — 棒 開く、.。"
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "purple", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上の 部屋、下の — 棒 開く .。",
+        "赤枠を取り除きて周りを 紫 ブロック、出口.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上 上の 部屋 上 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑のを取り出して左 左 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をスライドさせて青 四角 ブロックアウト 右 上 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "オレンジのを消去して/黄 下 上の 部屋.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "上の 部屋、棒 — 取り除く 赤 枠 周りを 紫 ブロック.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して紫 ブロック (カウンター '7') 出口、消去し.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えてシアン 側、下 .。"
+        }
+      ],
+      "failurePoints": [
+        "手順 紫 ブロック、上の 部屋 — 棒 .。",
+        "取り除く 赤 枠 周りを 紫 ブロック、通す .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル68 攻略と解説",
+    "description": "ブロックアウト レベル68 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

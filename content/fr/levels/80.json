@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-80",
+  "locale": "fr",
+  "levelNumber": 80,
+  "title": "Guide Block Out Niveau 80",
+  "summary": "Block Out Niveau 80 fills plateau avec haut vert et bleu/cyan vertical colonnes separated par centre gap de rouge verrou-et-clé blocs. colonnes cannot déplacez jusqu'à verrou sequence dans le centre est solved. Dégagez verrou-et-clé bloc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "Block Out Niveau 80 fills plateau avec haut vert et bleu/cyan vertical colonnes separated par centre gap de rouge verrou-et-clé blocs. colonnes cannot déplacez jusqu'à verrou sequence dans le centre est solved. Dégagez verrou-et-clé blocs premier à ouvrez gap, alors glissez haut colonnes vert bas à travers le bas sorties, followed par bleu/colonnes cyan.",
+        "landmarks": [
+          "Block Out Niveau 80 fills plateau avec haut vert et bleu/cyan vertical colonnes separated par centre gap de rouge verrou-et-clé blocs.",
+          "Colonnes cannot déplacez jusqu'à verrou sequence dans le centre est solved.",
+          "Dégagez verrou-et-clé blocs premier à ouvrez gap, alors glissez haut colonnes vert bas à travers le bas sorties, followed par bleu/colonnes cyan."
+        ],
+        "colors": ["green", "blue", "cyan", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Focus entirely sur le centre verrou-et-clé gap premier — non colonne coups jusqu'à il opens.",
+        "Glissez colonnes vert bas avant bleu/cyan — vert est closer à sorties.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Correspondre clé blocs avec leur corresponding verrou blocs dans le centre gap."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez unlocked blocs rouge de le centre à ouvrez gap."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Glissez haut colonne vert blocs sur la gauche vers le bas à travers le bas sorties."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Décalez bleu/colonne cyan blocs sur la droite bas une fois les colonnes vert create salle."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez petit cyan/blocs bleu à le bas à travers bas-arrow sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant colonne fragments."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez haut colonne avant le centre verrou blocs sont cleared — colonnes ont non salle.",
+        "Mismatching clés et verrous, qui wastes coups et leaves blocs gated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 80",
+    "description": "Résolvez le niveau 80 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

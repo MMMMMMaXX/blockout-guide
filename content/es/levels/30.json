@@ -1,0 +1,96 @@
+{
+  "id": "es-level-30",
+  "locale": "es",
+  "levelNumber": 30,
+  "title": "Guía de Block Out Nivel 30",
+  "summary": "El nivel 30 de Block Out es una sala en forma de L construida alrededor de una columna jefe enmarcada y alta con un contador `11`. Los bloques rojos, blancos y negros apretados alrededor de la base de la torre deben limpiarse primero para bajar el contador, y la torre solo colaps...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "El nivel 30 de Block Out es una sala en forma de L construida alrededor de una columna jefe enmarcada y alta con un contador `11`. Los bloques rojos, blancos y negros apretados alrededor de la base de la torre deben limpiarse primero para bajar el contador, y la torre solo colapsa cuando baja a cerca de `2`. Tras caer la columna, una segunda tanda de bloques verdes, rojos y blancos se derrama desde dentro del eje y necesita su propia fase de separación.",
+        "landmarks": [
+          "El nivel 30 de Block Out es una sala en forma de L construida alrededor de una columna jefe enmarcada y alta con un contador `11`.",
+          "Los bloques rojos, blancos y negros apretados alrededor de la base de la torre deben limpiarse primero para bajar el contador, y la torre solo colapsa cuando baja a cerca de `2`.",
+          "Tras caer la columna, una segunda tanda de bloques verdes, rojos y blancos se derrama desde dentro del eje y necesita su propia fase de separación."
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vigila el número del contador del jefe, no la altura de la torre: si el contador todavía marca `5` o más, la base necesita más trabajo.",
+        "Alimenta la salida verde en el centro inferior antes de intentar usar las salidas del muro izquierdo para la masa interior.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza los bloques rojos del lado izquierdo hacia las salidas del muro izquierdo para crear el primer hueco junto a la base de la torre."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mueve los bloques blancos fuera de la base central para abrir un carril entre la torre y la masa roja del lado derecho."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Limpia los bloques rojos y negros del lado derecho por los huecos creados por los dos primeros movimientos, vigilando que el contador del jefe baje con cada pieza."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando el contador baje a `2`, deja que la columna enmarcada colapse: los bloques verdes y blancos interiores se derramarán en la zona de la base."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Separa los bloques verdes revelados y aliméntalos por la salida verde del centro inferior primero."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Usa las salidas del muro izquierdo para las piezas interiores blancas y rojas restantes."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con el último segmento rojo de la torre después de que el eje esté vacío y la base quede plana."
+        }
+      ],
+      "failurePoints": [
+        "Intentar forzar la columna del jefe hacia abajo mientras la zona de la base sigue llena de bloques rojos y blancos: el contador apenas se mueve porque no hay carril por donde escapen las piezas de la base.",
+        "Ignorar la salida verde del centro inferior a favor de las salidas del muro izquierdo cuando se derrama la masa interior, lo que provoca un embotellamiento en la sección horizontal."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 30",
+    "description": "Resuelve el nivel 30 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-131",
+  "locale": "fr",
+  "levelNumber": 131,
+  "title": "Guide Block Out Niveau 131",
+  "summary": "Block Out Niveau 131 wraps figure-8 cadre autour centre orange `5` porte, avec bleu gauche-arrows, rouge droite-arrows, et jaune bas-arrows marking seulement legal sortie voies. inférieur gauche bleu `2` sceau et supérieur rouge `3` bloc compete f...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "Block Out Niveau 131 wraps figure-8 cadre autour centre orange `5` porte, avec bleu gauche-arrows, rouge droite-arrows, et jaune bas-arrows marking seulement legal sortie voies. inférieur gauche bleu `2` sceau et supérieur rouge `3` bloc compete pour même corridor — glissez rouge `3` à travers exposed inférieur gauche voie too tôt et `5` porte loses son seulement incoming chemin.",
+        "landmarks": [
+          "Block Out Niveau 131 wraps figure-8 cadre autour centre orange `5` porte, avec bleu gauche-arrows, rouge droite-arrows, et jaune bas-arrows marking seulement legal sortie voies.",
+          "Inférieur gauche bleu `2` sceau et supérieur rouge `3` bloc compete pour même corridor — glissez rouge `3` à travers exposed inférieur gauche voie too tôt et `5` porte loses son seulement incoming chemin.",
+          "Le plateau mélange jaune, vert et bleu et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["yellow", "green", "blue", "red", "violet", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimentez bleu-étoile amas à travers la gauche arrow avant 3 compteur tombent dans taille.",
+        "Économisez le L rouge-amas pour la droite-arrow voie jusqu'à supérieur chambre est videz.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut jaune arm rangées et dépensez le centre orange 5 porte sans crossing inférieur gauche 2 sceaux."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez inférieur gauche bleu-étoile amas à travers bleu gauche-arrow voie pendant taille est toujours étroit."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez le centre violet corridor à laissez tomber rouge 3 compteur bloc dans taille opening."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Alimentez inférieur gauche L rouge-amas à travers rouge droite-arrow voie une fois supérieur chambre empties."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Décalez restant vert vertical stacks vers jaune vers le bas-arrow sortie à bas centre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez dernier jaune, bleu, et violet scraps dans le bas L-poche pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Touching inférieur gauche 2 sceaux avant le centre 5 porte dégage, locking taille.",
+        "Envoyant le L rouge-amas à travers la droite arrow avant supérieur chambre empties, blocking vers le bas sortie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 131",
+    "description": "Résolvez le niveau 131 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

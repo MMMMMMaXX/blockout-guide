@@ -1,0 +1,98 @@
+{
+  "id": "de-level-10",
+  "locale": "de",
+  "levelNumber": 10,
+  "title": "Block Out Level 10 Lösung",
+  "summary": "Block Out Level 10 replaces plain Farben mit giant number slabs. Räumen oben weiß Blockierer, abziehen gelb Kacheln runter rechts corridor, und nur dann let large türkis Blöcke cascade in Mitte.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "Block Out Level 10 replaces plain Farben mit giant number slabs. Räumen oben weiß Blockierer, abziehen gelb Kacheln runter rechts corridor, und nur dann let large türkis Blöcke cascade in Mitte.",
+        "landmarks": [
+          "Block Out Level 10 replaces plain Farben mit giant number slabs.",
+          "Räumen oben weiß Blockierer, abziehen gelb Kacheln runter rechts corridor, und nur dann let large türkis Blöcke cascade in Mitte.",
+          "Das Spielfeld mixes Türkis, Weiß, Schwarz und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Oben weiß Ausgang ist erste sauber action.",
+        "Gelb number Spalte ist wedge dass muss sein reduced bevor türkis slabs bewegen.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Senden obere rechte weiß Blockierer hoch durch weißer Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen erste gelb number Kachel runter rechts corridor also obere schwarz Blockierer kann bewegen."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten alternating gelb Kacheln und schwarz Blockierer bis türkis Ausgang auf rechts startet Eröffnungs- enough für large slabs zu verschieben."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben obere türkis rectangles nach unten in stages, turning `22/21/19` cluster in untere placements als corridor räumt."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once rechte Spalte ist kein longer jammed, ziehen mittlere weiß Block in rot Bahn und freigeben remaining gelb number Kacheln durch untere rechte beenden."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Verwenden new central Platz zu trennen letzte türkis slabs von rot und blau beenden bars."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit kurz pink, blau, und rot bars nach endgültig türkis Block hat bereits links."
+        }
+      ],
+      "failurePoints": [
+        "Treating big türkis Blöcke als Eröffnungs- bewegen stattdessen von reducing rechts corridor erste.",
+        "Leaving gelb number Kacheln gestapelt auf rechts when schwarz Blockierer still need zu drehen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 10 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 10 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

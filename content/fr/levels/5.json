@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-5",
+  "locale": "fr",
+  "levelNumber": 5,
+  "title": "Guide Block Out Niveau 5",
+  "summary": "Block Out Niveau 5 est cramped damier entre deux colonnes rouge. Retirez les pièces blanc hors à travers la porte droite, laissez les blocs noir effondrez dans staircase pour inférieur gauche sortie, et économisez dernier colonne rouge pour terminez.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/5/",
+        "layout": "Block Out Niveau 5 est cramped damier entre deux colonnes rouge. Retirez les pièces blanc hors à travers la porte droite, laissez les blocs noir effondrez dans staircase pour inférieur gauche sortie, et économisez dernier colonne rouge pour terminez.",
+        "landmarks": [
+          "Block Out Niveau 5 est cramped damier entre deux colonnes rouge.",
+          "Retirez les pièces blanc hors à travers la porte droite, laissez les blocs noir effondrez dans staircase pour inférieur gauche sortie, et économisez dernier colonne rouge pour terminez.",
+          "Le plateau mélange rouge, blanc et noir et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "es-W99zOPd8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=es-W99zOPd8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pensez droite-bord blanc cleanup premier.",
+        "Noir needs à form staircase avant la porte gauche est useful.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez le plus bas pièce blanc sur le bord droit hors à travers la porte blanc."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez nouveau poche à pelez suivant pièces blanc vers même sortie au lieu de de touching haut colonnes rouge."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Laissez les pièces noir effondrez dans abaissez-centre staircase pendant le centre rangées sont being cleared."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois most de whites sont gone, envoyez le bas pièces noir gauche dans la porte noir et alors tirez higher carré noir bas dans même channel."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Gardez les colonnes rouge garé jusqu'à la sortie blanc et porte noir sont les deux finished avec leur traffic."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez par running restant haut colonne rouge à travers cleared voie supérieure et hors à travers la gauche porte rouge."
+        }
+      ],
+      "failurePoints": [
+        "Sliding one de haut colonnes rouge avant noir staircase a formed.",
+        "Utilisant la droite-côté blanc poche pour rouge movement au lieu de de spending il sur another sortie blanc."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/5/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 5",
+    "description": "Résolvez le niveau 5 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

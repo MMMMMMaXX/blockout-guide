@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-15",
+  "locale": "pt-br",
+  "levelNumber": 15,
+  "title": "Guia do nível 15 do Block Out",
+  "summary": "Block Out Nível 15 é alvo-canto twin-torre quebra-cabeça. Abra direita amarelo pista, gire meio barras até inferior canto alvos pode deixe, e único então gaste emoldurado superior cantos.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "Block Out Nível 15 é alvo-canto twin-torre quebra-cabeça. Abra direita amarelo pista, gire meio barras até inferior canto alvos pode deixe, e único então gaste emoldurado superior cantos.",
+        "landmarks": [
+          "O nível 15 do Block Out é um quebra-cabeça de torre gêmea com canto-alvo.",
+          "Abra direita amarelo pista, gire meio barras até inferior canto alvos pode deixe, e único então gaste emoldurado superior cantos.",
+          "Tabuleiro mistura Azul, Amarelo, Rosa e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Direita amarelo pista começa corrente.",
+        "Inferior canto alvos deixe antes que superior emoldurado cantos.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Abra direita amarelo pista e use ele para comece girando meio vermelho e rosa blocos."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha emoldurado azul e amarelo superior cantos estacionado enquanto centro empilhe works para baixo."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Livre inferior verde alvo primeiro, então inferior rosa alvo uma vez inferior notch é no mais longo cheio."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use novo inferior espaço para separar central vermelho e azul barras."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Depois inferior cantos são indo, libere emoldurado superior-direita amarelo alvo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com emoldurado superior-esquerda azul alvo e último vermelho barra através superior."
+        }
+      ],
+      "failurePoints": [
+        "Gastando superior-canto moldura antes que inferior alvos são já movendo.",
+        "Ignorando direita amarelo pista e tentando para gire meio empilhe em coloque."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 15 do Block Out",
+    "description": "Resolva o nível 15 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-138",
+  "locale": "fr",
+  "levelNumber": 138,
+  "title": "Guide Block Out Niveau 138",
+  "summary": "Block Out Niveau 138 lignes haut trois orange-bordered tubes — `7`, `9`, `13` — comme plateau's seulement progress trackers, fed de multicolor base grille à travers en-tête `2` device. droite-colonne `3` compteur et base dalles doit align avant...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/138/",
+        "layout": "Block Out Niveau 138 lignes haut trois orange-bordered tubes — `7`, `9`, `13` — comme plateau's seulement progress trackers, fed de multicolor base grille à travers en-tête `2` device. droite-colonne `3` compteur et base dalles doit align avant tubes accept input. Poussez violet amas avant en-tête fires et lone bloc rouge drifts dans `9` tube's alimentez voie, stalling longest compteur.",
+        "landmarks": [
+          "Block Out Niveau 138 lignes haut trois orange-bordered tubes — `7`, `9`, `13` — comme plateau's seulement progress trackers, fed de multicolor base grille à travers en-tête `2` device.",
+          "Droite-colonne `3` compteur et base dalles doit align avant tubes accept input.",
+          "Poussez violet amas avant en-tête fires et lone bloc rouge drifts dans `9` tube's alimentez voie, stalling longest compteur."
+        ],
+        "colors": ["yellow", "violet", "red", "blue", "green", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w0c0YTRTa2Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w0c0YTRTa2Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez isolated rouge bas-centre bloc dernier — doing il tôt overfills 13 tube.",
+        "Alimentez la droite-côté jaune/bleu/pile rouge seulement après 7 colonne hits zero.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le bas-gauche carré bleu et rouge horizontal paire à travers bleu gauche-arrow voie à commencez la gauche 7 colonne."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez le centre jaune horizontal bloc rightward à alimentez le milieu 9 colonne sans touching la droite-côté 2 compteur."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez la droite-côté jaune/bleu/pile rouge à travers vert droite-arrow voie une fois 7 colonne hits zero."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Alimentez restant violet et cyan base scraps vers le haut dans la droite 13 colonne."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez en-tête 2 device et rouge segmented barre après all trois colonne circles dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Drainez la droite orange-colonne 3 compteur et sortie dernier rouge singleton à travers rouge bas-arrow pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement le bas-centre bloc rouge avant en-tête 2 spends, overfilling 13 tube.",
+        "Feeding la droite-côté stack avant 7 colonne dégage, locking vert droite-arrow voie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/138/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 138",
+    "description": "Résolvez le niveau 138 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

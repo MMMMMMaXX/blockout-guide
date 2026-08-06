@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-148",
+  "locale": "pt-br",
+  "levelNumber": 148,
+  "title": "Guia do nível 148 do Block Out",
+  "summary": "O nível 148 do Block Out empilha uma cabeça estreita `13` sobre um corpo de grade colorida de 6 de largura, criando uma moldura em formato de prédio com uma saída inferior `4`/`3`. O marcador azul `8` superior é o bloqueio final — ele aciona a animação de limpeza BLOCK OUT. Mas as verdes...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/148/",
+        "layout": "O nível 148 do Block Out empilha uma cabeça estreita `13` sobre um corpo de grade colorida de 6 de largura, criando uma moldura em formato de prédio com uma saída inferior `4`/`3`. O marcador azul `8` superior é o bloqueio final — ele aciona a animação de limpeza BLOCK OUT. Mas as pilhas verdes que preenchem a faixa esquerda devem escoar antes que o `8` possa se mover, e limpar a saída inferior cedo demais veda a única saída inferior da faixa esquerda.",
+        "landmarks": [
+          "O nível 148 do Block Out empilha uma cabeça estreita `13` sobre um corpo de grade colorida de 6 de largura, criando uma moldura em formato de prédio com uma saída inferior `4`/`3`.",
+          "Superior azul `8` marcador é final cadeado — ele triggers Bloco Para fora limpar animation.",
+          "Mas verde empilha preenchendo esquerda faixa deve escoe antes que `8` pode mova, e limpando inferior saída também cedo selos esquerda faixa's único para baixo saída."
+        ],
+        "colors": ["purple", "blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UFRWhADj4Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UFRWhADj4Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Desbloqueie superior azul 8 antes que limpando centro laranja aglomerado.",
+        "Fino esquerda verde faixa único depois head solta para 12.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize superior azul/verde/amarelo fileira para a direita para gaste esquerda vermelho 8 coluna sem dividindo centro vermelho empilhe."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre superior roxo 13 head baixo para azul 12 peça por limpando superior laranja e verde recortes."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Fino esquerda verde faixa uma vez head mostra 12 e esquerda trilho solta para 7."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar centro laranja aglomerado depois vermelho coluna desbloqueia meio 1 pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste superior azul 8 peça (laranja borda) uma vez peripheral contadores read 12/14/3."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Escoe restante amarelo/azul recortes através inferior 3 saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar último verde recortes para Bloco Para fora termine."
+        }
+      ],
+      "failurePoints": [
+        "Limpando centro laranja aglomerado antes que superior azul 8 desbloqueia, jamming esquerda 3 pista.",
+        "Dividindo centro vermelho empilhe cedo, bloqueando meio 1 pista permanentemente."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/148/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 148 do Block Out",
+    "description": "Resolva o nível 148 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

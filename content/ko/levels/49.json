@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-49",
+  "locale": "ko",
+  "levelNumber": 49,
+  "title": "블록 아웃 레벨 49 공략",
+  "summary": "블록 아웃 레벨 49는 '매우 어려운 레벨'로 표시되며, 왼쪽과 오른쪽이 각 `17`이고 중앙에 노란색 열쇠 블록이 있는 세 개의 큰 보스 챔버가 특징입니다 — 모두 파란색, 초록색, 노란색, 빨간색, 주황색, 청록색 블록...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "블록 아웃 레벨 49는 '매우 어려운 레벨'로 표시되며, 왼쪽과 오른쪽이 각 `17`이고 중앙에 노란색 열쇠 블록이 있는 세 개의 큰 보스 챔버가 특징입니다 — 모두 파란색, 초록색, 노란색, 빨간색, 주황색, 청록색 블록으로 가득 찬 아래 챔버 위에 놓여 있습니다. 먼저 아래 챔버를 비워 세 보스 모두에게 공간을 주고, 그다음 짝이 맞는 `17` 챔버가 대략 동시에 무너지도록 두세요. 모든 단계는 아래 챔버가 충분히 열려 있는 데 달려 있습니다.",
+        "landmarks": [
+          "블록 아웃 레벨 49는 '매우 어려운 레벨'로 표시되며, 왼쪽과 오른쪽이 각 `17`이고 중앙에 노란색 열쇠 블록이 있는 세 개의 큰 보스 챔버가 특징입니다 — 모두 파란색, 초록색, 노란색, 빨간색, 주황색, 청록색 블록으로 가득 찬 아래 챔버 위에 놓여 있습니다.",
+          "먼저 아래 챔버를 비워 세 보스 모두에게 공간을 주고, 그다음 짝이 맞는 `17` 챔버가 대략 동시에 무너지도록 두세요.",
+          "모든 단계는 아래 챔버가 충분히 열려 있는 데 달려 있습니다."
+        ],
+        "colors": ["blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "세 보스 모두 같은 바닥에 달려 있습니다 — 아래 챔버가 여전히 가득 차 있다면 어느 것도 준비되지 않았습니다.",
+        "보스 사이의 노란색 중앙 블록은 초기 열쇠 조각입니다. 이를 사용해 위쪽 섹션을 열기 시작하세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "아래쪽 색상 블록(파란색, 초록색, 노란색, 빨간색, 주황색, 청록색)을 측면 출구 쪽으로 비우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "보스 사이의 노란색 중앙 블록을 초기 수로 사용해 위쪽 섹션을 열기 시작하세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "아래 챔버가 여전히 붐비는 동안 `17` 보스를 그대로 두세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "바닥이 약 절반 비면 보스 카운터가 떨어지기 시작하도록 두세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "두 `17` 챔버를 대략 균등하게 작업하여 동시에 무너지게 하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "드러난 위쪽 공간의 후반부 색상 줄기를 제거하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "마지막 측면 카운터와 챔버 정리로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "다른 두 보스가 여전히 닫힌 상태에서 한 위쪽 보스만 따로 작업하면 — 세 보스는 같은 바닥을 공유하므로 함께 열려야 합니다.",
+        "보스를 건드리기 전에 아래 챔버를 비우지 않으면, 세 챔버 중 어느 것도 무너질 공간이 남지 않습니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 49 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 49을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de-level-21",
+  "locale": "de",
+  "levelNumber": 21,
+  "title": "Block Out Level 21 Lösung",
+  "summary": "Block Out Level 21 ist triple-Boss ladder. Break framed `9` panel erste, unwind colorful mittlere entfernen second, und nur dann starten shrinking untere `16` und `18` panels.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "Block Out Level 21 ist triple-Boss ladder. Break framed `9` panel erste, unwind colorful mittlere entfernen second, und nur dann starten shrinking untere `16` und `18` panels.",
+        "landmarks": [
+          "Block Out Level 21 ist triple-Boss ladder.",
+          "Break framed `9` panel erste, unwind colorful mittlere entfernen second, und nur dann starten shrinking untere `16` und `18` panels.",
+          "Das Spielfeld mixes Blau, Gelb, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Lösen framed `9` erste.",
+        "Untere `16` und `18` values sind phase two und phase three.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Arbeiten oben Zähler und räumen obere Farbe band also framed `9` panel ist exposed."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Fallen lassen `9` panel bevor touching untere Bosse."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden freigegeben mittlere corridor zu drehen pink, grün, und blau bars."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Starten shrinking untere `16` panel once Mitte ist kein longer packed."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let `18` panel begin falling nur nach `16` frame hat bereits geöffnet."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Aufsparen floor grün Ausgang für spät cleanup when untere panels sind thin."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit remaining hoch Farbe bars nach beide unten Bosse haben collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu shrink untere framed values while oben `9` ist still alive.",
+        "Leaving mittlere entfernen packed nach oben Boss hat geöffnet."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 21 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 21 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

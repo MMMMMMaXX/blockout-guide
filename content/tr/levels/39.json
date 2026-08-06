@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-39",
+  "locale": "tr",
+  "levelNumber": 39,
+  "title": "Block Out Seviye 39 Rehberi",
+  "summary": "Block Out Seviye 39 etiketli 'süper zor' ve ilk üçlü-ana blok tahta Block Outda. düzen 2×2 ızgara: üst-sol ana blok `14`, üst-sağ ana blok `21`, daha düşük-sağ ana blok `4`, ve sıkıştırılmış renk karıştır daha düşük-sol. `4` bo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "Block Out Seviye 39 etiketli 'süper zor' ve ilk üçlü-ana blok tahta Block Outda. düzen 2×2 ızgara: üst-sol ana blok `14`, üst-sağ ana blok `21`, daha düşük-sağ ana blok `4`, ve sıkıştırılmış renk karıştır daha düşük-sol. `4` ana blok açılır daha düşük yarı, renkli bloklar boşalt sonraki, sonra `14` düşer önce `21`. Every aşama depends birde önce o, ve ordering absolute.",
+        "landmarks": [
+          "Block Out Seviye 39 etiketli 'süper zor' ve ilk üçlü-ana blok tahta Block Outda.",
+          "Düzen 2×2 ızgara: üst-sol ana blok `14`, üst-sağ ana blok `21`, daha düşük-sağ ana blok `4`, ve sıkıştırılmış renk karıştır daha düşük-sol.",
+          "`4` ana blok açılır daha düşük yarı, renkli bloklar boşalt sonraki, sonra `14` düşer önce `21`.",
+          "Every aşama depends birde önce o, ve ordering absolute."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Check daha düşük-sağ `4` sayaç önce dokunarak anything üstünde o — eğer o hâlâ alive, neither üst ana blok ebilir hareket ettir.",
+        "Cascade strict: `4` → renkler → `14` → `21`. hayır shortcuts.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çalış bloklar daha düşük-sağ `4` oda ilk — kaydır adjacent renkli bloklar alt çıkışlara."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Ince renkli bloklar daha düşük-sol quadrant (yeşil, sarı, mavi, kırmızı, mor) oluştur alan için `4` ana blok çökert."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Sonra `4` sayaç düşer zeroya ( 01:47), kullan serbest bırakıldı daha düşük-sağ alan acceleratea renk boşalt."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla üst-sol `14` ana blok sadece sonra daha düşük yarı çoğunlukla açık — izle onun sayaç düşür `10`."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tut üst-sağ `21` ana blok park edildi sırasında `14` hâlâ düşerek."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bırak `21` ana blok başla onun descent sadece sonra `14` oda fully boşaldı ve üst çatı lighter."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son renkli bloklar ve yan sayaçlar sonra tüm üç ana bloklar gitti."
+        }
+      ],
+      "failurePoints": [
+        "Bölerek effort arasında tüm üç ana bloklar başladan — none reaches critical threshold, ve tahta durur çünkü hayır single oda gets enough alan.",
+        "Attempting azalt `21` ana blok önce `14` çöktü, hangi israf eder limited üst alan largerda sayaç."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 39 Rehberi ve Çözümü",
+    "description": "Block Out seviye 39'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

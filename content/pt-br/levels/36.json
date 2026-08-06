@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-36",
+  "locale": "pt-br",
+  "levelNumber": 36,
+  "title": "Guia do nível 36 do Block Out",
+  "summary": "Block Out Nível 36 é denso mosaic de interlocking vermelho, verde, azul, e amarelo tetromino-shaped blocos com no chefe molduras ou dispositivo contadores. tabuleiro é so tightly empacotado que primeiro lacuna deve come de superior, e resolva wor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "Block Out Nível 36 é denso mosaic de interlocking vermelho, verde, azul, e amarelo tetromino-shaped blocos com no chefe molduras ou dispositivo contadores. tabuleiro é so tightly empacotado que primeiro lacuna deve come de superior, e resolva works para baixo: limpar verde blocos perto superior primeiro, desloque centro amarelo massa, então escoe vermelho e azul blocos através inferior saídas. Um errado deslize em centro pode jam múltiplo peças.",
+        "landmarks": [
+          "Block Out Nível 36 é denso mosaic de interlocking vermelho, verde, azul, e amarelo tetromino-shaped blocos com no chefe molduras ou dispositivo contadores.",
+          "Tabuleiro é so tightly empacotado que primeiro lacuna deve come de superior, e resolva works para baixo: limpar verde blocos perto superior primeiro, desloque centro amarelo massa, então escoe vermelho e azul blocos através inferior saídas.",
+          "Um errado deslize em centro pode jam múltiplo peças."
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Assista vazio espaço. Se lacuna created em superior tem não traveled baixo para centro yet, inferior blocos são ainda trancado.",
+        "Grande amarelo L-shaped bloco em centro-esquerda é chave desbloqueie — uma vez ele movimentos, mais blocos pode follow.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize primeiro pequeno block out através superior saída para crie inicial lacuna em empacotado tabuleiro."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque verde blocos perto superior-direita em direção a superior saída para widen abertura."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use novo espaço para mova grande amarelo L-shaped bloco em centro-esquerda — este é chave desbloqueie."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez amarelo massa tem shifted, vermelho blocos abaixo ele pode comece deslizando em direção a inferior saídas."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Funciona azul blocos para fora através direita lateral ou inferior depois centro é less congested."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Mantenha inferior saída pistas limpar para final vermelho e verde peças."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último restante bloco depois mosaic tem unraveled de superior para inferior."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para force azul block out através inferior antes que centro amarelo e vermelho blocos tem shifted suficiente — este creates deadlock ao redor 01:12.",
+        "Working inferior saídas antes que superior lacuna tem propagated baixo através centro, que deixa entire tabuleiro trancado."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 36 do Block Out",
+    "description": "Resolva o nível 36 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

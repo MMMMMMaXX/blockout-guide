@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-65",
+  "locale": "fr",
+  "levelNumber": 65,
+  "title": "Guide Block Out Niveau 65",
+  "summary": "Block Out Niveau 65 est nested-cadre énigme avec deux visible cadre layers — dark outer cadre et orange inner cadre — wrapping core de blocs colorés. blocs à l'intérieur cannot déplacez jusqu'à les deux cadres ouvrez. Pelez outer cadre firs...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "Block Out Niveau 65 est nested-cadre énigme avec deux visible cadre layers — dark outer cadre et orange inner cadre — wrapping core de blocs colorés. blocs à l'intérieur cannot déplacez jusqu'à les deux cadres ouvrez. Pelez outer cadre premier par extracting rose et rouge bord pièces, alors cassez inner orange cadre à libérez vert, bleu, violet, et blocs rouge. bloc jaune avec compteur '10' à l'intérieur inner cadre est heaviest pièce et sorties dernier.",
+        "landmarks": [
+          "Block Out Niveau 65 est nested-cadre énigme avec deux visible cadre layers — dark outer cadre et orange inner cadre — wrapping core de blocs colorés.",
+          "Blocs à l'intérieur cannot déplacez jusqu'à les deux cadres ouvrez.",
+          "Pelez outer cadre premier par extracting rose et rouge bord pièces, alors cassez inner orange cadre à libérez vert, bleu, violet, et blocs rouge.",
+          "Bloc jaune avec compteur '10' à l'intérieur inner cadre est heaviest pièce et sorties dernier."
+        ],
+        "colors": ["violet", "green", "blue", "red", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pas touch inner cadre jusqu'à outer cadre a lost assez pièces.",
+        "Jaune '10' bloc needs large voies — gardez sorties dégagez pour son long alimentez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tirez petit rose/blocs magenta de outer cadre bords à travers à proximité sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract les blocs rouge sur le côté gauche entre outer et inner cadres."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Une fois outer cadre thins, cassez inner orange cadre border à libérez core blocs."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Glissez le bloc violet de supérieur gauche de inner zone à travers la sortie gauche."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Extract vert et blocs bleu de le centre à travers available sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez jaune '10' bloc à travers son sortie repeatedly jusqu'à fully cleared."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec restant blocs rouge sur le côté droit."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à forcez inner blocs à travers toujours-sealed cadre — ils cannot déplacez jusqu'à les deux layers ouvrez.",
+        "Pas laissant large assez voies pour jaune '10' bloc, qui causes slow et cramped endgame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 65",
+    "description": "Résolvez le niveau 65 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "zh-cn-level-99",
+  "locale": "zh-cn",
+  "levelNumber": 99,
+  "title": "Block Out 第99关攻略",
+  "summary": "Block Out 第99关是专家关——在 50–100 区间内最密集、最长的一关，时长 138 秒。一个黄/橙十字形大块主导中心，一个紫/蓝方块填满左上角，绿色方块在右侧竖直堆叠，粉色/洋红色方块排在左侧，红色方块填满剩余空隙。至少四个方块上的锁/钥图标强制特定的清除顺序。先抽出边缘方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "Block Out 第99关是专家关——在 50–100 区间内最密集、最长的一关，时长 138 秒。一个黄/橙十字形大块主导中心，一个紫/蓝方块填满左上角，绿色方块在右侧竖直堆叠，粉色/洋红色方块排在左侧，红色方块填满剩余空隙。至少四个方块上的锁/钥图标强制特定的清除顺序。先抽出边缘方块，清空绿色和粉色大块以露出十字，最后再将其送出。",
+        "landmarks": [
+          "Block Out 第99关是专家关——在 50–100 区间内最密集、最长的一关，时长 138 秒。",
+          "一个黄/橙十字形大块主导中心，一个紫/蓝方块填满左上角，绿色方块在右侧竖直堆叠，粉色/洋红色方块排在左侧，红色方块填满剩余空隙。",
+          "至少四个方块上的锁/钥图标强制特定的清除顺序。",
+          "先抽出边缘方块，清空绿色和粉色大块以露出十字，最后再将其送出。"
+        ],
+        "colors": ["red", "green", "blue", "orange", "pink", "yellow", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "这是一场 138 秒的马拉松——规划步数，不要匆忙或蛮干。",
+        "优先清空右侧的绿色堆叠和左侧的粉色大块——它们露出十字块的两侧。",
+        "约 01:48 出现的「超级慢」标记意味着你落后了节奏——优先处理两侧。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "先清空最小的边缘方块：青色（右下，向右）、蓝色（左上，向上）、粉色（左侧，向左）——每一个都逐步腾出空间（02:19–02:09）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "开始将右侧堆叠的绿色方块经右墙出口清空，因为它们露出十字块的右臂（02:09–01:59）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将左侧的粉色/洋红色方块经左墙出口清空，因为它们露出十字块的左臂（01:59–01:48）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "解锁钥匙方块以打开上锁路径——十字形块的锁必须解锁才能移动（01:48）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将左上角的大号紫/蓝方块经顶部或左出口抽出，因为它释放出十字块的上臂（01:38–01:27）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将剩余密集区域的红色方块经最近的出口抽出（01:27–01:06）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "将黄/橙十字形块经最宽的可用出口路径送出——它需要四个方向都有空间（01:06–00:56）。"
+        },
+        {
+          "order": 8,
+          "title": "第8步",
+          "instruction": "十字块出口后，用最后的方块收尾（00:46–00:25）。"
+        }
+      ],
+      "failurePoints": [
+        "在清空十字块全部四个臂之前就移动它——它向上、下、左、右延伸，任何一个方向没清空都无法移动。",
+        "落后节奏并看到「超级慢」标记——如果绿色和粉色大块在 01:48 仍在，十字块就无法及时出口。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第99关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第99关。"
+  },
+  "updatedAt": "2026-08-03"
+}

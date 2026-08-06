@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-69",
+  "locale": "tr",
+  "levelNumber": 69,
+  "title": "Block Out Seviye 69 Rehberi",
+  "summary": "Block Out Seviye 69 bir 'süper zor' quad-oda ana blok level ile dört büyük mor bloklar — sayaçlar '7' ve '8' üstde, '10' ve '4' altdadır. Mavi '12' blok alt additionalda heavy hedef. temizle alt ilk...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out Seviye 69 bir 'süper zor' quad-oda ana blok level ile dört büyük mor bloklar — sayaçlar '7' ve '8' üstde, '10' ve '4' altdadır. Mavi '12' blok alt additionalda heavy hedef. temizle alt ilk, sonra çalış mor bloklar parallel, bırakarak daha küçük ones temizle faster sırasında larger ones gradually açık.",
+        "landmarks": [
+          "Block Out Seviye 69 bir 'süper zor' quad-oda ana blok level ile dört büyük mor bloklar — sayaçlar '7' ve '8' üstde, '10' ve '4' altdadır.",
+          "Mavi '12' blok alt additionalda heavy hedef.",
+          "Temizle alt ilk, sonra çalış mor bloklar parallel, bırakarak daha küçük ones temizle faster sırasında larger ones gradually açık."
+        ],
+        "colors": ["purple", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'süper zor' label demektir tighter packing — temizle daha küçük mor bloklar ilk inşa et alan.",
+        "Mavi '12' blok alt gerektirirde çoğu alan. temizle o ilk.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle mavi bloklar alt ile sayaçda '12' sol çıkışdan — o gerektirir çoğu alan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır sarı bloklar sağ dışarıda sağ çıkışdan açık daha düşük-sağ bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla boşaltarak alt-sağ mor blok ile sayaç '4' — o lightest ve temizlenir en hızlı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Çalış alt-sol mor blok ile sayaç '10' parallel."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Hareket ettir üste-sol mor blok ile sayaç '7' — o lighter '8'."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile üst-sağ mor blok ile sayaç '8', hangi çoğu alan sonra diğerleri boşaldı."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle any kalan renkli bloklar tuzağa düştü arasında boşaldı odalar."
+        }
+      ],
+      "failurePoints": [
+        "Boşaltarak '10' veya '8' bloklar önce daha küçük ones — larger bloklar gerektir alan maneuvera, ve temizleyerek onları ilk removes kaydırarak duvarlar için diğerleri.",
+        "Ignoring mavi '12' blok altda — o heaviest ve gerektirir çoğu alan çıkışa."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 69 Rehberi ve Çözümü",
+    "description": "Block Out seviye 69'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

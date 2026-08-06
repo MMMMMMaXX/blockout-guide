@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-145",
+  "locale": "fr",
+  "levelNumber": 145,
+  "title": "Guide Block Out Niveau 145",
+  "summary": "Block Out Niveau 145 layers cadre compteurs autour centre rose `20` paire, avec bas combo barre alterné entre `6` et `4` comme matched groupes dégagez. combo barre est real constraint: il doit read `6` avant rose paire breaks...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "Block Out Niveau 145 layers cadre compteurs autour centre rose `20` paire, avec bas combo barre alterné entre `6` et `4` comme matched groupes dégagez. combo barre est real constraint: il doit read `6` avant rose paire breaks, ou premier combo wastes et la gauche jaune retirez verrous dans placez. rose troll marqueur tracks active dégagez zone — terminez sur rouge 2×2 et bleu `9` pour PERFECT.",
+        "landmarks": [
+          "Block Out Niveau 145 layers cadre compteurs autour centre rose `20` paire, avec bas combo barre alterné entre `6` et `4` comme matched groupes dégagez.",
+          "Combo barre est real constraint: il doit read `6` avant rose paire breaks, ou premier combo wastes et la gauche jaune retirez verrous dans placez.",
+          "Rose troll marqueur tracks active dégagez zone — terminez sur rouge 2×2 et bleu `9` pour PERFECT."
+        ],
+        "colors": ["pink", "red", "blue", "green", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Commencez combo barre à 6 avant breaking le centre 20/20 paire.",
+        "Dégagez le L vert-shape avant peeling la gauche jaune retirez au-dessus il.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut rose haut-arrow bloc et supérieur rouge/rangée jaune à commencez combo barre à 6."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez le centre rose 20/20 paire sans shifting côté piles jaune."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez supérieur bleu/vert vertical colonnes à travers la gauche 2 rail compteur."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Pelez la gauche L vert-shape et le L bleu-shape sous il une fois le haut 6 compteur tombent."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez la droite-côté rouge 2×2 bloc à côté de 1 label à travers 10 droite-rail compteur."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez le bas 9 box et 18 coin compteur sur restant bleu scraps."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Correspondre dernier highlighted regroupez pour PERFECT dégagez avec score de 20."
+        }
+      ],
+      "failurePoints": [
+        "Breaking le centre 20 paire pendant combo barre toujours reads 0, wasting premier combo.",
+        "Dégagement la gauche jaune retirez avant le L vert-shape sous il breaks, stranding rouge 2×2."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 145",
+    "description": "Résolvez le niveau 145 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

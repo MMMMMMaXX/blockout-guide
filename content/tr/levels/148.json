@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-148",
+  "locale": "tr",
+  "levelNumber": 148,
+  "title": "Block Out Seviye 148 Rehberi",
+  "summary": "Block Out Seviye 148 istifler dar `13` head 6-geniş renk ızgara body, oluşturarak inşa ederek-şekilli çerçeve ile alt `4`/`3` kapı. üst mavi `8` marker son kilitlen — o triggers blok dışarı temizle animation. ama yeşil...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/148/",
+        "layout": "Block Out Seviye 148 istifler dar `13` head 6-geniş renk ızgara body, oluşturarak inşa ederek-şekilli çerçeve ile alt `4`/`3` kapı. üst mavi `8` marker son kilitlen — o triggers blok dışarı temizle animation. ama yeşil istifler doldurarak sol bant meli boşalt önce `8` ebilir hareket ettir, ve temizleyerek alt kapı çok erken seals sol bant's sadece aşağı doğru çıkış.",
+        "landmarks": [
+          "Block Out Seviye 148 istifler dar `13` head 6-geniş renk ızgara body, oluşturarak inşa ederek-şekilli çerçeve ile alt `4`/`3` kapı.",
+          "Üst mavi `8` marker son kilitlen — o triggers blok dışarı temizle animation.",
+          "Ama yeşil istifler doldurarak sol bant meli boşalt önce `8` ebilir hareket ettir, ve temizleyerek alt kapı çok erken seals sol bant's sadece aşağı doğru çıkış."
+        ],
+        "colors": ["purple", "blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UFRWhADj4Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UFRWhADj4Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kilidini aç üst mavi 8 önce temizleyerek merkez turuncu küme.",
+        "Ince sol yeşil bant sadece sonra head düşer 12.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır üst mavi/yeşil/sarı sıra sağa doğru harcaya sol kırmızı 8 sütun olmadan bölerek merkez kırmızı istifler."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır üst mor 13 head aşağı mavi 12 karo ile temizleyerek üst turuncu ve yeşil artıklar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Ince sol yeşil bant sonra head gösterir 12 ve sol ray düşer 7."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle merkez turuncu küme sonra kırmızı sütun kilidini açar orta 1 şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca üst mavi 8 karo (turuncu border) sonra peripheral sayaçlar read 12/14/3."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Boşalt kalan sarı/mavi artıklar alt 3 kapı."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle son yeşil artıklar için blok dışarı bitir."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek merkez turuncu küme önce üst mavi 8 kilidini açar, jamming sol 3 şerit.",
+        "Bölerek merkez kırmızı istifler erken, engelleyerek orta 1 şerit permanently."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/148/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 148 Rehberi ve Çözümü",
+    "description": "Block Out seviye 148'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de-level-8",
+  "locale": "de",
+  "levelNumber": 8,
+  "title": "Block Out Level 8 Lösung",
+  "summary": "Block Out Level 8 hides huge rot slab in untere rechte well. Arbeiten grün, weiß, und schwarz mini-Blöcke durch oben und rechts Zähler erste, dann verwenden geöffnet corridor zu finally bewegen rot slab.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "Block Out Level 8 hides huge rot slab in untere rechte well. Arbeiten grün, weiß, und schwarz mini-Blöcke durch oben und rechts Zähler erste, dann verwenden geöffnet corridor zu finally bewegen rot slab.",
+        "landmarks": [
+          "Block Out Level 8 hides huge rot slab in untere rechte well.",
+          "Arbeiten grün, weiß, und schwarz mini-Blöcke durch oben und rechts Zähler erste, dann verwenden geöffnet corridor zu finally bewegen rot slab.",
+          "Das Spielfeld mixes Rot, Grün, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Obere corridor matters mehr als giant rot slab bei starten.",
+        "Behalten rechts-Seite meter falling while oben cap ist also shrinking.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben obere rechte weiß und schwarz pair in rechts-Seite quota Bahn zu starten shrinking `9` meter."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Drehen obere grün mini-Blöcke über oben corridor also `17` cap und rechts meter behalten dropping together."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden narrow Mitte stem zu pass nächste weiß Block nach unten und behalten obere-rechte Spalte von refilling."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Continue trimming schwarz-und-grün cluster bis rechte Spalte ist almost empty und Seite meter ist fast exhausted."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once obere corridor öffnet, verschieben remaining small Bauteile zur Seite also rot slab hat sauber vertikale Bahn."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Schieben large rot rectangle nach oben und über toward rot Ausgang auf linke Wand."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch feeding letzte grün mini-Block durch oben grün beenden nach quotas haben fully geräumt."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen oversized rot slab bevor obere corridor ist mostly empty.",
+        "Ignoring rechts quota Bahn und nur working oben cap."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 8 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 8 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-146",
+  "locale": "tr",
+  "levelNumber": 146,
+  "title": "Block Out Seviye 146 Rehberi",
+  "summary": "Block Out Seviye 146 runs dual üst sayaçlar — `20` ve `17` — ki tick aşağı artıklar temizle Legodan-textured ızgara. mühürlendi sol sarı sütun ve kırmızı yıldız-dotted sabitle pim daha düşük yarı. yıldız-dotted blok meli kır önce t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/146/",
+        "layout": "Block Out Seviye 146 runs dual üst sayaçlar — `20` ve `17` — ki tick aşağı artıklar temizle Legodan-textured ızgara. mühürlendi sol sarı sütun ve kırmızı yıldız-dotted sabitle pim daha düşük yarı. yıldız-dotted blok meli kır önce son mor 2×2 ebilir çıkış, ama kaydırarak yeşil L-parça çok erken bloklar merkez şerit ve strands sabitle.",
+        "landmarks": [
+          "Block Out Seviye 146 runs dual üst sayaçlar — `20` ve `17` — ki tick aşağı artıklar temizle Legodan-textured ızgara.",
+          "Mühürlendi sol sarı sütun ve kırmızı yıldız-dotted sabitle pim daha düşük yarı.",
+          "Yıldız-dotted blok meli kır önce son mor 2×2 ebilir çıkış, ama kaydırarak yeşil L-parça çok erken bloklar merkez şerit ve strands sabitle."
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "cyan", "green", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXs9atNLk6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXs9atNLk6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır kırmızı yıldız-dotted blok önce kaydırarak merkez mor 2×2.",
+        "Tut mor 12 küme intact kadar üst sayaçlar düşür altında 15.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır sol sarı sütun aşağı ile yan yeşil yukarı-ok başla harcayarak üst 20 sayaç olmadan kaydırarak mor 12 çift."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır ikiz üst 20/17 karolar aşağı 15/12 ile temizleyerek üst camgöbeği 5 ve kırmızı artıklar arasında onları."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Yönlendir mavi L-şekil ve kırmızı 2×2 merkez boşlukdan sonra sayaçlar hit 15/12."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle alt mor 12 küme ve sarı 8 karo düşür üst çerçeveler 6/3."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kır kırmızı yıldız-dotted blok altda-sağ önce kaydırarak merkez mor 2×2."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca son 6/3 sayaçlar yeşil Lde-parça ve son mavi artıklar için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak mor 2×2 önce kırmızı yıldız-dotted blok breaks, mühürleyerek alt kırmızı şerit.",
+        "Kaydırarak mor 12 küme sırasında üst 20 sayaç hâlâ dolu, wasting ilk harca."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/146/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 146 Rehberi ve Çözümü",
+    "description": "Block Out seviye 146'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "es-level-335",
+  "locale": "es",
+  "levelNumber": 335,
+  "title": "Guía de Block Out Nivel 335",
+  "summary": "¡Block Out! Guía de solución del nivel 335. Mira la guía integrada para superar este tablero fácil.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/335.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/335",
+        "layout": "El nivel 335 de Block Out comienza en un tablero de clasificación por color fácil dominado por baldosas azules, rojas, verdes, amarillas y moradas. La disposición inicial exacta y la solución verificada se muestran en el vídeo de la guía integrada; compara tu tablero con el vídeo antes de seguir el orden de movimientos.",
+        "landmarks": [
+          "El tablero destaca principalmente por bloques azules, rojos y verdes.",
+          "Los grupos de colores deben separarse y apilarse para superar el nivel.",
+          "La guía integrada muestra la disposición inicial exacta y el orden de la solución."
+        ],
+        "colors": ["blue", "red", "green", "yellow", "morado", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U9L0P_gdhAo",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=U9L0P_gdhAo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Tablero inicial"
+        },
+        {
+          "seconds": 75,
+          "label": "Primeras fusiones"
+        },
+        {
+          "seconds": 149,
+          "label": "Limpieza a mitad del tablero"
+        },
+        {
+          "seconds": 219,
+          "label": "Salida final"
+        }
+      ],
+      "quickTips": [
+        "Agrupa primero los bloques azules y rojos — dominan el tablero inicial, así que eliminarlos pronto abre el mayor espacio.",
+        "Mantén una columna vacía como reserva hasta completar tus dos primeras fusiones; es el único sitio seguro para deshacer un movimiento erróneo.",
+        "Estaciona los bloques verdes mezclados o atrapados en la columna más corta, nunca en la más alta, para conservar un carril de salida despejado.",
+        "Si dos columnas comparten el mismo color superior, fusiona primero la de menor riesgo y guarda la otra para el final."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Verifica el tablero",
+          "instruction": "Confirma que la disposición azul/roja coincide con la guía antes de mover; una variante distinta implica una solución distinta.",
+          "image": "/boards/335.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Elimina el color dominante",
+          "instruction": "Fusiona primero las columnas azules para liberar la mayor zona del tablero y reducir las piezas que debes controlar.",
+          "image": "/boards/335.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Abre un carril de reserva",
+          "instruction": "Desplaza los bloques rojos a un lado en una columna corta para que las pilas mezcladas sigan separables y el carril de salida permanezca abierto.",
+          "image": "/boards/335.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Procede de arriba abajo",
+          "instruction": "Limpia desde arriba para que nada se bloquee pronto; mantén la columna de reserva disponible hasta que el tablero esté casi vacío.",
+          "image": "/boards/335.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Encamina la salida",
+          "instruction": "Envía los últimos bloques por el mismo carril que muestra el vídeo, en el orden que indica la guía.",
+          "image": "/boards/335.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "Fusionar la columna más alta primero consume tu único carril de reserva y atrapa los bloques inferiores detrás de ella.",
+        "Perseguir una pila azul completa antes de separar los colores mezclados deja bloques que ya no puedes alcanzar.",
+        "Iniciar el temporizador antes de que el tablero coincida malgasta de 8 a 12 segundos de recuperación en un tablero fácil.",
+        "Dejar que los bloques rojos queden detrás de otros obliga a reiniciar, algo que podrías haber evitado con un solo desplazamiento temprano."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/335",
+    "https://www.youtube.com/watch?v=U9L0P_gdhAo",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 335",
+    "description": "Resuelve el nivel 335 de Block Out con el vídeo verificado de la guía fácil y los colores del tablero. Mira la solución integrada para compararla con tu tablero inicial."
+  },
+  "updatedAt": "2026-08-03"
+}

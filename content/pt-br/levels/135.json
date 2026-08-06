@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-135",
+  "locale": "pt-br",
+  "levelNumber": 135,
+  "title": "Guia do nível 135 do Block Out",
+  "summary": "O nível 135 do Block Out veda uma coluna alta na borda esquerda, atrás de um contador que deve chegar a zero. As peças azuis `6`/`6`/`9` da fileira superior, um bloco amarelo pontilhado 2×2 e um controle deslizante bidirecional ciano criam um quebra-cabeça lateral em uma estrutura vertical. A...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/135/",
+        "layout": "O nível 135 do Block Out veda uma coluna alta na borda esquerda, atrás de um contador que deve chegar a zero. As peças azuis `6`/`6`/`9` da fileira superior, um bloco amarelo pontilhado 2×2 e um controle deslizante bidirecional ciano criam um quebra-cabeça lateral em uma estrutura vertical. A faixa verde para a direita alimenta a pista de saída — empurre-a antes que o contador do trilho esquerdo zere e a coluna vedada fique trancada para sempre.",
+        "landmarks": [
+          "O nível 135 do Block Out veda uma coluna alta na borda esquerda, atrás de um contador que deve chegar a zero.",
+          "Superior fileira's azul `6`/`6`/`9` peças, amarelo 2×2 dot bloco, e ciano bidirecional slider crie lateral quebra-cabeça em vertical moldura.",
+          "Verde direita-remova alimenta saída pista — empurre ele antes que esquerda-trilho contador zeroes para fora e vedado coluna permanece trancado forever."
+        ],
+        "colors": ["blue", "yellow", "cyan", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UznrtGVtYHY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UznrtGVtYHY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre amarelo dot bloco antes que deslizando ↔ peça — reversing que ordem cadeados esquerda trilho acima 4.",
+        "Limpar verde direita-remova único depois preto-bordered 2 peça desbloqueia.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Gaste esquerda-trilho 9 contador por deslizando superior azul 6/6/9 trio para a direita off alto esquerda painel."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre amarelo 2×2 dot bloco sem dividindo ciano ↔ slider em centro."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Empurre ciano double-seta peça através centro uma vez esquerda trilho solta para 4 e 7."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar verde direita-remova > pista depois preto-bordered 2 peça desbloqueia."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente inferior vermelho/verde/azul aglomerado baixo verde inferior-seta saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste final esquerda-trilho 2 em alto roxo coluna e limpar último recortes para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando ↔ peça antes que amarelo dot bloco quebra, locking esquerda trilho acima 4.",
+        "Sending inferior vermelho aglomerado baixo verde seta antes que 2 peça desbloqueia, stranding direita-remova pista."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/135/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 135 do Block Out",
+    "description": "Resolva o nível 135 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

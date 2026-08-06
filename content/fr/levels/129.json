@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-129",
+  "locale": "fr",
+  "levelNumber": 129,
+  "title": "Guide Block Out Niveau 129",
+  "summary": "Block Out Niveau 129 est Super Hard deux phases énigme — premier half est container-alimentez packing plateau, second half transforms dans rouge croisez sliding à travers stepped mur violet segments. Videz le haut container pendant son compteur...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/129/",
+        "layout": "Block Out Niveau 129 est Super Hard deux phases énigme — premier half est container-alimentez packing plateau, second half transforms dans rouge croisez sliding à travers stepped mur violet segments. Videz le haut container pendant son compteur tombent de `4`, alors navigate rouge croisez à travers increasingly étroit gaps. Forcez cyan `2` tuile tôt et il pins croisez contre mur mid-glissez.",
+        "landmarks": [
+          "Block Out Niveau 129 est Super Hard deux phases énigme — premier half est container-alimentez packing plateau, second half transforms dans rouge croisez sliding à travers stepped mur violet segments.",
+          "Videz le haut container pendant son compteur tombent de `4`, alors navigate rouge croisez à travers increasingly étroit gaps.",
+          "Forcez cyan `2` tuile tôt et il pins croisez contre mur mid-glissez."
+        ],
+        "colors": ["violet", "blue", "red", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Qhu6W_7y5o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Qhu6W_7y5o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chaque container compteur doit hit zero avant rouge croisez phase commence.",
+        "Cyan `2` tuile sur lointain droite est piegez si moved avant rouge amas dégage.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez la gauche violet `5` colonne et bleu `8` bloc sans jamming abaissez `5` container."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Alimentez correspondant bas-grille couleurs dans abaissez orange-bordered `5` slot, alors work supérieur `21` container."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez rouge/jaune/vert mid-grille amas une fois la droite-rail `3` compteurs amincissez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez dense multicolor milieu phase avant plateau opens à croisez énigme."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez rouge plus pièce past supérieur stepped mur violet, alors past abaissez violet ledge."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Laissez tomber rouge croisez sur le bas rouge arrow indicator pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "De départ rouge croisez phase pendant le haut container toujours montre numéro — stepped murs stay verrouillé.",
+        "Déplaçant cyan `2` tuile avant rouge amas sur la droite est cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/129/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 129",
+    "description": "Résolvez le niveau 129 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

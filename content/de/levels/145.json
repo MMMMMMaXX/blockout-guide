@@ -1,0 +1,96 @@
+{
+  "id": "de-level-145",
+  "locale": "de",
+  "levelNumber": 145,
+  "title": "Block Out Level 145 Lösung",
+  "summary": "Block Out Level 145 layers frame Zähler around Mitte pink `20` pair, mit unten combo bar alternating zwischen `6` und `4` als abgeglichen Gruppen räumen. Combo bar ist real constraint: es muss read `6` bevor pink pair breaks...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "Block Out Level 145 layers frame Zähler around Mitte pink `20` pair, mit unten combo bar alternating zwischen `6` und `4` als abgeglichen Gruppen räumen. Combo bar ist real constraint: es muss read `6` bevor pink pair breaks, oder erste combo verschwendet und links gelb entfernen verklemmt in Platz. Pink troll marker tracks active räumen zone — beenden auf rot 2×2 und blau `9` für PERFECT.",
+        "landmarks": [
+          "Block Out Level 145 layers frame Zähler around Mitte pink `20` pair, mit unten combo bar alternating zwischen `6` und `4` als abgeglichen Gruppen räumen.",
+          "Combo bar ist real constraint: es muss read `6` bevor pink pair breaks, oder erste combo verschwendet und links gelb entfernen verklemmt in Platz.",
+          "Pink troll marker tracks active räumen zone — beenden auf rot 2×2 und blau `9` für PERFECT."
+        ],
+        "colors": ["pink", "red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Starten combo bar bei 6 bevor breaking Mitte 20/20 pair.",
+        "Räumen grün L-shape bevor peeling links gelb entfernen über es.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben pink hoch-Pfeil Block und obere rot/gelb Reihe zu starten combo bar bei 6."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break Mitte pink 20/20 pair ohne verschiebend Seite gelb Stapel."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen obere blau/grün vertikal Spalten durch links 2 rail Zähler."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Abziehen links grün L-shape und blau L-shape unterhalb es once oben 6 Zähler fällt … lassen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen rechts-Seite rot 2×2 Block neben 1 label durch 10 rechts-rail Zähler."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend unten 9 box und 18 Ecke Zähler auf remaining blau scraps."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Abgleichen letzte highlighted zusammenfassen für PERFECT räumen mit score von 20."
+        }
+      ],
+      "failurePoints": [
+        "Breaking Mitte 20 pair while combo bar still reads 0, wasting erste combo.",
+        "Räumend links gelb entfernen bevor grün L-shape unterhalb es breaks, stranding rot 2×2."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 145 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 145 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

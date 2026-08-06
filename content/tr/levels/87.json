@@ -1,0 +1,102 @@
+{
+  "id": "tr-level-87",
+  "locale": "tr",
+  "levelNumber": 87,
+  "title": "Block Out Seviye 87 Rehberi",
+  "summary": "Block Out Seviye 87 bir Flood-boşalt bulmaca ile heavy ana blok parçadır. Camgöbeği `7` sayaç bloklar doldur daha düşük iki-thirds tahta like lake, sırasında yeşil `15` ana blok blok turuncu çerçevede oturur farda sol. sıkıştırılmış sök colo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/87/",
+        "layout": "Block Out Seviye 87 bir Flood-boşalt bulmaca ile heavy ana blok parçadır. Camgöbeği `7` sayaç bloklar doldur daha düşük iki-thirds tahta like lake, sırasında yeşil `15` ana blok blok turuncu çerçevede oturur farda sol. sıkıştırılmış sök renkli bloklar (turuncu, yeşil `9`, kırmızı, mavi, sarı) runs üstden ve meli temizle ilk. besle yeşil `15` ana blok soldan-duvar çıkış, kaldır küçük `3` sayaç bloklar wedged arasında camgöbeği parçalar, sonra bırak camgöbeği flood boşalt altdan.",
+        "landmarks": [
+          "Block Out Seviye 87 bir Flood-boşalt bulmaca ile heavy ana blok parçadır.",
+          "Camgöbeği `7` sayaç bloklar doldur daha düşük iki-thirds tahta like lake, sırasında yeşil `15` ana blok blok turuncu çerçevede oturur farda sol.",
+          "Sıkıştırılmış sök renkli bloklar (turuncu, yeşil `9`, kırmızı, mavi, sarı) runs üstden ve meli temizle ilk.",
+          "Besle yeşil `15` ana blok soldan-duvar çıkış, kaldır küçük `3` sayaç bloklar wedged arasında camgöbeği parçalar, sonra bırak camgöbeği flood boşalt altdan."
+        ],
+        "colors": ["cyan", "green", "red", "blue", "orange", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AEJlO-_-lBI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AEJlO-_-lBI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Başla besleyerek yeşil `15` ana blok moment üst sök temizlenir — fifteen passes takes time ve şerit meli kal açık.",
+        "Kaldır kırmızı `3` ve yeşil `3` kamala bloklar önce deneyerek boşalt camgöbeği `7` flood.",
+        "Camgöbeği flood boşaltır onun ownda alt çıkışlardan sonra kamala bloklar gitti — değil dene it o."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır küçük turuncu blok üstde-sol yukarı doğru üstden-çıkış ok açık ilk boşluka (02:55 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "It sarı blok sağ endde üst sök sağdan-duvar çıkış (02:50)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle kırmızı blok üst çıkışdan, sonra başla besleyerek yeşil `9` blok yukarı doğru — o gerektirir dokuz passes (02:44–02:34)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Yönlendir mavi blok sağdan-duvar çıkış sonra yeşil `9` blok thinned enough serbest şerite."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Ile üst sök temizle, başla besleyerek yeşil `15` ana blok blok soldan-duvar çıkış — tut bu şerit permanently unblocked (02:28–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle küçük kırmızı `3` ve yeşil `3` bloklar wedged arasında camgöbeği `7` parçalar ungatea boşalt yol ( 02:18)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bırak camgöbeği `7` flood boşalt alt çıkışlardan sonra kamala bloklar gitti (02:13–02:02)."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Bitir ile son camgöbeği parçalar sonra yeşil `15` ana blok fully exited (01:57)."
+        }
+      ],
+      "failurePoints": [
+        "Bırakarak stray blok drift sola-duvar şerit sırasında besleyerek yeşil `15` ana blok — o durur longest besle levelde ve zorlar sen israf et hamleler re-temizleyerek şerit.",
+        "Deneyerek boşalt camgöbeği `7` flood önce kaldırarak kırmızı `3` ve yeşil `3` kamala bloklar — onlar dam alt çıkışlar ve flood cannot pass."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/87/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 87 Rehberi ve Çözümü",
+    "description": "Block Out seviye 87'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

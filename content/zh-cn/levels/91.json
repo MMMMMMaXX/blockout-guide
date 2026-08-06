@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-91",
+  "locale": "zh-cn",
+  "levelNumber": 91,
+  "title": "Block Out 第91关攻略",
+  "summary": "Block Out 第91关以堆栈的「7」和「5」室开局，但真正的瓶颈是上层室缩小后才出现的中心升降机。先清空拥挤的左墙，第二步排空「7」室，然后在最后的侧块离开前清理带计数的青色通道。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "Block Out 第91关以堆栈的「7」和「5」室开局，但真正的瓶颈是上层室缩小后才出现的中心升降机。先清空拥挤的左墙，第二步排空「7」室，然后在最后的侧块离开前清理带计数的青色通道。",
+        "landmarks": [
+          "Block Out 第91关以堆栈的「7」和「5」室开局，但真正的瓶颈是上层室缩小后才出现的中心升降机。",
+          "先清空拥挤的左墙，第二步排空「7」室，然后在最后的侧块离开前清理带计数的青色通道。",
+          "棋盘混合了紫色、绿色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "如果左墙仍拥挤，「7」室还没准备好。",
+        "青色倒计时通道才是真正锁定残局的部分。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "通过清空绿色梯子和旁边的黄色竖列，软化左墙。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "释放中心附近的小红色正方形，以免中心竖井后来被封死。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "只有在左墙变轻后，才开始收缩上方「7」室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "让中心升降机打开，并清空两室之间出现的青色倒计时通道。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "一旦竖井不再被黄色和红色竖块挡住，就输送下方「5」室。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "中间通道清空后，用剩余的红色和绿色侧块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在左墙还没为中心竖井打开足够空间之前就收缩「7」室。",
+        "忽视青色倒计时通道，直接从「7」室跳到「5」室。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第91关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第91关。"
+  },
+  "updatedAt": "2026-08-03"
+}

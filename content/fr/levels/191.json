@@ -1,0 +1,119 @@
+{
+  "id": "fr-level-191",
+  "locale": "fr",
+  "levelNumber": 191,
+  "title": "Guide Block Out Niveau 191",
+  "summary": "Guide et Solution Block Out Niveau 191. Regardez la solution intégrée pour dégager ce plateau facile.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/191.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/191",
+        "layout": "Le niveau 191 de Block Out débute sur un plateau de tri par couleur facile dominé par des tuiles bleu, violet, jaune, rouge et orange. La disposition de départ exacte et la solution vérifiée sont présentées dans la vidéo de solution intégrée ; comparez votre plateau à la vidéo avant de suivre l'ordre des coups.",
+        "landmarks": [
+          "Le plateau présente principalement des blocs bleu, violet et jaune.",
+          "Les groupes de couleurs doivent être séparés et empilés pour dégager le niveau.",
+          "La solution intégrée montre la disposition de départ exacte et l'ordre de la solution."
+        ],
+        "colors": ["blue", "violet", "yellow", "red", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "SWl5AfS2iqY",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=SWl5AfS2iqY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Opening plateau"
+        },
+        {
+          "seconds": 67,
+          "label": "Premier merges"
+        },
+        {
+          "seconds": 134,
+          "label": "Mid-plateau dégagement"
+        },
+        {
+          "seconds": 197,
+          "label": "Final sortie"
+        }
+      ],
+      "quickTips": [
+        "Regroupez d'abord les blocs bleu et violet — ils dominent le plateau de départ, donc les dégager tôt ouvre le plus d'espace.",
+        "Gardez une colonne vide comme tampon jusqu'à ce que vos deux premières fusions soient faites ; c'est le seul endroit sûr pour annuler un mauvais coup.",
+        "Garez les blocs jaune mélangés ou piégés dans la colonne la plus courte, jamais la plus haute, afin de conserver une voie de sortie dégagée.",
+        "Si deux colonnes partagent la même couleur en haut, fusionnez d'abord la moins risquée et gardez l'autre pour la finale."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Vérifiez le plateau",
+          "instruction": "Vérifiez que la disposition bleu/violet correspond à la solution avant de bouger ; une variante différente implique une solution différente.",
+          "image": "/boards/191.avif",
+          "imageAlt": "Référence de plateau Block Out pour l'étape 1"
+        },
+        {
+          "order": 2,
+          "title": "Dégagez la couleur dominante",
+          "instruction": "Fusionnez d'abord les colonnes bleu pour libérer la plus grande zone du plateau et réduire les pièces à suivre.",
+          "image": "/boards/191.avif",
+          "imageAlt": "Référence de plateau Block Out pour l'étape 2"
+        },
+        {
+          "order": 3,
+          "title": "Ouvrez une voie tampon",
+          "instruction": "Décalez les blocs violet de côté dans une courte colonne afin que les piles mélangées restent séparables et que la voie de sortie reste ouverte.",
+          "image": "/boards/191.avif",
+          "imageAlt": "Référence de plateau Block Out pour l'étape 3"
+        },
+        {
+          "order": 4,
+          "title": "Travaillez de haut en bas",
+          "instruction": "Dégagez depuis le haut pour que rien ne se verrouille tôt ; gardez la colonne tampon disponible jusqu'à ce que le plateau soit presque vide.",
+          "image": "/boards/191.avif",
+          "imageAlt": "Référence de plateau Block Out pour l'étape 4"
+        },
+        {
+          "order": 5,
+          "title": "Dirigez la sortie",
+          "instruction": "Envoyez les derniers blocs hors de la voie montrée dans la vidéo, dans l'ordre indiqué par la solution.",
+          "image": "/boards/191.avif",
+          "imageAlt": "Référence de plateau Block Out pour l'étape 5"
+        }
+      ],
+      "failurePoints": [
+        "Fusionner la colonne la plus haute en premier brûle votre seule voie tampon et piège les blocs inférieurs derrière elle.",
+        "Poursuivre une pile bleu complète avant de séparer les couleurs mélangées laisse des blocs que vous ne pouvez plus atteindre.",
+        "Démarrer le chrono avant d'avoir matché le plateau gaspille 8–12 secondes de récupération sur un plateau facile.",
+        "Laisser les blocs violet derrière d'autres force un redémarrage que vous auriez pu éviter avec un décalage précoce."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/191",
+    "https://www.youtube.com/watch?v=SWl5AfS2iqY",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 191",
+    "description": "Regardez la solution pas à pas du niveau 191 de Block Out !, comparez les variantes de plateau et passez au niveau suivant ou précédent."
+  },
+  "updatedAt": "2026-08-03"
+}

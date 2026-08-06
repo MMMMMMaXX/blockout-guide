@@ -1,0 +1,96 @@
+{
+  "id": "de-level-143",
+  "locale": "de",
+  "levelNumber": 143,
+  "title": "Block Out Level 143 Lösung",
+  "summary": "Block Out Level 143 ist dual-Spielfeld feeder — obere placement Raster drains durch lila phase Zähler in untere gelb-bordered frame whose central number ticks von `17` nach unten. Phase Zähler gates speed: jede mileston...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/143/",
+        "layout": "Block Out Level 143 ist dual-Spielfeld feeder — obere placement Raster drains durch lila phase Zähler in untere gelb-bordered frame whose central number ticks von `17` nach unten. Phase Zähler gates speed: jede milestone unlocks nächste batch von Bauteile für transfer. Schieben rechts-Seite Blöcke bevor Zähler reaches sein midpoint und untere frame jams mit Bauteile arriving hinaus von Reihenfolge.",
+        "landmarks": [
+          "Block Out Level 143 ist dual-Spielfeld feeder — obere placement Raster drains durch lila phase Zähler in untere gelb-bordered frame whose central number ticks von `17` nach unten.",
+          "Phase Zähler gates speed: jede milestone unlocks nächste batch von Bauteile für transfer.",
+          "Schieben rechts-Seite Blöcke bevor Zähler reaches sein midpoint und untere frame jams mit Bauteile arriving hinaus von Reihenfolge."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "fSHRe5b75Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=fSHRe5b75Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen mittlere 2/1 entfernen bevor spending rechts-rail 9 Zähler.",
+        "Anschauen phase box — es muss reach 07 bevor untere 7 Kachel kann sein zeroed.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben rot/grün Reihe in obere Raster verwendend links inventory blau Bauteile."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hinausführen obere exits durch lila phase box als es cycles 01 → 04."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Spend rechts-rail 4/2/9 Zähler durch routing Blöcke runter rechts Pfeil buttons."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Break mittlere 2/1 entfernen once untere frame fällt … lassen von 17 toward 7."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen remaining blau clusters in obere Raster durch 07 phase."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Ansteuern untere-frame scraps durch grün Pfeil-nach-unten- und rechts-Pfeil lanes."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Zero untere 7 Kachel und räumen letzte obere scraps für BLOW hinaus! Beenden."
+        }
+      ],
+      "failurePoints": [
+        "Spending rechts-rail 9 bevor 2 Kachel räumt, blocking untere grün Pfeil-nach-unten-.",
+        "Feeding obere Raster bevor phase box reaches 04, wasting Blöcke in mittlere entfernen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/143/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 143 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 143 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

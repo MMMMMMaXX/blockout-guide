@@ -1,0 +1,98 @@
+{
+  "id": "de-level-17",
+  "locale": "de",
+  "levelNumber": 17,
+  "title": "Block Out Level 17 Lösung",
+  "summary": "Block Out Level 17 ist framed-hinge numeric Spielfeld. Trim gelb roof erste, unlock grün Mitte frame second, und nur dann flatten broad türkis slabs marked `19`, `18`, und `16`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "Block Out Level 17 ist framed-hinge numeric Spielfeld. Trim gelb roof erste, unlock grün Mitte frame second, und nur dann flatten broad türkis slabs marked `19`, `18`, und `16`.",
+        "landmarks": [
+          "Block Out Level 17 ist framed-hinge numeric Spielfeld.",
+          "Trim gelb roof erste, unlock grün Mitte frame second, und nur dann flatten broad türkis slabs marked `19`, `18`, und `16`.",
+          "Das Spielfeld mixes Gelb, Grün, Türkis und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gelb roof loosens hinge.",
+        "Big türkis slabs bewegen nach Mitte frame, nicht bevor es.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Shave oben gelb Reihe und obere rechte Seite Bahn also `16` Zähler begins zu fall."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten framed grün Mitte verklemmt bis obere Zähler haben lost enough weight."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Drehen rot und blau Seite bars in mittlere once obere Bahn hat geöffnet."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden dass new Platz zu freigeben framed grün Quadrat und stop es von pinning untere türkis slabs."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Flatten `19` und `18` türkis slabs von unten nach oben."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Sauber hoch letzte pink und blau Seite Bauteile nach Mitte frame ist gone."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden untere floor Zähler once broad türkis layer hat fully getrennt."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen grün hinge bevor gelb roof ist lighter.",
+        "Treating untere türkis carpet like Eröffnungs- Puzzle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 17 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 17 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

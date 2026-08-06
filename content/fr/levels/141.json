@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-141",
+  "locale": "fr",
+  "levelNumber": 141,
+  "title": "Guide Block Out Niveau 141",
+  "summary": "Block Out Niveau 141 est en forme de T keyhole plateau où chained rouge croisez blocs le centre et numéroté poches surround vert plus croisez que doit être built et alors cleared. chaîne breaks par spending `9` et `8` côté compteurs,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/141/",
+        "layout": "Block Out Niveau 141 est en forme de T keyhole plateau où chained rouge croisez blocs le centre et numéroté poches surround vert plus croisez que doit être built et alors cleared. chaîne breaks par spending `9` et `8` côté compteurs, mais le bas cadenas stays fermé jusqu'à vert croisez sorties à travers côté arrow voies. Dégagez croisez avant les deux compteurs terminez et cadenas sceaux permanently.",
+        "landmarks": [
+          "Block Out Niveau 141 est en forme de T keyhole plateau où chained rouge croisez blocs le centre et numéroté poches surround vert plus croisez que doit être built et alors cleared.",
+          "Chaîne breaks par spending `9` et `8` côté compteurs, mais le bas cadenas stays fermé jusqu'à vert croisez sorties à travers côté arrow voies.",
+          "Dégagez croisez avant les deux compteurs terminez et cadenas sceaux permanently."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "cFfUvNFciK4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=cFfUvNFciK4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez chained rouge croisez avant forming vert plus croisez — reversing que ordre sceaux la droite 8 voie.",
+        "Dépensez la gauche 9 poche avant dégagement la droite 8 arm.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez le haut rangée bleu et cassez chained rouge croisez dans supérieur croisez section sans touching abaissez 2/2/2 rangée."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Acheminez premier supérieur scraps à travers violet gauche-arrow voie à expose la gauche 9 poche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dépensez la gauche 9 compteur par sliding blocs off la gauche arm, alors dégagez la droite 8 poche à travers vert droite-arrow voie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Form vert plus croisez dans le centre bande et correspondre surrounding rouge et blocs jaune autour il."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez 2/2/2 rangée à travers abaissez base une fois côté compteurs hit zero."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez restant bleu et rouge scraps bas à travers le bas cadenas porte."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez dernier vert croisez scraps pour Hors! plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Sliding jaune côté blocs avant chained rouge croisez breaks, sealing vert droite-arrow voie.",
+        "Dégagement 2/2/2 rangée avant 9 et 8 côté compteurs sont spent."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/141/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 141",
+    "description": "Résolvez le niveau 141 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

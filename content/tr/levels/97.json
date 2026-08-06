@@ -1,0 +1,102 @@
+{
+  "id": "tr-level-97",
+  "locale": "tr",
+  "levelNumber": 97,
+  "title": "Block Out Seviye 97 Rehberi",
+  "summary": "Block Out Seviye 97 istifler iki yatay çerçeveler sıkıştırılmış ile renkli bloklar. üst çerçeve holds sarı blok, mavi borders, büyük kırmızı bloklar, ve padlocked turuncu/sarı parçalar (asma kilit `5`). daha düşük çerçeve twice sıkışık ile la...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out Seviye 97 istifler iki yatay çerçeveler sıkıştırılmış ile renkli bloklar. üst çerçeve holds sarı blok, mavi borders, büyük kırmızı bloklar, ve padlocked turuncu/sarı parçalar (asma kilit `5`). daha düşük çerçeve twice sıkışık ile büyük kırmızı ve yeşil bloklar, mavi, turuncu, mor, ve padlocked sarı parçalar. çalış her ikisi de çerçeveler alternationda — temizle non-padlocked kenar bloklar kilidini aç asma kilit `5` kapılar her çerçevede, sonra besle büyük parçalar .",
+        "landmarks": [
+          "Block Out Seviye 97 istifler iki yatay çerçeveler sıkıştırılmış ile renkli bloklar.",
+          "Üst çerçeve holds sarı blok, mavi borders, büyük kırmızı bloklar, ve padlocked turuncu/sarı parçalar (asma kilit `5`).",
+          "Daha düşük çerçeve twice sıkışık ile büyük kırmızı ve yeşil bloklar, mavi, turuncu, mor, ve padlocked sarı parçalar.",
+          "Çalış her ikisi de çerçeveler alternationda — temizle non-padlocked kenar bloklar kilidini aç asma kilit `5` kapılar her çerçevede, sonra besle büyük parçalar ."
+        ],
+        "colors": ["red", "orange", "yellow", "green", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Asma kilit `5` sayaçlar per-çerçeve — temizleyerek üst bloklar sadece kilidini açar üst asma kilitler, değil daha düşük ones.",
+        "Başla ile non-padlocked kenar bloklar her ikisi de çerçeveler inşa et beşe-temizle kilidini aç threshold.",
+        "Besle büyük yeşil blok daha düşük merkezde son — o bloklar merkez yol ve gerektirir çoğu alan."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Üst çerçeve: kaydır mavi border blok farda sağ sağdan-duvar çıkış, sonra it sarı blok farda sol soldan-duvar çıkış (02:24–02:20 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Daha düşük çerçeve: temizle turuncu ve mor bloklar farda sağ sağdan-duvar çıkış — onlar closest ve değil padlocked (02:20–02:15)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Üst çerçeve: temizle büyük kırmızı bloklar merkezde-sol soldan-duvar çıkış — her removal counts üst asma kilit `5` kilidini aç (02:15–02:06)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Üst çerçeve asma kilitler şimdi açık: temizle turuncu ve sarı padlocked bloklar merkezden sağ çıkışdan (02:06)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Daha düşük çerçeve: temizle non-padlocked mavi ve kırmızı bloklar merkezden counta daha düşük asma kilit `5` threshold (02:01–01:52)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Daha düşük çerçeve asma kilitler şimdi açık: temizle sarı padlocked bloklar farda sol soldan-duvar çıkış (01:52)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Besle büyük yeşil blok daha düşük merkezde alt çıkışdan — o takes several passes ve gerektirir merkez yol temizle (01:47–01:38)."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Bitir ile kalan küçük bloklar her ikisi de çerçeveler en yakın çıkışlardan (01:38–01:33)."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek kırmızı bloklar üst çerçevede önce planning padlocked bloklar' çıkış yönlendir — sonra çevreleyerek alan dolur ile daha düşük-çerçeve spill, padlocked bloklar nowhere gite.",
+        "Treating asma kilit sayaçlar shared — temizleyerek beş üst-çerçeve bloklar değil kilidini aç daha düşük-çerçeve asma kilitler, böylece çalışarak sadece bir çerçeve timede israf eder hamleler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 97 Rehberi ve Çözümü",
+    "description": "Block Out seviye 97'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

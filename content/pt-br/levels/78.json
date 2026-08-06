@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-78",
+  "locale": "pt-br",
+  "levelNumber": 78,
+  "title": "Guia do nível 78 do Block Out",
+  "summary": "Block Out Nível 78 empacota grande colorido blocos em rectangular tabuleiro com escuro canal caminhos constraining movement. superior metade segura grande verde, azul, e vermelho blocos. inferior centro tem amarelo/laranja emoldurado bloco com contador...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "Block Out Nível 78 empacota grande colorido blocos em rectangular tabuleiro com escuro canal caminhos constraining movement. superior metade segura grande verde, azul, e vermelho blocos. inferior centro tem amarelo/laranja emoldurado bloco com contador '3' flanked por roxo blocos. Limpar superior metade primeiro para abra canal routes, extraia roxo flanking blocos, então alimente emoldurado bloco através seu saída três vezes.",
+        "landmarks": [
+          "Block Out Nível 78 empacota grande colorido blocos em rectangular tabuleiro com escuro canal caminhos constraining movement.",
+          "Superior metade segura grande verde, azul, e vermelho blocos.",
+          "Inferior centro tem amarelo/laranja emoldurado bloco com contador '3' flanked por roxo blocos.",
+          "Limpar superior metade primeiro para abra canal routes, extraia roxo flanking blocos, então alimente emoldurado bloco através seu saída três vezes."
+        ],
+        "colors": ["green", "blue", "red", "cyan", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar superior metade completamente antes que tentando para alimente contador '3' bloco.",
+        "Canal caminhos force specific routes — planeje seu extraction para mantenha pistas limpar.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Extraia verde blocos de superior-esquerda através superior e esquerda saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Puxe azul blocos de superior-direita através direita saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque vermelho blocos de centro através liberado superior routes."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar roxo blocos flanking inferior centro para abra pistas para emoldurado bloco."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente amarelo/laranja emoldurado bloco (contador '3') através seu saída três vezes."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com restante roxo bloco em inferior."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para alimente contador '3' bloco antes que superior metade é limpar — canais jam.",
+        "Deixando roxo flanking blocos em coloque enquanto attempting para roteie emoldurado bloco."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 78 do Block Out",
+    "description": "Resolva o nível 78 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

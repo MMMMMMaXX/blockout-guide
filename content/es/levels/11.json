@@ -1,0 +1,98 @@
+{
+  "id": "es-level-11",
+  "locale": "es",
+  "levelNumber": 11,
+  "title": "Guía de Block Out Nivel 11",
+  "summary": "El nivel 11 de Block Out es un rompecabezas de muro con cuenta regresiva. Baja primero la alta columna cian derecha, retira la columna vertebral de bloqueadores central hacia ella y guarda las tapas rosa y verde izquierdas hasta que el muro esté en cifras de un dígito.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "El nivel 11 de Block Out es un rompecabezas de muro con cuenta regresiva. Baja primero la alta columna cian derecha, retira la columna vertebral de bloqueadores central hacia ella y guarda las tapas rosa y verde izquierdas hasta que el muro esté en cifras de un dígito.",
+        "landmarks": [
+          "El nivel 11 de Block Out es un rompecabezas de muro con cuenta regresiva.",
+          "Baja primero la alta columna cian derecha, retira la columna vertebral de bloqueadores central hacia ella y guarda las tapas rosa y verde izquierdas hasta que el muro esté en cifras de un dígito.",
+          "El tablero combina rosa, verde, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["pink", "green", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La columna cian derecha es el objetivo principal al inicio.",
+        "Rosa y verde se mueven al final.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Usa los bloques negro y blanco superiores para empezar a golpear el muro de cuenta regresiva derecho y bajar la pila `16`."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Sigue alimentando la columna vertebral de bloqueadores central hacia la derecha mientras los contadores laterales izquierdos también bajan."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Deja estacionadas la barra rosa superior y ambas barras verdes hasta que el muro derecho haya bajado a cifras de un dígito."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando la columna vertebral haya desaparecido casi, desliza la barra verde superior a la salida superior y despeja la zona alta."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Gira la barra verde inferior a lo largo del suelo una vez abierta la base negra."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Guarda la barra rosa para la limpieza final tras haber salido ya las piezas verdes."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con los últimos restos negro y blanco cuando el muro de cuenta regresiva esté casi vacío."
+        }
+      ],
+      "failurePoints": [
+        "Mover la tapa rosa antes de que la columna vertebral central haya hecho la mayor parte del trabajo de cuenta regresiva.",
+        "Trabajar solo los pequeños contadores izquierdos e ignorar el gran muro derecho."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 11",
+    "description": "Resuelve el nivel 11 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

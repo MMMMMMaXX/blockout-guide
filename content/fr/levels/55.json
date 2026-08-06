@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-55",
+  "locale": "fr",
+  "levelNumber": 55,
+  "title": "Guide Block Out Niveau 55",
+  "summary": "Block Out Niveau 55 verrous large violet boss barre avec compteur `7` à travers le bas de plateau pendant packing supérieur zone avec large vert 2×2 bloc, four haut blocs cyan (chaque compteur `4`), et assorted rouge, bleu, et pièce jaune...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out Niveau 55 verrous large violet boss barre avec compteur `7` à travers le bas de plateau pendant packing supérieur zone avec large vert 2×2 bloc, four haut blocs cyan (chaque compteur `4`), et assorted rouge, bleu, et pièces jaune. Dégagez chaque supérieur bloc à count boss barre bas à zero, alors sort caché layer de haut jaune, orange, et blocs vert que appears après barre collapses.",
+        "landmarks": [
+          "Block Out Niveau 55 verrous large violet boss barre avec compteur `7` à travers le bas de plateau pendant packing supérieur zone avec large vert 2×2 bloc, four haut blocs cyan (chaque compteur `4`), et assorted rouge, bleu, et pièces jaune.",
+          "Dégagez chaque supérieur bloc à count boss barre bas à zero, alors sort caché layer de haut jaune, orange, et blocs vert que appears après barre collapses.",
+          "Le plateau mélange vert, cyan et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Commencez four cyan `4` blocs tôt — ils consume 16 total passes à travers la droite-mur sortie.",
+        "Pas touch révélé jaune/orange layer jusqu'à violet boss barre a fully disappeared.",
+        "Gardez la gauche voie ouvrez après vert 2×2 bloc sorties — vous va besoin il pour second wave."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez petit bloc rouge proche le haut-gauche vers le bas, alors poussez large vert 2×2 block out à travers la gauche-mur sortie à ouvrez la gauche voie (02:55–02:50 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Acheminez le bloc bleu à travers la gauche-mur sortie utilisant gap le bloc vert gauche derrière."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez feeding four cyan `4` blocs à travers la droite-mur sortie — commencez avec leftmost bloc cyan et gardez la droite voie dégagez pour all 16 passes (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez restant jaune et petit blocs rouge à travers whichever sortie est closest — chaque pièce tombent boss compteur par one (compteur reads `3` à 02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois compteur hits `0` (autour 02:29), violet boss barre collapses et reveals haut jaune, orange, et blocs vert underneath."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Glissez révélé jaune haut bloc vers la gauche-mur sortie premier parce que il blocs le bloc orange derrière il."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Acheminez orange haut bloc à travers la droite-mur sortie, alors terminez avec restant blocs vert à travers le bas sorties (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant révélé jaune ou bloc orange avant boss barre a fully collapsed — pièce jams contre barre et blocs sortie voie avec non chemin à recover.",
+        "Feeding cyan `4` blocs à travers la gauche-mur sortie au lieu de de la droite — ce clogs voie needed pour vert 2×2 bloc et stalls boss countdown."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 55",
+    "description": "Résolvez le niveau 55 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

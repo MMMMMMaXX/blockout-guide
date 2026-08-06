@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-123",
+  "locale": "pt-br",
+  "levelNumber": 123,
+  "title": "Guia do nível 123 do Block Out",
+  "summary": "Block Out Nível 123 wraps perímetro moldura ao redor central roxo tubo, com martelo-tool obstacles guarding numerado bolso contadores. perímetro peças deve escoe antes que tubo accepts input — e verde `3` peça highlighted...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/123/",
+        "layout": "Block Out Nível 123 wraps perímetro moldura ao redor central roxo tubo, com martelo-tool obstacles guarding numerado bolso contadores. perímetro peças deve escoe antes que tubo accepts input — e verde `3` peça highlighted com amarelo alinhe é gating peça. Limpar superior-esquerda rosa bolso primeiro, então funciona martelo tools inward para abra tubo.",
+        "landmarks": [
+          "Block Out Nível 123 wraps perímetro moldura ao redor central roxo tubo, com martelo-tool obstacles guarding numerado bolso contadores.",
+          "Perímetro peças deve escoe antes que tubo accepts input — e verde `3` peça highlighted com amarelo alinhe é gating peça.",
+          "Limpar superior-esquerda rosa bolso primeiro, então funciona martelo tools inward para abra tubo."
+        ],
+        "colors": ["pink", "green", "orange", "blue", "purple", "white", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hMB1I2XGFso",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hMB1I2XGFso",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre laranja martelo-tool par antes que alimentando qualquer azul peça em central tubo.",
+        "Mantenha inferior rosa fileira estacionado até superior perímetro é totalmente fino.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior-esquerda rosa `4` aglomerado e verde `5` peça sem tocando central laranja `3`."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre twin laranja martelo-tool blocos em superior-direita antes que alimentando qualquer direita-parede azul peças."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Escoe esquerda-parede azul `5` coluna e branco `1` canto peça para abra esquerda tubo entrance."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar inferior rosa fileira e verde/laranja inferior par uma vez superior perímetro é fino."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Roteie verde `3` peça através central roxo tubo usando amarelo vertical pista marcador."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine direita-parede azul `4`/`2` par e restante azul recortes para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Alimentando azul peças em tubo antes que martelo-tool blocos quebre — este pins verde `3` dentro.",
+        "Limpando inferior rosa fileira antes que superior perímetro afina, vedando tubo corredor."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/123/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 123 do Block Out",
+    "description": "Resolva o nível 123 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

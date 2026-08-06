@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-59",
+  "locale": "fr",
+  "levelNumber": 59,
+  "title": "Guide Block Out Niveau 59",
+  "summary": "Block Out Niveau 59 starts comme double-chambre plateau mais finishes comme verrou énigme. Ouvrez big central `4` chambre premier, amincissez inférieur gauche `10` salle second, et alors utilisez freed milieu à cassez chaîne colonne avant vous encaissez ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/59/",
+        "layout": "Block Out Niveau 59 starts comme double-chambre plateau mais finishes comme verrou énigme. Ouvrez big central `4` chambre premier, amincissez inférieur gauche `10` salle second, et alors utilisez freed milieu à cassez chaîne colonne avant vous encaissez large bloc rose sur la droite.",
+        "landmarks": [
+          "Block Out Niveau 59 starts comme double-chambre plateau mais finishes comme verrou énigme.",
+          "Ouvrez big central `4` chambre premier, amincissez inférieur gauche `10` salle second, et alors utilisez freed milieu à cassez chaîne colonne avant vous encaissez large bloc rose sur la droite.",
+          "Le plateau mélange violet, bleu et orange et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9gh_W3CS4Yg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9gh_W3CS4Yg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chained centre colonne est real tardif-game porte, pas big bloc rose.",
+        "Ouvrez central `4` salle avant vous dépensez serious effort sur inférieur gauche `10` chambre.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Drainez big central violet chambre marked `4` avant vous overwork inférieur gauche `10` salle."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Taillez supérieur étagère pendant que chambre est shrinking donc le milieu voie est pas boxed dans par côté murs."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez reducing inférieur gauche `10` chambre seulement après le centre `4` salle a déjà opened des floor espace."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Quand chained cadenas colonne appears, dégagez que centre colonne avant déplaçant large bloc rose sur la droite."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Utilisez unlocked milieu à glissez le bloc rose et à proximité pièces rouge vers abaissez sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec le bas jaune amas et dernier petit côté pièces après chaîne voie est videz."
+        }
+      ],
+      "failurePoints": [
+        "Treating inférieur gauche `10` chambre like opener pendant central `4` salle est toujours filling plateau.",
+        "Essayant à déplacez large bloc rose avant chained centre colonne a été cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/59/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 59",
+    "description": "Résolvez le niveau 59 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

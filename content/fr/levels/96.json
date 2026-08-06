@@ -1,0 +1,101 @@
+{
+  "id": "fr-level-96",
+  "locale": "fr",
+  "levelNumber": 96,
+  "title": "Guide Block Out Niveau 96",
+  "summary": "Block Out Niveau 96 est pure density énigme — non chambres, non cadres, juste mur-à-mur blocs colorés de varying sizes. haut bloc rouge avec compteur `12` divides le centre like mur, deux large blocs violet (compteurs `9` et `5`) ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "Block Out Niveau 96 est pure density énigme — non chambres, non cadres, juste mur-à-mur blocs colorés de varying sizes. haut bloc rouge avec compteur `12` divides le centre like mur, deux large blocs violet (compteurs `9` et `5`) dominate la droite half, et orange/blocs vert fill la gauche. Dégagez petit compteur-`1` bord blocs premier pour breathing salle, déverrouillez gated vert `3` bloc, alors alimentez large pièces à travers leur nearest sorties.",
+        "landmarks": [
+          "Block Out Niveau 96 est pure density énigme — non chambres, non cadres, juste mur-à-mur blocs colorés de varying sizes.",
+          "Haut bloc rouge avec compteur `12` divides le centre like mur, deux large blocs violet (compteurs `9` et `5`) dominate la droite half, et orange/blocs vert fill la gauche.",
+          "Dégagez petit compteur-`1` bord blocs premier pour breathing salle, déverrouillez gated vert `3` bloc, alors alimentez large pièces à travers leur nearest sorties."
+        ],
+        "colors": ["red", "blue", "green", "violet", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez petit compteur-`1` bord blocs premier — chaque one creates salle pour large blocs à décalez.",
+        "Déverrouillez vert `3` bloc tôt par removing son jaune clé — il portes la gauche-côté chemin.",
+        "Haut rouge `12` bloc divides plateau like mur — dégagez les deux sides de il avant de départ son alimentez."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez petit compteur-`1` blocs autour bords: orange vers le haut (sortie supérieure), jaune `1` rightward (droite-mur sortie), cyan `1` vers le bas (sortie inférieure) — chaque creates breathing salle (02:54–02:48 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Poussez jaune clé bloc proche le centre à travers la sortie droite à déverrouillez gated vert `3` bloc (02:42)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez feeding supérieur violet `9` bloc à travers la droite-mur sortie — nine passes (02:42–02:30)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez unlocked vert `3` bloc à travers la gauche-mur sortie maintenant que porte est ouvrez (02:30)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Commencez feeding haut rouge `12` bloc à travers la gauche-mur sortie — twelve passes, keeping la gauche voie dégagez de debris (02:25–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez abaissez violet `5` bloc à travers abaissez droite-mur sortie — five passes (02:13–02:07)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez restant orange, jaune, et blocs bleu à travers leur nearest sorties comme plateau opens (02:07–02:01)."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Terminez avec dernier petit blocs à le bas une fois plateau est mostly ouvrez (01:56)."
+        }
+      ],
+      "failurePoints": [
+        "De départ haut rouge `12` bloc alimentez avant dégagement petit debris sur le côté gauche — il stalls mid-alimentez et traps orange et blocs vert derrière il.",
+        "Ignoring verrouillé vert `3` bloc's clé tôt sur — clé bloc doit sortie avant le bloc vert peut déplacez, et laissant il tardif creates bottleneck."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 96",
+    "description": "Résolvez le niveau 96 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

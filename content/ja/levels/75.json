@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-75",
+  "locale": "ja",
+  "levelNumber": 75,
+  "title": "ブロックアウト レベル75 攻略",
+  "summary": "ブロックアウト レベル75は、段状のドット絵の縁を持つ十字型の盤面を使います—通常の長方形ではありません。ブロックは十字の上下の腕の両方に詰め込まれ、中央の接合部のみでつながっています。まず上の腕を消去して…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/75/",
+        "layout": "ブロックアウト レベル75は、段状のドット絵の縁を持つ十字型の盤面を使います—通常の長方形ではありません。ブロックは十字の上下の腕の両方に詰め込まれ、中央の接合部のみでつながっています。まず上の腕を消去して接合部を開放し、次に下の腕の重いブロックを広がった中央を通って底部の出口へ回します。",
+        "landmarks": [
+          "ブロックアウト レベル 75 横切る- — .。",
+          "詰まった 上の、を下げて横切る、中央 .。",
+          "を消去して上の 腕 開く、通す 下の 腕' 中央 下 出口.。"
+        ],
+        "colors": ["green", "red", "yellow", "purple", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "0-D_Iw1P4YU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=0-D_Iw1P4YU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央 間 上の、を下げて— 消去する .。",
+        "を通して下の 腕' 中央 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して緑 上の 腕 側 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を取り出してブロック 中央 開く .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を引きて残りの赤と黄のブロック 上の 腕 上 側 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を通して下の-腕 (紫、オレンジ) 開き 中央 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を通して黄、青 下の 腕 下 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて-カウンター 必要とする 通し 下.。"
+        }
+      ],
+      "failurePoints": [
+        "通す 下の-腕 中央、上の 腕 消去し — 詰まり.。",
+        "を無視してブロック 中央、出口 交通 間 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/75/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル75 攻略と解説",
+    "description": "ブロックアウト レベル75 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

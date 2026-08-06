@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-30",
+  "locale": "pt-br",
+  "levelNumber": 30,
+  "title": "Guia do nível 30 do Block Out",
+  "summary": "Block Out Nível 30 é L-shaped espaço construído ao redor alto emoldurado chefe coluna com `11` contador. vermelho, branco, e preto blocos empacotado ao redor torre base deve be limpo primeiro para bring contador baixo, e torre único collaps...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "Block Out Nível 30 é L-shaped espaço construído ao redor alto emoldurado chefe coluna com `11` contador. vermelho, branco, e preto blocos empacotado ao redor torre base deve be limpo primeiro para bring contador baixo, e torre único colapsa uma vez ele solta para ao redor `2`. Depois coluna cai, segundo onda de verde, vermelho, e branco blocos spills para fora de dentro eixo e precisa seu próprio separation fase.",
+        "landmarks": [
+          "Block Out Nível 30 é L-shaped espaço construído ao redor alto emoldurado chefe coluna com `11` contador.",
+          "Vermelho, branco, e preto blocos empacotado ao redor torre base deve be limpo primeiro para bring contador baixo, e torre único colapsa uma vez ele solta para ao redor `2`.",
+          "Depois coluna cai, segundo onda de verde, vermelho, e branco blocos spills para fora de dentro eixo e precisa seu próprio separation fase."
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rastreie chefe contador número, não torre height — se contador ainda reads `5` ou higher, base precisa mais funciona.",
+        "Alimente verde saída em inferior centro antes que tentando para use esquerda parede saídas para interno massa.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize esquerda-lateral vermelho blocos em direção a esquerda parede saídas para crie primeiro lacuna beside torre base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mova branco blocos para fora de meio base para abra pista entre torre e direita-lateral vermelho massa."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar direita-lateral vermelho e preto blocos através gaps created por primeiro dois movimentos, watching chefe contador solte com cada peça."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez contador cai para `2`, deixe emoldurado coluna colapse — interno verde e branco blocos will spill em base área."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Separar revelado verde blocos e alimente os através inferior-centro verde saída primeiro."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Use esquerda parede saídas para restante branco e vermelho interno peças."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último vermelho torre segmento depois eixo é vazio e base é plano."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para force chefe coluna baixo enquanto base área é ainda empacotado com vermelho e branco blocos — contador barely movimentos porque there é no pista para base peças para escape em.",
+        "Ignorando verde inferior-centro saída em favor de esquerda parede saídas quando interno massa spills para fora, que causas tráfego jam em horizontal seção."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 30 do Block Out",
+    "description": "Resolva o nível 30 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

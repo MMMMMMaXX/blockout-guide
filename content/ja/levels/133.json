@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-133",
+  "locale": "ja",
+  "levelNumber": 133,
+  "title": "ブロックアウト レベル133 攻略",
+  "summary": "ブロックアウト レベル133は、Ｔ字型の盤面の腕に番号付き鍵ブロックを配置し、中央に「13」の背骨と底部の爆破グリッドがあります。青の下向きブロックと緑の右側帯の向き矢印が唯一の正当な出口を示しています。左上のマゼンタの「7」の凹みは…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/133/",
+        "layout": "ブロックアウト レベル133は、Ｔ字型の盤面の腕に番号付き鍵ブロックを配置し、中央に「13」の背骨と底部の爆破グリッドがあります。青の下向きブロックと緑の右側帯の向き矢印が唯一の正当な出口を示しています。左上のマゼンタの「7」の凹みは、高い青の「1」の積み重ねが動く前に消去する必要があります—そうでないと中央の背骨の唯一の排水経路を塞ぎます。",
+        "landmarks": [
+          "ブロックアウト レベル 133 鍵 Ｔ字型、中央 `13` 背骨、下 .。",
+          "矢印 青 下へ ブロック、緑 右-取り除く 出口.。",
+          "上-左 `7` 消去する、青 `1` 積み ずらす — 中央 背骨' .。"
+        ],
+        "colors": ["cyan", "magenta", "green", "blue", "red", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lUJCT64KCKk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=lUJCT64KCKk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "緑のを維持して左 棒 消去 下 .。",
+        "を取っておきて1/10 ペア、9 タイル 下 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "上 シアン 24、21 タイル 左/右 腕 17、19、中央 13 列 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して下 緑 左 棒 外へ、1/10 ペア 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を割りて中央 13 背骨、腕、18 側 タイル 腰.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青のをスライドさせて下へ-矢印 ブロック 通路、カウンター 縮める 12.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "緑 右-矢印 塊 下、9 タイル .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて下 0/1 カウンター、出口、青 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "中央 13 背骨、腕、腰を塞ぎて.。",
+        "動かし 緑 右-矢印 塊、9 タイル、0/1 出口.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/133/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル133 攻略と解説",
+    "description": "ブロックアウト レベル133 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

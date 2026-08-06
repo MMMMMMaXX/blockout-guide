@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-149",
+  "locale": "tr",
+  "levelNumber": 149,
+  "title": "Block Out Seviye 149 Rehberi",
+  "summary": "Block Out Seviye 149 bir Süper zor dört-quadrant bulmaca ile alt micro-blok tepşi ve yan raylar `27`/`30`dır. Her quadrant onun own sayaç ki küçülür independently tepşi parçalar kilitlen . sol `20` quadrant besler ilk,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/149/",
+        "layout": "Block Out Seviye 149 bir Süper zor dört-quadrant bulmaca ile alt micro-blok tepşi ve yan raylar `27`/`30`dır. Her quadrant onun own sayaç ki küçülür independently tepşi parçalar kilitlen . sol `20` quadrant besler ilk, ama camgöbeği `1` sabitle ve mavi dikey `6` blok guard merkez — kır sabitle çok erken ve `6` drifts sağ cepe, jamming iki quadrants sonrada.",
+        "landmarks": [
+          "Block Out Seviye 149 bir Süper zor dört-quadrant bulmaca ile alt micro-blok tepşi ve yan raylar `27`/`30`dır.",
+          "Her quadrant onun own sayaç ki küçülür independently tepşi parçalar kilitlen .",
+          "Sol `20` quadrant besler ilk, ama camgöbeği `1` sabitle ve mavi dikey `6` blok guard merkez — kır sabitle çok erken ve `6` drifts sağ cepe, jamming iki quadrants sonrada."
+        ],
+        "colors": ["purple", "green", "blue", "yellow", "red", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tASeXYR8PkQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tASeXYR8PkQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır sarı çokgen önce hareket ettirerek mor sağ-sök.",
+        "Tut camgöbeği 1 sabitle intact kadar sol ray düşer 27 25.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çek alt yeşil dikey parça tepşiden sol 20 quadrant kullanarak yeşil sol-ok."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır camgöbeği 1 karo merkez kümede olmadan bölerek kırmızı zemin çubuk."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle mavi/sarı artıklar sağ 23 quadrant sonra sol ray düşer 27 25."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Harca alt tepşi sıra — yeşil, mavi, sarı, mor — düşür çerçeve 18/21/2/10."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kır sarı çokgen merkez sonrada 2 ve 10 alt sayaçlar temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle mavi dikey 6 blok açık sağ 10 cep."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Yönlendir son mor sök kırmızı sağdan-ok şerit için glowing merkez temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak mor sağ-sök önce sarı çokgen breaks, mühürleyerek kırmızı sağ-ok şerit.",
+        "Bölerek kırmızı zemin çubuk sırasında camgöbeği 1 karo hâlâ kilitlendi, wasting ilk tepşi besle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/149/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 149 Rehberi ve Çözümü",
+    "description": "Block Out seviye 149'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

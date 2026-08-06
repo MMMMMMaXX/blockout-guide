@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-17",
+  "locale": "pt-br",
+  "levelNumber": 17,
+  "title": "Guia do nível 17 do Block Out",
+  "summary": "Block Out Nível 17 é emoldurado-hinge numeric tabuleiro. Trim amarelo teto primeiro, desbloqueie verde centro moldura segundo, e único então flatten broad ciano lajes marcado `19`, `18`, e `16`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "Block Out Nível 17 é emoldurado-hinge numeric tabuleiro. Trim amarelo teto primeiro, desbloqueie verde centro moldura segundo, e único então flatten broad ciano lajes marcado `19`, `18`, e `16`.",
+        "landmarks": [
+          "O nível 17 do Block Out é um tabuleiro numérico de dobradiça em moldura.",
+          "Trim amarelo teto primeiro, desbloqueie verde centro moldura segundo, e único então flatten broad ciano lajes marcado `19`, `18`, e `16`.",
+          "Tabuleiro mistura Amarelo, Verde, Ciano e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Amarelo teto loosens hinge.",
+        "Grande ciano lajes mova depois centro moldura, não antes que ele.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Shave superior amarelo fileira e superior-direita lateral pista so `16` contador começa para caia."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha emoldurado verde centro trancado até superior contadores tem lost suficiente peso."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gire vermelho e azul lateral barras em meio uma vez superior pista tem aberto."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use que novo espaço para livre emoldurado verde quadrado e stop ele de pinning inferior ciano lajes."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Flatten `19` e `18` ciano lajes de inferior para cima."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpo cima último rosa e azul lateral peças depois centro moldura é indo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine inferior chão contador uma vez broad ciano camada tem totalmente separado."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova verde hinge antes que amarelo teto é mais leve.",
+        "Treating inferior ciano carpet como abertura quebra-cabeça."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 17 do Block Out",
+    "description": "Resolva o nível 17 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

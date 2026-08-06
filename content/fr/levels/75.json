@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-75",
+  "locale": "fr",
+  "levelNumber": 75,
+  "title": "Guide Block Out Niveau 75",
+  "summary": "Block Out Niveau 75 uses croisez-shaped plateau avec stepped pixelated bords — pas usual rectangle. Blocs sont packed dans les deux supérieur et abaissez arms de croisez, connected seulement à travers centre junction. Dégagez supérieur arm premier à...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/75/",
+        "layout": "Block Out Niveau 75 uses croisez-shaped plateau avec stepped pixelated bords — pas usual rectangle. Blocs sont packed dans les deux supérieur et abaissez arms de croisez, connected seulement à travers centre junction. Dégagez supérieur arm premier à ouvrez junction, alors acheminez abaissez arm's heavy blocs à travers widened centre à le bas sorties.",
+        "landmarks": [
+          "Block Out Niveau 75 uses croisez-shaped plateau avec stepped pixelated bords — pas usual rectangle.",
+          "Blocs sont packed dans les deux supérieur et abaissez arms de croisez, connected seulement à travers centre junction.",
+          "Dégagez supérieur arm premier à ouvrez junction, alors acheminez abaissez arm's heavy blocs à travers widened centre à le bas sorties."
+        ],
+        "colors": ["green", "red", "yellow", "violet", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "0-D_Iw1P4YU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=0-D_Iw1P4YU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Centre junction est seulement chemin entre supérieur et abaissez arms — dégagez il tôt.",
+        "Alimentez abaissez arm's heavy blocs dernier quand le centre a most salle.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez petit blocs vert proche supérieur arm tips à travers côté sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract encadré bloc de le centre junction à ouvrez crossing point."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tirez restant rouge et blocs jaune de supérieur arm à travers le haut ou côté sorties."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Acheminez premier abaissez-arm blocs (violet et orange) à travers opened centre junction."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez larger jaune et blocs bleu de abaissez arm à travers le bas sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec high-compteur blocs que besoin most passes à travers le bas."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à acheminez abaissez-arm blocs à travers le centre avant supérieur arm est cleared — junction jams.",
+        "Ignoring encadré bloc dans le centre junction, qui portes all traffic entre deux arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/75/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 75",
+    "description": "Résolvez le niveau 75 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-58",
+  "locale": "pt-br",
+  "levelNumber": 58,
+  "title": "Guia do nível 58 do Block Out",
+  "summary": "Block Out Nível 58 é funnel tabuleiro com três largo ciano bays, menor garganta marcado `4`, e cluttered superior deck equilibrando roxo `6` câmara contra emoldurado azul bloco em direita. Abra direita shoulder primeiro, trim esquerda...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "Block Out Nível 58 é funnel tabuleiro com três largo ciano bays, menor garganta marcado `4`, e cluttered superior deck equilibrando roxo `6` câmara contra emoldurado azul bloco em direita. Abra direita shoulder primeiro, trim esquerda `6` câmara segundo, e único então deixe vermelho e verde centro tiras solte em ciano funnel.",
+        "landmarks": [
+          "Block Out Nível 58 é funnel tabuleiro com três largo ciano bays, menor garganta marcado `4`, e cluttered superior deck equilibrando roxo `6` câmara contra emoldurado azul bloco em direita.",
+          "Abra direita shoulder primeiro, trim esquerda `6` câmara segundo, e único então deixe vermelho e verde centro tiras solte em ciano funnel.",
+          "Tabuleiro mistura Roxo, Azul, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Se emoldurado azul bloco é ainda hanging sobre direita shoulder, funnel é não ready.",
+        "Abra ambos shoulders antes que você deixe vermelho centro remova solte em ciano bays.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar emoldurado azul bloco em superior-direita canto so direita shoulder começa abertura."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Shorten skinny ciano `2` contadores em que mesmo lateral antes que você touch meio também difícil."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece reducing roxo `6` câmara em esquerda uma vez direita shoulder é mais leve."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deixe vermelho centro remova e nearby verde peças caia em três largo ciano bays único depois ambos shoulders são abra."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Colapse inferior `4` garganta uma vez superior deck tem stopped alimentando extra bloqueadores em ele."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último vermelho vertical peça e surviving shoulder blocos depois funnel é principalmente vazio."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para preencha ciano bays enquanto emoldurado azul bloco ainda hangs sobre direita shoulder.",
+        "Soltando vermelho centro remova antes que esquerda `6` câmara e direita `2` contadores tem ambos shortened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 58 do Block Out",
+    "description": "Resolva o nível 58 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-14",
+  "locale": "pt-br",
+  "levelNumber": 14,
+  "title": "Guia do nível 14 do Block Out",
+  "summary": "Abra branco escada e reduza superior contador antes que liberando grande ciano centerpiece de seu circundante moldura.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "Grande ciano contador peça preenche centro de cinco-cor moldura, com branco peças concentrated acima e para direita e amarelo colunas holding lateral pistas.",
+        "landmarks": [
+          "Centro é grande ciano quadrado marcado 7.",
+          "Superior contador começa em 17 acima central moldura.",
+          "Branco pillars form escada em direita lateral.",
+          "Amarelo colunas fica em ambos lados enquanto preto peças ancore inferior cantos."
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Funciona direita-lateral branco pista antes que gastando inferior amarelo saída.",
+        "Deixe ciano 7 em coloque até moldura tem aberto em mais do que um lateral.",
+        "Judge cada limpar por próximo pista ele creates, não único por bloco removed agora."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Loosen direita borda",
+          "instruction": "Mova superior-direita branco peças em seus disponível saída pista so externo moldura começa para encolha."
+        },
+        {
+          "order": 2,
+          "title": "Reduza superior contador",
+          "instruction": "Continue limpando superior structure enquanto mantendo ciano 7 fixed em centro."
+        },
+        {
+          "order": 3,
+          "title": "Preserve lateral supports",
+          "instruction": "Use amarelo lateral colunas para mantenha espaço disponível enquanto inferior preto peças são repositioned."
+        },
+        {
+          "order": 4,
+          "title": "Crie vertical espaço",
+          "instruction": "Depois direita escada é thinner, bring branco pilar baixo para abra primeiro vertical pista beside centerpiece."
+        },
+        {
+          "order": 5,
+          "title": "Libere centerpiece",
+          "instruction": "Mova ciano 7 único quando moldura é abra em em menos dois lados, então limpar restante branco e preto peças."
+        },
+        {
+          "order": 6,
+          "title": "Use amarelo saída último",
+          "instruction": "Termine através inferior amarelo saída depois central bloco e restante moldura peças são no mais longo competing para espaço."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova ciano 7 enquanto direita escada ainda cadeados moldura.",
+        "Limpando inferior amarelo pista também cedo e removendo spacing needed para meio fase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 14 do Block Out",
+    "description": "Correspondência ciano 7 tabuleiro, abra direita escada, reduza superior contador e follow complete Block Out Nível 14 solução."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-79",
+  "locale": "tr",
+  "levelNumber": 79,
+  "title": "Block Out Seviye 79 Rehberi",
+  "summary": "Block Out Seviye 79 bir Iki-aşama tahtadır. Ilk sen boşalt devasa mor `17` reservoir oturarak ikiye dar üst wells. sonra tahta çöker daha düşük tepşiye nere mor köprü-şekilli parça meli hareket ettir önce mavi ve oran...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out Seviye 79 bir Iki-aşama tahtadır. Ilk sen boşalt devasa mor `17` reservoir oturarak ikiye dar üst wells. sonra tahta çöker daha düşük tepşiye nere mor köprü-şekilli parça meli hareket ettir önce mavi ve turuncu bloklar sağ ebilir escapeda.",
+        "landmarks": [
+          "Block Out Seviye 79 bir Iki-aşama tahtadır.",
+          "Ilk sen boşalt devasa mor `17` reservoir oturarak ikiye dar üst wells.",
+          "Sonra tahta çöker daha düşük tepşiye nere mor köprü-şekilli parça meli hareket ettir önce mavi ve turuncu bloklar sağ ebilir escapeda."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat büyük `17` reservoir opener, değil `7` oda.",
+        "Ne zaman daha düşük tepşi appears, açık sol yan önce sen dene serbest mavi adımlara sağda.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Boşalt dev alt oda marked `17` önce sen overwork either üst well."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Sırasında ki reservoir düşerek, temiz üst-sol şerit ile hareket ettirerek kırmızı L-şekil ve yeşil stair dışarı her diğer's way."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla azaltarak üst-sağ `7` oda sadece sonra sol well hayır daha uzun clogging yan sayaçlar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Ne zaman her ikisi de mor odalar gitti, switch focus daha düşük tepşiye ki appears altında onları."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Açık sol yan ki daha düşük tepşi ilk, sonra hareket ettir mor köprü parça böylece mavi stepped blok sağ yönlendirde."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile sağ-yan mavi ve turuncu bloklar sonra merkez şerit boş."
+        }
+      ],
+      "failurePoints": [
+        "Treating üst-sağ `7` oda ilk hedef yerine boşaltarak `17` reservoir underneath o.",
+        "Deneyerek temizle sağ-yan mavi adımlar daha düşük tepşide önce mor köprü parça hareket ettirildi."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 79 Rehberi ve Çözümü",
+    "description": "Block Out seviye 79'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

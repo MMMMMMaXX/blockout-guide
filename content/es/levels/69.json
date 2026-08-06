@@ -1,0 +1,96 @@
+{
+  "id": "es-level-69",
+  "locale": "es",
+  "levelNumber": 69,
+  "title": "Guía de Block Out Nivel 69",
+  "summary": "Block Out nivel 69 es a 'Super Hard' quad-cámara jefe nivel con four grande morado bloques — contadores '7' y '8' en superior, '10' y '4' en the inferior. The azul '12' bloque en the inferior es an additional heavy objetivo. Elimina the inferior primero...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out nivel 69 es a 'Super Hard' quad-cámara jefe nivel con four grande morado bloques — contadores '7' y '8' en superior, '10' y '4' en the inferior. The azul '12' bloque en the inferior es an additional heavy objetivo. Elimina the inferior primero, luego work the morado bloques en paralelo, letting the smaller ones despejado faster mientras the larger ones gradualmente abierto.",
+        "landmarks": [
+          "Block Out nivel 69 es a 'Super Hard' quad-cámara jefe nivel con four grande morado bloques — contadores '7' y '8' en superior, '10' y '4' en the inferior.",
+          "The azul '12' bloque en the inferior es an additional heavy objetivo.",
+          "Elimina the inferior primero, luego work the morado bloques en paralelo, letting the smaller ones despejado faster mientras the larger ones gradualmente abierto."
+        ],
+        "colors": ["morado", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The 'Super Hard' label means tighter packing — despejado the smaller morado bloques primero a build espacio.",
+        "The azul '12' bloque en the inferior needs the most room. Elimina lo primero.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the azul bloques en the inferior con contador '12' por el salida izquierdo — lo needs the most room."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desplaza the amarillo bloques en the derecho fuera por el salida derecho a abierto the inferior-derecho zona."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza draining the inferior-derecho morado bloque con contador '4' — lo es the más claro y clears fastest."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Trabaja the inferior-izquierdo morado bloque con contador '10' en paralelo."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Mueve a the superior-izquierdo morado bloque con contador '7' — lo es más claro than the '8'."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the superior-derecho morado bloque con contador '8', que has the most room después the others son drained."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Elimina cualquier restante de color bloques trapped entre the emptied cámaras."
+        }
+      ],
+      "failurePoints": [
+        "Draining the '10' o '8' bloques antes the smaller ones — the larger bloques need room a maneuver, y clearing los primero removes sliding paredes para the others.",
+        "Ignoring the azul '12' bloque en the inferior — lo es the heaviest y needs the most room a salida."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 69",
+    "description": "Resuelve Block Out nivel 69 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "de-level-139",
+  "locale": "de",
+  "levelNumber": 139,
+  "title": "Block Out Level 139 Lösung",
+  "summary": "Block Out Level 139 ist Super schwer dual-tier Spielfeld — rainbow obere Raster drains in untere tier durch paired runter-Pfeile, feeding `17` und `13` lila tubes flanked durch blau `4` Seite Zähler. Obere Raster empties erste, dann...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/139/",
+        "layout": "Block Out Level 139 ist Super schwer dual-tier Spielfeld — rainbow obere Raster drains in untere tier durch paired runter-Pfeile, feeding `17` und `13` lila tubes flanked durch blau `4` Seite Zähler. Obere Raster empties erste, dann real Puzzle begins: untere tier's tubes Ausgang jede fallen lassen phase independently, und grün `1` Kachel bei untere linke muss wait bis border Zähler ausrichten.",
+        "landmarks": [
+          "Block Out Level 139 ist Super schwer dual-tier Spielfeld — rainbow obere Raster drains in untere tier durch paired runter-Pfeile, feeding `17` und `13` lila tubes flanked durch blau `4` Seite Zähler.",
+          "Obere Raster empties erste, dann real Puzzle begins: untere tier's tubes Ausgang jede fallen lassen phase independently, und grün `1` Kachel bei untere linke muss wait bis border Zähler ausrichten.",
+          "Das Spielfeld mixes Lila, Rot, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hT_Nx8ZCThY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hT_Nx8ZCThY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Behalten beide blau 4 Quadrate sealed bis obere Raster ist fully empty — spending either früh verklemmt 17 tube.",
+        "Räumen blau 1 bar bei oben von untere tier bevor touching rechts-Spalte rot scraps.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen oben rainbow Reihe runter rot links Pfeil-nach-unten- ohne splitting gelb rechts pair auf obere Raster."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen remaining obere-Raster rows durch gelb rechts Pfeil-nach-unten- bis oben tier ist fully empty."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Spend beide blau 4 Seite Zähler once obere Raster räumt, unlocking untere 17 tube."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Break untere blau 1 bar bei oben von unten tier nach 17 Zähler hits zero."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen links-border 5/1/1 Zähler und rechts-border 1/1 pair durch Seite lanes."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Detonate grün 2×2 cluster bei unten-Mitte und hinausführen letzte rot/pink rechts-Spalte scraps für SUPER schwer Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Spending either blau 4 Zähler bevor obere Raster empties, locking 17 tube über 9.",
+        "Räumend rechts-Spalte rot scraps bevor blau 1 bar breaks, re-sealing 13 tube."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/139/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 139 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 139 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ko-level-58",
+  "locale": "ko",
+  "levelNumber": 58,
+  "title": "블록 아웃 레벨 58 공략",
+  "summary": "블록 아웃 레벨 58은(는) 세 개의 넓은 청록색 베이, '4'로 표시된 작은 목구멍, 그리고 오른쪽 프레임 블록과 균형을 이루는 보라색 '6' 챔버가 있는 엉망인 상부 데크를 갖춘 깔때기 보드입니다. 먼저 오른쪽 어깨를 열고, 왼쪽...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "블록 아웃 레벨 58은(는) 세 개의 넓은 청록색 베이, '4'로 표시된 작은 목구멍, 그리고 오른쪽 프레임 블록과 균형을 이루는 보라색 '6' 챔버가 있는 엉망인 상부 데크를 갖춘 깔때기 보드입니다. 먼저 오른쪽 어깨를 열고, 그다음 왼쪽 '6' 챔버를 다듬은 뒤에야 빨간색과 초록색 중앙 스트립이 청록색 깔때기로 떨어지게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 58은(는) 세 개의 넓은 청록색 베이, '4'로 표시된 작은 목구멍, 그리고 오른쪽 프레임 블록과 균형을 이루는 보라색 '6' 챔버가 있는 엉망인 상부 데크를 갖춘 깔때기 보드입니다.",
+          "먼저 오른쪽 어깨를 열고, 그다음 왼쪽 '6' 챔버를 다듬은 뒤에야 빨간색과 초록색 중앙 스트립이 청록색 깔때기로 떨어지게 하세요.",
+          "보드는 보라색, 파란색, 주황색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["보라색", "파란색", "주황색", "초록색", "빨간색", "노란색"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "프레임이 씌워진 파란색 블록이 아직 오른쪽 어깨 위에 걸려 있다면 깔때기는 준비되지 않았습니다.",
+        "빨간색 중앙 스트립이 청록색 베이로 떨어지게 하기 전에 두 어깨를 모두 여세요.",
+        "연쇄 클리어를 염두에 두세요. 가장 좋은 수는 당장의 가장 빠른 매칭이 아니라, 다음 두 수를 만들어주는 수입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "오른쪽 어깨가 열리기 시작하도록 오른쪽 위 모서리의 프레임 블록을 클리어하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "중앙을 너무 세게 건드리기 전에 같은 쪽의 가느다란 청록색 '2' 카운터를 줄이세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "오른쪽 어깨가 가벼워지면 왼쪽의 보라색 '6' 챔버 줄이기를 시작하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "두 어깨가 모두 열린 후에야 빨간색 중앙 스트립과 근처 초록색 조각이 세 개의 넓은 청록색 베이로 떨어지게 하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "상부 데크가 더 이상 추가 블로커를 넣지 않으면 아래쪽 '4' 목구멍을 무너뜨리세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "깔때기가 거의 비워지면 마지막 빨간색 세로 조각과 남은 어깨 블록으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "프레임 파란색 블록이 아직 오른쪽 어깨 위에 걸려 있는데 청록색 베이를 채우려는 것.",
+        "왼쪽 '6' 챔버와 오른쪽 '2' 카운터가 모두 줄어들기 전에 빨간색 중앙 스트립을 떨어뜨리는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 58 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 58을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

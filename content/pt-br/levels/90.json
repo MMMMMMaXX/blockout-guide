@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-90",
+  "locale": "pt-br",
+  "levelNumber": 90,
+  "title": "Guia do nível 90 do Block Out",
+  "summary": "Block Out Nível 90 é abra-bandeja tabuleiro construído ao redor um shared centro bem. Limpar primeiro amarelo shapes sem vedando que meio espaço, então deixe vermelho prateleira, verde escada, e later amarelo blocos gire através mesmo openi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "Block Out Nível 90 é abra-bandeja tabuleiro construído ao redor um shared centro bem. Limpar primeiro amarelo shapes sem vedando que meio espaço, então deixe vermelho prateleira, verde escada, e later amarelo blocos gire através mesmo abertura até arena esvazia.",
+        "landmarks": [
+          "Block Out Nível 90 é abra-bandeja tabuleiro construído ao redor um shared centro bem.",
+          "Limpar primeiro amarelo shapes sem vedando que meio espaço, então deixe vermelho prateleira, verde escada, e later amarelo blocos gire através mesmo abertura até arena esvazia.",
+          "Tabuleiro mistura Amarelo, Laranja, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["yellow", "orange", "red", "green", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat meio de bandeja como reserved airspace. Do não estacione peças there.",
+        "Lateral cadeados matter único quando você deixe tráfego bunch cima próximo para os.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Mova superior amarelo L-forma para fora primeiro so superior metade de arena abre."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar inferior-esquerda verde quadrado e primeiro amarelo quadrado sem preenchendo centro bem."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quando vermelho prateleira aparece em meio, gire ele através abra centro em vez de pinning ele para lateral parede."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deixe verde escada e azul foot-shaped peças cruz meio um em tempo enquanto lateral saídas permaneça limpar."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Salve bulkier amarelo shapes para depois vermelho e verde tráfego tem thinned."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último vermelho L-peça e restante amarelo blocos uma vez meio de bandeja é vazio again."
+        }
+      ],
+      "failurePoints": [
+        "Stuffing peças em inferior cantos e closing centro bem.",
+        "Treating Nível 90 como canal quebra-cabeça em vez de abra-bandeja rotation tabuleiro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 90 do Block Out",
+    "description": "Resolva o nível 90 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-4",
+  "locale": "tr",
+  "levelNumber": 4,
+  "title": "Block Out Seviye 4 Rehberi",
+  "summary": "Block Out Seviye 4 bir Iki-aşama çizgili tahtadır. Temizle daha düşük-sağ beyaz çıkış ve alt nane çubuk ilk, sök beyaz-ve-siyah engelleyici merdiven sağda, ve sadece sonra bırak uzun renkli çubuklar.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "Block Out Seviye 4 bir Iki-aşama çizgili tahtadır. Temizle daha düşük-sağ beyaz çıkış ve alt nane çubuk ilk, sök beyaz-ve-siyah engelleyici merdiven sağda, ve sadece sonra bırak uzun renkli çubuklar.",
+        "landmarks": [
+          "Block Out Seviye 4 bir Iki-aşama çizgili tahtadır.",
+          "Temizle daha düşük-sağ beyaz çıkış ve alt nane çubuk ilk, sök beyaz-ve-siyah engelleyici merdiven sağda, ve sadece sonra bırak uzun renkli çubuklar.",
+          "Tahta kırmızı, sarı, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Daha düşük-sağ beyaz çıkış gerçek başlangıç.",
+        "Alt nane çubuk sadece uzun çubuk sen meli bırak önce sağ merdiven çöker.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Düşür küçük beyaz blok daha düşük-sağ köşe beyaz çıkışdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır alt nane çubuk sağa ve temizle o onun eşleştirerek yandan kapı."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Bırak en yakın siyah engelleyici düş zemine şerit, sonra kullan yeni boşluk soy sonraki beyaz engelleyiciler aşağı sağ kenar ve dışarı beyaz kapıdan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Tut repeating ki sağ-kenar temizlik kadar beyaz-ve-siyah merdiven çoğunlukla gitti ve uzun çubuklar sol alanda ilerlee."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak mavi çubuk, sonra yeşil çubuk, ve sonra kalan daha düşük sıcak çubuklar sonra onların eşleştirerek sağ-yan kapılar açık."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sakla üst sarı çubuk için sondan bir önceki hareket ettir."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kaydırarak üst kırmızı çubuk kırmızı yana kapı."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek fırlata uzun mavi çubuk önce sağ-yan engelleyici merdiven çöktü.",
+        "Ignoring alt nane çubuk ve bırakarak zemin şerit mühürlendi."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 4 Rehberi ve Çözümü",
+    "description": "Block Out seviye 4'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

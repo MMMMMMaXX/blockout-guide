@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-23",
+  "locale": "tr",
+  "levelNumber": 23,
+  "title": "Block Out Seviye 23 Rehberi",
+  "summary": "Block Out Seviye 23 bir Knot tahta ile iki çerçeveli daha düşük boxes marked `11` ve `8`dır. Kullan üst mavi şerit ve sağ sarı kapı untiee curled merkez yol, sonra bırak iki ana blok boxes düş sonra knot gitti.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "Block Out Seviye 23 bir Knot tahta ile iki çerçeveli daha düşük boxes marked `11` ve `8`dır. Kullan üst mavi şerit ve sağ sarı kapı untiee curled merkez yol, sonra bırak iki ana blok boxes düş sonra knot gitti.",
+        "landmarks": [
+          "Block Out Seviye 23 bir Knot tahta ile iki çerçeveli daha düşük boxes marked `11` ve `8`dır.",
+          "Kullan üst mavi şerit ve sağ sarı kapı untiee curled merkez yol, sonra bırak iki ana blok boxes düş sonra knot gitti.",
+          "Tahta mavi, sarı, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untie merkez önce attacking daha düşük boxes.",
+        "Üst mavi yönlendir parça opener, değil daha yakın.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle üst mavi yönlendir ilk böylece orta curl bir daha az engelleyici."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan sağ sarı şerit çek üst sarı sütun uzakta knotdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Döndür kırmızı ve mor curl parçalar kadar merkezi yol hayır daha uzun kapalı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla küçülerek çerçeveli `11` box sonra sol yarı knot açıldı."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak çerçeveli `8` box düş sonra sağ yarı ayrıca temizlendi."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temiz yukarı uzun kırmızı ve sarı sütunlar ki tutarak curl yerleştirde."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son mavi üst yönlendir sonra her ikisi de daha düşük çerçeveler neredeyse gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek boş daha düşük çerçeveliye box sırasında merkez curl hâlâ tight.",
+        "Ignoring sağ sarı kapı ve overworking sadece üst mavi yönlendir."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 23 Rehberi ve Çözümü",
+    "description": "Block Out seviye 23'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

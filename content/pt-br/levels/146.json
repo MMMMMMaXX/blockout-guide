@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-146",
+  "locale": "pt-br",
+  "levelNumber": 146,
+  "title": "Guia do nível 146 do Block Out",
+  "summary": "O nível 146 do Block Out usa contadores duplos superiores — `20` e `17` — que decrescem conforme os restos são limpos de uma grade com textura de Lego. Uma coluna amarela esquerda vedada e uma âncora vermelha pontilhada em estrela fixam a metade inferior. O bloco pontilhado em estrela deve quebrar antes q...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/146/",
+        "layout": "O nível 146 do Block Out usa contadores duplos superiores — `20` e `17` — que decrescem conforme os restos são limpos de uma grade com textura de Lego. Uma coluna amarela esquerda vedada e uma âncora vermelha pontilhada em estrela fixam a metade inferior. O bloco pontilhado em estrela deve quebrar antes que o quadrado roxo 2×2 final possa sair, mas deslocar a peça verde em L cedo demais bloqueia a pista central e deixa a âncora presa.",
+        "landmarks": [
+          "O nível 146 do Block Out usa contadores duplos superiores — `20` e `17` — que decrescem conforme os restos são limpos de uma grade com textura de Lego.",
+          "Vedado esquerda amarelo coluna e vermelho estrela-dotted ancore fixe inferior metade.",
+          "Estrela-dotted bloco deve quebre antes que final roxo 2×2 pode saída, mas deslocando verde L-peça também cedo blocos centro pista e strands ancore."
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "cyan", "green", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXs9atNLk6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXs9atNLk6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre vermelho estrela-dotted bloco antes que deslizando centro roxo 2×2.",
+        "Mantenha roxo 12 aglomerado intacto até superior contadores solte abaixo 15.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize esquerda amarelo coluna baixo com lateral verde cima-seta para comece gastando superior 20 contador sem deslocando roxo 12 par."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre twin superior 20/17 peças baixo para 15/12 por limpando superior ciano 5 e vermelho recortes entre os."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Roteie azul L-forma e vermelho 2×2 através centro lacuna uma vez contadores hit 15/12."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar inferior roxo 12 aglomerado e amarelo 8 peça para solte superior molduras para 6/3."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Quebre vermelho estrela-dotted bloco em inferior-direita antes que deslizando centro roxo 2×2."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste final 6/3 contadores em verde L-peça e último azul recortes para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando roxo 2×2 antes que vermelho estrela-dotted bloco quebra, vedando inferior vermelho pista.",
+        "Deslocando roxo 12 aglomerado enquanto superior 20 contador é ainda cheio, wasting primeiro gaste."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/146/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 146 do Block Out",
+    "description": "Resolva o nível 146 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

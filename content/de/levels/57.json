@@ -1,0 +1,96 @@
+{
+  "id": "de-level-57",
+  "locale": "de",
+  "levelNumber": 57,
+  "title": "Block Out Level 57 Lösung",
+  "summary": "Block Out Level 57 Stapel two lila Boss chambers — '5' auf oben, '11' auf unten — mit three weiß '10' Blöcke bei very base. Chambers teilen Wand, also räumend one affects andere. Starten mit unten '10' Blöcke, dann wo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "Block Out Level 57 Stapel two lila Boss chambers — '5' auf oben, '11' auf unten — mit three weiß '10' Blöcke bei very base. Chambers teilen Wand, also räumend one affects andere. Starten mit unten '10' Blöcke, dann arbeiten beide chambers in parallel, letting smaller '5' chamber räumen faster while '11' chamber gradually öffnet.",
+        "landmarks": [
+          "Block Out Level 57 Stapel two lila Boss chambers — '5' auf oben, '11' auf unten — mit three weiß '10' Blöcke bei very base.",
+          "Chambers teilen Wand, also räumend one affects andere.",
+          "Starten mit unten '10' Blöcke, dann arbeiten beide chambers in parallel, letting smaller '5' chamber räumen faster while '11' chamber gradually öffnet."
+        ],
+        "colors": ["purple", "yellow", "blue", "green", "red", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Two chambers teilen Wand — tu nicht fully drain '5' bevor '11' hat made progress.",
+        "Starten mit unten '10' Blöcke. Sie sind independent targets dass öffnen base.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen three weiß '10' Blöcke bei unten durch sliding sie toward rechts Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben gelb Blöcke auf links hinaus durch links Ausgang zu öffnen gap zwischen two chambers."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin draining obere '5' chamber — es ist smaller und räumt faster, Eröffnungs- Platz über."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Arbeiten untere '11' chamber in parallel, sliding sein Blöcke hinaus durch rechts Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Als '5' chamber empties, verwenden freigegeben Platz zu help '11' chamber Blöcke schieben hinaus."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen remaining grün und blau Blöcke eingesperrt zwischen emptied chambers."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit rot und lila Blöcke bei oben und sides."
+        }
+      ],
+      "failurePoints": [
+        "Fully draining '5' chamber bevor '11' hat made progress — geteilt Wand provides sliding support für beide, und losing es too früh sperrt ein Blöcke.",
+        "Ignoring unten '10' Blöcke und Versuchen zu arbeiten chambers erste, welche lässt base packed und Blöcke kann't schieben runter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 57 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 57 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

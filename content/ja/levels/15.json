@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-15",
+  "locale": "ja",
+  "levelNumber": 15,
+  "title": "ブロックアウト レベル15 攻略",
+  "summary": "ブロックアウト レベル15は、目標の角を持つ双塔パズルです。右の黄のレーンを開き、下部の角の目標が出られるまで中央の棒を回転させ、それからでのみ枠付きの上部の角を使います。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "ブロックアウト レベル15は、目標の角を持つ双塔パズルです。右の黄のレーンを開き、下部の角の目標が出られるまで中央の棒を回転させ、それからでのみ枠付きの上部の角を使います。",
+        "landmarks": [
+          "ブロックアウト レベル 15 目標-角 双塔パズル.。",
+          "黄レーンを開きて右に、を回転させて中央の、下の 角 目標 残す、を使いて上 角.。",
+          "混ぜる 青、黄、ピンク、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右 黄 レーン .。",
+        "角を下げて目標 残す、上の 角.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "黄レーンを開きて右に、を使いて始める 中央の 赤、ピンク .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を維持して青、黄 上 角 配置し 中央 積み 下へ.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を解放して下の 緑 目標、下の ピンク 目標、下 混雑した.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて下 分離する 中央の 赤、青 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "下の 角、を解放して上の-右 黄 目標.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて上の-左 青 目標、赤 棒 渡り 上.。"
+        }
+      ],
+      "failurePoints": [
+        "上-角 枠、下の 目標 動かし.。",
+        "黄レーンを無視して右に、回転させる 中央の 積み 配置する.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル15 攻略と解説",
+    "description": "ブロックアウト レベル15 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

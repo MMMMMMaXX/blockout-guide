@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-49",
+  "locale": "pt-br",
+  "levelNumber": 49,
+  "title": "Guia do nível 49 do Block Out",
+  "summary": "Block Out Nível 49 é rotulado 'Super Difícil' e apresenta três alto chefe câmaras — esquerda e direita em `17` cada, com centro amarelo chave bloco — tudo sentado acima empacotado inferior câmara de azul, verde, amarelo, vermelho, laranja, e ciano bloco...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "Block Out Nível 49 é rotulado 'Super Difícil' e apresenta três alto chefe câmaras — esquerda e direita em `17` cada, com centro amarelo chave bloco — tudo sentado acima empacotado inferior câmara de azul, verde, amarelo, vermelho, laranja, e ciano blocos. Escoe inferior câmara primeiro para dê tudo três chefes espaço, então deixe correspondido `17` câmaras colapse roughly em sync. Cada fase depends em inferior câmara being abra suficiente.",
+        "landmarks": [
+          "Block Out Nível 49 é rotulado 'Super Difícil' e apresenta três alto chefe câmaras — esquerda e direita em `17` cada, com centro amarelo chave bloco — tudo sentado acima empacotado inferior câmara de azul, verde, amarelo, vermelho, laranja, e ciano blocos.",
+          "Escoe inferior câmara primeiro para dê tudo três chefes espaço, então deixe correspondido `17` câmaras colapse roughly em sync.",
+          "Cada fase depends em inferior câmara being abra suficiente."
+        ],
+        "colors": ["blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tudo três chefes depend em mesmo chão — se inferior câmara ainda sente empacotado, none de os é ready.",
+        "Amarelo centro bloco entre chefes é cedo chave peça. Use ele para comece abertura superior seção.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Escoe inferior colorido blocos (azul, verde, amarelo, vermelho, laranja, ciano) em direção a lateral saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use amarelo centro bloco entre chefes como cedo mova para comece abertura superior seção."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha `17` chefes estacionado enquanto inferior câmara é ainda cheio."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez chão é about metade-vazio, deixe chefe contadores comece soltando."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Funciona ambos `17` câmaras roughly evenly so eles colapse em sync."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar tarde colorido tiras de revelado superior espaço."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último lateral contadores e câmara limpeza."
+        }
+      ],
+      "failurePoints": [
+        "Working um superior chefe em isolation enquanto outro dois são ainda vedado — tudo três compartilhe mesmo chão e deve abra juntos.",
+        "Não escoando inferior câmara antes que tocando chefes, que deixa no espaço para qualquer de três câmaras para colapse em."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 49 do Block Out",
+    "description": "Resolva o nível 49 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

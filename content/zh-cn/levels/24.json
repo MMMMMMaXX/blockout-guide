@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-24",
+  "locale": "zh-cn",
+  "levelNumber": 24,
+  "title": "Block Out 第 24 关通关攻略",
+  "summary": "Block Out 第 24 关是一个共享通道的双 Boss 棋盘，带有两个带框的 `12` 面板。先削薄右侧立柱阶梯，再打开中央竖井，最后让上方 Boss 在下方 Boss 之前落下。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "Block Out 第 24 关是一个共享通道的双 Boss 棋盘，带有两个带框的 `12` 面板。先削薄右侧立柱阶梯，再打开中央竖井，最后让上方 Boss 在下方 Boss 之前落下。",
+        "landmarks": [
+          "Block Out 第 24 关是一个共享通道的双 Boss 棋盘，带有两个带框的 `12` 面板。",
+          "先削薄右侧立柱阶梯，再打开中央竖井，最后让上方 Boss 在下方 Boss 之前落下。",
+          "棋盘混合了紫色、红色、白色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在移动 Boss 之前，先打开竖井。",
+        "上方的 `12` 先于下方的 `12`。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "在触碰任一带框 Boss 之前，先削薄由黑色、红色和白色方块组成的右侧阶梯。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在顶部 `12` 面板附近打开中央竖井，让两个 Boss 不再共享一条封闭通道。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "一旦右边缘不再拥挤，就降低上方 `12` 面板。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用腾出的竖井，随后开始放下下方 `12` 面板。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在竖井打开后，把顶部红色出口留到后期清理。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "在第二个 Boss 落下时，排出剩余的侧边计数器和小型彩色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个 `12` 面板都几乎消失后，用右侧列的最后残余收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在共享竖井仍然堵塞时，就试图移动某个 Boss。",
+        "在右侧通道尚未足够削薄之前，就使用顶部红色出口。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 24 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 24 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

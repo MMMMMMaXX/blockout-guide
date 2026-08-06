@@ -1,0 +1,96 @@
+{
+  "id": "es-level-56",
+  "locale": "es",
+  "levelNumber": 56,
+  "title": "Guía de Block Out Nivel 56",
+  "summary": "Block Out nivel 56 packs a apretado grid con a morado '3' bloque en the superior, rojo y azul bloques filling the superior filas, y amarillo/verde bloques en the central. The chokepoint es the morado '3' — lo bloques la sección superior. Elimina the inferior...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/56/",
+        "layout": "Block Out nivel 56 packs a apretado grid con a morado '3' bloque en the superior, rojo y azul bloques filling the superior filas, y amarillo/verde bloques en the central. The chokepoint es the morado '3' — lo bloques la sección superior. Elimina the inferior primero, luego work the central amarillo y verde bloques fuera, y finish con the numbered bloques en the superior.",
+        "landmarks": [
+          "Block Out nivel 56 packs a apretado grid con a morado '3' bloque en the superior, rojo y azul bloques filling the superior filas, y amarillo/verde bloques en the central.",
+          "The chokepoint es the morado '3' — lo bloques la sección superior.",
+          "Elimina the inferior primero, luego work the central amarillo y verde bloques fuera, y finish con the numbered bloques en the superior."
+        ],
+        "colors": ["morado", "red", "blue", "yellow", "green", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sqRrXyRKFBA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sqRrXyRKFBA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The morado '3' bloque en the superior es a multi-pasada pieza — despejado el bloques debajo lo primero así lo has room a slide.",
+        "Elimina the inferior filas primero a create sliding espacio para the superior numbered bloques.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the rojo y rosa bloques en the inferior hacia el salida derecho a abierto la base."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desplaza the verde bloques en the izquierdo fuera por el salida izquierdo a abierto the inferior-izquierdo zona."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Mueve the amarillo bloques en el centro por el salida izquierdo ahora ese el camino es despejado."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Comienza clearing the azul bloques en the central por el salida derecho."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Aborda the morado '3' bloque en the superior — lo needs three salidas a totalmente despejado."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the restante rojo y azul bloques en the derecho por el salida derecho."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con cualquier restante bloques trapped en el esquinas."
+        }
+      ],
+      "failurePoints": [
+        "Trying a despejado the morado '3' bloque antes el bloques debajo lo — lo needs room a slide y salida multiple times.",
+        "Elimina the superior antes the inferior, que leaves the inferior bloques trapped con no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/56/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 56",
+    "description": "Resuelve Block Out nivel 56 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

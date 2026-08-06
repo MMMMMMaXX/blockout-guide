@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-106",
+  "locale": "ja",
+  "levelNumber": 106,
+  "title": "ブロックアウト レベル106 攻略",
+  "summary": "ブロックアウト レベル106は区画迷路で、ポケットカウンターが紫の壁の中に隠れ、一方通行の上矢印の通路が中央を通っています。番号付きタイルは本当の目標でありラベルではありません—各ポケットは次の壁が開く前に排水する必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "ブロックアウト レベル106は区画迷路で、ポケットカウンターが紫の壁の中に隠れ、一方通行の上矢印の通路が中央を通っています。番号付きタイルは本当の目標でありラベルではありません—各ポケットは次の壁が開く前に排水する必要があります。底部のコンベアの列がシステム全体に供給し、それを早く引くと上部のポケットがまだ生きている間に中央の通路が崩れます。",
+        "landmarks": [
+          "ブロックアウト レベル 106 迷路 空きマス カウンター 隠す 紫 壁、- 上へ-矢印 レーン 中央.。",
+          "タイル 目的、— 空きマス 排出する、壁 .。",
+          "下 行、中央 経路 上の .。"
+        ],
+        "colors": ["green", "yellow", "blue", "red", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央 上へ-矢印 レーン 通す 通す — ブロック 下 行.。",
+        "右-空きマス 赤 `1`/`2` ペア 消去する、下 行.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて上の-左 緑/黄/青 塊 中央 上へ-矢印 レーン.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "シアンのを消去して`8`、青 `10` タイル 上の-中央の 空きマス.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を剥がして上の-右 赤 `12`、`14` 積み、中央 経路 開く.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて青 `4` タイル - 解放する 中央の-左 空きマス.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を落として下 行、右-空きマス 赤 `1`、`2` タイル .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて下-トレイ ピース、カウンター `5`、`2`、`8`.。"
+        }
+      ],
+      "failurePoints": [
+        "下 行、右-空きマス 赤 `1`/`2` ペア — 迷路.。",
+        "黄 `16` タイル、シアン `8`、青 `10` .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル106 攻略と解説",
+    "description": "ブロックアウト レベル106 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

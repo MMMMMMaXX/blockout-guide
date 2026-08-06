@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-45",
+  "locale": "pt-br",
+  "levelNumber": 45,
+  "title": "Guia do nível 45 do Block Out",
+  "summary": "Block Out Nível 45 é fora-em quebra-cabeça onde grosso borda de grande vermelho, azul, verde, e amarelo blocos caixas em menor emoldurado alvo blocos em inferior metade. borda deve be peeled de superior e lados primeiro — grande blocos lea...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "Block Out Nível 45 é fora-em quebra-cabeça onde grosso borda de grande vermelho, azul, verde, e amarelo blocos caixas em menor emoldurado alvo blocos em inferior metade. borda deve be peeled de superior e lados primeiro — grande blocos deixe antes que alvos. Uma vez centro abre, emoldurado alvos pode finalmente travel através para seus saídas. Este inverts usual chefe padrão: grande peças são openers, pequeno uns são finishers.",
+        "landmarks": [
+          "Block Out Nível 45 é fora-em quebra-cabeça onde grosso borda de grande vermelho, azul, verde, e amarelo blocos caixas em menor emoldurado alvo blocos em inferior metade.",
+          "Borda deve be peeled de superior e lados primeiro — grande blocos deixe antes que alvos.",
+          "Uma vez centro abre, emoldurado alvos pode finalmente travel através para seus saídas.",
+          "Este inverts usual chefe padrão: grande peças são openers, pequeno uns são finishers."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Grande blocos são borda, não objetivo — descasque os primeiro.",
+        "Emoldurado alvos são finishers que único mova depois centro tem real pistas.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Extraia blocos de superior borda para crie primeiro lacuna em borda."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque grande azul bloco em superior-esquerda em direção a esquerda saídas."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova grande vermelho bloco em superior-direita próximo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use liberado superior espaço para desloque verde centro bloco, abertura pista para inferior alvos."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gire primeiro emoldurado alvo através widened centro e para fora seu saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente segundo emoldurado alvo uma vez primeiro é indo e centro é wider."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último borda fragmentos depois ambos alvos tem esquerda."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova emoldurado alvo antes que borda tem aberto — alvo precisa largo pista através centro que único exists depois grande blocos são indo.",
+        "Descascando único um borda de borda e deixando oposto lateral grosso, que blocos alvo's caminho de outro direção."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 45 do Block Out",
+    "description": "Resolva o nível 45 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

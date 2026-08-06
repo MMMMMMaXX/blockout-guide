@@ -1,0 +1,93 @@
+{
+  "id": "es-level-13",
+  "locale": "es",
+  "levelNumber": 13,
+  "title": "Guía de Block Out Nivel 13",
+  "summary": "El nivel 13 de Block Out es un tablero de presión con un muro derecho saturado y contadores superiores. Afloja primero el carril derecho, mantén estacionada la banda azul superior como soporte y colapsa las láminas cian solo después de que se abra el carril rojo.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "El nivel 13 de Block Out es un tablero de presión con un muro derecho saturado y contadores superiores. Afloja primero el carril derecho, mantén estacionada la banda azul superior como soporte y colapsa las láminas cian solo después de que se abra el carril rojo.",
+        "landmarks": [
+          "El nivel 13 de Block Out es un tablero de presión con un muro derecho saturado y contadores superiores.",
+          "Afloja primero el carril derecho, mantén estacionada la banda azul superior como soporte y colapsa las láminas cian solo después de que se abra el carril rojo.",
+          "El tablero combina cian, amarillo, azul y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["cyan", "yellow", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El carril rojo derecho importa más que la banda azul superior.",
+        "Las láminas cian deben moverse después de los contadores, no antes.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Alimenta las piezas del borde derecho al muro rojo para que desaparezca primero el pequeño contador `1` lateral."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Sigue reduciendo los contadores superiores `3` y `4` mientras la lámina cian `10` permanece estacionada en el centro."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Usa las bandas amarillas para hacer puente a través del centro solo después de que el carril derecho ya no esté obstruido."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Suelta las láminas cian `8` y `6` en secuencia para que la fila central deje de comprimir la banda azul."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Libera la banda azul superior una vez que los contadores superiores estén casi agotados."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina limpiando las últimas bandas amarillas y luego la lámina cian `5` final."
+        }
+      ],
+      "failurePoints": [
+        "Mover la banda azul superior antes de que se haya abierto el carril rojo derecho.",
+        "Intentar forzar la lámina cian `10` hacia abajo mientras los contadores superiores siguen altos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 13",
+    "description": "Resuelve el nivel 13 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

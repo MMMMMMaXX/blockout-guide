@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-118",
+  "locale": "ja",
+  "levelNumber": 118,
+  "title": "ブロックアウト レベル118 攻略",
+  "summary": "ブロックアウト レベル118は、側面レールカウンターと、中盤を無事に生き残る必要がある星模様のシアンポケットを持つ6×6のLEGO風グリッドに、赤の境界バーを重ねています。グリッドは行ごとにスライドし—各押しは6列すべてに…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/118/",
+        "layout": "ブロックアウト レベル118は、側面レールカウンターと、中盤を無事に生き残る必要がある星模様のシアンポケットを持つ6×6のLEGO風グリッドに、赤の境界バーを重ねています。グリッドは行ごとにスライドし—各押しは6列すべてに波紋を広げます。中央の赤ブロックは無害に見えますが、右レールが落ちる前にそれを滑らせると、星のポケットが動くがれきの下に埋もれます。",
+        "landmarks": [
+          "ブロックアウト レベル 118 層 赤 棒 渡り 6×6 - 側-レール カウンター、星- シアン 空きマス - .。",
+          "— 押す 渡り .。",
+          "中央の赤のブロック、スライドさせ、右 レール 星 空きマス ずらし .。"
+        ],
+        "colors": ["cyan", "green", "yellow", "red", "purple", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "W5Eeo1DQgt8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=W5Eeo1DQgt8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "分割する 星- シアン 3×3 空きマス — アンカー 左-中央 .。",
+        "黄のを取っておきて右に、-塊、下 紫 `2` カウンター .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を割りて上の シアン 赤 棒 左 `2` レール.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑列を剥がして左に、星- シアン 3×3 空きマス .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をずらして下 赤 下へ-矢印 ブロック 中央、左 レール `10`.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を通して右に、-レール `6`、`8` 下 緑 右-矢印 レーン.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "黄のを消去して-塊 右、下 紫 `2` カウンター .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "出口 赤、黄 開く 下へ レーン 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "星- シアン 空きマス、左-中央 アンカー.。",
+        "動かし 右 黄 -塊、下 紫 `2` カウンター .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/118/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル118 攻略と解説",
+    "description": "ブロックアウト レベル118 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

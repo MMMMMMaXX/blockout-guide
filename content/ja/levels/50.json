@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-50",
+  "locale": "ja",
+  "levelNumber": 50,
+  "title": "ブロックアウト レベル50 攻略",
+  "summary": "ブロックアウト レベル50は、ボスもカウンターも装置もない方向スライダーの最終盤です。3本の列に詰め込まれた背の高い矢印ブロックは、矢印の指す方向にしか動かせません——青と黄の棒は上へ、緑のブロックは下へ、赤の棒は左右へ、紫の押し出しは端を埋めます。解き方は",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "ブロックアウト レベル50は、ボスもカウンターも装置もない方向スライダーの最終盤です。3本の列に詰め込まれた背の高い矢印ブロックは、矢印の指す方向にしか動かせません——青と黄の棒は上へ、緑のブロックは下へ、赤の棒は左右へ、紫の押し出しは端を埋めます。解き方は経路の順序についてです——まず1本の縦レーンを空け、赤の横棒を（障害ではなく）交通制御として使い、大きな棒が消えた後で緑と紫のピースを取っておきます。",
+        "landmarks": [
+          "ブロックアウト レベル 50 最終 — ボス、カウンター、装置.。",
+          "矢印 詰まった スライドさせる 矢印 : 青、黄 上、緑 下、赤の棒 左 右、紫 満たす .。",
+          "通す : 解放する レーン、赤のを使いて交通 ( )、取っておく 緑、紫、消去し.。"
+        ],
+        "colors": ["blue", "yellow", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤 交通、— 維持する、.。",
+        "を解放してレーン . 消去する 赤の棒 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を解放してレーン スライドさせ 青 黄 棒 上、.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を使いて開き レーン ずらす 黄 青 矢印 ブロックアウト 積み.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を維持して右側 赤 棒 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を開きてレーン、側 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "緑のを解放して下-矢印、ブロッカー .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "紫のを使いて押す、.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて赤 緑 ピース、.。"
+        }
+      ],
+      "failurePoints": [
+        "赤、レーン — 交通、右側 .。",
+        "スライドさせる 緑 下-矢印 ブロック、上 消去し、詰まり 列.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル50 攻略と解説",
+    "description": "ブロックアウト レベル50 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-64",
+  "locale": "zh-cn",
+  "levelNumber": 64,
+  "title": "Block Out 第64关攻略",
+  "summary": "Block Out 第64关是一个四分框拼图。橙色边框将棋盘分成四个区域——三个填满巨大的紫色数字方块（计数 4、12 和 7），一个塞满小彩色方块。右上象限的小方块是开局唯一能移动的棋子。先清空它们打通上半部分……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/64/",
+        "layout": "Block Out 第64关是一个四分框拼图。橙色边框将棋盘分成四个区域——三个填满巨大的紫色数字方块（计数 4、12 和 7），一个塞满小彩色方块。右上象限的小方块是开局唯一能移动的棋子。先清空它们打通上半部分，再按计数从小到大的顺序将紫色方块送入各自的出口。",
+        "landmarks": [
+          "Block Out 第64关是一个四分框拼图。",
+          "橙色边框将棋盘分成四个区域——三个填满巨大的紫色数字方块（计数 4、12 和 7），一个塞满小彩色方块。",
+          "右上象限的小方块是开局唯一能移动的棋子。",
+          "先清空它们打通上半部分，再按计数从小到大的顺序将紫色方块送入各自的出口。"
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gKBANgKGy-w",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gKBANgKGy-w",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右上象限是你开局唯一的发力点——先把那里的小方块全部抽出。",
+        "按计数从小到大送紫色方块：先「4」，再「7」，最后「12」。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将右上象限的小彩色方块从顶部和右侧出口抽出。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "清除棋盘顶部的计数「2」方块。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "上半部分打开后，将左上角的紫色方块（计数「4」）送入其出口。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "利用腾出的上方空间，开始移动右下角的紫色方块（计数「7」）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "最后处理巨大的左下角紫色方块（计数「12」）——它需要最多的空间。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "紫色方块清空后，清理剩余的彩色碎片。"
+        }
+      ],
+      "failurePoints": [
+        "在右上象限清空之前就移动紫色方块——橙色边框会挡住它。",
+        "没有先留出足够的出口通道宽度，就把计数「12」方块留到最后。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/64/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第64关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第64关。"
+  },
+  "updatedAt": "2026-08-03"
+}

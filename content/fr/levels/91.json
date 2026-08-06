@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-91",
+  "locale": "fr",
+  "levelNumber": 91,
+  "title": "Guide Block Out Niveau 91",
+  "summary": "Block Out Niveau 91 starts avec empilé `7` et `5` chambres, mais real choke point est le centre elevator que appears après le haut chambre shrinks. Dégagez packed mur gauche premier, drainez `7` chambre second, et alors nettoiez n...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "Block Out Niveau 91 starts avec empilé `7` et `5` chambres, mais real choke point est le centre elevator que appears après le haut chambre shrinks. Dégagez packed mur gauche premier, drainez `7` chambre second, et alors nettoiez numéroté voie cyan avant dernier côté pièces quittez.",
+        "landmarks": [
+          "Block Out Niveau 91 starts avec empilé `7` et `5` chambres, mais real choke point est le centre elevator que appears après le haut chambre shrinks.",
+          "Dégagez packed mur gauche premier, drainez `7` chambre second, et alors nettoiez numéroté voie cyan avant dernier côté pièces quittez.",
+          "Le plateau mélange violet, vert et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si le mur gauche est toujours encombré, `7` chambre est pas prêt.",
+        "Cyan countdown voie est partie que actually verrous tardif game.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Adoucissez le mur gauche par dégagement vert échelle et la colonne jaune à côté de il."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Libérez petit carré rouge proche le milieu donc le centre arbre est pas boxed dans later."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez shrinking supérieur `7` chambre seulement après le mur gauche est lighter."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez le centre elevator ouvrez et dégagez cyan countdown voie que appears entre chambres."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez abaissez `5` chambre une fois arbre est non longer blocked par jaune et rouge vertical pièces."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec restant rouge et vert côté pièces après le milieu voie est videz."
+        }
+      ],
+      "failurePoints": [
+        "Shrinking `7` chambre avant le mur gauche a opened assez salle pour le centre arbre.",
+        "Ignoring cyan countdown voie et jumping droit de `7` chambre à `5` chambre."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 91",
+    "description": "Résolvez le niveau 91 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

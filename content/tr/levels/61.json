@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-61",
+  "locale": "tr",
+  "levelNumber": 61,
+  "title": "Block Out Seviye 61 Rehberi",
+  "summary": "Block Out Seviye 61 dolur 6×8 ızgara ile yönlü ok bloklar — yeşil sol-oklar solda, kırmızı sağ-oklar sağda, mavi sol-oklar üstde, yeşil aşağı-oklar altda, ve turuncu/kırmızı yukarı-aşağı bloklar ortada. Ever...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/61/",
+        "layout": "Block Out Seviye 61 dolur 6×8 ızgara ile yönlü ok bloklar — yeşil sol-oklar solda, kırmızı sağ-oklar sağda, mavi sol-oklar üstde, yeşil aşağı-oklar altda, ve turuncu/kırmızı yukarı-aşağı bloklar ortada. Every blok ebilir sadece kaydır onun okda direction. temizle üst ve alt sıralar ilk, sonra çalış orta sütunlar vertically.",
+        "landmarks": [
+          "Block Out Seviye 61 dolur 6×8 ızgara ile yönlü ok bloklar — yeşil sol-oklar solda, kırmızı sağ-oklar sağda, mavi sol-oklar üstde, yeşil aşağı-oklar altda, ve turuncu/kırmızı yukarı-aşağı bloklar ortada.",
+          "Every blok ebilir sadece kaydır onun okda direction.",
+          "Temizle üst ve alt sıralar ilk, sonra çalış orta sütunlar vertically."
+        ],
+        "colors": ["green", "red", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "kfVQ2SZQEL4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=kfVQ2SZQEL4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Oklar constraints — blok ile sol ok ebilir sadece kaydır sol. plan bu.",
+        "Temizle üst ve alt sıralar ilk ver orta bloklar alan kaydır vertically.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst mavi bloklar ile sol oklar sol çıkışdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle alt yeşil bloklar ile aşağı oklar alt çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla kaydırarak orta turuncu/kırmızı bloklar vertically — yukarı-ok bloklar git yukarı, aşağı-ok bloklar git aşağı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle sol yeşil bloklar ile sol oklar sol çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle sağ kırmızı bloklar ile sağ oklar sağ çıkışdan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan orta bloklar ki gerektir dikey kaydırarak."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek kaydır blok directionda onun ok değil nokta — ok zor constraint, değil suggestion.",
+        "Temizleyerek orta bloklar önce üst ve alt sıralar açık, hangi tuzağa düşürür üst ve daha düşük bloklar ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/61/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 61 Rehberi ve Çözümü",
+    "description": "Block Out seviye 61'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

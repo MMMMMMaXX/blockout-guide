@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-140",
+  "locale": "tr",
+  "levelNumber": 140,
+  "title": "Block Out Seviye 140 Rehberi",
+  "summary": "Block Out Seviye 140 uses dört dikey piston çubuklar elevators — her meli eşleştir onun sütun renk üst ızgarada önce merkezi `7` circle starts counting cycles. pistons sadece ilerle ne zaman onların renk eşleşmeler, böylece üst sıra...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "Block Out Seviye 140 uses dört dikey piston çubuklar elevators — her meli eşleştir onun sütun renk üst ızgarada önce merkezi `7` circle starts counting cycles. pistons sadece ilerle ne zaman onların renk eşleşmeler, böylece üst sıra's yönlü ok bloklar meli temizle ilk açığa çıkar hedef renkler. Align her piston, sonra boşalt `7` circle için mükemmel temizle.",
+        "landmarks": [
+          "Block Out Seviye 140 uses dört dikey piston çubuklar elevators — her meli eşleştir onun sütun renk üst ızgarada önce merkezi `7` circle starts counting cycles.",
+          "Pistons sadece ilerle ne zaman onların renk eşleşmeler, böylece üst sıra's yönlü ok bloklar meli temizle ilk açığa çıkar hedef renkler.",
+          "Align her piston, sonra boşalt `7` circle için mükemmel temizle."
+        ],
+        "colors": ["red", "yellow", "blue", "green", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tut mavi ve sarı pistons level during açarak — raising sarı erken splits üst-sıra 1 çift.",
+        "Temizle kırmızı L-şekil ile sol/aşağı oklar önce lowering sarı piston sağda.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Raise kırmızı piston çubuk üste-sıra kırmızı 2 blok ve kaydır o aşağı kırmızı alt-ok harcaya 2 sayaç."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Align sarı çubuk ile sarı 1 karo ve mavi çubuk ile mavi 1 karo, lowering her onun eşleştirerek altdan-ok."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Raise yeşil çubuk için sağ-sütun yeşil bloklar ve harca beyaz 3 kenar sayaç üst-sağ sök."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle üst panel üst sıra (mor/sarı/mavi/yeşil ile yukarı-oklar) sonra tüm dört üst sayaçlar hit zero."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır kırmızı L-şekil ile sol/aşağı oklar daha düşük-sol şerit, sonra it mavi dikey yukarı-ok blok merkez koridordan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Daha düşük sarı ve mor sağ-yan parçalar ve harca son merkezi 7 circle için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Raising sarı piston during adım 1, bölerek üst-sıra 1 çift ve locking merkezi 7 üstünde 3.",
+        "Lowering sarı piston önce kırmızı L-şekil temizlenir, stranding mavi aşağı-ok blok tabanda."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 140 Rehberi ve Çözümü",
+    "description": "Block Out seviye 140'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

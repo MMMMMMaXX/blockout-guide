@@ -1,0 +1,92 @@
+{
+  "id": "de-level-125",
+  "locale": "de",
+  "levelNumber": 125,
+  "title": "Block Out Level 125 Lösung",
+  "summary": "Block Out Level 125 ist fast U-frame Spielfeld where unten launcher Reihe führt hinaus Blöcke nach oben in U-shaped gap. Seite arms muss thin zu blau `6` und `4` Kacheln bevor launchers kann fire — otherwise gap overflows. Break tho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/125/",
+        "layout": "Block Out Level 125 ist fast U-frame Spielfeld where unten launcher Reihe führt hinaus Blöcke nach oben in U-shaped gap. Seite arms muss thin zu blau `6` und `4` Kacheln bevor launchers kann fire — otherwise gap overflows. Break jene Zähler, dann spend launcher Reihe für PERFECT räumen. Weiß `9` Zähler auf Mitte grün Block ist letzte launch trigger.",
+        "landmarks": [
+          "Block Out Level 125 ist fast U-frame Spielfeld where unten launcher Reihe führt hinaus Blöcke nach oben in U-shaped gap.",
+          "Seite arms muss thin zu blau `6` und `4` Kacheln bevor launchers kann fire — otherwise gap overflows.",
+          "Break jene Zähler, dann spend launcher Reihe für PERFECT räumen.",
+          "Weiß `9` Zähler auf Mitte grün Block ist letzte launch trigger."
+        ],
+        "colors": ["yellow", "green", "red", "orange", "cyan", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "01Yjk5R2M04",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=01Yjk5R2M04",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break blau `6` Zähler bevor blau `4` Zähler zu behalten gelb base pair öffnen.",
+        "Tu nicht touch Mitte rot `17` launcher bis beide Seite Zähler Kacheln sind gone.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Verschieben links-arm gelb/grün/rot stapeln nach unten mit far-links grün hoch-Pfeil ohne touching blau `6` Kachel."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Mirror rechts-arm orange/rot/blau stapeln mit far-rechts grün hoch-Pfeil, keeping blau `4` Zähler geparkt."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break blau `6` Zähler Kachel auf links arm once beide Seite Stapel sind three Blöcke hoch."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Break blau `4` Zähler Kachel auf rechts arm bevor two gelb base bricks bewegen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend unten launcher Reihe — links rot `25`, Mitte rot `17`, rechts grün `25` — zu hinausführen remaining Blöcke in U gap."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen unten `9` Zähler Kachel und letzte rot/blau scraps durch Mitte grün Pfeil für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Breaking blau `4` Zähler bevor blau `6` — dieses jams gelb base pair permanently.",
+        "Verschiebend Mitte rot `17` launcher bevor beide Seite Zähler Kacheln räumen, boxing beide arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/125/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 125 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 125 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

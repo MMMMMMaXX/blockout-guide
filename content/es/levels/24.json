@@ -1,0 +1,98 @@
+{
+  "id": "es-level-24",
+  "locale": "es",
+  "levelNumber": 24,
+  "title": "Guía de Block Out Nivel 24",
+  "summary": "El nivel 24 de Block Out es un tablero de doble jefe con corredor compartido y dos paneles enmarcados `12`. Adelgaza primero la escalera de pilares derecha, abre en segundo lugar el eje central y deja caer el jefe superior antes de que siga el inferior.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "El nivel 24 de Block Out es un tablero de doble jefe con corredor compartido y dos paneles enmarcados `12`. Adelgaza primero la escalera de pilares derecha, abre en segundo lugar el eje central y deja caer el jefe superior antes de que siga el inferior.",
+        "landmarks": [
+          "El nivel 24 de Block Out es un tablero de doble jefe con corredor compartido y dos paneles enmarcados `12`.",
+          "Adelgaza primero la escalera de pilares derecha, abre en segundo lugar el eje central y deja caer el jefe superior antes de que siga el inferior.",
+          "El tablero combina morado, rojo, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abre el eje antes de mover los jefes.",
+        "El `12` superior va antes que el `12` inferior.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Adelgaza la escalera derecha de bloques negro, rojo y blanco antes de tocar cualquier jefe enmarcado."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Abre el eje central cerca del panel `12` superior para que los dos jefes dejen de compartir un corredor sellado."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Baja el panel `12` superior una vez que el borde derecho ya no esté saturado."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Usa el eje liberado para empezar a soltar el panel `12` inferior después."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Guarda la salida roja superior para la limpieza tardía una vez abierto el eje."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Drena los contadores laterales y las pequeñas piezas de color restantes a medida que cae el segundo jefe."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con los últimos restos de la columna derecha después de que ambos paneles `12` estén casi desaparecidos."
+        }
+      ],
+      "failurePoints": [
+        "Intentar mover un jefe mientras el eje compartido sigue bloqueado.",
+        "Usar la salida roja superior antes de que el corredor derecho haya adelgazado lo suficiente."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 24",
+    "description": "Resuelve el nivel 24 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

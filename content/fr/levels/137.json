@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-137",
+  "locale": "fr",
+  "levelNumber": 137,
+  "title": "Guide Block Out Niveau 137",
+  "summary": "Block Out Niveau 137 ancres trois fixed pièces — orange-bordered `6`, violet `8` clé, et cyan `10` crochet — sur en forme de L plateau, alors fills restant espace avec cyan `5` tuiles. Une fois le haut rangée rouge dégage, those tuiles sont ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/137/",
+        "layout": "Block Out Niveau 137 ancres trois fixed pièces — orange-bordered `6`, violet `8` clé, et cyan `10` crochet — sur en forme de L plateau, alors fills restant espace avec cyan `5` tuiles. Une fois le haut rangée rouge dégage, those tuiles sont seulement movable compteurs, et plateau becomes pure routing énigme: passez chaque one past fixed ancres à sortie sans jamming L's étroit coin.",
+        "landmarks": [
+          "Block Out Niveau 137 ancres trois fixed pièces — orange-bordered `6`, violet `8` clé, et cyan `10` crochet — sur en forme de L plateau, alors fills restant espace avec cyan `5` tuiles.",
+          "Une fois le haut rangée rouge dégage, those tuiles sont seulement movable compteurs, et plateau becomes pure routing énigme: passez chaque one past fixed ancres à sortie sans jamming L's étroit coin.",
+          "Le plateau mélange violet, cyan et orange et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "cyan", "orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ymCjrSF_byY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ymCjrSF_byY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez cyan 10 crochet seulement après 6 tuile pops — doing il premier sceaux la droite-côté 5 voie.",
+        "Économisez vert 4 gauche colonne jusqu'à all trois droite-côté cyan 5 blocs sont exposed.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pop le haut-gauche violet 8 tuile et orange-bordered 6 bloc sans splitting cyan 10 crochet sur la droite."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez rainbow stack de vert gauche barre vers le bas, keeping le plus bas cyan 10 paire sealed sur la droite flank."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez cyan 10 crochet une fois stack tombent à deux rangées, feeding pièces dans le bas-droite coin."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Glissez le haut cyan 3 barre leftward après les deux 10 tuiles dégagez, exposing la droite-côté cyan 5 amas."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez trois cyan 5 blocs sur la droite flank à travers vert 4 gauche colonne."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez restant rouge et violet scraps bas le bas-gauche orange arrow pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Breaking cyan 10 crochet avant 6 tuile pops, permanently sealing la droite-côté 5 voie.",
+        "Sliding vert 4 colonne avant la droite cyan 5 amas dégage, stranding rouge base scraps."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/137/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 137",
+    "description": "Résolvez le niveau 137 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

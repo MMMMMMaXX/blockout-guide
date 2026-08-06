@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-24",
+  "locale": "ko",
+  "levelNumber": 24,
+  "title": "블록 아웃 레벨 24 공략",
+  "summary": "블록 아웃 레벨 24는 프레임된 `12` 패널 두 개가 있는 공유 복도 이중 보스 보드입니다. 먼저 오른쪽 기둥 사다리를 가늘게 하고, 두 번째로 가운데 샤프트를 열며, 위쪽 보스가 아래쪽보다 먼저 떨어지게 하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "블록 아웃 레벨 24는 프레임된 `12` 패널 두 개가 있는 공유 복도 이중 보스 보드입니다. 먼저 오른쪽 기둥 사다리를 가늘게 하고, 두 번째로 중앙 샤프트를 열며, 위쪽 보스가 아래쪽보다 먼저 떨어지게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 24는 프레임된 `12` 패널 두 개가 있는 공유 복도 이중 보스 보드입니다.",
+          "먼저 오른쪽 기둥 사다리를 가늘게 하고, 두 번째로 중앙 샤프트를 열며, 위쪽 보스가 아래쪽보다 먼저 떨어지게 하세요.",
+          "보드는 보라색, 빨간색, 흰색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "보스를 움직이기 전에 샤프트를 여세요.",
+        "위쪽 `12`가 아래쪽 `12`보다 먼저 갑니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "프레임된 보스에 손대기 전에 검은색, 빨간색, 흰색 블록으로 된 오른쪽 사다리를 가늘게 하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "두 보스가 밀폐된 복도를 공유하는 것을 멈추게 하려면 위쪽 `12` 패널 근처의 가운데 샤프트를 여세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "오른쪽 가장자리가 더 이상 붐비지 않으면 위쪽 `12` 패널을 내리세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "확보한 샤프트를 이용해 이후 아래쪽 `12` 패널을 떨어뜨리기 시작하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "샤프트가 열린 뒤 늦은 정리를 위해 위쪽 빨간색 게이트를 남겨두세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "두 번째 보스가 떨어지는 동안 남은 측면 카운터와 작은 색상 조각을 비우세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "두 `12` 패널이 거의 사라진 뒤 마지막 오른쪽 열 찌꺼기로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "공유 샤프트가 여전히 막힌 상태에서 한 보스를 움직이려는 것.",
+        "오른쪽 복도가 충분히 가늘어지기 전에 위쪽 빨간색 게이트를 쓰는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 24 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 24을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

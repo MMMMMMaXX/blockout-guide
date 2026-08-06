@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-61",
+  "locale": "pt-br",
+  "levelNumber": 61,
+  "title": "Guia do nível 61 do Block Out",
+  "summary": "Block Out Nível 61 preenche 6×8 grade com direcional seta blocos — verde esquerda-setas em esquerda, vermelho direita-setas em direita, azul esquerda-setas em superior, verde baixo-setas em inferior, e laranja/vermelho cima-baixo blocos em meio. Ever...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/61/",
+        "layout": "Block Out Nível 61 preenche 6×8 grade com direcional seta blocos — verde esquerda-setas em esquerda, vermelho direita-setas em direita, azul esquerda-setas em superior, verde baixo-setas em inferior, e laranja/vermelho cima-baixo blocos em meio. Cada bloco pode único deslize em seu seta direção. Limpar superior e inferior fileiras primeiro, então funciona meio colunas verticalmente.",
+        "landmarks": [
+          "Block Out Nível 61 preenche 6×8 grade com direcional seta blocos — verde esquerda-setas em esquerda, vermelho direita-setas em direita, azul esquerda-setas em superior, verde baixo-setas em inferior, e laranja/vermelho cima-baixo blocos em meio.",
+          "Cada bloco pode único deslize em seu seta direção.",
+          "Limpar superior e inferior fileiras primeiro, então funciona meio colunas verticalmente."
+        ],
+        "colors": ["green", "red", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "kfVQ2SZQEL4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=kfVQ2SZQEL4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Setas são constraints — bloco com esquerda seta pode Único deslize esquerda. Planeje ao redor este.",
+        "Limpar superior e inferior fileiras primeiro para dê meio blocos espaço para deslize verticalmente.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior azul blocos com esquerda setas através esquerda saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar inferior verde blocos com baixo setas através inferior saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece deslizando meio laranja/vermelho blocos verticalmente — cima-seta blocos go cima, baixo-seta blocos go baixo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar esquerda verde blocos com esquerda setas através esquerda saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar direita vermelho blocos com direita setas através direita saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante meio blocos que precisa vertical deslizando."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para deslize bloco em direção seu seta does não point — seta é difícil constraint, não suggestion.",
+        "Limpando meio blocos antes que superior e inferior fileiras são abra, que prende superior e inferior blocos com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/61/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 61 do Block Out",
+    "description": "Resolva o nível 61 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-29",
+  "locale": "ja",
+  "levelNumber": 29,
+  "title": "ブロックアウト レベル29 攻略",
+  "summary": "ブロックアウト レベル29は、双ボスの背骨盤面です。まず中央の赤・黒・白のはしごを剥ぎ、次に側面のボス列を下げ、それからでのみ遅れて現れる赤・黄・青・緑の迷路ピースを回転させます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "ブロックアウト レベル29は、双ボスの背骨盤面です。まず中央の赤・黒・白のはしごを剥ぎ、次に側面のボス列を下げ、それからでのみ遅れて現れる赤・黄・青・緑の迷路ピースを回転させます。",
+        "landmarks": [
+          "ブロックアウト レベル 29 -ボス 背骨 .。",
+          "を取り除きて中央の赤-黒-白 はしご、を下げて側 ボス、を回転させて赤、黄、青、緑 迷路 .。",
+          "混ぜる 赤、黒、白、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": ["中央 背骨 .。", "迷路、始め 開始.。", "を考えて. 手順 上 手順、揃える.。"],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を取り除きて中央の赤-黒-白 背骨、側 ボス 始める .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を維持して側 配置し カウンター .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を下げて左に、右 ボス、中央レーン .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "ボス 開く、を回転させて赤、黄、青、緑 迷路 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を維持して上部のカウンター 中央 壁.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて緑 止める 側 レーン .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "迷路を終えて、側 ボス 崩し.。"
+        }
+      ],
+      "failurePoints": ["側 ボス、中央 背骨 開き.。", "を無視して迷路、側 始める 落ちる.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル29 攻略と解説",
+    "description": "ブロックアウト レベル29 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

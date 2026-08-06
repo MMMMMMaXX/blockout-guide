@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-122",
+  "locale": "pt-br",
+  "levelNumber": 122,
+  "title": "Guia do nível 122 do Block Out",
+  "summary": "Block Out Nível 122 é head-shaped tabuleiro — largo em coroa, estreito em caule — com `60` coroa saídas e bolso objetivos scattered através face. rosa `29` coroa par em inferior centro e lateral contador peças são real...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "Block Out Nível 122 é head-shaped tabuleiro — largo em coroa, estreito em caule — com `60` coroa saídas e bolso objetivos scattered através face. rosa `29` coroa par em inferior centro e lateral contador peças são real escoando objetivos. inferior caule é so estreito que um misplaced vertical peça de superior face pode vede único saída pista.",
+        "landmarks": [
+          "Block Out Nível 122 é head-shaped tabuleiro — largo em coroa, estreito em caule — com `60` coroa saídas e bolso objetivos scattered através face.",
+          "Rosa `29` coroa par em inferior centro e lateral contador peças são real escoando objetivos.",
+          "Inferior caule é so estreito que um misplaced vertical peça de superior face pode vede único saída pista."
+        ],
+        "colors": ["red", "blue", "cyan", "orange", "green", "pink", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre verde coroa `60` antes que vermelho coroa `60` para mantenha base aglomerado abra.",
+        "Limpar ambos ciano `10` contadores antes que detonating rosa `29` coroa par.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior vermelho fileira e superior-esquerda ciano blocos sem tocando inferior coroa `60` lacuna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar lateral `17` contador bolsos em ambos ears em alternating passa para mantenha moldura balanced."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre verde coroa `60` peça primeiro, então vermelho coroa `60` peça acima amarelo/rosa/azul base."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Gaste ciano `8` peça e ambos ciano `10` lateral contadores antes que superior body re-selos."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Detonate rosa `29` coroa par em inferior centro uma vez inferior `11` contadores são indo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar isolated rosa vertical bloco e inferior ciano `4` par através estreito caule para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Quebrando vermelho coroa `60` antes que verde coroa `60` — este caixas amarelo/rosa/azul base aglomerado.",
+        "Detonating rosa `29` par antes que ciano `10` peças limpar, prendendo isolated rosa bloco em caule."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 122 do Block Out",
+    "description": "Resolva o nível 122 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

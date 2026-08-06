@@ -1,0 +1,93 @@
+{
+  "id": "es-level-88",
+  "locale": "es",
+  "levelNumber": 88,
+  "title": "Guía de Block Out Nivel 88",
+  "summary": "Block Out nivel 88 es un tablero hourglass con un centro azul spine, a rojo zigzag hanging bajo lo, y matched morado lock pods en both lado paredes. Empieza en the superior-derecho stack, despejado el lado locks siguiente, y solo luego drop the naranja b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out nivel 88 es un tablero hourglass con un centro azul spine, a rojo zigzag hanging bajo lo, y matched morado lock pods en both lado paredes. Empieza en the superior-derecho stack, despejado el lado locks siguiente, y solo luego drop the naranja beam y centro spine por the throat en the inferior basin.",
+        "landmarks": [
+          "Block Out nivel 88 es un tablero hourglass con un centro azul spine, a rojo zigzag hanging bajo lo, y matched morado lock pods en both lado paredes.",
+          "Empieza en the superior-derecho stack, despejado el lado locks siguiente, y solo luego drop the naranja beam y centro spine por the throat en the inferior basin.",
+          "El tablero mixes verde, rojo, naranja y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do no start desde the inferior basin. Este tablero opens desde the neck downward.",
+        "Si one lock pod es todavía en la pared, the azul spine es no ready a drop.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Trim the superior-derecho stack primero así la pared derecho opens y su outer count starts dropping."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Usa ese new room a release the derecho morado lock pod, luego despejado the matching lock pod en la pared izquierdo."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Desliza the largo naranja beam a través the throat solo después el centro azul spine has one libre lado."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Suelta the azul spine y the rojo zigzag por the neck en the inferior basin."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Elimina the inferior-izquierdo naranja runway y the opposite naranja tray once el centro piezas son fuera de the way."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the último morado elbow plus the superior-izquierdo verde-y-amarillo piezas por el lado opened carriles."
+        }
+      ],
+      "failurePoints": [
+        "Starting en the inferior naranja trays antes the superior-derecho stack y both lado locks have opened the neck.",
+        "Mueve the naranja beam mientras el centro azul spine es todavía pinned en both lados."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 88",
+    "description": "Resuelve Block Out nivel 88 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

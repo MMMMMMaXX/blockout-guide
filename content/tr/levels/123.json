@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-123",
+  "locale": "tr",
+  "levelNumber": 123,
+  "title": "Block Out Seviye 123 Rehberi",
+  "summary": "Block Out Seviye 123 wraps perimeter çerçeve merkezi mor tubedan, ile çekiç-tool engeller guarding numaralı cep sayaçlar. perimeter karolar meli boşalt önce tube accepts input — ve yeşil `3` karo highlighted...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/123/",
+        "layout": "Block Out Seviye 123 wraps perimeter çerçeve merkezi mor tubedan, ile çekiç-tool engeller guarding numaralı cep sayaçlar. perimeter karolar meli boşalt önce tube accepts input — ve yeşil `3` karo highlighted ile sarı çizgi gating parça. temizle üst-sol pembe cep ilk, sonra çalış çekiç tools inward açık tubea.",
+        "landmarks": [
+          "Block Out Seviye 123 wraps perimeter çerçeve merkezi mor tubedan, ile çekiç-tool engeller guarding numaralı cep sayaçlar.",
+          "Perimeter karolar meli boşalt önce tube accepts input — ve yeşil `3` karo highlighted ile sarı çizgi gating parça.",
+          "Temizle üst-sol pembe cep ilk, sonra çalış çekiç tools inward açık tubea."
+        ],
+        "colors": ["pink", "green", "orange", "blue", "purple", "white", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hMB1I2XGFso",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hMB1I2XGFso",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır turuncu çekiç-tool çift önce besleyerek any mavi karo merkezi tubea.",
+        "Tut alt pembe sıra park edildi kadar üst perimeter fully ince.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst-sol pembe `4` küme ve yeşil `5` karo olmadan dokunarak merkezi turuncu `3`."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır ikiz turuncu çekiç-tool bloklar üstde-sağ önce besleyerek any sağ-duvar mavi karolar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Boşalt sol-duvar mavi `5` sütun ve beyaz `1` köşe karo açık sol tubea entrance."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle alt pembe sıra ve yeşil/turuncu alt çift sonra üst perimeter ince."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yönlendir yeşil `3` karo merkezi mor tubedan kullanarak sarı dikey şerit marker."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir sağ-duvar mavi `4`/`2` çift ve kalan mavi artıklar için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Besleyerek mavi karolar tubea önce çekiç-tool bloklar kır — bu pins yeşil `3` içeri.",
+        "Temizleyerek alt pembe sıra önce üst perimeter thins, mühürleyerek tube koridor."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/123/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 123 Rehberi ve Çözümü",
+    "description": "Block Out seviye 123'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-51",
+  "locale": "tr",
+  "levelNumber": 51,
+  "title": "Block Out Seviye 51 Rehberi",
+  "summary": "Block Out Seviye 51 inşa edildi ikiden istiflendi kırmızı çubuklar solda ve dar parking lot daha düşük-sağ. açık sağ-yan dikey yuva ilk, sonra kullan ki serbest bırakıldı şerit döndür camgöbeği çubuk, sarı trays, ve sonunda kırmızı...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "Block Out Seviye 51 inşa edildi ikiden istiflendi kırmızı çubuklar solda ve dar parking lot daha düşük-sağ. açık sağ-yan dikey yuva ilk, sonra kullan ki serbest bırakıldı şerit döndür camgöbeği çubuk, sarı trays, ve sonunda kırmızı çubuklar olmadan tuzağa düşürerek mor sütunlar.",
+        "landmarks": [
+          "Block Out Seviye 51 inşa edildi ikiden istiflendi kırmızı çubuklar solda ve dar parking lot daha düşük-sağ.",
+          "Açık sağ-yan dikey yuva ilk, sonra kullan ki serbest bırakıldı şerit döndür camgöbeği çubuk, sarı trays, ve sonunda kırmızı çubuklar olmadan tuzağa düşürerek mor sütunlar.",
+          "Tahta kırmızı, yeşil, mavi ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Eğer sağ-yan mavi direk hâlâ pinned duvara, sol istifler değil hazır henüz.",
+        "Tut mor sütunlar için geç temizlik böylece sağ yuva kalır organized sırasında kırmızı çubuklar döndür.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Açık daha düşük-sağ parking lot ile kaydırarak uzun kırmızı direk ve mavi direk sağ duvarda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan ki yeni yuva shortena camgöbeği merkez çubuk ve bırak daha düşük-sol yeşil sök breathe."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla temizleyerek istiflendi kırmızı çubuklar sol sadece sonrada sağ-yan yuva ebilir accept returning parçalar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle sarı trays orta sonradan ilk kırmızı çubuk hareket ettirildi ve camgöbeği şerit daha kısa."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak iki mor sütunlar için geç temizlik böylece onlar tut sağ yan organized sırasında sol istifler rotates."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son sarı tepşi ve mavi sağ-duvar parça sonra merkez şerit boş."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek çöze her ikisi de sol-yan kırmızı çubuklar önce sağ-yan parking lot açık.",
+        "Kullanarak mor sütunlar çok erken ve losing yuva ki camgöbeği çubuk ve sarı trays hâlâ gerektir."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 51 Rehberi ve Çözümü",
+    "description": "Block Out seviye 51'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

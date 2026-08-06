@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-41",
+  "locale": "pt-br",
+  "levelNumber": 41,
+  "title": "Guia do nível 41 do Block Out",
+  "summary": "Block Out Nível 41 tem `5` chefe quadrado comporta por dois `2`-contador dispositivos em superior cantos. Service ambos dispositivos primeiro para desbloqueie azul U-shaped blocos acima chefe, então deixe chefe solte uma vez circundante espaço é largo enoug...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/41/",
+        "layout": "Block Out Nível 41 tem `5` chefe quadrado comporta por dois `2`-contador dispositivos em superior cantos. Service ambos dispositivos primeiro para desbloqueie azul U-shaped blocos acima chefe, então deixe chefe solte uma vez circundante espaço é largo suficiente. Depois chefe limpa ao redor 01:30, grande colorful massa de azul, amarelo, verde, vermelho, e roxo blocos preenche tabuleiro para third ordenando fase.",
+        "landmarks": [
+          "Block Out Nível 41 tem `5` chefe quadrado comporta por dois `2`-contador dispositivos em superior cantos.",
+          "Service ambos dispositivos primeiro para desbloqueie azul U-shaped blocos acima chefe, então deixe chefe solte uma vez circundante espaço é largo suficiente.",
+          "Depois chefe limpa ao redor 01:30, grande colorful massa de azul, amarelo, verde, vermelho, e roxo blocos preenche tabuleiro para third ordenando fase."
+        ],
+        "colors": ["blue", "red", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q9Brph8V6fo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q9Brph8V6fo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dois `2` dispositivos em superior cantos são saída — se eles são não em zero, chefe é trancado.",
+        "Expect third fase: depois chefe limpa, colorful massa aparece e precisa ordenando.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Service esquerda `2` dispositivo por routing adjacente blocos através seu saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Service direita `2` dispositivo próximo."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque azul U-shaped blocos para cima uma vez ambos dispositivos são em zero."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Fino vermelho e verde blocos ao redor chefe como seu contador solta de `5`."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe chefe quadrado limpar uma vez circundante espaço é largo suficiente (ao redor 01:30)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Ordene revelado azul, amarelo, verde, vermelho, e roxo blocos através saídas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último cor limpeza depois tabuleiro é principalmente vazio."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para reduza `5` chefe enquanto `2` dispositivos são ainda active — superior espaço permanece trancado e chefe barely movimentos.",
+        "Não preparing saída pistas para cor massa que aparece depois chefe limpa, que entrava newly aberto espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/41/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 41 do Block Out",
+    "description": "Resolva o nível 41 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

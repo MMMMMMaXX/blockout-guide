@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-82",
+  "locale": "ja",
+  "levelNumber": 82,
+  "title": "ブロックアウト レベル82 攻略",
+  "summary": "ブロックアウト レベル82は、カウンター「1」から「11」の番号付きブロックと、取り出し順を制御する鍵付きブロックで盤面を埋めています。ほぼすべてのブロックにカウンターがあります。まず最も小さいカウンター（1・2・3）を消去して通路を開け…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "ブロックアウト レベル82は、カウンター「1」から「11」の番号付きブロックと、取り出し順を制御する鍵付きブロックで盤面を埋めています。ほぼすべてのブロックにカウンターがあります。まず最も小さいカウンター（1・2・3）を消去して通路を開け、次に中くらいのカウンター（4・5）を進め、最後に重いブロック（左側のカウンター「9」と「11」）を、盤面に最もスペースがあるときに取っておきます。",
+        "landmarks": [
+          "ブロックアウト レベル 82 カウンター '1' '11'、ロックする- -鍵 出口 順序.。",
+          "ブロック カウンター.。",
+          "を消去してカウンター (1、2、3) 開く レーン、を進めてカウンター (4、5)、取っておく (カウンター '9'、'11' 左 側) .。"
+        ],
+        "colors": ["green", "cyan", "purple", "yellow", "pink", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "消去する -カウンター — レーン .。",
+        "を揃えてロックする- -鍵 解放する .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "黄ブロックを消去して(カウンター '1') 中央 開く 中央の.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "カウンターを取り出して'2' ブロック 下 下部の出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "緑ブロックを進めて(カウンター '3') 中央-右 右 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去してロックする 揃い 解放する .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "紫ブロックを通して(カウンター '4')、緑 ブロック (カウンター '5') 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して(カウンター '9'、'11') 左 レーン .。"
+        }
+      ],
+      "failurePoints": [
+        "通す -カウンター ブロック、開き レーン — 詰まり .。",
+        "を無視してロックする- -鍵 順序、を残して.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル82 攻略と解説",
+    "description": "ブロックアウト レベル82 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-40",
+  "locale": "ko",
+  "levelNumber": 40,
+  "title": "블록 아웃 레벨 40 공략",
+  "summary": "블록 아웃 레벨 40은 이미 카운터 `0`인 보스 프레임을 가집니다 — 줄일 필요 없이, 그냥 밑에 있는 블록 선반만 제거하면 됩니다. 프레임 아래 빽빡하게 찬 파란색, 빨간색, 녹색, 노란색 블록이 그 선반을 이루고, 해법은 올바른 블록을 움직여 받침을 부수는 것입니다. 선반이 가면 프레임이 즉시 사라지고 남은 블록이 측면 출구로 풀립니다.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "블록 아웃 레벨 40은 이미 카운터 `0`인 보스 프레임을 가집니다 — 줄일 필요 없이, 그냥 밑에 있는 블록 선반만 제거하면 됩니다. 프레임 아래 빽빡하게 찬 파란색, 빨간색, 녹색, 노란색 블록이 그 선반을 이루고, 해법은 올바른 블록을 움직여 받침을 부수는 것입니다. 선반이 가면 프레임이 즉시 사라지고 남은 블록이 측면 출구로 풀립니다.",
+        "landmarks": [
+          "블록 아웃 레벨 40은 이미 카운터 `0`인 보스 프레임을 가집니다 — 줄일 필요 없이, 그냥 밑에 있는 블록 선반만 제거하면 됩니다.",
+          "프레임 아래 빽빡하게 찬 파란색, 빨간색, 녹색, 노란색 블록이 그 선반을 이루고, 해법은 올바른 블록을 움직여 받침을 부수는 것입니다.",
+          "선반이 가면 프레임이 즉시 사라지고 남은 블록이 측면 출구로 풀립니다."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "보스는 `0`을 가리킵니다 — 줄이려고 수를 낭비하지 마세요. 그냥 밑의 선반을 제거하세요.",
+        "아래쪽 행을 잘못된 순서로 치울 때 블록이 위로 미끄러져 선반을 재건하는 것을 지켜보세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "첫 개구부를 만들려면 왼쪽 가장자리의 작은 `2` 카운터 블록을 치우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "보스 프레임 바로 아래의 파란색 블록을 밀어내어 선반을 약화시키기 시작하세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "가운데 빨간색 블록을 밀어 `0` 카운터 프레임 아래의 마지막 지지점을 부수세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "선반이 사라지면 보스 프레임이 즉시 사라지는 것을 지켜보세요(01:24에 보임)."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "새로 열린 위쪽 공간을 이용해 남은 색상 블록을 정렬하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "빨간색과 녹색 블록을 측면 출구로 밀어내세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "방이 평평해진 뒤 노란색과 파란색 정리로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "보스를 표준 카운터 퍼즐처럼 다루는 것 — `0`은 줄일 필요가 없고 선반을 부수는 것만 필요함을 뜻합니다.",
+        "잘못된 아래쪽 블록을 먼저 움직이는 것, 그러면 남은 조각이 위로 미끄러져 보스 프레임 아래에 선반을 재건합니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 40 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 40을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

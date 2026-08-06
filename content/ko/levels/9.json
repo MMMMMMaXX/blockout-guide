@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-9",
+  "locale": "ko",
+  "levelNumber": 9,
+  "title": "블록 아웃 레벨 9 공략",
+  "summary": "블록 아웃 레벨 9는 가운데가 비좁은 쌍둥이 탑 퍼즐입니다. 먼저 오른쪽 노란색 출구를 비우고, 파란색에 가운데 공간을 주고 나서, 녹색·분홍색·빨간색을 프레임을 따라 시계 방향으로 회전시키세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "블록 아웃 레벨 9는 가운데가 비좁은 쌍둥이 탑 퍼즐입니다. 먼저 오른쪽 노란색 출구를 비우고, 파란색에 가운데 공간을 주고 나서, 녹색·분홍색·빨간색을 프레임을 따라 시계 방향으로 회전시키세요.",
+        "landmarks": [
+          "블록 아웃 레벨 9는 가운데가 비좁은 쌍둥이 탑 퍼즐입니다.",
+          "먼저 오른쪽 노란색 출구를 치우고, 파란색에 중앙 빈 공간을 할당한 다음, 녹색, 분홍색, 빨간색을 프레임 주위로 시계방향 회전시키세요.",
+          "보드는 분홍색, 빨간색, 노란색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "오른쪽 노란색 출구를 이용해 대칭을 깨세요.",
+        "가운데 파란색 블록은 홈이 열리자마자 움직여야 합니다.",
+        "보드가 막힌 듯하면 가장 깨끗한 경로를 가진 색상을 찾아 공간을 확보하세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "가운데 오른쪽 노란색 블록을 오른쪽 벽의 노란색 출구로 밀어내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "가운데 파란색 블록을 새로 생긴 틈으로 옮겨 가운데 홈이 더 이상 막히지 않게 하세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "아래쪽 오른쪽 녹색 블록을 아래로 회전시킨 다음, 아래쪽 왼쪽 파란색 블록을 자기 차선으로 당기세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "비워진 가운데를 이용해 가장자리 카운터가 줄어드는 동안 분홍색 블록들을 맨 위와 가운데 행을 가로질러 섞으세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "녹색과 파란색이 더 이상 가로지르지 않으면 아래쪽 빨간색 블록이 가운데 자리 잡게 하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "위쪽 차선이 비워질 때까지 두 개의 위쪽 모서리 빨간색 블록을 남겨두세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "빨간색 한 쌍을 위쪽 출구로 보내고, 마지막 파란색 블록이 마지막 파란색 마감을 통해 빠지게 하여 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "오른쪽 노란색 출구가 이미 열린 뒤에도 가운데 파란색 블록을 주차해 두는 것.",
+        "아래쪽 녹색과 파란색 조각이 회전하기 전에 위쪽 빨간색 블록 중 하나를 강제로 밀려는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 9 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 9을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

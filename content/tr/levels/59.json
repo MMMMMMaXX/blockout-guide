@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-59",
+  "locale": "tr",
+  "levelNumber": 59,
+  "title": "Block Out Seviye 59 Rehberi",
+  "summary": "Block Out Seviye 59 starts double-oda tahta ama finishes kilitlen bulmaca. açık büyük merkezi `4` oda ilk, ince daha düşük-sol `10` alan saniye, ve sonra kullan serbest bırakıldı orta kır zincir sütun önce sen çöz ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/59/",
+        "layout": "Block Out Seviye 59 starts double-oda tahta ama finishes kilitlen bulmaca. açık büyük merkezi `4` oda ilk, ince daha düşük-sol `10` alan saniye, ve sonra kullan serbest bırakıldı orta kır zincir sütun önce sen çöz büyük pembe blok sağda.",
+        "landmarks": [
+          "Block Out Seviye 59 starts double-oda tahta ama finishes kilitlen bulmaca.",
+          "Açık büyük merkezi `4` oda ilk, ince daha düşük-sol `10` alan saniye, ve sonra kullan serbest bırakıldı orta kır zincir sütun önce sen çöz büyük pembe blok sağda.",
+          "Tahta mor, mavi, turuncu ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9gh_W3CS4Yg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9gh_W3CS4Yg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chained merkez omurga gerçek geç-game kapı, değil büyük pembe blok.",
+        "Açık merkezi `4` alan önce sen harca serious effort daha düşük-sol `10` oda.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Boşalt büyük merkezi mor oda marked `4` önce sen overwork daha düşük-sol `10` alan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Trim üst raf sırasında ki oda küçülerek böylece orta şerit değil boxed ile yanda duvarlar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla azaltarak daha düşük-sol `10` oda sadece sonra merkez `4` alan zaten açıldı some zemin alan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Ne zaman chained asma kilit sütun appears, temizle ki merkez omurga önce hareket ettirerek büyük pembe blok sağda."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan kilidi açıldı orta kaydır pembe blok ve yakındaki kırmızı parçalar daha düşük çıkışlara."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile alt sarı küme ve son küçük yan parçalar sonra zincir şerit boş."
+        }
+      ],
+      "failurePoints": [
+        "Treating daha düşük-sol `10` oda like opener sırasında merkezi `4` alan hâlâ doldurarak tahta.",
+        "Deneyerek hareket ettir büyük pembe blok önce chained merkez sütun been temizlendi."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/59/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 59 Rehberi ve Çözümü",
+    "description": "Block Out seviye 59'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

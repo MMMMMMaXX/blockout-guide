@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-67",
+  "locale": "pt-br",
+  "levelNumber": 67,
+  "title": "Guia do nível 67 do Block Out",
+  "summary": "Block Out Nível 67 divide tabuleiro em superior e inferior metades conectado por labirinto canais, com emoldurado keystone bloco (contador '1') sentado em centro junção. superior metade segura mix de verde, roxo, amarelo, azul, e vermelho blo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "Block Out Nível 67 divide tabuleiro em superior e inferior metades conectado por labirinto canais, com emoldurado keystone bloco (contador '1') sentado em centro junção. superior metade segura mix de verde, roxo, amarelo, azul, e vermelho blocos. inferior metade tem três alto ciano blocos com contadores '8', '3', e '3'. Remova keystone primeiro para conecte ambos metades através labirinto, então limpar superior colorido blocos, e finalmente alimente alto ciano blocos através canais para inferior saídas.",
+        "landmarks": [
+          "Block Out Nível 67 divide tabuleiro em superior e inferior metades conectado por labirinto canais, com emoldurado keystone bloco (contador '1') sentado em centro junção.",
+          "Superior metade segura mix de verde, roxo, amarelo, azul, e vermelho blocos.",
+          "Inferior metade tem três alto ciano blocos com contadores '8', '3', e '3'.",
+          "Remova keystone primeiro para conecte ambos metades através labirinto, então limpar superior colorido blocos, e finalmente alimente alto ciano blocos através canais para inferior saídas."
+        ],
+        "colors": ["green", "purple", "yellow", "blue", "red", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keystone bloco com contador '1' é cheapest mova em tabuleiro — sempre limpar ele primeiro.",
+        "Limpar tudo superior colorido blocos antes que routing alto ciano blocos através canais.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar emoldurado keystone bloco (contador '1') em centro — ele connects dois metades."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia verde bloco de superior-esquerda através esquerda saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Puxe azul e vermelho blocos em superior através seus saídas."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deslize roxo/magenta block out uma vez adjacente espaço abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Roteie primeiro alto ciano bloco (contador '8') através labirinto canais para inferior saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente restante dois ciano blocos (contador '3' cada) através canais."
+        }
+      ],
+      "failurePoints": [
+        "Ignorando keystone bloco e tentando para mova superior blocos primeiro — metades permaneça isolated.",
+        "Routing alto ciano bloco antes que superior seção é limpar, que blocos canais para everything else."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 67 do Block Out",
+    "description": "Resolva o nível 67 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

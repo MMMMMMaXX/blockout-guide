@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-94",
+  "locale": "fr",
+  "levelNumber": 94,
+  "title": "Guide Block Out Niveau 94",
+  "summary": "Block Out Niveau 94 est four-chambre cascade: `14` et `18` sur haut, horizontal `6` barre à travers le milieu, et tucked-loin `3` poche dans inférieur droit. Ouvrez abaissez clutter premier, encaissez `3` et `6` chambres second, et seulement th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "Block Out Niveau 94 est four-chambre cascade: `14` et `18` sur haut, horizontal `6` barre à travers le milieu, et tucked-loin `3` poche dans inférieur droit. Ouvrez abaissez clutter premier, encaissez `3` et `6` chambres second, et seulement alors settle dans long `14` et `18` feeds.",
+        "landmarks": [
+          "Block Out Niveau 94 est four-chambre cascade: `14` et `18` sur haut, horizontal `6` barre à travers le milieu, et tucked-loin `3` poche dans inférieur droit.",
+          "Ouvrez abaissez clutter premier, encaissez `3` et `6` chambres second, et seulement alors settle dans long `14` et `18` feeds.",
+          "Le plateau mélange violet, rouge et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Inférieur droit `3` poche est pas optional cleanup. Il est partie de opener.",
+        "Si `6` barre est toujours alive, `18` chambre est probably pas prêt yet.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez inférieur gauche clutter premier, especially verrou/clé pièces et rouge-piles vert autour le bas chambres."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Ouvrez et drainez inférieur droit `3` chambre donc la droite quart finally a rotation espace."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Reduce le milieu `6` chambre suivant, utilisant nouvellement opened abaissez voies à gardez croisez-voie dégagez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez feeding supérieur gauche `14` chambre une fois abaissez half est non longer sharing son voies."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Économisez supérieur droit `18` chambre pour longest tardif-game alimentez, quand le T cyan-shape et violet elbow sous ont déjà moved de côté."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier cyan et violet leftovers après `18` chambre collapses."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring inférieur droit `3` poche et pretending Niveau 94 seulement a trois chambres.",
+        "De départ `18` chambre pendant le milieu `6` barre est toujours competing pour même voie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 94",
+    "description": "Résolvez le niveau 94 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

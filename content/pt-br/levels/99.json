@@ -1,0 +1,102 @@
+{
+  "id": "pt-br-level-99",
+  "locale": "pt-br",
+  "levelNumber": 99,
+  "title": "Guia do nível 99 do Block Out",
+  "summary": "Block Out Nível 99 é Expert Nível — densest e longest quebra-cabeça em 50–100 range em 138 segundos. grande amarelo/laranja cruz-shaped bloco dominates centro, roxo/azul bloco preenche superior-esquerda canto, verde blocos empilhe...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "Block Out Nível 99 é Expert Nível — densest e longest quebra-cabeça em 50–100 range em 138 segundos. grande amarelo/laranja cruz-shaped bloco dominates centro, roxo/azul bloco preenche superior-esquerda canto, verde blocos empilhe verticalmente em direita, rosa/magenta blocos alinhe esquerda, e vermelho blocos preencha restante gaps. Cadeado/chave icons em em menos quatro blocos force specific limpando ordem. Extraia borda blocos primeiro, limpar verde e rosa masses para exponha cruz, então roteie ele para fora último.",
+        "landmarks": [
+          "Block Out Nível 99 é Expert Nível — densest e longest quebra-cabeça em 50–100 range em 138 segundos.",
+          "Grande amarelo/laranja cruz-shaped bloco dominates centro, roxo/azul bloco preenche superior-esquerda canto, verde blocos empilhe verticalmente em direita, rosa/magenta blocos alinhe esquerda, e vermelho blocos preencha restante gaps.",
+          "Cadeado/chave icons em em menos quatro blocos force specific limpando ordem.",
+          "Extraia borda blocos primeiro, limpar verde e rosa masses para exponha cruz, então roteie ele para fora último."
+        ],
+        "colors": ["red", "green", "blue", "orange", "pink", "yellow", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Este é 138-segundo marathon — planeje movimentos, do não rush ou force.",
+        "Limpar verde empilhe (direita) e rosa massa (esquerda) antes que anything else — eles exponha cruz bloco's lados.",
+        "'Super Lento' badge em ~01:48 significa você são atrás de pace — prioritize lados."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar smallest borda blocos primeiro: ciano (inferior-direita, para a direita), azul (superior-esquerda, para cima), rosa (esquerda lateral, leftward) — cada creates incremental espaço (02:19–02:09 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Comece limpando verde blocos empilhado em direita lateral através direita-parede saída porque eles exponha cruz bloco's direita braço (02:09–01:59)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar rosa/magenta blocos em esquerda lateral através esquerda-parede saída porque eles exponha cruz bloco's esquerda braço (01:59–01:48)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Desbloqueie chave blocos para abra trancado caminhos — cruz-shaped bloco's cadeado deve be unlocked antes que ele pode mova (01:48)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar grande roxo/azul canto bloco de superior-esquerda através superior ou esquerda saída porque ele frees cruz bloco's superior braço (01:38–01:27)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Extraia vermelho blocos de restante empacotado areas através nearest saídas (01:27–01:06)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Roteie amarelo/laranja cruz-shaped bloco através widest disponível saída caminho — ele precisa clearance em tudo quatro directions (01:06–00:56)."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Termine com último pequeno blocos depois cruz peça tem exited (00:46–00:25)."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova cruz-shaped bloco antes que limpando tudo quatro de seu braços — ele extends cima, baixo, esquerda, e direita, e não pode mova até cada direção é limpar.",
+        "Caindo atrás de pace e seeing 'Super Lento' badge — se verde e rosa masses são ainda present em 01:48, cruz bloco não pode saída em tempo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 99 do Block Out",
+    "description": "Resolva o nível 99 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

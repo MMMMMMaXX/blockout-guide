@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-78",
+  "locale": "zh-cn",
+  "levelNumber": 78,
+  "title": "Block Out 第78关攻略",
+  "summary": "Block Out 第78关将大号彩色方块塞进一个矩形棋盘，深色通道路径限制了移动。上半部分有大号绿色、蓝色和红色方块。下中心有一个黄/橙带框、计数「3」的方块，两侧是紫色方块。先清空上半部分……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "Block Out 第78关将大号彩色方块塞进一个矩形棋盘，深色通道路径限制了移动。上半部分有大号绿色、蓝色和红色方块。下中心有一个黄/橙带框、计数「3」的方块，两侧是紫色方块。先清空上半部分以打开通道路线，抽出两侧的紫色方块，再将带框方块从其出口送出三次。",
+        "landmarks": [
+          "Block Out 第78关将大号彩色方块塞进一个矩形棋盘，深色通道路径限制了移动。",
+          "上半部分有大号绿色、蓝色和红色方块。",
+          "下中心有一个黄/橙带框、计数「3」的方块，两侧是紫色方块。",
+          "先清空上半部分以打开通道路线，抽出两侧的紫色方块，再将带框方块从其出口送出三次。"
+        ],
+        "colors": ["green", "blue", "red", "cyan", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在试图输送计数「3」方块之前，先彻底清空上半部分。",
+        "通道路径强制特定路线——规划你的抽取，保持通道畅通。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左上角的绿色方块经顶部和左侧出口抽出。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将右上角的蓝色方块从右出口拉出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将中心的红色方块经腾出的上方路线移出。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "清空下中心两侧的紫色方块，为带框方块打开通道。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将黄/橙带框方块（计数「3」）从其出口送出三次。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理底部剩余的紫色方块。"
+        }
+      ],
+      "failurePoints": [
+        "在上半部分清空之前就试图输送计数「3」方块——通道会卡死。",
+        "在试图为带框方块规划路线时，仍让两侧的紫色方块留在原地。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第78关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第78关。"
+  },
+  "updatedAt": "2026-08-03"
+}

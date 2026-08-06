@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-67",
+  "locale": "tr",
+  "levelNumber": 67,
+  "title": "Block Out Seviye 67 Rehberi",
+  "summary": "Block Out Seviye 67 splits tahta üst ve daha düşük halves bağlı ile maze kanallar, ile çerçeveli keystone blok (sayaç '1') oturarak merkez kavşakda. üst yarı holds karıştır yeşil, mor, sarı, mavi, ve kırmızı blo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "Block Out Seviye 67 splits tahta üst ve daha düşük halves bağlı ile maze kanallar, ile çerçeveli keystone blok (sayaç '1') oturarak merkez kavşakda. üst yarı holds karıştır yeşil, mor, sarı, mavi, ve kırmızı bloklar. daha düşük yarı üç uzun camgöbeği bloklar ile sayaçlar '8', '3', ve '3'. kaldır keystone ilk bağla her ikisi de halves mazedan, sonra temizle üst renkli bloklar, ve sonunda besle uzun camgöbeği bloklar kanallardan alt çıkışlara.",
+        "landmarks": [
+          "Block Out Seviye 67 splits tahta üst ve daha düşük halves bağlı ile maze kanallar, ile çerçeveli keystone blok (sayaç '1') oturarak merkez kavşakda.",
+          "Üst yarı holds karıştır yeşil, mor, sarı, mavi, ve kırmızı bloklar.",
+          "Daha düşük yarı üç uzun camgöbeği bloklar ile sayaçlar '8', '3', ve '3'.",
+          "Kaldır keystone ilk bağla her ikisi de halves mazedan, sonra temizle üst renkli bloklar, ve sonunda besle uzun camgöbeği bloklar kanallardan alt çıkışlara."
+        ],
+        "colors": ["green", "purple", "yellow", "blue", "red", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keystone blok ile sayaç '1' cheapest hareket ettir tahtada — her zaman temizle o ilk.",
+        "Temizle tüm üst renkli bloklar önce yönlendirerek uzun camgöbeği bloklar kanallardan.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle çerçeveli keystone blok (sayaç '1') merkezde — o connects iki halves."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract yeşil blok üst-sol sol çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Çek mavi ve kırmızı bloklar üstde onların çıkışlardan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır mor/macenta blok dışarı sonra adjacent alan açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yönlendir ilk uzun camgöbeği blok (sayaç '8') mazedan kanallar alt çıkışa."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kalan iki camgöbeği bloklar (sayaç '3' her) kanallardan."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring keystone blok ve deneyerek hareket ettir üst bloklar ilk — halves kal isolated.",
+        "Yönlendirerek uzun camgöbeği blok önce üst bölüm temizle, hangi bloklar kanallar için everything else."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 67 Rehberi ve Çözümü",
+    "description": "Block Out seviye 67'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

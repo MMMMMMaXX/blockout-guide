@@ -1,0 +1,92 @@
+{
+  "id": "de-level-14",
+  "locale": "de",
+  "levelNumber": 14,
+  "title": "Block Out Level 14 Lösung",
+  "summary": "Öffnen weiß ladder und reduce oben Zähler bevor releasing large türkis centerpiece von sein surrounding frame.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "Large türkis Zähler Kachel fills Mitte von five-Farbe frame, mit weiß Bauteile concentrated über und zu rechts und gelb Spalten holding Seite lanes.",
+        "landmarks": [
+          "Mitte ist large türkis Quadrat marked 7.",
+          "Oben Zähler begins bei 17 über central frame.",
+          "Weiß pillars form ladder auf rechte Seite.",
+          "Gelb Spalten sitzen auf beide sides while schwarz Bauteile anchor untere corners."
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Arbeiten rechts-Seite weiß Bahn bevor spending unten gelb Ausgang.",
+        "Lassen türkis 7 in Platz bis frame hat geöffnet auf mehr als one Seite.",
+        "Judge jede räumen durch nächste Bahn es creates, nicht nur durch Block entfernt jetzt."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Loosen rechts edge",
+          "instruction": "Bewegen obere rechte weiß Bauteile in ihr available Ausgangs-Bahn also outer frame begins zu shrink."
+        },
+        {
+          "order": 2,
+          "title": "Reduce oben Zähler",
+          "instruction": "Continue räumend oben structure while keeping türkis 7 fixed in Mitte."
+        },
+        {
+          "order": 3,
+          "title": "Preserve Seite supports",
+          "instruction": "Verwenden gelb Seite Spalten zu behalten Platz available while untere schwarz Bauteile sind repositioned."
+        },
+        {
+          "order": 4,
+          "title": "Create vertikal Raum",
+          "instruction": "Nach rechts ladder ist thinner, bring weiß pillar runter zu öffnen erste vertikale Bahn neben centerpiece."
+        },
+        {
+          "order": 5,
+          "title": "Freigeben centerpiece",
+          "instruction": "Bewegen türkis 7 nur when frame ist öffnen auf bei least two sides, dann räumen remaining weiß und schwarz Bauteile."
+        },
+        {
+          "order": 6,
+          "title": "Verwenden gelb Ausgang letzte",
+          "instruction": "Beenden durch unten gelb Ausgang nach central Block und remaining frame Bauteile sind kein longer competing für Platz."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen türkis 7 while rechts ladder still verklemmt frame.",
+        "Räumend unten gelb Bahn too früh und removing spacing needed für mittlere phase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 14 Lösung und Anleitung",
+    "description": "Abgleichen türkis 7 Spielfeld, öffnen rechts ladder, reduce oben Zähler und folgen complete Block Out Level 14 Lösung."
+  },
+  "updatedAt": "2026-08-03"
+}

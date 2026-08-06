@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-110",
+  "locale": "pt-br",
+  "levelNumber": 110,
+  "title": "Guia do nível 110 do Block Out",
+  "summary": "Block Out Nível 110 hides único conectado vermelho poliminó em centro de alto roxo moldura — ele looks como três separar blocos, mas movimentos como um peça. superior `11` saída e esquerda-trilho `8` coluna vede laranja-bordered azul `3` poc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/110/",
+        "layout": "Block Out Nível 110 hides único conectado vermelho poliminó em centro de alto roxo moldura — ele looks como três separar blocos, mas movimentos como um peça. superior `11` saída e esquerda-trilho `8` coluna vede laranja-bordered azul `3` bolso abaixo, e denso `19` aglomerado preenche inferior. Divida vermelho forma também cedo e rosa L-peça em direita obtém permanentemente preso.",
+        "landmarks": [
+          "Block Out Nível 110 hides único conectado vermelho poliminó em centro de alto roxo moldura — ele looks como três separar blocos, mas movimentos como um peça.",
+          "Superior `11` saída e esquerda-trilho `8` coluna vede laranja-bordered azul `3` bolso abaixo, e denso `19` aglomerado preenche inferior.",
+          "Divida vermelho forma também cedo e rosa L-peça em direita obtém permanentemente preso."
+        ],
+        "colors": ["blue", "red", "green", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_D-7FbZBiEE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_D-7FbZBiEE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre centro vermelho poliminó como um forma — do não divida ele cedo.",
+        "Limpar esquerda-trilho `8` antes que deslizando qualquer inferior-aglomerado peças.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova superior leve-azul `11` peça para desbloqueie laranja-bordered centro bolso."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque esquerda-trilho `8` coluna antes que deslizando qualquer inferior-aglomerado peças."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar espaço ao redor centro azul `3` bolso sem dividindo inferior `19` aglomerado."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Desloque centro vermelho poliminó como um forma, mantendo amarelo highlight alinhe intacto."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Livre direita-lateral rosa `1` peça e inferior rosa L-peça depois vermelho forma movimentos."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine restante azul base blocos e feche inferior contadores `3` e `14`."
+        }
+      ],
+      "failurePoints": [
+        "Dividindo centro vermelho poliminó também cedo, que prende direita rosa L-peça.",
+        "Tocando inferior `19` aglomerado antes que superior `11` peça e esquerda-trilho `8` são indo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/110/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 110 do Block Out",
+    "description": "Resolva o nível 110 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

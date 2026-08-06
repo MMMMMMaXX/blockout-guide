@@ -1,0 +1,96 @@
+{
+  "id": "de-level-148",
+  "locale": "de",
+  "levelNumber": 148,
+  "title": "Block Out Level 148 Lösung",
+  "summary": "Block Out Level 148 Stapel narrow `13` head auf 6-wide Farbe Raster body, creating building-shaped frame mit unten `4`/`3` Ausgang. Oben blau `8` marker ist endgültig verklemmen — es triggers Block hinaus räumen animation. Aber grün...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/148/",
+        "layout": "Block Out Level 148 Stapel narrow `13` head auf 6-wide Farbe Raster body, creating building-shaped frame mit unten `4`/`3` Ausgang. Oben blau `8` marker ist endgültig verklemmen — es triggers Block hinaus räumen animation. Aber grün Stapel filling links band muss drain bevor `8` kann bewegen, und räumend unterer Ausgang too früh seals links band's nur nach unten Ausgang.",
+        "landmarks": [
+          "Block Out Level 148 Stapel narrow `13` head auf 6-wide Farbe Raster body, creating building-shaped frame mit unten `4`/`3` Ausgang.",
+          "Oben blau `8` marker ist endgültig verklemmen — es triggers Block hinaus räumen animation.",
+          "Aber grün Stapel filling links band muss drain bevor `8` kann bewegen, und räumend unterer Ausgang too früh seals links band's nur nach unten Ausgang."
+        ],
+        "colors": ["purple", "blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UFRWhADj4Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UFRWhADj4Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Unlock oben blau 8 bevor räumend Mitte orange cluster.",
+        "Thin links grün band nur nach head fällt … lassen zu 12.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben oben blau/grün/gelb Reihe rightward zu spend links rot 8 Spalte ohne splitting Mitte rot stapeln."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break oben lila 13 head runter zu blau 12 Kachel durch räumend obere orange und grün scraps."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Thin links grün band once head zeigt 12 und links rail fällt … lassen zu 7."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen Mitte orange cluster nach rot Spalte unlocks mittlere 1 Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend oben blau 8 Kachel (orange border) once peripheral Zähler read 12/14/3."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Drain remaining gelb/blau scraps durch unten 3 Ausgang."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen letzte grün scraps für Block hinaus beenden."
+        }
+      ],
+      "failurePoints": [
+        "Räumend Mitte orange cluster bevor oben blau 8 unlocks, jamming links 3 Bahn.",
+        "Splitting Mitte rot stapeln früh, blocking mittlere 1 Bahn permanently."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/148/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 148 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 148 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

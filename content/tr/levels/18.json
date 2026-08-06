@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-18",
+  "locale": "tr",
+  "levelNumber": 18,
+  "title": "Block Out Seviye 18 Rehberi",
+  "summary": "Block Out Seviye 18 bir Double-çerçeve bulmaca camgöbeği `14/11` çiftdır. Soy yan merdivenler ve sayaçlar ilk, tut merkez bloklar birlikte kadar raylar thinner, ve bitir yeşil üst yönlendirden.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "Block Out Seviye 18 bir Double-çerçeve bulmaca camgöbeği `14/11` çiftdır. Soy yan merdivenler ve sayaçlar ilk, tut merkez bloklar birlikte kadar raylar thinner, ve bitir yeşil üst yönlendirden.",
+        "landmarks": [
+          "Block Out Seviye 18 bir Double-çerçeve bulmaca camgöbeği `14/11` çiftdır.",
+          "Soy yan merdivenler ve sayaçlar ilk, tut merkez bloklar birlikte kadar raylar thinner, ve bitir yeşil üst yönlendirden.",
+          "Tahta camgöbeği, pembe, mavi ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Açık raylar önce sen bölündü merkez çift.",
+        "Yeşil üst bitir geç yönlendir, değil ilk yönlendir.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Sök sağ beyaz-ve-siyah merdiven böylece yan sayaçlar başla düşerek."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Bırak camgöbeği `14` tavan ve camgöbeği `11` centerpiece park edildi sırasında çerçeve onları loosensdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Mirror ki temizlik sol yanda sonra ilk merdiven açıldı enough alan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Ayı camgöbeği `14` tavan `11` blok sadece sonra her ikisi de yan raylar narrowed."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan serbest bırakıldı üst şerit soy uzakta mavi ve pembe sütunlar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Hareket ettir `11` blok sonra dış raylar zaten ince."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile yeşil üst yönlendir ve son yan artanlar."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek bölündü `14/11` çift önce raylar açık.",
+        "Kullanarak üst pembe sütunlar erken hareketli bloklar yerine geç temizlik."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 18 Rehberi ve Çözümü",
+    "description": "Block Out seviye 18'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

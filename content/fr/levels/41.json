@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-41",
+  "locale": "fr",
+  "levelNumber": 41,
+  "title": "Guide Block Out Niveau 41",
+  "summary": "Block Out Niveau 41 a `5` boss carré gated par deux `2`-compteur devices dans supérieur coins. Service les deux devices premier à déverrouillez bleu U-shaped blocs au-dessus boss, alors laissez boss laissez tomber une fois surrounding espace est large enoug...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/41/",
+        "layout": "Block Out Niveau 41 a `5` boss carré gated par deux `2`-compteur devices dans supérieur coins. Service les deux devices premier à déverrouillez bleu U-shaped blocs au-dessus boss, alors laissez boss laissez tomber une fois surrounding espace est large assez. Après boss dégage autour 01:30, large colorful mass de bleu, jaune, vert, rouge, et blocs violet fills plateau pour third sorting phase.",
+        "landmarks": [
+          "Block Out Niveau 41 a `5` boss carré gated par deux `2`-compteur devices dans supérieur coins.",
+          "Service les deux devices premier à déverrouillez bleu U-shaped blocs au-dessus boss, alors laissez boss laissez tomber une fois surrounding espace est large assez.",
+          "Après boss dégage autour 01:30, large colorful mass de bleu, jaune, vert, rouge, et blocs violet fills plateau pour third sorting phase."
+        ],
+        "colors": ["blue", "red", "green", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q9Brph8V6fo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q9Brph8V6fo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Deux `2` devices dans supérieur coins sont porte — si ils sont pas à zero, boss est verrouillé.",
+        "Expect third phase: après boss dégage, colorful mass appears et needs sorting.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Service la gauche `2` device par routing adjacent blocs à travers son porte."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Service la droite `2` device suivant."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez bleu U-shaped blocs vers le haut une fois les deux devices sont à zero."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Amincissez rouge et blocs vert autour boss comme son compteur tombent de `5`."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez boss carré dégagez une fois surrounding espace est large assez (autour 01:30)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Sort révélé bleu, jaune, vert, rouge, et blocs violet à travers sorties."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier couleur cleanup après plateau est mostly videz."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à reduce `5` boss pendant `2` devices sont toujours active — supérieur salle stays verrouillé et boss barely coups.",
+        "Pas preparing sortie voies pour couleur mass que appears après boss dégage, qui jams nouvellement opened espace."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/41/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 41",
+    "description": "Résolvez le niveau 41 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

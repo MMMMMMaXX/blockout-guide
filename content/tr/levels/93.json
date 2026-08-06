@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-93",
+  "locale": "tr",
+  "levelNumber": 93,
+  "title": "Block Out Seviye 93 Rehberi",
+  "summary": "Block Out Seviye 93 arranges iki mor oda bloklar Lde-şekil — sayaç `13` turuncu çerçevede solda ve sayaç `8` turuncu çerçevede altında. kırmızı, mavi, ve sarı bloklar istiflendi sağa `13` oda, ile l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "Block Out Seviye 93 arranges iki mor oda bloklar Lde-şekil — sayaç `13` turuncu çerçevede solda ve sayaç `8` turuncu çerçevede altında. kırmızı, mavi, ve sarı bloklar istiflendi sağa `13` oda, ile kilitlen/anahtar icons mavi bloklarda. çevreleyerek bloklar sparse ve temizle 10 saniye, yaparak gerçek challenge 21 total passes needed her ikisi de odalar.",
+        "landmarks": [
+          "Block Out Seviye 93 arranges iki mor oda bloklar Lde-şekil — sayaç `13` turuncu çerçevede solda ve sayaç `8` turuncu çerçevede altında.",
+          "Kırmızı, mavi, ve sarı bloklar istiflendi sağa `13` oda, ile kilitlen/anahtar icons mavi bloklarda.",
+          "Çevreleyerek bloklar sparse ve temizle 10 saniye, yaparak gerçek challenge 21 total passes needed her ikisi de odalar."
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çevreleyerek bloklar temizle 10 saniye — harca planning time tutarakda `13` besle şerit temizle.",
+        "Temizle küçük yeşil ve camgöbeği bloklar arasında odalar önce başlayarak any besle.",
+        "Besle `13` oda ilk çünkü o takes daha uzun ve benefits maximumdan alan."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "It kırmızı bloklar üstde-sağ üstden veya sağ-duvar çıkış açık üst şerite (02:26 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle anahtar bloklar kilidini aç mavi bloklar ortada-sağ (02:23)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır kilidi açıldı mavi bloklar ve sarı bloklar sağdan-duvar çıkış temizle sağ şerit completely (02:20)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle küçük yeşil ve camgöbeği bloklar arasında iki odalar en yakın çıkışlardan çünkü onlar ebilir drift beslee yol (02:17)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Başla besleyerek mor `13` oda soldan-duvar çıkış — thirteen passes, tutarak şerit permanently temizle (02:14–02:05)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sort any spilled bloklar `13` oda çökert önce onlar ulaş `8` oda's zone (02:05)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Besle mor `8` oda alt çıkışlardan — sekiz passes bitir (02:02–01:54)."
+        }
+      ],
+      "failurePoints": [
+        "Bırakarak küçük yeşil ve camgöbeği bloklar arasında odalar during `13` besle — onlar drift besleyereke şerit ve dur sayaç mid-pass.",
+        "Başlayarak ile `8` oda — o oturur altında `13` ve benefits alandan created sonra `13` çöker, değil önce."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 93 Rehberi ve Çözümü",
+    "description": "Block Out seviye 93'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

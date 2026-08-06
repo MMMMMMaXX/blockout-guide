@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-3",
+  "locale": "fr",
+  "levelNumber": 3,
+  "title": "Guide Block Out Niveau 3",
+  "summary": "Block Out Niveau 3 est court chaîne-reaction énigme. Laissez tomber le centre bloc rouge premier, envoyez vert coin gauche, encaissez abaissez bloc bleu, et alors terminez restant rouge et blocs jaune sur le bas portes.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "Block Out Niveau 3 est court chaîne-reaction énigme. Laissez tomber le centre bloc rouge premier, envoyez vert coin gauche, encaissez abaissez bloc bleu, et alors terminez restant rouge et blocs jaune sur le bas portes.",
+        "landmarks": [
+          "Block Out Niveau 3 est court chaîne-reaction énigme.",
+          "Laissez tomber le centre bloc rouge premier, envoyez vert coin gauche, encaissez abaissez bloc bleu, et alors terminez restant rouge et blocs jaune sur le bas portes.",
+          "Le plateau mélange vert, jaune et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Utilisez le centre porte rouge comme trigger.",
+        "Vert et abaissez bloc bleu quittez avant final jaune.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le centre bloc rouge droit bas à travers rouge porte inférieure."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Déplacez supérieur gauche bloc vert bas et hors à travers vert porte gauche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Laissez tomber abaissez bloc bleu dans bleu bas-porte gauche."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Abaissez le milieu bloc jaune dans le centre voie que juste opened."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Envoyez le haut-droite bloc rouge bas à travers la porte rouge une fois le milieu voie est dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier bloc jaune sur jaune bas-porte droite."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à forcez le haut-droite bloc rouge bas avant le centre rouge a gauche.",
+        "Ignoring vert côté sortie et treating plateau like bas-seulement énigme."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 3",
+    "description": "Résolvez le niveau 3 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-128",
+  "locale": "ja",
+  "levelNumber": 128,
+  "title": "ブロックアウト レベル128 攻略",
+  "summary": "ブロックアウト レベル128は、キャラクターブロック—黄のスマイリーと赤のハート顔タイル—を、残りの出口を追跡する雪の結晶の氷カウンター付きの枠カウンター盤面へ落とします。キャラクターブロックが本当の目標であり、装飾ではありません…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/128/",
+        "layout": "ブロックアウト レベル128は、キャラクターブロック—黄のスマイリーと赤のハート顔タイル—を、残りの出口を追跡する雪の結晶の氷カウンター付きの枠カウンター盤面へ落とします。キャラクターブロックが本当の目標であり、装飾ではありません。氷カウンターが終わる前に右の赤の積み重ねを消去しないと、スマイリーブロックがその場で凍りつき、出口がなくなります。",
+        "landmarks": [
+          "ブロックアウト レベル 128 — 黄 スマイル、赤 - タイル — 枠-カウンター カウンター 出口.。",
+          "目的、.。",
+          "赤積みを消去して右に、カウンター、スマイル ブロック 配置する 出口.。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan", "teal"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_nuD7bwaKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_nuD7bwaKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤 ブロック 消去する、右 赤 積み — .。",
+        "上 棒: `12` `9` `5` .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "オレンジ- 上 `12` 棒、消去する 左 紫、赤 塊.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青のを割りて、黄 スマイル- ペア 下の 中央、右 赤 積み .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤 ブロック 下-左、スマイル タイル .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を排出して右側の赤 列 上 `9`.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いてカウンター `18`、`5`、`2` 右端.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて緑 塊、を下げて完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "右 赤 積み、スマイル ペア — `18` カウンター 残し .。",
+        "赤 ブロック 上 カウンター.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/128/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル128 攻略と解説",
+    "description": "ブロックアウト レベル128 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-111",
+  "locale": "tr",
+  "levelNumber": 111,
+  "title": "Block Out Seviye 111 Rehberi",
+  "summary": "Block Out Seviye 111 istifler iki mor-çerçeveli odalar ki paylaş single dikey düşür şerit sarı aşağıdan-ok karo. sağ-yan combo sütun counts 9 aşağı 0, tracking consecutive temizlenir. üst tahta meli ince en...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "Block Out Seviye 111 istifler iki mor-çerçeveli odalar ki paylaş single dikey düşür şerit sarı aşağıdan-ok karo. sağ-yan combo sütun counts 9 aşağı 0, tracking consecutive temizlenir. üst tahta meli ince enough için kırmızı L-parça hareket ettir — otherwise o bloklar sarı ok şerit ve daha düşük `14` sayaç asla starts dropping.",
+        "landmarks": [
+          "Block Out Seviye 111 istifler iki mor-çerçeveli odalar ki paylaş single dikey düşür şerit sarı aşağıdan-ok karo.",
+          "Sağ-yan combo sütun counts 9 aşağı 0, tracking consecutive temizlenir.",
+          "Üst tahta meli ince enough için kırmızı L-parça hareket ettir — otherwise o bloklar sarı ok şerit ve daha düşük `14` sayaç asla starts dropping."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sarı aşağı-ok bir-way kapı — değil park et üst kırmızı L-parça o.",
+        "Soy sol mor geç-pattern blok önce besleyerek daha düşük sarı L-parça sağa doğru.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaldır üst turuncu yatay çubuk ve sol mor sütun üst odada açık üste `2`/`3` sıra."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy merkez mavi küme aşağı doğru olmadan engelleyerek sarı aşağı-ok karo."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır üst kırmızı L-parça sağa doğru böylece sarı ok şerit kalır açık için daha düşük oda."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Düşür temizlendi üst parçalar sarı okdan daha düşük ızgaraya sonra sol geç-pattern blok thins."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır daha düşük sarı L-parça sağa doğru önce besleyerek mavi verticals dışarı `15` yan çıkış."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir kalan daha düşük-tahta parçalar ve close mor alt çubuk sayaç `14`."
+        }
+      ],
+      "failurePoints": [
+        "Parking üst kırmızı L-parça sarı aşağıda-ok, hangi bloklar daha düşük `14` besle.",
+        "Hareket ettirerek daha düşük sarı L-parça önce üst tahta temizlendi okdan şerit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 111 Rehberi ve Çözümü",
+    "description": "Block Out seviye 111'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

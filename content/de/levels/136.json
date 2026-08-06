@@ -1,0 +1,93 @@
+{
+  "id": "de-level-136",
+  "locale": "de",
+  "levelNumber": 136,
+  "title": "Block Out Level 136 Lösung",
+  "summary": "Block Out Level 136 splits das Spielfeld in obere Raster mit border numbers gating jede schieben direction und untere panel centered auf `13` circle mit four colored Pfeile forming second scoring zone. Rot L-tetromino und gelb 2×...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "Block Out Level 136 splits das Spielfeld in obere Raster mit border numbers gating jede schieben direction und untere panel centered auf `13` circle mit four colored Pfeile forming second scoring zone. Rot L-tetromino und gelb 2×2 Quadrat compete für Mitte Platz — räumen türkis hoch-Pfeil führt hinaus durch `2` border erste, oder untere panel runs hinaus von incoming Bauteile.",
+        "landmarks": [
+          "Block Out Level 136 splits das Spielfeld in obere Raster mit border numbers gating jede schieben direction und untere panel centered auf `13` circle mit four colored Pfeile forming second scoring zone.",
+          "Rot L-tetromino und gelb 2×2 Quadrat compete für Mitte Platz — räumen türkis hoch-Pfeil führt hinaus durch `2` border erste, oder untere panel runs hinaus von incoming Bauteile.",
+          "Das Spielfeld mixes Lila, Grün, Blau und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "green", "blue", "cyan", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break gelb 2×2 bevor sliding türkis rechts bar — reversing dass Reihenfolge verklemmt untere 13 über 4.",
+        "Hinausführen rot L-tetromino durch lila links-Pfeil nur nach beide Seite 9 Zähler räumen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben oben lila/grün/blau cluster rightward zu spend 2 und 4 oben Zähler ohne splitting türkis/gelb rechts pair."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hinausführen rot linke Spalte runter grün Pfeil-nach-unten- Bahn zu starten spending links 9 border Zähler."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break gelb 2×2 Quadrat in obere-Mitte once rechts 9 Zähler fällt … lassen zu 6."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben rot L-tetromino leftward durch lila links-Pfeil Bahn nach beide Seite 9 Zähler räumen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben türkis vertikal bar auf rechts edge runter rot rechts-Pfeil Bahn zu unlock untere panel."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend untere 9 Kachel in orange circle und hinausführen letzte scraps runter gelb hoch-Pfeil für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Sliding türkis rechts bar bevor gelb 2×2 breaks, locking untere 13 circle über 4.",
+        "Pushing rot L-tetromino links bevor beide Seite 9 Zähler räumen, stranding untere panel."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 136 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 136 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-46",
+  "locale": "zh-cn",
+  "levelNumber": 46,
+  "title": "Block Out 第 46 关通关攻略",
+  "summary": "Block Out 第 46 关上半部分有三个 Boss 密室——两个较小的各为 `3`，一个较大的为 `10`——都位于下方填满红、蓝、绿、黄、橙方块的密室之上。先排干下方方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out 第 46 关上半部分有三个 Boss 密室——两个较小的各为 `3`，一个较大的为 `10`——都位于下方填满红、蓝、绿、黄、橙方块的密室之上。先排干下方方块，让两个 `3` 密室快速坍塌，再利用腾出的上方空间进行更长的 `10` 削减。",
+        "landmarks": [
+          "Block Out 第 46 关上半部分有三个 Boss 密室——两个较小的各为 `3`，一个较大的为 `10`——都位于下方填满红、蓝、绿、黄、橙方块的密室之上。",
+          "先排干下方方块，让两个 `3` 密室快速坍塌，再利用腾出的上方空间进行更长的 `10` 削减。",
+          "棋盘混合了红色、蓝色、绿色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "两个 `3` 密室是速胜点——若开始 `10` 时它们仍在，说明你在处理棋盘错误的部分。",
+        "在处理任何 Boss 密室之前，先排干下方的彩色方块。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将下方彩色方块向底部出口削减，开始降低三个 Boss 的计数。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "随着下方空间打开，让两个 `3` 计数密室坍塌。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在两个 `3` 都清除前，让 `10` 密室保持不动。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用腾出的上方空间加速 `10` 的削减。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "将残余彩色方块经侧边出口分类送出。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "清理下方密室后期出现的红、蓝、黄方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "处理最后的密室碎片与侧边清理，完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "一开始就分散精力对付三个密室——`10` 比 `3` 需要大得多的空间，因此应先拿下速胜点。",
+        "在进攻 Boss 密室前未排干下方彩色方块，导致 Boss 没有坍塌的空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 46 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 46 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

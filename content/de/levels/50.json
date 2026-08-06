@@ -1,0 +1,96 @@
+{
+  "id": "de-level-50",
+  "locale": "de",
+  "levelNumber": 50,
+  "title": "Block Out Level 50 Lösung",
+  "summary": "Block Out Level 50 ist gerichtet Schieber Finale — kein Bosse, kein Zähler, kein Geräte. Hoch Pfeil-Blöcke packed in three Spalten kann nur schieben in direction ihr Pfeil zeigt: blau und gelb bars go hoch, grün Blöcke go runter, r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Block Out Level 50 ist gerichtet Schieber Finale — kein Bosse, kein Zähler, kein Geräte. Hoch Pfeil-Blöcke packed in three Spalten kann nur schieben in direction ihr Pfeil zeigt: blau und gelb bars go hoch, grün Blöcke go runter, rot bars go links oder rechts, und lila Schieber fill edges. Lösen ist über ansteuern Reihenfolge: freigeben one vertikale Bahn erste, verwenden rot horizontale Balken als Verkehrs-Regler (nicht Hindernisse), und aufsparen grün und lila Bauteile für nach big bars haben geräumt.",
+        "landmarks": [
+          "Block Out Level 50 ist gerichtet Schieber Finale — kein Bosse, kein Zähler, kein Geräte.",
+          "Hoch Pfeil-Blöcke packed in three Spalten kann nur schieben in direction ihr Pfeil zeigt: blau und gelb bars go hoch, grün Blöcke go runter, rot bars go links oder rechts, und lila Schieber fill edges.",
+          "Lösen ist über ansteuern Reihenfolge: freigeben one vertikale Bahn erste, verwenden rot horizontale Balken als Verkehrs-Regler (nicht Hindernisse), und aufsparen grün und lila Bauteile für nach big bars haben geräumt."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rot horizontale Balken sind Verkehrs-Regler, nicht Hindernisse — behalten one in Reserve bis verticals sind mostly gone.",
+        "Freigeben one long vertikale Bahn erste. Tu nicht räumen beide rot bars immediately.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Freigeben erste long vertikale Bahn durch sliding one blau oder gelb bar hoch und hinaus."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden dass geöffnet Bahn zu verschieben ein andere gelb oder blau Pfeil Block hinaus von stapeln."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten rechte Seite von overfilling while erste rot horizontal bar schiebt hinaus."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Öffnen second long Bahn nur nach erste Seite ist calmer."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Freigeben grün runter-Pfeil-Blöcke nach vertikale Blockierer sind thinner."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Verwenden lila schieben Blöcke spät, once big bars sind bereits gone."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte rot oder grün Bauteil nach Raum ist mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Removing beide rot horizontale Balken bevor vertikale Bahnen sind ready — dieses entfernt dein Verkehr control und rechte Seite overfills.",
+        "Versuchen zu schieben grün Pfeil-nach-unten- Block bevor vertikal bars über es haben geräumt, welche jams Spalte."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 50 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 50 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

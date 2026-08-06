@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-23",
+  "locale": "ko",
+  "levelNumber": 23,
+  "title": "블록 아웃 레벨 23 공략",
+  "summary": "블록 아웃 레벨 23은 `11`과 `8`이 표시된 두 프레임 하단 상자가 있는 매듭 보드입니다. 위쪽 파란색 차선과 오른쪽 노란색 게이트를 이용해 말린 가운데 경로를 풀고, 매듭이 사라지면 두 보스 상자가 떨어지게 하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "블록 아웃 레벨 23은 `11`과 `8`이 표시된 두 프레임 하단 상자가 있는 매듭 보드입니다. 위쪽 파란색 차선과 오른쪽 노란색 게이트를 이용해 말린 가운데 경로를 풀고, 매듭이 사라지면 두 보스 상자가 떨어지게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 23은 `11`과 `8`이 표시된 두 프레임 하단 상자가 있는 매듭 보드입니다.",
+          "위쪽 파란색 차선과 오른쪽 노란색 게이트를 이용해 말린 가운데 경로를 풀고, 매듭이 사라지면 두 보스 상자가 떨어지게 하세요.",
+          "보드는 파란색, 노란색, 빨간색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "아래쪽 상자를 공격하기 전에 가운데를 풀세요.",
+        "위쪽 파란색 경로는 마무리용이 아닌 시작용입니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "가운데 말림이 차단 블록 하나 적어지도록 먼저 위쪽 파란색 경로를 먹이세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "오른쪽 노란색 차선을 이용해 위쪽 노란색 열을 매듭에서 당겨 떼세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "가운데 경로가 더 이상 닫히지 않을 때까지 빨간색과 보라색 말림 조각을 회전시키세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "매듭의 왼쪽 절반이 열리면 프레임된 `11` 상자를 줄이기 시작하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "오른쪽 절반도 비워지면 프레임된 `8` 상자가 떨어지게 하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "말림을 제자리에 고정하던 높은 빨간색과 노란색 열을 치우세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "아래쪽 프레임 두 개가 거의 사라진 뒤 마지막 위쪽 파란색 경로로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "가운데 말림이 여전히 조일 때 아래쪽 프레임 상자를 비우려는 것.",
+        "오른쪽 노란색 게이트를 무시하고 위쪽 파란색 경로만 과도하게 작업하는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 23 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 23을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

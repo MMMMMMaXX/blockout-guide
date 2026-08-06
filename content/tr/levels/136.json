@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-136",
+  "locale": "tr",
+  "levelNumber": 136,
+  "title": "Block Out Seviye 136 Rehberi",
+  "summary": "Block Out Seviye 136 splits tahta üst ızgaraya ile border numaralar gating her kaydır direction ve daha düşük panel centered `13` circle ile dört renkli oklar oluşturarak saniye scoring zone. kırmızı L-tetromino ve sarı 2×...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "Block Out Seviye 136 splits tahta üst ızgaraya ile border numaralar gating her kaydır direction ve daha düşük panel centered `13` circle ile dört renkli oklar oluşturarak saniye scoring zone. kırmızı L-tetromino ve sarı 2×2 kare compete için merkez alan — temizle camgöbeği yukarı-ok besler `2` border ilk, veya daha düşük panel runs dışarı incoming parçalar.",
+        "landmarks": [
+          "Block Out Seviye 136 splits tahta üst ızgaraya ile border numaralar gating her kaydır direction ve daha düşük panel centered `13` circle ile dört renkli oklar oluşturarak saniye scoring zone.",
+          "Kırmızı L-tetromino ve sarı 2×2 kare compete için merkez alan — temizle camgöbeği yukarı-ok besler `2` border ilk, veya daha düşük panel runs dışarı incoming parçalar.",
+          "Tahta mor, yeşil, mavi ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "green", "blue", "cyan", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır sarı 2×2 önce kaydırarak camgöbeği sağ çubuk — reversing ki sıra kilitlenir daha düşük 13 üstünde 4.",
+        "Besle kırmızı L-tetromino mor soldan-ok sadece sonra her ikisi de yan 9 sayaçlar temizle.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır üst mor/yeşil/mavi küme sağa doğru harcaya 2 ve 4 üst sayaçlar olmadan bölerek camgöbeği/sarı sağ çift."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Besle kırmızı sol sütun aşağı yeşil aşağı-ok şerit başla harcayarak sol 9 border sayaç."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır sarı 2×2 kare üst-merkez sonra sağ 9 sayaç düşer 6."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "It kırmızı L-tetromino sola doğru mor soldan-ok şerit sonra her ikisi de yan 9 sayaçlar temizle."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır camgöbeği dikey çubuk sağ kenarda aşağı kırmızı sağ-ok şerit kilidini aç daha düşük panel."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca daha düşük 9 karo turuncu circlede ve besle son artıklar aşağı sarı yukarı-ok için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak camgöbeği sağ çubuk önce sarı 2×2 breaks, locking daha düşük 13 circle üstünde 4.",
+        "Iterek kırmızı L-tetromino sol önce her ikisi de yan 9 sayaçlar temizle, stranding daha düşük panel."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 136 Rehberi ve Çözümü",
+    "description": "Block Out seviye 136'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-113",
+  "locale": "de",
+  "levelNumber": 113,
+  "title": "Block Out Level 113 Lösung",
+  "summary": "Block Out Level 113 Stapel three chambers vertically mit narrow neck zwischen sie dass acts als one-Bahn airlock. Oben blau bar Zähler ticks von `7` runter zu `1`, tracking obere-chamber progress, und mittlere neck nur passes o...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/113/",
+        "layout": "Block Out Level 113 Stapel three chambers vertically mit narrow neck zwischen sie dass acts als one-Bahn airlock. Oben blau bar Zähler ticks von `7` runter zu `1`, tracking obere-chamber progress, und mittlere neck nur passes one Bauteil bei time. Drehen gelb 1×3 bar too früh und es seals nur Pfad in untere chamber.",
+        "landmarks": [
+          "Block Out Level 113 Stapel three chambers vertically mit narrow neck zwischen sie dass acts als one-Bahn airlock.",
+          "Oben blau bar Zähler ticks von `7` runter zu `1`, tracking obere-chamber progress, und mittlere neck nur passes one Bauteil bei time.",
+          "Drehen gelb 1×3 bar too früh und es seals nur Pfad in untere chamber."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U_6NFrNRpeI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=U_6NFrNRpeI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mittlere neck ist exactly one Bahn wide — nothing kann sitzen sideways in es.",
+        "Anschauen oben blau bar Zähler; gelb 1×3 nur Züge once es fällt … lassen unterhalb `4`.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben orange 1×2 polyomino nach unten durch mittlere neck zu begin Eröffnungs- obere `7` chamber."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hold gelb 1×3 horizontal bis oben blau bar Zähler fällt … lassen von `7` zu `4`."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen gelb 1×3 durch neck once obere lila `7` Block thins zu single Reihe."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Fallen lassen remaining obere-chamber debris durch neck airlock while Seite `7` pads still read öffnen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Senden grün L-Bauteil und blau L-cluster durch neck in untere `1` chamber."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen untere lila `1` Block durch Seite `3` und `4` pads, dann Ausgang rot L-Bauteil bei unten."
+        }
+      ],
+      "failurePoints": [
+        "Rotating gelb 1×3 bevor oben Zähler fällt … lassen unterhalb `4`, welche seals neck.",
+        "Feeding untere `1` chamber bevor obere `7` Block hat fully drained."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/113/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 113 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 113 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

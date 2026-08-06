@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-22",
+  "locale": "zh-cn",
+  "levelNumber": 22,
+  "title": "Block Out 第 22 关通关攻略",
+  "summary": "Block Out 第 22 关是一个围绕紫色 `17` 面板的巨型 Boss 房间拼图。先拆解棋盘格屋顶，再让巨大的 Boss 面板开始落下，最后在盖子消失后才清理后期蓝色和粉色方块。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/22/",
+        "layout": "Block Out 第 22 关是一个围绕紫色 `17` 面板的巨型 Boss 房间拼图。先拆解棋盘格屋顶，再让巨大的 Boss 面板开始落下，最后在盖子消失后才清理后期蓝色和粉色方块。",
+        "landmarks": [
+          "Block Out 第 22 关是一个围绕紫色 `17` 面板的巨型 Boss 房间拼图。",
+          "先拆解棋盘格屋顶，再让巨大的 Boss 面板开始落下，最后在盖子消失后才清理后期蓝色和粉色方块。",
+          "棋盘混合了紫色、黑色、白色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["purple", "black", "white", "red", "blue", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NYVd_MgWuJM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NYVd_MgWuJM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "开局时屋顶比 Boss 更重要。",
+        "右侧红色条带是屋顶清理的一部分，不是提前收尾用的。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "从左到右剥离顶部棋盘格屋顶，让上方阻挡块停止封闭房间。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "只有在周围黑色方块移动后，才移动右侧红色条带。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在侧边计数器和屋顶持续收缩时，让 `17` 面板保持停驻。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦屋顶足够薄，就开始排出 `17` Boss 面板。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用新打开的上方通道带出后期蓝色和粉色方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "在 Boss 数值大幅降低后，压平剩余的青色列。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "一旦 Boss 面板完全坍塌，就完成房间。"
+        }
+      ],
+      "failurePoints": [
+        "在屋顶打开之前就处理 `17` 面板。",
+        "当黑色方块仍需移动时，让右侧红色条带埋在屋顶里。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/22/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 22 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 22 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

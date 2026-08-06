@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-33",
+  "locale": "zh-cn",
+  "levelNumber": 33,
+  "title": "Block Out 第 33 关通关攻略",
+  "summary": "Block Out 第 33 关是一个菱形棋盘：一个巨大的绿色十字块和一团密集的红色块体位于拥挤的中部黄、蓝、白、黑条带上下方。菱形的形状使宽阔的中心行成为唯一的……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "Block Out 第 33 关是一个菱形棋盘：一个巨大的绿色十字块和一团密集的红色块体位于拥挤的中部黄、蓝、白、黑条带上下方。菱形的形状使宽阔的中心行成为唯一足够宽阔、可供两个大色块通过的路径，因此必须先破开条带。清理条带中的小方块，将绿色十字从顶部出口送出，再让红色块体经底部排出。",
+        "landmarks": [
+          "菱形的形状使宽阔的中心行成为两块大型色块通过的唯一够宽的路径，因此必须先打通条带。",
+          "清理小型条带方块，让绿色十字从顶部出口送出，再让红色块体从底部排出。",
+          "宽阔的中行是真正的高速公路——如果条带仍被占据，两个楔形块都无法移动。"
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Block Out 第 33 关是一个菱形棋盘：一个巨大的绿色十字块和一团密集的红色块体位于拥挤的中部黄、蓝、白、黑条带上下方。菱形的形状使宽阔的中心行成为两块大型色块通过的唯一够宽的路径，因此必须先打通条带。清理小型条带方块，让绿色十字从顶部出口送出，再让红色块体从底部排出。",
+        "绿色先于红色离开。绿色十字块需要先腾空上方菱形，红色块体才能开始移动。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把中部条带里的黄色和橙色小方块拉向菱形的左边缘，开始开辟通道。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将中心右侧的蓝色方块移向右侧出口，拓宽穿过条带的垂直通道。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "清理右边缘的白色方块，完全打开中部通道。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "通过打开的通道把绿色十字块向上滑出顶部出口点。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "一旦绿色块离开，就开始通过拓宽的中心，从下方段落移动红色块体向上。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "既然中心条带不再堵塞，就通过底部出口点送出红色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "用右下角的剩余黑色方块和遗留下来的小型条带碎片收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在条带打开之前就试图把绿色十字块推过中部——绿色块是最大的方块，需要完全清空的通道。",
+        "在绿色块仍占据上方菱形时，就把红色块体移向底部出口，导致两个大块在中心行卡住。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 33 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 33 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-71",
+  "locale": "ja",
+  "levelNumber": 71,
+  "title": "ブロックアウト レベル71 攻略",
+  "summary": "ブロックアウト レベル71は、上部に大きな紫の「13」ブロック、中央に自由に滑るスマイリーブロック、側面に向き矢印ブロックを詰め込んだ6×8グリッドです。紫ブロックは13回の出口が必要です—まず底を消去し、次にス…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/71/",
+        "layout": "ブロックアウト レベル71は、上部に大きな紫の「13」ブロック、中央に自由に滑るスマイリーブロック、側面に向き矢印ブロックを詰め込んだ6×8グリッドです。紫ブロックは13回の出口が必要です—まず底を消去し、次にスマイリーブロックを進め、最後に上部の重い紫ブロックで締めくくります。",
+        "landmarks": [
+          "ブロックアウト レベル 71 6×8 紫 '13' ブロック 上、を解放して-スライドさせ スマイル 中央の、矢印 .。",
+          "紫 ブロック 必要とし 13 出口 — 消去する 下、進める スマイル、終える 紫 ブロック 上.。",
+          "混ぜる 紫、緑、黄、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_vwwRLOMKd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_vwwRLOMKd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "紫 '13' ブロック — 消去する スマイル .。",
+        "スマイル 中央の 解放する-スライドさせ — 使う 消去する 矢印 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑スマイルを消去して下 下部の出口 開く 台座.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青のをずらして左 左 出口 開く 下の-左 エリア.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "スライドさせ 黄、緑 スマイル 中央の — 手順 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "赤のを消去して右 右 出口 中央の .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "紫 '13' ブロック 上 — 必要とし 13 出口 消去する.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えてスマイル 角.。"
+        }
+      ],
+      "failurePoints": [
+        "消去する '13' ブロック、スマイル — 必要とし スライドさせる、出口 .。",
+        "消去 上、下、下の スライドさせ .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/71/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル71 攻略と解説",
+    "description": "ブロックアウト レベル71 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

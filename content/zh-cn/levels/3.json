@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-3",
+  "locale": "zh-cn",
+  "levelNumber": 3,
+  "title": "Block Out 第 3 关通关攻略",
+  "summary": "Block Out 第 3 关是一个简短的连锁反应解谜。先落下中央的红色方块，把绿色角落向左送，清掉下方的蓝色方块，最后把剩余的红色和黄色方块从底部出口送出。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "Block Out 第 3 关是一个简短的连锁反应解谜。先落下中央的红色方块，把绿色角落向左送，清掉下方的蓝色方块，最后把剩余的红色和黄色方块从底部出口送出。",
+        "landmarks": [
+          "Block Out 第 3 关是一个简短的连锁反应解谜。",
+          "先落下中央的红色方块，把绿色角落向左送，清掉下方的蓝色方块，最后把剩余的红色和黄色方块从底部出口送出。",
+          "棋盘上混合了绿色、黄色、红色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "把中央的红色出口当作触发点。",
+        "绿色和下方的蓝色方块要先于最后的黄色离开。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将中央的红色方块垂直向下滑动，穿过红色底部出口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把左上角的绿色方块向下移，从绿色左侧出口送出。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "把下方的蓝色方块落入左下的蓝色底部出口。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "把中间的黄色方块降入刚腾出的中央通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "一旦中间通道清空，就把右上角的红色方块向下送过红色出口。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "最后用右下角的黄色底部出口送走最后一块黄色方块。"
+        }
+      ],
+      "failurePoints": [
+        "在中间红色方块离开之前，就强行把右上角的红色方块向下推。",
+        "忽略了绿色侧边出口，把棋盘当成只从底部求解的谜题。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 3 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 3 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

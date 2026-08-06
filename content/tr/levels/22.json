@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-22",
+  "locale": "tr",
+  "levelNumber": 22,
+  "title": "Block Out Seviye 22 Rehberi",
+  "summary": "Block Out Seviye 22 bir Single dev ana blok-alan bulmaca mor `17` paneldır. Sök checker çatı ilk, bırak devasa ana blok panel başla düşerek saniye, ve temiz yukarı geç mavi ve pembe parçalar sadece sonra lid gitti.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/22/",
+        "layout": "Block Out Seviye 22 bir Single dev ana blok-alan bulmaca mor `17` paneldır. Sök checker çatı ilk, bırak devasa ana blok panel başla düşerek saniye, ve temiz yukarı geç mavi ve pembe parçalar sadece sonra lid gitti.",
+        "landmarks": [
+          "Block Out Seviye 22 bir Single dev ana blok-alan bulmaca mor `17` paneldır.",
+          "Sök checker çatı ilk, bırak devasa ana blok panel başla düşerek saniye, ve temiz yukarı geç mavi ve pembe parçalar sadece sonra lid gitti.",
+          "Tahta mor, siyah, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "black", "white", "red", "blue", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NYVd_MgWuJM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NYVd_MgWuJM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çatı matters daha fazla ana blok başlada.",
+        "Sağ kırmızı sök parça çatı temizlik, değil erken finisher.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Sök üst checker çatı soldan sağ böylece üst engelleyicilere stop mühürleyerek oda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Hareket ettir sağ kırmızı sök sadece sonra çevreleyerek siyah bloklar kaydırıldı."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut `17` panel park edildi sırasında yan sayaçlar ve çatı continue küçülerek."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra çatı ince enough, başla boşaltarak `17` ana blok panel."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan newly açıldı üst şerit bringe dışarı geç mavi ve pembe parçalar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Flatten kalan camgöbeği sütunlar sonra ana blok value much daha düşük."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir alan sonra ana blok panel fully çöktü."
+        }
+      ],
+      "failurePoints": [
+        "Çalışarak `17` panel önce çatı açıldı.",
+        "Bırakarak sağ kırmızı sök buried çatıda ne zaman siyah bloklar hâlâ gerektir hareket ettir."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/22/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 22 Rehberi ve Çözümü",
+    "description": "Block Out seviye 22'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

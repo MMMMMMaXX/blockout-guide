@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-86",
+  "locale": "fr",
+  "levelNumber": 86,
+  "title": "Guide Block Out Niveau 86",
+  "summary": "Block Out Niveau 86 est fast, compact énigme sur C-shaped plateau. large bloc rouge spans le haut, un bloc vert avec cadenas `3` sits dans le centre-gauche, orange et blocs bleu fill le milieu, et haut colonne violet runs bas righ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out Niveau 86 est fast, compact énigme sur C-shaped plateau. large bloc rouge spans le haut, un bloc vert avec cadenas `3` sits dans le centre-gauche, orange et blocs bleu fill le milieu, et haut colonne violet runs bas le côté droit. Déverrouillez vert cadenas par dégagement trois blocs premier (bleu, orange, rouge), alors alimentez la colonne violet à travers le bas sorties.",
+        "landmarks": [
+          "Block Out Niveau 86 est fast, compact énigme sur C-shaped plateau.",
+          "Large bloc rouge spans le haut, un bloc vert avec cadenas `3` sits dans le centre-gauche, orange et blocs bleu fill le milieu, et haut colonne violet runs bas le côté droit.",
+          "Déverrouillez vert cadenas par dégagement trois blocs premier (bleu, orange, rouge), alors alimentez la colonne violet à travers le bas sorties."
+        ],
+        "colors": ["blue", "red", "orange", "green", "violet", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez bleu, orange, et blocs rouge premier (dans que ordre) à déverrouillez vert cadenas `3` par déplacez trois.",
+        "Colonne violet sur la droite needs le bas rangée videz — dégagez blocs jaune avant feeding il.",
+        "Ce niveau est seulement 39 seconds — chaque déplacez counts, planifiez premier trois dégage avant de départ."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Poussez petit bloc bleu dans le centre vers le haut à travers la sortie supérieure — ce est premier dégagez vers vert cadenas (02:57 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez orange clé bloc gauche à travers la gauche-mur sortie — second dégagez, et il removes clé porte (02:55)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Poussez large bloc rouge à le haut vers le haut à travers la sortie supérieure — third dégagez, unlocking vert cadenas `3` (02:52)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez unlocked bloc vert à travers la gauche-mur sortie parce que il maintenant a salle à glissez gauche (02:49)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez les blocs jaune à le bas à travers bas-arrow sorties à ouvrez voie pour la colonne violet (02:46)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez haut colonne violet sur la droite vers le bas à travers le bas sorties — il est largest mass et prend several passes (02:43–02:34)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec restant petit blocs vert à le bas (02:31–02:25)."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez vert cadenas `3` bloc avant dégagement trois autre blocs — il est verrouillé et va pas budge, wasting déplacez sur 39-second timer.",
+        "Laissant blocs jaune à le bas pendant feeding la colonne violet — colonne cannot pass à travers et stalls mid-alimentez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 86",
+    "description": "Résolvez le niveau 86 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

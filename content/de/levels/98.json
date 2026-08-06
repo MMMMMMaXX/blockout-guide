@@ -1,0 +1,102 @@
+{
+  "id": "de-level-98",
+  "locale": "de",
+  "levelNumber": 98,
+  "title": "Block Out Level 98 Lösung",
+  "summary": "Block Out Level 98 divides das Spielfeld in partitioned zones mit orange frame borders. Türkis `5` Blöcke fill obere linke section, lila `8` chamber sitzt in Mitte hinter verklemmen/key gates, und lila `13` chamber fills untere...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/98/",
+        "layout": "Block Out Level 98 divides das Spielfeld in partitioned zones mit orange frame borders. Türkis `5` Blöcke fill obere linke section, lila `8` chamber sitzt in Mitte hinter verklemmen/key gates, und lila `13` chamber fills untere section. Narrow channels connect zones — Blöcke muss ansteuern single-file durch sie. Drain türkis section erste, unlock und hinausführen `8` chamber, dann beenden mit `13` chamber für 26 total passes.",
+        "landmarks": [
+          "Block Out Level 98 divides das Spielfeld in partitioned zones mit orange frame borders.",
+          "Türkis `5` Blöcke fill obere linke section, lila `8` chamber sitzt in Mitte hinter verklemmen/key gates, und lila `13` chamber fills untere section.",
+          "Narrow channels connect zones — Blöcke muss ansteuern single-file durch sie.",
+          "Drain türkis section erste, unlock und hinausführen `8` chamber, dann beenden mit `13` chamber für 26 total passes."
+        ],
+        "colors": ["cyan", "red", "purple", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MX11ryK4VL0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MX11ryK4VL0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drain türkis `5` section erste — es ist fastest hinausführen und öffnet Raum für everything else.",
+        "Räumen alle small Blöcke von channels bevor Eröffnungs- irgendein chamber hinausführen — one stray Bauteil halts everything.",
+        "Sort spilled Blöcke immediately nach `8` chamber collapses, bevor Eröffnungs- `13` hinausführen."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Drain türkis `5` Blöcke in obere linke durch links-Wand Ausgang — five passes (02:52 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen large rot Block unterhalb türkis section durch rechts-Wand Ausgang zu öffnen channel zu Mitte zone (02:46)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Unlock key Blöcke zu access lila `8` chamber's zone weil verklemmen gates Block nur channel in (02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen small grün und blau Blöcke von channels zwischen zones bevor sie drift während hinausführen (02:33)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen lila `8` chamber durch channel — eight passes, keeping narrow passage räumen (02:26–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Sort spilled Blöcke von `8` chamber collapse bevor sie enter untere zone und Block `13` Bahn (02:13)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen small rot und türkis Blöcke around `13` chamber durch nearby exits (02:07)."
+        },
+        {
+          "order": 8,
+          "title": "Zug 8",
+          "instruction": "Hinausführen lila `13` chamber durch unten exits — thirteen passes zu beenden (02:01–01:41)."
+        }
+      ],
+      "failurePoints": [
+        "Eröffnungs- `8` chamber hinausführen while small Blöcke sind still in channels — sie Block single-file passage und halt hinausführen mit kein way zu räumen sie ohne resetting.",
+        "Ignoring spilled Blöcke nach `8` chamber collapses — sie enter untere zone und jam `13` chamber's Ausgangs-Bahn, forcing multiple Erholung Züge."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/98/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 98 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 98 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

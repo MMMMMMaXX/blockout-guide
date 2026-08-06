@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-107",
+  "locale": "tr",
+  "levelNumber": 107,
+  "title": "Block Out Seviye 107 Rehberi",
+  "summary": "Block Out Seviye 107 layers creature markers, dual asma kilitler, ve sağ-ok besle karo irregulara tuğla tahta. mavi ve mor kilitlenir kapı iki halves ızgara, ve alt `3` tepşi sayaç kapı — değil serbest refi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/107/",
+        "layout": "Block Out Seviye 107 layers creature markers, dual asma kilitler, ve sağ-ok besle karo irregulara tuğla tahta. mavi ve mor kilitlenir kapı iki halves ızgara, ve alt `3` tepşi sayaç kapı — değil serbest yeniden doldur. uzun sarı küme solda ve kırmızı C-şekil sağ competeda için aynı şerit, böylece temizleyerek kilitlenir yanlış sırada sıkışır besle.",
+        "landmarks": [
+          "Block Out Seviye 107 layers creature markers, dual asma kilitler, ve sağ-ok besle karo irregulara tuğla tahta.",
+          "Mavi ve mor kilitlenir kapı iki halves ızgara, ve alt `3` tepşi sayaç kapı — değil serbest yeniden doldur.",
+          "Uzun sarı küme solda ve kırmızı C-şekil sağ competeda için aynı şerit, böylece temizleyerek kilitlenir yanlış sırada sıkışır besle."
+        ],
+        "colors": ["green", "yellow", "red", "blue", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mvigiJZ71eE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mvigiJZ71eE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Açık mavi asma kilit önce mor bir — daha düşük yeşil ok şerit depends ki sırada.",
+        "Değil harca alt `3` tepşi sırasında either asma kilit hâlâ kapalı.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaldır üst yeşil creature karo ve orta sarı troll karo."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır üst-sol kırmızı/sarı/mavi küme olmadan kaydırarak eithere asma kilit."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle sağ-ok turuncu blok açık sağ kanaldan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Açık mavi asma kilit daha düşük-sol, sonra mor asma kilit daha düşük-merkez."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır daha düşük yeşil ok karo açıldıdan daha düşük şerit."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca alt turuncu `3` tepşi closea sayaçlar `5` ve `4`, sonra temizle mavi L-şekil marked `1`."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak alt `3` tepşi önce her ikisi de asma kilitler açık — bu boxes daha düşük yeşil okda karo.",
+        "Besleyerek sağ-ok turuncu karo önce üst-orta boşluk actually temizle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/107/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 107 Rehberi ve Çözümü",
+    "description": "Block Out seviye 107'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

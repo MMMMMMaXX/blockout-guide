@@ -1,0 +1,96 @@
+{
+  "id": "de-level-40",
+  "locale": "de",
+  "levelNumber": 40,
+  "title": "Block Out Level 40 Lösung",
+  "summary": "Block Out Level 40 hat Boss frame bereits bei Zähler `0` — es tut nicht need reduction, just physical shelf von Blöcke underneath entfernt. Densely packed blau, rot, grün, und gelb Blöcke unterhalb frame form dass shelf, und th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out Level 40 hat Boss frame bereits bei Zähler `0` — es tut nicht need reduction, just physical shelf von Blöcke underneath entfernt. Densely packed blau, rot, grün, und gelb Blöcke unterhalb frame form dass shelf, und lösen ist über verschiebend rechts Blöcke zu break support. Once shelf goes, frame räumt instantly und remaining Blöcke unwind durch Seite exits.",
+        "landmarks": [
+          "Block Out Level 40 hat Boss frame bereits bei Zähler `0` — es tut nicht need reduction, just physical shelf von Blöcke underneath entfernt.",
+          "Densely packed blau, rot, grün, und gelb Blöcke unterhalb frame form dass shelf, und lösen ist über verschiebend rechts Blöcke zu break support.",
+          "Once shelf goes, frame räumt instantly und remaining Blöcke unwind durch Seite exits."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boss reads `0` — tu nicht verschwenden Züge Versuchen zu reduce es. Just entfernen shelf underneath.",
+        "Anschauen für Blöcke sliding hoch zu rebuild shelf when du räumen untere Reihe in falsch Reihenfolge.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen small `2`-Zähler Blöcke auf links edge zu create erste Eröffnungs-."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben blau Blöcke weg von direkt unter Boss frame zu starten weakening shelf."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben rot Blöcke in Mitte zu break letzte support point unter `0`-Zähler frame."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Anschauen Boss frame räumen instantly once shelf ist gone (visible bei 01:24)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden newly geöffnet oben Platz zu sort remaining colored Blöcke."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen rot und grün Blöcke durch Seite exits."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit gelb und blau cleanup nach Raum hat flattened."
+        }
+      ],
+      "failurePoints": [
+        "Treating Boss like standard Zähler Puzzle — `0` means es needs kein reduction, nur shelf break.",
+        "Verschiebend falsch untere Block erste, welche causes remaining Bauteile zu schieben hoch und rebuild shelf unter Boss frame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 40 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 40 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

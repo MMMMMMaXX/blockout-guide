@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-122",
+  "locale": "ja",
+  "levelNumber": 122,
+  "title": "ブロックアウト レベル122 攻略",
+  "summary": "ブロックアウト レベル122は頭型の盤面です—王冠部分が広く、茎部分が狭い—「60」の王冠ゲートとポケットの目標が顔全体に散らばっています。底部中央のピンクの「29」王冠のペアと側面のカウンタータイルは本当の排水目標です…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "ブロックアウト レベル122は頭型の盤面です—王冠部分が広く、茎部分が狭い—「60」の王冠ゲートとポケットの目標が顔全体に散らばっています。底部中央のピンクの「29」王冠のペアと側面のカウンタータイルは本当の排水目標です。下部の茎は非常に狭いため、上部の顔からの1つの置き間違えた縦ピースが唯一の出口通路を封じてしまう可能性があります。",
+        "landmarks": [
+          "ブロックアウト レベル 122 - —、— `60` 出口、空きマス 目的 渡り .。",
+          "ピンク `29` ペア 下 中央、側 カウンター タイル 目的.。",
+          "下の、ピース 上の 塞ぐ 出口 レーン.。"
+        ],
+        "colors": ["red", "blue", "cyan", "orange", "green", "pink", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "緑のを割りて`60`、赤 `60` 維持する 台座 塊 開く.。",
+        "を消去してシアン `10` カウンター、ピンク `29` ペア.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を剥がして上 赤 行、上の-左 シアン 下 `60` 隙間.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して側 `17` カウンター 通し 維持する 枠 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "緑のを割りて`60` タイル、赤 `60` タイル 上 黄/ピンク/青 台座.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "シアンのを使いて`8` タイル、シアン `10` 側 カウンター、上の -.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "ピンク `29` ペア 下 中央、下の `11` カウンター .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去してピンク ブロック、下 シアン `4` ペア 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "赤のを割りて`60`、緑 `60` — 箱 黄/ピンク/青 台座 塊.。",
+        "ピンク `29` ペア、シアン `10` タイル 消去する、ピンク ブロック .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル122 攻略と解説",
+    "description": "ブロックアウト レベル122 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

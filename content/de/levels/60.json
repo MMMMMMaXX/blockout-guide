@@ -1,0 +1,93 @@
+{
+  "id": "de-level-60",
+  "locale": "de",
+  "levelNumber": 60,
+  "title": "Block Out Level 60 Lösung",
+  "summary": "Block Out Level 60 fills 5×7 Raster mit repeating pattern von grün, blau, rot, grün, blau Blöcke, topped mit orange. Dense packing means jede Spalte muss empty von unten zu oben — räumen grün base erste, dann arbeiten blau...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "Block Out Level 60 fills 5×7 Raster mit repeating pattern von grün, blau, rot, grün, blau Blöcke, topped mit orange. Dense packing means jede Spalte muss empty von unten zu oben — räumen grün base erste, dann arbeiten blau und rot Blöcke nach oben, und beenden mit orange oben Reihe.",
+        "landmarks": [
+          "Block Out Level 60 fills 5×7 Raster mit repeating pattern von grün, blau, rot, grün, blau Blöcke, topped mit orange.",
+          "Dense packing means jede Spalte muss empty von unten zu oben — räumen grün base erste, dann arbeiten blau und rot Blöcke nach oben, und beenden mit orange oben Reihe.",
+          "Das Spielfeld mixes Grün, Blau, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen Farben von unten zu oben innerhalb jede Spalte — tu nicht skip ahead oder Blöcke get eingesperrt.",
+        "Grün base muss go erste. Ohne es, blau und rot Blöcke über haben kein sliding Raum.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen unten grün Blöcke toward links Ausgang zu öffnen base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben blau Blöcke in untere rows hinaus durch rechts Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen rot Blöcke in mittlere rows durch rechts Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Bewegen grün Blöcke in obere-mittlere rows durch links Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Begin räumend blau Blöcke in obere rows durch rechts Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit orange Blöcke bei oben durch oben Ausgang."
+        }
+      ],
+      "failurePoints": [
+        "Räumend blau Block bevor grün unterhalb es, welche sperrt ein grün mit kein sliding Pfad.",
+        "Versuchen zu räumen orange oben Reihe bevor mittlere rows sind öffnen, welche jams das Spielfeld."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 60 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 60 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

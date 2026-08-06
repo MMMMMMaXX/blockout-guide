@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-84",
+  "locale": "fr",
+  "levelNumber": 84,
+  "title": "Guide Block Out Niveau 84",
+  "summary": "Block Out Niveau 84 est Hard Niveau avec trois massive blocs violet bearing highest compteurs dans 50-100 range: '12', '21', et '23'. Orange cadre borders create chambre partitions autour les, avec blocs colorés packed entre th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out Niveau 84 est Hard Niveau avec trois massive blocs violet bearing highest compteurs dans 50-100 range: '12', '21', et '23'. Orange cadre borders create chambre partitions autour les, avec blocs colorés packed entre chambres. Dégagez petit blocs premier à ouvrez feeding voies, alors alimentez les blocs violet dans ascending compteur ordre — '12' premier, '21' second, '23' dernier.",
+        "landmarks": [
+          "Block Out Niveau 84 est Hard Niveau avec trois massive blocs violet bearing highest compteurs dans 50-100 range: '12', '21', et '23'.",
+          "Orange cadre borders create chambre partitions autour les, avec blocs colorés packed entre chambres.",
+          "Dégagez petit blocs premier à ouvrez feeding voies, alors alimentez les blocs violet dans ascending compteur ordre — '12' premier, '21' second, '23' dernier."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimentez blocs violet dans ascending compteur ordre: '12' premier, '21' second, '23' dernier.",
+        "Gardez '23' bloc's sortie voie dégagez de commencez — never laissez autre blocs drift dans son chemin.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez petit blocs colorés entre violet chambres à travers côté sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract compteur '5' bloc tôt."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez feeding violet '12' bloc premier — il est lightest."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Alimentez violet '21' bloc une fois '12' a shrunk assez à partagent voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Économisez violet '23' bloc pour dernier — il needs widest voie et most passes."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez restant chambre fragments après all blocs violet sont gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à alimentez '23' bloc avant lighter blocs violet ont reduced — voies sont too étroit.",
+        "Laissant blocs colorés dans feeding voie, qui forces les blocs violet à detour."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 84",
+    "description": "Résolvez le niveau 84 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

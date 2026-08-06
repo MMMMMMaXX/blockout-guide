@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-27",
+  "locale": "pt-br",
+  "levelNumber": 27,
+  "title": "Guia do nível 27 do Block Out",
+  "summary": "Block Out Nível 27 é bolso-libere chefe quebra-cabeça. Vazio direita cavity primeiro, comece lowering esquerda `7` chefe segundo, e único então limpo cima tarde verde, vermelho, e amarelo tiras.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "Block Out Nível 27 é bolso-libere chefe quebra-cabeça. Vazio direita cavity primeiro, comece lowering esquerda `7` chefe segundo, e único então limpo cima tarde verde, vermelho, e amarelo tiras.",
+        "landmarks": [
+          "Block Out Nível 27 é bolso-libere chefe quebra-cabeça.",
+          "Vazio direita cavity primeiro, comece lowering esquerda `7` chefe segundo, e único então limpo cima tarde verde, vermelho, e amarelo tiras.",
+          "Tabuleiro mistura Roxo, Branco, Preto e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Direita bolso abre esquerda chefe.",
+        "Tarde cor tiras são post-chefe limpeza.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Vazio direita branco-e-preto cavity primeiro."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Inferior esquerda-lateral contadores enquanto chefe é ainda intacto."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece encolhendo emoldurado `7` painel único depois lateral bolso é limpar."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use newly aberto espaço para gire tarde verde e vermelho tiras."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Bring amarelo remova em único depois chefe é já abaixo mid-contagem."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar lateral saídas uma vez chefe é quase indo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último cor tiras depois emoldurado painel tem collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Ignorando direita cavity e puxando em esquerda chefe também cedo.",
+        "Treating tarde cor tiras como abertura fase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 27 do Block Out",
+    "description": "Resolva o nível 27 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

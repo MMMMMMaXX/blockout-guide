@@ -1,0 +1,91 @@
+{
+  "id": "de-level-72",
+  "locale": "de",
+  "levelNumber": 72,
+  "title": "Block Out Level 72 Lösung",
+  "summary": "Block Out Level 72 packs 5×7 Raster mit numbered Blöcke '6' und '11' auf sides, freigeben-sliding smiley Blöcke in mittlere, und gerichtet Pfeil-Blöcke auf edges. Numbered Blöcke muss Ausgang durch ihr gates while smiley b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out Level 72 packs 5×7 Raster mit numbered Blöcke '6' und '11' auf sides, freigeben-sliding smiley Blöcke in mittlere, und gerichtet Pfeil-Blöcke auf edges. Numbered Blöcke muss Ausgang durch ihr gates while smiley Blöcke sind freigeben zu bewegen. Räumen unten erste, dann arbeiten smiley Blöcke, und beenden mit numbered Blöcke.",
+        "landmarks": [
+          "Block Out Level 72 packs 5×7 Raster mit numbered Blöcke '6' und '11' auf sides, freigeben-sliding smiley Blöcke in mittlere, und gerichtet Pfeil-Blöcke auf edges.",
+          "Numbered Blöcke muss Ausgang durch ihr gates while smiley Blöcke sind freigeben zu bewegen.",
+          "Räumen unten erste, dann arbeiten smiley Blöcke, und beenden mit numbered Blöcke."
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Smiley Blöcke in mittlere sind freigeben-sliding — verwenden dieses freedom zu räumen paths für numbered Blöcke.",
+        "Räumen lighter '6' Block erste, dann heavier '11' Blöcke.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen grün smiley Blöcke bei unten durch unten Ausgang zu öffnen base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben gelb Blöcke auf links hinaus durch links Ausgang zu öffnen untere linke Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin sliding orange und gelb smiley Blöcke in mittlere freely — sie kann bewegen in irgendein direction."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen blau Blöcke auf rechts durch rechts Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Tackle numbered Blöcke mit Zähler '6' und '11' — räumen lighter '6' erste."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit heavier '11' Blöcke, welche haben meisten Raum nach others sind geräumt."
+        }
+      ],
+      "failurePoints": [
+        "Räumend numbered '11' Blöcke bevor smiley Blöcke — '11' Blöcke need Raum zu schieben und Ausgang multiple times.",
+        "Räumend oben bevor unten, welche lässt untere Blöcke eingesperrt mit kein sliding Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 72 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 72 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

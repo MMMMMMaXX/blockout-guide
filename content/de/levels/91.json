@@ -1,0 +1,93 @@
+{
+  "id": "de-level-91",
+  "locale": "de",
+  "levelNumber": 91,
+  "title": "Block Out Level 91 Lösung",
+  "summary": "Block Out Level 91 startet mit gestapelt `7` und `5` chambers, aber real choke point ist Mitte elevator dass appears nach oben chamber shrinks. Räumen packed linke Wand erste, drain `7` chamber second, und dann sauber n...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "Block Out Level 91 startet mit gestapelt `7` und `5` chambers, aber real choke point ist Mitte elevator dass appears nach oben chamber shrinks. Räumen packed linke Wand erste, drain `7` chamber second, und dann sauber numbered türkis Bahn bevor letzte Seite Bauteile lassen.",
+        "landmarks": [
+          "Block Out Level 91 startet mit gestapelt `7` und `5` chambers, aber real choke point ist Mitte elevator dass appears nach oben chamber shrinks.",
+          "Räumen packed linke Wand erste, drain `7` chamber second, und dann sauber numbered türkis Bahn bevor letzte Seite Bauteile lassen.",
+          "Das Spielfeld mixes Lila, Grün, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Wenn linke Wand ist still crowded, `7` chamber ist nicht ready.",
+        "Türkis countdown Bahn ist part dass actually verklemmt spät game.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Soften linke Wand durch räumend grün ladder und gelb Spalte neben es."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Freigeben small rot Quadrat near mittlere also Mitte shaft ist nicht boxed in later."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten shrinking obere `7` chamber nur nach linke Wand ist lighter."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Let Mitte elevator öffnen und räumen türkis countdown Bahn dass appears zwischen chambers."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen untere `5` chamber once shaft ist kein longer blocked durch gelb und rot vertikal Bauteile."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit remaining rot und grün Seite Bauteile nach mittlere Bahn ist empty."
+        }
+      ],
+      "failurePoints": [
+        "Shrinking `7` chamber bevor linke Wand hat geöffnet enough Raum für Mitte shaft.",
+        "Ignoring türkis countdown Bahn und jumping straight von `7` chamber zu `5` chamber."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 91 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 91 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

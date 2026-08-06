@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-37",
+  "locale": "zh-cn",
+  "levelNumber": 37,
+  "title": "Block Out 第 37 关通关攻略",
+  "summary": "Block Out 第 37 关围绕一个带橙色框、计数 `7` 的大型 Boss 方块展开。两块小型 `1` 计数支撑块直接位于 Boss 下方，必须先分离以开辟下落通道。底部的绿色方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "Block Out 第 37 关围绕一个带橙色框、计数 `7` 的大型 Boss 方块展开。两块小型 `1` 计数支撑块直接位于 Boss 下方，必须先分离以开辟下落通道。底部的绿色方块先排出，接着侧边的蓝与粉方块变薄，待下方通道清空后 Boss 最终下落。Boss 在约 01:11 倒下后，第二波粉与蓝方块仍需清理。",
+        "landmarks": [
+          "Block Out 第 37 关围绕一个带橙色框、计数 `7` 的大型 Boss 方块展开。两块小型 `1` 计数支撑方块就位于 Boss 正下方，必须先分离以创造下落通道。底部的绿色方块较早排出，侧面的蓝粉方块接着变薄，而 Boss 一旦下方通道清空便最终下降。Boss 在约 01:11 倒下后，第二波粉蓝方块留待清理。",
+          "两块小型 `1` 计数支撑方块就位于 Boss 正下方，必须先分离以创造下落通道。",
+          "底部的绿色方块较早排出，侧面的蓝粉方块接着变薄，而 Boss 一旦下方通道清空便最终下降。",
+          "Boss 在约 01:11 倒下后，第二波粉蓝方块留待清理。"
+        ],
+        "colors": ["yellow", "blue", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boss 下方的两块 `1` 计数方块看起来很小，但它们是闸门——不去掉它们，Boss 就没有向下的通道。",
+        "底部的绿色方块是早期出口。先清理它们以创造下方空间。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把左侧的黄色长条滑开，打开左侧通道。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "通过蓝色出口箭头清理底部的绿色方块，在 Boss 下方创造空间。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "移除直接位于 Boss 方块下方的两块 `1` 计数方块。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "移动右侧的蓝色方块，给 Boss 横向空间。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "随着 Boss 计数降到 `5` 附近，继续削薄两侧的粉蓝方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "一旦计数足够低（约 01:11 可见），就让 Boss 方块通过清空的下方通道落下。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在 Boss 消失后，完成剩余的粉蓝清理方块。"
+        }
+      ],
+      "failurePoints": [
+        "在两块 `1` 计数支撑方块仍就位时就试图降低 Boss 方块——Boss 需要一条清晰的垂直通道才能落下。",
+        "在底部绿色出口打开之前就清理侧块，导致下方区域拥挤，Boss 无处可落。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 37 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 37 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

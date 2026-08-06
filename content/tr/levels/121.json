@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-121",
+  "locale": "tr",
+  "levelNumber": 121,
+  "title": "Block Out Seviye 121 Rehberi",
+  "summary": "Block Out Seviye 121 splits tahta mavi-ve-sarı üst conveyor ve daha düşük damalı ızgara, bağlı ile besle şerit. üst tepşi meli boşalt completely önce yeşil `31` crown blok daha düşük ızgarada kilidini açar. rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "Block Out Seviye 121 splits tahta mavi-ve-sarı üst conveyor ve daha düşük damalı ızgara, bağlı ile besle şerit. üst tepşi meli boşalt completely önce yeşil `31` crown blok daha düşük ızgarada kilidini açar. sağ-yan `5` ok karo son gatekeeper — temizle o çok geç ve crown kalır boxed bile sonrada conveyor boş.",
+        "landmarks": [
+          "Block Out Seviye 121 splits tahta mavi-ve-sarı üst conveyor ve daha düşük damalı ızgara, bağlı ile besle şerit.",
+          "Üst tepşi meli boşalt completely önce yeşil `31` crown blok daha düşük ızgarada kilidini açar.",
+          "Sağ-yan `5` ok karo son gatekeeper — temizle o çok geç ve crown kalır boxed bile sonrada conveyor boş."
+        ],
+        "colors": ["blue", "yellow", "red", "orange", "green", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boşalt üst tepşi completely önce kovalayarak yeşil `31` crown.",
+        "Tut daha düşük camgöbeği `19` sütun park edildi kadar üst tepşi gider dark.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle üst mavi/sarı damalı sağdan-yan sarı oklar daha düşük tepşiye."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle üst kırmızı `23` sıra ve sol-kenar camgöbeği `7` badge kadar üst tepşi gider dark."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Soy daha düşük kırmızı/turuncu/yeşil üst tavan olmadan dokunarak merkez beyaz `15` yuva."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kır yeşil `31` crown blok sonra sol camgöbeği `19` sütun açılır şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca mavi `10` karo ve sağ-yan `5` ok sayaç önce sarı istifler ince."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile alt camgöbeği `26` sayaç ve kalan mavi/sarı artıklar için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kovalayarak yeşil `31` crown önce üst tepşi fully dark — bu boxes merkez `15` yuva.",
+        "Temizleyerek sarı istifler önce mavi `10` karo hamleler, mühürleyerek alt camgöbeği `26` sayaç."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 121 Rehberi ve Çözümü",
+    "description": "Block Out seviye 121'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-40",
+  "locale": "pt-br",
+  "levelNumber": 40,
+  "title": "Guia do nível 40 do Block Out",
+  "summary": "Block Out Nível 40 tem chefe moldura já em contador `0` — ele does não precisa redução, apenas physical prateleira de blocos underneath removed. densely empacotado azul, vermelho, verde, e amarelo blocos abaixo moldura form que prateleira, e th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out Nível 40 tem chefe moldura já em contador `0` — ele does não precisa redução, apenas physical prateleira de blocos underneath removed. densely empacotado azul, vermelho, verde, e amarelo blocos abaixo moldura form que prateleira, e resolva é about deslocando direita blocos para quebre suporte. Uma vez prateleira goes, moldura limpa instantly e restante blocos unwind através lateral saídas.",
+        "landmarks": [
+          "Block Out Nível 40 tem chefe moldura já em contador `0` — ele does não precisa redução, apenas physical prateleira de blocos underneath removed.",
+          "Densely empacotado azul, vermelho, verde, e amarelo blocos abaixo moldura form que prateleira, e resolva é about deslocando direita blocos para quebre suporte.",
+          "Uma vez prateleira goes, moldura limpa instantly e restante blocos unwind através lateral saídas."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chefe reads `0` — do não waste movimentos tentando para reduza ele. Apenas remova prateleira underneath.",
+        "Assista para blocos deslizando cima para rebuild prateleira quando você limpar inferior fileira em errado ordem.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar pequeno `2`-contador blocos em esquerda borda para crie primeiro abertura."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize azul blocos longe de diretamente debaixo chefe moldura para comece weakening prateleira."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque vermelho blocos em centro para quebre último suporte point debaixo `0`-contador moldura."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Assista chefe moldura limpar instantly uma vez prateleira é indo (visível em 01:24)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use newly aberto superior espaço para ordene restante colorido blocos."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente vermelho e verde blocos através lateral saídas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com amarelo e azul limpeza depois espaço tem flattened."
+        }
+      ],
+      "failurePoints": [
+        "Treating chefe como standard contador quebra-cabeça — `0` significa ele precisa no redução, único prateleira quebre.",
+        "Deslocando errado inferior bloco primeiro, que causas restante peças para deslize cima e rebuild prateleira debaixo chefe moldura."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 40 do Block Out",
+    "description": "Resolva o nível 40 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

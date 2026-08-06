@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-150",
+  "locale": "pt-br",
+  "levelNumber": 150,
+  "title": "Guia do nível 150 do Block Out",
+  "summary": "O nível 150 do Block Out encerra o conjunto com um tabuleiro compacto de correspondência de 4 colunas — enganosamente simples após a sequência Super Difícil. As peças-âncora duplas `6` e os contadores de grupo `3` do trilho esquerdo são os únicos objetivos. Os empurradores verdes de seta para a direita na...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/150/",
+        "layout": "O nível 150 do Block Out encerra o conjunto com um tabuleiro compacto de correspondência de 4 colunas — enganosamente simples após a sequência Super Difícil. As peças-âncora duplas `6` e os contadores de grupo `3` do trilho esquerdo são os únicos objetivos. Os empurradores verdes de seta para a direita na borda direita deslizam fileiras inteiras horizontalmente, transformando isto em um jogo de fileiras deslizantes em vez da habitual extração de blocos.",
+        "landmarks": [
+          "O nível 150 do Block Out encerra o conjunto com um tabuleiro compacto de correspondência de 4 colunas — enganosamente simples após a sequência Super Difícil.",
+          "Dual `6` ancore peças e esquerda-trilho `3` grupo contadores são único objetivos.",
+          "Verde direita-seta pushers em direita borda deslize entire fileiras horizontally, turning este em deslizando-fileiras game em vez do que usual bloco extraction."
+        ],
+        "colors": ["blue", "red", "yellow", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mMIsmNrntpQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mMIsmNrntpQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre superior azul 6 antes que abertura centro-direita lacuna com segundo pusher.",
+        "Mova inferior azul 1×2 único depois verde 6 peça limpa.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Tap verde direita-seta para deslize superior-direita verde 1×2 leftward, correspondência superior vermelho/amarelo par sem deslocando azul 6."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar superior azul 6 peça por correspondência azul coluna abaixo ele uma vez superior fileira afina."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use segundo verde direita-seta pusher para abra centro-direita lacuna depois primeiro faixa limpa."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Correspondência meio vermelho/vermelho/amarelo faixa para tick superior esquerda-trilho 3 contador baixo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Quebre inferior-esquerda verde 6 peça por deslizando inferior azul 1×2 em azul/vermelho par."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar inferior vermelho/amarelo/vermelho faixa para gaste inferior esquerda-trilho 3 contador."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Tap direita-seta um último tempo para eject final amarelo scrap para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando inferior azul 1×2 antes que verde 6 quebra, stranding vermelho par longe de direita-seta pista.",
+        "Usando segundo pusher antes que superior azul 6 limpa, dividindo superior faixa e wasting 3 contador."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/150/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 150 do Block Out",
+    "description": "Resolva o nível 150 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

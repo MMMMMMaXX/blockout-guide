@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-69",
+  "locale": "ko",
+  "levelNumber": 69,
+  "title": "블록 아웃 레벨 69 공략",
+  "summary": "블록 아웃 레벨 69는 '슈퍼 하드' 사분면 4챔버 보스 레벨로, 큰 보라색 블록 네 개 — 위에는 카운터 '7'과 '8', 아래에는 '10'과 '4' — 가 있습니다. 아래쪽의 파란색 '12' 블록은 추가 무거운 목표입니다. 먼저 아래를 클리어...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "블록 아웃 레벨 69는 '슈퍼 하드' 사분면 4챔버 보스 레벨로, 큰 보라색 블록 네 개 — 위에는 카운터 '7'과 '8', 아래에는 '10'과 '4' — 가 있습니다. 아래쪽의 파란색 '12' 블록은 추가 무거운 목표입니다. 먼저 아래를 클리어한 다음, 보라색 블록을 병렬로 작업하며 작은 것들이 더 빨리 클리어되고 큰 것들이 점차 열리도록 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 69는 '슈퍼 하드' 사분면 4챔버 보스 레벨로, 큰 보라색 블록 네 개 — 위에는 카운터 '7'과 '8', 아래에는 '10'과 '4' — 가 있습니다.",
+          "아래쪽의 파란색 '12' 블록은 추가 무거운 목표입니다.",
+          "먼저 아래를 클리어한 다음, 보라색 블록을 병렬로 작업하며 작은 것들이 더 빨리 클리어되고 큰 것들이 점차 열리도록 하세요."
+        ],
+        "colors": ["보라색", "파란색", "노란색", "빨간색", "초록색"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'슈퍼 하드' 표시는 더 촘촘한 배치를 뜻합니다. 공간을 만들려면 먼저 작은 보라색 블록을 클리어하세요.",
+        "아래쪽 파란색 '12' 블록은 가장 많은 공간이 필요합니다. 먼저 클리어하세요.",
+        "연쇄 클리어를 염두에 두세요. 가장 좋은 수는 당장의 가장 빠른 매칭이 아니라, 다음 두 수를 만들어주는 수입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "가장 많은 공간이 필요한 카운터 '12' 아래쪽 파란색 블록을 왼쪽 출구로 클리어하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "오른쪽 아래 영역을 열기 위해 오른쪽의 노란색 블록을 오른쪽 출구로 밀어내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "가장 가볍고 가장 빨리 클리어되는 오른쪽 아래 카운터 '4' 보라색 블록을 비우기 시작하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "왼쪽 아래 카운터 '10' 보라색 블록을 병렬로 작업하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "왼쪽 위 카운터 '7' 보라색 블록으로 넘어가세요. '8'보다 가볍습니다."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "다른 것들이 비운 후 가장 많은 공간이 생긴 오른쪽 위 카운터 '8' 보라색 블록으로 마무리하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "비워진 챔버 사이에 갇힌 남은 색 블록을 클리어하세요."
+        }
+      ],
+      "failurePoints": [
+        "작은 블록보다 '10'이나 '8' 블록을 먼저 비우면 — 큰 블록은 움직일 공간이 필요하며, 먼저 클리어하면 다른 블록의 미끄러짐 벽이 사라집니다.",
+        "아래쪽 파란색 '12' 블록을 무시하는 것 — 가장 무겁고 나가려면 가장 많은 공간이 필요합니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 69 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 69을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

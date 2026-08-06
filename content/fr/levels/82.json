@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-82",
+  "locale": "fr",
+  "levelNumber": 82,
+  "title": "Guide Block Out Niveau 82",
+  "summary": "Block Out Niveau 82 fills plateau avec blocs numérotés ranging de compteur '1' à '11', plus verrou-et-clé blocs que porte extraction sequence. Presque chaque bloc a compteur. Dégagez lightest compteurs premier (1, 2, 3) à ouvrez l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "Block Out Niveau 82 fills plateau avec blocs numérotés ranging de compteur '1' à '11', plus verrou-et-clé blocs que porte extraction sequence. Presque chaque bloc a compteur. Dégagez lightest compteurs premier (1, 2, 3) à ouvrez voies, work medium compteurs (4, 5) suivant, et économisez heavy blocs (compteurs '9' et '11' sur le côté gauche) pour dernier quand plateau a most salle.",
+        "landmarks": [
+          "Block Out Niveau 82 fills plateau avec blocs numérotés ranging de compteur '1' à '11', plus verrou-et-clé blocs que porte extraction sequence.",
+          "Presque chaque bloc a compteur.",
+          "Dégagez lightest compteurs premier (1, 2, 3) à ouvrez voies, work medium compteurs (4, 5) suivant, et économisez heavy blocs (compteurs '9' et '11' sur le côté gauche) pour dernier quand plateau a most salle."
+        ],
+        "colors": ["green", "cyan", "violet", "yellow", "pink", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Always dégagez le plus bas-compteur blocs premier — chaque one opens voies pour suivant.",
+        "Correspondre verrou-et-clé blocs tôt à déverrouillez gated sections.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le bloc jaune (compteur '1') dans le centre à ouvrez le milieu."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract compteur '2' bloc à le bas à travers la sortie inférieure."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Work le bloc vert (compteur '3') centre-droite à travers la sortie droite."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez verrou blocs par correspondant les avec leur clés à déverrouillez gated sections."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez le bloc violet (compteur '4') et bloc vert (compteur '5') à travers leur sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Acheminez heavy blocs (compteurs '9' et '11') sur la gauche à travers widened voies dernier."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à alimentez high-compteur bloc avant lighter blocs ont opened voies — il jams immediately.",
+        "Ignoring verrou-et-clé sequence, laissant gated blocs inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 82",
+    "description": "Résolvez le niveau 82 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

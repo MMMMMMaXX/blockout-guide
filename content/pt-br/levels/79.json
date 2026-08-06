@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-79",
+  "locale": "pt-br",
+  "levelNumber": 79,
+  "title": "Guia do nível 79 do Block Out",
+  "summary": "Block Out Nível 79 é dois-fase tabuleiro. Primeiro você escoe enorme roxo `17` reservoir sentado debaixo dois apertado superior wells. Então tabuleiro colapsa em inferior bandeja onde roxo bridge-shaped peça deve mova antes que azul e oran...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out Nível 79 é dois-fase tabuleiro. Primeiro você escoe enorme roxo `17` reservoir sentado debaixo dois apertado superior wells. Então tabuleiro colapsa em inferior bandeja onde roxo bridge-shaped peça deve mova antes que azul e laranja blocos em direita pode escape.",
+        "landmarks": [
+          "Block Out Nível 79 é dois-fase tabuleiro.",
+          "Primeiro você escoe enorme roxo `17` reservoir sentado debaixo dois apertado superior wells.",
+          "Então tabuleiro colapsa em inferior bandeja onde roxo bridge-shaped peça deve mova antes que azul e laranja blocos em direita pode escape."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat grande `17` reservoir como opener, não `7` câmara.",
+        "Quando inferior bandeja aparece, abra esquerda lateral antes que você tente para livre azul passos em direita.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Escoe gigante inferior câmara marcado `17` antes que você overwork either superior bem."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Enquanto que reservoir é caindo, limpo superior-esquerda pista por movendo vermelho L-forma e verde stair para fora de cada outro's caminho."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece reducing superior-direita `7` câmara único depois esquerda bem é no mais longo clogging lateral contadores."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quando ambos roxo câmaras são indo, switch focus para inferior bandeja que aparece abaixo os."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Abra esquerda lateral de que inferior bandeja primeiro, então mova roxo bridge peça so azul stepped bloco em direita tem roteie."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com direita-lateral azul e laranja blocos depois centro pista é vazio."
+        }
+      ],
+      "failurePoints": [
+        "Treating superior-direita `7` câmara como primeiro alvo em vez de escoando `17` reservoir underneath ele.",
+        "Tentando para limpar direita-lateral azul passos em inferior bandeja antes que roxo bridge peça tem movido."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 79 do Block Out",
+    "description": "Resolva o nível 79 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "de-level-30",
+  "locale": "de",
+  "levelNumber": 30,
+  "title": "Block Out Level 30 Lösung",
+  "summary": "Block Out Level 30 ist L-shaped Raum built around hoch framed Boss Spalte mit `11` Zähler. Rot, weiß, und schwarz Blöcke packed around tower base muss sein geräumt erste zu bring Zähler runter, und tower nur collaps...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "Block Out Level 30 ist L-shaped Raum built around hoch framed Boss Spalte mit `11` Zähler. Rot, weiß, und schwarz Blöcke packed around tower base muss sein geräumt erste zu bring Zähler runter, und tower nur collapses once es fällt … lassen zu around `2`. Nach Spalte falls, second wave von grün, rot, und weiß Blöcke spills hinaus von inside shaft und needs sein own separation phase.",
+        "landmarks": [
+          "Block Out Level 30 ist L-shaped Raum built around hoch framed Boss Spalte mit `11` Zähler.",
+          "Rot, weiß, und schwarz Blöcke packed around tower base muss sein geräumt erste zu bring Zähler runter, und tower nur collapses once es fällt … lassen zu around `2`.",
+          "Nach Spalte falls, second wave von grün, rot, und weiß Blöcke spills hinaus von inside shaft und needs sein own separation phase."
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Track Boss Zähler number, nicht tower height — wenn Zähler still reads `5` oder higher, base needs mehr arbeiten.",
+        "Hinausführen grün Ausgang bei unten Mitte bevor Versuchen zu verwenden linke Wand exits für inner mass.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben links-Seite rot Blöcke toward linke Wand exits zu create erste gap neben tower base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Bewegen weiß Blöcke hinaus von mittlere base zu öffnen Bahn zwischen tower und rechts-Seite rot mass."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen rechts-Seite rot und schwarz Blöcke durch gaps created durch erste two Züge, watching Boss Zähler fallen lassen mit jede Bauteil."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once Zähler falls zu `2`, let framed Spalte collapse — inner grün und weiß Blöcke wird spill in base Bereich."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Trennen revealed grün Blöcke und hinausführen sie durch unten-Mitte grün Ausgang erste."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Verwenden linke Wand exits für remaining weiß und rot inner Bauteile."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte rot tower segment nach shaft ist empty und base ist flat."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu force Boss Spalte runter while base Bereich ist still packed mit rot und weiß Blöcke — Zähler barely Züge weil dort ist kein Bahn für base Bauteile zu escape in.",
+        "Ignoring grün unten-Mitte Ausgang in favor von linke Wand exits when inner mass spills hinaus, welche causes Verkehr jam in horizontal section."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 30 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 30 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

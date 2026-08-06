@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-10",
+  "locale": "ja",
+  "levelNumber": 10,
+  "title": "ブロックアウト レベル10 攻略",
+  "summary": "ブロックアウト レベル10は、単色を巨大な数字スラブに置き換えた盤面です。上部の白のブロッカーを消去し、黄のタイルを右の通路へと剥がし、それからでのみ大きなシアンのブロックを中央へ流し込みます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "ブロックアウト レベル10は、単色を巨大な数字スラブに置き換えた盤面です。上部の白のブロッカーを消去し、黄のタイルを右の通路へと剥がし、それからでのみ大きなシアンのブロックを中央へ流し込みます。",
+        "landmarks": [
+          "ブロックアウト レベル 10 スラブ.。",
+          "を消去して上 白 ブロッカー、黄タイルを剥がして右 通路を下って、を出してシアン 中央.。",
+          "混ぜる シアン、白、黒、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上 白 出口 .。",
+        "黄 列 減らし、シアン スラブ 手順.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を送りて上-右 白 ブロッカー 上 白の出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして黄 タイル 下 右 通路、上の 黒 ブロッカー 手順.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を維持して黄 タイル、黒 ブロッカー、シアン 出口 右 開始 スラブ ずらす.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "をスライドさせて上の シアン 下へ、`22/21/19` 塊 下の 通路 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "右 列、を引きて中央の 白 ブロック 赤 レーン、を解放して黄 タイル 下-右 終える.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて中央の 分離する シアン スラブ 赤、青 終える .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えてピンク、青、赤の棒、シアン ブロック 左.。"
+        }
+      ],
+      "failurePoints": [
+        "を扱いてシアン 開始の手順、右 通路 .。",
+        "黄のを残してタイル 右 黒 ブロッカー 必要とする 回転させる.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル10 攻略と解説",
+    "description": "ブロックアウト レベル10 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

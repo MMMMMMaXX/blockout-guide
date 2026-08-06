@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-17",
+  "locale": "ko",
+  "levelNumber": 17,
+  "title": "블록 아웃 레벨 17 공략",
+  "summary": "블록 아웃 레벨 17은 프레임 경첩 숫자 보드입니다. 먼저 노란색 지붕을 다듬고, 두 번째로 녹색 중앙 프레임을 풀고, 그제야 `19`, `18`, `16`이 표시된 넓은 청록색 판을 평평하게 펴세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "블록 아웃 레벨 17은 프레임 경첩 숫자 보드입니다. 먼저 노란색 지붕을 다듬고, 두 번째로 녹색 중앙 프레임을 풀고, 그제야 `19`, `18`, `16`이 표시된 넓은 청록색 판을 평평하게 펴세요.",
+        "landmarks": [
+          "블록 아웃 레벨 17은 프레임 경첩 숫자 보드입니다.",
+          "먼저 노란색 지붕을 다듬고, 두 번째로 녹색 중앙 프레임을 잠금 해제한 뒤, 그때 가서 `19`, `18`, `16`이 표시된 넓은 청록색 판을 펴세요.",
+          "보드는 노란색, 초록색, 청록색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "노란색 지붕이 경첩을 느슨하게 합니다.",
+        "큰 청록색 판은 중앙 프레임 이후에, 그 이전에는 움직이지 마세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "`16` 카운터가 떨어지기 시작하도록 맨 위 노란색 행과 오른쪽 위 측면 차선을 깎아내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "위쪽 카운터가 충분히 무게를 잃을 때까지 프레임된 녹색 중앙을 잠근 채로 두세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "위쪽 차선이 열리면 빨간색과 파란색 측면 막대를 가운데로 회전시키세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "그 새 공간을 이용해 프레임된 녹색 사각형을 풀고 아래쪽 청록색 판을 누르는 것을 멈추세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "아래에서 위로 `19`와 `18` 청록색 판을 평평하게 펴세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "중앙 프레임이 사라진 뒤 마지막 분홍색과 파란색 측면 조각을 치우세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "넓은 청록색 층이 완전히 분리되면 아래쪽 바닥 카운터를 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "노란색 지붕이 가벼워지기 전에 녹색 경첩을 움직이려는 것.",
+        "아래쪽 청록색 카펫을 시작 퍼즐처럼 다루는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 17 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 17을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

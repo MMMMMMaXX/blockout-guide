@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-100",
+  "locale": "pt-br",
+  "levelNumber": 100,
+  "title": "Guia do nível 100 do Block Out",
+  "summary": "Block Out Nível 100 é curto anel-rotation tabuleiro construído ao redor um movendo vazio bolso. Abra esquerda lateral primeiro, chase lacuna para superior-direita canto, e então use limpo meio coluna para flush final verde lajes através t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out Nível 100 é curto anel-rotation tabuleiro construído ao redor um movendo vazio bolso. Abra esquerda lateral primeiro, chase lacuna para superior-direita canto, e então use limpo meio coluna para flush final verde lajes através superior e direita saídas.",
+        "landmarks": [
+          "Block Out Nível 100 é curto anel-rotation tabuleiro construído ao redor um movendo vazio bolso.",
+          "Abra esquerda lateral primeiro, chase lacuna para superior-direita canto, e então use limpo meio coluna para flush final verde lajes através superior e direita saídas.",
+          "Tabuleiro mistura Verde, Amarelo, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantenha vazio bolso movendo. Se ele obtém enterrado em meio também cedo, anel stalls.",
+        "Superior-direita canto should abra antes que você tente para dinheiro superior-centro verde laje.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Use pequeno lacuna em esquerda lateral de anel para comece rotation."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque superior-fileira lajes so vazio bolso movimentos em superior-direita canto."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Abra meio coluna uma vez que superior-direita canto é limpar."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Envie superior-centro verde laje para fora através superior saída como soon como seu pista abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar direita-lateral verde laje próximo, então alimente restante amarelo lajes ao redor anel."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último verde blocos uma vez centro é vazio."
+        }
+      ],
+      "failurePoints": [
+        "Soltando laje em meio antes que vazio bolso tem rotated para superior-direita canto.",
+        "Tentando para limpar superior-centro verde laje antes que meio coluna é actually abra."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 100 do Block Out",
+    "description": "Resolva o nível 100 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

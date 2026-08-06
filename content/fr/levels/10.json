@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-10",
+  "locale": "fr",
+  "levelNumber": 10,
+  "title": "Guide Block Out Niveau 10",
+  "summary": "Block Out Niveau 10 replaces plain couleurs avec géant numéro dalles. Dégagez le haut blanc blocker, pelez les tuiles jaune bas la droite corridor, et seulement alors laissez large blocs cyan cascade dans le centre.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "Block Out Niveau 10 replaces plain couleurs avec géant numéro dalles. Dégagez le haut blanc blocker, pelez les tuiles jaune bas la droite corridor, et seulement alors laissez large blocs cyan cascade dans le centre.",
+        "landmarks": [
+          "Block Out Niveau 10 replaces plain couleurs avec géant numéro dalles.",
+          "Dégagez le haut blanc blocker, pelez les tuiles jaune bas la droite corridor, et seulement alors laissez large blocs cyan cascade dans le centre.",
+          "Le plateau mélange cyan, blanc et noir et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Haut sortie blanc est premier nettoiez action.",
+        "Jaune numéro colonne est wedge que doit être reduced avant les dalles cyan déplacez.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Envoyez le haut-droite blanc blocker haut à travers la porte blanc."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez premier jaune numéro tuile bas la droite corridor donc supérieur noir blocker peut déplacez."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez alterné les tuiles jaune et noir blockers jusqu'à la porte cyan sur la droite starts opening assez pour large dalles à décalez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Glissez supérieur cyan rectangles vers le bas dans stages, turning `22/21/19` amas dans abaissez placements comme corridor dégage."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois la droite colonne est non longer jammed, tirez le milieu bloc blanc dans la voie rouge et relâchez restant jaune numéro tuiles à travers le bas-droite terminez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Utilisez nouveau central espace à séparé dernier dalles cyan de rouge et bleu terminez barres."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec court rose, bleu, et barres rouge après final bloc cyan a déjà gauche."
+        }
+      ],
+      "failurePoints": [
+        "Treating big blocs cyan comme opening déplacez au lieu de de reducing la droite corridor premier.",
+        "Laissant jaune numéro tuiles empilé sur la droite quand noir blockers toujours besoin à tournez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 10",
+    "description": "Résolvez le niveau 10 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

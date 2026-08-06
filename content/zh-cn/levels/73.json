@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-73",
+  "locale": "zh-cn",
+  "levelNumber": 73,
+  "title": "Block Out 第73关攻略",
+  "summary": "Block Out 第73关在一个5×7的网格中，底部有一个大号紫色「17」方块，中间是自由滑动的笑脸方块，两侧是带方向箭头的方块。紫色方块需要 17 次出口——先清空顶部……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/73/",
+        "layout": "Block Out 第73关在一个5×7的网格中，底部有一个大号紫色「17」方块，中间是自由滑动的笑脸方块，两侧是带方向箭头的方块。紫色方块需要 17 次出口——先清空顶部，再处理笑脸方块，最后处理底部沉重的紫色方块。",
+        "landmarks": [
+          "Block Out 第73关在一个5×7的网格中，底部有一个大号紫色「17」方块，中间是自由滑动的笑脸方块，两侧是带方向箭头的方块。",
+          "紫色方块需要 17 次出口——先清空顶部，再处理笑脸方块，最后处理底部沉重的紫色方块。",
+          "棋盘混合了紫色、红色、橙色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "red", "orange", "blue", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Ny0dQAgq5AE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Ny0dQAgq5AE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "紫色「17」方块是一场马拉松——先清空笑脸方块来腾出空间。",
+        "中间的笑脸方块可自由滑动——利用这种自由为箭头方块清理通道。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将顶部的红色和橙色方块从顶部出口清空，打通上层。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧的蓝色方块从左出口移出，打通左下区域。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始自由滑动中间的绿色和黄色笑脸方块——它们可向任意方向移动。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "随着中间打开，将右侧的红色方块从右出口清空。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "处理底部的大号紫色「17」方块——它需要 17 次出口才能完全清空。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后清理残留在角落里的笑脸方块。"
+        }
+      ],
+      "failurePoints": [
+        "在笑脸方块之前就试图清空「17」方块——它需要空间来滑动并多次出口。",
+        "先清中间再清顶部，导致上方方块被卡住，没有滑动空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/73/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第73关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第73关。"
+  },
+  "updatedAt": "2026-08-03"
+}

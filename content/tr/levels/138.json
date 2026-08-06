@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-138",
+  "locale": "tr",
+  "levelNumber": 138,
+  "title": "Block Out Seviye 138 Rehberi",
+  "summary": "Block Out Seviye 138 lines yukarı üç turuncu-çerçeveli tubes — `7`, `9`, `13` — tahta's sadece progress trackers, fed multicolordan taban ızgara headerdan `2` cihaz. sağ-sütun `3` sayaç ve taban levhalar meli align önce...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/138/",
+        "layout": "Block Out Seviye 138 lines yukarı üç turuncu-çerçeveli tubes — `7`, `9`, `13` — tahta's sadece progress trackers, fed multicolordan taban ızgara headerdan `2` cihaz. sağ-sütun `3` sayaç ve taban levhalar meli align önce tubes accept input. it mor küme önce header fires ve lone kırmızı blok drifts `9` tube's besle şerit, stalling longest sayaç.",
+        "landmarks": [
+          "Block Out Seviye 138 lines yukarı üç turuncu-çerçeveli tubes — `7`, `9`, `13` — tahta's sadece progress trackers, fed multicolordan taban ızgara headerdan `2` cihaz.",
+          "Sağ-sütun `3` sayaç ve taban levhalar meli align önce tubes accept input.",
+          "It mor küme önce header fires ve lone kırmızı blok drifts `9` tube's besle şerit, stalling longest sayaç."
+        ],
+        "colors": ["yellow", "purple", "red", "blue", "green", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w0c0YTRTa2Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w0c0YTRTa2Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle isolated kırmızı alt-merkez blok son — doing o erken overfills 13 tube.",
+        "Besle sağ-yan sarı/mavi/kırmızı istifler sadece sonra 7 sütun hits zero.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle alt-sol mavi kare ve kırmızı yatay çift mavi soldan-ok şerit başla sol 7 sütun."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır merkez sarı yatay blok sağa doğru besle orta 9 sütun olmadan dokunarak sağ-yan 2 sayaç."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır sağ-yan sarı/mavi/kırmızı istifler yeşil sağdan-ok şerit sonra 7 sütun hits zero."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle kalan mor ve camgöbeği taban artıklar yukarı doğru sağ 13 sütun."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca header 2 cihaz ve kırmızı segmented çubuk sonra tüm üç sütun circles temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Boşalt sağ turuncu-sütun 3 sayaç ve çıkış son kırmızı singleton kırmızı altdan-ok için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek alt-merkez kırmızı blok önce header 2 harcar, overfilling 13 tube.",
+        "Besleyerek sağ-yan istifler önce 7 sütun temizlenir, locking yeşil sağ-ok şerit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/138/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 138 Rehberi ve Çözümü",
+    "description": "Block Out seviye 138'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

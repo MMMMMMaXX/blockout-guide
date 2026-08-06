@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-95",
+  "locale": "fr",
+  "levelNumber": 95,
+  "title": "Guide Block Out Niveau 95",
+  "summary": "Block Out Niveau 95 packs blocs colorés (rouge, orange, bleu, vert, violet, cyan) avec verrou/clé portes dans horizontal supérieur tier, pendant deux violet chambres fill abaissez section — compteur `14` dans orange cadre sur haut, compteur `11` dans...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/95/",
+        "layout": "Block Out Niveau 95 packs blocs colorés (rouge, orange, bleu, vert, violet, cyan) avec verrou/clé portes dans horizontal supérieur tier, pendant deux violet chambres fill abaissez section — compteur `14` dans orange cadre sur haut, compteur `11` dans orange cadre sous. Jaune accent blocs sur bords sont libérez single-pièce dégage. Videz supérieur tier completely, alors alimentez les deux chambres pour 25 total passes.",
+        "landmarks": [
+          "Block Out Niveau 95 packs blocs colorés (rouge, orange, bleu, vert, violet, cyan) avec verrou/clé portes dans horizontal supérieur tier, pendant deux violet chambres fill abaissez section — compteur `14` dans orange cadre sur haut, compteur `11` dans orange cadre sous.",
+          "Jaune accent blocs sur bords sont libérez single-pièce dégage.",
+          "Videz supérieur tier completely, alors alimentez les deux chambres pour 25 total passes."
+        ],
+        "colors": ["violet", "red", "orange", "blue", "green", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "S3a7Be6nABA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=S3a7Be6nABA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Prenez jaune bord blocs premier — ils sont libérez single-pièce dégage droite suivant à sorties.",
+        "Dégagez petit blocs entre tiers avant de départ `14` chambre alimentez.",
+        "Alimentez `14` chambre avant `11` — il needs more salle et more passes."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Poussez jaune bord blocs sur les deux sides à travers la gauche et droite sorties pour immediate salle (01:26 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez clé bloc (petit cyan avec clé icon) à déverrouillez le bloc orange dans supérieur tier (01:22)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Extract large blocs rouge de le centre-gauche à travers le haut ou sortie gauche parce que ils sont biggest mass dans supérieur tier (01:18)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez vert et blocs bleu de le côté droit de supérieur tier à travers la droite-mur sortie (01:15)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Remove petit cyan et blocs rouge entre supérieur tier et `14` chambre avant de départ alimentez parce que ils peut drift dans voie (01:11)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Commencez feeding supérieur violet chambre (compteur `14`) — gardez son voie permanently dégagez pour fourteen passes (01:07–00:56)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Alimentez abaissez violet chambre (compteur `11`) à travers le bas sorties — eleven passes à terminez (00:53–00:45)."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring jaune bord blocs à commencez — ils sont libérez salle et dégagement les premier fait chaque subsequent extraction faster.",
+        "De départ `14` chambre alimentez pendant petit cyan et blocs rouge entre tiers sont toujours present — ils drift dans alimentez voie et stall compteur."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/95/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 95",
+    "description": "Résolvez le niveau 95 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

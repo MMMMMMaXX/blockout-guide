@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-69",
+  "locale": "fr",
+  "levelNumber": 69,
+  "title": "Guide Block Out Niveau 69",
+  "summary": "Block Out Niveau 69 est 'Super Hard' quad-chambre boss niveau avec four large blocs violet — compteurs '7' et '8' sur haut, '10' et '4' sur le bas. bleu '12' bloc à le bas est supplémentaire heavy cible. Dégagez le bas premier...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out Niveau 69 est 'Super Hard' quad-chambre boss niveau avec four large blocs violet — compteurs '7' et '8' sur haut, '10' et '4' sur le bas. bleu '12' bloc à le bas est supplémentaire heavy cible. Dégagez le bas premier, alors work les blocs violet dans parallel, letting smaller ones dégagez faster pendant larger ones gradually ouvrez.",
+        "landmarks": [
+          "Block Out Niveau 69 est 'Super Hard' quad-chambre boss niveau avec four large blocs violet — compteurs '7' et '8' sur haut, '10' et '4' sur le bas.",
+          "Bleu '12' bloc à le bas est supplémentaire heavy cible.",
+          "Dégagez le bas premier, alors work les blocs violet dans parallel, letting smaller ones dégagez faster pendant larger ones gradually ouvrez."
+        ],
+        "colors": ["violet", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'Super Hard' label means tighter packing — dégagez smaller blocs violet premier à build espace.",
+        "Bleu '12' bloc à le bas needs most salle. Dégagez il premier.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez les blocs bleu à le bas avec compteur '12' à travers la sortie gauche — il needs most salle."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs jaune sur la droite hors à travers la sortie droite à ouvrez inférieur droit zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez draining le bas-droite bloc violet avec compteur '4' — il est lightest et dégage fastest."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Work le bas-gauche bloc violet avec compteur '10' dans parallel."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Déplacez à le haut-gauche bloc violet avec compteur '7' — il est lighter que '8'."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec le haut-droite bloc violet avec compteur '8', qui a most salle après others sont drained."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez un restant blocs colorés piégé entre emptied chambres."
+        }
+      ],
+      "failurePoints": [
+        "Draining '10' ou '8' blocs avant smaller ones — larger blocs besoin salle à maneuver, et dégagement les premier removes sliding murs pour others.",
+        "Ignoring bleu '12' bloc à le bas — il est heaviest et needs most salle à sortie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 69",
+    "description": "Résolvez le niveau 69 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

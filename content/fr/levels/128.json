@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-128",
+  "locale": "fr",
+  "levelNumber": 128,
+  "title": "Guide Block Out Niveau 128",
+  "summary": "Block Out Niveau 128 tombent character blocs — jaune smiley face et rouge heart-face tuiles — sur cadre-compteur plateau avec snowflake ice compteurs tracking restant sorties. character blocs sont real objectives, pas decoration. C...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/128/",
+        "layout": "Block Out Niveau 128 tombent character blocs — jaune smiley face et rouge heart-face tuiles — sur cadre-compteur plateau avec snowflake ice compteurs tracking restant sorties. character blocs sont real objectives, pas decoration. Dégagez la droite pile rouge avant ice compteur finishes et bloc smiley obtient gelé dans placez avec non sortie.",
+        "landmarks": [
+          "Block Out Niveau 128 tombent character blocs — jaune smiley face et rouge heart-face tuiles — sur cadre-compteur plateau avec snowflake ice compteurs tracking restant sorties.",
+          "Character blocs sont real objectives, pas decoration.",
+          "Dégagez la droite pile rouge avant ice compteur finishes et bloc smiley obtient gelé dans placez avec non sortie."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow", "cyan", "Bleu sarcelle"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_nuD7bwaKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_nuD7bwaKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rouge heart bloc doit dégagez avant la droite pile rouge — pas après.",
+        "Regardez le haut display barre: il tombent de `12` à `9` à `5` comme vous progress.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tap orange-bordered haut `12` display barre, alors dégagez la gauche violet et rouge amas."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez bleu et jaune smiley-face paire dans abaissez centre avant la droite pile rouge shifts."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Pop rouge heart bloc sur le bas-gauche une fois smiley tuiles sont gone."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Drainez haut droite-côté colonne rouge pendant le haut display toujours reads `9`."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez ice compteurs `18`, `5`, et `2` dans ordre le long de le bord droit."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez restant vert mass et abaissez multicolor scraps pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Draining la droite pile rouge avant smiley paire dégage — ice `18` compteur stays verrouillé.",
+        "Skipping rouge heart bloc pendant chasing le haut display compteur."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/128/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 128",
+    "description": "Résolvez le niveau 128 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

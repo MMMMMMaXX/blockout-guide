@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-108",
+  "locale": "pt-br",
+  "levelNumber": 108,
+  "title": "Guia do nível 108 do Block Out",
+  "summary": "Block Out Nível 108 uses compact 6×6 grade onde esquerda-trilho números são ao vivo progresso marcadores, não decoração. vermelho estrela aglomerado âncoras centro e inferior estrela barra selos final saída. real constraint é direita-trilho `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/108/",
+        "layout": "Block Out Nível 108 uses compact 6×6 grade onde esquerda-trilho números são ao vivo progresso marcadores, não decoração. vermelho estrela aglomerado âncoras centro e inferior estrela barra selos final saída. real constraint é direita-trilho `10` peça: deslizando ele também cedo blocos inferior alimente pista enquanto estrela barra ainda precisa espaço para limpar.",
+        "landmarks": [
+          "Block Out Nível 108 uses compact 6×6 grade onde esquerda-trilho números são ao vivo progresso marcadores, não decoração.",
+          "Vermelho estrela aglomerado âncoras centro e inferior estrela barra selos final saída.",
+          "Real constraint é direita-trilho `10` peça: deslizando ele também cedo blocos inferior alimente pista enquanto estrela barra ainda precisa espaço para limpar."
+        ],
+        "colors": ["red", "orange", "green", "blue", "purple", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "32sx09TztaI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=32sx09TztaI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use esquerda-trilho counts como checklist — superior contagem deve alcance `8` antes que inferior estrela barra pode solte.",
+        "Mantenha inferior-centro lacuna abra enquanto descascando esquerda verde coluna.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Quebre cima superior-meio vermelho estrela aglomerado antes que movendo lateral singles."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque esquerda verde coluna enquanto mantendo inferior-centro lacuna abra."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque laranja vertical barra único depois esquerda-trilho superior contagem solta de `11` para `8`."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar restante azul e ciano singles uma vez esquerda-trilho meio counts read `6` e `1`."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente direita-trilho `10` peça para fora através direita verde seta pista."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Envie inferior laranja estrela barra através para baixo seta saída."
+        }
+      ],
+      "failurePoints": [
+        "Movendo direita-trilho `10` peça antes que esquerda-trilho superior contagem reaches `8`.",
+        "Preenchendo inferior-centro lacuna também cedo, que remove estrela barra's solte pista."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/108/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 108 do Block Out",
+    "description": "Resolva o nível 108 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

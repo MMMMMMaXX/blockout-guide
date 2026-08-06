@@ -1,0 +1,91 @@
+{
+  "id": "de-level-122",
+  "locale": "de",
+  "levelNumber": 122,
+  "title": "Block Out Level 122 Lösung",
+  "summary": "Block Out Level 122 ist head-shaped Spielfeld — wide bei crown, narrow bei stem — mit `60` crown gates und pocket objectives scattered über face. Pink `29` crown pair bei unten Mitte und Seite Zähler Kacheln sind real...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "Block Out Level 122 ist head-shaped Spielfeld — wide bei crown, narrow bei stem — mit `60` crown gates und pocket objectives scattered über face. Pink `29` crown pair bei unten Mitte und Seite Zähler Kacheln sind real draining objectives. Untere stem ist also narrow dass one misplaced vertikal Bauteil von obere face kann seal nur Ausgangs-Bahn.",
+        "landmarks": [
+          "Block Out Level 122 ist head-shaped Spielfeld — wide bei crown, narrow bei stem — mit `60` crown gates und pocket objectives scattered über face.",
+          "Pink `29` crown pair bei unten Mitte und Seite Zähler Kacheln sind real draining objectives.",
+          "Untere stem ist also narrow dass one misplaced vertikal Bauteil von obere face kann seal nur Ausgangs-Bahn."
+        ],
+        "colors": ["red", "blue", "cyan", "orange", "green", "pink", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break grün crown `60` bevor rot crown `60` zu behalten base cluster öffnen.",
+        "Räumen beide türkis `10` Zähler bevor detonating pink `29` crown pair.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen oben rot Reihe und obere linke türkis Blöcke ohne touching unten crown `60` gap."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen Seite `17` Zähler pockets auf beide ears in alternating passes zu behalten frame balanced."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break grün crown `60` Kachel erste, dann rot crown `60` Kachel über gelb/pink/blau base."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Spend türkis `8` Kachel und beide türkis `10` Seite Zähler bevor obere body re-seals."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Detonate pink `29` crown pair bei unten Mitte once untere `11` Zähler sind gone."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen isolated pink vertikal Block und unten türkis `4` pair durch narrow stem für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Breaking rot crown `60` bevor grün crown `60` — dieses boxes gelb/pink/blau base cluster.",
+        "Detonating pink `29` pair bevor türkis `10` Kacheln räumen, trapping isolated pink Block in stem."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 122 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 122 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

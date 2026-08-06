@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-16",
+  "locale": "pt-br",
+  "levelNumber": 16,
+  "title": "Guia do nível 16 do Block Out",
+  "summary": "Block Out Nível 16 é escada suporte quebra-cabeça. Soften inferior prateleira e direita parede primeiro, colapse preto diagonal em seu base, e único então libere alto vermelho e amarelo barras de superior-direita climb.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "Block Out Nível 16 é escada suporte quebra-cabeça. Soften inferior prateleira e direita parede primeiro, colapse preto diagonal em seu base, e único então libere alto vermelho e amarelo barras de superior-direita climb.",
+        "landmarks": [
+          "O nível 16 do Block Out é um quebra-cabeça de suporte em escada.",
+          "Soften inferior prateleira e direita parede primeiro, colapse preto diagonal em seu base, e único então libere alto vermelho e amarelo barras de superior-direita climb.",
+          "Tabuleiro mistura Vermelho, Amarelo, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Inferior prateleira é real opener.",
+        "Preto escada tem para quebre de abaixo.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente inferior branco aglomerado em direita countdown pista para comece encolhendo `12` parede."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Gire curto inferior vermelho e amarelo peças so preto escada loses seu inferior suporte."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha alto vermelho canto barra e interno amarelo coluna estacionado enquanto inferior contadores mantenha soltando."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez preto passos comece para colapse, abra prateleira suficiente para alto amarelo coluna para deslize para baixo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use novo lacuna para desloque alto vermelho barra longe de canto sem prendendo restante preto blocos."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine escada limpeza primeiro."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termina com alto amarelo e vermelho barras depois prateleira e direita parede são já plano."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para gaste um de alto canto barras antes que inferior prateleira é abra.",
+        "Working único em superior-direita climb e ignorando prateleira contadores."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 16 do Block Out",
+    "description": "Resolva o nível 16 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

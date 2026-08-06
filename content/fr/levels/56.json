@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-56",
+  "locale": "fr",
+  "levelNumber": 56,
+  "title": "Guide Block Out Niveau 56",
+  "summary": "Block Out Niveau 56 packs tight grille avec violet '3' bloc à le haut, rouge et blocs bleu filling supérieur rangées, et jaune/blocs vert dans le milieu. chokepoint est violet '3' — il blocs supérieur section. Dégagez le bas...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/56/",
+        "layout": "Block Out Niveau 56 packs tight grille avec violet '3' bloc à le haut, rouge et blocs bleu filling supérieur rangées, et jaune/blocs vert dans le milieu. chokepoint est violet '3' — il blocs supérieur section. Dégagez le bas premier, alors work le milieu jaune et blocs vert hors, et terminez avec blocs numérotés à le haut.",
+        "landmarks": [
+          "Block Out Niveau 56 packs tight grille avec violet '3' bloc à le haut, rouge et blocs bleu filling supérieur rangées, et jaune/blocs vert dans le milieu.",
+          "Chokepoint est violet '3' — il blocs supérieur section.",
+          "Dégagez le bas premier, alors work le milieu jaune et blocs vert hors, et terminez avec blocs numérotés à le haut."
+        ],
+        "colors": ["violet", "red", "blue", "yellow", "green", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sqRrXyRKFBA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sqRrXyRKFBA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Violet '3' bloc à le haut est multi-pass pièce — dégagez blocs sous il premier donc il a salle à glissez.",
+        "Dégagez le bas rangées premier à create sliding espace pour supérieur blocs numérotés.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez rouge et blocs rose à le bas vers la sortie droite à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs vert sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez les blocs jaune dans le centre à travers la sortie gauche maintenant que chemin est dégagez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez dégagement les blocs bleu dans le milieu à travers la sortie droite."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tackle violet '3' bloc à le haut — il needs trois sorties à fully dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez restant rouge et blocs bleu sur la droite à travers la sortie droite."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec un restant blocs piégé dans coins."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dégagez violet '3' bloc avant blocs sous il — il needs salle à glissez et sortie multiple times.",
+        "Dégagement le haut avant le bas, qui leaves abaissez blocs piégé avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/56/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 56",
+    "description": "Résolvez le niveau 56 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

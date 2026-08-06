@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-101",
+  "locale": "fr",
+  "levelNumber": 101,
+  "title": "Guide Block Out Niveau 101",
+  "summary": "Block Out Niveau 101 paires dual alimentez chambres — `9` sur haut et `4` sous — avec patterned côté stacks que look important mais sont actually juste murs. real énigme est timing: rouge bas-arrow pièce dans le bas plateau doit attendez un...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "Block Out Niveau 101 paires dual alimentez chambres — `9` sur haut et `4` sous — avec patterned côté stacks que look important mais sont actually juste murs. real énigme est timing: rouge bas-arrow pièce dans le bas plateau doit attendez jusqu'à supérieur `9` alimentez est presque done avant il peut laissez tomber à travers le centre voie. Rush arrow bloc et il obtient buried sous collapsing côté stacks.",
+        "landmarks": [
+          "Block Out Niveau 101 paires dual alimentez chambres — `9` sur haut et `4` sous — avec patterned côté stacks que look important mais sont actually juste murs.",
+          "Real énigme est timing: rouge bas-arrow pièce dans le bas plateau doit attendez jusqu'à supérieur `9` alimentez est presque done avant il peut laissez tomber à travers le centre voie.",
+          "Rush arrow bloc et il obtient buried sous collapsing côté stacks."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimentez violet dotted bloc premier à commencez supérieur `9` compteur.",
+        "Pas touch rouge bas-arrow pièce jusqu'à supérieur chambre est bas à son dernier one ou deux passes.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez violet dotted bloc de le bas plateau dans supérieur chambre à commencez `9` compteur."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez la gauche rouge croisez-pattern stack vers le bas donc supérieur alimentez voie stays ouvrez."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez vert et bleu plateau pièces dans supérieur chambre une fois la gauche stack thins."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Terminez dernier supérieur-chambre pass pendant le centre bleu arrow colonne est toujours videz."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez tomber rouge bas-arrow bloc à travers le centre voie dans abaissez `4` chambre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez restant patterned blocs de la droite jaune/piles bleu à close abaissez compteur."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant rouge bas-arrow pièce avant supérieur chambre est presque finished — il obtient buried sous la gauche stacks.",
+        "Dégagement la droite pile jaune avant supérieur alimentez voie est stable, qui closes le centre laissez tomber voie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 101",
+    "description": "Résolvez le niveau 101 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

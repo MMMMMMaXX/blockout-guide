@@ -1,0 +1,119 @@
+{
+  "id": "de-level-457",
+  "locale": "de",
+  "levelNumber": 457,
+  "title": "Block Out Level 457 Lösung",
+  "summary": "Block Out! Level 457 Lösungs-Walkthrough. Schau dir das eingebettete Lösungsvideo an, um dieses einfache Spielfeld zu räumen.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/457.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/457",
+        "layout": "Block Out Level 457 öffnet auf einfach Farb-Sortier-Spielfeld beherrscht durch blau, rot, grün, lila, gelb Kacheln. Genau Eröffnungs-Layout und verifiziert Lösung sind gezeigt in eingebettetes Lösungsvideo Video; abgleichen dein Spielfeld zu Video bevor folgend bewegen Reihenfolge.",
+        "landmarks": [
+          "Das Spielfeld zeigt vor allem blau, rot, and grün Blöcke.",
+          "Farbgruppen müssen getrennt und gestapelt werden, um das Level zu räumen.",
+          "Das eingebettete Lösungsvideo zeigt das genaue Eröffnungs-Layout und die Lösungsreihenfolge."
+        ],
+        "colors": ["blue", "red", "green", "purple", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7dVkp5rbsw",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7dVkp5rbsw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Eröffnungs-Spielfeld"
+        },
+        {
+          "seconds": 71,
+          "label": "Erste Zusammenführungen"
+        },
+        {
+          "seconds": 142,
+          "label": "Mittleres Räumen"
+        },
+        {
+          "seconds": 209,
+          "label": "Endgültiger Ausgang"
+        }
+      ],
+      "quickTips": [
+        "Fasse die Blau und Rot Blöcke zuerst zusammen — sie beherrschen das Eröffnungs-Spielfeld, also öffnet das frühe Räumen den meisten Platz.",
+        "Halte eine Spalte als Puffer frei, bis deine ersten zwei Zusammenführungen erledigt sind; es ist der einzige sichere Platz, um einen falschen Zug rückgängig zu macen.",
+        "Parke gemischte oder eingeschlossene Grün Blöcke in die kürzeste Spalte, nie in die höchste, damit du eine saubere Ausgangs-Bahn behältst.",
+        "Wenn zwei Spalten dieselbe oberste Farbe teilen, führe zuerst die risikoärmere zusammen und spare die andere für das Finale auf."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Spielfeld abgleichen",
+          "instruction": "Bestätige, dass das Blau/Rot-Layout zum Lösungsvideo passt, bevor du dich bewegst; eine andere Variante bedeutet eine andere Lösung.",
+          "image": "/boards/457.avif",
+          "imageAlt": "Block-Out-Spielfeld-Referenz für Schritt 1"
+        },
+        {
+          "order": 2,
+          "title": "Die dominierende Farbe räumen",
+          "instruction": "Führe die Blau Spalten zuerst zusammen, um den größten Bereich des Spielfelds freizugeben und die Bauteile zu verringern, die du verfolgen musst.",
+          "image": "/boards/457.avif",
+          "imageAlt": "Block-Out-Spielfeld-Referenz für Schritt 2"
+        },
+        {
+          "order": 3,
+          "title": "Eine Puffer-Bahn öffnen",
+          "instruction": "Schiebe Rot Blöcke in eine kurze Spalte zur Seite, damit gemischte Stapel trennbar bleiben und die Ausgangs-Bahn offen bleibt.",
+          "image": "/boards/457.avif",
+          "imageAlt": "Block-Out-Spielfeld-Referenz für Schritt 3"
+        },
+        {
+          "order": 4,
+          "title": "Von oben nach unten arbeiten",
+          "instruction": "Räume von oben, damit sich nichts früh verklemmt; halte die Puffer-Spalte verfügbar, bis das Spielfeld fast leer ist.",
+          "image": "/boards/457.avif",
+          "imageAlt": "Block-Out-Spielfeld-Referenz für Schritt 4"
+        },
+        {
+          "order": 5,
+          "title": "Den Ausgang ansteuern",
+          "instruction": "Sende die letzten Blöcke durch dieselbe Bahn hinaus, die im Video gezeigt wird, in der Reihenfolge, die das Lösungsvideo demonstriert.",
+          "image": "/boards/457.avif",
+          "imageAlt": "Block-Out-Spielfeld-Referenz für Schritt 5"
+        }
+      ],
+      "failurePoints": [
+        "Die höchste Spalte zuerst zusammenzuführen verbraucht deine einzige Puffer-Bahn und sperrt die unteren Blöcke dahinter ein.",
+        "Einen vollen Blau Stapel zu jagen, bevor gemischte Farben getrennt sind, hinterlässt Blöcke, die du nicht mehr erreichen kannst.",
+        "Den Timer zu starten, bevor das Spielfeld abgeglichen ist, verschwendet 8–12 Sekunden Erholung auf einem einfachen Spielfeld.",
+        "Rot Blöcke hinter anderen sitzen zu lassen erzwingt einen Neustart, den du mit einer frühen Verschiebung hättest vermeiden können."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/457",
+    "https://www.youtube.com/watch?v=l7dVkp5rbsw",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 457 Lösung und Anleitung",
+    "description": "Löse Block Out Level 457 mit dem verifizierten einfachen Lösungsvideo und den Spielfeld-Farben. Schau dir die eingebettete Lösung an, um dein Eröffnungs-Spielfeld abzugleichen."
+  },
+  "updatedAt": "2026-08-03"
+}

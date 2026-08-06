@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-20",
+  "locale": "ko",
+  "levelNumber": 20,
+  "title": "블록 아웃 레벨 20 공략",
+  "summary": "블록 아웃 레벨 20은 거대한 보라색 `5` 블록을 중심으로 한 두 방 보스 퍼즐입니다. 아래쪽 방을 준비하고, 녹색 줄기를 자유롭게 유지하며, 보스를 둘러싼 프레임 카운터를 줄인 뒤, 그제야 위쪽 방이 풀리게 하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "블록 아웃 레벨 20은 거대한 보라색 `5` 블록을 중심으로 한 두 방 보스 퍼즐입니다. 아래쪽 방을 준비하고, 녹색 줄기를 자유롭게 유지하며, 보스를 둘러싼 프레임 카운터를 줄인 뒤, 그제야 위쪽 방이 풀리게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 20은 거대한 보라색 `5` 블록을 중심으로 한 두 방 보스 퍼즐입니다.",
+          "아래쪽 방을 준비하고, 녹색 줄기를 자유롭게 유지하며, 보스를 둘러싼 프레임 카운터를 줄인 다음, 그때 가서 위쪽 방이 해결되게 하세요.",
+          "보드는 보라색, 초록색, 빨간색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "녹색 줄기를 보호하세요.",
+        "아래쪽 방은 위쪽 보스를 위한 받침 작업입니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "첫 카운터가 떨어지기 시작하도록 아래쪽 방의 노란색 바닥 게이트 주변 공간을 비우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "가운데 녹색 줄기를 가두지 않고 빨간색과 파란색 아래쪽 방 블록을 회전시키세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "위쪽 프레임 카운터가 떨어지는 동안 보라색 `5`를 위쪽 방에 주차해 두세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "보스 프레임이 거의 열릴 때까지 아래쪽 방을 이용해 위쪽 방 양쪽을 계속 먹이세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "다음 수를 흡수할 빈 공간이 아래쪽 방에 충분해지면 녹색 줄기를 풀어주세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "보라색 `5` 블록이 프레임에 더 이상 잠기지 않으면 위쪽 방을 마무리하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "보스 블록이 이미 치워진 뒤 마지막 아래쪽 방 색상으로 끝내세요."
+        }
+      ],
+      "failurePoints": [
+        "아래쪽 방 색상 블록으로 녹색 연결 부품을 막는 것.",
+        "프레임 카운터가 여전히 높은데 보라색 `5`를 움직이려는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 20 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 20을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

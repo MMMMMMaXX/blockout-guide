@@ -1,0 +1,96 @@
+{
+  "id": "de-level-95",
+  "locale": "de",
+  "levelNumber": 95,
+  "title": "Block Out Level 95 Lösung",
+  "summary": "Block Out Level 95 packs colored Blöcke (rot, orange, blau, grün, lila, türkis) mit verklemmen/key gates in horizontal obere tier, while two lila chambers fill untere section — Zähler `14` in orange frame auf oben, Zähler `11` in...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/95/",
+        "layout": "Block Out Level 95 packs colored Blöcke (rot, orange, blau, grün, lila, türkis) mit verklemmen/key gates in horizontal obere tier, while two lila chambers fill untere section — Zähler `14` in orange frame auf oben, Zähler `11` in orange frame unterhalb. Gelb accent Blöcke auf edges sind freigeben single-Bauteil räumt. Empty obere tier completely, dann hinausführen beide chambers für 25 total passes.",
+        "landmarks": [
+          "Block Out Level 95 packs colored Blöcke (rot, orange, blau, grün, lila, türkis) mit verklemmen/key gates in horizontal obere tier, while two lila chambers fill untere section — Zähler `14` in orange frame auf oben, Zähler `11` in orange frame unterhalb.",
+          "Gelb accent Blöcke auf edges sind freigeben single-Bauteil räumt.",
+          "Empty obere tier completely, dann hinausführen beide chambers für 25 total passes."
+        ],
+        "colors": ["purple", "red", "orange", "blue", "green", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "S3a7Be6nABA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=S3a7Be6nABA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Take gelb edge Blöcke erste — sie sind freigeben single-Bauteil räumt rechts nächste zu exits.",
+        "Räumen small Blöcke zwischen tiers bevor Eröffnungs- `14` chamber hinausführen.",
+        "Hinausführen `14` chamber bevor `11` — es needs mehr Raum und mehr passes."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben gelb edge Blöcke auf beide sides durch links und rechts exits für immediate Raum (01:26 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen key Block (small türkis mit key icon) zu unlock orange Block in obere tier (01:22)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Extract large rot Blöcke von Mitte-links durch oben oder links Ausgang weil sie sind biggest mass in obere tier (01:18)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen grün und blau Blöcke von rechte Seite von obere tier durch rechts-Wand Ausgang (01:15)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Entfernen small türkis und rot Blöcke zwischen obere tier und `14` chamber bevor Eröffnungs- hinausführen weil sie kann drift in Bahn (01:11)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Begin feeding obere lila chamber (Zähler `14`) — behalten sein Bahn permanently räumen für fourteen passes (01:07–00:56)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Hinausführen untere lila chamber (Zähler `11`) durch unten exits — eleven passes zu beenden (00:53–00:45)."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring gelb edge Blöcke bei starten — sie sind freigeben Raum und räumend sie erste makes jede subsequent extraction faster.",
+        "Eröffnungs- `14` chamber hinausführen while small türkis und rot Blöcke zwischen tiers sind still present — sie drift in hinausführen Bahn und stall Zähler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/95/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 95 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 95 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-142",
+  "locale": "tr",
+  "levelNumber": 142,
+  "title": "Block Out Seviye 142 Rehberi",
+  "summary": "Block Out Seviye 142 bir Keyhole kule ki thins progressively sıkışıkdan üst body dar gövdee, ile fixed `21` void marker kilitlendi merkezdedır. Üç yönlü ok şeritler — mavi sol, kırmızı sağ, mor aşağı — onl...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "Block Out Seviye 142 bir Keyhole kule ki thins progressively sıkışıkdan üst body dar gövdee, ile fixed `21` void marker kilitlendi merkezdedır. Üç yönlü ok şeritler — mavi sol, kırmızı sağ, mor aşağı — sadece çıkışlar. kule meli shed weight üstden ilk; it sağ-yan camgöbeği halka önce üst body thins ve `21` void kalır buried çökertereke bloklar.",
+        "landmarks": [
+          "Block Out Seviye 142 bir Keyhole kule ki thins progressively sıkışıkdan üst body dar gövdee, ile fixed `21` void marker kilitlendi merkezdedır.",
+          "Üç yönlü ok şeritler — mavi sol, kırmızı sağ, mor aşağı — sadece çıkışlar.",
+          "Kule meli shed weight üstden ilk; it sağ-yan camgöbeği halka önce üst body thins ve `21` void kalır buried çökertereke bloklar."
+        ],
+        "colors": ["red", "blue", "yellow", "purple", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Açık mavi sol şerit önce dokunarak sağ turuncu istifler.",
+        "21 void karo asla hamleler — temizle o, değil o.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst mavi yukarı-ok tavan ve kırmızı/sarı üst bant olmadan kaydırarak 21 void karo."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Besle üst artıklar aşağı mor alt-ok şerit açık daha düşük-sol mavi çıkış."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Soy sol mor/mavi sütun mavi soldan-ok şerit, bırakarak void intact."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle sağ turuncu/sarı istifler kırmızı sağdan-ok şerit sonra sol yan açık."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kır camgöbeği halka merkezi sarı blokdan midde-kule boşluk."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kaydır kalan mavi ve turuncu artıklar daha düşük tabandan alt oka."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Çıkış son scattered bloklar için blok dışarı! temizle."
+        }
+      ],
+      "failurePoints": [
+        "Açarak sağ turuncu şerit önce sol mavi şerit thins, locking mid-kule istifler.",
+        "Deneyerek hareket ettir 21 void karo yerine temizleyerek bloklar o."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 142 Rehberi ve Çözümü",
+    "description": "Block Out seviye 142'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-61",
+  "locale": "fr",
+  "levelNumber": 61,
+  "title": "Guide Block Out Niveau 61",
+  "summary": "Block Out Niveau 61 fills 6×8 grille avec directional arrow blocs — vert gauche-arrows sur la gauche, rouge droite-arrows sur la droite, bleu gauche-arrows sur haut, vert bas-arrows sur le bas, et orange/rouge haut-bas blocs dans le milieu. Ever...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/61/",
+        "layout": "Block Out Niveau 61 fills 6×8 grille avec directional arrow blocs — vert gauche-arrows sur la gauche, rouge droite-arrows sur la droite, bleu gauche-arrows sur haut, vert bas-arrows sur le bas, et orange/rouge haut-bas blocs dans le milieu. Chaque bloc peut seulement glissez dans son arrow direction. Dégagez le haut et bas rangées premier, alors work le milieu colonnes vertically.",
+        "landmarks": [
+          "Block Out Niveau 61 fills 6×8 grille avec directional arrow blocs — vert gauche-arrows sur la gauche, rouge droite-arrows sur la droite, bleu gauche-arrows sur haut, vert bas-arrows sur le bas, et orange/rouge haut-bas blocs dans le milieu.",
+          "Chaque bloc peut seulement glissez dans son arrow direction.",
+          "Dégagez le haut et bas rangées premier, alors work le milieu colonnes vertically."
+        ],
+        "colors": ["green", "red", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "kfVQ2SZQEL4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=kfVQ2SZQEL4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Arrows sont constraints — bloc avec gauche arrow peut Seulement glissez gauche. Planifiez autour ce.",
+        "Dégagez le haut et bas rangées premier à donnez le milieu blocs salle à glissez vertically.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut blocs bleu avec gauche arrows à travers la sortie gauche."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez le bas blocs vert avec bas arrows à travers la sortie inférieure."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez sliding le milieu orange/blocs rouge vertically — haut-arrow blocs allez haut, bas-arrow blocs allez bas."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez la gauche blocs vert avec gauche arrows à travers la sortie gauche comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez la droite blocs rouge avec droite arrows à travers la sortie droite."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant milieu blocs que besoin vertical sliding."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à glissez bloc dans direction son arrow pas point — arrow est hard constraint, pas suggestion.",
+        "Dégagement milieu blocs avant le haut et bas rangées sont ouvrez, qui traps supérieur et abaissez blocs avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/61/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 61",
+    "description": "Résolvez le niveau 61 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-129",
+  "locale": "de",
+  "levelNumber": 129,
+  "title": "Block Out Level 129 Lösung",
+  "summary": "Block Out Level 129 ist Super schwer two-phase Puzzle — erste half ist container-hinausführen packing Spielfeld, second half transforms in rot überqueren sliding durch stepped lila Wand segments. Empty oben container while sein Zähler...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/129/",
+        "layout": "Block Out Level 129 ist Super schwer two-phase Puzzle — erste half ist container-hinausführen packing Spielfeld, second half transforms in rot überqueren sliding durch stepped lila Wand segments. Empty oben container while sein Zähler fällt … lassen von `4`, dann navigate rot überqueren durch increasingly narrow gaps. Force türkis `2` Kachel früh und es pins überqueren gegen Wand mittlere-schieben.",
+        "landmarks": [
+          "Block Out Level 129 ist Super schwer two-phase Puzzle — erste half ist container-hinausführen packing Spielfeld, second half transforms in rot überqueren sliding durch stepped lila Wand segments.",
+          "Empty oben container while sein Zähler fällt … lassen von `4`, dann navigate rot überqueren durch increasingly narrow gaps.",
+          "Force türkis `2` Kachel früh und es pins überqueren gegen Wand mittlere-schieben."
+        ],
+        "colors": ["purple", "blue", "red", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Qhu6W_7y5o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Qhu6W_7y5o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Jede container Zähler muss hit zero bevor rot überqueren phase begins.",
+        "Türkis `2` Kachel auf far rechts ist einsperren wenn bewegt bevor rot cluster räumt.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen links lila `5` Spalte und blau `8` Block ohne jamming untere `5` container."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hinausführen abgleichend unten-Raster Farben in untere orange-bordered `5` slot, dann arbeiten obere `21` container."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break rot/gelb/grün mittlere-Raster clusters once rechts-rail `3` Zähler thin."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen dense multicolor mittlere phase bevor das Spielfeld öffnet zu überqueren Puzzle."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben rot plus Bauteil past obere stepped lila Wand, dann past untere lila ledge."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Fallen lassen rot überqueren onto unten rot Pfeil indicator für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Eröffnungs- rot überqueren phase while oben container still zeigt number — stepped walls stay verklemmt.",
+        "Moving türkis `2` Kachel bevor rot cluster auf rechts ist geräumt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/129/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 129 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 129 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

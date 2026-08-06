@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-36",
+  "locale": "fr",
+  "levelNumber": 36,
+  "title": "Guide Block Out Niveau 36",
+  "summary": "Block Out Niveau 36 est dense mosaic de interlocking rouge, vert, bleu, et jaune tetromino-shaped blocs avec non boss cadres ou device compteurs. plateau est donc tightly packed que premier gap doit venez de le haut, et résolvez wor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "Block Out Niveau 36 est dense mosaic de interlocking rouge, vert, bleu, et jaune tetromino-shaped blocs avec non boss cadres ou device compteurs. plateau est donc tightly packed que premier gap doit venez de le haut, et résolvez works vers le bas: dégagez les blocs vert proche le haut premier, décalez le centre jaune mass, alors drainez rouge et blocs bleu à travers le bas sorties. One faux glissez dans le centre peut jam multiple pièces.",
+        "landmarks": [
+          "Block Out Niveau 36 est dense mosaic de interlocking rouge, vert, bleu, et jaune tetromino-shaped blocs avec non boss cadres ou device compteurs.",
+          "Plateau est donc tightly packed que premier gap doit venez de le haut, et résolvez works vers le bas: dégagez les blocs vert proche le haut premier, décalez le centre jaune mass, alors drainez rouge et blocs bleu à travers le bas sorties.",
+          "One faux glissez dans le centre peut jam multiple pièces."
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Regardez videz espace. Si gap created à le haut a pas traveled bas à le centre yet, le bas blocs sont toujours verrouillé.",
+        "Large jaune en forme de L bloc dans le centre-gauche est clé déverrouillez — une fois il coups, most blocs peut follow.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez premier petit block out à travers la sortie supérieure à create initial gap dans packed plateau."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs vert proche supérieur droit vers la sortie supérieure à widen opening."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez nouveau espace à déplacez large jaune en forme de L bloc dans le centre-gauche — ce est clé déverrouillez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois jaune mass a shifted, les blocs rouge beneath il peut commencez sliding vers le bas sorties."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Work les blocs bleu hors à travers le côté droit ou bas après le centre est less congested."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Gardez la sortie inférieure voies dégagez pour final rouge et pièces vert."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier restant bloc après mosaic a unraveled de haut à bas."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à forcez bleu block out à travers le bas avant le centre jaune et blocs rouge ont shifted assez — ce creates deadlock autour 01:12.",
+        "Working le bas sorties avant le haut gap a propagated bas à travers le centre, qui leaves entire plateau verrouillé."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 36",
+    "description": "Résolvez le niveau 36 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

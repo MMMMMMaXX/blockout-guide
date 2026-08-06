@@ -1,0 +1,91 @@
+{
+  "id": "de-level-79",
+  "locale": "de",
+  "levelNumber": 79,
+  "title": "Block Out Level 79 Lösung",
+  "summary": "Block Out Level 79 ist two-phase Spielfeld. Erste du drain huge lila `17` reservoir sitting unter two cramped obere wells. Dann das Spielfeld collapses in untere tray where lila bridge-shaped Bauteil muss bewegen bevor blau und oran...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out Level 79 ist two-phase Spielfeld. Erste du drain huge lila `17` reservoir sitting unter two cramped obere wells. Dann das Spielfeld collapses in untere tray where lila bridge-shaped Bauteil muss bewegen bevor blau und orange Blöcke auf rechts kann escape.",
+        "landmarks": [
+          "Block Out Level 79 ist two-phase Spielfeld.",
+          "Erste du drain huge lila `17` reservoir sitting unter two cramped obere wells.",
+          "Dann das Spielfeld collapses in untere tray where lila bridge-shaped Bauteil muss bewegen bevor blau und orange Blöcke auf rechts kann escape."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat big `17` reservoir als opener, nicht `7` chamber.",
+        "When untere tray appears, öffnen linke Seite bevor du versuchen zu freigeben blau steps auf rechts.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Drain giant unten chamber marked `17` bevor du overwork either oben well."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "While dass reservoir ist falling, sauber obere linke Bahn durch moving rot L-shape und grün stair hinaus von jede andere's way."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten reducing obere rechte `7` chamber nur nach links well ist kein longer clogging Seite Zähler."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "When beide lila chambers sind gone, switch focus zu untere tray dass appears beneath sie."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Öffnen linke Seite von dass untere tray erste, dann bewegen lila bridge Bauteil also blau stepped Block auf rechts hat ansteuern."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit rechts-Seite blau und orange Blöcke nach Mitte Bahn ist empty."
+        }
+      ],
+      "failurePoints": [
+        "Treating obere rechte `7` chamber als erste Ziel stattdessen von draining `17` reservoir underneath es.",
+        "Versuchen zu räumen rechts-Seite blau steps in untere tray bevor lila bridge Bauteil hat bewegt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 79 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 79 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de-level-20",
+  "locale": "de",
+  "levelNumber": 20,
+  "title": "Block Out Level 20 Lösung",
+  "summary": "Block Out Level 20 ist two-Raum Boss Puzzle centered auf huge lila `5` Block. Prepare untere Raum, behalten grün stem freigeben, reduce frame Zähler around Boss, und nur dann let obere chamber resolve.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "Block Out Level 20 ist two-Raum Boss Puzzle centered auf huge lila `5` Block. Prepare untere Raum, behalten grün stem freigeben, reduce frame Zähler around Boss, und nur dann let obere chamber resolve.",
+        "landmarks": [
+          "Block Out Level 20 ist two-Raum Boss Puzzle centered auf huge lila `5` Block.",
+          "Prepare untere Raum, behalten grün stem freigeben, reduce frame Zähler around Boss, und nur dann let obere chamber resolve.",
+          "Das Spielfeld mixes Lila, Grün, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Protect grün stem.",
+        "Untere Raum ist support arbeiten für obere Boss.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen Platz around gelb unterer Ausgang in untere Raum also erste Zähler begin zu fall."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Drehen rot und blau untere-Raum Blöcke ohne pinning central grün stem."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten lila `5` geparkt in obere chamber while oben frame Zähler fallen lassen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden untere Raum zu behalten feeding sides von obere chamber bis Boss frame ist almost öffnen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Freigeben grün stem nur nach untere Raum hat enough empty Platz zu absorb nächste Züge."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Let obere chamber beenden once lila `5` Block ist kein longer verklemmt durch frame."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "End mit letzte untere-Raum Farben nach Boss Block hat bereits geräumt."
+        }
+      ],
+      "failurePoints": [
+        "Blocking grün connector mit untere-Raum Farbe Block.",
+        "Versuchen zu bewegen lila `5` while frame Zähler sind still high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 20 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 20 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tr-level-92",
+  "locale": "tr",
+  "levelNumber": 92,
+  "title": "Block Out Seviye 92 Rehberi",
+  "summary": "Block Out Seviye 92 barındırır renkli bloklar ( yeşil L-şekil, turuncu `7` sayaç blok, büyük kırmızı kare, mavi, sarı, ve mor parçalar ile kilitlen/anahtar icons) üst bölüme sırasında iki massive odalar doldur daha düşük tahta — coun...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/92/",
+        "layout": "Block Out Seviye 92 barındırır renkli bloklar ( yeşil L-şekil, turuncu `7` sayaç blok, büyük kırmızı kare, mavi, sarı, ve mor parçalar ile kilitlen/anahtar icons) üst bölüme sırasında iki massive odalar doldur daha düşük tahta — sayaç `15` kırmızı çerçevede üstde, sayaç `10` turuncu çerçevede altında. temizle üst bölüm açık şeritlere, besle `15` oda ilk, sort spill, sonra besle `10` oda.",
+        "landmarks": [
+          "Block Out Seviye 92 barındırır renkli bloklar ( yeşil L-şekil, turuncu `7` sayaç blok, büyük kırmızı kare, mavi, sarı, ve mor parçalar ile kilitlen/anahtar icons) üst bölüme sırasında iki massive odalar doldur daha düşük tahta — sayaç `15` kırmızı çerçevede üstde, sayaç `10` turuncu çerçevede altında.",
+          "Temizle üst bölüm açık şeritlere, besle `15` oda ilk, sort spill, sonra besle `10` oda.",
+          "Tahta yeşil, turuncu, sarı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "orange", "yellow", "red", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "C32pAC1HOlo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=C32pAC1HOlo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle üst bölüm hızlı possible — iki oda besler gerektir tüm kalan time.",
+        "Kaldır küçük camgöbeği ve yeşil bloklar borderda sök önce başlayarak `15` oda besle.",
+        "Sort spilled bloklar immediately sonra `15` oda çöker, önce onlar sıkış `10` oda şerit."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır yeşil L-şekilli blok üstde-sol soldan-duvar çıkış açık ilk şerite (02:54 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Başla besleyerek turuncu `7` blok yukarı doğru üst çıkışdan — yedi passes (02:49–02:39)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle kilitlen/anahtar çiftler: kaldır anahtar bloklar kilidini aç mavi parçalar büyük kırmızı kare (02:44)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "It sarı blok sağ sağdan-duvar çıkış, sonra extract büyük kırmızı kare blok merkezden (02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle küçük camgöbeği ve yeşil bloklar borderda sök arasında üst ve daha düşük zones önce onlar drift beslee şerit (02:34)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Başla besleyerek üst oda (sayaç `15`) onun çıkışdan şerit — tut bu şerit permanently temizle için fifteen passes (02:29–02:15)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Sonra `15` oda çöker, immediately sort spilled kırmızı, mavi, yeşil, ve sarı bloklar önce onlar blok daha düşük şerit (02:10)."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Besle daha düşük oda (sayaç `10`) alt çıkışlardan — on passes bitir (02:10–02:00)."
+        }
+      ],
+      "failurePoints": [
+        "Başlayarak `15` oda besle sırasında border sök hâlâ küçük camgöbeği ve yeşil bloklar — onlar drift beslee şerit ve dur sayaç mid-pass.",
+        "Ignoring spilled bloklar sonra `15` oda çöker — onlar sıkış `10` oda's çıkış şerit ve zorla multiple iyileşme hamleler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/92/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 92 Rehberi ve Çözümü",
+    "description": "Block Out seviye 92'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

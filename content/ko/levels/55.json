@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-55",
+  "locale": "ko",
+  "levelNumber": 55,
+  "title": "블록 아웃 레벨 55 공략",
+  "summary": "블록 아웃 레벨 55는 보드 아래쪽에 걸친 카운터 `7`의 넓은 보라색 보스 막대를 잠그고, 위쪽 영역에는 큰 초록색 2×2 블록, 네 개의 큰 청록색 블록(각 카운터 `4`), 그리고 여러 가지 빨간색, 파란색, 노란색 조각...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "블록 아웃 레벨 55는 보드 아래쪽에 걸친 카운터 `7`의 넓은 보라색 보스 막대를 잠그고, 위쪽 영역에는 큰 초록색 2×2 블록, 네 개의 큰 청록색 블록(각 카운터 `4`), 그리고 여러 가지 빨간색, 파란색, 노란색 조각으로 가득 차 있습니다. 보스 막대를 0까지 세려면 모든 위쪽 블록을 제거하세요. 그런 다음 막대가 무너진 후 나타나는 숨겨진 층의 큰 노란색, 주황색, 초록색 블록을 정렬하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 55는 보드 아래쪽에 걸친 카운터 `7`의 넓은 보라색 보스 막대를 잠그고, 위쪽 영역에는 큰 초록색 2×2 블록, 네 개의 큰 청록색 블록(각 카운터 `4`), 그리고 여러 가지 빨간색, 파란색, 노란색 조각으로 가득 차 있습니다.",
+          "보스 막대를 0까지 세려면 모든 위쪽 블록을 제거하세요. 그런 다음 막대가 무너진 후 나타나는 숨겨진 층의 큰 노란색, 주황색, 초록색 블록을 정렬하세요.",
+          "보드는 초록색, 청록색, 빨간색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "네 청록색 `4` 블록을 일찍 시작하세요 — 오른쪽 벽 출구를 통한 통과가 총 16회 필요합니다.",
+        "보라색 보스 막대가 완전히 사라질 때까지 드러난 노란색/주황색 층을 건드리지 마세요.",
+        "초록색 2×2 블록이 나간 후 왼쪽 차선을 열어 두세요 — 두 번째 물결에 필요합니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "왼쪽 위 근처의 작은 빨간색 블록을 아래로 밀고, 그다음 큰 초록색 2×2 블록을 왼쪽 벽 출구로 밀어내어 왼쪽 차선을 여세요 (영상 02:55–02:50)."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "초록색 블록이 남긴 틈을 사용해 파란색 블록을 왼쪽 벽 출구로 보내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "네 청록색 `4` 블록을 오른쪽 벽 출구로 넣기 시작하세요 — 가장 왼쪽 청록색 블록부터 시작하고 16회 통과를 위해 오른쪽 차선을 비워 두세요 (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "가장 가까운 출구를 통해 남은 노란색과 작은 빨간색 블록을 제거하세요 — 각 조각은 보스 카운터를 1 줄입니다 (02:39에 카운터는 `3`)."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "카운터가 `0`에 도달하면 (약 02:29), 보라색 보스 막대가 무너지며 아래쪽에 큰 노란색, 주황색, 초록색 블록을 드러냅니다."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "드러난 노란색 큰 블록이 뒤쪽 주황색 블록을 막으므로, 먼저 왼쪽 벽 출구 쪽으로 밀어내세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "주황색 큰 블록을 오른쪽 벽 출구로 보내고, 그다음 남은 초록색 블록을 아래쪽 출구로 마무리하세요 (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "보스 막대가 완전히 무너지기 전에 드러난 노란색이나 주황색 블록을 옮기면 — 조각이 막대에 끼어 출구 차선을 막고 복구할 방법이 없습니다.",
+        "청록색 `4` 블록을 오른쪽이 아닌 왼쪽 벽 출구로 넣으면 — 초록색 2×2 블록에 필요한 차선이 막히고 보스 카운트다운이 멈춥니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 55 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 55을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

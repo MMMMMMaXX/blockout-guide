@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-48",
+  "locale": "zh-cn",
+  "levelNumber": 48,
+  "title": "Block Out 第 48 关通关攻略",
+  "summary": "Block Out 第 48 关是一个先拆盖的 Boss 拼图：下半部分有一个 `10` Boss 密室，被一条横向彩色方块带（含一块 `4` 计数方块）埋住。先拆解盖子——`4` 方块是最快的取胜点——然后……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/48/",
+        "layout": "Block Out 第 48 关是一个先拆盖的 Boss 拼图：下半部分有一个 `10` Boss 密室，被一条横向彩色方块带（含一块 `4` 计数方块）埋住。先拆解盖子——`4` 方块是最快的取胜点——然后让 Boss 落下，将显露的后期颜色经侧边出口分类送出。",
+        "landmarks": [
+          "Block Out 第 48 关是一个先拆盖的 Boss 拼图：下半部分有一个 `10` Boss 密室，被一条横向彩色方块带（含一块 `4` 计数方块）埋住。",
+          "先拆解盖子——`4` 方块是最快的取胜点——然后让 Boss 落下，将显露的后期颜色经侧边出口分类送出。",
+          "棋盘混合了黄色、蓝色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["yellow", "blue", "red", "green", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "X5TV6t29kCI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=X5TV6t29kCI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "盖子中的 `4` 计数方块是首个速胜点——跳过它，盖子就会保持厚实。",
+        "准备好第二阶段：Boss 落下后，显露的彩色方块会涌出。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先清除上部的 `4` 计数方块——这是最快的盖子削减。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "拆解残余的黄、蓝、红盖子方块。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在四周计数块下降时，让 `10` Boss 保持不动。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "盖子基本消失后，让 Boss 落下。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "将显露的后期彩色方块经侧边出口分类送出。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "待房间不再被分割后，完成侧边计数块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "Boss 消失后，进行最后的清理收尾。"
+        }
+      ],
+      "failurePoints": [
+        "跳过 `4` 计数方块、直接试图削减 `10` Boss——盖子保持厚实，Boss 几乎无法移动。",
+        "Boss 落下时未准备好侧边通道，导致显露的方块被堵死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/48/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 48 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 48 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

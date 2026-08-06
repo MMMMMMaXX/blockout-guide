@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-71",
+  "locale": "fr",
+  "levelNumber": 71,
+  "title": "Guide Block Out Niveau 71",
+  "summary": "Block Out Niveau 71 packs 6×8 grille avec large violet '13' bloc à le haut, libérez-sliding blocs smiley dans le milieu, et directional arrow blocs sur sides. bloc violet needs 13 sorties — dégagez le bas premier, alors work s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/71/",
+        "layout": "Block Out Niveau 71 packs 6×8 grille avec large violet '13' bloc à le haut, libérez-sliding blocs smiley dans le milieu, et directional arrow blocs sur sides. bloc violet needs 13 sorties — dégagez le bas premier, alors work blocs smiley, et terminez avec heavy bloc violet à le haut.",
+        "landmarks": [
+          "Block Out Niveau 71 packs 6×8 grille avec large violet '13' bloc à le haut, libérez-sliding blocs smiley dans le milieu, et directional arrow blocs sur sides.",
+          "Bloc violet needs 13 sorties — dégagez le bas premier, alors work blocs smiley, et terminez avec heavy bloc violet à le haut.",
+          "Le plateau mélange violet, vert et jaune et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "green", "yellow", "blue", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_vwwRLOMKd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_vwwRLOMKd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Violet '13' bloc est marathon — dégagez blocs smiley premier à build espace.",
+        "Blocs smiley dans le milieu sont libérez-sliding — utilisez ce freedom à dégagez paths pour arrow blocs.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez vert blocs smiley à le bas à travers la sortie inférieure à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs bleu sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez sliding jaune et vert blocs smiley dans le milieu freely — ils peut déplacez dans un direction."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez les blocs rouge sur la droite à travers la sortie droite comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tackle large violet '13' bloc à le haut — il needs 13 sorties à fully dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant blocs smiley piégé dans coins."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dégagez '13' bloc avant blocs smiley — il needs salle à glissez et sortie multiple times.",
+        "Dégagement le haut avant le bas, qui leaves abaissez blocs piégé avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/71/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 71",
+    "description": "Résolvez le niveau 71 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

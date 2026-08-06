@@ -1,0 +1,119 @@
+{
+  "id": "tr-level-454",
+  "locale": "tr",
+  "levelNumber": 454,
+  "title": "Block Out Seviye 454 Rehberi",
+  "summary": "Block Out! Zor Seviye 454 Çözüm Rehberi. Bu zor tahtayı geçmek için gömülü rehberi izleyin.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/454.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/454",
+        "layout": "Block Out seviye 454, mavi, mor, kırmızı, yeşil, sarı ve turuncu karolarının hâkim olduğu zor bir renk sıralama tahtasında açılır. Tam başlangıç düzeni ve doğrulanmış çözüm, gömülü rehber videosunda gösterilmiştir; hamle sırasını izlemeden önce tahtanızı videoyla eşleştirin.",
+        "landmarks": [
+          "Tahta, belirgin şekilde mavi, mor ve kırmızı bloklar içerir.",
+          "Renk grupları, seviyeyi geçmek için ayrılmalı ve yığılmalıdır.",
+          "Gömülü rehber, tam başlangıç düzenini ve çözüm sırasını gösterir."
+        ],
+        "colors": ["blue", "purple", "red", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zT_S7XJCOlQ",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=zT_S7XJCOlQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Açılış tahtası"
+        },
+        {
+          "seconds": 56,
+          "label": "İlk birleştirmeler"
+        },
+        {
+          "seconds": 112,
+          "label": "Tahtanın ortasını temizleme"
+        },
+        {
+          "seconds": 165,
+          "label": "Son çıkış"
+        }
+      ],
+      "quickTips": [
+        "Önce mavi ve mor blokları gruplayın — açılış tahtasına onlar hâkimdir, bu yüzden onları erken temizlemek en fazla alanı açar.",
+        "İlk iki birleştirme bitene kadar bir sütunu tampon olarak boş bırakın; kötü bir hamleyi geri almak için tek güvenli yer burasıdır.",
+        "Karışık veya sıkışmış kırmızı blokları en kısa sütuna park edin, asla en uzununa değil, böylece temiz bir çıkış şeridi korursunuz.",
+        "Bu zor tahta hata payını az bırakır — ilk hamleden önce tüm çıkış rotasını planlayın, tepki vermek yerine."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Tahtayı eşleştir",
+          "instruction": "Hamle yapmadan önce mavi/mor düzeninin rehberle eşleştiğini doğrulayın; farklı bir varyant farklı bir çözüm demektir.",
+          "image": "/boards/454.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Baskın rengi temizle",
+          "instruction": "Tahtanın en büyük alanını boşaltmak ve takip etmeniz gereken parçaları azaltmak için önce mavi sütunları birleştirin.",
+          "image": "/boards/454.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Tampon şerit aç",
+          "instruction": "Karışık yığınlar ayrılabilir ve çıkış şeridi açık kalabilsin diye mor blokları bir kısa sütuna çekin.",
+          "image": "/boards/454.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Üstten alta çalış",
+          "instruction": "Hiçbir şey erken kilitlenmesin diye üstten temizleyin; tahta neredeyse boşalana kadar tampon sütunu hazır tutun.",
+          "image": "/boards/454.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Çıkış yolunu belirle",
+          "instruction": "Son blokları, rehberin gösterdiği sırayla videoda gösterilen aynı şeritten dışarı gönderin.",
+          "image": "/boards/454.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "En uzun sütunu önce birleştirmek tek tampon şeridinizi yakar ve alt blokları arkasında tuzağa düşürür.",
+        "Karışık renkleri ayırmadan önce tam bir mavi yığın peşinde koşmak, artık ulaşamayacağınız bloklar bırakır.",
+        "Tahta eşleşmeden önce zamanlayıcıyı başlatmak, zor bir tahtada 8–12 saniyelik kurtarma zamanı israf eder.",
+        "Mor blokların diğerlerinin arkasına oturmasına izin vermek, tek bir erken hamleyle önleyebileceğiniz bir yeniden başlatmayı zorunlu kılar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/454",
+    "https://www.youtube.com/watch?v=zT_S7XJCOlQ",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 454 Rehberi ve Çözüm",
+    "description": "Block Out seviye 454 tahtasını, doğrulanmış zor rehber videosu ve tahta renkleriyle çözün. Başlangıç tahtanızı eşlemek için gömülü çözümü izleyin."
+  },
+  "updatedAt": "2026-08-03"
+}

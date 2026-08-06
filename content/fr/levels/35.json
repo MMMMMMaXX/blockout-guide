@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-35",
+  "locale": "fr",
+  "levelNumber": 35,
+  "title": "Guide Block Out Niveau 35",
+  "summary": "Block Out Niveau 35 est device-porte énigme dans mostly videz salle. violet `8` device sur la gauche et vert `7` device sur la droite track sortie traffic, et ordre vous acheminez pièces à travers rouge sortie droite et bleu sortie inférieure det...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "Block Out Niveau 35 est device-porte énigme dans mostly videz salle. violet `8` device sur la gauche et vert `7` device sur la droite track sortie traffic, et ordre vous acheminez pièces à travers rouge sortie droite et bleu sortie inférieure determines what blocs spawn suivant. salle starts sparse mais fills haut fast si sorties sont used dans faux sequence — gardez one voie ouvrez à all times pour suivant spawn.",
+        "landmarks": [
+          "Block Out Niveau 35 est device-porte énigme dans mostly videz salle.",
+          "Violet `8` device sur la gauche et vert `7` device sur la droite track sortie traffic, et ordre vous acheminez pièces à travers rouge sortie droite et bleu sortie inférieure determines what blocs spawn suivant.",
+          "Salle starts sparse mais fills haut fast si sorties sont used dans faux sequence — gardez one voie ouvrez à all times pour suivant spawn."
+        ],
+        "colors": ["red", "yellow", "violet", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Salle looks easy parce que il starts mostly videz, mais chaque sortie spawns nouveau bloc — gardez one voie libérez.",
+        "Service vert `7` device sur la droite premier, alors violet `8` sur la gauche.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le L rouge-shaped bloc vers le mur droit sortie à service vert `7` device premier."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Déplacez la barre jaune vers le bas sortie bleu après le bloc rouge a cleared."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez dark centre bloc comme spacer à gardez spawned follow-haut pièces de blocking sorties."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Service violet `8` device sur la gauche par routing suivant spawned pièce à travers son porte."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Continue alterné entre la droite et bas sorties comme nouveau pièces spawn."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Gardez one voie libérez à all times — verrou-haut risk est visible à 00:52 dans video."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier coloré pièce après les deux device compteurs sont à zero et non more blocs spawn."
+        }
+      ],
+      "failurePoints": [
+        "Utilisant le bas sortie bleu avant la droite sortie rouge est serviced, qui produces faux follow-haut pièce et disrupts device sequence.",
+        "Letting spawned blocs fill dernier ouvrez voie — une fois salle est plein, là est non recovery déplacez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 35",
+    "description": "Résolvez le niveau 35 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

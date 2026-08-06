@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-88",
+  "locale": "fr",
+  "levelNumber": 88,
+  "title": "Guide Block Out Niveau 88",
+  "summary": "Block Out Niveau 88 est hourglass plateau avec bleu centre colonne, rouge zigzag hanging sous il, et matched violet verrou pods sur les deux côté murs. Commencez sur supérieur droit stack, dégagez côté verrous suivant, et seulement alors laissez tomber orange b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out Niveau 88 est hourglass plateau avec bleu centre colonne, rouge zigzag hanging sous il, et matched violet verrou pods sur les deux côté murs. Commencez sur supérieur droit stack, dégagez côté verrous suivant, et seulement alors laissez tomber orange beam et centre colonne à travers gorge dans abaissez basin.",
+        "landmarks": [
+          "Block Out Niveau 88 est hourglass plateau avec bleu centre colonne, rouge zigzag hanging sous il, et matched violet verrou pods sur les deux côté murs.",
+          "Commencez sur supérieur droit stack, dégagez côté verrous suivant, et seulement alors laissez tomber orange beam et centre colonne à travers gorge dans abaissez basin.",
+          "Le plateau mélange vert, rouge et orange et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pas commencez de le bas basin. Ce plateau opens de neck vers le bas.",
+        "Si one verrou pod est toujours sur mur, bleu colonne est pas prêt à laissez tomber.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Taillez supérieur droit stack premier donc le mur droit opens et son outer count starts dropping."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez que nouveau salle à relâchez la droite violet verrou pod, alors dégagez correspondant verrou pod sur le mur gauche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Glissez long orange beam à travers gorge seulement après bleu centre colonne a one libérez côté."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez tomber bleu colonne et rouge zigzag à travers neck dans abaissez basin."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez inférieur gauche orange runway et opposite orange plateau une fois le centre pièces sont hors de chemin."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier violet elbow plus le haut-gauche vert-et-pièces jaune à travers opened côté voies."
+        }
+      ],
+      "failurePoints": [
+        "De départ sur le bas orange trays avant supérieur droit stack et les deux côté verrous ont opened neck.",
+        "Déplaçant orange beam pendant bleu centre colonne est toujours pinned sur les deux sides."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 88",
+    "description": "Résolvez le niveau 88 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-126",
+  "locale": "ja",
+  "levelNumber": 126,
+  "title": "ブロックアウト レベル126 攻略",
+  "summary": "ブロックアウト レベル126は、スライド矢印付きの水平なLEGO風バーを並べ、双子のオレンジ枠の「7」ブロックと底部の「9」／「11」カウンターの列の周りに積み重ねています。この「7」のペアは順に消去する必要があり—1つを中央の通路を開かずに壊すと…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/126/",
+        "layout": "ブロックアウト レベル126は、スライド矢印付きの水平なLEGO風バーを並べ、双子のオレンジ枠の「7」ブロックと底部の「9」／「11」カウンターの列の周りに積み重ねています。この「7」のペアは順に消去する必要があり—中央の通路を開かずに1つを壊すと、その双子は出口の通路もなく取り残されます。底部のバーは両方の「7」ブロックがなくなったときだけカウントダウンを始めます。",
+        "landmarks": [
+          "ブロックアウト レベル 126 上 - スライドさせる 矢印、周りを オレンジ- `7`、下 `9`/`11` カウンター 行.。",
+          "`7` ペア 消去する 順序 — 割り 開始 中央 経路 出口 レーン.。",
+          "下 棒 下、`7` .。"
+        ],
+        "colors": ["red", "pink", "purple", "blue", "cyan", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tlZ8zHlih30",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tlZ8zHlih30",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右 オレンジ- `7`、左 — `9`/`11` 棒.。",
+        "を残して中央 `4` 塔、上 黄/紫/緑 棒 積み 消去し.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて上 ピンク `7`、シアン `8` 行 矢印、消去する 黄/紫/緑 棒 積み 左.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を割りて中央の赤/青/シアン `4` 塔 塞ぎ 右 赤 矢印 レーン.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "左 青 `2`、紫 `4` 列、上 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "オレンジ- 紫 `7` 下 シアン `13`、青 `15` カウンター .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて下 -青 `9`、`11` カウンター タイル 開く レーン.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "紫のを消去して`2` ペア、を終えてシアン`4`を通って、黄 `6` 出口 カウンター.。"
+        }
+      ],
+      "failurePoints": [
+        "消去 左 紫 `7`、右 — `9`/`11` 棒 残し .。",
+        "中央 `4` 塔 上 黄/紫/緑 配置する.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/126/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル126 攻略と解説",
+    "description": "ブロックアウト レベル126 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

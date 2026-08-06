@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-103",
+  "locale": "fr",
+  "levelNumber": 103,
+  "title": "Guide Block Out Niveau 103",
+  "summary": "Block Out Niveau 103 fills grille avec numéroté tuiles — `11`, `19`, `14` à travers le haut et violet `10` barre sur la gauche rail — turning chaque rangée dans counting énigme. gauche-rail stack de correspondant `10` tuiles doit drainez avant ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out Niveau 103 fills grille avec numéroté tuiles — `11`, `19`, `14` à travers le haut et violet `10` barre sur la gauche rail — turning chaque rangée dans counting énigme. gauche-rail stack de correspondant `10` tuiles doit drainez avant large barres peut déplacez, et le bas violet plateau compteur tracks how many placements remain. piegez est supérieur `19` tuile: il looks urgent mais doit attendez pour rail.",
+        "landmarks": [
+          "Block Out Niveau 103 fills grille avec numéroté tuiles — `11`, `19`, `14` à travers le haut et violet `10` barre sur la gauche rail — turning chaque rangée dans counting énigme.",
+          "Gauche-rail stack de correspondant `10` tuiles doit drainez avant large barres peut déplacez, et le bas violet plateau compteur tracks how many placements remain.",
+          "Piegez est supérieur `19` tuile: il looks urgent mais doit attendez pour rail."
+        ],
+        "colors": ["violet", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez chaque gauche-rail `10` tuile avant touching abaissez violet `19` barre.",
+        "Supérieur violet `4` barre peut déplacez une fois le haut rangée est gone — pas attendez pour entire centre amas à dégagez premier.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut-rangée light-bleu `11`, `19`, et `14` tuiles à travers supérieur sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez la gauche-rail bleu `10` stack de haut à bas avant touching le centre amas."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Glissez supérieur violet `4` barre gauche une fois le haut rangée et gauche rail sont ouvrez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Cassez haut le centre rose/vert/jaune singles à ouvrez le milieu colonne."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Décalez orange croisez et restant cyan `10` tuiles dans côté voies."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Relâchez abaissez violet `19` barre à travers la sortie inférieure après la gauche rail est videz."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez dernier vert amas et bas-plateau passes à close compteur `6`."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à glissez abaissez violet `19` barre avant la gauche-rail `10` stack est gone.",
+        "Dégagement le centre orange croisez too tôt pendant le haut-rangée numéros sont toujours blocking supérieur sorties."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 103",
+    "description": "Résolvez le niveau 103 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

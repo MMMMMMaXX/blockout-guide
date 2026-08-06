@@ -1,7 +1,7 @@
 /** 文件职责：把颜色名映射为视觉色块，放在颜色名前作为“要操作的颜色块”提示。所有关卡复用。 */
 import type { ReactNode } from "react";
 import type { Locale } from "@/lib/content/types";
-import { getMessages } from "@/lib/i18n/messages";
+import { catalogs, getMessages } from "@/lib/i18n/messages";
 
 const COLOR_HEX: Record<string, string> = {
   blue: "#3b6fe0",
@@ -14,6 +14,7 @@ const COLOR_HEX: Record<string, string> = {
   violet: "#8e6be8",
   orange: "#f39356",
   teal: "#19b6c9",
+  mint: "#5eead4",
   lime: "#9bd11a",
   magenta: "#d6409f",
   white: "#e8ebf5",
@@ -22,16 +23,38 @@ const COLOR_HEX: Record<string, string> = {
   grey: "#9aa1b8",
 };
 
+/**
+ * 反向映射：把任意语言的颜色显示名（如 "红色" / "Rouge" / "Красный"）映射回英文 key（red）。
+ * 颜色值是机器标识，content JSON 在翻译流程中偶尔会被写成本地化字符串；
+ * 这个映射保证 ColorDot 仍能正确渲染色值，而不是全部回退成灰色。
+ */
+const LOCALIZED_TO_KEY: Record<string, string> = {};
+for (const catalog of Object.values(catalogs)) {
+  for (const [key, value] of Object.entries(catalog.color)) {
+    if (typeof value === "string") {
+      LOCALIZED_TO_KEY[value.toLowerCase().trim()] = key;
+      LOCALIZED_TO_KEY[key.toLowerCase().trim()] = key;
+    }
+  }
+}
+
 /** 把任意颜色名稳定映射为一个十六进制色值；未知颜色回退到中性灰。 */
 export function colorHex(name: string): string {
-  return COLOR_HEX[name.toLowerCase().trim()] ?? "#8a91a8";
+  const normalized = name.toLowerCase().trim();
+  const key = LOCALIZED_TO_KEY[normalized] ?? normalized;
+  return COLOR_HEX[key] ?? "#8a91a8";
 }
 
 /** 取得本地化颜色显示名；未知颜色保留原名。 */
 export function localizedColorName(name: string, locale: Locale): string {
   const t = getMessages(locale);
-  const key = name.toLowerCase().trim();
-  return (t.color[key as keyof typeof t.color] as string | undefined) ?? name;
+  const normalized = name.toLowerCase().trim();
+  return (
+    (t.color[normalized as keyof typeof t.color] as string | undefined) ??
+    (t.color[(LOCALIZED_TO_KEY[normalized] ?? normalized) as keyof typeof t.color] as
+      string | undefined) ??
+    name
+  );
 }
 
 type ColorDotProps = { name: string; size?: number; locale?: Locale };

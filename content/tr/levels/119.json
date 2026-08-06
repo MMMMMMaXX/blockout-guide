@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-119",
+  "locale": "tr",
+  "levelNumber": 119,
+  "title": "Block Out Seviye 119 Rehberi",
+  "summary": "Block Out Seviye 119 bir Süper zor packing tahta — numaralı direkler ve ok-marked çokgen parçalar meli yönlendir Udan-şekilli koridor ile hayır alan için hatadır. Fixed Lego tuğla küme bloklar bir arm U, ve rainbow rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/119/",
+        "layout": "Block Out Seviye 119 bir Süper zor packing tahta — numaralı direkler ve ok-marked çokgen parçalar meli yönlendir Udan-şekilli koridor ile hayır alan için hatadır. Fixed Lego tuğla küme bloklar bir arm U, ve rainbow sağ-sök ebilir sadece çıkış birde direction. zorla o önce yeşil snake yol ve mor winding şekil sol ve U koridor kilitlenir için iyi.",
+        "landmarks": [
+          "Block Out Seviye 119 bir Süper zor packing tahta — numaralı direkler ve ok-marked çokgen parçalar meli yönlendir Udan-şekilli koridor ile hayır alan için hatadır.",
+          "Fixed Lego tuğla küme bloklar bir arm U, ve rainbow sağ-sök ebilir sadece çıkış birde direction.",
+          "Zorla o önce yeşil snake yol ve mor winding şekil sol ve U koridor kilitlenir için iyi."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r_96PuAWsyE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r_96PuAWsyE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle alt-sol Lego küme önce sağ rainbow istifler, veya U koridor kapanır.",
+        "Tut sağ `8` sütun park edildi kadar daha düşük `2` cep alan kaydır.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst-sol mavi `3` marker ve açık alan soldan turuncu-çerçeveli `14` direk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır alt-sol Lego tuğla küme (yeşil/kırmızı/mavi/sarı) olmadan mühürleyerek merkezi U koridor."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle sağ uzun mor `8` sütun sadece sonra alt `2` cep alan kaydır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Yönlendir rainbow sağ-istifler daha düşük ızgaradan kullanarak yeşil sağ-ok şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle numaralı camgöbeği `1` karo oturarak Uda-açarak sonra sol `3` kule thins."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir alt sayaçlar `8` ve `1` ve çıkış ok-directed yeşil L daha düşük solda."
+        }
+      ],
+      "failurePoints": [
+        "Yönlendirerek rainbow sağ-istifler önce alt-sol Lego küme temizlenir — bu seals U koridor.",
+        "Kaydırarak sağ `8` sütun sırasında daha düşük `2` cep hâlâ boxed ."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/119/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 119 Rehberi ve Çözümü",
+    "description": "Block Out seviye 119'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

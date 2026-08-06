@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-50",
+  "locale": "zh-cn",
+  "levelNumber": 50,
+  "title": "Block Out 第 50 关通关攻略",
+  "summary": "Block Out 第 50 关是定向滑块终章——没有 Boss、计数块或装置。高大的箭头方块塞满三列，只能沿箭头所指方向滑动：蓝色与黄色长条向上，绿色方块向下，红……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Block Out 第 50 关是定向滑块终章——没有 Boss、计数块或装置。高大的箭头方块塞满三列，只能沿箭头所指方向滑动：蓝色与黄色长条向上，绿色方块向下，红色长条向左或向右，紫色推动块填满边缘。解法关乎路线顺序：先腾出一条竖向通道，把红色横向长条当作交通控制器（而非障碍），并将绿色与紫色方块留待大长条清除之后。",
+        "landmarks": [
+          "Block Out 第 50 关是定向滑块终章——没有 Boss、计数块或装置。",
+          "高大的箭头方块塞满三列，只能沿箭头所指方向滑动：蓝色与黄色长条向上，绿色方块向下，红色长条向左或向右，紫色推动块填满边缘。",
+          "解法关乎路线顺序：先腾出一条竖向通道，把红色横向长条当作交通控制器（而非障碍），并将绿色与紫色方块留待大长条清除之后。"
+        ],
+        "colors": ["blue", "yellow", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "红色横向长条是交通控制器而非障碍——在其余竖向方块基本消失前，保留一条备用。",
+        "先腾出一条长竖向通道。不要立刻清除两条红色长条。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将一条蓝色或黄色长条向上滑出，腾出第一条长竖向通道。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用打开的通道，将另一块黄色或蓝色箭头方块移出堆叠。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在第一条红色横向长条滑出时，防止右侧过度填充。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "仅在第一侧平稳后，再打开第二条长通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在竖向阻挡块变薄后，释放绿色向下箭头方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "在大长条已经消失后，最后才使用紫色推动块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "待房间基本清空后，以最后一块红色或绿色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在竖向通道就绪前移除两条红色横向长条——这会夺走你的交通控制，导致右侧过度填充。",
+        "在上方竖向长条清除前就试图滑动绿色向下箭头方块，会导致列被堵死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 50 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 50 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-85",
+  "locale": "fr",
+  "levelNumber": 85,
+  "title": "Guide Block Out Niveau 85",
+  "summary": "Block Out Niveau 85 packs plateau avec large rouge centre bloc surrounded par vert, bleu, et blocs violet, plus special blocs avec magnet/trophy 'U' icon que interact avec adjacent pièces. Verrou/clé blocs add sequencing constrain...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/85/",
+        "layout": "Block Out Niveau 85 packs plateau avec large rouge centre bloc surrounded par vert, bleu, et blocs violet, plus special blocs avec magnet/trophy 'U' icon que interact avec adjacent pièces. Verrou/clé blocs add sequencing constraints. Dégagez les blocs vert sur la gauche à travers la gauche sorties premier, alors les blocs bleu sur la droite, et finally extract large rouge centre bloc une fois sides sont ouvrez.",
+        "landmarks": [
+          "Block Out Niveau 85 packs plateau avec large rouge centre bloc surrounded par vert, bleu, et blocs violet, plus special blocs avec magnet/trophy 'U' icon que interact avec adjacent pièces.",
+          "Verrou/clé blocs add sequencing constraints.",
+          "Dégagez les blocs vert sur la gauche à travers la gauche sorties premier, alors les blocs bleu sur la droite, et finally extract large rouge centre bloc une fois sides sont ouvrez."
+        ],
+        "colors": ["red", "green", "blue", "violet", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "acjCQqZtavE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=acjCQqZtavE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Handle special 'U' icon blocs tôt — ils interact avec adjacent pièces unpredictably.",
+        "Dégagez sides avant centre — le bloc rouge needs large voies.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Extract les blocs vert sur la gauche à travers la gauche sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Tirez les blocs bleu sur la droite à travers la sortie droite."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Handle special 'U' icon blocs carefully — ils interact avec adjacent pièces."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez verrou/clé blocs à déverrouillez gated sections."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Décalez large rouge centre bloc à travers son sortie une fois sides sont ouvrez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec orange/blocs jaune à le bas et restant violet fragments."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring special 'U' icon blocs, qui peut jam adjacent pièces unexpectedly.",
+        "Essayant à déplacez le centre bloc rouge avant sides sont cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/85/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 85",
+    "description": "Résolvez le niveau 85 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

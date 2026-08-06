@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-144",
+  "locale": "tr",
+  "levelNumber": 144,
+  "title": "Block Out Seviye 144 Rehberi",
+  "summary": "Block Out Seviye 144 bir Zor sayaç tahta inşa edildi mor numaralıdan kuleler ve yedi-bead alt sıra ile wrench tooldır. Border sayaçlar tick `15`/`12`/`20` aşağı doğru kuleler boşalt. iki büyük mor bloklar — `6` ve...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/144/",
+        "layout": "Block Out Seviye 144 bir Zor sayaç tahta inşa edildi mor numaralıdan kuleler ve yedi-bead alt sıra ile wrench tooldır. Border sayaçlar tick `15`/`12`/`20` aşağı doğru kuleler boşalt. iki büyük mor bloklar — `6` ve `9` — küçült parallel, ve temizleyerek sol istifler önce alt çubuk hits `17` bırakır wrench tool orphaned ile hayır kule kilidini aç.",
+        "landmarks": [
+          "Block Out Seviye 144 bir Zor sayaç tahta inşa edildi mor numaralıdan kuleler ve yedi-bead alt sıra ile wrench tooldır.",
+          "Border sayaçlar tick `15`/`12`/`20` aşağı doğru kuleler boşalt.",
+          "Iki büyük mor bloklar — `6` ve `9` — küçült parallel, ve temizleyerek sol istifler önce alt çubuk hits `17` bırakır wrench tool orphaned ile hayır kule kilidini aç."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hmv_9A-ga-k",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hmv_9A-ga-k",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kullan mor wrench sağ kırmızı beadda önce breaking sağ 9 kule.",
+        "Temizle yeşil/kırmızı/sarı/yeşil taban sıra sol öncede dokunarak border 15 sayaç.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kır üst 9 mor blok ve soy sol numaralı istifler (6/2/3/1) olmadan dokunarak wrench bead."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle yeşil/kırmızı/sarı/yeşil taban sıra daha düşük-sol flank."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan mor wrench sağ kırmızı beadda kilidini aç alt bead sıra."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle sağ-yan mavi 4 istifler ve adjacent turuncu/yeşil/kırmızı sütun."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kır kalan büyük mor 6 ve 9 kuleler sonra border sayaçlar düşür."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca sol 12/1 ray ve alt 17 çubuk kalan artıklarda."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle son isolated turuncu ve mavi bloklar tabanda için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek sağ 9 kule önce wrench bead kilidini açar, mühürleyerek yeşil/kırmızı daha düşük küme.",
+        "Detonating bead sıra önce sol 6/2/3/1 istifler fully peeled."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/144/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 144 Rehberi ve Çözümü",
+    "description": "Block Out seviye 144'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

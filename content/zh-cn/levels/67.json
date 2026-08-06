@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-67",
+  "locale": "zh-cn",
+  "levelNumber": 67,
+  "title": "Block Out 第67关攻略",
+  "summary": "Block Out 第67关将棋盘分成上下两半，由迷宫通道相连，中心交汇处有一个带框的拱心石方块（计数「1」）。上半部分混合了绿色、紫色、黄色、蓝色和红色方块。下半部分有三个高大的青色方块，计数分别为「8」「3」「3」。先移除拱心石……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "Block Out 第67关将棋盘分成上下两半，由迷宫通道相连，中心交汇处有一个带框的拱心石方块（计数「1」）。上半部分混合了绿色、紫色、黄色、蓝色和红色方块。下半部分有三个高大的青色方块，计数分别为「8」「3」「3」。先移除拱心石，通过迷宫连通两半，再清空上层的彩色方块，最后将高大的青色方块沿通道送入底部出口。",
+        "landmarks": [
+          "Block Out 第67关将棋盘分成上下两半，由迷宫通道相连，中心交汇处有一个带框的拱心石方块（计数「1」）。",
+          "上半部分混合了绿色、紫色、黄色、蓝色和红色方块。",
+          "下半部分有三个高大的青色方块，计数分别为「8」「3」「3」。",
+          "先移除拱心石，通过迷宫连通两半，再清空上层的彩色方块，最后将高大的青色方块沿通道送入底部出口。"
+        ],
+        "colors": ["green", "purple", "yellow", "blue", "red", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "带计数「1」的拱心石方块是全盘最廉价的移动——永远先清空它。",
+        "在将高大的青色方块沿通道输送之前，先清空所有上层彩色方块。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "清空中心带框的拱心石方块（计数「1」）——它连通两半。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左上角的绿色方块从左出口抽出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将顶部的蓝色和红色方块送出其出口。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "一旦相邻空间打开，将紫色/洋红色方块滑出。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将第一块高大的青色方块（计数「8」）沿迷宫通道送入底部出口。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将剩余两块青色方块（各计数「3」）沿通道送入。"
+        }
+      ],
+      "failurePoints": [
+        "忽视拱心石方块而先移动上层方块——两半会保持隔离。",
+        "在上半部分清空之前就输送高大的青色方块，会堵住其他一切方块的通道路径。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第67关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第67关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -56,9 +56,7 @@ function BoardBody({ level, variant, locale }: BoardBodyProps) {
           />
         </div>
       ) : null}
-      {hasProfile ? (
-        <BoardProfile profile={variant.boardProfile!} locale={locale} />
-      ) : null}
+      {hasProfile ? <BoardProfile profile={variant.boardProfile!} locale={locale} /> : null}
     </div>
   );
 }

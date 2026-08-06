@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-19",
+  "locale": "zh-cn",
+  "levelNumber": 19,
+  "title": "Block Out 第 19 关通关攻略",
+  "summary": "Block Out 第 19 关是一张先打底层的数字棋盘。先打开下方的红色、绿色、黑色和白色方块堆，再压平巨大的 `20/10` 青色地毯，等中间软化后才动用黄色顶盖。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "Block Out 第 19 关是一张先打底层的数字棋盘。先打开下方的红色、绿色、黑色和白色方块堆，再压平巨大的 `20/10` 青色地毯，等中间软化后才动用黄色顶盖。",
+        "landmarks": [
+          "Block Out 第 19 关是一张先打底层的数字棋盘。",
+          "先打开下方的红色、绿色、黑色和白色方块堆，再压平巨大的 `20/10` 青色地毯，等中间软化后才动用黄色顶盖。",
+          "棋盘上混合了青色、蓝色、黄色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["cyan", "blue", "yellow", "red", "green", "black", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "底层是第一阶段。",
+        "巨大的青色区域只有在下层阻挡块旋转开后才关键。",
+        "用连锁消除的思路来思考。最佳走子是能为接下来两步铺路的，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "打开底层的右侧，使下方的红色和绿色方块能开始旋转。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "剥离从下方挤卡青色地毯的黑色和白色阻挡块。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "把重复的 `20/10` 板基本停在原位，直到底层变得更平整。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "等下方方块堆打开后，从中间向外开始压平青色地毯。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "等中心板不再像一整块实心片时，才让顶部蓝黄相间的顶盖移动。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "利用侧向计数器收掉剩余的青色数值。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "用最后的黄色顶盖方块和底部红色出口收尾。"
+        }
+      ],
+      "failurePoints": [
+        "把中间的青色地毯当成开局问题来处理。",
+        "在试图移动顶盖的同时，还让底层堆得满满的。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 19 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 19 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

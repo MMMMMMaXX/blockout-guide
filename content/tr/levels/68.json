@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-68",
+  "locale": "tr",
+  "levelNumber": 68,
+  "title": "Block Out Seviye 68 Rehberi",
+  "summary": "Block Out Seviye 68 istifler iki odalar vertically, ayrıldı ile yatay dividing çubuk. üst oda holds karıştır yeşil bloklar, büyük mavi kare, ve turuncu/sarı parçalar. daha düşük oda baskın ile massive mor r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out Seviye 68 istifler iki odalar vertically, ayrıldı ile yatay dividing çubuk. üst oda holds karıştır yeşil bloklar, büyük mavi kare, ve turuncu/sarı parçalar. daha düşük oda baskın ile massive mor rectangle ile sayaç '7' wrapped kırmızı çerçevede. temizle entire üst oda ilk — dividing çubuk değil açık kadar o boşalır. sonra sök kırmızı çerçeve ve besle mor blok onun çıkışdan yedi times.",
+        "landmarks": [
+          "Block Out Seviye 68 istifler iki odalar vertically, ayrıldı ile yatay dividing çubuk.",
+          "Üst oda holds karıştır yeşil bloklar, büyük mavi kare, ve turuncu/sarı parçalar.",
+          "Daha düşük oda baskın ile massive mor rectangle ile sayaç '7' wrapped kırmızı çerçevede.",
+          "Temizle entire üst oda ilk — dividing çubuk değil açık kadar o boşalır."
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "purple", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boş üst oda completely önce dokunarak daha düşük — dividing çubuk değil açık otherwise.",
+        "Sök kırmızı çerçeve mor blokdan önce besleyerek o çıkışdan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle küçük bloklar üst üst odada üst çıkışdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract yeşil bloklar solda sol çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır büyük mavi kare blok dışarı sağdan veya üst çıkış."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle turuncu/sarı bloklar alt üst odada."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra üst oda boşalır, dividing çubuk açılır — sök kırmızı çerçeve mor blokdan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle massive mor blok (sayaç '7') onun çıkışdan repeatedly kadar fully temizlendi."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile any kalan camgöbeği yan parçalar ve alt parçalar."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir mor blok önce üst oda boş — dividing çubuk hâlâ mühürlendi.",
+        "Forgetting sök kırmızı çerçeve mor blokdan önce attempting besle o."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 68 Rehberi ve Çözümü",
+    "description": "Block Out seviye 68'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

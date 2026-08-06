@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-20",
+  "locale": "tr",
+  "levelNumber": 20,
+  "title": "Block Out Seviye 20 Rehberi",
+  "summary": "Block Out Seviye 20 bir Iki-alan ana blok bulmaca centered devasa mor `5` blokdır. Prepare daha düşük alan, tut yeşil gövde serbest, azalt çerçeve sayaçlar ana blok, ve sadece sonra bırak üst oda resolve.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "Block Out Seviye 20 bir Iki-alan ana blok bulmaca centered devasa mor `5` blokdır. Prepare daha düşük alan, tut yeşil gövde serbest, azalt çerçeve sayaçlar ana blok, ve sadece sonra bırak üst oda resolve.",
+        "landmarks": [
+          "Block Out Seviye 20 bir Iki-alan ana blok bulmaca centered devasa mor `5` blokdır.",
+          "Prepare daha düşük alan, tut yeşil gövde serbest, azalt çerçeve sayaçlar ana blok, ve sadece sonra bırak üst oda resolve.",
+          "Tahta mor, yeşil, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Koru yeşil gövde.",
+        "Daha düşük alan destek çalış için üst ana blok.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle alan sarı alt kapıdan daha düşük alanda böylece ilk sayaçlar başla düşe."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Döndür kırmızı ve mavi daha düşük-alan bloklar olmadan sabitleyerek merkezi yeşil gövde."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut mor `5` park edildi üst odada sırasında üst çerçeve sayaçlar düşür."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan daha düşük alan tuta besleyerek yanlar üst oda kadar ana blok çerçeve almost açık."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Serbest yeşil gövde sadece sonra daha düşük alan enough boş alan absorba sonraki hamleler."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bırak üst oda bitir sonra mor `5` blok hayır daha uzun kilitlendi ile çerçeve."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "End ile son daha düşük-alan renkler sonra ana blok blok zaten temizlendi."
+        }
+      ],
+      "failurePoints": [
+        "Engelleyerek yeşil connector ile daha düşük-alan renk blok.",
+        "Deneyerek hareket ettir mor `5` sırasında çerçeve sayaçlar hâlâ high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 20 Rehberi ve Çözümü",
+    "description": "Block Out seviye 20'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-46",
+  "locale": "pt-br",
+  "levelNumber": 46,
+  "title": "Guia do nível 46 do Block Out",
+  "summary": "Block Out Nível 46 tem três chefe câmaras através superior metade — dois menor uns em `3` cada e maior um em `10` — tudo sentado acima empacotado inferior câmara de vermelho, azul, verde, amarelo, e laranja blocos. Escoe inferior blocos fi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out Nível 46 tem três chefe câmaras através superior metade — dois menor uns em `3` cada e maior um em `10` — tudo sentado acima empacotado inferior câmara de vermelho, azul, verde, amarelo, e laranja blocos. Escoe inferior blocos primeiro para deixe dois `3` câmaras colapse rapidamente, então use liberado superior espaço para mais longo `10` redução.",
+        "landmarks": [
+          "Block Out Nível 46 tem três chefe câmaras através superior metade — dois menor uns em `3` cada e maior um em `10` — tudo sentado acima empacotado inferior câmara de vermelho, azul, verde, amarelo, e laranja blocos.",
+          "Escoe inferior blocos primeiro para deixe dois `3` câmaras colapse rapidamente, então use liberado superior espaço para mais longo `10` redução.",
+          "Tabuleiro mistura Vermelho, Azul, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dois `3` câmaras são rápido wins — se eles são ainda cima quando você comece `10`, você são working errado parte de tabuleiro.",
+        "Escoe inferior colorido blocos antes que qualquer chefe câmara.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Fino inferior colorido blocos em direção a inferior saídas para comece reducing tudo três chefe contadores."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deixe dois `3`-contagem câmaras colapse como inferior espaço abre."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha `10` câmara estacionado até `3`s são ambos indo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use liberado superior espaço para accelerate `10` redução."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Ordene restante colorido blocos através lateral saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar tarde vermelho, azul, e amarelo peças de inferior câmara."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último câmara fragmentos e lateral limpeza."
+        }
+      ],
+      "failurePoints": [
+        "Dividindo effort entre tudo três câmaras de comece — `10` precisa longe mais espaço do que `3`s, so quick wins should go primeiro.",
+        "Não escoando inferior colorido blocos antes que attacking chefe câmaras, que deixa no espaço para chefes para colapse em."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 46 do Block Out",
+    "description": "Resolva o nível 46 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

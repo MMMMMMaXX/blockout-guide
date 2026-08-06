@@ -1,0 +1,91 @@
+{
+  "id": "es-level-140",
+  "locale": "es",
+  "levelNumber": 140,
+  "title": "Guía de Block Out Nivel 140",
+  "summary": "Block Out nivel 140 uses four vertical piston barras mientras elevators — cada debe coincidencia su columna color en the superior grid antes the central `7` circle starts counting cycles. The pistons solo travel cuando su color coincidencias, así la fila superior...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "Block Out nivel 140 uses four vertical piston barras mientras elevators — cada debe coincidencia su columna color en the superior grid antes the central `7` circle starts counting cycles. The pistons solo travel cuando su color coincidencias, así la fila superior's directional flecha bloques debe despejado primero a reveal el objetivo colors. Alinea cada piston, luego drain the `7` circle para the PERFECT despejado.",
+        "landmarks": [
+          "Block Out nivel 140 uses four vertical piston barras mientras elevators — cada debe coincidencia su columna color en the superior grid antes the central `7` circle starts counting cycles.",
+          "The pistons solo travel cuando su color coincidencias, así la fila superior's directional flecha bloques debe despejado primero a reveal el objetivo colors.",
+          "Alinea cada piston, luego drain the `7` circle para the PERFECT despejado."
+        ],
+        "colors": ["red", "yellow", "blue", "green", "morado", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantén azul y amarillo pistons nivel during the opening — raising amarillo early splits the superior-fila 1 pair.",
+        "Elimina the rojo L-shape con izquierdo/abajo flechas antes lowering the amarillo piston en the derecho.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Raise the rojo piston barra a the superior-fila rojo 2 bloque y slide lo abajo the rojo inferior-flecha a spend the 2 contador."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Alinea la barra amarillo con the amarillo 1 baldosa y la barra azul con the azul 1 baldosa, lowering cada por su matching inferior-flecha."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Raise la barra verde para the derecho-columna verde bloques y spend the blanco 3 borde contador en the superior-derecho franja."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina el panel superior superior fila (morado/amarillo/azul/verde con arriba-flechas) once todos four superior contadores hit zero."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Desliza the rojo L-shape con izquierdo/abajo flechas por the inferior-izquierdo carril, luego push the azul vertical arriba-flecha bloque por el centro corridor."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Inferior the amarillo y morado derecho-lado piezas y spend the final central 7 circle para el tablero despejado."
+        }
+      ],
+      "failurePoints": [
+        "Raising the amarillo piston during step 1, splitting the superior-fila 1 pair y locking the central 7 sobre 3.",
+        "Lowering the amarillo piston antes the rojo L-shape clears, stranding the azul abajo-flecha bloque en la base."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 140",
+    "description": "Resuelve Block Out nivel 140 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

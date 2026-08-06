@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-106",
+  "locale": "fr",
+  "levelNumber": 106,
+  "title": "Guide Block Out Niveau 106",
+  "summary": "Block Out Niveau 106 est compartment labyrinthe où poche compteurs hide à l'intérieur murs violet et one-chemin vers le haut-arrow voie runs à travers le centre. numéroté tuiles sont real objectives, pas labels — chaque poche doit drainez avant suivant...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "Block Out Niveau 106 est compartment labyrinthe où poche compteurs hide à l'intérieur murs violet et one-chemin vers le haut-arrow voie runs à travers le centre. numéroté tuiles sont real objectives, pas labels — chaque poche doit drainez avant suivant mur opens. bas conveyor rangée feeds whole system, et pulling il too tôt collapses le centre channel pendant supérieur poches sont toujours live.",
+        "landmarks": [
+          "Block Out Niveau 106 est compartment labyrinthe où poche compteurs hide à l'intérieur murs violet et one-chemin vers le haut-arrow voie runs à travers le centre.",
+          "Numéroté tuiles sont real objectives, pas labels — chaque poche doit drainez avant suivant mur opens.",
+          "Bas conveyor rangée feeds whole system, et pulling il too tôt collapses le centre channel pendant supérieur poches sont toujours live."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "cyan", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Centre vers le haut-arrow voie est main alimentez acheminez — pas bloc il avec le bas rangée.",
+        "Attendez pour la droite-poche rouge `1`/`2` paire à dégagez avant dropping le bas conveyor rangée.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez supérieur gauche vert/jaune/bleu amas dans le centre vers le haut-arrow voie."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez cyan `8` et bleu `10` tuiles de supérieur-milieu poche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Pelez supérieur droit rouge `12` et `14` stack une fois le centre channel est fully ouvrez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez highlighted bleu `4` tuile mid-exécutez à déverrouillez le milieu-gauche isolated poche."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez tomber le bas horizontal rangée seulement après la droite-poche rouge `1` et `2` tuiles sont gone."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec le bas-plateau triangle pièce et close compteurs `5`, `2`, et `8`."
+        }
+      ],
+      "failurePoints": [
+        "Pulling le bas conveyor rangée avant la droite-poche rouge `1`/`2` paire dégage — ce sceaux labyrinthe.",
+        "Rushing jaune `16` tuile avant cyan `8` et bleu `10` poches sont videz."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 106",
+    "description": "Résolvez le niveau 106 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-136",
+  "locale": "fr",
+  "levelNumber": 136,
+  "title": "Guide Block Out Niveau 136",
+  "summary": "Block Out Niveau 136 splits plateau dans supérieur grille avec border numéros gating chaque glissez direction et abaissez panneau centered sur `13` circle avec four coloré arrows forming second scoring zone. L rouge-tetromino et jaune 2×...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "Block Out Niveau 136 splits plateau dans supérieur grille avec border numéros gating chaque glissez direction et abaissez panneau centered sur `13` circle avec four coloré arrows forming second scoring zone. L rouge-tetromino et jaune 2×2 carré compete pour centre espace — dégagez cyan haut-arrow feeds à travers `2` border premier, ou abaissez panneau runs hors de incoming pièces.",
+        "landmarks": [
+          "Block Out Niveau 136 splits plateau dans supérieur grille avec border numéros gating chaque glissez direction et abaissez panneau centered sur `13` circle avec four coloré arrows forming second scoring zone.",
+          "L rouge-tetromino et jaune 2×2 carré compete pour centre espace — dégagez cyan haut-arrow feeds à travers `2` border premier, ou abaissez panneau runs hors de incoming pièces.",
+          "Le plateau mélange violet, vert et bleu et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "green", "blue", "cyan", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez jaune 2×2 avant sliding cyan droite barre — reversing que ordre verrous abaissez 13 au-dessus 4.",
+        "Alimentez le L rouge-tetromino à travers violet gauche-arrow seulement après les deux côté 9 compteurs dégagez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le haut violet/vert/bleu amas rightward à dépensez 2 et 4 haut compteurs sans splitting cyan/jaune droite paire."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Alimentez rouge gauche colonne bas vert bas-arrow voie à commencez spending la gauche 9 border compteur."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez jaune 2×2 carré dans supérieur-centre une fois la droite 9 compteur tombent à 6."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Poussez le L rouge-tetromino leftward à travers violet gauche-arrow voie après les deux côté 9 compteurs dégagez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez cyan vertical barre sur le bord droit bas rouge droite-arrow voie à déverrouillez abaissez panneau."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez abaissez 9 tuile dans orange circle et alimentez dernier scraps bas jaune haut-arrow pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Sliding cyan droite barre avant jaune 2×2 breaks, locking abaissez 13 circle au-dessus 4.",
+        "Pushing le L rouge-tetromino gauche avant les deux côté 9 compteurs dégagez, stranding abaissez panneau."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 136",
+    "description": "Résolvez le niveau 136 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

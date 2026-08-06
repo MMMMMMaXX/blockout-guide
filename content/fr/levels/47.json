@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-47",
+  "locale": "fr",
+  "levelNumber": 47,
+  "title": "Guide Block Out Niveau 47",
+  "summary": "Block Out Niveau 47 a unique staircase-shaped plateau où le côté gauche descends dans étapes et le côté droit est droit mur. Numéroté compteurs `11`, `13`, `9`, et `22` sont intégré dans staircase. summit est misleading — ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "Block Out Niveau 47 a unique staircase-shaped plateau où le côté gauche descends dans étapes et le côté droit est droit mur. Numéroté compteurs `11`, `13`, `9`, et `22` sont intégré dans staircase. summit est misleading — plateau opens de la droite-côté voie et le milieu de slope. Dégagez `9` à le bas-gauche premier, pelez le milieu layers, et économisez `22` à le bas-droite pour dernier.",
+        "landmarks": [
+          "Block Out Niveau 47 a unique staircase-shaped plateau où le côté gauche descends dans étapes et le côté droit est droit mur.",
+          "Numéroté compteurs `11`, `13`, `9`, et `22` sont intégré dans staircase.",
+          "Summit est misleading — plateau opens de la droite-côté voie et le milieu de slope.",
+          "Dégagez `9` à le bas-gauche premier, pelez le milieu layers, et économisez `22` à le bas-droite pour dernier."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Summit est distraction — Niveau 47 opens de la droite-côté voie et le milieu de slope.",
+        "`22` à le bas-droite est dernier pièce. pas touch il jusqu'à le milieu layers sont gone.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez `9` compteur à le bas-gauche à create premier opening."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Ouvrez la droite gadget voie et abaissez son counts."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Pelez staircase de le milieu — `11` et `13` blocs — rather que peak."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Gardez supérieur tip de staircase garé jusqu'à abaissez section est dégagez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tournez abaissez coloré pièces à travers opened poches."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Reduce `22` compteur à le bas-droite seulement après le milieu est mostly gone."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec supérieur staircase tip et dernier côté cleanup."
+        }
+      ],
+      "failurePoints": [
+        "De départ à very haut de staircase, qui keeps abaissez voies clogged et wastes seulement useful acheminez.",
+        "Essayant à reduce `22` compteur avant le milieu layers (`11` et `13`) sont gone, qui leaves non salle pour heavy pièce à déplacez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 47",
+    "description": "Résolvez le niveau 47 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

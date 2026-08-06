@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-62",
+  "locale": "tr",
+  "levelNumber": 62,
+  "title": "Block Out Seviye 62 Rehberi",
+  "summary": "Block Out Seviye 62 dolur 5×8 ızgara ile gülen yüz face bloklar ortada (serbest-kaydırarak) ve yönlü ok bloklar yanlarda — mavi sol-oklar solda, kırmızı sağ-oklar sağda. gülen yüz bloklar ebilir hareket ettir freely, ama ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "Block Out Seviye 62 dolur 5×8 ızgara ile gülen yüz face bloklar ortada (serbest-kaydırarak) ve yönlü ok bloklar yanlarda — mavi sol-oklar solda, kırmızı sağ-oklar sağda. gülen yüz bloklar ebilir hareket ettir freely, ama ok bloklar constrained. temizle üst ve alt sıralar ilk, sonra çalış orta gülen yüz bloklar, ve bitir ile yan ok bloklar.",
+        "landmarks": [
+          "Block Out Seviye 62 dolur 5×8 ızgara ile gülen yüz face bloklar ortada (serbest-kaydırarak) ve yönlü ok bloklar yanlarda — mavi sol-oklar solda, kırmızı sağ-oklar sağda.",
+          "Gülen yüz bloklar ebilir hareket ettir freely, ama ok bloklar constrained.",
+          "Temizle üst ve alt sıralar ilk, sonra çalış orta gülen yüz bloklar, ve bitir ile yan ok bloklar."
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gülen yüz bloklar ortada serbest-kaydırarak — kullan bu freedom temizle paths için yönlü ok bloklar.",
+        "Temizle üst ve alt sıralar ilk ver orta bloklar alan hareket ettir.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst turuncu gülen yüz bloklar üst çıkışdan açık üst bölüme."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle alt yeşil gülen yüz bloklar alt çıkışdan açık daha düşük bölüme."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla kaydırarak orta gülen yüz bloklar freely — onlar ebilir hareket ettir any directionda."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle mavi sol-ok bloklar solda sol çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle kırmızı sağ-ok bloklar sağda sağ çıkışdan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan gülen yüz bloklar tuzağa düştü köşelerde."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek yan ok bloklar önce orta gülen yüz bloklar alan — orta bloklar al tuzağa düştü.",
+        "Deneyerek temizle orta önce üst ve alt sıralar açık, hangi sıkışır tahta."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 62 Rehberi ve Çözümü",
+    "description": "Block Out seviye 62'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

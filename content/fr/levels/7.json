@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-7",
+  "locale": "fr",
+  "levelNumber": 7,
+  "title": "Guide Block Out Niveau 7",
+  "summary": "Block Out Niveau 7 est haut échelle built autour one tôt rouge côté sortie. Envoyez supérieur droit bloc rouge loin premier, tournez blanc ladders à travers freed poche, et laissez noir mass effondrez seulement après les deux droite-côté reds sont gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "Block Out Niveau 7 est haut échelle built autour one tôt rouge côté sortie. Envoyez supérieur droit bloc rouge loin premier, tournez blanc ladders à travers freed poche, et laissez noir mass effondrez seulement après les deux droite-côté reds sont gone.",
+        "landmarks": [
+          "Block Out Niveau 7 est haut échelle built autour one tôt rouge côté sortie.",
+          "Envoyez supérieur droit bloc rouge loin premier, tournez blanc ladders à travers freed poche, et laissez noir mass effondrez seulement après les deux droite-côté reds sont gone.",
+          "Le plateau mélange rouge, blanc et noir et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Utilisez supérieur droit sortie rouge premier.",
+        "Inférieur droit bloc rouge follows même mur après blanc ladders décalez.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez supérieur droit rouge block out à travers la porte rouge sur le mur droit."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Soulevez le haut blanc pilier et utilisez freed droite poche à tournez inférieur droit bloc rouge vers le haut."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez shuffling le milieu blanc ladders donc inférieur droit bloc rouge peut aussi quittez à travers même rouge côté porte."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Après les deux droite-côté reds sont gone, utilisez supplémentaire height à tirez noir toit bas et laissez le centre blanc pillars séparé."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez restant blanc ladders vers la sortie inférieure comme le bas compteur shrinks."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Économisez supérieur gauche bloc rouge pour tardif cleanup une fois le centre a flattened."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par draining dernier colonne noir à travers le bas voie."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring supérieur droit rouge côté sortie et essayant à work de le bas premier.",
+        "Forcing supérieur gauche bloc rouge too tôt avant noir toit a dropped."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 7",
+    "description": "Résolvez le niveau 7 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

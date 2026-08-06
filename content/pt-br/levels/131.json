@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-131",
+  "locale": "pt-br",
+  "levelNumber": 131,
+  "title": "Guia do nível 131 do Block Out",
+  "summary": "O nível 131 do Block Out envolve uma moldura em forma de oito ao redor de uma saída central laranja `5`, com setas azuis para a esquerda, setas vermelhas para a direita e setas amarelas para baixo marcando as únicas pistas de saída permitidas. O selo azul `2` inferior esquerdo e o bloco vermelho `3` superior competem por...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "O nível 131 do Block Out envolve uma moldura em forma de oito ao redor de uma saída central laranja `5`, com setas azuis para a esquerda, setas vermelhas para a direita e setas amarelas para baixo marcando as únicas pistas de saída permitidas. O selo azul `2` inferior esquerdo e o bloco vermelho `3` superior competem pela mesma passagem — se deslizar o vermelho `3` pela pista inferior esquerda exposta cedo demais, a saída `5` perde seu único caminho de entrada.",
+        "landmarks": [
+          "O nível 131 do Block Out envolve uma moldura em forma de oito ao redor de uma saída central laranja `5`, com setas azuis para a esquerda, setas vermelhas para a direita e setas amarelas para baixo marcando as únicas pistas de saída permitidas.",
+          "Inferior-esquerda azul `2` vede e superior vermelho `3` bloco compita para mesmo corredor — deslize vermelho `3` através exposto inferior-esquerda pista também cedo e `5` saída loses seu único incoming caminho.",
+          "Tabuleiro mistura Amarelo, Verde, Azul e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["yellow", "green", "blue", "red", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimente azul-estrela aglomerado através esquerda seta antes que 3 contador solta em cintura.",
+        "Salve vermelho L-aglomerado para direita-seta pista até superior câmara é vazio.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior amarelo braço fileiras e gaste centro laranja 5 saída sem crossing inferior-esquerda 2 selos."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize inferior-esquerda azul-estrela aglomerado através azul esquerda-seta pista enquanto cintura é ainda estreito."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre centro roxo corredor para solte vermelho 3 contador bloco em cintura abertura."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente inferior-esquerda vermelho L-aglomerado através vermelho direita-seta pista uma vez superior câmara esvazia."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Desloque restante verde vertical empilha em direção a amarelo para baixo-seta saída em inferior centro."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar último amarelo, azul, e roxo recortes em inferior L-bolso para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Tocando inferior-esquerda 2 selos antes que centro 5 saída limpa, locking cintura.",
+        "Sending vermelho L-aglomerado através direita seta antes que superior câmara esvazia, bloqueando para baixo saída."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 131 do Block Out",
+    "description": "Resolva o nível 131 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

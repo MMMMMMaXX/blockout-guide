@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-117",
+  "locale": "tr",
+  "levelNumber": 117,
+  "title": "Block Out Seviye 117 Rehberi",
+  "summary": "Block Out Seviye 117 uses ev-şekilli mor çerçeve ile dotted daha düşük ızgara, yan `13` raylar, ve external `4` besle paneller solda ve alt. ev çerçeve onun own packing sıra: arch meli kal açık kadar external pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "Block Out Seviye 117 uses ev-şekilli mor çerçeve ile dotted daha düşük ızgara, yan `13` raylar, ve external `4` besle paneller solda ve alt. ev çerçeve onun own packing sıra: arch meli kal açık kadar external paneller delivered onların bloklar. barındır arch çok erken ve son sarı besle çubuk nowhere gite, boxing yanda raylar permanently.",
+        "landmarks": [
+          "Block Out Seviye 117 uses ev-şekilli mor çerçeve ile dotted daha düşük ızgara, yan `13` raylar, ve external `4` besle paneller solda ve alt.",
+          "Ev çerçeve onun own packing sıra: arch meli kal açık kadar external paneller delivered onların bloklar.",
+          "Barındır arch çok erken ve son sarı besle çubuk nowhere gite, boxing yanda raylar permanently."
+        ],
+        "colors": ["green", "blue", "red", "orange", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Park et numaralı circle dottedda ızgara sadece sonra sağ ok kaydırıcılar temizle şerit.",
+        "Sol `13` ray meli ince önce sol camgöbeği `4` panel ebilir besle arch.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaldır üst yeşil `2` karo ve mavi `4` blok üst kümeden."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy sol `13` yan ray olmadan engelleyerek dotted daha düşük zone."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle parçalar soldan camgöbeği `4` panel açık eve çerçeve."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Yönlendir sağ kırmızı-ok ve mavi-ok kaydırıcılar sonra üst turuncu/yeşil sıra thins."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yerleştir daha düşük sarı circle (`9`, sonra `6`) dotteda ızgara olmadan overfilling arch."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca alt sarı çubuk ve sağ camgöbeği `4` sayaç closea kalan yan raylar `10`."
+        }
+      ],
+      "failurePoints": [
+        "Overfilling arch önce sağ ok kaydırıcılar temizle — bu boxes kırmızı-ok şerit.",
+        "Yerleştirerek daha düşük numaralı circle çok erken sırasında sol `13` ray hâlâ dolu."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 117 Rehberi ve Çözümü",
+    "description": "Block Out seviye 117'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

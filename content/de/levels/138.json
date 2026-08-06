@@ -1,0 +1,91 @@
+{
+  "id": "de-level-138",
+  "locale": "de",
+  "levelNumber": 138,
+  "title": "Block Out Level 138 Lösung",
+  "summary": "Block Out Level 138 lines hoch three orange-bordered tubes — `7`, `9`, `13` — als das Spielfeld's nur progress trackers, fed von multicolor base Raster durch header `2` Gerät. Rechts-Spalte `3` Zähler und base slabs muss ausrichten bevor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/138/",
+        "layout": "Block Out Level 138 lines hoch three orange-bordered tubes — `7`, `9`, `13` — als das Spielfeld's nur progress trackers, fed von multicolor base Raster durch header `2` Gerät. Rechts-Spalte `3` Zähler und base slabs muss ausrichten bevor tubes accept input. Schieben lila cluster bevor header fires und lone rot Block drifts in `9` tube's hinausführen Bahn, stalling longest Zähler.",
+        "landmarks": [
+          "Block Out Level 138 lines hoch three orange-bordered tubes — `7`, `9`, `13` — als das Spielfeld's nur progress trackers, fed von multicolor base Raster durch header `2` Gerät.",
+          "Rechts-Spalte `3` Zähler und base slabs muss ausrichten bevor tubes accept input.",
+          "Schieben lila cluster bevor header fires und lone rot Block drifts in `9` tube's hinausführen Bahn, stalling longest Zähler."
+        ],
+        "colors": ["yellow", "purple", "red", "blue", "green", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w0c0YTRTa2Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w0c0YTRTa2Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen isolated rot unten-Mitte Block letzte — doing es früh overfills 13 tube.",
+        "Hinausführen rechts-Seite gelb/blau/rot stapeln nur nach 7 Spalte hits zero.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen untere linke blau Quadrat und rot horizontal pair durch blau links-Pfeil Bahn zu starten links 7 Spalte."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben Mitte gelb horizontal Block rightward zu hinausführen mittlere 9 Spalte ohne touching rechts-Seite 2 Zähler."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break rechts-Seite gelb/blau/rot stapeln durch grün rechts-Pfeil Bahn once 7 Spalte hits zero."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen remaining lila und türkis base scraps nach oben in rechts 13 Spalte."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend header 2 Gerät und rot segmented bar nach alle three Spalte circles räumen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Drain rechts orange-Spalte 3 Zähler und Ausgang letzte rot singleton durch rot unten-Pfeil für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Räumend unten-Mitte rot Block bevor header 2 spends, overfilling 13 tube.",
+        "Feeding rechts-Seite stapeln bevor 7 Spalte räumt, locking grün rechts-Pfeil Bahn."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/138/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 138 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 138 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

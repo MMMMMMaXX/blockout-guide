@@ -1,0 +1,92 @@
+{
+  "id": "ja-level-125",
+  "locale": "ja",
+  "levelNumber": 125,
+  "title": "ブロックアウト レベル125 攻略",
+  "summary": "ブロックアウト レベル125は素早いＵ字枠の盤面で、底部の発射装置の列がブロックを上へＵ字型の隙間へ送り込みます。側面の腕は発射装置が作動する前に青の「6」と「4」のタイルまで薄くなる必要があり—そうでないと隙間があふれます。それらの…を壊し…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/125/",
+        "layout": "ブロックアウト レベル125は素早いＵ字枠の盤面で、底部の発射装置の列がブロックを上へＵ字型の隙間へ送り込みます。側面の腕は発射装置が作動する前に青の「6」と「4」のタイルまで薄くなる必要があり—そうでないと隙間があふれます。それらのカウンターを壊し、次に発射装置の列を使ってパーフェクト消去にします。中央の緑ブロックの白の「9」カウンターが最後の発射の引き金です。",
+        "landmarks": [
+          "ブロックアウト レベル 125 字-枠 下 行 上へ Ｕ字型 隙間.。",
+          "側 青 `6`、`4` タイル、発射する — 隙間 .。",
+          "を割りてカウンター、使う 行 完璧な 消去する.。",
+          "白 `9` カウンター 中央 緑 ブロック 発射する 作動させる.。"
+        ],
+        "colors": ["yellow", "green", "red", "orange", "cyan", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "01Yjk5R2M04",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=01Yjk5R2M04",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青のを割りて`6` カウンター、青 `4` カウンター 維持する 黄 台座 ペア 開く.。",
+        "中央の赤 `17`、側 カウンター タイル .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をずらして左に、-腕 黄/緑/赤 積み 下へ 遠い-左 緑 上-矢印 青 `6` タイル.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "右-腕 オレンジ/赤/青 積み 右端の 緑 上-矢印、青 `4` カウンター 配置し.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "青のを割りて`6` カウンター タイル 左 腕、側 積み .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青のを割りて`4` カウンター タイル 右 腕、黄 台座 手順.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて下 行 — 左 赤 `25`、中央の赤 `17`、右 緑 `25` — 通す 字 隙間.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して下 `9` カウンター タイル、赤/青 中央 緑 矢印 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "青のを割りて`4` カウンター、青 `6` — 詰まり 黄 台座 ペア .。",
+        "をずらして中央の赤 `17`、側 カウンター タイル 消去する、.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/125/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル125 攻略と解説",
+    "description": "ブロックアウト レベル125 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

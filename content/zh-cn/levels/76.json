@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-76",
+  "locale": "zh-cn",
+  "levelNumber": 76,
+  "title": "Block Out 第76关攻略",
+  "summary": "Block Out 第76关在一个5×7的网格中填满了带计数的蓝色方块——顶部是「10」和「1」，中间是「1」，底部是「4」和「1」。蓝色「10」方块需要 10 次出口——先清空底部……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/76/",
+        "layout": "Block Out 第76关在一个5×7的网格中填满了带计数的蓝色方块——顶部是「10」和「1」，中间是「1」，底部是「4」和「1」。蓝色「10」方块需要 10 次出口——先清空底部，再向上处理数字方块，最后处理顶部沉重的「10」方块。",
+        "landmarks": [
+          "Block Out 第76关在一个5×7的网格中填满了带计数的蓝色方块——顶部是「10」和「1」，中间是「1」，底部是「4」和「1」。",
+          "蓝色「10」方块需要 10 次出口——先清空底部，再向上处理数字方块，最后处理顶部沉重的「10」方块。",
+          "棋盘混合了蓝色、红色、绿色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "t-dHXsPpANQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=t-dHXsPpANQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "「10」方块是一场马拉松——先清空较小的数字方块来腾出空间。",
+        "先清空底部，给数字方块留出滑动空间。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部的红色和绿色方块从右出口清空，打通底座。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧的蓝色方块从左出口移出，打通左下区域。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始将中间带计数的蓝色数字方块经其出口清空——计数随出口递减。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "随着中间打开，将左侧的蓝色「4」方块从左出口清空。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "处理顶部的蓝色「10」方块——它需要 10 次出口才能完全清空。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后清理残留在角落里的蓝色「1」方块。"
+        }
+      ],
+      "failurePoints": [
+        "在较小数字方块之前就试图清空「10」方块——它需要空间来滑动并多次出口。",
+        "先清上方再清下方，导致下方方块被卡住，没有滑动空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/76/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第76关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第76关。"
+  },
+  "updatedAt": "2026-08-03"
+}

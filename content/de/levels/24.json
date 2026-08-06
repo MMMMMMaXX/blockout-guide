@@ -1,0 +1,98 @@
+{
+  "id": "de-level-24",
+  "locale": "de",
+  "levelNumber": 24,
+  "title": "Block Out Level 24 Lösung",
+  "summary": "Block Out Level 24 ist geteilt-corridor double-Boss Spielfeld mit two framed `12` panels. Thin rechts pillar ladder erste, öffnen central shaft second, und let obere Boss fall bevor untere one follows.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "Block Out Level 24 ist geteilt-corridor double-Boss Spielfeld mit two framed `12` panels. Thin rechts pillar ladder erste, öffnen central shaft second, und let obere Boss fall bevor untere one follows.",
+        "landmarks": [
+          "Block Out Level 24 ist geteilt-corridor double-Boss Spielfeld mit two framed `12` panels.",
+          "Thin rechts pillar ladder erste, öffnen central shaft second, und let obere Boss fall bevor untere one follows.",
+          "Das Spielfeld mixes Lila, Rot, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Öffnen shaft bevor moving Bosse.",
+        "Obere `12` goes bevor untere `12`.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Thin rechts ladder von schwarz, rot, und weiß Blöcke bevor touching either framed Boss."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Öffnen central shaft near oben `12` panel also two Bosse stop sharing sealed corridor."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Untere obere `12` panel once rechts edge ist kein longer crowded."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden freigegeben shaft zu begin dropping untere `12` panel afterward."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Behalten roter oberer Ausgang für spät cleanup nach shaft hat geöffnet."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Drain remaining Seite Zähler und small Farbe Bauteile als second Boss falls."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte rechts-Spalte leftovers nach beide `12` panels sind fast gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen one Boss while geteilt shaft ist still blocked.",
+        "Verwendend oben roter Ausgang bevor rechts corridor hat thinned enough."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 24 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 24 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

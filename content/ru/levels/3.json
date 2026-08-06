@@ -1,0 +1,93 @@
+{
+  "id": "ru-level-3",
+  "locale": "ru",
+  "levelNumber": 3,
+  "title": "Block Out Level 3 Walkthrough",
+  "summary": "блок Out уровень 3 — короткий chain — reaction головоломка. опустите центр красный блок сначала, отправьте зелёный угол влево, выведите опустите синий блок, и затем завершите оставшийся красный и жёлтый blocks on нижний выходs.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "блок Out уровень 3 — короткий chain — reaction головоломка. опустите центр красный блок сначала, отправьте зелёный угол влево, выведите опустите синий блок, и затем завершите оставшийся красный и жёлтый blocks on нижний выходs.",
+        "landmarks": [
+          "блок Out уровень 3 — короткий chain — reaction головоломка.",
+          "опустите центр красный блок сначала, отправьте зелёный угол влево, выведите опустите синий блок, и затем завершите оставшийся красный и жёлтый blocks on нижний выходs.",
+          "игровое поле mixes Green, Yellow, красный и more.",
+          "открывая layout — сортировка по цвету сетка.",
+          "очистите matched tiles завершите уровень."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "используйте центр красный выход as запустите.",
+        "зелёный и опустите синий блок оставьте до того как final yellow.",
+        "If игровое поле feels stuck, look for цвет with cleanest путь и используйте что regain пространство."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Ход 1",
+          "instruction": "сдвиньте центр красный блок прямо вниз через red нижний выход."
+        },
+        {
+          "order": 2,
+          "title": "Ход 2",
+          "instruction": "переместите upper — left зелёный блок вниз и out через green левый выход."
+        },
+        {
+          "order": 3,
+          "title": "Ход 3",
+          "instruction": "опустите опустите синий блок в синий нижний — левый выход."
+        },
+        {
+          "order": 4,
+          "title": "Ход 4",
+          "instruction": "опустите средний жёлтый блок в центральная полоса что just opened."
+        },
+        {
+          "order": 5,
+          "title": "Ход 5",
+          "instruction": "отправьте top — right красный блок вниз через красный выход как только средняя полоса — очистите."
+        },
+        {
+          "order": 6,
+          "title": "Ход 6",
+          "instruction": "завершите with последним жёлтый блок on жёлтый нижний — правый выход."
+        }
+      ],
+      "failurePoints": [
+        "Trying force top — right красный блок вниз до того как центр красный has влево.",
+        "Ignoring зелёная сторона выведите и treating игровое поле like bottom — only головоломка."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Прохождение и решение уровня 3 Block Out",
+    "description": "Пройдите уровень 3 Block Out по проверенному соответствию поля, со встроенным видео-прохождением, пошаговыми ходами и разбором типичных ошибок."
+  },
+  "updatedAt": "2026-08-03"
+}

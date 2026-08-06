@@ -1,0 +1,93 @@
+{
+  "id": "es-level-5",
+  "locale": "es",
+  "levelNumber": 5,
+  "title": "Guía de Block Out Nivel 5",
+  "summary": "El nivel 5 de Block Out es un tablero de damas apretado entre dos columnas rojas. Retira las piezas blancas por la salida derecha, deja que los bloques negros colapsen en una escalera para la salida inferior izquierda y guarda la última columna roja para el final.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/5/",
+        "layout": "El nivel 5 de Block Out es un tablero de damas apretado entre dos columnas rojas. Retira las piezas blancas por la salida derecha, deja que los bloques negros colapsen en una escalera para la salida inferior izquierda y guarda la última columna roja para el final.",
+        "landmarks": [
+          "El nivel 5 de Block Out es un tablero de damas apretado entre dos columnas rojas.",
+          "Retira las piezas blancas por la salida derecha, deja que los bloques negros colapsen en una escalera para la salida inferior izquierda y guarda la última columna roja para el final.",
+          "El tablero combina rojo, blanco, negro y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "es-W99zOPd8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=es-W99zOPd8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Piensa primero en limpiar el borde derecho de blanco.",
+        "El negro debe formar una escalera antes de que la salida izquierda sea útil.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Saca la pieza blanca más baja del borde derecho por la salida blanca."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Usa el nuevo hueco para pelar las siguientes piezas blancas hacia la misma salida en lugar de tocar las altas columnas rojas."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Deja que las piezas negras colapsen en la escalera central inferior mientras se limpian las filas centrales."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando ya haya salido casi toda la pieza blanca, envía las piezas negras inferiores a la izquierda por la salida negra y luego baja la pieza negra superior por el mismo canal."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Mantén las columnas rojas estacionadas hasta que la salida blanca y la salida negra hayan terminado su tráfico."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina haciendo pasar la alta columna roja restante por la zona superior ya despejada y fuera por la salida roja izquierda."
+        }
+      ],
+      "failurePoints": [
+        "Deslizar una de las altas columnas rojas antes de que se haya formado la escalera negra.",
+        "Usar el hueco blanco del lado derecho para mover el rojo en lugar de gastarlo en otra salida blanca."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/5/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 5",
+    "description": "Resuelve el nivel 5 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

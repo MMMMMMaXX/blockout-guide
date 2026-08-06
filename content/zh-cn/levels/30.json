@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-30",
+  "locale": "zh-cn",
+  "levelNumber": 30,
+  "title": "Block Out 第 30 关通关攻略",
+  "summary": "Block Out 第 30 关是一个围绕带 `11` 计数的高耸带框 Boss 柱搭建的 L 形房间。塔基周围堆满的红、白、黑方块必须先清除才能降低计数，而塔身只有在降到约 `2` 时才会……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "Block Out 第 30 关是一个围绕带 `11` 计数的高耸带框 Boss 柱搭建的 L 形房间。塔基周围堆满的红、白、黑方块必须先清除才能降低计数，而塔身只有在降到约 `2` 时才会坍塌。立柱倒下后，第二波绿、红、白方块会从竖井内部涌出，需要单独的分离阶段。",
+        "landmarks": [
+          "Block Out 第 30 关是一个围绕带 `11` 计数的高耸带框 Boss 柱搭建的 L 形房间。必须先清理堆积在塔基周围的红、白、黑方块来降低计数，而柱子只有在降到约 `2` 时才坍塌。柱子倒下后，第二波绿、红、白方块会从竖井内部涌出，需要单独的分离阶段。",
+          "必须先清理堆积在塔基周围的红、白、黑方块来降低计数，而柱子只有在降到约 `2` 时才坍塌。",
+          "柱子倒下后，第二波绿、红、白方块会从竖井内部涌出，需要单独的分离阶段。"
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "盯住 Boss 计数，而不是塔的高度——如果计数仍显示 `5` 或更高，说明塔基还需要更多处理。",
+        "在尝试用左墙出口处理内部方块之前，先喂入底部中央的绿色出口。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将左侧的红色方块滑向左墙出口，在塔基旁开出第一个缺口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把白色方块移出中央塔基，在塔与右侧红色方块群之间打开一条通道。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "通过前两步形成的缺口，清理右侧的红黑方块，同时留意 Boss 计数随每块方块下降。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦计数降到 `2`，就让带框的列坍塌——内部的绿白方块会涌进塔基区域。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "先分离暴露出的绿色方块，并通过底部中央的绿色出口送出。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "用左墙出口处理剩余的白色和红色内部方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在竖井清空、塔基平整后，用红色塔段的最后一段收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在塔基区域仍被红白方块塞满时就试图强行压下 Boss 列——由于没有通道让塔基方块逃离，计数几乎不动。",
+        "在内部方块涌出时，弃用底部中央的绿色出口而改用左墙出口，导致横段发生拥堵。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 30 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 30 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

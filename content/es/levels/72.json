@@ -1,0 +1,91 @@
+{
+  "id": "es-level-72",
+  "locale": "es",
+  "levelNumber": 72,
+  "title": "Guía de Block Out Nivel 72",
+  "summary": "Block Out nivel 72 packs a 5×7 grid con numbered bloques '6' y '11' en el lados, libre-sliding smiley bloques en the central, y directional flecha bloques en el bordes. The numbered bloques debe salida por su puertas mientras the smiley b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out nivel 72 packs a 5×7 grid con numbered bloques '6' y '11' en el lados, libre-sliding smiley bloques en the central, y directional flecha bloques en el bordes. The numbered bloques debe salida por su puertas mientras the smiley bloques son libre a movimiento. Elimina the inferior primero, luego work the smiley bloques, y finish con the numbered bloques.",
+        "landmarks": [
+          "Block Out nivel 72 packs a 5×7 grid con numbered bloques '6' y '11' en el lados, libre-sliding smiley bloques en the central, y directional flecha bloques en el bordes.",
+          "The numbered bloques debe salida por su puertas mientras the smiley bloques son libre a movimiento.",
+          "Elimina the inferior primero, luego work the smiley bloques, y finish con the numbered bloques."
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The smiley bloques en the central son libre-sliding — use este freedom a despejado caminos para the numbered bloques.",
+        "Elimina the más claro '6' bloque primero, luego the heavier '11' bloques.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the verde smiley bloques en the inferior por el salida inferior a abierto la base."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desplaza the amarillo bloques en the izquierdo fuera por el salida izquierdo a abierto the inferior-izquierdo zona."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza sliding the naranja y amarillo smiley bloques en the central libremente — ellos puede movimiento en cualquier direction."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the azul bloques en the derecho por el salida derecho mientras the central opens."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Aborda the numbered bloques con contadores '6' y '11' — despejado the más claro '6' primero."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the heavier '11' bloques, que have the most room después the others son cleared."
+        }
+      ],
+      "failurePoints": [
+        "Elimina the numbered '11' bloques antes the smiley bloques — the '11' bloques need room a slide y salida multiple times.",
+        "Elimina the superior antes the inferior, que leaves the inferior bloques trapped con no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 72",
+    "description": "Resuelve Block Out nivel 72 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

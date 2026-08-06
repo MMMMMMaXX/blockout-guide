@@ -1,0 +1,91 @@
+{
+  "id": "de-level-116",
+  "locale": "de",
+  "levelNumber": 116,
+  "title": "Block Out Level 116 Lösung",
+  "summary": "Block Out Level 116 wraps perimeter Pfeile around central orange-bordered `6` pocket — Pfeile sind live exits, nicht decoration. Unten Farbe-Zähler tray tracks progress, und Seite Pfeile muss öffnen in sequence zu vermeiden trapping...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/116/",
+        "layout": "Block Out Level 116 wraps perimeter Pfeile around central orange-bordered `6` pocket — Pfeile sind live exits, nicht decoration. Unten Farbe-Zähler tray tracks progress, und Seite Pfeile muss öffnen in sequence zu vermeiden trapping weiß-bordered lila Quadrat in Mitte-rechts. Force lila Quadrat durch while unten Zähler sind still high und tray seals shut.",
+        "landmarks": [
+          "Block Out Level 116 wraps perimeter Pfeile around central orange-bordered `6` pocket — Pfeile sind live exits, nicht decoration.",
+          "Unten Farbe-Zähler tray tracks progress, und Seite Pfeile muss öffnen in sequence zu vermeiden trapping weiß-bordered lila Quadrat in Mitte-rechts.",
+          "Force lila Quadrat durch while unten Zähler sind still high und tray seals shut."
+        ],
+        "colors": ["purple", "blue", "green", "red", "cyan", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "nhsbZytgveo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=nhsbZytgveo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Unten Zähler tray ist seal — wait bis Mitte-rechts lila highlight räumt.",
+        "Behalten türkis `12`/`10` pair geparkt bis mittlere channel actually widens.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen obere linke blau `8` und grün oben cluster ohne touching central orange-bordered `6` pocket."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben rot links-Pfeil Spalte runter und räumen untere linke rot `11` Kachel."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen türkis `12` und paired `10` Kacheln durch unten Mitte once mittlere channel öffnet."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden highlighted weiß-bordered lila Quadrat in Mitte-rechts zu unlock blau rechts-Pfeil Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Close unten-tray blau `10`, `8`, und `4` Zähler bevor spending lila `7` pair."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte grün 1x1 und remaining perimeter Pfeil exits bis 6x6 Raster empties."
+        }
+      ],
+      "failurePoints": [
+        "Spending unten Zähler tray bevor Mitte-rechts lila highlight räumt — dieses seals blau rechts-Pfeil Ausgang.",
+        "Feeding türkis `12`/`10` pair too früh while central `6` pocket ist still boxed in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/116/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 116 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 116 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

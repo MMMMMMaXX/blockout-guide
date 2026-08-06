@@ -1,0 +1,91 @@
+{
+  "id": "de-level-61",
+  "locale": "de",
+  "levelNumber": 61,
+  "title": "Block Out Level 61 Lösung",
+  "summary": "Block Out Level 61 fills 6×8 Raster mit gerichtet Pfeil-Blöcke — grün links-Pfeile auf links, rot rechts-Pfeile auf rechts, blau links-Pfeile auf oben, grün runter-Pfeile auf unten, und orange/rot hoch-runter Blöcke in mittlere. Ever...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/61/",
+        "layout": "Block Out Level 61 fills 6×8 Raster mit gerichtet Pfeil-Blöcke — grün links-Pfeile auf links, rot rechts-Pfeile auf rechts, blau links-Pfeile auf oben, grün runter-Pfeile auf unten, und orange/rot hoch-runter Blöcke in mittlere. Jede Block kann nur schieben in sein Pfeil direction. Räumen oben und unten rows erste, dann arbeiten mittlere Spalten vertically.",
+        "landmarks": [
+          "Block Out Level 61 fills 6×8 Raster mit gerichtet Pfeil-Blöcke — grün links-Pfeile auf links, rot rechts-Pfeile auf rechts, blau links-Pfeile auf oben, grün runter-Pfeile auf unten, und orange/rot hoch-runter Blöcke in mittlere.",
+          "Jede Block kann nur schieben in sein Pfeil direction.",
+          "Räumen oben und unten rows erste, dann arbeiten mittlere Spalten vertically."
+        ],
+        "colors": ["green", "red", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "kfVQ2SZQEL4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=kfVQ2SZQEL4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pfeile sind constraints — Block mit links Pfeil kann nur schieben links. Planen around dieses.",
+        "Räumen oben und unten rows erste zu give mittlere Blöcke Raum zu schieben vertically.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben blau Blöcke mit links Pfeile durch links Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen unten grün Blöcke mit runter Pfeile durch unten Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin sliding mittlere orange/rot Blöcke vertically — hoch-Pfeil-Blöcke go hoch, runter-Pfeil-Blöcke go runter."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen links grün Blöcke mit links Pfeile durch links Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen rechts rot Blöcke mit rechts Pfeile durch rechts Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining mittlere Blöcke dass need vertikal sliding."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu schieben Block in direction sein Pfeil tut nicht point — Pfeil ist schwer constraint, nicht suggestion.",
+        "Räumend mittlere Blöcke bevor oben und unten rows sind öffnen, welche sperrt ein obere und untere Blöcke mit kein sliding Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/61/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 61 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 61 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

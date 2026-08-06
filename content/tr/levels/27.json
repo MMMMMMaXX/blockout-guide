@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-27",
+  "locale": "tr",
+  "levelNumber": 27,
+  "title": "Block Out Seviye 27 Rehberi",
+  "summary": "Block Out Seviye 27 bir Cep-bırak ana blok bulmacadır. Boş sağ boşluk ilk, başla lowering sol `7` ana blok saniye, ve sadece sonra temiz yukarı geç yeşil, kırmızı, ve sarı strips.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "Block Out Seviye 27 bir Cep-bırak ana blok bulmacadır. Boş sağ boşluk ilk, başla lowering sol `7` ana blok saniye, ve sadece sonra temiz yukarı geç yeşil, kırmızı, ve sarı strips.",
+        "landmarks": [
+          "Block Out Seviye 27 bir Cep-bırak ana blok bulmacadır.",
+          "Boş sağ boşluk ilk, başla lowering sol `7` ana blok saniye, ve sadece sonra temiz yukarı geç yeşil, kırmızı, ve sarı strips.",
+          "Tahta mor, beyaz, siyah ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sağ cep açılır sol ana blok.",
+        "Geç renk strips post-ana blok temizlik.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Boş sağ beyaz-ve-siyah boşluk ilk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Daha düşük sol-yan sayaçlar sırasında ana blok hâlâ intact."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla küçülerek çerçeveli `7` panel sadece sonra yan cep temizle."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan newly açıldı alan döndür geç yeşil ve kırmızı strips."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bring sarı sök sadece sonrada ana blok zaten altında mid-count."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle yan çıkışlar sonra ana blok neredeyse gitti."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son renk strips sonra çerçeveli panel çöktü."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring sağ boşluk ve çekerek sol ana blok çok erken.",
+        "Treating geç renk strips açarak aşama."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 27 Rehberi ve Çözümü",
+    "description": "Block Out seviye 27'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

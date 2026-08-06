@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-39",
+  "locale": "zh-cn",
+  "levelNumber": 39,
+  "title": "Block Out 第 39 关通关攻略",
+  "summary": "Block Out 第 39 关标注为「Super Hard」，是 Block Out 中第一个三 Boss 棋盘。布局是一个 2×2 网格：左上 Boss `14`、右上 Boss `21`、右下 Boss `4`，以及左下角一堆密集的混色方块。`4` Boss……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "Block Out 第 39 关标注为「Super Hard」，是 Block Out 中第一个三 Boss 棋盘。布局是一个 2×2 网格：左上 Boss `14`、右上 Boss `21`、右下 Boss `4`，以及左下角一堆密集的混色方块。`4` Boss 打开下半部分，彩色方块接着排出，然后 `14` 在 `21` 之前落下。每个阶段都依赖前一个阶段，顺序绝对不可更改。",
+        "landmarks": [
+          "Block Out 第 39 关标注为「Super Hard」，是 Block Out 中第一个三 Boss 棋盘。布局是一个 2×2 网格：左上 `14` Boss、右上 `21` Boss、右下 `4` Boss，以及左下密集的混色。 `4` Boss 打开下半区，彩色方块接着排出，然后 `14` 在 `21` 之前落下。每个阶段都依赖前一阶段，顺序是绝对的。",
+          "布局是一个 2×2 网格：左上 `14` Boss、右上 `21` Boss、右下 `4` Boss，以及左下密集的混色。",
+          " `4` Boss 打开下半区，彩色方块接着排出，然后 `14` 在 `21` 之前落下。",
+          "每个阶段都依赖前一阶段，顺序是绝对的。"
+        ],
+        "colors": ["green", "yellow", "blue", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在触碰 `4` 上方任何东西之前，先检查右下 `4` 计数——如果它还存活，两个上侧 Boss 都无法移动。",
+        "级联是严格的：`4` → 颜色 → `14` → `21`。没有捷径。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先处理右下 `4` 腔室周围的方块——把相邻的彩色方块移向底部出口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "削薄左下象限的彩色方块（绿、黄、蓝、红、紫），为 `4` Boss 坍塌创造空间。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "一旦 `4` 计数降为零（约 01:47），就利用腾出的右下空间加速颜色排出。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "只有在下半区基本打开后才启动左上 `14` Boss——留意其计数穿过 `10`。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在 `14` 仍在落下时，让右上 `21` Boss 保持停驻。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "只有在 `14` 腔室完全清空、顶部屋顶变轻后，才让 `21` Boss 开始下降。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在三个 Boss 都消失后，用最后的彩色方块和侧边计数器收尾。"
+        }
+      ],
+      "failurePoints": [
+        "从一开始就对三个 Boss 平均用力——没有一个达到临界阈值，棋盘停滞，因为没有单个腔室获得足够空间。",
+        "在 `14` 还没坍塌前就试图削减 `21` Boss，把有限的上部空间浪费在更大的计数上。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 39 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 39 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

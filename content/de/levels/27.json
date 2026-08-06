@@ -1,0 +1,98 @@
+{
+  "id": "de-level-27",
+  "locale": "de",
+  "levelNumber": 27,
+  "title": "Block Out Level 27 Lösung",
+  "summary": "Block Out Level 27 ist pocket-freigeben Boss Puzzle. Empty rechts cavity erste, starten lowering links `7` Boss second, und nur dann sauber hoch spät grün, rot, und gelb strips.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "Block Out Level 27 ist pocket-freigeben Boss Puzzle. Empty rechts cavity erste, starten lowering links `7` Boss second, und nur dann sauber hoch spät grün, rot, und gelb strips.",
+        "landmarks": [
+          "Block Out Level 27 ist pocket-freigeben Boss Puzzle.",
+          "Empty rechts cavity erste, starten lowering links `7` Boss second, und nur dann sauber hoch spät grün, rot, und gelb strips.",
+          "Das Spielfeld mixes Lila, Weiß, Schwarz und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rechts pocket öffnet links Boss.",
+        "Spät Farbe strips sind post-Boss cleanup.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Empty rechts weiß-und-schwarz cavity erste."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Untere links-Seite Zähler while Boss ist still intact."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten shrinking framed `7` panel nur nach Seite pocket ist räumen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden newly geöffnet Platz zu drehen spät grün und rot strips."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Bring gelb entfernen in nur nach Boss ist bereits unterhalb mittlere-count."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen Seite exits once Boss ist fast gone."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte Farbe strips nach framed panel hat collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring rechts cavity und pulling auf links Boss too früh.",
+        "Treating spät Farbe strips als Eröffnungs- phase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 27 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 27 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-109",
+  "locale": "tr",
+  "levelNumber": 109,
+  "title": "Block Out Seviye 109 Rehberi",
+  "summary": "Block Out Seviye 109 bir Süper zor blast tahta inşa edildi üçden mavi `6` direkler ve sıra çekiç toolsdır. Hammers kır direk karolar, ve sarı orb follows drawn kırmızı ve sarı paths bitir son kümeler. yakala ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/109/",
+        "layout": "Block Out Seviye 109 bir Süper zor blast tahta inşa edildi üçden mavi `6` direkler ve sıra çekiç toolsdır. Hammers kır direk karolar, ve sarı orb follows drawn kırmızı ve sarı paths bitir son kümeler. yakala sequencing: sonra sağ çekiç spent, merkez blast orb meli fırlat — ama triggering o önce sol yol temizlenir strands yarı tahta.",
+        "landmarks": [
+          "Block Out Seviye 109 bir Süper zor blast tahta inşa edildi üçden mavi `6` direkler ve sıra çekiç toolsdır.",
+          "Hammers kır direk karolar, ve sarı orb follows drawn kırmızı ve sarı paths bitir son kümeler.",
+          "Yakala sequencing: sonra sağ çekiç spent, merkez blast orb meli fırlat — ama triggering o önce sol yol temizlenir strands yarı tahta."
+        ],
+        "colors": ["blue", "red", "purple", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MOEMMEAt4Lg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MOEMMEAt4Lg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sarı blast orb finisher, değil opener.",
+        "Sakla sarı çekiç kadar üst-sağ `10` sayaç visible.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kullan yeşil çekiç karo solda mavi `6` direk düşür üst-sol `13` sayaç."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Harca mor çekiç merkezde `6` direk sonra sol ray reads `10`."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle sol `8` karo kırmızı guideden yol önce dokunarak sağ direk."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sakla sarı çekiç kadar üst-sağ `10` sayaç visible ve sağ ray hâlâ gösterir `7`."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kır sağ mavi `6` direk, sonra hareket ettir sarı blast orb sarı guideden yol."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir alt sarı karo starbursta ve close kalan yan-ray `9` count."
+        }
+      ],
+      "failurePoints": [
+        "Triggering sarı blast orb önce sol `8` karo gitti.",
+        "Harcayarak sarı çekiç çok erken, bırakarak sağ direk unbreakable."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/109/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 109 Rehberi ve Çözümü",
+    "description": "Block Out seviye 109'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

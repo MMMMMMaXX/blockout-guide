@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-88",
+  "locale": "ja",
+  "levelNumber": 88,
+  "title": "ブロックアウト レベル88 攻略",
+  "summary": "ブロックアウト レベル88は砂時計型の盤面で、中央に青の背骨、その下に赤のジグザグがぶら下がり、両側壁に組み合わさった紫の鍵ポッドがあります。まず右上の積み重ねから始め、次に側面の錠前を消去し、それからだけオレンジの…を落とします。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "ブロックアウト レベル88は砂時計型の盤面で、中央に青の背骨、その下に赤のジグザグがぶら下がり、両側壁に組み合わさった紫の鍵ポッドがあります。まず右上の積み重ねから始め、次に側面の錠前を消去し、それからだけオレンジの梁と中央の背骨を狭い通路を通って下部の受け皿へ落とします。",
+        "landmarks": [
+          "ブロックアウト レベル 88 青 中央 背骨、赤、揃った 紫 ロックする 側 壁.。",
+          "を始めて上の-右 積み、を消去して側、オレンジのを落として、中央 背骨 入り口 下の .。",
+          "混ぜる 緑、赤、オレンジ、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "始める 下 . 首 下へ.。",
+        "ロックする 壁、青 背骨 落とす.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "上の-右 積み、右の壁、.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を使いて解放する 右 紫 ロックする、消去する 揃い ロックする 左の壁.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をスライドさせてオレンジ 渡り 入り口、青 中央 背骨 解放する 側.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青背骨を落として、赤 首 下の .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去して下の-左 オレンジ、オレンジ トレイ、中央 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて紫 上-左 緑- -黄 開き 側 レーン.。"
+        }
+      ],
+      "failurePoints": [
+        "開始 下 オレンジ、上の-右 積み、側 開き 首.。",
+        "動かし オレンジ 青 中央 背骨 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル88 攻略と解説",
+    "description": "ブロックアウト レベル88 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-19",
+  "locale": "fr",
+  "levelNumber": 19,
+  "title": "Guide Block Out Niveau 19",
+  "summary": "Block Out Niveau 19 est basement-premier numeric plateau. Ouvrez abaissez rouge, vert, noir, et pile blanc premier, alors aplatissez géant `20/10` cyan tapis, et dépensez jaune toit seulement après le milieu a softened.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "Block Out Niveau 19 est basement-premier numeric plateau. Ouvrez abaissez rouge, vert, noir, et pile blanc premier, alors aplatissez géant `20/10` cyan tapis, et dépensez jaune toit seulement après le milieu a softened.",
+        "landmarks": [
+          "Block Out Niveau 19 est basement-premier numeric plateau.",
+          "Ouvrez abaissez rouge, vert, noir, et pile blanc premier, alors aplatissez géant `20/10` cyan tapis, et dépensez jaune toit seulement après le milieu a softened.",
+          "Le plateau mélange cyan, bleu et jaune et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["cyan", "blue", "yellow", "red", "green", "black", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Basement est phase one.",
+        "Géant cyan field seulement matters après abaissez blockers ont rotated.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Ouvrez le côté droit de basement donc abaissez rouge et pièces vert peut commencez rotating."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez loin noir et blanc blockers que sont pinning cyan tapis de sous."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Quittez repeated `20/10` dalles mostly garé jusqu'à basement a become flatter."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois abaissez stack opens, commencez flattening cyan tapis de le milieu outward."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez le haut bleu-et-jaune toit déplacez seulement après le centre dalles sont non longer acting like one solid sheet."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Utilisez côté compteurs à terminez off restant cyan values."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Fin avec dernier jaune toit pièces et le bas porte rouge."
+        }
+      ],
+      "failurePoints": [
+        "Treating le milieu cyan tapis comme opening problem.",
+        "Laissant basement empilé pendant essayant à déplacez toit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 19",
+    "description": "Résolvez le niveau 19 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

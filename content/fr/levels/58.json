@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-58",
+  "locale": "fr",
+  "levelNumber": 58,
+  "title": "Guide Block Out Niveau 58",
+  "summary": "Block Out Niveau 58 est funnel plateau avec trois large cyan bays, smaller gorge marked `4`, et cluttered supérieur deck balancing violet `6` chambre contre encadré bloc bleu sur la droite. Ouvrez la droite shoulder premier, taillez la gauche...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "Block Out Niveau 58 est funnel plateau avec trois large cyan bays, smaller gorge marked `4`, et cluttered supérieur deck balancing violet `6` chambre contre encadré bloc bleu sur la droite. Ouvrez la droite shoulder premier, taillez la gauche `6` chambre second, et seulement alors laissez rouge et vert centre bandes laissez tomber dans cyan funnel.",
+        "landmarks": [
+          "Block Out Niveau 58 est funnel plateau avec trois large cyan bays, smaller gorge marked `4`, et cluttered supérieur deck balancing violet `6` chambre contre encadré bloc bleu sur la droite.",
+          "Ouvrez la droite shoulder premier, taillez la gauche `6` chambre second, et seulement alors laissez rouge et vert centre bandes laissez tomber dans cyan funnel.",
+          "Le plateau mélange violet, bleu et orange et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si encadré bloc bleu est toujours hanging over la droite shoulder, funnel est pas prêt.",
+        "Ouvrez les deux shoulders avant vous laissez rouge centre retirez laissez tomber dans cyan bays.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez encadré bloc bleu dans le coin supérieur droit donc la droite shoulder starts opening."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Shorten skinny cyan `2` compteurs sur que même côté avant vous touch le milieu too hard."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez reducing violet `6` chambre sur la gauche une fois la droite shoulder est lighter."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez rouge centre retirez et à proximité pièces vert tombe dans trois large cyan bays seulement après les deux shoulders sont ouvrez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Effondrez abaissez `4` gorge une fois le haut deck a stopped feeding supplémentaire blockers dans il."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier rouge vertical pièce et surviving shoulder blocs après funnel est mostly videz."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à fill cyan bays pendant encadré bloc bleu toujours hangs over la droite shoulder.",
+        "Dropping rouge centre retirez avant la gauche `6` chambre et droite `2` compteurs ont les deux shortened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 58",
+    "description": "Résolvez le niveau 58 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

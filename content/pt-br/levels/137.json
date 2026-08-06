@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-137",
+  "locale": "pt-br",
+  "levelNumber": 137,
+  "title": "Guia do nível 137 do Block Out",
+  "summary": "O nível 137 do Block Out ancora três peças fixas — um `6` com borda laranja, uma chave `8` roxa e um gancho `10` ciano — em um tabuleiro em forma de L, e então preenche o espaço restante com peças ciano `5`. Depois que a fileira vermelha superior é limpa, essas peças são os...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/137/",
+        "layout": "O nível 137 do Block Out ancora três peças fixas — um `6` com borda laranja, uma chave `8` roxa e um gancho `10` ciano — em um tabuleiro em forma de L, e então preenche o espaço restante com peças ciano `5`. Depois que a fileira vermelha superior é limpa, essas peças são os únicos contadores móveis, e o tabuleiro se torna um quebra-cabeça de roteamento puro: passe cada uma pelas âncoras fixas até a saída sem entalar o canto estreito do L.",
+        "landmarks": [
+          "O nível 137 do Block Out ancora três peças fixas — um `6` com borda laranja, uma chave `8` roxa e um gancho `10` ciano — em um tabuleiro em forma de L, e então preenche o espaço restante com peças ciano `5`.",
+          "Uma vez superior vermelho fileira limpa, those peças são único movable contadores, e tabuleiro becomes pure routing quebra-cabeça: passe cada um past fixed âncoras para saída sem jamming L's estreito canto.",
+          "Tabuleiro mistura Roxo, Ciano, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "cyan", "orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ymCjrSF_byY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ymCjrSF_byY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre ciano 10 gancho único depois 6 peça pops — doing ele primeiro selos direita-lateral 5 pista.",
+        "Salve verde 4 esquerda coluna até tudo três direita-lateral ciano 5 blocos são exposto.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Pop superior-esquerda roxo 8 peça e laranja-bordered 6 bloco sem dividindo ciano 10 gancho em direita."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar rainbow empilhe de verde esquerda barra para baixo, mantendo lowest ciano 10 par vedado em direita flank."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre ciano 10 gancho uma vez empilhe solta para dois fileiras, alimentando peças em inferior-direita canto."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deslize superior ciano 3 barra leftward depois ambos 10 peças limpar, exposing direita-lateral ciano 5 aglomerado."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste três ciano 5 blocos em direita flank através verde 4 esquerda coluna."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente restante vermelho e roxo recortes baixo inferior-esquerda laranja seta para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Quebrando ciano 10 gancho antes que 6 peça pops, permanentemente vedando direita-lateral 5 pista.",
+        "Deslizando verde 4 coluna antes que direita ciano 5 aglomerado limpa, stranding vermelho base recortes."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/137/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 137 do Block Out",
+    "description": "Resolva o nível 137 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

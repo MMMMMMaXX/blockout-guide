@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-77",
+  "locale": "tr",
+  "levelNumber": 77,
+  "title": "Block Out Seviye 77 Rehberi",
+  "summary": "Block Out Seviye 77 barındırır 5×7 ızgara ile turuncu '12' blok solda, mavi '2' blok sağda, ve yönlü ok bloklar kenarlarda. turuncu '12' gerektirir 12 çıkışlar — temizle alt ilk, sonra çalış numaralı bloklar,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/77/",
+        "layout": "Block Out Seviye 77 barındırır 5×7 ızgara ile turuncu '12' blok solda, mavi '2' blok sağda, ve yönlü ok bloklar kenarlarda. turuncu '12' gerektirir 12 çıkışlar — temizle alt ilk, sonra çalış numaralı bloklar, ve bitir ile heavy '12' blok.",
+        "landmarks": [
+          "Block Out Seviye 77 barındırır 5×7 ızgara ile turuncu '12' blok solda, mavi '2' blok sağda, ve yönlü ok bloklar kenarlarda.",
+          "Turuncu '12' gerektirir 12 çıkışlar — temizle alt ilk, sonra çalış numaralı bloklar, ve bitir ile heavy '12' blok.",
+          "Tahta turuncu, mavi, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["orange", "blue", "red", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JNbWl2gHe14",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JNbWl2gHe14",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'12' blok marathon — temizle lighter '2' blok ilk inşa et alan.",
+        "Temizle alt ilk ver numaralı bloklar kaydırarak alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle mor ve mavi bloklar altda alt çıkışdan açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır yeşil bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla temizleyerek mavi '2' blok sağda sağ çıkışdan — o lighter hedef."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Çalış turuncu '12' blok solda sol çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle kırmızı bloklar üstde sağ çıkışdan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan bloklar tuzağa düştü köşelerde."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek temizle '12' blok önce '2' blok — '12' blok gerektirir alan kaydır ve çıkış multiple times.",
+        "Temizleyerek üst önce alt, hangi bırakır daha düşük bloklar tuzağa düştü ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/77/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 77 Rehberi ve Çözümü",
+    "description": "Block Out seviye 77'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

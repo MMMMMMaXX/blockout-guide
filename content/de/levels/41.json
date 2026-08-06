@@ -1,0 +1,96 @@
+{
+  "id": "de-level-41",
+  "locale": "de",
+  "levelNumber": 41,
+  "title": "Block Out Level 41 Lösung",
+  "summary": "Block Out Level 41 hat `5` Boss Quadrat gated durch two `2`-Zähler Geräte in obere corners. Service beide Geräte erste zu unlock blau U-shaped Blöcke über Boss, dann let Boss fallen lassen once surrounding Platz ist wide enoug...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/41/",
+        "layout": "Block Out Level 41 hat `5` Boss Quadrat gated durch two `2`-Zähler Geräte in obere corners. Service beide Geräte erste zu unlock blau U-shaped Blöcke über Boss, dann let Boss fallen lassen once surrounding Platz ist wide enough. Nach Boss räumt around 01:30, large colorful mass von blau, gelb, grün, rot, und lila Blöcke fills das Spielfeld für third sorting phase.",
+        "landmarks": [
+          "Block Out Level 41 hat `5` Boss Quadrat gated durch two `2`-Zähler Geräte in obere corners.",
+          "Service beide Geräte erste zu unlock blau U-shaped Blöcke über Boss, dann let Boss fallen lassen once surrounding Platz ist wide enough.",
+          "Nach Boss räumt around 01:30, large colorful mass von blau, gelb, grün, rot, und lila Blöcke fills das Spielfeld für third sorting phase."
+        ],
+        "colors": ["blue", "red", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q9Brph8V6fo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q9Brph8V6fo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Two `2` Geräte in obere corners sind Ausgang — wenn sie sind nicht bei zero, Boss ist verklemmt.",
+        "Expect third phase: nach Boss räumt, colorful mass appears und needs sorting.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Service links `2` Gerät durch routing adjacent Blöcke durch sein Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Service rechts `2` Gerät nächste."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben blau U-shaped Blöcke nach oben once beide Geräte sind bei zero."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Thin rot und grün Blöcke around Boss als sein Zähler fällt … lassen von `5`."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let Boss Quadrat räumen once surrounding Platz ist wide enough (around 01:30)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Sort revealed blau, gelb, grün, rot, und lila Blöcke durch exits."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte Farbe cleanup nach das Spielfeld ist mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu reduce `5` Boss while `2` Geräte sind still active — obere Raum stays verklemmt und Boss barely Züge.",
+        "Nicht preparing Ausgang lanes für Farbe mass dass appears nach Boss räumt, welche jams newly geöffnet Platz."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/41/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 41 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 41 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

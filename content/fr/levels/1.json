@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-1",
+  "locale": "fr",
+  "levelNumber": 1,
+  "title": "Guide Block Out Niveau 1",
+  "summary": "Block Out Niveau 1 est trois carrés rotation énigme. Déplacez noir gauche, soulevez blanc dans le coin supérieur droit, glissez rouge de côté, et alors laissez blanc, noir, et rouge quittez dans que ordre.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "Block Out Niveau 1 est trois carrés rotation énigme. Déplacez noir gauche, soulevez blanc dans le coin supérieur droit, glissez rouge de côté, et alors laissez blanc, noir, et rouge quittez dans que ordre.",
+        "landmarks": [
+          "Block Out Niveau 1 est trois carrés rotation énigme.",
+          "Déplacez noir gauche, soulevez blanc dans le coin supérieur droit, glissez rouge de côté, et alors laissez blanc, noir, et rouge quittez dans que ordre.",
+          "Le plateau mélange rouge, blanc et noir et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Utilisez le coin supérieur droit comme du blanc stationnement espace.",
+        "Pas envoyez rouge vers le haut jusqu'à blanc a déjà traversé gauche.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le carré noir gauche donc il sits directement sous rouge porte supérieure."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Soulevez le carré blanc dans le coin supérieur droit."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Poussez le carré rouge droite dans le milieu-droite voie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez tomber le carré noir bas le côté gauche jusqu'à il atteint abaissez voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Déplacez le carré blanc à travers le haut et alimentez il hors à travers la porte blanc sur le mur gauche."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Glissez le carré noir droite sur noir porte inférieure."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par déplaçant le carré rouge gauche sous la porte rouge et envoyant il haut."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à levez le carré rouge avant le carré blanc a traversé le haut rangée.",
+        "Laissant noir dans le coin supérieur droit au lieu de de utilisant il à ouvrez la gauche colonne."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 1",
+    "description": "Résolvez le niveau 1 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

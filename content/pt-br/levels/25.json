@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-25",
+  "locale": "pt-br",
+  "levelNumber": 25,
+  "title": "Guia do nível 25 do Block Out",
+  "summary": "Block Out Nível 25 é sandglass suporte quebra-cabeça com alto lateral trilhos. Abra branco-e-preto cintura primeiro, gire inferior rosa-ciano câmara segundo, e único então comece gastando longo emoldurado lateral colunas.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "Block Out Nível 25 é sandglass suporte quebra-cabeça com alto lateral trilhos. Abra branco-e-preto cintura primeiro, gire inferior rosa-ciano câmara segundo, e único então comece gastando longo emoldurado lateral colunas.",
+        "landmarks": [
+          "Block Out Nível 25 é sandglass suporte quebra-cabeça com alto lateral trilhos.",
+          "Abra branco-e-preto cintura primeiro, gire inferior rosa-ciano câmara segundo, e único então comece gastando longo emoldurado lateral colunas.",
+          "Tabuleiro mistura Roxo, Verde, Rosa e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "green", "pink", "cyan", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abra cintura antes que tocando lateral trilhos.",
+        "Inferior câmara precisa espaço antes que alto lateral colunas pode travel.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque branco ladders e preto bloqueadores longe de sandglass pescoço."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha longo emoldurado lateral colunas estacionado enquanto superior choke é ainda estreito."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Uma vez cintura abre, gire inferior rosa e ciano massa so câmara stops pressing para cima."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente um alto lateral coluna único depois inferior câmara tem created real vazio espaço."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use novo espaço para separar segundo alto lateral coluna e interno verde remova."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine inferior câmara antes que último lateral coluna deixa."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termina com restante verde roteie depois pescoço é completamente abra."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para gaste lateral trilho enquanto cintura é ainda estreito.",
+        "Ignorando inferior câmara e overfocusing em alto trilhos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 25 do Block Out",
+    "description": "Resolva o nível 25 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

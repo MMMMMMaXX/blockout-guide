@@ -1,0 +1,93 @@
+{
+  "id": "es-level-136",
+  "locale": "es",
+  "levelNumber": 136,
+  "title": "Guía de Block Out Nivel 136",
+  "summary": "Block Out nivel 136 splits el tablero en an superior grid con border numbers gating cada slide direction y un panel inferior centered en a `13` circle con four de color flechas forming a second scoring zone. The rojo L-tetromino y amarillo 2×...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "Block Out nivel 136 splits el tablero en an superior grid con border numbers gating cada slide direction y un panel inferior centered en a `13` circle con four de color flechas forming a second scoring zone. The rojo L-tetromino y amarillo 2×2 bloque compete para centro espacio — despejado the cian arriba-flecha feeds por the `2` border primero, o el panel inferior runs fuera de incoming piezas.",
+        "landmarks": [
+          "Block Out nivel 136 splits el tablero en an superior grid con border numbers gating cada slide direction y un panel inferior centered en a `13` circle con four de color flechas forming a second scoring zone.",
+          "The rojo L-tetromino y amarillo 2×2 bloque compete para centro espacio — despejado the cian arriba-flecha feeds por the `2` border primero, o el panel inferior runs fuera de incoming piezas.",
+          "El tablero mixes morado, verde, azul y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["morado", "green", "blue", "cyan", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the amarillo 2×2 antes sliding the cian derecho barra — reversing ese orden locks the inferior 13 sobre 4.",
+        "Introduce the rojo L-tetromino por the morado izquierdo-flecha solo después both lado 9 contadores despejado.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Desliza the superior morado/verde/azul cluster rightward a spend the 2 y 4 superior contadores without splitting the cian/amarillo derecho pair."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Introduce the rojo izquierdo columna abajo the verde abajo-flecha carril a start spending the izquierdo 9 border contador."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Break the amarillo 2×2 bloque en the superior-centro once the derecho 9 contador drops a 6."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Empuja the rojo L-tetromino leftward por the morado izquierdo-flecha carril después both lado 9 contadores despejado."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Desliza the cian vertical barra en la borde derecho abajo the rojo derecho-flecha carril a unlock el panel inferior."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Gasta the inferior 9 baldosa en the naranja circle y feed the último restos abajo the amarillo arriba-flecha para el tablero despejado."
+        }
+      ],
+      "failurePoints": [
+        "Desliza the cian derecho barra antes the amarillo 2×2 breaks, locking the inferior 13 circle sobre 4.",
+        "Pushing the rojo L-tetromino izquierdo antes both lado 9 contadores despejado, stranding el panel inferior."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 136",
+    "description": "Resuelve Block Out nivel 136 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

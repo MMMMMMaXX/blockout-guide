@@ -1,0 +1,102 @@
+{
+  "id": "fr-level-98",
+  "locale": "fr",
+  "levelNumber": 98,
+  "title": "Guide Block Out Niveau 98",
+  "summary": "Block Out Niveau 98 divides plateau dans partitioned zones avec orange cadre borders. Cyan `5` blocs fill supérieur gauche section, violet `8` chambre sits dans le centre derrière verrou/clé portes, et violet `13` chambre fills abaissez...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/98/",
+        "layout": "Block Out Niveau 98 divides plateau dans partitioned zones avec orange cadre borders. Cyan `5` blocs fill supérieur gauche section, violet `8` chambre sits dans le centre derrière verrou/clé portes, et violet `13` chambre fills abaissez section. étroit channels connect zones — blocs doit acheminez single-file à travers les. Drainez cyan section premier, déverrouillez et alimentez `8` chambre, alors terminez avec `13` chambre pour 26 total passes.",
+        "landmarks": [
+          "Block Out Niveau 98 divides plateau dans partitioned zones avec orange cadre borders.",
+          "Cyan `5` blocs fill supérieur gauche section, violet `8` chambre sits dans le centre derrière verrou/clé portes, et violet `13` chambre fills abaissez section.",
+          "Étroit channels connect zones — blocs doit acheminez single-file à travers les.",
+          "Drainez cyan section premier, déverrouillez et alimentez `8` chambre, alors terminez avec `13` chambre pour 26 total passes."
+        ],
+        "colors": ["cyan", "red", "violet", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MX11ryK4VL0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MX11ryK4VL0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drainez cyan `5` section premier — il est fastest alimentez et opens salle pour everything else.",
+        "Dégagez all petit blocs de channels avant de départ un chambre alimentez — one stray pièce halts everything.",
+        "Sort spilled blocs immediately après `8` chambre collapses, avant de départ `13` alimentez."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Drainez cyan `5` blocs dans supérieur gauche à travers la gauche-mur sortie — five passes (02:52 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez large bloc rouge sous cyan section à travers la droite-mur sortie à ouvrez channel à le centre zone (02:46)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déverrouillez clé blocs à access violet `8` chambre's zone parce que verrou portes bloc seulement channel dans (02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez petit vert et blocs bleu de channels entre zones avant ils drift during alimentez (02:33)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez violet `8` chambre à travers channel — eight passes, keeping étroit passage dégagez (02:26–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Sort spilled blocs de `8` chambre effondrez avant ils enter abaissez zone et bloc `13` voie (02:13)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez petit rouge et blocs cyan autour `13` chambre à travers à proximité sorties (02:07)."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Alimentez violet `13` chambre à travers le bas sorties — thirteen passes à terminez (02:01–01:41)."
+        }
+      ],
+      "failurePoints": [
+        "De départ `8` chambre alimentez pendant petit blocs sont toujours dans channels — ils bloc single-file passage et halt alimentez avec non chemin à dégagez les sans resetting.",
+        "Ignoring spilled blocs après `8` chambre collapses — ils enter abaissez zone et jam `13` chambre's sortie voie, forcing multiple recovery coups."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/98/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 98",
+    "description": "Résolvez le niveau 98 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

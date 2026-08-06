@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-52",
+  "locale": "pt-br",
+  "levelNumber": 52,
+  "title": "Guia do nível 52 do Block Out",
+  "summary": "Block Out Nível 52 divide tabuleiro com alto vermelho vertical blocos baixo centro, creating dual-alvo quebra-cabeça onde esquerda lateral (verde, amarelo) e direita lateral (azul, rosa) deve be limpo em coordination. contadores '10' e '12'...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "Block Out Nível 52 divide tabuleiro com alto vermelho vertical blocos baixo centro, creating dual-alvo quebra-cabeça onde esquerda lateral (verde, amarelo) e direita lateral (azul, rosa) deve be limpo em coordination. contadores '10' e '12' em superior rastreie restante blocos em cada lateral. Escoe inferior fileiras primeiro, então funciona lados inward em direção a centro vermelho parede.",
+        "landmarks": [
+          "Block Out Nível 52 divide tabuleiro com alto vermelho vertical blocos baixo centro, creating dual-alvo quebra-cabeça onde esquerda lateral (verde, amarelo) e direita lateral (azul, rosa) deve be limpo em coordination.",
+          "Contadores '10' e '12' em superior rastreie restante blocos em cada lateral.",
+          "Escoe inferior fileiras primeiro, então funciona lados inward em direção a centro vermelho parede."
+        ],
+        "colors": ["red", "green", "blue", "yellow", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alto vermelho centro blocos são parede, não obstacle para rush. Limpar ambos lados primeiro.",
+        "Assista dual contadores em superior — eles tell você how many blocos ainda precisa para saída em cada lateral.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar inferior azul blocos em esquerda lateral e rosa blocos em direita lateral em direção a seus respective saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque amarelo/laranja blocos em esquerda para fora através esquerda saída para abra meio-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova verde blocos em superior-esquerda através esquerda saída agora que caminho é limpar."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece deslizando alto vermelho vertical blocos em centro — eles pode único mova uma vez ambos lados tem espaço."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar restante azul blocos em direita através direita saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante vermelho centro peças e inferior vermelho bloco."
+        }
+      ],
+      "failurePoints": [
+        "Movendo alto vermelho centro blocos antes que escoando inferior fileiras — eles bloco ambos saídas simultaneously.",
+        "Focusing em um lateral único enquanto outro lateral é ainda empacotado, que stalls centro vermelho parede."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 52 do Block Out",
+    "description": "Resolva o nível 52 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

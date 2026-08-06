@@ -1,0 +1,119 @@
+{
+  "id": "ja-level-406",
+  "locale": "ja",
+  "levelNumber": 406,
+  "title": "ブロックアウト レベル406 攻略",
+  "summary": "ブロックアウト レベル406 攻略。組み込まれた解説動画を視聴して、このイージーの盤面をクリアしましょう。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/406.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/406",
+        "layout": "ブロックアウト レベル406は、イージーの色分け盤面で始まり、主に青・黄・オレンジ・紫・赤のタイルで構成されています。正確な開始配置と検証済みの解き方は、組み込まれた解説動画で確認できます。手順に従う前に、ご自身の盤面を動画と照合してください。",
+        "landmarks": [
+          "盤面は主に青・黄・オレンジのブロックを特徴としています。",
+          "色のグループは分離し、積み重ねてレベルをクリアする必要があります。",
+          "組み込まれた解説動画は、正確な開始配置と解決順序を示しています。"
+        ],
+        "colors": ["blue", "yellow", "orange", "紫", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XLGLtf8uoiU",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=XLGLtf8uoiU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "開始時の盤面"
+        },
+        {
+          "seconds": 76,
+          "label": "最初の統合"
+        },
+        {
+          "seconds": 152,
+          "label": "盤面中盤の消去"
+        },
+        {
+          "seconds": 224,
+          "label": "最終出口"
+        }
+      ],
+      "quickTips": [
+        "まず青と黄のブロックをまとめてください。これらが開始盤面を支配しているため、早めに消去すると最も多くの空間が生まれます。",
+        "最初の2回の統合が終わるまで、1列をバッファーとして空けておいてください。それは悪い手を戻すための唯一の安全な場所です。",
+        "混合または閉じ込められたオレンジのブロックは、最も高い列ではなく最短の列に置き、出口の列を確保したままにしてください。",
+        "2つの列が同じ上端の色を共有している場合は、リスクの低い方を先に統合し、もう一方は最後に取っておきます。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "盤面の確認",
+          "instruction": "青と黄の配置が解説動画と一致するか、動かす前に確認してください。バリアントが異なれば解き方も変わります。",
+          "image": "/boards/406.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "主要な色を消去",
+          "instruction": "まず青の列を統合して、盤面で最も広い領域を空け、追跡すべきピースを減らします。",
+          "image": "/boards/406.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "バッファー列を確保",
+          "instruction": "黄のブロックを脇の短い列に寄せ、混合スタックが分離可能な状態を保ち、出口の列を空けておきます。",
+          "image": "/boards/406.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "上から下へ処理",
+          "instruction": "上部から消去して早まってロックするのを防ぎます。盤面がほぼ空くまでバッファー列を空けておいてください。",
+          "image": "/boards/406.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "出口への経路",
+          "instruction": "最後のブロックは、動画で示された同じ列から、解説動画の順番で盤外へ送り出します。",
+          "image": "/boards/406.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "最も高い列を最初に統合すると、唯一のバッファー列を失い、下のブロックがその後ろに閉じ込められます。",
+        "混合色を分離する前に青のスタックを完成させようとすると、もう届かなくなるブロックが残ります。",
+        "盤面が一致する前にタイマーを開始すると、イージーの盤面で8〜12秒の回復時間を無駄にします。",
+        "黄のブロックを他のブロックの後ろに置いたままにすると、早めの1回の移動で防げたリスタートを強いられます。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/406",
+    "https://www.youtube.com/watch?v=XLGLtf8uoiU",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル406 攻略と解説",
+    "description": "検証済みのイージーの解説動画と盤面の色を使って、ブロックアウト レベル406を解きましょう。組み込まれた解説を視聴して、開始時の盤面と照合してください。"
+  },
+  "updatedAt": "2026-08-03"
+}

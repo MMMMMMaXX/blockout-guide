@@ -1,0 +1,96 @@
+{
+  "id": "es-level-43",
+  "locale": "es",
+  "levelNumber": 43,
+  "title": "Guía de Block Out Nivel 43",
+  "summary": "Block Out nivel 43 es a denso tetromino tablero centered en a grande azul cross-shaped bloque ese dominates el centro-derecho y bloques four directions en once. Rojo L-shapes fill the izquierdo y inferior areas, verde bloques sit en the inferior-derecho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/43/",
+        "layout": "Block Out nivel 43 es a denso tetromino tablero centered en a grande azul cross-shaped bloque ese dominates el centro-derecho y bloques four directions en once. Rojo L-shapes fill the izquierdo y inferior areas, verde bloques sit en the inferior-derecho, y amarillo bloques son scattered en el centro-izquierdo. The solve peels desde el bordes inward: extract the rojo L-shapes primero, shift the azul cross once lo has room, luego finish the verde y amarillo bloques por the inferior salidas.",
+        "landmarks": [
+          "Block Out nivel 43 es a denso tetromino tablero centered en a grande azul cross-shaped bloque ese dominates el centro-derecho y bloques four directions en once.",
+          "Rojo L-shapes fill the izquierdo y inferior areas, verde bloques sit en the inferior-derecho, y amarillo bloques son scattered en el centro-izquierdo.",
+          "The solve peels desde el bordes inward: extract the rojo L-shapes primero, shift the azul cross once lo has room, luego finish the verde y amarillo bloques por the inferior salidas."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OlsWS-kJ0KI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OlsWS-kJ0KI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The azul cross bloques four directions en once — do no try a movimiento lo hasta the surrounding L-shapes son thinned.",
+        "Elimina the rojo L-shapes desde la borde izquierdo primero a create the most room.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Desliza una pieza pequeño fuera por el salida superior a create el hueco primero."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Extract the rojo L-shaped bloques desde el lado izquierdo por el lado salidas."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Fino the amarillo bloques en el centro-izquierdo a give the azul cross room a shift."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Rotate the azul cross-shaped bloque once el espacio surrounding es wide enough."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Desliza the verde bloques hacia el salida inferior después the cross has moved."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the restante rojo y amarillo fragments por the available salidas."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con el bloque último once el tablero es mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Trying a force the azul cross por un hueco narrow antes the surrounding L-shapes son thinned — the cross needs clearance en multiple lados a movimiento.",
+        "Ignoring the izquierdo-lado rojo L-shapes y starting desde the inferior, que leaves el centro too apretado para the cross a rotate."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/43/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 43",
+    "description": "Resuelve Block Out nivel 43 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

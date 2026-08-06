@@ -1,0 +1,98 @@
+{
+  "id": "es-level-16",
+  "locale": "es",
+  "levelNumber": 16,
+  "title": "Guía de Block Out Nivel 16",
+  "summary": "El nivel 16 de Block Out es un rompecabezas de escalera con soporte. Afloja primero el estante inferior y el muro derecho, colapsa la diagonal negra en su base y solo entonces libera las altas barras roja y amarilla de la subida superior derecha.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "El nivel 16 de Block Out es un rompecabezas de escalera con soporte. Afloja primero el estante inferior y el muro derecho, colapsa la diagonal negra en su base y solo entonces libera las altas barras roja y amarilla de la subida superior derecha.",
+        "landmarks": [
+          "El nivel 16 de Block Out es un rompecabezas de escalera con soporte.",
+          "Afloja primero el estante inferior y el muro derecho, colapsa la diagonal negra en su base y solo entonces libera las altas barras roja y amarilla de la subida superior derecha.",
+          "El tablero combina rojo, amarillo, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El estante inferior es la verdadera apertura.",
+        "La escalera negra debe romperse desde abajo.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Alimenta el grupo blanco inferior al carril de cuenta regresiva derecho para empezar a reducir el muro `12`."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Gira las cortas piezas roja y amarilla inferiores para que la escalera negra pierda su soporte inferior."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Mantén estacionadas la alta barra roja de la esquina y la columna amarilla interior mientras los contadores inferiores siguen bajando."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando los escalones negros empiecen a colapsar, abre el estante lo suficiente para que la alta columna amarilla baje."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Usa el nuevo hueco para desplazar la alta barra roja lejos de la esquina sin atrapar los bloques negros restantes."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina primero la limpieza de la escalera."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Acaba con las altas barras amarilla y roja después de que el estante y el muro derecho ya estén planos."
+        }
+      ],
+      "failurePoints": [
+        "Intentar gastar una de las altas barras de la esquina antes de que el estante inferior esté abierto.",
+        "Trabajar solo en la subida superior derecha e ignorar los contadores del estante."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 16",
+    "description": "Resuelve el nivel 16 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

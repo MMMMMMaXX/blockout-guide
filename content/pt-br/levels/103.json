@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-103",
+  "locale": "pt-br",
+  "levelNumber": 103,
+  "title": "Guia do nível 103 do Block Out",
+  "summary": "Block Out Nível 103 preenche grade com numerado peças — `11`, `19`, `14` através superior e roxo `10` barra em esquerda trilho — turning cada fileira em counting quebra-cabeça. esquerda-trilho empilhe de correspondência `10` peças deve escoe antes que ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out Nível 103 preenche grade com numerado peças — `11`, `19`, `14` através superior e roxo `10` barra em esquerda trilho — turning cada fileira em counting quebra-cabeça. esquerda-trilho empilhe de correspondência `10` peças deve escoe antes que largo barras pode mova, e inferior roxo bandeja contador tracks how many placements remain. trap é superior `19` peça: ele looks urgent mas deve espere para trilho.",
+        "landmarks": [
+          "Block Out Nível 103 preenche grade com numerado peças — `11`, `19`, `14` através superior e roxo `10` barra em esquerda trilho — turning cada fileira em counting quebra-cabeça.",
+          "Esquerda-trilho empilhe de correspondência `10` peças deve escoe antes que largo barras pode mova, e inferior roxo bandeja contador tracks how many placements remain.",
+          "Trap é superior `19` peça: ele looks urgent mas deve espere para trilho."
+        ],
+        "colors": ["purple", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar cada esquerda-trilho `10` peça antes que tocando inferior roxo `19` barra.",
+        "Superior roxo `4` barra pode mova uma vez superior fileira é indo — do não espere para entire centro aglomerado para limpar primeiro.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior-fileira leve-azul `11`, `19`, e `14` peças através superior saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque esquerda-trilho azul `10` empilhe de superior para inferior antes que tocando centro aglomerado."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deslize superior roxo `4` barra esquerda uma vez superior fileira e esquerda trilho são abra."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quebre cima centro rosa/verde/amarelo singles para abra meio coluna."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Desloque laranja cruz e restante ciano `10` peças em lateral pistas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Libere inferior roxo `19` barra através inferior saída depois esquerda trilho é vazio."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine último verde aglomerado e inferior-bandeja passa para feche contador `6`."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para deslize inferior roxo `19` barra antes que esquerda-trilho `10` empilhe é indo.",
+        "Limpando centro laranja cruz também cedo enquanto superior-fileira números são ainda bloqueando superior saídas."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 103 do Block Out",
+    "description": "Resolva o nível 103 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

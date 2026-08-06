@@ -1,0 +1,96 @@
+{
+  "id": "es-level-38",
+  "locale": "es",
+  "levelNumber": 38,
+  "title": "Guía de Block Out Nivel 38",
+  "summary": "Block Out nivel 38 has a `12` jefe cámara buried bajo a structured lid de three azul `2` bloques, a rosa `15` bloque, y a morado `6` dispositivo. The lid has su own internal sequence — azul `2`s son fast, el dispositivo es medium, y the rosa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out nivel 38 has a `12` jefe cámara buried bajo a structured lid de three azul `2` bloques, a rosa `15` bloque, y a morado `6` dispositivo. The lid has su own internal sequence — azul `2`s son fast, el dispositivo es medium, y the rosa `15` es slow — y debe be dismantled pieza por pieza antes el jefe puede drop. Después el jefe falls alrededor 01:33, a mass de rojo, rosa, verde, y azul bloques spills fuera para a second sorting phase.",
+        "landmarks": [
+          "Block Out nivel 38 has a `12` jefe cámara buried bajo a structured lid de three azul `2` bloques, a rosa `15` bloque, y a morado `6` dispositivo.",
+          "The lid has su own internal sequence — azul `2`s son fast, el dispositivo es medium, y the rosa `15` es slow — y debe be dismantled pieza por pieza antes el jefe puede drop.",
+          "Después el jefe falls alrededor 01:33, a mass de rojo, rosa, verde, y azul bloques spills fuera para a second sorting phase."
+        ],
+        "colors": ["blue", "pink", "morado", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The lid has su own orden: azul `2`s primero (fast), morado dispositivo second (medium), rosa `15` último (slow).",
+        "Observa para the spill en 01:33 — si lado carriles son no ready, the revealed bloques jam the room.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the three azul `2` bloques desde la fila superior primero — ellos son the quickest lid reductions."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Service the morado `6` dispositivo en the superior-izquierdo por routing el bloque amarillo por su puerta."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza thinning the rosa `15` bloque en the superior-derecho ahora ese the azul bloques son gone."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Observa el contador jefe drop por `8` mientras the lid thins (visible alrededor 01:42)."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Abre el lado carriles así the revealed bloques have somewhere a go después el jefe falls."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Let the `12` jefe collapse once the lid es mostly gone — the spill happens alrededor 01:33."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Clasifica the revealed rojo, rosa, verde, y azul bloques por el lado y inferior salidas a finish."
+        }
+      ],
+      "failurePoints": [
+        "Skipping the azul `2` bloques y going straight para the rosa `15` — the lid stays too thick para el jefe a movimiento.",
+        "No having el lado carriles abierto cuando el jefe falls en 01:33, que means the revealed bloques pile arriba con nowhere a go."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 38",
+    "description": "Resuelve Block Out nivel 38 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

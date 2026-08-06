@@ -1,0 +1,102 @@
+{
+  "id": "de-level-87",
+  "locale": "de",
+  "levelNumber": 87,
+  "title": "Block Out Level 87 Lösung",
+  "summary": "Block Out Level 87 ist flood-drain Puzzle mit heavy Boss Bauteil. Türkis `7` Zähler Blöcke fill untere two-thirds von das Spielfeld like lake, while grün `15` Boss Block in orange frame sitzt auf far links. Packed entfernen von colo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/87/",
+        "layout": "Block Out Level 87 ist flood-drain Puzzle mit heavy Boss Bauteil. Türkis `7` Zähler Blöcke fill untere two-thirds von das Spielfeld like lake, while grün `15` Boss Block in orange frame sitzt auf far links. Packed entfernen von colored Blöcke (orange, grün `9`, rot, blau, gelb) runs über oben und muss räumen erste. Hinausführen grün `15` Boss durch links-Wand Ausgang, entfernen small `3` Zähler Blöcke wedged zwischen türkis Bauteile, dann let türkis flood drain durch unten.",
+        "landmarks": [
+          "Block Out Level 87 ist flood-drain Puzzle mit heavy Boss Bauteil.",
+          "Türkis `7` Zähler Blöcke fill untere two-thirds von das Spielfeld like lake, while grün `15` Boss Block in orange frame sitzt auf far links.",
+          "Packed entfernen von colored Blöcke (orange, grün `9`, rot, blau, gelb) runs über oben und muss räumen erste.",
+          "Hinausführen grün `15` Boss durch links-Wand Ausgang, entfernen small `3` Zähler Blöcke wedged zwischen türkis Bauteile, dann let türkis flood drain durch unten."
+        ],
+        "colors": ["cyan", "green", "red", "blue", "orange", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AEJlO-_-lBI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AEJlO-_-lBI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Starten feeding grün `15` Boss moment oben entfernen räumt — fifteen passes takes time und Bahn muss stay öffnen.",
+        "Entfernen rot `3` und grün `3` wedge Blöcke bevor Versuchen zu drain türkis `7` flood.",
+        "Türkis flood drains auf sein own durch unten exits once wedge Blöcke sind gone — tu nicht versuchen zu schieben es."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben small orange Block in obere linke nach oben durch oben-Ausgang Pfeil zu öffnen erste gap (02:55 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben gelb Block auf rechts end von oben entfernen durch rechts-Wand Ausgang (02:50)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen rot Block durch oben Ausgang, dann begin feeding grün `9` Block nach oben — es needs nine passes (02:44–02:34)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Ansteuern blau Block durch rechts-Wand Ausgang once grün `9` Block hat thinned enough zu freigeben Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Mit oben entfernen räumen, begin feeding grün `15` Boss Block durch links-Wand Ausgang — behalten dieses Bahn permanently unblocked (02:28–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen small rot `3` und grün `3` Blöcke wedged zwischen türkis `7` Bauteile zu ungate drain Pfad (around 02:18)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Let türkis `7` flood drain durch unten exits once wedge Blöcke sind gone (02:13–02:02)."
+        },
+        {
+          "order": 8,
+          "title": "Zug 8",
+          "instruction": "Beenden mit letzte türkis fragments nach grün `15` Boss hat fully exited (01:57)."
+        }
+      ],
+      "failurePoints": [
+        "Letting stray Block drift in links-Wand Bahn while feeding grün `15` Boss — es stalls longest hinausführen in Level und forces du zu verschwenden Züge re-räumend Bahn.",
+        "Versuchen zu drain türkis `7` flood bevor removing rot `3` und grün `3` wedge Blöcke — sie dam unten exits und flood cannot pass."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/87/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 87 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 87 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-48",
+  "locale": "fr",
+  "levelNumber": 48,
+  "title": "Guide Block Out Niveau 48",
+  "summary": "Block Out Niveau 48 est lid-premier boss énigme avec `10` boss chambre dans abaissez half buried sous horizontal retirez de blocs colorés including `4`-compteur pièce. Démontez lid premier — `4` bloc est le plus rapide win — alors...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/48/",
+        "layout": "Block Out Niveau 48 est lid-premier boss énigme avec `10` boss chambre dans abaissez half buried sous horizontal retirez de blocs colorés including `4`-compteur pièce. Démontez lid premier — `4` bloc est le plus rapide win — alors laissez boss laissez tomber et sort révélé tardif-game couleurs à travers côté sorties.",
+        "landmarks": [
+          "Block Out Niveau 48 est lid-premier boss énigme avec `10` boss chambre dans abaissez half buried sous horizontal retirez de blocs colorés including `4`-compteur pièce.",
+          "Démontez lid premier — `4` bloc est le plus rapide win — alors laissez boss laissez tomber et sort révélé tardif-game couleurs à travers côté sorties.",
+          "Le plateau mélange jaune, bleu et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["yellow", "blue", "red", "green", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "X5TV6t29kCI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=X5TV6t29kCI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`4`-compteur bloc dans lid est premier rapide win — skip il et lid stays thick.",
+        "Expect second phase: révélé blocs colorés se déversent hors après boss tombent.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez `4`-compteur bloc dans supérieur section premier — il est fastest lid reduction."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Démontez restant jaune, bleu, et rouge lid pièces."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez `10` boss garé pendant surrounding compteurs tombe."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez tomber boss une fois lid est mostly gone."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Sort révélé tardif-game blocs colorés à travers côté sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez côté compteurs après salle est non longer split."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Fin avec dernier cleanup une fois boss est gone."
+        }
+      ],
+      "failurePoints": [
+        "Skipping `4`-compteur bloc et essayant à reduce `10` boss directement — lid stays thick et boss barely coups.",
+        "Pas having côté voies prêt quand boss tombent, qui jams révélé blocs."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/48/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 48",
+    "description": "Résolvez le niveau 48 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-109",
+  "locale": "fr",
+  "levelNumber": 109,
+  "title": "Guide Block Out Niveau 109",
+  "summary": "Block Out Niveau 109 est Super Hard blast plateau built autour trois bleu `6` pillars et rangée de hammer tools. hammers cassez pilier tuiles, et jaune orb follows drawn rouge et jaune paths à terminez dernier amas. catch est...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/109/",
+        "layout": "Block Out Niveau 109 est Super Hard blast plateau built autour trois bleu `6` pillars et rangée de hammer tools. hammers cassez pilier tuiles, et jaune orb follows drawn rouge et jaune paths à terminez dernier amas. catch est sequencing: une fois la droite hammer est spent, le centre blast orb doit fire — mais triggering il avant la gauche chemin dégage strands half plateau.",
+        "landmarks": [
+          "Block Out Niveau 109 est Super Hard blast plateau built autour trois bleu `6` pillars et rangée de hammer tools.",
+          "Hammers cassez pilier tuiles, et jaune orb follows drawn rouge et jaune paths à terminez dernier amas.",
+          "Catch est sequencing: une fois la droite hammer est spent, le centre blast orb doit fire — mais triggering il avant la gauche chemin dégage strands half plateau."
+        ],
+        "colors": ["blue", "red", "violet", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MOEMMEAt4Lg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MOEMMEAt4Lg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Jaune blast orb est finisher, pas opener.",
+        "Économisez jaune hammer jusqu'à le haut-droite `10` compteur est visible.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Utilisez vert hammer tuile sur la gauche bleu `6` pilier à laissez tomber le haut-gauche `13` compteur."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dépensez violet hammer sur le centre `6` pilier une fois la gauche rail reads `10`."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez la gauche `8` tuile le long de rouge guide chemin avant touching la droite pilier."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Économisez jaune hammer jusqu'à le haut-droite `10` compteur est visible et la droite rail toujours montre `7`."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Cassez la droite bleu `6` pilier, alors déplacez jaune blast orb le long de jaune guide chemin."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez le bas tuile jaune sous starburst et close restant côté-rail `9` count."
+        }
+      ],
+      "failurePoints": [
+        "Triggering jaune blast orb avant la gauche `8` tuile est gone.",
+        "Spending jaune hammer too tôt, laissant la droite pilier unbreakable."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/109/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 109",
+    "description": "Résolvez le niveau 109 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

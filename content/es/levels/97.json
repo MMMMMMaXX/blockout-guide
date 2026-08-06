@@ -1,0 +1,102 @@
+{
+  "id": "es-level-97",
+  "locale": "es",
+  "levelNumber": 97,
+  "title": "Guía de Block Out Nivel 97",
+  "summary": "Block Out nivel 97 stacks two horizontal marcos packed con de color bloques. El marco superior holds un bloque amarillo, azul borders, grande rojo bloques, y padlocked naranja/amarillo piezas (padlock `5`). El marco inferior es twice mientras denso con la...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out nivel 97 stacks two horizontal marcos packed con de color bloques. El marco superior holds un bloque amarillo, azul borders, grande rojo bloques, y padlocked naranja/amarillo piezas (padlock `5`). El marco inferior es twice mientras denso con grande rojo y verde bloques, azul, naranja, morado, y padlocked amarillo piezas. Trabaja both marcos en alternation — despejado non-padlocked borde bloques a unlock the padlock `5` puertas en cada marco, luego feed the grande piezas por.",
+        "landmarks": [
+          "Block Out nivel 97 stacks two horizontal marcos packed con de color bloques.",
+          "El marco superior holds un bloque amarillo, azul borders, grande rojo bloques, y padlocked naranja/amarillo piezas (padlock `5`).",
+          "El marco inferior es twice mientras denso con grande rojo y verde bloques, azul, naranja, morado, y padlocked amarillo piezas.",
+          "Trabaja both marcos en alternation — despejado non-padlocked borde bloques a unlock the padlock `5` puertas en cada marco, luego feed the grande piezas por."
+        ],
+        "colors": ["red", "orange", "yellow", "green", "blue", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Padlock `5` contadores son per-marco — clearing superior bloques solo unlocks superior padlocks, no inferior ones.",
+        "Empieza con the non-padlocked borde bloques en both marcos a build hacia the five-despejado unlock threshold.",
+        "Introduce the grande verde bloque en el centro inferior último — lo bloques el camino centro y needs the most room."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Superior marco: slide the azul border bloque en the far derecho por the derecho-pared salida, luego push el bloque amarillo en the far izquierdo por the izquierdo-pared salida (02:24–02:20 en el vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Inferior marco: despejado the naranja y morado bloques en the far derecho por the derecho-pared salida — ellos son closest y no padlocked (02:20–02:15)."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Superior marco: despejado the grande rojo bloques en el centro-izquierdo por the izquierdo-pared salida — cada removal counts hacia the superior padlock `5` unlock (02:15–02:06)."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Superior marco padlocks ahora abierto: despejado the naranja y amarillo padlocked bloques desde el centro por el salida derecho (02:06)."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Inferior marco: despejado non-padlocked azul y rojo bloques desde el centro a count hacia the inferior padlock `5` threshold (02:01–01:52)."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Inferior marco padlocks ahora abierto: despejado the amarillo padlocked bloques en the far izquierdo por the izquierdo-pared salida (01:52)."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Introduce the grande verde bloque en el centro inferior por el salida inferior — lo takes several pasadas y needs el camino centro despejado (01:47–01:38)."
+        },
+        {
+          "order": 8,
+          "title": "Mueve 8",
+          "instruction": "Termina con the restante pequeño bloques desde both marcos por the más cercano salidas (01:38–01:33)."
+        }
+      ],
+      "failurePoints": [
+        "Elimina rojo bloques en el marco superior antes planning the padlocked bloques' salida route — once el espacio surrounding fills con inferior-marco spill, the padlocked bloques have nowhere a go.",
+        "Treating the padlock contadores mientras shared — clearing five superior-marco bloques does no unlock inferior-marco padlocks, así working solo one marco en a time wastes movimientos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 97",
+    "description": "Resuelve Block Out nivel 97 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

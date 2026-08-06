@@ -1,0 +1,91 @@
+{
+  "id": "de-level-115",
+  "locale": "de",
+  "levelNumber": 115,
+  "title": "Block Out Level 115 Lösung",
+  "summary": "Block Out Level 115 splits das Spielfeld in three Spalten gated durch gerichtet Pfeile — grün, pink, und blau go hoch while rot, gelb, und orange go runter. Pink dotted connector zwischen two `7` pairs ist key Bauteil: fallen lassen es durch...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/115/",
+        "layout": "Block Out Level 115 splits das Spielfeld in three Spalten gated durch gerichtet Pfeile — grün, pink, und blau go hoch while rot, gelb, und orange go runter. Pink dotted connector zwischen two `7` pairs ist key Bauteil: fallen lassen es durch mittlere Spalte erste und Stapel über kann finally drain. Touch links-Spalte `1` stapeln bevor Mitte reshapes und connector gets buried.",
+        "landmarks": [
+          "Block Out Level 115 splits das Spielfeld in three Spalten gated durch gerichtet Pfeile — grün, pink, und blau go hoch while rot, gelb, und orange go runter.",
+          "Pink dotted connector zwischen two `7` pairs ist key Bauteil: fallen lassen es durch mittlere Spalte erste und Stapel über kann finally drain.",
+          "Touch links-Spalte `1` stapeln bevor Mitte reshapes und connector gets buried."
+        ],
+        "colors": ["purple", "cyan", "pink", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gk9J6m1hutU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gk9J6m1hutU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pink dotted connector muss fallen lassen bevor irgendein `7` pair kann split.",
+        "Räumen rechts lone `1` durch orange Pfeil-nach-unten- zu öffnen rechte Bahn früh.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Ziehen pink dotted connector nach unten durch mittlere Spalte verwendend gelb Pfeil-nach-unten-."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hinausführen obere links `1` stapeln von three türkis Kacheln runter durch rot Spalte Pfeil."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen lone rechts-Spalte türkis `1` durch orange Pfeil-nach-unten- zu öffnen rechte Bahn."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Split obere `7` pair in mittlere Spalte once connector hat passed pink hoch-triangle."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Senden untere links `1` stapeln durch rot Pfeil-nach-unten- nach obere `7`s sind gone."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Drain untere `7` pair hinaus durch gelb Pfeil-nach-unten- und Ausgang remaining grün Spalte Bauteile."
+        }
+      ],
+      "failurePoints": [
+        "Moving links-Spalte `1` stapeln bevor pink dotted connector hat fallen gelassen.",
+        "Versuchen zu split `7` pairs while connector still sitzt zwischen sie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/115/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 115 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 115 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

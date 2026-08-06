@@ -1,0 +1,98 @@
+{
+  "id": "es-level-19",
+  "locale": "es",
+  "levelNumber": 19,
+  "title": "Guía de Block Out Nivel 19",
+  "summary": "El nivel 19 de Block Out es un tablero numérico que empieza por el sótano. Abre primero la pila inferior roja, verde, negra y blanca, luego aplana la gigante alfombra cian `20/10` y gasta el techo amarillo solo después de que el centro se haya aflojado.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "El nivel 19 de Block Out es un tablero numérico que empieza por el sótano. Abre primero la pila inferior roja, verde, negra y blanca, luego aplana la gigante alfombra cian `20/10` y gasta el techo amarillo solo después de que el centro se haya aflojado.",
+        "landmarks": [
+          "El nivel 19 de Block Out es un tablero numérico que empieza por el sótano.",
+          "Abre primero la pila inferior roja, verde, negra y blanca, luego aplana la gigante alfombra cian `20/10` y gasta el techo amarillo solo después de que el centro se haya aflojado.",
+          "El tablero combina cian, azul, amarillo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["cyan", "blue", "yellow", "red", "green", "black", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El sótano es la fase uno.",
+        "El gran campo cian solo importa después de que hayan girado los bloqueadores inferiores.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Abre el lado derecho del sótano para que las piezas roja y verde inferiores puedan empezar a girar."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Pela los bloqueadores negros y blancos que están comprimiendo la alfombra cian desde abajo."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Deja las repetidas láminas `20/10` mayormente estacionadas hasta que el sótano se haya aplanado más."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Una vez abierta la pila inferior, empieza a aplanar la alfombra cian del centro hacia afuera."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Deja que se mueva el techo azul y amarillo superior solo después de que las láminas centrales ya no actúen como una sola hoja sólida."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Usa los contadores laterales para terminar con los valores cian restantes."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Acaba con las últimas piezas del techo amarillo y la salida roja inferior."
+        }
+      ],
+      "failurePoints": [
+        "Tratar la alfombra cian central como el problema de apertura.",
+        "Dejar el sótano apilado mientras intentas mover el techo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 19",
+    "description": "Resuelve el nivel 19 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

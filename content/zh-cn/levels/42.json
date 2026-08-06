@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-42",
+  "locale": "zh-cn",
+  "levelNumber": 42,
+  "title": "Block Out 第 42 关通关攻略",
+  "summary": "Block Out 第 42 关是一个双列排序拼图，没有 Boss 或装置。绿、红、白、黑方块堆叠在两条平行的竖向通道中，中间由深色中央分隔条隔开，每种颜色都必须到达其匹配的出口……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "Block Out 第 42 关是一个双列排序拼图，没有 Boss 或装置。绿、红、白、黑方块堆叠在两条平行的竖向通道中，中间由深色中央分隔条隔开，每种颜色都必须到达底部的匹配出口。解法自上而下：先剥离上方方块腾出空间，移动白色中央方块以实现跨列交换，再将每种颜色分类送至出口。",
+        "landmarks": [
+          "Block Out 第 42 关是一个双列排序拼图，没有 Boss 或装置。",
+          "绿、红、白、黑方块堆叠在两条平行的竖向通道中，中间由深色中央分隔条隔开，每种颜色都必须到达底部的匹配出口。",
+          "解法自上而下：先剥离上方方块腾出空间，移动白色中央方块以实现跨列交换，再将每种颜色分类送至出口。"
+        ],
+        "colors": ["green", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "自上而下推进——上层方块未清出列内空间前，下层方块无法排序。",
+        "白色中央方块是交换的促成者，而非首选的先行移动。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "从一条外侧列的顶部剥离方块，开出第一个缺口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在相对的另一列镜像执行清理，保持棋盘平衡。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "移动白色中央方块，开启跨列移动。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "将红色方块导向红色底部出口，绿色方块导向绿色出口。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "继续自上而下，逐层清理每种颜色。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "保持中央分隔条处畅通，以便最后进行跨列交换。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "两条列都分类送达出口后，处理最后的方块完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在外侧列尚未削减前就使用中央白色方块——跨列交换所需的空间只有在剥离顶层后才会出现。",
+        "在顶部清空前先处理底部方块，由于没有竖向空间可排序，会导致列被堵死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 42 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 42 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

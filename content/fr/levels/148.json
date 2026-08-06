@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-148",
+  "locale": "fr",
+  "levelNumber": 148,
+  "title": "Guide Block Out Niveau 148",
+  "summary": "Block Out Niveau 148 stacks étroit `13` head sur 6-large couleur grille body, creating building-shaped cadre avec bas `4`/`3` porte. haut bleu `8` marqueur est final verrou — il triggers Bloc Hors dégagez animation. Mais vert...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/148/",
+        "layout": "Block Out Niveau 148 stacks étroit `13` head sur 6-large couleur grille body, creating building-shaped cadre avec bas `4`/`3` porte. haut bleu `8` marqueur est final verrou — il triggers Bloc Hors dégagez animation. Mais les piles vert filling la gauche bande doit drainez avant `8` peut déplacez, et dégagement la porte inférieure too tôt sceaux la gauche bande's seulement vers le bas sortie.",
+        "landmarks": [
+          "Block Out Niveau 148 stacks étroit `13` head sur 6-large couleur grille body, creating building-shaped cadre avec bas `4`/`3` porte.",
+          "Haut bleu `8` marqueur est final verrou — il triggers Bloc Hors dégagez animation.",
+          "Mais les piles vert filling la gauche bande doit drainez avant `8` peut déplacez, et dégagement la porte inférieure too tôt sceaux la gauche bande's seulement vers le bas sortie."
+        ],
+        "colors": ["violet", "blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UFRWhADj4Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UFRWhADj4Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Déverrouillez le haut bleu 8 avant dégagement le centre orange amas.",
+        "Amincissez la gauche vert bande seulement après head tombent à 12.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le haut bleu/vert/rangée jaune rightward à dépensez la gauche rouge 8 colonne sans splitting le centre pile rouge."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez le haut violet 13 head bas à bleu 12 tuile par dégagement supérieur orange et vert scraps."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Amincissez la gauche vert bande une fois head montre 12 et la gauche rail tombent à 7."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez le centre orange amas après la colonne rouge unlocks le milieu 1 voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez le haut bleu 8 tuile (orange border) une fois peripheral compteurs read 12/14/3."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Drainez restant jaune/bleu scraps à travers le bas 3 porte."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez dernier vert scraps pour Bloc Hors terminez."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement le centre orange amas avant le haut bleu 8 unlocks, jamming la gauche 3 voie.",
+        "Splitting le centre pile rouge tôt, blocking le milieu 1 voie permanently."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/148/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 148",
+    "description": "Résolvez le niveau 148 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

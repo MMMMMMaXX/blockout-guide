@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-79",
+  "locale": "fr",
+  "levelNumber": 79,
+  "title": "Guide Block Out Niveau 79",
+  "summary": "Block Out Niveau 79 est deux phases plateau. Premier vous drainez énorme violet `17` reservoir sitting sous deux cramped supérieur wells. Alors plateau collapses dans abaissez plateau où violet bridge-shaped pièce doit déplacez avant bleu et oran...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out Niveau 79 est deux phases plateau. Premier vous drainez énorme violet `17` reservoir sitting sous deux cramped supérieur wells. Alors plateau collapses dans abaissez plateau où violet bridge-shaped pièce doit déplacez avant bleu et blocs orange sur la droite peut escape.",
+        "landmarks": [
+          "Block Out Niveau 79 est deux phases plateau.",
+          "Premier vous drainez énorme violet `17` reservoir sitting sous deux cramped supérieur wells.",
+          "Alors plateau collapses dans abaissez plateau où violet bridge-shaped pièce doit déplacez avant bleu et blocs orange sur la droite peut escape."
+        ],
+        "colors": ["violet", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat big `17` reservoir comme opener, pas `7` chambre.",
+        "Quand abaissez plateau appears, ouvrez le côté gauche avant vous try à libérez bleu étapes sur la droite.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Drainez géant bas chambre marked `17` avant vous overwork either haut well."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pendant que reservoir est falling, nettoiez supérieur gauche voie par déplaçant le L rouge-shape et vert stair hors de chaque autre's chemin."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez reducing supérieur droit `7` chambre seulement après la gauche well est non longer clogging côté compteurs."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Quand les deux violet chambres sont gone, switch focus à abaissez plateau que appears beneath les."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Ouvrez le côté gauche de que abaissez plateau premier, alors déplacez violet bridge pièce donc bleu stepped bloc sur la droite a acheminez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec la droite-côté bleu et blocs orange après le centre voie est videz."
+        }
+      ],
+      "failurePoints": [
+        "Treating supérieur droit `7` chambre comme premier cible au lieu de de draining `17` reservoir underneath il.",
+        "Essayant à dégagez la droite-côté bleu étapes dans abaissez plateau avant violet bridge pièce a moved."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 79",
+    "description": "Résolvez le niveau 79 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ko-level-371",
+  "locale": "ko",
+  "levelNumber": 371,
+  "title": "블록 아웃 레벨 371 공략",
+  "summary": "블록 아웃! 레벨 371 솔루션 공략. 내장된 공략 영상을 보고 이 이지 보드를 클리어하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/371.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/371",
+        "layout": "블록 아웃 레벨 371은(는) 파란색, 빨간색, 초록색, 보라색, 노란색, 주황색 타일이 주를 이루는 이지 색상 정렬 보드로 시작합니다. 정확한 초기 배치와 검증된 해결 방법은 내장된 공략 영상에 나와 있으니, 이동 순서를 따르기 전에 영상의 보드와 맞춰보세요.",
+        "landmarks": [
+          "파란색, 빨간색, 초록색 블록이 보드에서 눈에 띄게 등장합니다.",
+          "색상 그룹은 레벨을 클리어하려면 분리하고 쌓아야 합니다.",
+          "내장된 공략 영상은 정확한 초기 배치와 해결 순서를 보여줍니다."
+        ],
+        "colors": ["파란색", "빨간색", "초록색", "보라색", "노란색", "주황색"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "CWhnov7gnFQ",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=CWhnov7gnFQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "시작 보드"
+        },
+        {
+          "seconds": 65,
+          "label": "첫 병합"
+        },
+        {
+          "seconds": 129,
+          "label": "보드 중반 클리어"
+        },
+        {
+          "seconds": 189,
+          "label": "최종 탈출"
+        }
+      ],
+      "quickTips": [
+        "파란색과(와) 빨간색 블록을 먼저 모으세요. 이들이 초반 보드를 지배하므로, 먼저 치우면 가장 많은 공간이 확보됩니다.",
+        "첫 두 번의 병합이 끝날 때까지 한 열을 버퍼로 비워두세요. 이것이 나쁜 수를 되돌릴 수 있는 유일한 안전한 공간입니다.",
+        "섞이거나 갇힌 초록색 블록은 가장 짧은 열에 보관하고, 가장 높은 열에는 절대 두지 마세요. 그래야 깨끗한 출구 차선이 유지됩니다.",
+        "두 열의 맨 위 색이 같다면, 위험이 낮은 열을 먼저 병합하고 나머지는 마지막에 남겨두세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "보드 맞추기",
+          "instruction": "이동하기 전에 파란색/빨간색 배치가 공략 영상과 일치하는지 확인하세요. 변형이 다르면 해결 방법도 다릅니다.",
+          "image": "/boards/371.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "주요 색상 클리어",
+          "instruction": "파란색 열을 먼저 병합하여 보드에서 가장 넓은 영역을 확보하고 추적해야 할 조각을 줄이세요.",
+          "image": "/boards/371.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "버퍼 차선 열기",
+          "instruction": "빨간색 블록을 한쪽 짧은 열로 밀어내어 섞인 쌓음이 분리 가능하게 유지되고 출구 차선이 열려 있게 하세요.",
+          "image": "/boards/371.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "위에서 아래로 작업",
+          "instruction": "아무것도 일찍 잠기지 않도록 위에서부터 클리어하세요. 보드가 거의 비워질 때까지 버퍼 열을 유지하세요.",
+          "image": "/boards/371.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "출구 경로 안내",
+          "instruction": "공략 영상에 나온 동일한 차선을 통해 마지막 블록들을 영상이 보여주는 순서대로 내보내세요.",
+          "image": "/boards/371.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "가장 높은 열을 먼저 병합하면 유일한 버퍼 차선이 사라지고 아래 블록이 뒤에 갇힙니다.",
+        "섞인 색을 분리하기 전에 파란색 쌓음을 따라가면 더 이상 손닿지 않는 블록이 남습니다.",
+        "보드를 맞추기 전에 타이머를 시작하면 이지 보드에서 8~12초의 복구 시간을 낭비합니다.",
+        "빨간색 블록을 다른 블록 뒤에 두면, 한 번의 초기 이동으로 피할 수 있었던 재시작을 강요합니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/371",
+    "https://www.youtube.com/watch?v=CWhnov7gnFQ",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 371 공략 및 해설",
+    "description": "검증된 이지 공략 영상과 보드 색상을 통해 블록 아웃 레벨 371을(를) 해결하세요. 내장된 해설을 보고 시작 보드와 일치하는지 확인하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

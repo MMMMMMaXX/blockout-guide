@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-38",
+  "locale": "fr",
+  "levelNumber": 38,
+  "title": "Guide Block Out Niveau 38",
+  "summary": "Block Out Niveau 38 a `12` boss chambre buried sous structured lid de trois bleu `2` blocs, rose `15` bloc, et violet `6` device. lid a son own internal sequence — bleu `2`s sont fast, device est medium, et rose...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out Niveau 38 a `12` boss chambre buried sous structured lid de trois bleu `2` blocs, rose `15` bloc, et violet `6` device. lid a son own internal sequence — bleu `2`s sont fast, device est medium, et rose `15` est slow — et doit être dismantled pièce par pièce avant boss peut laissez tomber. Après boss tombe autour 01:33, mass de rouge, rose, vert, et blocs bleu spills hors pour second sorting phase.",
+        "landmarks": [
+          "Block Out Niveau 38 a `12` boss chambre buried sous structured lid de trois bleu `2` blocs, rose `15` bloc, et violet `6` device.",
+          "Lid a son own internal sequence — bleu `2`s sont fast, device est medium, et rose `15` est slow — et doit être dismantled pièce par pièce avant boss peut laissez tomber.",
+          "Après boss tombe autour 01:33, mass de rouge, rose, vert, et blocs bleu spills hors pour second sorting phase."
+        ],
+        "colors": ["blue", "pink", "violet", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Lid a son own ordre: bleu `2`s premier (fast), violet device second (medium), rose `15` dernier (slow).",
+        "Regardez pour se déversent à 01:33 — si côté voies sont pas prêt, révélé blocs jam salle.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez trois bleu `2` blocs de le haut rangée premier — ils sont le plus rapide lid reductions."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Service violet `6` device sur le haut-gauche par routing le bloc jaune à travers son porte."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez thinning rose `15` bloc sur supérieur droit maintenant que les blocs bleu sont gone."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Regardez boss compteur laissez tomber à travers `8` comme lid thins (visible autour 01:42)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Ouvrez côté voies donc révélé blocs ont somewhere à allez après boss tombe."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Laissez `12` boss effondrez une fois lid est mostly gone — se déversent happens autour 01:33."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Sort révélé rouge, rose, vert, et blocs bleu à travers côté et bas sorties à terminez."
+        }
+      ],
+      "failurePoints": [
+        "Skipping bleu `2` blocs et going droit pour rose `15` — lid stays too thick pour boss à déplacez.",
+        "Pas having côté voies ouvrez quand boss tombe à 01:33, qui means révélé blocs pile haut avec nowhere à allez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 38",
+    "description": "Résolvez le niveau 38 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

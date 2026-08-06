@@ -1,0 +1,98 @@
+{
+  "id": "es-level-55",
+  "locale": "es",
+  "levelNumber": 55,
+  "title": "Guía de Block Out Nivel 55",
+  "summary": "Block Out nivel 55 locks a wide morado jefe barra con contador `7` a través the inferior de el tablero mientras packing the superior zone con a grande verde 2×2 bloque, four tall cian bloques (cada contador `4`), y assorted rojo, azul, y amarillo pieza...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out nivel 55 locks a wide morado jefe barra con contador `7` a través the inferior de el tablero mientras packing the superior zone con a grande verde 2×2 bloque, four tall cian bloques (cada contador `4`), y assorted rojo, azul, y amarillo piezas. Elimina cada superior bloque a count la barra jefe abajo a zero, luego sort the hidden layer de tall amarillo, naranja, y verde bloques ese appears después la barra collapses.",
+        "landmarks": [
+          "Block Out nivel 55 locks a wide morado jefe barra con contador `7` a través the inferior de el tablero mientras packing the superior zone con a grande verde 2×2 bloque, four tall cian bloques (cada contador `4`), y assorted rojo, azul, y amarillo piezas.",
+          "Elimina cada superior bloque a count la barra jefe abajo a zero, luego sort the hidden layer de tall amarillo, naranja, y verde bloques ese appears después la barra collapses.",
+          "El tablero mixes verde, cian, rojo y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Empieza the four cian `4` bloques early — ellos consume 16 total pasadas por the derecho-pared salida.",
+        "Do no touch the revealed amarillo/naranja layer hasta el jefe morado barra has totalmente disappeared.",
+        "Mantén el carril izquierdo abierto después the verde 2×2 bloque salidas — tú will need lo para the second wave."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Desliza the pequeño rojo bloque cerca the superior-izquierdo downward, luego push the grande verde 2×2 bloque fuera por the izquierdo-pared salida a abierto el carril izquierdo (02:55–02:50 en el vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Route el bloque azul por the izquierdo-pared salida using el hueco el bloque verde izquierdo detrás."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza feeding the four cian `4` bloques por the derecho-pared salida — start con the leftmost cian bloque y keep el carril derecho despejado para todos 16 pasadas (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the restante amarillo y pequeño rojo bloques por whichever salida es closest — cada pieza drops el contador jefe por one (contador reads `3` en 02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Once el contador hits `0` (alrededor 02:29), el jefe morado barra collapses y reveals tall amarillo, naranja, y verde bloques underneath."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Desliza the revealed amarillo tall bloque hacia the izquierdo-pared salida primero porque lo bloques el bloque naranja detrás lo."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Route the naranja tall bloque por the derecho-pared salida, luego finish con the restante verde bloques por the inferior salidas (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "Mueve a revealed amarillo o naranja bloque antes la barra jefe has totalmente collapsed — la pieza jams contra la barra y bloques el carril salida con no way a recover.",
+        "Introduce the cian `4` bloques por the izquierdo-pared salida instead de the derecho — este clogs el carril needed para the verde 2×2 bloque y stalls el jefe countdown."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 55",
+    "description": "Resuelve Block Out nivel 55 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

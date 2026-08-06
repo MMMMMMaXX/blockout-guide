@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-55",
+  "locale": "ja",
+  "levelNumber": 55,
+  "title": "ブロックアウト レベル55 攻略",
+  "summary": "ブロックアウト レベル55は、盤面の底部にカウンター「7」の幅広い紫のボスバーを固定し、上部ゾーンには大きな緑の2×2ブロック、4本の高いシアンブロック（各カウンター「4」）、そして赤・青・黄のさまざまなピースを詰め込んでいます…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "ブロックアウト レベル55は、盤面の底部にカウンター「7」の幅広い紫のボスバーを固定し、上部ゾーンには大きな緑の2×2ブロック、4本の高いシアンブロック（各カウンター「4」）、そして赤・青・黄のさまざまなピースを詰め込んでいます。上部のブロックをすべて消去してボスバーをゼロまで減らし、その後バーが崩れたあとに現れる高い黄・オレンジ・緑ブロックの隠れた層を整理します。",
+        "landmarks": [
+          "ブロックアウト レベル 55 紫 ボス 棒 カウンター `7` 渡り 下 詰め 上の ゾーン 緑 2×2 ブロック、シアン ( カウンター `4`)、赤、青、黄 .。",
+          "を消去して上の ブロック ボス 棒 下、色分け 層 黄、オレンジ、緑、棒 .。",
+          "混ぜる 緑、シアン、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を始めてシアン `4` — 16 通し 右-壁 出口.。",
+        "現し 黄/オレンジ 層、紫 ボス 棒 .。",
+        "レーンを維持して左に、開く、緑 2×2 ブロック 出口 — 必要とする .。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて赤 ブロック 上-左 下へ、押す 緑 2×2 ブロックアウト 左-壁 出口 開く 左 レーン (02:55–02:50 動画).。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青ブロックを通して左-壁 出口 隙間 緑 ブロック 左 .を通って。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "シアン `4` 右-壁 出口 — 始める シアン ブロック、レーンを維持して右に、消去する 16 通し (02:50–02:39).。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して黄、赤 出口 — ピース ボス カウンター (カウンター `3` 02:39).。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "カウンター `0` (周りを 02:29)、紫 ボス 棒、黄、オレンジ、緑 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "をスライドさせて現し 黄 ブロック の方へ 左-壁 出口 オレンジ ブロック .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "オレンジのを通してブロック 右-壁 出口、終える 緑 下 出口 (02:19–02:03).。"
+        }
+      ],
+      "failurePoints": [
+        "動かし 現し 黄 オレンジ ブロック、ボス 棒 崩し — ピース 詰まり 棒、出口 レーン .。",
+        "シアン `4` 左-壁 出口、右 — レーン 緑 2×2 ブロック、ボス .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル55 攻略と解説",
+    "description": "ブロックアウト レベル55 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "de-level-68",
+  "locale": "de",
+  "levelNumber": 68,
+  "title": "Block Out Level 68 Lösung",
+  "summary": "Block Out Level 68 Stapel two chambers vertically, getrennt durch horizontal dividing bar. Obere chamber holds mix von grün Blöcke, large blau Quadrat, und orange/gelb Bauteile. Untere chamber ist beherrscht durch massive lila r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out Level 68 Stapel two chambers vertically, getrennt durch horizontal dividing bar. Obere chamber holds mix von grün Blöcke, large blau Quadrat, und orange/gelb Bauteile. Untere chamber ist beherrscht durch massive lila rectangle mit Zähler '7' wrapped in rot frame. Räumen entire obere chamber erste — dividing bar wird nicht öffnen bis es empties. Dann entfernen rot frame und hinausführen lila Block durch sein Ausgang seven times.",
+        "landmarks": [
+          "Block Out Level 68 Stapel two chambers vertically, getrennt durch horizontal dividing bar.",
+          "Obere chamber holds mix von grün Blöcke, large blau Quadrat, und orange/gelb Bauteile.",
+          "Untere chamber ist beherrscht durch massive lila rectangle mit Zähler '7' wrapped in rot frame.",
+          "Räumen entire obere chamber erste — dividing bar wird nicht öffnen bis es empties."
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "purple", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Empty obere chamber completely bevor touching untere — dividing bar wird nicht öffnen otherwise.",
+        "Entfernen rot frame around lila Block bevor feeding es durch Ausgang.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen small Blöcke bei oben von obere chamber durch oben Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract grün Blöcke auf links durch links Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben large blau Quadrat Block hinaus durch rechts oder oben Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen orange/gelb Blöcke bei unten von obere chamber."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once obere chamber empties, dividing bar öffnet — entfernen rot frame around lila Block."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen massive lila Block (Zähler '7') durch sein Ausgang repeatedly bis fully geräumt."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit irgendein remaining türkis Seite Bauteile und unten fragments."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen lila Block bevor obere chamber ist empty — dividing bar ist still sealed.",
+        "Forgetting zu entfernen rot frame around lila Block bevor attempting zu hinausführen es."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 68 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 68 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

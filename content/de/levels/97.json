@@ -1,0 +1,102 @@
+{
+  "id": "de-level-97",
+  "locale": "de",
+  "levelNumber": 97,
+  "title": "Block Out Level 97 Lösung",
+  "summary": "Block Out Level 97 Stapel two horizontal frames packed mit colored Blöcke. Obere frame holds gelb Block, blau borders, large rot Blöcke, und padlocked orange/gelb Bauteile (padlock `5`). Untere frame ist twice als dense mit la...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out Level 97 Stapel two horizontal frames packed mit colored Blöcke. Obere frame holds gelb Block, blau borders, large rot Blöcke, und padlocked orange/gelb Bauteile (padlock `5`). Untere frame ist twice als dense mit large rot und grün Blöcke, blau, orange, lila, und padlocked gelb Bauteile. Arbeiten beide frames in alternation — räumen non-padlocked edge Blöcke zu unlock padlock `5` gates in jede frame, dann hinausführen large Bauteile durch.",
+        "landmarks": [
+          "Block Out Level 97 Stapel two horizontal frames packed mit colored Blöcke.",
+          "Obere frame holds gelb Block, blau borders, large rot Blöcke, und padlocked orange/gelb Bauteile (padlock `5`).",
+          "Untere frame ist twice als dense mit large rot und grün Blöcke, blau, orange, lila, und padlocked gelb Bauteile.",
+          "Arbeiten beide frames in alternation — räumen non-padlocked edge Blöcke zu unlock padlock `5` gates in jede frame, dann hinausführen large Bauteile durch."
+        ],
+        "colors": ["red", "orange", "yellow", "green", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Padlock `5` Zähler sind per-frame — räumend obere Blöcke nur unlocks obere padlocks, nicht untere ones.",
+        "Starten mit non-padlocked edge Blöcke in beide frames zu build toward five-räumen unlock threshold.",
+        "Hinausführen large grün Block in untere Mitte letzte — es Blöcke Mitte Pfad und needs meisten Raum."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Obere frame: schieben blau border Block auf far rechts durch rechts-Wand Ausgang, dann schieben gelb Block auf far links durch links-Wand Ausgang (02:24–02:20 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Untere frame: räumen orange und lila Blöcke auf far rechts durch rechts-Wand Ausgang — sie sind closest und nicht padlocked (02:20–02:15)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Obere frame: räumen large rot Blöcke in Mitte-links durch links-Wand Ausgang — jede removal counts toward obere padlock `5` unlock (02:15–02:06)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Obere frame padlocks jetzt öffnen: räumen orange und gelb padlocked Blöcke von Mitte durch rechts Ausgang (02:06)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Untere frame: räumen non-padlocked blau und rot Blöcke von Mitte zu count toward untere padlock `5` threshold (02:01–01:52)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Untere frame padlocks jetzt öffnen: räumen gelb padlocked Blöcke auf far links durch links-Wand Ausgang (01:52)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Hinausführen large grün Block in untere Mitte durch unten Ausgang — es takes several passes und needs Mitte Pfad räumen (01:47–01:38)."
+        },
+        {
+          "order": 8,
+          "title": "Zug 8",
+          "instruction": "Beenden mit remaining small Blöcke von beide frames durch nearest exits (01:38–01:33)."
+        }
+      ],
+      "failurePoints": [
+        "Räumend rot Blöcke in obere frame bevor planning padlocked Blöcke' Ausgangs-ansteuern — once surrounding Platz fills mit untere-frame spill, padlocked Blöcke haben nowhere zu go.",
+        "Treating padlock Zähler als geteilt — räumend five obere-frame Blöcke tut nicht unlock untere-frame padlocks, also working nur one frame bei time verschwendet Züge."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 97 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 97 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

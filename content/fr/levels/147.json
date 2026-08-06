@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-147",
+  "locale": "fr",
+  "levelNumber": 147,
+  "title": "Guide Block Out Niveau 147",
+  "summary": "Block Out Niveau 147 est longest résolvez dans 101–150 range — dual-chambre colonne shifter avec haut gauche `1` coffre et séparé droite `13` poche. Bas launcher pièces alimentez supérieur grille à travers étroit voies. jaune-outlin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/147/",
+        "layout": "Block Out Niveau 147 est longest résolvez dans 101–150 range — dual-chambre colonne shifter avec haut gauche `1` coffre et séparé droite `13` poche. Bas launcher pièces alimentez supérieur grille à travers étroit voies. jaune-outlined colonne bleu sur la gauche doit stay standing jusqu'à violet `2` tuile et horizontal barre rouge dégagez le centre, ou coffre's alimentez voie collapses.",
+        "landmarks": [
+          "Block Out Niveau 147 est longest résolvez dans 101–150 range — dual-chambre colonne shifter avec haut gauche `1` coffre et séparé droite `13` poche.",
+          "Bas launcher pièces alimentez supérieur grille à travers étroit voies.",
+          "Jaune-outlined colonne bleu sur la gauche doit stay standing jusqu'à violet `2` tuile et horizontal barre rouge dégagez le centre, ou coffre's alimentez voie collapses."
+        ],
+        "colors": ["violet", "yellow", "blue", "red", "orange", "green", "cyan", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9uAtDrUE4V0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9uAtDrUE4V0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez 12 highlight avant déplaçant le bas bleu-base launcher.",
+        "Gardez 13 poche sealed jusqu'à la gauche 1 chambre accepts son premier alimentez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le bas L jaune-pièce gauche sur son cyan base à commencez opening la gauche 1 chambre sans shifting 13 poche."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Alimentez orange/bleu/jaune/rouge floor amas vers le haut à travers le bas gauche arrow une fois la gauche chambre accepts pièces."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez orange-bordered 12 highlight carré dans la droite chambre après la gauche colonne thins."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez jaune-outlined bleu vertical colonne sur la gauche une fois 12 tuile est gone."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Correspondre violet 2 tuile (orange border) avec jaune 3 scrap au-dessus vert arrow bloc."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez le bas jaune launcher pièces — L sur rose base, alors 2×2 sur bleu base — à travers le centre barre rouge."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Acheminez dernier scraps à travers vert haut-arrow sortie pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Launching bleu-base jaune 2×2 avant 12 highlight breaks, sealing vert haut-arrow voie.",
+        "Opening 13 poche avant la gauche 1 chambre thins, flooding le centre barre rouge."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/147/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 147",
+    "description": "Résolvez le niveau 147 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

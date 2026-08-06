@@ -1,0 +1,98 @@
+{
+  "id": "es-level-26",
+  "locale": "es",
+  "levelNumber": 26,
+  "title": "Guía de Block Out Nivel 26",
+  "summary": "El nivel 26 de Block Out es un tablero con puente y jefe. Drena la cámara superior por la garganta `18` primero, baja el puente segundo, y solo entonces deja que el enorme jefe inferior `21` empiece a colapsar.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "El nivel 26 de Block Out es un tablero con puente y jefe. Drena la cámara superior por la garganta `18` primero, baja el puente segundo, y solo entonces deja que el enorme jefe inferior `21` empiece a colapsar.",
+        "landmarks": [
+          "El nivel 26 de Block Out es un tablero con puente y jefe.",
+          "Drena la cámara superior por la garganta `18` primero, baja el puente segundo, y solo entonces deja que el enorme jefe inferior `21` empiece a colapsar.",
+          "El tablero combina rosa, verde, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La garganta `18` abre el nivel.",
+        "El panel inferior `21` es un objetivo de la segunda fase.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Alimenta la cámara superior por la garganta central `18` y empieza a bajar su contador."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Sigue reduciendo los contadores laterales de la sala superior mientras el panel inferior `21` permanece intacto."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Usa los bloqueadores blancos y negros de la sala superior para evitar que el puente se rellene."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando el carril `18` esté mucho más bajo, abre el paso hacia la cámara inferior."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Empieza a encoger el jefe `21` solo después de que el puente ya no esté saturado."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Gira las piezas moradas y rojas finales cuando la sala inferior tenga espacio real."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con los últimos restos superiores después de que el jefe inferior ya haya caído."
+        }
+      ],
+      "failurePoints": [
+        "Intentar trabajar el jefe inferior antes de que el puente se haya abierto.",
+        "Dejar que la cámara superior rellene la garganta `18` después de que ya empezó a bajar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 26",
+    "description": "Resuelve el nivel 26 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

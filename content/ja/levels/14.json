@@ -1,0 +1,89 @@
+{
+  "id": "ja-level-14",
+  "locale": "ja",
+  "levelNumber": 14,
+  "title": "ブロックアウト レベル14 攻略",
+  "summary": "大きなシアンの中央部分を周囲の枠から解放する前に、白の梯子を開き、上部のカウンターを減らします。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "大きなシアンのカウンタータイルが5色の枠の中央を埋め、白のピースは上と右に集中し、黄の列が側面レーンを支えています。",
+        "landmarks": [
+          "中央 シアン 四角 7.。",
+          "上 カウンター 17 上 中央の 枠.。",
+          "白 作る はしご 右側.。",
+          "黄 配置する 黒 アンカー 下の 角.。"
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を進めて右に、-側 白 レーン、下 黄 出口.。",
+        "シアンのを残して7 配置する、枠 開き 側.。",
+        "消去する レーン、ブロック 取り除き .。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "右端を緩める",
+          "instruction": "手順 上の-右 白 出口 レーン、枠 縮める.。"
+        },
+        {
+          "order": 2,
+          "title": "上部のカウンターを減らす",
+          "instruction": "消去 上 シアン 7 中央.。"
+        },
+        {
+          "order": 3,
+          "title": "側面の支持を維持する",
+          "instruction": "黄のを使いて側 維持する 下の 黒 .。"
+        },
+        {
+          "order": 4,
+          "title": "縦のスペースを作る",
+          "instruction": "右のはしご、白 柱 下 開く レーン 中央部分.。"
+        },
+        {
+          "order": 5,
+          "title": "中央部分を解放する",
+          "instruction": "手順 シアン 7 枠 開く、消去する 白、黒 .。"
+        },
+        {
+          "order": 6,
+          "title": "黄の出口は最後に使う",
+          "instruction": "を終えて下 黄 出口を通って、中央の ブロック、枠 .。"
+        }
+      ],
+      "failurePoints": ["手順 シアン 7 右のはしご 枠.。", "消去 下 黄 レーン、中央の .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル14 攻略と解説",
+    "description": "シアン7の盤面を揃え、右の梯子を開き、上部のカウンターを減らし、その上でブロックアウト レベル14の完全な解説に従ってください。"
+  },
+  "updatedAt": "2026-08-03"
+}

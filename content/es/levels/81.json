@@ -1,0 +1,92 @@
+{
+  "id": "es-level-81",
+  "locale": "es",
+  "levelNumber": 81,
+  "title": "Guía de Block Out Nivel 81",
+  "summary": "Block Out nivel 81 stacks full-width de color horizontal barras en a tall, narrow tablero. Una barra verde con contador '1' sits en the superior, followed por azul, rojo, y verde barras, luego a grande amarillo/naranja bloque en el lado derecho. Un bloque lock w...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out nivel 81 stacks full-width de color horizontal barras en a tall, narrow tablero. Una barra verde con contador '1' sits en the superior, followed por azul, rojo, y verde barras, luego a grande amarillo/naranja bloque en el lado derecho. Un bloque lock con contador '2' puertas el centro, y the inferior holds heavy bloques con contadores '10' y '5'. Peel barras desde the superior abajo, despejado el centro lock, luego feed the heavy inferior bloques último.",
+        "landmarks": [
+          "Block Out nivel 81 stacks full-width de color horizontal barras en a tall, narrow tablero.",
+          "Una barra verde con contador '1' sits en the superior, followed por azul, rojo, y verde barras, luego a grande amarillo/naranja bloque en el lado derecho.",
+          "Un bloque lock con contador '2' puertas el centro, y the inferior holds heavy bloques con contadores '10' y '5'.",
+          "Peel barras desde the superior abajo, despejado el centro lock, luego feed the heavy inferior bloques último."
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Peel strictly desde the superior abajo — full-width barras cannot slide sideways.",
+        "Elimina el bloque lock en el centro antes attempting cualquier inferior-half barra.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Desliza la barra verde (contador '1') en the superior por el salida superior."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Extract la barra azul debajo lo por el salida superior."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Tira la barra roja siguiente, continuing the superior-abajo peel."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina el bloque lock con contador '2' en el centro-izquierdo a unlock the inferior stack."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Route the grande amarillo/naranja bloque fuera por the widened mid-sección."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Introduce the inferior bloques (contadores '10' y '5') por the inferior salidas."
+        }
+      ],
+      "failurePoints": [
+        "Trying a skip una barra en the stack — the full-width barras bloque everything debajo los.",
+        "Attempting the inferior bloques antes el bloque lock es cleared, que leaves the inferior half sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 81",
+    "description": "Resuelve Block Out nivel 81 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

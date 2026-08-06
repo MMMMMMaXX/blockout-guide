@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-8",
+  "locale": "ja",
+  "levelNumber": 8,
+  "title": "ブロックアウト レベル8 攻略",
+  "summary": "ブロックアウト レベル8は、右下の穴に巨大な赤のスラブを隠しています。まず上部と右のカウンターを通して緑・白・黒のミニブロックを処理し、それから開いた通路を使ってようやく赤のスラブを動かします。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "ブロックアウト レベル8は、右下の穴に巨大な赤のスラブを隠しています。まず上部と右のカウンターを通して緑・白・黒のミニブロックを処理し、それから開いた通路を使ってようやく赤のスラブを動かします。",
+        "landmarks": [
+          "ブロックアウト レベル 8 巨大な赤のスラブ 右下の穴.。",
+          "を進めて緑、白、黒のミニブロック 上、右のカウンター、使う 開いた通路 手順 赤のスラブ.。",
+          "混ぜる 赤、緑、白、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上部の通路 巨大な赤のスラブ 始める.。",
+        "を維持して右に、-側面のメーター 上部のふた 縮め.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を押して上-右 白、黒 ペア 右側のノルマレーン 始める 縮め `9` メーター.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を回転させて上の 緑のミニブロック 渡り 上 通路、`17` キャップ、右のメーター 維持する .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を使いて細い中央の幹 通す 白 ブロック 下へ、を維持して右上の列 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黒- -緑 塊、右 列、側面のメーター .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "上部の通路、をずらして脇、赤のスラブ レーン.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "をスライドさせて大きな赤の長方形 上へ、渡り の方へ 赤の出口 左の壁.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて緑のミニブロック 上部の緑の仕上げ、消去し.。"
+        }
+      ],
+      "failurePoints": [
+        "手順 赤のスラブ、上部の通路 .。",
+        "を無視して右のノルマレーン、上部のふた.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル8 攻略と解説",
+    "description": "ブロックアウト レベル8 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

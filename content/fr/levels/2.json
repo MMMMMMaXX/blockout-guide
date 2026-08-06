@@ -1,0 +1,103 @@
+{
+  "id": "fr-level-2",
+  "locale": "fr",
+  "levelNumber": 2,
+  "title": "Guide Block Out Niveau 2",
+  "summary": "Block Out Niveau 2 opens avec rouge haut et jaune gauche, alors turns dans vertical-colonne cleanup. Garez bleu dans le coin supérieur gauche, pelez blanc et colonnes noir à travers la voie supérieure, et seulement encaissez bleu hors dernier.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "Block Out Niveau 2 opens avec rouge haut et jaune gauche, alors turns dans vertical-colonne cleanup. Garez bleu dans le coin supérieur gauche, pelez blanc et colonnes noir à travers la voie supérieure, et seulement encaissez bleu hors dernier.",
+        "landmarks": [
+          "Block Out Niveau 2 opens avec rouge haut et jaune gauche, alors turns dans vertical-colonne cleanup.",
+          "Garez bleu dans le coin supérieur gauche, pelez blanc et colonnes noir à travers la voie supérieure, et seulement encaissez bleu hors dernier.",
+          "Le plateau mélange rouge, jaune et bleu et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rouge et jaune sont deux opening dégage.",
+        "Bleu est contreventement premier et sortie bloc second.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Déplacez le L rouge-shaped bloc haut à travers le haut porte rouge."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Poussez le T jaune-shaped bloc gauche à travers jaune côté porte."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Glissez le L bleu dans le coin supérieur gauche et laissez-le garé là."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Levez lointain-droite colonne blanc et alors soulevez la colonne noir à côté de il dans le haut-droite porte noir."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tirez haut milieu colonne blanc haut dans le haut-gauche porte blanc une fois noir coin est libérez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Utilisez même voie supérieure à remove restant pile blanc sur le côté droit."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Envoyez dernier colonne noir haut à travers la porte noir."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Terminez par dropping garé L bleu à la porte bleu sur le mur gauche."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à envoyez le L bleu à son sortie avant les colonnes blanc ont climbed.",
+        "Ignoring la droite colonne noir et lifting blanc dans blocked coin."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 2",
+    "description": "Résolvez le niveau 2 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

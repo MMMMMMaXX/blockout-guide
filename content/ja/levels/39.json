@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-39",
+  "locale": "ja",
+  "levelNumber": 39,
+  "title": "ブロックアウト レベル39 攻略",
+  "summary": "ブロックアウト レベル39は『スーパーハード』と印が付き、ブロックアウトで最初の三ボス盤面です。配置は2×2グリッド——左上ボス『14』、右上ボス『21』、右下ボス『4』、そして左下に詰まった色の混合。『4』のボ",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "ブロックアウト レベル39は『スーパーハード』と印が付き、ブロックアウトで最初の三ボス盤面です。配置は2×2グリッド——左上ボス『14』、右上ボス『21』、右下ボス『4』、そして左下に詰まった色の混合。『4』のボスが下半分を開き、次に色付きブロックが排出され、その後『14』が『21』の前に落下します。各フェーズは前のものに依存し、順序は絶対です。",
+        "landmarks": [
+          "ブロックアウト レベル 39 ' '、-ボス ブロックアウト.。",
+          "2×2 : 上の-左 ボス `14`、上の-右 ボス `21`、を下げて-右 ボス `4`、詰まった 下の-左.。",
+          "`4` ボス 下の、排出する、`14`、`21`.。",
+          ".。"
+        ],
+        "colors": ["green", "yellow", "blue", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "下の-右 `4` カウンター、上 —、上の ボス 手順.。",
+        ": `4` → → `14` → `21`. .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を進めて周りを 下の-右 `4` 部屋 — ずらす の方へ 下 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "下の-左 象限 (緑、黄、青、赤、紫) 作る `4` ボス 崩す.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "`4` カウンター (周りを 01:47)、を使いて解放し 下の-右 排出する.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を始めて上の-左 `14` ボス、下の 開く — カウンター 落とす `10`.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を維持して上の-右 `21` ボス 配置し `14` .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を出して`21` ボス、`14` 部屋、上の 屋根 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて、側 カウンター、ボス .。"
+        }
+      ],
+      "failurePoints": [
+        "間 ボス 始める —、部屋 .。",
+        "減らす `21` ボス、`14` 崩し、無駄にし 上の カウンター.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル39 攻略と解説",
+    "description": "ブロックアウト レベル39 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

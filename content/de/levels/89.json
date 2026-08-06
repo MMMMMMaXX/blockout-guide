@@ -1,0 +1,93 @@
+{
+  "id": "de-level-89",
+  "locale": "de",
+  "levelNumber": 89,
+  "title": "Block Out Level 89 Lösung",
+  "summary": "Block Out Level 89 öffnet mit gemischt oben shelf über two gestapelt chambers. Entfernen dass shelf erste, drain `6` chamber nächste, und dann räumen keyed linke Bahn plus orange Spalten bevor `11` chamber gives way zu rot T-shap...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out Level 89 öffnet mit gemischt oben shelf über two gestapelt chambers. Entfernen dass shelf erste, drain `6` chamber nächste, und dann räumen keyed linke Bahn plus orange Spalten bevor `11` chamber gives way zu rot T-shaped endgame.",
+        "landmarks": [
+          "Block Out Level 89 öffnet mit gemischt oben shelf über two gestapelt chambers.",
+          "Entfernen dass shelf erste, drain `6` chamber nächste, und dann räumen keyed linke Bahn plus orange Spalten bevor `11` chamber gives way zu rot T-shaped endgame.",
+          "Das Spielfeld mixes Lila, Grün, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Wenn oben shelf still hat live blau oder grün Bauteile, `11` chamber ist nicht ready.",
+        "Keyed gelb Bahn auf links matters mehr als raw `11` count.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen gemischt strips auf oben shelf, especially blau Reihe und grün Block auf obere rechte."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Starten shrinking obere `6` chamber nur nach oben shelf hat stopped feeding Blockierer nach unten."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Lassen untere `11` chamber alone bis `6` chamber ist fast gone."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Nach obere chamber öffnet das Spielfeld, räumen keyed gelb Bahn auf links und shorten orange Spalten around Mitte."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let `11` chamber collapse nur when rot T-shape und two blau pools underneath es haben Raum zu trennen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit rot T-Bauteil, letzte orange Spalte, und remaining gelb L-Block near untere linke Ecke."
+        }
+      ],
+      "failurePoints": [
+        "Touching `11` chamber while oben shelf still hat live blau oder grün Verkehr.",
+        "Ignoring keyed linke Bahn und Versuchen zu brute-force untere half nach `6` chamber öffnet."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 89 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 89 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

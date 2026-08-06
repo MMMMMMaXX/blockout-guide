@@ -1,0 +1,91 @@
+{
+  "id": "de-level-127",
+  "locale": "de",
+  "levelNumber": 127,
+  "title": "Block Out Level 127 Lösung",
+  "summary": "Block Out Level 127 führt hinaus numbered discs — `6`, `4`, `5` — in orange-bordered slots über two chambers, mit unten Lego brick Reihe supplying Farbe sequence. Orange-bordered lila `2` pillar anchors Mitte, und surro...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/127/",
+        "layout": "Block Out Level 127 führt hinaus numbered discs — `6`, `4`, `5` — in orange-bordered slots über two chambers, mit unten Lego brick Reihe supplying Farbe sequence. Orange-bordered lila `2` pillar anchors Mitte, und surrounding 2×2 clusters auf rechts muss räumen bevor pillar kann fallen lassen. Force pillar früh und es Blöcke untere chamber's nur hinausführen Bahn.",
+        "landmarks": [
+          "Block Out Level 127 führt hinaus numbered discs — `6`, `4`, `5` — in orange-bordered slots über two chambers, mit unten Lego brick Reihe supplying Farbe sequence.",
+          "Orange-bordered lila `2` pillar anchors Mitte, und surrounding 2×2 clusters auf rechts muss räumen bevor pillar kann fallen lassen.",
+          "Force pillar früh und es Blöcke untere chamber's nur hinausführen Bahn."
+        ],
+        "colors": ["purple", "orange", "green", "blue", "red", "pink", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r6zFw7xFbd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r6zFw7xFbd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Hinausführen orange `4` in rechts `12` chamber bevor verschiebend rot 2×2 stapeln.",
+        "Hoch lila `2` pillar ist letzte objective — tu nicht break es bis unten grün `3` Bahn ist öffnen.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Study unten Lego Reihe und hinausführen erste abgleichend pair in links orange-bordered `14` chamber."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Fallen lassen grün `6` disc in links chamber once `14` slot öffnet."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen orange `4` disc in rechts `12` chamber while weiß `5` marker auf rechts rail ist still räumen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen rot 2×2 und blau 2×2 Stapel auf obere rechte ohne blocking grün 2×2 unterhalb sie."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Ansteuern pink L-shape und unten grün `3` Zähler durch untere Raster."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Break hoch orange-bordered lila `2` pillar und beenden remaining unten blau scraps."
+        }
+      ],
+      "failurePoints": [
+        "Moving rot 2×2 bevor orange `4` disc enters rechts `12` chamber — dieses jams grün `3` Bahn.",
+        "Breaking hoch lila `2` pillar while pink L-shape still Blöcke untere Raster."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/127/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 127 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 127 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

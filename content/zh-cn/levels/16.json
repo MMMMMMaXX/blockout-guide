@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-16",
+  "locale": "zh-cn",
+  "levelNumber": 16,
+  "title": "Block Out 第 16 关通关攻略",
+  "summary": "Block Out 第 16 关是一个阶梯支撑谜题。先软化下层搁板和右侧墙，瓦解其底部的黑色斜块，之后才从右上方的攀爬中放出高大的红色和黄色长条。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "Block Out 第 16 关是一个阶梯支撑谜题。先软化下层搁板和右侧墙，瓦解其底部的黑色斜块，之后才从右上方的攀爬中放出高大的红色和黄色长条。",
+        "landmarks": [
+          "Block Out 第 16 关是一个阶梯支撑谜题。",
+          "先软化下层搁板和右侧墙，瓦解其底部的黑色斜块，之后才从右上方的攀爬中放出高大的红色和黄色长条。",
+          "棋盘上混合了红色、黄色、白色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "下层搁板才是真正的开局关键。",
+        "黑色阶梯必须从下方瓦解。",
+        "用连锁消除的思路来思考。最佳走子是能为接下来两步铺路的，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把下方的白色方块群喂入右侧倒计时通道，开始缩小标着 `12` 的墙。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "旋转底部短小的红色和黄色方块，使黑色阶梯失去下方支撑。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在底部计数器持续下降时，把高大的红色拐角长条和内侧黄色方块列停在原位。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "等黑色台阶开始坍塌，把搁板打开到足以让高大的黄色方块列向下滑落。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用新的缺口，把高大的红色长条移离拐角，同时不要困住剩余的黑色方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "先把阶梯清理完。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "等搁板和右侧墙都已铲平时，用高大的黄色和红色长条收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在下层搁板打开前，就试图动用某根高大的拐角长条。",
+        "只盯着右上方的攀爬，而忽视搁板上的计数器。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 16 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 16 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

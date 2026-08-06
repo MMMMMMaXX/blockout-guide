@@ -1,0 +1,93 @@
+{
+  "id": "ko-level-15",
+  "locale": "ko",
+  "levelNumber": 15,
+  "title": "블록 아웃 레벨 15 공략",
+  "summary": "블록 아웃 레벨 15는 목표 모서리 쌍둥이 탑 퍼즐입니다. 오른쪽 노란색 차선을 열고, 아래쪽 모서리 목표가 나갈 때까지 가운데 막대를 회전시킨 뒤, 그제야 프레임된 위쪽 모서리를 사용하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "블록 아웃 레벨 15는 목표 모서리 쌍둥이 탑 퍼즐입니다. 오른쪽 노란색 차선을 열고, 아래쪽 모서리 목표가 나갈 때까지 가운데 막대를 회전시킨 뒤, 그제야 프레임된 위쪽 모서리를 사용하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 15는 목표 모서리 쌍둥이 탑 퍼즐입니다.",
+          "오른쪽 노란색 차선을 열고, 아래쪽 모서리 목표가 나갈 때까지 가운데 막대를 회전시킨 다음, 그때 가서 프레임된 위쪽 모서리를 쓰세요.",
+          "보드는 파란색, 노란색, 분홍색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "오른쪽 노란색 차선이 사슬을 시작합니다.",
+        "위쪽 프레임 모서리보다 아래쪽 모서리 목표가 먼저 나갑니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "오른쪽 노란색 차선을 열어 가운데 빨간색과 분홍색 블록을 회전시키기 시작하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "가운데 스택이 아래로 작업되는 동안 프레임된 파란색과 노란색 위쪽 모서리를 주차해 두세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "아래쪽 녹색 목표를 먼저 풀고, 아래쪽 노치가 더 이상 붐비지 않을 때 아래쪽 분홍색 목표를 풀세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "새로 생긴 아래쪽 공간을 이용해 가운데 빨간색과 파란색 막대를 분리하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "아래쪽 모서리가 사라지면 프레임된 오른쪽 위 노란색 목표를 풀어주세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "위쪽 왼쪽 프레임된 파란색 목표와 맨 위를 가로지르는 마지막 빨간색 막대로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "아래쪽 목표가 이미 움직이고 있는 상태가 되기 전에 위쪽 모서리 프레임을 쓰는 것.",
+        "오른쪽 노란색 차선을 무시하고 가운데 스택을 제자리에서 회전시키려는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 15 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 15을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

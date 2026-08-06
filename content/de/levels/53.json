@@ -1,0 +1,96 @@
+{
+  "id": "de-level-53",
+  "locale": "de",
+  "levelNumber": 53,
+  "title": "Block Out Level 53 Lösung",
+  "summary": "Block Out Level 53 packs dense Raster mit numbered blau Blöcke bei oben (Zähler '6', '4', '7', '9'), pink Mitte Block acting als pivot, und rot/orange/blau Blöcke filling untere rows. Chokepoint ist pink Mitte Block —...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "Block Out Level 53 packs dense Raster mit numbered blau Blöcke bei oben (Zähler '6', '4', '7', '9'), pink Mitte Block acting als pivot, und rot/orange/blau Blöcke filling untere rows. Chokepoint ist pink Mitte Block — es splits das Spielfeld in half. Räumen unten erste, bewegen pink Block früh zu öffnen mittlere, dann arbeiten numbered Blöcke hinaus durch ihr gates.",
+        "landmarks": [
+          "Block Out Level 53 packs dense Raster mit numbered blau Blöcke bei oben (Zähler '6', '4', '7', '9'), pink Mitte Block acting als pivot, und rot/orange/blau Blöcke filling untere rows.",
+          "Chokepoint ist pink Mitte Block — es splits das Spielfeld in half.",
+          "Räumen unten erste, bewegen pink Block früh zu öffnen mittlere, dann arbeiten numbered Blöcke hinaus durch ihr gates."
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pink Mitte Block ist pivot. Bewegen es als soon als unten ist räumen — es unlocks beide obere und untere sections.",
+        "Numbered blau Blöcke bei oben need multiple Ausgang passes. Räumen sie in Reihenfolge von smallest Zähler zu largest.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen rot horizontal Block bei unten durch sliding es toward rechts Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben orange Blöcke auf links hinaus durch links Ausgang zu öffnen untere linke Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Bewegen pink Mitte Block — dieses ist key pivot dass öffnet access zu beide obere und untere sections."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen gelb Blöcke in Mitte durch links Ausgang jetzt dass pink Block ist gone."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Begin exiting numbered blau Blöcke bei oben durch ihr abgleichend gates, Eröffnungs- mit '6' Blöcke auf links."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen remaining lila und blau Blöcke auf rechts durch rechts Ausgang."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte numbered Blöcke und irgendein remaining Bauteile."
+        }
+      ],
+      "failurePoints": [
+        "Leaving pink Mitte Block in Platz too long — es splits das Spielfeld und prevents beide halves von progressing.",
+        "Versuchen zu Ausgang numbered blau Blöcke bevor unten rows sind räumen, welche jams Pfad."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 53 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 53 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

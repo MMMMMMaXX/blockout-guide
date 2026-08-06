@@ -1,0 +1,103 @@
+{
+  "id": "ru-level-2",
+  "locale": "ru",
+  "levelNumber": 2,
+  "title": "Block Out Level 2 Walkthrough",
+  "summary": "блок Out уровень 2 открывает with красный вверх и жёлтый влево, затем turns в vertical — column cleanup. припаркуйте синий in верхний левый угол, снимите белый и чёрный columns через верхняя полоса, и только выведите синий out последним.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "блок Out уровень 2 открывает with красный вверх и жёлтый влево, затем turns в vertical — column cleanup. припаркуйте синий in верхний левый угол, снимите белый и чёрный columns через верхняя полоса, и только выведите синий out последним.",
+        "landmarks": [
+          "блок Out уровень 2 открывает with красный вверх и жёлтый влево, затем turns в vertical — column cleanup.",
+          "припаркуйте синий in верхний левый угол, снимите белый и чёрный columns через верхняя полоса, и только выведите синий out последним.",
+          "игровое поле mixes Red, Yellow, синий и more.",
+          "открывая layout — сортировка по цвету сетка.",
+          "очистите matched tiles завершите уровень."
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "красный и жёлтый — two открывая очищает.",
+        "синий — brace сначала и выведите блок second.",
+        "If игровое поле feels stuck, look for цвет with cleanest путь и используйте что regain пространство."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Ход 1",
+          "instruction": "переместите красный L — shaped блок вверх через верхний красный выход."
+        },
+        {
+          "order": 2,
+          "title": "Ход 2",
+          "instruction": "толкните жёлтый T — shaped блок влево через yellow боковой выход."
+        },
+        {
+          "order": 3,
+          "title": "Ход 3",
+          "instruction": "сдвиньте синий L в верхний левый угол и оставьте он parked there."
+        },
+        {
+          "order": 4,
+          "title": "Ход 4",
+          "instruction": "поднимите far — right белый столбец и затем поднимите чёрный столбец рядом с он в top — right чёрный выход."
+        },
+        {
+          "order": 5,
+          "title": "Ход 5",
+          "instruction": "потяните высокий средний белый столбец вверх в top — left белый выход как только чёрный угол — освободите."
+        },
+        {
+          "order": 6,
+          "title": "Ход 6",
+          "instruction": "используйте same верхняя полоса удалите оставшийся белая стопка on вправо боковой."
+        },
+        {
+          "order": 7,
+          "title": "Ход 7",
+          "instruction": "отправьте последним чёрный столбец вверх через чёрный выход."
+        },
+        {
+          "order": 8,
+          "title": "Ход 8",
+          "instruction": "завершите by dropping parked синий L синий выход on левая стена."
+        }
+      ],
+      "failurePoints": [
+        "Trying отправьте синий L его выведите до того как белый columns have climbed.",
+        "Ignoring вправо чёрный столбец и lifting белый в blocked угол."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Прохождение и решение уровня 2 Block Out",
+    "description": "Пройдите уровень 2 Block Out по проверенному соответствию поля, со встроенным видео-прохождением, пошаговыми ходами и разбором типичных ошибок."
+  },
+  "updatedAt": "2026-08-03"
+}

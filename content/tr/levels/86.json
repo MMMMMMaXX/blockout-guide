@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-86",
+  "locale": "tr",
+  "levelNumber": 86,
+  "title": "Block Out Seviye 86 Rehberi",
+  "summary": "Block Out Seviye 86 bir Hızlı, compact bulmaca Cde-şekilli tahtadır. Geniş kırmızı blok spans üst, yeşil blok ile asma kilit `3` oturur merkezde-sol, turuncu ve mavi bloklar doldur orta, ve uzun mor sütun runs aşağı righ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out Seviye 86 bir Hızlı, compact bulmaca Cde-şekilli tahtadır. Geniş kırmızı blok spans üst, yeşil blok ile asma kilit `3` oturur merkezde-sol, turuncu ve mavi bloklar doldur orta, ve uzun mor sütun runs aşağı sağ yan. kilidini aç yeşil asma kilit ile temizleyerek üç bloklar ilk (mavi, turuncu, kırmızı), sonra besle mor sütun alt çıkışlardan.",
+        "landmarks": [
+          "Block Out Seviye 86 bir Hızlı, compact bulmaca Cde-şekilli tahtadır.",
+          "Geniş kırmızı blok spans üst, yeşil blok ile asma kilit `3` oturur merkezde-sol, turuncu ve mavi bloklar doldur orta, ve uzun mor sütun runs aşağı sağ yan.",
+          "Kilidini aç yeşil asma kilit ile temizleyerek üç bloklar ilk (mavi, turuncu, kırmızı), sonra besle mor sütun alt çıkışlardan."
+        ],
+        "colors": ["blue", "red", "orange", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle mavi, turuncu, ve kırmızı bloklar ilk ( ki sırada) kilidini aç yeşil asma kilit `3` ile hareket ettir üç.",
+        "Mor sütun sağ gerektirirde alt sıra boş — temizle sarı bloklar önce besleyerek o.",
+        "Bu level sadece 39 saniye — every hareket ettir counts, plan ilk üç temizlenir önce başlayarak."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "It küçük mavi blok merkez yukarı doğru üst çıkışdan — bu ilk temizle yeşil asma kilit (02:57 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır turuncu anahtar blok sol soldan-duvar çıkış — saniye temizle, ve o removes anahtar kapı (02:55)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "It geniş kırmızı blok üst yukarı doğru üst çıkışdan — üçte bir temizle, kilidini açarak yeşil asma kilit `3` (02:52)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kilidi açıldı yeşil blok soldan-duvar çıkış çünkü o şimdi alan kaydır sol (02:49)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle sarı bloklar altda aşağıdan-ok çıkışlar açık şerite için mor sütun (02:46)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle uzun mor sütun sağ aşağı doğru alt çıkışlardan — o en büyük kütle ve takes several passes (02:43–02:34)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kalan küçük yeşil bloklar altda (02:31–02:25)."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir yeşil asma kilit `3` blok önce temizleyerek üç diğer bloklar — o kilitlendi ve değil budge, wasting hareket ettir 39-saniye süre ölçer.",
+        "Bırakarak sarı bloklar alt sırasındada besleyerek mor sütun — sütun cannot pass ve durur mid-besle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 86 Rehberi ve Çözümü",
+    "description": "Block Out seviye 86'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

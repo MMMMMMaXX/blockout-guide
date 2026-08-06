@@ -1,0 +1,97 @@
+{
+  "id": "de-level-47",
+  "locale": "de",
+  "levelNumber": 47,
+  "title": "Block Out Level 47 Lösung",
+  "summary": "Block Out Level 47 hat unique staircase-shaped Spielfeld where linke Seite descends in steps und rechte Seite ist straight Wand. Numbered Zähler `11`, `13`, `9`, und `22` sind eingebettet in staircase. Summit ist misleading —...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "Block Out Level 47 hat unique staircase-shaped Spielfeld where linke Seite descends in steps und rechte Seite ist straight Wand. Numbered Zähler `11`, `13`, `9`, und `22` sind eingebettet in staircase. Summit ist misleading — das Spielfeld öffnet von rechts-Seite Bahn und mittlere von slope. Räumen `9` bei untere linke erste, abziehen mittlere layers, und aufsparen `22` bei untere rechte für letzte.",
+        "landmarks": [
+          "Block Out Level 47 hat unique staircase-shaped Spielfeld where linke Seite descends in steps und rechte Seite ist straight Wand.",
+          "Numbered Zähler `11`, `13`, `9`, und `22` sind eingebettet in staircase.",
+          "Summit ist misleading — das Spielfeld öffnet von rechts-Seite Bahn und mittlere von slope.",
+          "Räumen `9` bei untere linke erste, abziehen mittlere layers, und aufsparen `22` bei untere rechte für letzte."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Summit ist distraction — Level 47 öffnet von rechts-Seite Bahn und mittlere von slope.",
+        "`22` bei untere rechte ist letzte Bauteil. Tu nicht touch es bis mittlere layers sind gone.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen `9` Zähler bei untere linke zu create erste Eröffnungs-."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Öffnen rechts gadget Bahn und untere sein counts."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abziehen staircase von mittlere — `11` und `13` Blöcke — eher als peak."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Behalten obere tip von staircase geparkt bis untere section ist räumen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Drehen untere colored Bauteile durch geöffnet pockets."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Reduce `22` Zähler bei untere rechte nur nach mittlere ist mostly gone."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit obere staircase tip und letzte Seite cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Eröffnungs- bei very oben von staircase, welche behält untere lanes clogged und verschwendet nur useful ansteuern.",
+        "Versuchen zu reduce `22` Zähler bevor mittlere layers (`11` und `13`) sind gone, welche lässt kein Raum für heavy Bauteil zu bewegen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 47 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 47 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

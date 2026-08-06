@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-30",
+  "locale": "ja",
+  "levelNumber": 30,
+  "title": "ブロックアウト レベル30 攻略",
+  "summary": "ブロックアウト レベル30は、『11』のカウンターを持つ背の高い枠付きのボス列を中心としたＬ字型の部屋です。塔の根元に詰まった赤・白・黒のブロックをまず片付けてカウンターを下げ、塔は",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "ブロックアウト レベル30は、『11』のカウンターを持つ背の高い枠付きのボス列を中心としたＬ字型の部屋です。塔の根元に詰まった赤・白・黒のブロックをまず片付けてカウンターを下げ、塔は『2』付近まで落ちたときにのみ崩れます。列が落下した後、第2波として緑・赤・白のブロックが穴の内側からあふれ出し、独自の分離フェーズが必要になります。",
+        "landmarks": [
+          "ブロックアウト レベル 30 Ｌ字型 周りを ボス 列 `11` カウンター.。",
+          "赤、白、黒 詰まった 周りを 塔 台座 消去し カウンター 下、塔、周りを `2`.。",
+          "列、緑、赤、白 縦穴、を必要として分離 .。"
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "ボス カウンター、塔 — カウンター `5`、台座 必要とし 進める.。",
+        "緑出口を通して下 中央、使う 左の壁 出口 塊.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて左に、-側 赤 の方へ 左の壁 出口 作る 隙間 塔 台座.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "手順 白 中央の 台座 開く レーン 間 塔、右側の赤 塊.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を消去して右側の赤、黒 作り 手順、ボス カウンター 落とす ピース.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "カウンター `2`、を出して列 崩す — 緑、白 台座 エリア.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を分離して現し 緑、を通して下-中央 緑 出口 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて左の壁 出口 白、赤 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて赤 塔、縦穴、台座 .。"
+        }
+      ],
+      "failurePoints": [
+        "無理に動かす ボス 列 下 台座 エリア 詰まった 赤、白 — カウンター 手順 レーン 台座 .。",
+        "緑のを無視して下-中央 出口 左の壁 出口 塊、交通 区画.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル30 攻略と解説",
+    "description": "ブロックアウト レベル30 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

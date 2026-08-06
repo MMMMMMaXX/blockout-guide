@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-10",
+  "locale": "ko",
+  "levelNumber": 10,
+  "title": "블록 아웃 레벨 10 공략",
+  "summary": "블록 아웃 레벨 10은 단순한 색상을 거대한 숫자 판으로 바꾼 버전입니다. 위쪽 흰색 차단 블록을 치우고, 노란색 타일을 오른쪽 복도를 따라 아래로 벗겨낸 뒤, 그제야 큰 청록색 블록들이 가운데로 폭포처럼 흐르게 하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "블록 아웃 레벨 10은 단순한 색상을 거대한 숫자 판으로 바꾼 버전입니다. 위쪽 흰색 차단 블록을 치우고, 노란색 타일을 오른쪽 복도를 따라 아래로 벗겨낸 뒤, 그제야 큰 청록색 블록들이 가운데로 폭포처럼 흐르게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 10은 단순한 색상을 거대한 숫자 판으로 바꾼 버전입니다.",
+          "위쪽 흰색 차단 블록을 제거하고, 노란색 타일을 오른쪽 통로를 따라 아래로 벗겨낸 다음, 그 후에야 큰 청록색 블록들이 중앙으로 계단식으로 흐르게 하세요.",
+          "보드는 청록색, 흰색, 검은색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "위쪽 흰색 출구가 첫 번째 깔끔한 동작입니다.",
+        "노란색 숫자 열은 청록색 판이 움직이기 전에 줄여야 하는 쐐기입니다.",
+        "보드가 막힌 듯하면 가장 깨끗한 경로를 가진 색상을 찾아 공간을 확보하세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "오른쪽 위 흰색 차단 블록을 흰색 출구로 위로 보내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "첫 노란색 숫자 타일을 오른쪽 복도를 따라 아래로 벗겨 위쪽 검은색 차단 블록이 움직이게 하세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "청록색 게이트가 큰 판들이 움직일 만큼 열릴 때까지 노란색 타일과 검은색 차단 블록을 번갈아 가며 계속 벗겨내세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "복도가 비워지면서 청록색 직사각형들을 단계적으로 아래로 밀어 `22/21/19` 묶음을 아래쪽 배치로 바꾸세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "오른쪽 열이 더 이상 막히지 않으면 가운데 흰색 블록을 빨간색 차선으로 당기고, 남은 노란색 숫자 타일을 오른쪽 아래 마감으로 빼세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "새로 생긴 가운데 공간을 이용해 마지막 청록색 판들을 빨간색과 파란색 마감 막대에서 분리하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "마지막 청록색 블록이 이미 나간 뒤, 짧은 분홍색·파란색·빨간색 막대로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "오른쪽 복도를 먼저 줄이는 대신 큰 청록색 블록을 시작 동작으로 다루는 것.",
+        "검은색 차단 블록이 여전히 회전해야 하는데 노란색 숫자 타일을 오른쪽에 쌓아두는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 10 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 10을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

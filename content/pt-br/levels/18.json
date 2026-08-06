@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-18",
+  "locale": "pt-br",
+  "levelNumber": 18,
+  "title": "Guia do nível 18 do Block Out",
+  "summary": "Block Out Nível 18 é double-moldura quebra-cabeça ao redor ciano `14/11` par. Descasque lateral ladders e contadores primeiro, mantenha centro blocos juntos até trilhos são thinner, e termine através verde superior roteie.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "Block Out Nível 18 é double-moldura quebra-cabeça ao redor ciano `14/11` par. Descasque lateral ladders e contadores primeiro, mantenha centro blocos juntos até trilhos são thinner, e termine através verde superior roteie.",
+        "landmarks": [
+          "O nível 18 do Block Out é um quebra-cabeça de moldura dupla em torno de um par ciano `14/11`.",
+          "Descasque lateral ladders e contadores primeiro, mantenha centro blocos juntos até trilhos são thinner, e termine através verde superior roteie.",
+          "Tabuleiro mistura Ciano, Rosa, Azul e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abra trilhos antes que você divida centro par.",
+        "Verde superior termine é tarde roteie, não primeiro roteie.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova direita branco-e-preto escada so lateral contadores comece caindo."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deixe ciano `14` tampa e ciano `11` centerpiece estacionado enquanto moldura ao redor os loosens."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mirror que limpeza em esquerda lateral uma vez primeiro escada tem aberto suficiente espaço."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Separar ciano `14` tampa de `11` bloco único depois ambos lateral trilhos tem narrowed."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use liberado superior pista para descasque longe azul e rosa colunas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Mova `11` bloco depois externo trilhos são já fino."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com verde superior roteie e último lateral leftovers."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para divida `14/11` par antes que trilhos são abra.",
+        "Usando superior rosa colunas como cedo movers em vez de tarde limpeza."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 18 do Block Out",
+    "description": "Resolva o nível 18 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

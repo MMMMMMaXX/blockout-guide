@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-113",
+  "locale": "ja",
+  "levelNumber": 113,
+  "title": "ブロックアウト レベル113 攻略",
+  "summary": "ブロックアウト レベル113は3つの部屋を縦に積み重ね、その間の狭い首が1車線のエアロックとして働きます。上部の青バーカウンターは「7」から「1」へ刻み、上部の部屋の進行を追跡し、中央の首は一度に…しか通しません。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/113/",
+        "layout": "ブロックアウト レベル113は3つの部屋を縦に積み重ね、その間の狭い首が1車線のエアロックとして働きます。上部の青バーカウンターは「7」から「1」へ刻み、上部の部屋の進行を追跡し、中央の首は一度に1ピースしか通しません。黄の1×3バーを早く回転させると、下部の部屋への唯一の経路が封じられます。",
+        "landmarks": [
+          "ブロックアウト レベル 113 積み 部屋 首 間 -レーン .。",
+          "上 青 棒 カウンター `7` 下 `1`、上の-部屋、中央の 首 通し ピース .。",
+          "黄のを回転させて1×3 棒、下の 部屋.。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U_6NFrNRpeI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=U_6NFrNRpeI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央の 首 レーン — 配置する .。",
+        "上 青 棒 カウンター、黄 1×3 手順、下 `4`.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "オレンジのをスライドさせて1×2 ポリオミノ 下へ 中央の 首 開始 上の `7` 部屋.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄のを保持して1×3、上 青 棒 カウンター `7` `4`.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "黄のを通して1×3 首、上の 紫 `7` ブロック 行.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を落として上の-部屋 首 側 `7` 開く.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "緑のＬ字型ピースと青のＬ字型の塊を首を通って下部の「1」の部屋へ送り込みます。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して下の 紫 `1` ブロック 側 `3`、`4`、出口 赤の字型-ピース 下.。"
+        }
+      ],
+      "failurePoints": [
+        "黄 1×3、上 カウンター 下 `4`、首.。",
+        "下の `1` 部屋、上の `7` ブロック 排出し.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/113/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル113 攻略と解説",
+    "description": "ブロックアウト レベル113 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

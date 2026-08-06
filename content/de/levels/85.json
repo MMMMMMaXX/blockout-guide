@@ -1,0 +1,91 @@
+{
+  "id": "de-level-85",
+  "locale": "de",
+  "levelNumber": 85,
+  "title": "Block Out Level 85 Lösung",
+  "summary": "Block Out Level 85 packs das Spielfeld mit large rot Mitte Block surrounded durch grün, blau, und lila Blöcke, plus special Blöcke mit magnet/trophy 'U' icon dass interact mit adjacent Bauteile. Verklemmen/key Blöcke add sequencing constrain...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/85/",
+        "layout": "Block Out Level 85 packs das Spielfeld mit large rot Mitte Block surrounded durch grün, blau, und lila Blöcke, plus special Blöcke mit magnet/trophy 'U' icon dass interact mit adjacent Bauteile. Verklemmen/key Blöcke add sequencing constraints. Räumen grün Blöcke auf links durch links exits erste, dann blau Blöcke auf rechts, und finally extract large rot Mitte Block once sides sind öffnen.",
+        "landmarks": [
+          "Block Out Level 85 packs das Spielfeld mit large rot Mitte Block surrounded durch grün, blau, und lila Blöcke, plus special Blöcke mit magnet/trophy 'U' icon dass interact mit adjacent Bauteile.",
+          "Verklemmen/key Blöcke add sequencing constraints.",
+          "Räumen grün Blöcke auf links durch links exits erste, dann blau Blöcke auf rechts, und finally extract large rot Mitte Block once sides sind öffnen."
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "acjCQqZtavE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=acjCQqZtavE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Handle special 'U' icon Blöcke früh — sie interact mit adjacent Bauteile unpredictably.",
+        "Räumen sides bevor Mitte — rot Block needs wide lanes.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Extract grün Blöcke auf links durch links exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Ziehen blau Blöcke auf rechts durch rechts Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Handle special 'U' icon Blöcke carefully — sie interact mit adjacent Bauteile."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen verklemmen/key Blöcke zu unlock gated sections."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verschieben large rot Mitte Block durch sein Ausgang once sides sind öffnen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit orange/gelb Blöcke bei unten und remaining lila fragments."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring special 'U' icon Blöcke, welche kann jam adjacent Bauteile unexpectedly.",
+        "Versuchen zu bewegen Mitte rot Block bevor sides sind geräumt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/85/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 85 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 85 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

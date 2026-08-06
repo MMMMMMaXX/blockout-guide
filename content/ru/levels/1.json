@@ -1,0 +1,98 @@
+{
+  "id": "ru-level-1",
+  "locale": "ru",
+  "levelNumber": 1,
+  "title": "Block Out Level 1 Walkthrough",
+  "summary": "блок Out уровень 1 — three — square rotation головоломка. переместите чёрный влево, поднимите белый в верхний правый угол, сдвиньте красный в сторону, и затем позвольте white, black, и красный оставьте in что порядок.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "блок Out уровень 1 — three — square rotation головоломка. переместите чёрный влево, поднимите белый в верхний правый угол, сдвиньте красный в сторону, и затем позвольте white, black, и красный оставьте in что порядок.",
+        "landmarks": [
+          "блок Out уровень 1 — three — square rotation головоломка.",
+          "переместите чёрный влево, поднимите белый в верхний правый угол, сдвиньте красный в сторону, и затем позвольте white, black, и красный оставьте in что порядок.",
+          "игровое поле mixes Red, White, чёрный и more.",
+          "открывая layout — сортировка по цвету сетка.",
+          "очистите matched tiles завершите уровень."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "используйте верхний правый угол as white's parking пространство.",
+        "Do not отправьте красный upward until белый has already crossed влево.",
+        "If игровое поле feels stuck, look for цвет with cleanest путь и используйте что regain пространство."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Ход 1",
+          "instruction": "сдвиньте чёрный квадрат влево чтобы он sits прямо под red верхний выход."
+        },
+        {
+          "order": 2,
+          "title": "Ход 2",
+          "instruction": "поднимите белый квадрат в верхний правый угол."
+        },
+        {
+          "order": 3,
+          "title": "Ход 3",
+          "instruction": "толкните красный квадрат вправо в средняя правая полоса."
+        },
+        {
+          "order": 4,
+          "title": "Ход 4",
+          "instruction": "опустите чёрный квадрат вниз влево боковой until он reaches опустите полоса."
+        },
+        {
+          "order": 5,
+          "title": "Ход 5",
+          "instruction": "переместите белый квадрат через верхний и пропустите он out через белый выход on левая стена."
+        },
+        {
+          "order": 6,
+          "title": "Ход 6",
+          "instruction": "сдвиньте чёрный квадрат вправо на black нижний выход."
+        },
+        {
+          "order": 7,
+          "title": "Ход 7",
+          "instruction": "завершите by moving красный квадрат влево под красный выход и sending он вверх."
+        }
+      ],
+      "failurePoints": [
+        "Trying поднимите красный квадрат до того как белый квадрат has crossed верхний ряд.",
+        "Leaving чёрный in верхний правый угол instead of using он откройте влево столбец."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Прохождение и решение уровня 1 Block Out",
+    "description": "Пройдите уровень 1 Block Out по проверенному соответствию поля, со встроенным видео-прохождением, пошаговыми ходами и разбором типичных ошибок."
+  },
+  "updatedAt": "2026-08-03"
+}

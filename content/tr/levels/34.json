@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-34",
+  "locale": "tr",
+  "levelNumber": 34,
+  "title": "Block Out Seviye 34 Rehberi",
+  "summary": "Block Out Seviye 34 etiketli 'zor Level' ve içerir ikiz-ana blok düzen ile sol `10` ana blok ve sağ `20` ana blok oturarak üstünde shared kırmızı-beyaz-siyah basement. çöz runs üçde aşamalar: temizle basement bringe aşağı her ikisi de...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "Block Out Seviye 34 etiketli 'zor Level' ve içerir ikiz-ana blok düzen ile sol `10` ana blok ve sağ `20` ana blok oturarak üstünde shared kırmızı-beyaz-siyah basement. çöz runs üçde aşamalar: temizle basement bringe aşağı her ikisi de sayaçlar, çökert daha küçük sol kule ilk oluştur alan, sonra kullan ki alan acceleratea sağ kule's çökert. sonra ana bloklar düş altında `9`, gizlendi renkli bloklar — yeşil, sarı, mavi — spill dışarı ve gerektir onların own sorting.",
+        "landmarks": [
+          "Block Out Seviye 34 etiketli 'zor Level' ve içerir ikiz-ana blok düzen ile sol `10` ana blok ve sağ `20` ana blok oturarak üstünde shared kırmızı-beyaz-siyah basement.",
+          "Çöz runs üçde aşamalar: temizle basement bringe aşağı her ikisi de sayaçlar, çökert daha küçük sol kule ilk oluştur alan, sonra kullan ki alan acceleratea sağ kule's çökert.",
+          "Sonra ana bloklar düş altında `9`, gizlendi renkli bloklar — yeşil, sarı, mavi — spill dışarı ve gerektir onların own sorting."
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sol `10` ana blok senin progress gösterge. eğer o hâlâ üstünde `5` ne zaman sağ ana blok reads `17`, basement gerektirir daha fazla sol-yan focus.",
+        "Izle için aşama transition sayaçdan `9` — ki ne zaman gizlendi renkli bloklar başla spilling dışarı odalar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır beyaz bloklar sağ basementda sağ çıkışa ve hareket ettir siyah bloklar dışarı alt okdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan yeşil `5` blok altda-sol erken hareket ettir açık şerite sol odaya."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Continue thinning basement kadar sol `10` ana blok sayaç visibly starts dropping — izle için `7` sol sayaçda."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Focus kalan basement çalış sol yanda böylece `10` ana blok çöker fully önce sağ `20` ana blok düşer altında `17`."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra sol oda boşalır, kullan serbest bırakıldı alan acceleratea sağ `20` ana blok reduction."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sağ ana blok düşer altında `9`, renkli bloklar — yeşil, sarı, mavi — spill dışarı. Sort onları yandan ve alt çıkışlar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son kırmızı basement parçalar ve kalan açığa çıktı renkler sonra her ikisi de odalar boş."
+        }
+      ],
+      "failurePoints": [
+        "Bölerek effort equally arasında her ikisi de ana bloklar başladan — `20` ana blok gerektirir böylece much daha fazla alan ki neither kule reaches critical threshold, ve açığa çıktı bloklar pile yukarı ile nowhere gite.",
+        "Ignoring yeşil `5` blok altda-sol köşe erken hareket ettir, hangi delays açarak şerit sol odaya nere progress matters çoğu."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 34 Rehberi ve Çözümü",
+    "description": "Block Out seviye 34'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

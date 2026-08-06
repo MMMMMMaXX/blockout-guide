@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-34",
+  "locale": "fr",
+  "levelNumber": 34,
+  "title": "Guide Block Out Niveau 34",
+  "summary": "Block Out Niveau 34 est étiqueté 'Hard Niveau' et features twin-boss layout avec gauche `10` boss et droite `20` boss sitting au-dessus shared rouge-blanc-noir basement. résolvez runs dans trois phases: dégagez basement à bring bas les deux...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "Block Out Niveau 34 est étiqueté 'Hard Niveau' et features twin-boss layout avec gauche `10` boss et droite `20` boss sitting au-dessus shared rouge-blanc-noir basement. résolvez runs dans trois phases: dégagez basement à bring bas les deux compteurs, effondrez smaller gauche tour premier à create salle, alors utilisez que espace à accelerate la droite tour's effondrez. Une fois bosses tombe sous `9`, caché blocs colorés — vert, jaune, bleu — se déversent hors et besoin leur own sorting.",
+        "landmarks": [
+          "Block Out Niveau 34 est étiqueté 'Hard Niveau' et features twin-boss layout avec gauche `10` boss et droite `20` boss sitting au-dessus shared rouge-blanc-noir basement.",
+          "Résolvez runs dans trois phases: dégagez basement à bring bas les deux compteurs, effondrez smaller gauche tour premier à create salle, alors utilisez que espace à accelerate la droite tour's effondrez.",
+          "Une fois bosses tombe sous `9`, caché blocs colorés — vert, jaune, bleu — se déversent hors et besoin leur own sorting."
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gauche `10` boss est votre progress meter. Si il est toujours au-dessus `5` quand la droite boss reads `17`, basement needs more gauche-côté focus.",
+        "Regardez pour phase transition autour compteur `9` — que est quand caché blocs colorés commencez spilling hors de chambres.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez les blocs blanc dans la droite basement vers la sortie droite et déplacez les blocs noir hors à travers le bas arrow."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez vert `5` bloc à le bas-gauche comme tôt déplacez à ouvrez voie sous la gauche chambre."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Continue thinning basement jusqu'à la gauche `10` boss compteur visibly starts dropping — regardez pour `7` sur la gauche compteur."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Focus restant basement work sur le côté gauche donc `10` boss collapses fully avant la droite `20` boss tombent sous `17`."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois la gauche chambre empties, utilisez freed espace à accelerate la droite `20` boss reduction."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Comme la droite boss tombe sous `9`, blocs colorés — vert, jaune, bleu — se déversent hors. Sort les à travers côté et bas sorties."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier rouge basement pièces et restant révélé couleurs après les deux chambres sont videz."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort equally entre les deux bosses de commencez — `20` boss needs donc much more salle que neither tour atteint critical threshold, et révélé blocs pile haut avec nowhere à allez.",
+        "Ignoring vert `5` bloc à le bas-gauche coin comme tôt déplacez, qui delays opening voie sous la gauche chambre où progress matters most."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 34",
+    "description": "Résolvez le niveau 34 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

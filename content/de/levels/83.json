@@ -1,0 +1,92 @@
+{
+  "id": "de-level-83",
+  "locale": "de",
+  "levelNumber": 83,
+  "title": "Block Out Level 83 Lösung",
+  "summary": "Block Out Level 83 ist tiered Puzzle mit three distinct sections. Two heavy lila Blöcke (Zähler '12' jede) sitzen in orange frames auf oben tier. Mittlere tier ist packed mit colored Blöcke und verklemmen/key Bauteile. Untere chamber hide...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "Block Out Level 83 ist tiered Puzzle mit three distinct sections. Two heavy lila Blöcke (Zähler '12' jede) sitzen in orange frames auf oben tier. Mittlere tier ist packed mit colored Blöcke und verklemmen/key Bauteile. Untere chamber hides beneath. Räumen mittlere tier's verklemmen-und-key Blöcke erste zu create lanes, dann hinausführen heavy lila Blöcke durch ihr exits, und beenden mit untere chamber.",
+        "landmarks": [
+          "Block Out Level 83 ist tiered Puzzle mit three distinct sections.",
+          "Two heavy lila Blöcke (Zähler '12' jede) sitzen in orange frames auf oben tier.",
+          "Mittlere tier ist packed mit colored Blöcke und verklemmen/key Bauteile.",
+          "Untere chamber hides beneath."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen entire mittlere tier bevor touching lila Blöcke über.",
+        "Untere chamber nur becomes accessible nach mittlere ist mostly empty.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Unlock und räumen verklemmen/key Blöcke in mittlere tier durch Seite exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract colored Blöcke (rot, grün, gelb) von mittlere tier."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin feeding links lila Block (Zähler '12') durch sein Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen rechts lila Block (Zähler '12') once erste hat shrunk enough."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen blau und grün Blöcke flanking untere chamber."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining Bauteile in untere chamber."
+        }
+      ],
+      "failurePoints": [
+        "Touching lila Block bevor mittlere tier hat created lanes — hinausführen stalls immediately.",
+        "Ignoring verklemmen/key sequence in mittlere tier, leaving Blöcke gated und inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 83 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 83 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

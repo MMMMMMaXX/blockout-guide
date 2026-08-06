@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-54",
+  "locale": "zh-cn",
+  "levelNumber": 54,
+  "title": "Block Out 第 54 关通关攻略",
+  "summary": "Block Out 第 54 关是「Hard Level」，有四个紫色 Boss 密室——顶部计数 `3` 和 `11`，底部 `6` 和 `19`。密室紧密堆叠，间隙狭窄。先清理密室之间的小彩色方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out 第 54 关是「Hard Level」，有四个紫色 Boss 密室——顶部计数 `3` 和 `11`，底部 `6` 和 `19`。密室紧密堆叠，间隙狭窄。先清理密室之间的小彩色方块，再排干底部密室，最后处理顶部。最重的 `19` 密室留到周围密室腾出空间后再处理。",
+        "landmarks": [
+          "Block Out 第 54 关是「Hard Level」，有四个紫色 Boss 密室——顶部计数 `3` 和 `11`，底部 `6` 和 `19`。",
+          "密室紧密堆叠，间隙狭窄。",
+          "先清理密室之间的小彩色方块，再排干底部密室，最后处理顶部。",
+          "最重的 `19` 密室留到周围密室腾出空间后再处理。"
+        ],
+        "colors": ["purple", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先清理密室之间的小彩色方块——它们是打开滑动路径的关键。",
+        "`19` 密室是一场马拉松。先清理较小密室以积累空间，再逐步削减它。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "清理左侧黄色方块，打开左上与左下密室之间的间隙。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "移动中央的红/橙方块，打开左、右密室之间的间隙。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "开始排干左下密室（计数 `6`），将其方块经左侧出口滑出。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "处理右下密室（计数 `19`）——在左下密室同时排干时逐步清理它。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "转向上左密室（计数 `3`）——它最轻，应当很快清空。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "以右上密室（计数 `11`）收尾，其他密室排干后它空间最充裕。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "清理滞留在已清空密室之间的任何残余彩色方块。"
+        }
+      ],
+      "failurePoints": [
+        "在处理其他密室前把一个密室完全排干——这会移除滑动墙，导致剩余密室堵塞。",
+        "在周围空间仍拥挤时就处理 `19` 密室——它需要空间来腾挪。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 54 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 54 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

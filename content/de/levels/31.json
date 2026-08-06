@@ -1,0 +1,98 @@
+{
+  "id": "de-level-31",
+  "locale": "de",
+  "levelNumber": 31,
+  "title": "Block Out Level 31 Lösung",
+  "summary": "Block Out Level 31 ist numbered-cascade Spielfeld where türkis slabs labeled `5`, `9`, `10`, und `13` sind gestapelt von oben zu unten und pinned in Platz durch weiß und schwarz vertikal bars. Slabs muss lassen in ascending Reihenfolge — `5` erste, `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "Block Out Level 31 ist numbered-cascade Spielfeld where türkis slabs labeled `5`, `9`, `10`, und `13` sind gestapelt von oben zu unten und pinned in Platz durch weiß und schwarz vertikal bars. Slabs muss lassen in ascending Reihenfolge — `5` erste, `13` letzte — und vertikal bars zwischen sie sind erste things zu abziehen, weil sie sind nur way zu unlock jede slab in sequence.",
+        "landmarks": [
+          "Block Out Level 31 ist numbered-cascade Spielfeld where türkis slabs labeled `5`, `9`, `10`, und `13` sind gestapelt von oben zu unten und pinned in Platz durch weiß und schwarz vertikal bars.",
+          "Slabs muss lassen in ascending Reihenfolge — `5` erste, `13` letzte — und vertikal bars zwischen sie sind erste things zu abziehen, weil sie sind nur way zu unlock jede slab in sequence.",
+          "Das Spielfeld mixes Grün, Türkis, Gelb und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Count numbers oben zu unten: wenn slab's number ist higher als one still sitting über es, Reihenfolge ist falsch.",
+        "Vertikal bars sind nicht Hindernisse zu arbeiten around — sie sind erste things zu entfernen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen obere rechte weiß Blöcke und links gelb vertikal Spalte zu create edge Platz."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben grün `5` Block hinaus von obere linke Ecke once oben Reihe öffnet."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden freigegeben oben Reihe zu abziehen schwarz vertikal bars weg von Mitte `9` slab."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verschieben `9` slab once Mitte Bahn öffnet, welche loosens two `10` slabs unterhalb."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Bewegen `10` slabs one bei time — obere one erste — nach Mitte ist räumen enough für ihr width."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Mit `10`s hinaus, unten-Mitte `13` slab finally hat Bahn. Schieben es toward nearest öffnen Ausgang."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch räumend remaining small grün, gelb, und schwarz bar fragments nach alle numbered slabs haben links."
+        }
+      ],
+      "failurePoints": [
+        "Attempting zu bewegen `13` slab bevor `10`s über es haben geräumt — unten-Mitte ist completely blocked bis cascade sequence reaches es.",
+        "Leaving vertikal bars in Platz und Versuchen zu schieben numbered slabs durch narrow remaining gaps, welche stalls das Spielfeld immediately."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 31 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 31 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

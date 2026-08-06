@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-78",
+  "locale": "fr",
+  "levelNumber": 78,
+  "title": "Guide Block Out Niveau 78",
+  "summary": "Block Out Niveau 78 packs large blocs colorés dans rectangular plateau avec dark channel paths constraining movement. supérieur half holds large vert, bleu, et blocs rouge. abaissez centre a jaune/orange encadré bloc avec compteur...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "Block Out Niveau 78 packs large blocs colorés dans rectangular plateau avec dark channel paths constraining movement. supérieur half holds large vert, bleu, et blocs rouge. abaissez centre a jaune/orange encadré bloc avec compteur '3' flanked par blocs violet. Dégagez supérieur half premier à ouvrez channel routes, extract violet flanking blocs, alors alimentez encadré bloc à travers son sortie trois times.",
+        "landmarks": [
+          "Block Out Niveau 78 packs large blocs colorés dans rectangular plateau avec dark channel paths constraining movement.",
+          "Supérieur half holds large vert, bleu, et blocs rouge.",
+          "Abaissez centre a jaune/orange encadré bloc avec compteur '3' flanked par blocs violet.",
+          "Dégagez supérieur half premier à ouvrez channel routes, extract violet flanking blocs, alors alimentez encadré bloc à travers son sortie trois times."
+        ],
+        "colors": ["green", "blue", "red", "cyan", "yellow", "orange", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez supérieur half completely avant essayant à alimentez compteur '3' bloc.",
+        "Channel paths forcez specific routes — planifiez votre extraction à gardez voies dégagez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Extract les blocs vert de supérieur gauche à travers le haut et gauche sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Tirez les blocs bleu de supérieur droit à travers la sortie droite."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez les blocs rouge de le centre à travers freed supérieur routes."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez les blocs violet flanking abaissez centre à ouvrez voies pour encadré bloc."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez jaune/orange encadré bloc (compteur '3') à travers son sortie trois times."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec restant bloc violet à le bas."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à alimentez compteur '3' bloc avant supérieur half est dégagez — channels jam.",
+        "Laissant violet flanking blocs dans placez pendant attempting à acheminez encadré bloc."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 78",
+    "description": "Résolvez le niveau 78 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

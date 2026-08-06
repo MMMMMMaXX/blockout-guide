@@ -1,0 +1,91 @@
+{
+  "id": "de-level-140",
+  "locale": "de",
+  "levelNumber": 140,
+  "title": "Block Out Level 140 Lösung",
+  "summary": "Block Out Level 140 verwendet four vertikal piston bars als elevators — jede muss abgleichen sein Spalte Farbe in obere Raster bevor central `7` circle startet counting cycles. Pistons nur travel when ihr Farbe matches, also obere Reihe...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "Block Out Level 140 verwendet four vertikal piston bars als elevators — jede muss abgleichen sein Spalte Farbe in obere Raster bevor central `7` circle startet counting cycles. Pistons nur travel when ihr Farbe matches, also obere Reihe's gerichtet Pfeil-Blöcke muss räumen erste zu reveal Ziel Farben. Ausrichten jede piston, dann drain `7` circle für PERFECT räumen.",
+        "landmarks": [
+          "Block Out Level 140 verwendet four vertikal piston bars als elevators — jede muss abgleichen sein Spalte Farbe in obere Raster bevor central `7` circle startet counting cycles.",
+          "Pistons nur travel when ihr Farbe matches, also obere Reihe's gerichtet Pfeil-Blöcke muss räumen erste zu reveal Ziel Farben.",
+          "Ausrichten jede piston, dann drain `7` circle für PERFECT räumen."
+        ],
+        "colors": ["red", "yellow", "blue", "green", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Behalten blau und gelb pistons Level während Eröffnungs- — raising gelb früh splits oben-Reihe 1 pair.",
+        "Räumen rot L-shape mit links/runter Pfeile bevor lowering gelb piston auf rechts.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Anheben rot piston bar zu oben-Reihe rot 2 Block und schieben es runter rot unten-Pfeil zu spend 2 Zähler."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Ausrichten gelb bar mit gelb 1 Kachel und blau bar mit blau 1 Kachel, lowering jede durch sein abgleichend unten-Pfeil."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Anheben grün bar für rechts-Spalte grün Blöcke und spend weiß 3 edge Zähler auf obere rechte entfernen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen obere panel oben Reihe (lila/gelb/blau/grün mit hoch-Pfeile) once alle four obere Zähler hit zero."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben rot L-shape mit links/runter Pfeile durch untere linke Bahn, dann schieben blau vertikal hoch-Pfeil Block durch Mitte corridor."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Untere gelb und lila rechts-Seite Bauteile und spend endgültig central 7 circle für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Raising gelb piston während Schritt 1, splitting oben-Reihe 1 pair und locking central 7 über 3.",
+        "Lowering gelb piston bevor rot L-shape räumt, stranding blau Pfeil-nach-unten- Block bei base."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 140 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 140 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-1",
+  "locale": "zh-cn",
+  "levelNumber": 1,
+  "title": "Block Out 第 1 关通关攻略",
+  "summary": "Block Out 第 1 关是一个三格旋转解谜。先把黑色方块向左移，再把白色方块抬到右上角，将红色方块挪到一旁，最后依次让白色、黑色、红色从出口离开。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "Block Out 第 1 关是一个三格旋转解谜。先把黑色方块向左移，再把白色方块抬到右上角，将红色方块挪到一旁，最后依次让白色、黑色、红色从出口离开。",
+        "landmarks": [
+          "Block Out 第 1 关是一个三格旋转解谜。",
+          "先把黑色方块向左移，再把白色方块抬到右上角，将红色方块挪到一旁，最后依次让白色、黑色、红色从出口离开。",
+          "棋盘上混合了红色、白色、黑色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "把右上角当作白色方块的停靠位。",
+        "在白色方块横穿到左侧之前，不要先把红色方块向上送。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将黑色方块向左滑动，使其正对红色顶部出口的下方。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把白色方块抬到右上角。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "将红色方块向右推入右侧中间的通道。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "让黑色方块沿左侧下落，直到到达底部通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "将白色方块沿顶部横移，并从左侧墙上的白色出口送出。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "把黑色方块向右滑到黑色底部出口上。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "最后把红色方块向左移到底部红色出口下方，并向上送出。"
+        }
+      ],
+      "failurePoints": [
+        "在白色方块横穿顶行之前就试图抬起红色方块。",
+        "把黑色方块留在右上角，而没有用它来打通左侧的列。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 1 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 1 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

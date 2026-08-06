@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-43",
+  "locale": "pt-br",
+  "levelNumber": 43,
+  "title": "Guia do nível 43 do Block Out",
+  "summary": "Block Out Nível 43 é denso tetromino tabuleiro centered em grande azul cruz-shaped bloco que dominates centro-direita e blocos quatro directions em uma vez. Vermelho L-shapes preencha esquerda e inferior areas, verde blocos fica em inferior-direita...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/43/",
+        "layout": "Block Out Nível 43 é denso tetromino tabuleiro centered em grande azul cruz-shaped bloco que dominates centro-direita e blocos quatro directions em uma vez. Vermelho L-shapes preencha esquerda e inferior areas, verde blocos fica em inferior-direita, e amarelo blocos são scattered em centro-esquerda. resolva peels de bordas inward: extraia vermelho L-shapes primeiro, desloque azul cruz uma vez ele tem espaço, então termine verde e amarelo blocos através inferior saídas.",
+        "landmarks": [
+          "Block Out Nível 43 é denso tetromino tabuleiro centered em grande azul cruz-shaped bloco que dominates centro-direita e blocos quatro directions em uma vez.",
+          "Vermelho L-shapes preencha esquerda e inferior areas, verde blocos fica em inferior-direita, e amarelo blocos são scattered em centro-esquerda.",
+          "Resolva peels de bordas inward: extraia vermelho L-shapes primeiro, desloque azul cruz uma vez ele tem espaço, então termine verde e amarelo blocos através inferior saídas."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OlsWS-kJ0KI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OlsWS-kJ0KI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Azul cruz blocos quatro directions em uma vez — do não tente para mova ele até circundante L-shapes são thinned.",
+        "Limpar vermelho L-shapes de esquerda borda primeiro para crie mais espaço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize pequeno peça para fora através superior saída para crie primeiro lacuna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia vermelho L-shaped blocos de esquerda lateral através lateral saídas."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Fino amarelo blocos em centro-esquerda para dê azul cruz espaço para desloque."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Gire azul cruz-shaped bloco uma vez circundante espaço é largo suficiente."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize verde blocos em direção a inferior saída depois cruz tem movido."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar restante vermelho e amarelo fragmentos através disponível saídas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último bloco uma vez tabuleiro é principalmente vazio."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para force azul cruz através estreito lacuna antes que circundante L-shapes são thinned — cruz precisa clearance em múltiplo lados para mova.",
+        "Ignorando esquerda-lateral vermelho L-shapes e inicial de inferior, que deixa centro também apertado para cruz para gire."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/43/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 43 do Block Out",
+    "description": "Resolva o nível 43 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

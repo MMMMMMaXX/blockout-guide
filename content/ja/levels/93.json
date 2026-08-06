@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-93",
+  "locale": "ja",
+  "levelNumber": 93,
+  "title": "ブロックアウト レベル93 攻略",
+  "summary": "ブロックアウト レベル93は、2つの紫の部屋ブロックをＬ字型に配置しています—左にオレンジ枠のカウンター「13」、その下にオレンジ枠のカウンター「8」。赤・青・黄ブロックが「13」の部屋の右に積み重ねられ、青ブロックには…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "ブロックアウト レベル93は、2つの紫の部屋ブロックをＬ字型に配置しています—左にオレンジ枠のカウンター「13」、その下にオレンジ枠のカウンター「8」。赤・青・黄ブロックが「13」の部屋の右に積み重ねられ、青ブロックには鍵付きアイコンがあります。周囲のブロックはまばらで10秒以内に消去でき、真の難所は両方の部屋で必要な合計21回の通過です。",
+        "landmarks": [
+          "ブロックアウト レベル 93 紫 部屋 Ｌ字型 — カウンター `13` オレンジ 枠 左、カウンター `8` オレンジ 枠 下.。",
+          "赤、青、黄 右 `13` 部屋、ロックする/鍵 青 .。",
+          "を消去して10 秒、21 通し 渡り 部屋.。"
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "消去する 10 秒 — 使う `13` 通す レーン 消去する.。",
+        "を消去して緑、シアン 間 部屋、開始 通す.。",
+        "を通して`13` 部屋、.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "赤のを押して上-右 上 右-壁 出口 開く 上の レーン (02:26 動画).。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "鍵を消去して解放する 青 中央の-右 (02:23).。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をスライドさせて解放し 青、黄 右-壁 出口 消去する 右 レーン (02:20).。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して緑、シアン 間 部屋 最も近い 出口 通す (02:17).。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "紫 `13` 部屋 左-壁 出口 — 通し、レーン 消去する (02:14–02:05).。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "色分け `13` 部屋 崩す、届く `8` 部屋' ゾーン (02:05).。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "紫のを通して`8` 部屋 下 出口 — 通し 終える (02:02–01:54).。"
+        }
+      ],
+      "failurePoints": [
+        "を残して緑、シアン 間 部屋 `13` 通す — レーン、カウンター -通す.。",
+        "開始 `8` 部屋 — 配置し 下 `13`、作り、`13`、.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル93 攻略と解説",
+    "description": "ブロックアウト レベル93 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

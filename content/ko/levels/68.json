@@ -1,0 +1,97 @@
+{
+  "id": "ko-level-68",
+  "locale": "ko",
+  "levelNumber": 68,
+  "title": "블록 아웃 레벨 68 공략",
+  "summary": "블록 아웃 레벨 68은(는) 가로 분할 막대로 나뉜 두 개의 챔버를 세로로 쌓은 구조입니다. 윗챔버는 초록색 블록, 큰 파란색 정사각형, 주황색/노란색 조각이 섞여 있고, 아랫챔버는 거대한 보라색 r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "블록 아웃 레벨 68은(는) 가로 분할 막대로 나뉜 두 개의 챔버를 세로로 쌓은 구조입니다. 윗챔버는 초록색 블록, 큰 파란색 정사각형, 주황색/노란색 조각이 섞여 있고, 아랫챔버는 빨간색 프레임에 싸인 카운터 '7' 거대한 보라색 직사각형이 지배합니다. 먼저 윗챔버 전체를 클리어하세요 — 분할 막대는 비워져야 열립니다. 그다음 빨간색 프레임을 벗기고 보라색 블록을 출구로 일곱 번 보내세요.",
+        "landmarks": [
+          "블록 아웃 레벨 68은(는) 가로 분할 막대로 나뉜 두 개의 챔버를 세로로 쌓은 구조입니다.",
+          "윗챔버는 초록색 블록, 큰 파란색 정사각형, 주황색/노란색 조각이 섞여 있습니다.",
+          "아랫챔버는 빨간색 프레임에 싸인 카운터 '7' 거대한 보라색 직사각형이 지배합니다.",
+          "먼저 윗챔버 전체를 클리어하세요. 분할 막대는 비워져야 열립니다."
+        ],
+        "colors": ["초록색", "파란색", "주황색", "노란색", "cyan", "보라색", "빨간색"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "아랫챔버를 건드리기 전에 윗챔버를 완전히 비우세요. 그렇지 않으면 분할 막대가 열리지 않습니다.",
+        "보라색 블록을 출구로 보내기 전에 그 주변의 빨간색 프레임을 벗기세요.",
+        "연쇄 클리어를 염두에 두세요. 가장 좋은 수는 당장의 가장 빠른 매칭이 아니라, 다음 두 수를 만들어주는 수입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "윗챔버 맨 위의 작은 블록을 위쪽 출구로 클리어하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "왼쪽의 초록색 블록을 왼쪽 출구로 뽑아내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "큰 파란색 정사각형 블록을 오른쪽 또는 위쪽 출구로 밀어내세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "윗챔버 아래쪽의 주황색/노란색 블록을 클리어하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "윗챔버가 비워지면 분할 막대가 열립니다. 보라색 블록 주변의 빨간색 프레임을 벗기세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "거대한 보라색 블록(카운터 '7')을 출구로 반복해서 보내 완전히 클리어할 때까지 하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "남은 청록색 옆쪽 조각과 아래 파편으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "윗챔버가 비기 전에 보라색 블록을 움직이려는 것 — 분할 막대가 여전히 닫혀 있습니다.",
+        "보내려 하기 전에 보라색 블록 주변 빨간색 프레임을 벗기는 것을 잊는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 68 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 68을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

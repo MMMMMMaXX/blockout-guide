@@ -1,0 +1,96 @@
+{
+  "id": "es-level-33",
+  "locale": "es",
+  "levelNumber": 33,
+  "title": "Guía de Block Out Nivel 33",
+  "summary": "El nivel 33 de Block Out es un tablero en forma de diamante donde un gran bloque verde en cruz y una densa masa roja se sitúan por encima y por debajo de una concurrida franja central de piezas amarillas, azules, blancas y negras. La forma de diamante hace que la ancha fila central sea el único camino lo bastante grande para que las dos grandes masas de color lo atraviesen, así que la franja debe abrirse primero. Limpia los pequeños bloques de la franja, saca la cruz verde por la salida superior y luego deja que la masa roja se drene por la inferior.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "El nivel 33 de Block Out es un tablero en forma de diamante donde un gran bloque verde en cruz y una densa masa roja se sitúan por encima y por debajo de una concurrida franja central de piezas amarillas, azules, blancas y negras. La forma de diamante hace que la ancha fila central sea el único camino lo bastante grande para que las dos grandes masas de color lo atraviesen, así que la franja debe abrirse primero. Limpia los pequeños bloques de la franja, saca la cruz verde por la salida superior y luego deja que la masa roja se drene por la inferior.",
+        "landmarks": [
+          "El nivel 33 de Block Out es un tablero en forma de diamante donde un gran bloque verde en cruz y una densa masa roja se sitúan por encima y por debajo de una concurrida franja central de piezas amarillas, azules, blancas y negras.",
+          "La forma de diamante hace que la ancha fila central sea el único camino lo bastante grande para que las dos grandes masas de color lo atraviesen, así que la franja debe abrirse primero.",
+          "Limpia los pequeños bloques de la franja, saca la cruz verde por la salida superior y luego deja que la masa roja se drene por la inferior."
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La ancha fila central es la única autopista real: si la franja sigue ocupada, ninguna cuña puede moverse.",
+        "El verde sale antes que el rojo. El bloque en cruz verde debe desocupar el diamante superior antes de que la masa roja pueda empezar a moverse.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Aparta los pequeños bloques amarillos y naranjas de la franja central hacia el borde izquierdo del diamante para empezar a crear un canal."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Desplaza los bloques azules del centro derecho hacia la salida del borde derecho para ensanchar el canal vertical a través de la franja."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Limpia los bloques blancos del borde derecho para abrir por completo el paso central."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Desliza el bloque en cruz verde hacia arriba por el canal abierto y sácalo por el punto de salida superior."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Cuando el bloque verde haya desaparecido, empieza a mover la masa roja hacia arriba desde la sección inferior por el centro ensanchado."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Alimenta los bloques rojos por el punto de salida inferior ahora que la franja central ya no está obstruida."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con los bloques negros restantes en la esquina inferior derecha y cualquier pequeño fragmento de la franja que haya quedado."
+        }
+      ],
+      "failurePoints": [
+        "Intentar empujar el bloque en cruz verde por el centro antes de que la franja esté abierta: el bloque verde es la pieza más grande y necesita un canal completamente despejado.",
+        "Mover la masa roja hacia la salida inferior mientras el bloque verde sigue ocupando el diamante superior, lo que atasca ambas piezas grandes en la fila central."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 33",
+    "description": "Resuelve el nivel 33 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

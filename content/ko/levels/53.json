@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-53",
+  "locale": "ko",
+  "levelNumber": 53,
+  "title": "블록 아웃 레벨 53 공략",
+  "summary": "블록 아웃 레벨 53은 위쪽에 숫자 파란색 블록(카운터 '6', '4', '7', '9'), 피벗 역할을 하는 분홍색 중앙 블록, 그리고 아래쪽 행을 채우는 빨간색/주황색/파란색 블록으로 이루어진 촘촘한 격자가 특징입니다. 병목은 분홍색 중앙 블록입니다 —...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "블록 아웃 레벨 53은 위쪽에 숫자 파란색 블록(카운터 '6', '4', '7', '9'), 피벗 역할을 하는 분홍색 중앙 블록, 그리고 아래쪽 행을 채우는 빨간색/주황색/파란색 블록으로 이루어진 촘촘한 격자가 특징입니다. 병목은 분홍색 중앙 블록입니다 — 보드를 반으로 가릅니다. 먼저 아래를 제거하고, 중앙을 열려면 분홍색 블록을 일찍 옮기세요. 그런 다음 숫자 블록을 해당 출구로 작업하여 빼내세요.",
+        "landmarks": [
+          "블록 아웃 레벨 53은 위쪽에 숫자 파란색 블록(카운터 '6', '4', '7', '9'), 피벗 역할을 하는 분홍색 중앙 블록, 그리고 아래쪽 행을 채우는 빨간색/주황색/파란색 블록으로 이루어진 촘촘한 격자가 특징입니다.",
+          "병목은 분홍색 중앙 블록입니다 — 보드를 반으로 가릅니다.",
+          "먼저 아래를 제거하고, 중앙을 열려면 분홍색 블록을 일찍 옮기세요. 그런 다음 숫자 블록을 해당 출구로 작업하여 빼내세요."
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "분홍색 중앙 블록이 피벗입니다. 아래가 비워지자마자 옮기세요 — 위쪽과 아래쪽 섹션 모두를 잠금 해제합니다.",
+        "위쪽의 숫자 파란색 블록은 여러 번의 출구 통과가 필요합니다. 가장 작은 카운터부터 큰 순으로 제거하세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "아래쪽 빨간색 가로 블록을 오른쪽 출구 쪽으로 밀어 제거하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "왼쪽 주황색 블록을 왼쪽 출구로 옮겨 왼쪽 아래 영역을 여세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "분홍색 중앙 블록을 옮기세요 — 이것이 위쪽과 아래쪽 섹션 모두에 접근을 여는 핵심 피벗입니다."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "분홍색 블록이 사라졌으니 중앙의 노란색 블록을 왼쪽 출구로 제거하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "위쪽 숫자 파란색 블록을 해당 출구로 빼내기 시작하세요. 왼쪽의 '6' 블록부터 시작합니다."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "오른쪽 남은 보라색과 파란색 블록을 오른쪽 출구로 제거하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "마지막 숫자 블록과 남은 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "분홍색 중앙 블록을 너무 오래 그대로 두면 — 보드를 가르며 양쪽 절반의 진척을 막습니다.",
+        "아래쪽 행이 비워지기 전에 숫자 파란색 블록을 빼내려 하면, 경로가 막힙니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 53 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 53을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

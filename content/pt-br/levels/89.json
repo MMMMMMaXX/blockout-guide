@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-89",
+  "locale": "pt-br",
+  "levelNumber": 89,
+  "title": "Guia do nível 89 do Block Out",
+  "summary": "Block Out Nível 89 abre com misto superior prateleira sobre dois empilhado câmaras. Remova que prateleira primeiro, escoe `6` câmara próximo, e então limpar keyed esquerda pista mais laranja colunas antes que `11` câmara dá caminho para vermelho T-shap...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out Nível 89 abre com misto superior prateleira sobre dois empilhado câmaras. Remova que prateleira primeiro, escoe `6` câmara próximo, e então limpar keyed esquerda pista mais laranja colunas antes que `11` câmara dá caminho para vermelho T-shaped endgame.",
+        "landmarks": [
+          "Block Out Nível 89 abre com misto superior prateleira sobre dois empilhado câmaras.",
+          "Remova que prateleira primeiro, escoe `6` câmara próximo, e então limpar keyed esquerda pista mais laranja colunas antes que `11` câmara dá caminho para vermelho T-shaped endgame.",
+          "Tabuleiro mistura Roxo, Verde, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Se superior prateleira ainda tem ao vivo azul ou verde peças, `11` câmara é não ready.",
+        "Keyed amarelo pista em esquerda matters mais do que raw `11` contagem.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova misto tiras em superior prateleira, especially azul fileira e verde bloco em superior-direita."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Comece encolhendo superior `6` câmara único depois superior prateleira tem stopped alimentando bloqueadores para baixo."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deixe inferior `11` câmara alone até `6` câmara é quase indo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Depois superior câmara abre tabuleiro, limpar keyed amarelo pista em esquerda e shorten laranja colunas ao redor centro."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe `11` câmara colapse único quando vermelho T-forma e dois azul pools underneath ele tem espaço para separar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com vermelho T-peça, último laranja coluna, e restante amarelo L-bloco perto inferior-esquerda canto."
+        }
+      ],
+      "failurePoints": [
+        "Tocando `11` câmara enquanto superior prateleira ainda tem ao vivo azul ou verde tráfego.",
+        "Ignorando keyed esquerda pista e tentando para brute-force inferior metade depois `6` câmara abre."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 89 do Block Out",
+    "description": "Resolva o nível 89 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

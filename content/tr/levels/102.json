@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-102",
+  "locale": "tr",
+  "levelNumber": 102,
+  "title": "Block Out Seviye 102 Rehberi",
+  "summary": "Block Out Seviye 102 flips usual formula — yerine kaydırarak bloklar dışarı, sen're yerleştirerek onları . boş main ızgara oturur üstünde alt inventory L-şekiller ve 2×2 kümeler, ve adım sayaç izler her transfer. bulmaca ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out Seviye 102 flips usual formula — yerine kaydırarak bloklar dışarı, sen're yerleştirerek onları . boş main ızgara oturur üstünde alt inventory L-şekiller ve 2×2 kümeler, ve adım sayaç izler her transfer. bulmaca spatial: sığarak every parça cleanly olmadan engelleyerek orta sütun, nere bir misplaced yeşil `1` karo ebilir mühürle tahta.",
+        "landmarks": [
+          "Block Out Seviye 102 flips usual formula — yerine kaydırarak bloklar dışarı, sen're yerleştirerek onları .",
+          "Boş main ızgara oturur üstünde alt inventory L-şekiller ve 2×2 kümeler, ve adım sayaç izler her transfer.",
+          "Bulmaca spatial: sığarak every parça cleanly olmadan engelleyerek orta sütun, nere bir misplaced yeşil `1` karo ebilir mühürle tahta."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tut merkez sütun boş kadar highlighted yeşil `1` parça placed.",
+        "Izle adım sayaç — sen meli ulaş adım 6 önce daha düşük yarı fully sıkıştırılmış.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Düşür ilk alt-tepşi küme üst-sol main çerçeve açık runa (adım 1)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Yerleştir sonraki iki kümeler üst sıradan böylece merkez sütun kalır boş."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir highlighted yeşil `1` parça açık merkez sütundan önce doldurarak daha düşük yarı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Transfer mid-run L-şekiller sola ve sağ daha düşük köşeler böylece onlar değil geç merkez şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yerleştir kalan camgöbeği ve mor çiftler alt sıradan main çerçeve."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle son iki-blok grupla alt tepşiden bitir adım-11 completion."
+        }
+      ],
+      "failurePoints": [
+        "Doldurarak merkez sütun önce yeşil `1` parça placed — highlighted parça sonra hayır aşağı doğru yol.",
+        "Dropping geç L-şekiller orta ızgaraya yerine daha düşük köşeler, hangi bloklar son placements."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 102 Rehberi ve Çözümü",
+    "description": "Block Out seviye 102'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

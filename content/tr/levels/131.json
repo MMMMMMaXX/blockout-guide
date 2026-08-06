@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-131",
+  "locale": "tr",
+  "levelNumber": 131,
+  "title": "Block Out Seviye 131 Rehberi",
+  "summary": "Block Out Seviye 131 wraps figure-8 çerçeve merkezden turuncu `5` kapı, ile mavi sol-oklar, kırmızı sağ-oklar, ve sarı aşağı-oklar marking sadece legal çıkış şeritler. daha düşük-sol mavi `2` mühürle ve üst kırmızı `3` blok compete f...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "Block Out Seviye 131 wraps figure-8 çerçeve merkezden turuncu `5` kapı, ile mavi sol-oklar, kırmızı sağ-oklar, ve sarı aşağı-oklar marking sadece legal çıkış şeritler. daha düşük-sol mavi `2` mühürle ve üst kırmızı `3` blok compete için aynı koridor — kaydır kırmızı `3` açığa çıktı daha düşük-sol şerit çok erken ve `5` kapı loses onun sadece incoming yol.",
+        "landmarks": [
+          "Block Out Seviye 131 wraps figure-8 çerçeve merkezden turuncu `5` kapı, ile mavi sol-oklar, kırmızı sağ-oklar, ve sarı aşağı-oklar marking sadece legal çıkış şeritler.",
+          "Daha düşük-sol mavi `2` mühürle ve üst kırmızı `3` blok compete için aynı koridor — kaydır kırmızı `3` açığa çıktı daha düşük-sol şerit çok erken ve `5` kapı loses onun sadece incoming yol.",
+          "Tahta sarı, yeşil, mavi ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["yellow", "green", "blue", "red", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Besle mavi-yıldız küme sol okdan önce 3 sayaç düşer bele.",
+        "Sakla kırmızı L-küme için sağ-ok şerit kadar üst oda boş.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst sarı arm sıralar ve harca merkez turuncu 5 kapı olmadan geçerek daha düşük-sol 2 seals."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır daha düşük-sol mavi-yıldız küme mavi soldan-ok şerit sırasında bel hâlâ dar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır merkez mor koridor düşür kırmızı 3 sayaç blok bele açarak."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle daha düşük-sol kırmızı L-küme kırmızı sağdan-ok şerit sonra üst oda boşalır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır kalan yeşil dikey istifler sarı aşağı doğru-ok çıkış altda merkez."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle son sarı, mavi, ve mor artıklar alt Lde-cep için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Dokunarak daha düşük-sol 2 seals önce merkez 5 kapı temizlenir, locking bel.",
+        "Göndererek kırmızı L-küme sağ okdan önce üst oda boşalır, engelleyerek aşağı doğru çıkış."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 131 Rehberi ve Çözümü",
+    "description": "Block Out seviye 131'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

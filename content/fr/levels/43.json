@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-43",
+  "locale": "fr",
+  "levelNumber": 43,
+  "title": "Guide Block Out Niveau 43",
+  "summary": "Block Out Niveau 43 est dense tetromino plateau centered sur large bleu croisez-shaped bloc que dominates le centre-droite et blocs four directions à une fois. Rouge L-shapes fill la gauche et abaissez areas, blocs vert restez dans inférieur droit...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/43/",
+        "layout": "Block Out Niveau 43 est dense tetromino plateau centered sur large bleu croisez-shaped bloc que dominates le centre-droite et blocs four directions à une fois. Rouge L-shapes fill la gauche et abaissez areas, blocs vert restez dans inférieur droit, et blocs jaune sont scattered dans le centre-gauche. résolvez peels de bords inward: extract le L rouge-shapes premier, décalez bleu croisez une fois il a salle, alors terminez vert et blocs jaune à travers le bas sorties.",
+        "landmarks": [
+          "Block Out Niveau 43 est dense tetromino plateau centered sur large bleu croisez-shaped bloc que dominates le centre-droite et blocs four directions à une fois.",
+          "Rouge L-shapes fill la gauche et abaissez areas, blocs vert restez dans inférieur droit, et blocs jaune sont scattered dans le centre-gauche.",
+          "Résolvez peels de bords inward: extract le L rouge-shapes premier, décalez bleu croisez une fois il a salle, alors terminez vert et blocs jaune à travers le bas sorties."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OlsWS-kJ0KI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OlsWS-kJ0KI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Bleu croisez blocs four directions à une fois — pas try à déplacez il jusqu'à surrounding L-shapes sont thinned.",
+        "Dégagez le L rouge-shapes de le bord gauche premier à create most salle.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez petit pièce hors à travers la sortie supérieure à create premier gap."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract le L rouge-shaped blocs de le côté gauche à travers côté sorties."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Amincissez les blocs jaune dans le centre-gauche à donnez bleu croisez salle à décalez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Tournez bleu croisez-shaped bloc une fois surrounding espace est large assez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez les blocs vert vers la sortie inférieure après croisez a moved."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez restant rouge et jaune fragments à travers available sorties."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier bloc une fois plateau est mostly videz."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à forcez bleu croisez à travers étroit gap avant surrounding L-shapes sont thinned — croisez needs clearance sur multiple sides à déplacez.",
+        "Ignoring la gauche-côté L rouge-shapes et de départ de le bas, qui leaves le centre too tight pour croisez à tournez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/43/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 43",
+    "description": "Résolvez le niveau 43 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

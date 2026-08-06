@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-142",
+  "locale": "fr",
+  "levelNumber": 142,
+  "title": "Guide Block Out Niveau 142",
+  "summary": "Block Out Niveau 142 est keyhole tour que thins progressively de dense supérieur body à étroit tige, avec fixed `21` vide marqueur verrouillé dans le centre. Trois directional arrow voies — bleu gauche, rouge droite, violet bas — sont onl...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "Block Out Niveau 142 est keyhole tour que thins progressively de dense supérieur body à étroit tige, avec fixed `21` vide marqueur verrouillé dans le centre. Trois directional arrow voies — bleu gauche, rouge droite, violet bas — sont seulement sorties. tour doit shed weight de le haut premier; poussez la droite-côté cyan anneau avant supérieur body thins et `21` vide stays buried sous collapsing blocs.",
+        "landmarks": [
+          "Block Out Niveau 142 est keyhole tour que thins progressively de dense supérieur body à étroit tige, avec fixed `21` vide marqueur verrouillé dans le centre.",
+          "Trois directional arrow voies — bleu gauche, rouge droite, violet bas — sont seulement sorties.",
+          "Tour doit shed weight de le haut premier; poussez la droite-côté cyan anneau avant supérieur body thins et `21` vide stays buried sous collapsing blocs."
+        ],
+        "colors": ["red", "blue", "yellow", "violet", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Ouvrez bleu gauche voie avant touching la droite pile orange.",
+        "21 vide tuile never coups — dégagez autour il, pas à travers il.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut bleu haut-arrow capuchon et rouge/jaune supérieur bande sans shifting 21 vide tuile."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Alimentez supérieur scraps bas violet bas-arrow voie à ouvrez inférieur gauche sortie bleu."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Pelez la gauche violet/colonne bleu à travers bleu gauche-arrow voie, laissant vide intact."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez la droite orange/pile jaune à travers rouge droite-arrow voie une fois le côté gauche est ouvrez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Cassez cyan anneau autour central bloc jaune dans mid-tour gap."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Glissez restant bleu et orange scraps off abaissez base vers le bas arrow."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Sortie final scattered blocs pour Bloc Hors! dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Opening la droite voie orange avant la gauche voie bleu thins, locking mid-tour stack.",
+        "Essayant à déplacez 21 vide tuile au lieu de de dégagement blocs autour il."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 142",
+    "description": "Résolvez le niveau 142 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

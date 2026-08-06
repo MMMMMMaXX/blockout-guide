@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-5",
+  "locale": "pt-br",
+  "levelNumber": 5,
+  "title": "Guia do nível 5 do Block Out",
+  "summary": "Block Out Nível 5 é apertado checkerboard entre dois vermelho colunas. Remova branco peças para fora através direita saída, deixe preto blocos colapse em escada para inferior-esquerda saída, e salve último vermelho coluna para termine.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/5/",
+        "layout": "Block Out Nível 5 é apertado checkerboard entre dois vermelho colunas. Remova branco peças para fora através direita saída, deixe preto blocos colapse em escada para inferior-esquerda saída, e salve último vermelho coluna para termine.",
+        "landmarks": [
+          "Block Out Nível 5 é apertado checkerboard entre dois vermelho colunas.",
+          "Remova branco peças para fora através direita saída, deixe preto blocos colapse em escada para inferior-esquerda saída, e salve último vermelho coluna para termine.",
+          "Tabuleiro mistura Vermelho, Branco, Preto e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "es-W99zOPd8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=es-W99zOPd8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pense direita-borda branco limpeza primeiro.",
+        "Preto precisa para form escada antes que esquerda saída é útil.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente lowest branco peça em direita borda para fora através branco saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use novo bolso para descasque próximo branco peças em direção a mesmo saída em vez de tocando alto vermelho colunas."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deixe preto peças colapse em inferior-centro escada enquanto centro fileiras são being limpo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez mais de whites são indo, envie inferior preto peças esquerda em preto saída e então puxe higher preto quadrado baixo em mesmo canal."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mantenha vermelho colunas estacionado até branco saída e preto saída são ambos finished com seus tráfego."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine por running restante alto vermelho coluna através limpo superior pista e para fora através esquerda vermelho saída."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando um de alto vermelho colunas antes que preto escada tem formed.",
+        "Usando direita-lateral branco bolso para vermelho movement em vez de gastando ele em another branco saída."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/5/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 5 do Block Out",
+    "description": "Resolva o nível 5 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

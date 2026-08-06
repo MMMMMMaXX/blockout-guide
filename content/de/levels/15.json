@@ -1,0 +1,93 @@
+{
+  "id": "de-level-15",
+  "locale": "de",
+  "levelNumber": 15,
+  "title": "Block Out Level 15 Lösung",
+  "summary": "Block Out Level 15 ist Ziel-Ecke twin-tower Puzzle. Öffnen rechts gelb Bahn, drehen mittlere bars bis untere Ecke targets kann lassen, und nur dann spend framed oben corners.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "Block Out Level 15 ist Ziel-Ecke twin-tower Puzzle. Öffnen rechts gelb Bahn, drehen mittlere bars bis untere Ecke targets kann lassen, und nur dann spend framed oben corners.",
+        "landmarks": [
+          "Block Out Level 15 ist Ziel-Ecke twin-tower Puzzle.",
+          "Öffnen rechts gelb Bahn, drehen mittlere bars bis untere Ecke targets kann lassen, und nur dann spend framed oben corners.",
+          "Das Spielfeld mixes Blau, Gelb, Pink und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rechts gelb Bahn startet Kette.",
+        "Untere Ecke targets lassen bevor obere framed corners.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Öffnen rechts gelb Bahn und verwenden es zu starten rotating mittlere rot und pink Blöcke."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten framed blau und gelb oben corners geparkt while Mitte stapeln arbeitet nach unten."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Freigeben untere grün Ziel erste, dann untere pink Ziel once unten notch ist kein longer crowded."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden new unten Platz zu trennen central rot und blau bars."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Nach untere corners sind gone, freigeben framed obere rechte gelb Ziel."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit framed obere linke blau Ziel und letzte rot bar über oben."
+        }
+      ],
+      "failurePoints": [
+        "Spending oben-Ecke frame bevor untere targets sind bereits moving.",
+        "Ignoring rechts gelb Bahn und Versuchen zu drehen mittlere stapeln in Platz."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 15 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 15 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

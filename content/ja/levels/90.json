@@ -1,0 +1,90 @@
+{
+  "id": "ja-level-90",
+  "locale": "ja",
+  "levelNumber": 90,
+  "title": "ブロックアウト レベル90 攻略",
+  "summary": "ブロックアウト レベル90は、1つの共有される中央の穴を中心に作られたオープントレイの盤面です。その中央の空間を塞がずに最初の黄色の形状を消去し、次に赤の棚、緑の階段、そして後の黄色ブロックを同じ開口部を通って回転させ…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "ブロックアウト レベル90は、1つの共有される中央の穴を中心に作られたオープントレイの盤面です。その中央の空間を塞がずに最初の黄色の形状を消去し、次に赤の棚、緑の階段、そして後の黄色ブロックを同じ開口部を通って回転させ、場が空になるまで続けます。",
+        "landmarks": [
+          "ブロックアウト レベル 90 開く-トレイ 周りを 中央 穴.。",
+          "を消去して黄 塞ぎ 中央の、出す 赤 棚、緑 階段、黄 回転させる 開始、.。",
+          "混ぜる 黄、オレンジ、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["yellow", "orange", "red", "green", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を扱いて中央の トレイ . 配置する .。",
+        "側 出す 交通 上 .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "手順 上の 黄 Ｌ字型、上 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して下の-左 緑 四角、黄 四角 中央 穴.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤 棚 中央の、を回転させて開く 中央、側 壁.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "緑階段を出して、青 - 横切る 中央の 側 出口 残す 消去する.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を取っておきて黄、赤、緑 交通 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて赤の字型-ピース、黄、中央の トレイ .。"
+        }
+      ],
+      "failurePoints": ["下の 角、中央 穴.。", "レベルを扱いて90 経路、開く-トレイ .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル90 攻略と解説",
+    "description": "ブロックアウト レベル90 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

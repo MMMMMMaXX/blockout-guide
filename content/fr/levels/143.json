@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-143",
+  "locale": "fr",
+  "levelNumber": 143,
+  "title": "Guide Block Out Niveau 143",
+  "summary": "Block Out Niveau 143 est dual-plateau feeder — supérieur placement grille drains à travers violet phase compteur dans abaissez jaune-bordered cadre whose central numéro ticks de `17` vers le bas. phase compteur portes speed: chaque mileston...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/143/",
+        "layout": "Block Out Niveau 143 est dual-plateau feeder — supérieur placement grille drains à travers violet phase compteur dans abaissez jaune-bordered cadre whose central numéro ticks de `17` vers le bas. phase compteur portes speed: chaque milestone unlocks suivant batch de pièces pour transfer. Poussez la droite-côté blocs avant compteur atteint son midpoint et abaissez cadre jams avec pièces arriving hors de ordre.",
+        "landmarks": [
+          "Block Out Niveau 143 est dual-plateau feeder — supérieur placement grille drains à travers violet phase compteur dans abaissez jaune-bordered cadre whose central numéro ticks de `17` vers le bas.",
+          "Phase compteur portes speed: chaque milestone unlocks suivant batch de pièces pour transfer.",
+          "Poussez la droite-côté blocs avant compteur atteint son midpoint et abaissez cadre jams avec pièces arriving hors de ordre."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "violet", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "fSHRe5b75Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=fSHRe5b75Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez le milieu 2/1 retirez avant spending la droite-rail 9 compteur.",
+        "Regardez phase box — il doit reach 07 avant abaissez 7 tuile peut être zeroed.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le haut rouge/rangée vert dans supérieur grille utilisant la gauche inventory pièces bleu."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Alimentez supérieur sorties à travers violet phase box comme il cycles 01 → 04."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dépensez la droite-rail 4/2/9 compteurs par routing blocs bas la droite arrow buttons."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Cassez le milieu 2/1 retirez une fois abaissez cadre tombent de 17 vers 7."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez restant bleu amas dans supérieur grille à travers 07 phase."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Acheminez abaissez-cadre scraps à travers vert bas-arrow et droite-arrow voies."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Zero abaissez 7 tuile et dégagez dernier supérieur scraps pour BLOW Hors! terminez."
+        }
+      ],
+      "failurePoints": [
+        "Spending la droite-rail 9 avant 2 tuile dégage, blocking abaissez vert bas-arrow.",
+        "Feeding supérieur grille avant phase box atteint 04, wasting blocs dans le milieu retirez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/143/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 143",
+    "description": "Résolvez le niveau 143 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

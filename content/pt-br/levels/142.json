@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-142",
+  "locale": "pt-br",
+  "levelNumber": 142,
+  "title": "Guia do nível 142 do Block Out",
+  "summary": "O nível 142 do Block Out é uma torre com fechadura que afina progressivamente de um corpo superior denso para um caule estreito, com um marcador de vazio fixo `21` trancado no centro. Três pistas de seta direcional — azul esquerda, vermelha direita, roxa baixo — são as úni...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "O nível 142 do Block Out é uma torre com fechadura que afina progressivamente de um corpo superior denso para um caule estreito, com um marcador de vazio fixo `21` trancado no centro. Três pistas de seta direcional — azul esquerda, vermelha direita, roxa baixo — são as únicas saídas. A torre deve perder peso do topo primeiro; empurre o anel ciano do lado direito antes que o corpo superior afine e o vazio `21` fique enterrado sob blocos em colapso.",
+        "landmarks": [
+          "O nível 142 do Block Out é uma torre com fechadura que afina progressivamente de um corpo superior denso para um caule estreito, com um marcador de vazio fixo `21` trancado no centro.",
+          "Três direcional seta pistas — azul esquerda, vermelho direita, roxo baixo — são único saídas.",
+          "Torre deve shed peso de superior primeiro; empurre direita-lateral ciano anel antes que superior body afina e `21` vazio permanece enterrado debaixo colapsando blocos."
+        ],
+        "colors": ["red", "blue", "yellow", "purple", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abra azul esquerda pista antes que tocando direita laranja empilhe.",
+        "21 vazio peça nunca movimentos — limpar ao redor ele, não através ele.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior azul cima-seta tampa e vermelho/amarelo superior faixa sem deslocando 21 vazio peça."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Alimente superior recortes baixo roxo inferior-seta pista para abra inferior-esquerda azul saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Descasque esquerda roxo/azul coluna através azul esquerda-seta pista, deixando vazio intacto."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar direita laranja/amarelo empilhe através vermelho direita-seta pista uma vez esquerda lateral é abra."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Quebre ciano anel ao redor central amarelo bloco em mid-torre lacuna."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deslize restante azul e laranja recortes off inferior base em direção a inferior seta."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Saída final scattered blocos para Bloco Para fora! limpar."
+        }
+      ],
+      "failurePoints": [
+        "Abertura direita laranja pista antes que esquerda azul pista afina, locking mid-torre empilhe.",
+        "Tentando para mova 21 vazio peça em vez de limpando blocos ao redor ele."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 142 do Block Out",
+    "description": "Resolva o nível 142 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

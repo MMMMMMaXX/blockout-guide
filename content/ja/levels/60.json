@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-60",
+  "locale": "ja",
+  "levelNumber": 60,
+  "title": "ブロックアウト レベル60 攻略",
+  "summary": "ブロックアウト レベル60は、緑・青・赤・緑・青のブロックが繰り返すパターンで5×7グリッドを埋め、上部にオレンジを置いています。密度の高い詰め込みのため、各列は底から上へ空にする必要があります—まず緑の基部を消去し、次に青を…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "ブロックアウト レベル60は、緑・青・赤・緑・青のブロックが繰り返すパターンで5×7グリッドを埋め、上部にオレンジを置いています。密度の高い詰め込みのため、各列は底から上へ空にする必要があります—まず緑の基部を消去し、次に青と赤のブロックを上へ進め、最後にオレンジの最上行で締めくくります。",
+        "landmarks": [
+          "ブロックアウト レベル 60 5×7 緑、青、赤、緑、青、オレンジ.。",
+          "密集した 詰め 意味し 列 下 上 — 消去する 緑 台座、進める 青、赤 上へ、終える オレンジ 上段.。",
+          "混ぜる 緑、青、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["green", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去して下 上 列 — .。",
+        "緑 台座 .、青、赤 上 スライドさせ .。",
+        "盤面が行き詰まったら、最もクリアな経路を持つ色を見つけ、それを使って再びスペースを作りましょう。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して下 緑 の方へ 左 出口 開く 台座.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青のをずらして下の 右 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤のを消去して中央の 右 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "手順 緑 上の-中央の 左 出口.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "消去 青 上の 右 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えてオレンジ 上 上 出口.。"
+        }
+      ],
+      "failurePoints": [
+        "消去 青 ブロック、緑 下、罠 緑 スライドさせ .。",
+        "消去する オレンジ 上段、中央の 開く、詰まり .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル60 攻略と解説",
+    "description": "ブロックアウト レベル60 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

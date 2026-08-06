@@ -1,0 +1,97 @@
+{
+  "id": "ko-level-45",
+  "locale": "ko",
+  "levelNumber": 45,
+  "title": "블록 아웃 레벨 45 공략",
+  "summary": "블록 아웃 레벨 45는 바깥에서 안으로 푸는 퍼즐로, 큰 빨간색, 파란색, 초록색, 노란색 블록으로 된 두꺼운 테두리가 아래쪽 절반의 작은 프레임 목표 블록을 가둡니다. 테두리는 먼저 위와 옆에서 벗겨내야 합니다 — 큰 블록...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "블록 아웃 레벨 45는 바깥에서 안으로 푸는 퍼즐로, 큰 빨간색, 파란색, 초록색, 노란색 블록으로 된 두꺼운 테두리가 아래쪽 절반의 작은 프레임 목표 블록을 가둡니다. 테두리는 먼저 위와 옆에서 벗겨내야 합니다 — 큰 블록이 목표물보다 먼저 나갑니다. 중앙이 열리면 프레임 목표물이 드디어 출구까지 통과할 수 있습니다. 이는 보통의 보스 패턴을 뒤집습니다. 큰 조각이 여는 자이고 작은 조각이 마무리하는 자입니다.",
+        "landmarks": [
+          "블록 아웃 레벨 45는 바깥에서 안으로 푸는 퍼즐로, 큰 빨간색, 파란색, 초록색, 노란색 블록으로 된 두꺼운 테두리가 아래쪽 절반의 작은 프레임 목표 블록을 가둡니다.",
+          "테두리는 먼저 위와 옆에서 벗겨내야 합니다 — 큰 블록이 목표물보다 먼저 나갑니다.",
+          "중앙이 열리면 프레임 목표물이 드디어 출구까지 통과할 수 있습니다.",
+          "이는 보통의 보스 패턴을 뒤집습니다. 큰 조각이 여는 자이고 작은 조각이 마무리하는 자입니다."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "큰 블록은 목표가 아닌 테두리입니다 — 먼저 벗겨내세요.",
+        "프레임 목표물은 중앙에 실제 차선이 생긴 후에야 움직이는 마무리 대상입니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "위쪽 가장자리에서 블록을 빼내어 테두리에 첫 틈을 만드세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "왼쪽 위의 큰 파란색 블록을 왼쪽 출구 쪽으로 옮기세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "다음으로 오른쪽 위의 큰 빨간색 블록을 옮기세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "확보한 위쪽 공간을 사용해 초록색 중앙 블록을 옮기고, 아래 목표물을 위한 차선을 여세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "첫 프레임 목표물을 넓어진 중앙을 통해 회전시켜 출구로 내보내세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "첫 목표물이 사라지고 중앙이 더 넓어지면 두 번째 프레임 목표물을 넣으세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "두 목표물이 모두 나간 후 마지막 테두리 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "테두리가 열리기 전에 프레임 목표물을 옮기려 하면 — 목표물은 큰 블록이 사라진 후에야 존재하는 넓은 중앙 차선이 필요합니다.",
+        "테두리의 한쪽 가장자리만 벗겨내고 반대쪽을 두껍게 남기면, 반대 방향에서 목표물의 경로가 막힙니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 45 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 45을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

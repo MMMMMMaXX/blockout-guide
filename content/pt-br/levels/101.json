@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-101",
+  "locale": "pt-br",
+  "levelNumber": 101,
+  "title": "Guia do nível 101 do Block Out",
+  "summary": "Block Out Nível 101 pares dual alimente câmaras — `9` em superior e `4` abaixo — com patterned lateral empilha que olhe importante mas são actually apenas paredes. real quebra-cabeça é tempo: vermelho baixo-seta peça em inferior bandeja deve espere un...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "Block Out Nível 101 pares dual alimente câmaras — `9` em superior e `4` abaixo — com patterned lateral empilha que olhe importante mas são actually apenas paredes. real quebra-cabeça é tempo: vermelho baixo-seta peça em inferior bandeja deve espere até superior `9` alimente é quase feito antes que ele pode solte através centro pista. Rush seta bloco e ele obtém enterrado debaixo colapsando lateral empilha.",
+        "landmarks": [
+          "Block Out Nível 101 pares dual alimente câmaras — `9` em superior e `4` abaixo — com patterned lateral empilha que olhe importante mas são actually apenas paredes.",
+          "Real quebra-cabeça é tempo: vermelho baixo-seta peça em inferior bandeja deve espere até superior `9` alimente é quase feito antes que ele pode solte através centro pista.",
+          "Rush seta bloco e ele obtém enterrado debaixo colapsando lateral empilha."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimente roxo dotted bloco primeiro para comece superior `9` contador.",
+        "Do não touch vermelho baixo-seta peça até superior câmara é baixo para seu último um ou dois passa.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente roxo dotted bloco de inferior bandeja em superior câmara para comece `9` contador."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque esquerda vermelho cruz-padrão empilhe para baixo so superior alimente pista permanece abra."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar verde e azul bandeja peças em superior câmara uma vez esquerda empilhe afina."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Termine último superior-câmara pass enquanto centro azul seta coluna é ainda vazio."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Solte vermelho baixo-seta bloco através centro pista em inferior `4` câmara."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente restante patterned blocos de direita amarelo/azul empilha para feche inferior contador."
+        }
+      ],
+      "failurePoints": [
+        "Movendo vermelho baixo-seta peça antes que superior câmara é quase finished — ele obtém enterrado debaixo esquerda empilha.",
+        "Limpando direita amarelo empilhe antes que superior alimente pista é estável, que fecha centro solte pista."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 101 do Block Out",
+    "description": "Resolva o nível 101 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-120",
+  "locale": "fr",
+  "levelNumber": 120,
+  "title": "Guide Block Out Niveau 120",
+  "summary": "Block Out Niveau 120 est fast crown-et-bomb plateau où real objectives sont specific marked tuiles — rouge `15` et vert `25` crowns, rouge `23` et jaune `48` bombs — pas generic couleur groupes. cadenas rangée à le bas stays seale...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/120/",
+        "layout": "Block Out Niveau 120 est fast crown-et-bomb plateau où real objectives sont specific marked tuiles — rouge `15` et vert `25` crowns, rouge `23` et jaune `48` bombs — pas generic couleur groupes. cadenas rangée à le bas stays sealed jusqu'à crowns et bombs sont all gone. Detonate hors de ordre et dernier bomb blocs final sortie rouge, one déplacez de PERFECT dégagez.",
+        "landmarks": [
+          "Block Out Niveau 120 est fast crown-et-bomb plateau où real objectives sont specific marked tuiles — rouge `15` et vert `25` crowns, rouge `23` et jaune `48` bombs — pas generic couleur groupes.",
+          "Cadenas rangée à le bas stays sealed jusqu'à crowns et bombs sont all gone.",
+          "Detonate hors de ordre et dernier bomb blocs final sortie rouge, one déplacez de PERFECT dégagez."
+        ],
+        "colors": ["red", "green", "blue", "cyan", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q5ubnDWBJ10",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q5ubnDWBJ10",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez rouge `15` avant vert `25` — crown paire ordre matters pour la gauche-colonne hole.",
+        "Pop les deux jaune `48` bombs avant spending le bas cadenas compteurs.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tap le haut rouge triangle pièce, alors dégagez cyan `4` et bleu `10` bord tuiles."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez le centre crown paire — rouge `15` premier, alors vert `25` — avant touching jaune `60` bricks."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Detonate rouge `23` bomb bloc une fois la gauche-colonne hole opens."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Pop les deux jaune `48` bomb tuiles pendant bleu `8` et cyan `9` haut paire est toujours movable."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez le bas blanc `6` et `4` compteur tuiles à déverrouillez cadenas rangée."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez restant rouge bas scraps pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Detonating jaune `48` bombs après cadenas rangée — one live bomb blocs final sortie rouge.",
+        "Touching jaune `60` bricks avant rouge `15` crown dégage."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/120/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 120",
+    "description": "Résolvez le niveau 120 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

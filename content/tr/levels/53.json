@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-53",
+  "locale": "tr",
+  "levelNumber": 53,
+  "title": "Block Out Seviye 53 Rehberi",
+  "summary": "Block Out Seviye 53 barındırır sıkışık ızgara ile numaralı mavi bloklar üstde (sayaçlar '6', '4', '7', '9'), pembe merkez blok acting pivot, ve kırmızı/turuncu/mavi bloklar doldurarak daha düşük sıralar. chokepoint pembe merkez blok —...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "Block Out Seviye 53 barındırır sıkışık ızgara ile numaralı mavi bloklar üstde (sayaçlar '6', '4', '7', '9'), pembe merkez blok acting pivot, ve kırmızı/turuncu/mavi bloklar doldurarak daha düşük sıralar. chokepoint pembe merkez blok — o splits tahta yarıda. temizle alt ilk, hareket ettir pembe blok erken açık ortaya, sonra çalış numaralı bloklar dışarı onların kapılardan.",
+        "landmarks": [
+          "Block Out Seviye 53 barındırır sıkışık ızgara ile numaralı mavi bloklar üstde (sayaçlar '6', '4', '7', '9'), pembe merkez blok acting pivot, ve kırmızı/turuncu/mavi bloklar doldurarak daha düşük sıralar.",
+          "Chokepoint pembe merkez blok — o splits tahta yarıda.",
+          "Temizle alt ilk, hareket ettir pembe blok erken açık ortaya, sonra çalış numaralı bloklar dışarı onların kapılardan."
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pembe merkez blok pivot. hareket ettir o soon alt temizle — o kilidini açar her ikisi de üst ve daha düşük bölümler.",
+        "Numaralı mavi bloklar üst gerektirde multiple kapı passes. temizle onları sırada smallestdan sayaç en büyük.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle kırmızı yatay blok alt ile kaydırarakda o sağ çıkışa."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır turuncu bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir pembe merkez blok — bu anahtar pivot ki açılır access her ikisi de üst ve daha düşük bölümler."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle sarı bloklar merkezde sol çıkışdan şimdi ki pembe blok gitti."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Başla exiting numaralı mavi bloklar üstde onların eşleştirerek kapılardan, başlayarak ile '6' bloklar solda."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle kalan mor ve mavi bloklar sağda sağ çıkışdan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son numaralı bloklar ve any kalan parçalar."
+        }
+      ],
+      "failurePoints": [
+        "Bırakarak pembe merkez blok yerleştirde çok uzun — o splits tahta ve engelliyor her ikisi de halves progressingden.",
+        "Deneyerek çıkışa numaralı mavi bloklar önce alt sıralar temizle, hangi sıkışır yol."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 53 Rehberi ve Çözümü",
+    "description": "Block Out seviye 53'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

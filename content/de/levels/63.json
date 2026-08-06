@@ -1,0 +1,92 @@
+{
+  "id": "de-level-63",
+  "locale": "de",
+  "levelNumber": 63,
+  "title": "Block Out Level 63 Lösung",
+  "summary": "Block Out Level 63 crams das Spielfeld mit oversized LEGO Blöcke — L-shapes, hoch rectangles, und large Quadrate — alle interlocked mit Zähler numbers hoch zu 11. Eröffnungs- strategy ist edge-abziehen: extract grün Blöcke von obere rechte...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "Block Out Level 63 crams das Spielfeld mit oversized LEGO Blöcke — L-shapes, hoch rectangles, und large Quadrate — alle interlocked mit Zähler numbers hoch zu 11. Eröffnungs- strategy ist edge-abziehen: extract grün Blöcke von obere rechte und gelb '11' Block von obere linke. Once edges thin, interlocked Mitte (rot Quadrat, blau L-shape, lila Blöcke) kann finally sein getrennt. Blau L-Bauteil auf rechte Seite needs meisten clearance und usually lässt letzte.",
+        "landmarks": [
+          "Block Out Level 63 crams das Spielfeld mit oversized LEGO Blöcke — L-shapes, hoch rectangles, und large Quadrate — alle interlocked mit Zähler numbers hoch zu 11.",
+          "Eröffnungs- strategy ist edge-abziehen: extract grün Blöcke von obere rechte und gelb '11' Block von obere linke.",
+          "Once edges thin, interlocked Mitte (rot Quadrat, blau L-shape, lila Blöcke) kann finally sein getrennt.",
+          "Blau L-Bauteil auf rechte Seite needs meisten clearance und usually lässt letzte."
+        ],
+        "colors": ["yellow", "green", "red", "blue", "orange", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Always thin edges bevor touching Mitte — one falsch Mitte bewegen verklemmt das Spielfeld.",
+        "Blau L-shaped Bauteil auf rechte Seite needs meisten clearance und sollte lassen spät.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Ziehen grün Blöcke von obere rechte durch oben Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben gelb '11' Block leftward toward sein Ausgang zu freigeben obere linke."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben orange Blöcke auf links edge runter once obere Ecke öffnet."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Extract rot Quadrat von Mitte-links once enough edge Platz exists."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Ansteuern blau L-shape auf rechte Seite hinaus — es needs meisten clearance."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit remaining lila und türkis Blöcke once Mitte ist öffnen."
+        }
+      ],
+      "failurePoints": [
+        "Moving Mitte Block bevor edges sind thinned — interlocked Bauteile jam instantly.",
+        "Versuchen zu extract blau L-shape früh when dort ist nicht enough vertikal und horizontal Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 63 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 63 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "de-level-42",
+  "locale": "de",
+  "levelNumber": 42,
+  "title": "Block Out Level 42 Lösung",
+  "summary": "Block Out Level 42 ist two-Spalte sorting Puzzle mit kein Bosse oder Geräte. Grün, rot, weiß, und schwarz Blöcke sind gestapelt in two parallel vertikal channels getrennt durch dark Mitte divider, und jede Farbe muss reach sein abgleichend exi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "Block Out Level 42 ist two-Spalte sorting Puzzle mit kein Bosse oder Geräte. Grün, rot, weiß, und schwarz Blöcke sind gestapelt in two parallel vertikal channels getrennt durch dark Mitte divider, und jede Farbe muss reach sein abgleichend Ausgang bei unten. Lösen arbeitet von oben zu unten: abziehen obere Blöcke erste zu create Raum, verschieben weiß Mitte Blöcke zu enable überqueren-Spalte swaps, und sort jede Farbe zu sein Ausgang.",
+        "landmarks": [
+          "Block Out Level 42 ist two-Spalte sorting Puzzle mit kein Bosse oder Geräte.",
+          "Grün, rot, weiß, und schwarz Blöcke sind gestapelt in two parallel vertikal channels getrennt durch dark Mitte divider, und jede Farbe muss reach sein abgleichend Ausgang bei unten.",
+          "Lösen arbeitet von oben zu unten: abziehen obere Blöcke erste zu create Raum, verschieben weiß Mitte Blöcke zu enable überqueren-Spalte swaps, und sort jede Farbe zu sein Ausgang."
+        ],
+        "colors": ["green", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Arbeiten von oben zu unten — untere Blöcke cannot sort bis obere ones haben geräumt ihr Spalte Platz.",
+        "Weiß Mitte Blöcke sind swap enablers, nicht erste Züge.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen Blöcke von oben von one outer Spalte zu create erste gap."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Mirror cleanup auf opposite Spalte zu behalten das Spielfeld balanced."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben weiß Mitte Blöcke zu enable überqueren-Spalte movement."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Sort rot Blöcke toward rot unten Ausgang und grün Blöcke toward grün Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Continue working von oben zu unten, räumend jede Farbe layer in turn."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Behalten Mitte divider öffnen für endgültig überqueren-Spalte swaps."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte Blöcke once beide Spalten sind sorted zu ihr exits."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu verwenden Mitte weiß Blöcke bevor outer Spalten haben thinned — überqueren-Spalte swaps need Raum dass nur exists nach oben layers sind abgezogen.",
+        "Working unten Blöcke bevor oben ist geräumt, welche jams Spalten weil dort ist kein vertikal Raum zu sort."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 42 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 42 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

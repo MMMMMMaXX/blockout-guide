@@ -1,0 +1,98 @@
+{
+  "id": "es-level-22",
+  "locale": "es",
+  "levelNumber": 22,
+  "title": "Guía de Block Out Nivel 22",
+  "summary": "El nivel 22 de Block Out es un rompecabezas de una sola gran sala de jefe en torno a un panel morado `17`. Desmonta primero el techo de damas, deja que el gran panel jefe empiece a caer en segundo lugar y limpia las piezas azul y rosa tardías solo después de que haya desaparecido la tapa.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/22/",
+        "layout": "El nivel 22 de Block Out es un rompecabezas de una sola gran sala de jefe en torno a un panel morado `17`. Desmonta primero el techo de damas, deja que el gran panel jefe empiece a caer en segundo lugar y limpia las piezas azul y rosa tardías solo después de que haya desaparecido la tapa.",
+        "landmarks": [
+          "El nivel 22 de Block Out es un rompecabezas de una sola gran sala de jefe en torno a un panel morado `17`.",
+          "Desmonta primero el techo de damas, deja que el gran panel jefe empiece a caer en segundo lugar y limpia las piezas azul y rosa tardías solo después de que haya desaparecido la tapa.",
+          "El tablero combina morado, negro, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["purple", "black", "white", "red", "blue", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NYVd_MgWuJM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NYVd_MgWuJM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El techo importa más que el jefe al inicio.",
+        "La franja roja derecha forma parte de la limpieza del techo, no es una finalizadora temprana.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Retira el techo de damas superior de izquierda a derecha para que los bloqueadores superiores dejen de sellar la cámara."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mueve la franja roja derecha solo después de que se hayan desplazado los bloques negros circundantes."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Mantén estacionado el panel `17` mientras los contadores laterales y el techo siguen reduciéndose."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Una vez que el techo esté lo suficientemente fino, empieza a drenar el panel jefe `17`."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Usa el carril superior recién abierto para sacar las piezas azul y rosa tardías."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Aplana las columnas cian restantes después de que el valor del jefe sea mucho menor."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina la sala una vez que el panel jefe haya colapsado por completo."
+        }
+      ],
+      "failurePoints": [
+        "Trabajar el panel `17` antes de que se haya abierto el techo.",
+        "Dejar la franja roja derecha enterrada en el techo cuando los bloques negros todavía necesitan moverse."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/22/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 22",
+    "description": "Resuelve el nivel 22 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

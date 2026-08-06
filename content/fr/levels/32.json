@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-32",
+  "locale": "fr",
+  "levelNumber": 32,
+  "title": "Guide Block Out Niveau 32",
+  "summary": "Block Out Niveau 32 est symmetrical cadre-breaking énigme. haut bloc rouge formation shaped like hollow rectangle dominates le centre, held dans placez par cyan `2`-compteur blocs sur les deux sides et jaune `6` capuchon sur haut. résolvez requ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "Block Out Niveau 32 est symmetrical cadre-breaking énigme. haut bloc rouge formation shaped like hollow rectangle dominates le centre, held dans placez par cyan `2`-compteur blocs sur les deux sides et jaune `6` capuchon sur haut. résolvez requires même reduction de les deux flanks: dégagez cyan compteurs premier, pelez outer colonnes rouge, et seulement alors laissez tomber jaune capuchon après rouge structure a déjà loosened.",
+        "landmarks": [
+          "Block Out Niveau 32 est symmetrical cadre-breaking énigme.",
+          "Haut bloc rouge formation shaped like hollow rectangle dominates le centre, held dans placez par cyan `2`-compteur blocs sur les deux sides et jaune `6` capuchon sur haut.",
+          "Résolvez requires même reduction de les deux flanks: dégagez cyan compteurs premier, pelez outer colonnes rouge, et seulement alors laissez tomber jaune capuchon après rouge structure a déjà loosened."
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Regardez symmetry — si one flank de rouge formation looks thicker que autre, equalize avant continuing.",
+        "Jaune `6` capuchon est keystone, pas opener. Il tombent seulement après les colonnes rouge underneath sont thinned.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez la gauche cyan `2`-compteur bloc à ouvrez amincissez voie sur la gauche flank de rouge formation."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Mirror que par dégagement la droite cyan `2`-compteur bloc donc les deux flanks de rouge mass sont exposed."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez peeling outer colonnes rouge de les deux bords maintenant que côté voies exist."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez jaune `6` capuchon à le haut commencez lowering comme les colonnes rouge underneath amincissez hors."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Continue alterné gauche et droite colonne rouge work à gardez formation équilibrées."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Une fois rouge mass est mostly separated, alimentez freed pièces à travers côté sorties et bas jaune arrow."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec jaune capuchon et dernier inner blocs rouge après cadre est broken."
+        }
+      ],
+      "failurePoints": [
+        "Overworking one côté de rouge formation pendant autre stays intact — rouge mass shifts dans mur sur undeveloped côté et verrous plateau.",
+        "Essayant à remove jaune `6` capuchon avant les colonnes rouge underneath ont thinned assez, qui juste reseals le centre."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 32",
+    "description": "Résolvez le niveau 32 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

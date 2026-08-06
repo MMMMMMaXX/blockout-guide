@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-91",
+  "locale": "tr",
+  "levelNumber": 91,
+  "title": "Block Out Seviye 91 Rehberi",
+  "summary": "Block Out Seviye 91 starts ile istiflendi `7` ve `5` odalar, ama gerçek tıka nokta merkez elevator ki appears sonra üst oda küçülür. temizle sıkıştırılmış sol duvar ilk, boşalt `7` oda saniye, ve sonra temiz n...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "Block Out Seviye 91 starts ile istiflendi `7` ve `5` odalar, ama gerçek tıka nokta merkez elevator ki appears sonra üst oda küçülür. temizle sıkıştırılmış sol duvar ilk, boşalt `7` oda saniye, ve sonra temiz numaralı camgöbeği şerit önce son yan parçalar bırak.",
+        "landmarks": [
+          "Block Out Seviye 91 starts ile istiflendi `7` ve `5` odalar, ama gerçek tıka nokta merkez elevator ki appears sonra üst oda küçülür.",
+          "Temizle sıkıştırılmış sol duvar ilk, boşalt `7` oda saniye, ve sonra temiz numaralı camgöbeği şerit önce son yan parçalar bırak.",
+          "Tahta mor, yeşil, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Eğer sol duvar hâlâ kalabalık, `7` oda değil hazır.",
+        "Camgöbeği geri sayım şerit parça ki actually kilitlenir geç game.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Yumuşat sol duvar ile temizleyerek yeşil merdiven ve sarı sütun o."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Serbest küçük kırmızı kare orta böylece merkez milide değil boxed laterda."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla küçülerek üst `7` oda sadece sonra sol duvar lighter."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak merkez elevator açık ve temizle camgöbeği geri sayım şerit ki appears arasında odalar."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle daha düşük `5` oda sonra mili hayır daha uzun engellendi ile sarı ve kırmızı dikey parçalar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile kalan kırmızı ve yeşil yan parçalar sonra orta şerit boş."
+        }
+      ],
+      "failurePoints": [
+        "Küçülerek `7` oda önce sol duvar açıldı enough alan için merkez mili.",
+        "Ignoring camgöbeği geri sayım şerit ve jumping straight `7` oda `5` oda."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 91 Rehberi ve Çözümü",
+    "description": "Block Out seviye 91'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

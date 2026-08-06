@@ -1,0 +1,103 @@
+{
+  "id": "de-level-92",
+  "locale": "de",
+  "levelNumber": 92,
+  "title": "Block Out Level 92 Lösung",
+  "summary": "Block Out Level 92 packs colored Blöcke ( grün L-shape, orange `7` Zähler Block, large rot Quadrat, blau, gelb, und lila Bauteile mit verklemmen/key icons) in obere section while two massive chambers fill untere Spielfeld — coun...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/92/",
+        "layout": "Block Out Level 92 packs colored Blöcke ( grün L-shape, orange `7` Zähler Block, large rot Quadrat, blau, gelb, und lila Bauteile mit verklemmen/key icons) in obere section while two massive chambers fill untere Spielfeld — Zähler `15` in rot frame auf oben, Zähler `10` in orange frame unterhalb. Räumen obere section zu öffnen lanes, hinausführen `15` chamber erste, sort spill, dann hinausführen `10` chamber.",
+        "landmarks": [
+          "Block Out Level 92 packs colored Blöcke ( grün L-shape, orange `7` Zähler Block, large rot Quadrat, blau, gelb, und lila Bauteile mit verklemmen/key icons) in obere section while two massive chambers fill untere Spielfeld — Zähler `15` in rot frame auf oben, Zähler `10` in orange frame unterhalb.",
+          "Räumen obere section zu öffnen lanes, hinausführen `15` chamber erste, sort spill, dann hinausführen `10` chamber.",
+          "Das Spielfeld mixes Grün, Orange, Gelb und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "orange", "yellow", "red", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "C32pAC1HOlo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=C32pAC1HOlo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen obere section als fast als possible — two chamber führt hinaus need alle remaining time.",
+        "Entfernen small türkis und grün Blöcke in border entfernen bevor Eröffnungs- `15` chamber hinausführen.",
+        "Sort spilled Blöcke immediately nach `15` chamber collapses, bevor sie jam `10` chamber Bahn."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben grün L-shaped Block in obere linke durch links-Wand Ausgang zu öffnen erste Bahn (02:54 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Begin feeding orange `7` Block nach oben durch oben Ausgang — seven passes (02:49–02:39)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen verklemmen/key pairs: entfernen key Blöcke zu unlock blau Bauteile neben large rot Quadrat (02:44)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben gelb Block rechts durch rechts-Wand Ausgang, dann extract large rot Quadrat Block von Mitte (02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen small türkis und grün Blöcke in border entfernen zwischen obere und untere zones bevor sie drift in hinausführen Bahn (02:34)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Begin feeding obere chamber (Zähler `15`) durch sein Ausgangs-Bahn — behalten dieses Bahn permanently räumen für fifteen passes (02:29–02:15)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Nach `15` chamber collapses, immediately sort spilled rot, blau, grün, und gelb Blöcke bevor sie Block untere Bahn (02:10)."
+        },
+        {
+          "order": 8,
+          "title": "Zug 8",
+          "instruction": "Hinausführen untere chamber (Zähler `10`) durch unten exits — ten passes zu beenden (02:10–02:00)."
+        }
+      ],
+      "failurePoints": [
+        "Eröffnungs- `15` chamber hinausführen while border entfernen still hat small türkis und grün Blöcke — sie drift in hinausführen Bahn und stall Zähler mittlere-pass.",
+        "Ignoring spilled Blöcke nach `15` chamber collapses — sie jam `10` chamber's Ausgangs-Bahn und force multiple Erholung Züge."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/92/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 92 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 92 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

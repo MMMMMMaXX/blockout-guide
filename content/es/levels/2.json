@@ -1,0 +1,103 @@
+{
+  "id": "es-level-2",
+  "locale": "es",
+  "levelNumber": 2,
+  "title": "Guía de Block Out Nivel 2",
+  "summary": "El nivel 2 de Block Out empieza con el rojo arriba y el amarillo a la izquierda, y luego se convierte en una limpieza de columnas verticales. Estaciona el azul en la esquina superior izquierda, retira las columnas blanca y negra por la zona superior y haz salir el azul solo al final.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "El nivel 2 de Block Out empieza con el rojo arriba y el amarillo a la izquierda, y luego se convierte en una limpieza de columnas verticales. Estaciona el azul en la esquina superior izquierda, retira las columnas blanca y negra por la zona superior y haz salir el azul solo al final.",
+        "landmarks": [
+          "El nivel 2 de Block Out empieza con el rojo arriba y el amarillo a la izquierda, y luego se convierte en una limpieza de columnas verticales.",
+          "Estaciona el azul en la esquina superior izquierda, retira las columnas blanca y negra por la zona superior y haz salir el azul solo al final.",
+          "El tablero combina rojo, amarillo, azul y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El rojo y el amarillo son las dos salidas iniciales.",
+        "El azul es primero un soporte y luego un bloque de salida.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Sube el bloque rojo en forma de L por la salida roja superior."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Empuja el bloque amarillo en forma de T a la izquierda, por la salida lateral amarilla."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Desliza la L azul a la esquina superior izquierda y déjala estacionada ahí."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Sube la columna blanca del extremo derecho y luego eleva la columna negra a su lado hasta la salida negra superior derecha."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Sube la alta columna blanca central hasta la salida blanca superior izquierda cuando la esquina negra esté libre."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Usa la misma zona superior para retirar la pila blanca restante del lado derecho."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Envía la última columna negra hacia arriba por la salida negra."
+        },
+        {
+          "order": 8,
+          "title": "Movimiento 8",
+          "instruction": "Termina soltando la L azul estacionada hasta la salida azul del muro izquierdo."
+        }
+      ],
+      "failurePoints": [
+        "Intentar enviar la L azul a su salida antes de que las columnas blancas hayan subido.",
+        "Ignorar la columna negra derecha y subir el blanco a una esquina bloqueada."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 2",
+    "description": "Resuelve el nivel 2 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

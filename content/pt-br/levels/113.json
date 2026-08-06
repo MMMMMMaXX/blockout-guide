@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-113",
+  "locale": "pt-br",
+  "levelNumber": 113,
+  "title": "Guia do nível 113 do Block Out",
+  "summary": "Block Out Nível 113 empilha três câmaras verticalmente com estreito pescoço entre os que acts como um-pista airlock. superior azul barra contador ticks de `7` baixo para `1`, tracking superior-câmara progresso, e meio pescoço único passa o...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/113/",
+        "layout": "Block Out Nível 113 empilha três câmaras verticalmente com estreito pescoço entre os que acts como um-pista airlock. superior azul barra contador ticks de `7` baixo para `1`, tracking superior-câmara progresso, e meio pescoço único passa um peça em tempo. Gire amarelo 1×3 barra também cedo e ele selos único caminho em inferior câmara.",
+        "landmarks": [
+          "Block Out Nível 113 empilha três câmaras verticalmente com estreito pescoço entre os que acts como um-pista airlock.",
+          "Superior azul barra contador ticks de `7` baixo para `1`, tracking superior-câmara progresso, e meio pescoço único passa um peça em tempo.",
+          "Gire amarelo 1×3 barra também cedo e ele selos único caminho em inferior câmara."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U_6NFrNRpeI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=U_6NFrNRpeI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Meio pescoço é exactly um pista largo — nada pode fica sideways em ele.",
+        "Assista superior azul barra contador; amarelo 1×3 único movimentos uma vez ele solta abaixo `4`.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize laranja 1×2 poliminó para baixo através meio pescoço para comece abertura superior `7` câmara."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Segure amarelo 1×3 horizontal até superior azul barra contador solta de `7` para `4`."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente amarelo 1×3 através pescoço uma vez superior roxo `7` bloco afina para único fileira."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Solte restante superior-câmara debris através pescoço airlock enquanto lateral `7` pads ainda read abra."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Envie verde L-peça e azul L-aglomerado através pescoço em inferior `1` câmara."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar inferior roxo `1` bloco através lateral `3` e `4` pads, então saída vermelho L-peça em inferior."
+        }
+      ],
+      "failurePoints": [
+        "Girando amarelo 1×3 antes que superior contador solta abaixo `4`, que selos pescoço.",
+        "Alimentando inferior `1` câmara antes que superior `7` bloco tem totalmente drained."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/113/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 113 do Block Out",
+    "description": "Resolva o nível 113 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

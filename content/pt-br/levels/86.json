@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-86",
+  "locale": "pt-br",
+  "levelNumber": 86,
+  "title": "Guia do nível 86 do Block Out",
+  "summary": "Block Out Nível 86 é rápido, compact quebra-cabeça em C-shaped tabuleiro. largo vermelho bloco spans superior, verde bloco com cadeado `3` fica em centro-esquerda, laranja e azul blocos preencha meio, e alto roxo coluna corre baixo righ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out Nível 86 é rápido, compact quebra-cabeça em C-shaped tabuleiro. largo vermelho bloco spans superior, verde bloco com cadeado `3` fica em centro-esquerda, laranja e azul blocos preencha meio, e alto roxo coluna corre baixo direita lateral. Desbloqueie verde cadeado por limpando três blocos primeiro (azul, laranja, vermelho), então alimente roxo coluna através inferior saídas.",
+        "landmarks": [
+          "Block Out Nível 86 é rápido, compact quebra-cabeça em C-shaped tabuleiro.",
+          "Largo vermelho bloco spans superior, verde bloco com cadeado `3` fica em centro-esquerda, laranja e azul blocos preencha meio, e alto roxo coluna corre baixo direita lateral.",
+          "Desbloqueie verde cadeado por limpando três blocos primeiro (azul, laranja, vermelho), então alimente roxo coluna através inferior saídas."
+        ],
+        "colors": ["blue", "red", "orange", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar azul, laranja, e vermelho blocos primeiro (em que ordem) para desbloqueie verde cadeado `3` por mova três.",
+        "Roxo coluna em direita precisa inferior fileira vazio — limpar amarelo blocos antes que alimentando ele.",
+        "Este nível é único 39 segundos — cada mova counts, planeje primeiro três limpa antes que inicial."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Empurre pequeno azul bloco em centro para cima através superior saída — este é primeiro limpar em direção a verde cadeado (02:57 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize laranja chave bloco esquerda através esquerda-parede saída — segundo limpar, e ele remove chave saída (02:55)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Empurre largo vermelho bloco em superior para cima através superior saída — third limpar, unlocking verde cadeado `3` (02:52)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar unlocked verde bloco através esquerda-parede saída porque ele agora tem espaço para deslize esquerda (02:49)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar amarelo blocos em inferior através baixo-seta saídas para abra pista para roxo coluna (02:46)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente alto roxo coluna em direita para baixo através inferior saídas — ele é maior massa e takes several passa (02:43–02:34)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com restante pequeno verde blocos em inferior (02:31–02:25)."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova verde cadeado `3` bloco antes que limpando três outro blocos — ele é trancado e will não budge, wasting mova em 39-segundo temporizador.",
+        "Deixando amarelo blocos em inferior enquanto alimentando roxo coluna — coluna não pode pass através e stalls mid-alimente."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 86 do Block Out",
+    "description": "Resolva o nível 86 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

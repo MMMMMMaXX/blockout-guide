@@ -1,0 +1,119 @@
+{
+  "id": "fr-level-497",
+  "locale": "fr",
+  "levelNumber": 497,
+  "title": "Guide Block Out Niveau 497",
+  "summary": "Block Out ! Solution du niveau 497. Regardez la démonstration intégrée pour réussir ce plateau facile.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/497.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/497",
+        "layout": "Le niveau 497 de Block Out débute sur un plateau de tri par couleur facile dominé par des tuiles bleu, violet, jaune, rouge et orange. La disposition de départ exacte et la solution vérifiée sont présentées dans la démonstration intégrée ; comparez votre plateau à la vidéo avant de suivre l'ordre des coups.",
+        "landmarks": [
+          "Le plateau présente principalement des blocs bleu, violet et jaune.",
+          "Les groupes de couleurs doivent être séparés et empilés pour réussir le niveau.",
+          "La démonstration intégrée montre la disposition de départ exacte et l'ordre de la solution."
+        ],
+        "colors": ["blue", "violet", "yellow", "red", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "VDYCx1RbNsg",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=VDYCx1RbNsg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Plateau initial"
+        },
+        {
+          "seconds": 75,
+          "label": "Premières fusions"
+        },
+        {
+          "seconds": 150,
+          "label": "Nettoyage du milieu du plateau"
+        },
+        {
+          "seconds": 220,
+          "label": "Sortie finale"
+        }
+      ],
+      "quickTips": [
+        "Regroupez d'abord les blocs bleu et violet — ils dominent le plateau initial, donc les éliminer tôt libère le plus d'espace.",
+        "Gardez une colonne vide comme tampon jusqu'à ce que vos deux premières fusions soient faites ; c'est le seul endroit sûr pour annuler un mauvais coup.",
+        "Garez les blocs jaune mélangés ou bloqués dans la colonne la plus courte, jamais la plus haute, afin de conserver une voie de sortie dégagée.",
+        "Si deux colonnes partagent la même couleur en haut, fusionnez d'abord la moins risquée et gardez l'autre pour la finale."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Faire correspondre le plateau",
+          "instruction": "Vérifiez que la disposition bleu/violet correspond à la démonstration avant de jouer ; une variante différente implique une solution différente.",
+          "image": "/boards/497.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Éliminer la couleur dominante",
+          "instruction": "Fusionnez d'abord les colonnes bleu pour libérer la plus grande zone du plateau et réduire les pièces à suivre.",
+          "image": "/boards/497.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Ouvrir une voie tampon",
+          "instruction": "Déplacez les blocs violet sur le côté dans une courte colonne afin que les piles mélangées restent séparables et que la voie de sortie reste ouverte.",
+          "image": "/boards/497.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Travailler de haut en bas",
+          "instruction": "Éliminez depuis le haut pour que rien ne se bloque tôt ; gardez la colonne tampon disponible jusqu'à ce que le plateau soit presque vide.",
+          "image": "/boards/497.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Diriger la sortie",
+          "instruction": "Faites sortir les derniers blocs par la même voie que dans la vidéo, dans l'ordre montré par la démonstration.",
+          "image": "/boards/497.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "Fusionner d'abord la colonne la plus haute brûle votre seule voie tampon et piège les blocs inférieurs derrière elle.",
+        "Poursuivre une pile complète de bleu avant de séparer les couleurs mélangées laisse des blocs que vous ne pouvez plus atteindre.",
+        "Démarrer le chrono avant d'avoir fait correspondre le plateau gaspille 8 à 12 secondes de récupération sur un plateau facile.",
+        "Laisser les blocs violet derrière d'autres force un redémarrage que vous auriez pu éviter avec un simple déplacement anticipé."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/497",
+    "https://www.youtube.com/watch?v=VDYCx1RbNsg",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et solution Block Out Niveau 497",
+    "description": "Regardez la solution pas à pas du niveau 497 de Block Out !, comparez les variantes de plateau et passez au niveau suivant ou précédent."
+  },
+  "updatedAt": "2026-08-03"
+}

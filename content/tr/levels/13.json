@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-13",
+  "locale": "tr",
+  "levelNumber": 13,
+  "title": "Block Out Seviye 13 Rehberi",
+  "summary": "Block Out Seviye 13 bir Baskı tahta ile kalabalık sağ duvar ve üst sayaçlardır. Yumuşat sağ şerit ilk, tut üst mavi bant park edildi destek, ve çökert camgöbeği levhalar sadece sonra kırmızı şerit açılır.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "Block Out Seviye 13 bir Baskı tahta ile kalabalık sağ duvar ve üst sayaçlardır. Yumuşat sağ şerit ilk, tut üst mavi bant park edildi destek, ve çökert camgöbeği levhalar sadece sonra kırmızı şerit açılır.",
+        "landmarks": [
+          "Block Out Seviye 13 bir Baskı tahta ile kalabalık sağ duvar ve üst sayaçlardır.",
+          "Yumuşat sağ şerit ilk, tut üst mavi bant park edildi destek, ve çökert camgöbeği levhalar sadece sonra kırmızı şerit açılır.",
+          "Tahta camgöbeği, sarı, mavi ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["cyan", "yellow", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sağ kırmızı şerit matters önce üst mavi bant.",
+        "Camgöbeği levhalar meli hareket ettir sonra sayaçlar, değil önce onları.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle sağ-kenar parçalar kırmızı duvara böylece ufak `1` yan sayaç disappears ilk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut küçülerek üst `3` ve `4` sayaçlar sırasında camgöbeği `10` levha kalır park edildi ortada."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan sarı kemerler köprüye merkez sadece sonradan sağ şerit hayır daha uzun clogged."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Düşür camgöbeği `8` ve `6` levhalar sequenceda böylece orta sıra stops sabitleyerek mavi bant."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak üst mavi bant sonra üst sayaçlar neredeyse exhausted."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile temizleyerek son sarı kemerler ve sonra son camgöbeği `5` levha."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek üst mavi bant önce sağ kırmızı şerit açıldı.",
+        "Deneyerek zorla camgöbeği `10` levha aşağı sırasında üst sayaçlar hâlâ high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 13 Rehberi ve Çözümü",
+    "description": "Block Out seviye 13'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

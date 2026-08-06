@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-62",
+  "locale": "pt-br",
+  "levelNumber": 62,
+  "title": "Guia do nível 62 do Block Out",
+  "summary": "Block Out Nível 62 preenche 5×8 grade com sorriso face blocos em meio (livre-deslizando) e direcional seta blocos em lados — azul esquerda-setas em esquerda, vermelho direita-setas em direita. sorriso blocos pode mova freely, mas ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "Block Out Nível 62 preenche 5×8 grade com sorriso face blocos em meio (livre-deslizando) e direcional seta blocos em lados — azul esquerda-setas em esquerda, vermelho direita-setas em direita. sorriso blocos pode mova freely, mas seta blocos são constrained. Limpar superior e inferior fileiras primeiro, então funciona meio sorriso blocos, e termine com lateral seta blocos.",
+        "landmarks": [
+          "Block Out Nível 62 preenche 5×8 grade com sorriso face blocos em meio (livre-deslizando) e direcional seta blocos em lados — azul esquerda-setas em esquerda, vermelho direita-setas em direita.",
+          "Sorriso blocos pode mova freely, mas seta blocos são constrained.",
+          "Limpar superior e inferior fileiras primeiro, então funciona meio sorriso blocos, e termine com lateral seta blocos."
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sorriso blocos em meio são livre-deslizando — use este freedom para limpar caminhos para direcional seta blocos.",
+        "Limpar superior e inferior fileiras primeiro para dê meio blocos espaço para mova.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior laranja sorriso blocos através superior saída para abra superior seção."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar inferior verde sorriso blocos através inferior saída para abra inferior seção."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece deslizando meio sorriso blocos freely — eles pode mova em qualquer direção."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar azul esquerda-seta blocos em esquerda através esquerda saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar vermelho direita-seta blocos em direita através direita saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante sorriso blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Limpando lateral seta blocos antes que meio sorriso blocos tem espaço — meio blocos obtenha preso.",
+        "Tentando para limpar meio antes que superior e inferior fileiras são abra, que entrava tabuleiro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 62 do Block Out",
+    "description": "Resolva o nível 62 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

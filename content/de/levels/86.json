@@ -1,0 +1,96 @@
+{
+  "id": "de-level-86",
+  "locale": "de",
+  "levelNumber": 86,
+  "title": "Block Out Level 86 Lösung",
+  "summary": "Block Out Level 86 ist fast, compact Puzzle auf C-shaped Spielfeld. Wide rot Block spans oben, grün Block mit padlock `3` sitzt in Mitte-links, orange und blau Blöcke fill mittlere, und hoch lila Spalte runs runter righ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out Level 86 ist fast, compact Puzzle auf C-shaped Spielfeld. Wide rot Block spans oben, grün Block mit padlock `3` sitzt in Mitte-links, orange und blau Blöcke fill mittlere, und hoch lila Spalte runs runter rechte Seite. Unlock grün padlock durch räumend three Blöcke erste (blau, orange, rot), dann hinausführen lila Spalte durch unten exits.",
+        "landmarks": [
+          "Block Out Level 86 ist fast, compact Puzzle auf C-shaped Spielfeld.",
+          "Wide rot Block spans oben, grün Block mit padlock `3` sitzt in Mitte-links, orange und blau Blöcke fill mittlere, und hoch lila Spalte runs runter rechte Seite.",
+          "Unlock grün padlock durch räumend three Blöcke erste (blau, orange, rot), dann hinausführen lila Spalte durch unten exits."
+        ],
+        "colors": ["blue", "red", "orange", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen blau, orange, und rot Blöcke erste (in dass Reihenfolge) zu unlock grün padlock `3` durch bewegen three.",
+        "Lila Spalte auf rechts needs unten Reihe empty — räumen gelb Blöcke bevor feeding es.",
+        "Dieses Level ist nur 39 Sekunden — jede bewegen counts, planen erste three räumt bevor Eröffnungs-."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben small blau Block in Mitte nach oben durch oben Ausgang — dieses ist erste räumen toward grün padlock (02:57 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben orange key Block links durch links-Wand Ausgang — second räumen, und es entfernt key Ausgang (02:55)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben wide rot Block bei oben nach oben durch oben Ausgang — third räumen, unlocking grün padlock `3` (02:52)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen unlocked grün Block durch links-Wand Ausgang weil es jetzt hat Raum zu schieben links (02:49)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen gelb Blöcke bei unten durch Pfeil-nach-unten- exits zu öffnen Bahn für lila Spalte (02:46)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen hoch lila Spalte auf rechts nach unten durch unten exits — es ist largest mass und takes several passes (02:43–02:34)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit remaining small grün Blöcke bei unten (02:31–02:25)."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen grün padlock `3` Block bevor räumend three andere Blöcke — es ist verklemmt und wird nicht budge, wasting bewegen auf 39-second Timer.",
+        "Leaving gelb Blöcke bei unten while feeding lila Spalte — Spalte cannot pass durch und stalls mittlere-hinausführen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 86 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 86 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

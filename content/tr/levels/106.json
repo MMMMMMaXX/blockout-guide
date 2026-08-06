@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-106",
+  "locale": "tr",
+  "levelNumber": 106,
+  "title": "Block Out Seviye 106 Rehberi",
+  "summary": "Block Out Seviye 106 bir Compartment maze nere cep sayaçlar gizle içeri mor duvarlar ve bir-way yukarı doğru-ok şerit runs merkezdendır. Numaralı karolar gerçek objectives, değil labels — her cep meli boşalt önce sonraki...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "Block Out Seviye 106 bir Compartment maze nere cep sayaçlar gizle içeri mor duvarlar ve bir-way yukarı doğru-ok şerit runs merkezdendır. Numaralı karolar gerçek objectives, değil labels — her cep meli boşalt önce sonraki duvar açılır. alt conveyor sıra besler tüm system, ve çekerek o çok erken çöker merkez kanal sırasında üst cepler hâlâ live.",
+        "landmarks": [
+          "Block Out Seviye 106 bir Compartment maze nere cep sayaçlar gizle içeri mor duvarlar ve bir-way yukarı doğru-ok şerit runs merkezdendır.",
+          "Numaralı karolar gerçek objectives, değil labels — her cep meli boşalt önce sonraki duvar açılır.",
+          "Alt conveyor sıra besler tüm system, ve çekerek o çok erken çöker merkez kanal sırasında üst cepler hâlâ live."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Merkez yukarı doğru-ok şerit main besle yönlendir — değil blok o ile alt sıra.",
+        "Wait için sağ-cep kırmızı `1`/`2` çift temizle önce dropping alt conveyor sıra.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır üst-sol yeşil/sarı/mavi küme merkez yukarı doğru-ok şerit."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle camgöbeği `8` ve mavi `10` karolar üst-orta cep."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Soy üst-sağ kırmızı `12` ve `14` istifler sonra merkez kanal fully açık."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan highlighted mavi `4` karo mid-run kilidini aç orta-sol isolated cep."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Düşür alt yatay sıra sadece sonra sağ-cep kırmızı `1` ve `2` karolar gitti."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile alt-tepşi triangle parça ve close sayaçlar `5`, `2`, ve `8`."
+        }
+      ],
+      "failurePoints": [
+        "Çekerek alt conveyor sıra önce sağ-cep kırmızı `1`/`2` çift temizlenir — bu seals maze.",
+        "Rushing sarı `16` karo önce camgöbeği `8` ve mavi `10` cepler boş."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 106 Rehberi ve Çözümü",
+    "description": "Block Out seviye 106'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

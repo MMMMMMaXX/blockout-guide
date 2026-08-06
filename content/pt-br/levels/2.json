@@ -1,0 +1,103 @@
+{
+  "id": "pt-br-level-2",
+  "locale": "pt-br",
+  "levelNumber": 2,
+  "title": "Guia do nível 2 do Block Out",
+  "summary": "Block Out Nível 2 abre com vermelho cima e amarelo esquerda, então gira em vertical-coluna limpeza. Estacione azul em superior-esquerda canto, descasque branco e preto colunas através superior pista, e único dinheiro azul para fora último.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "Block Out Nível 2 abre com vermelho cima e amarelo esquerda, então gira em vertical-coluna limpeza. Estacione azul em superior-esquerda canto, descasque branco e preto colunas através superior pista, e único dinheiro azul para fora último.",
+        "landmarks": [
+          "Block Out Nível 2 abre com vermelho cima e amarelo esquerda, então gira em vertical-coluna limpeza.",
+          "Estacione azul em superior-esquerda canto, descasque branco e preto colunas através superior pista, e único dinheiro azul para fora último.",
+          "Tabuleiro mistura Vermelho, Amarelo, Azul e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vermelho e amarelo são dois abertura limpa.",
+        "Azul é brace primeiro e saída bloco segundo.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Mova vermelho L-shaped bloco cima através superior vermelho saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Empurre amarelo T-shaped bloco esquerda através amarelo lateral saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deslize azul L em superior-esquerda canto e deixe ele estacionado there."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Raise longe-direita branco coluna e então levante preto coluna beside ele em superior-direita preto saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Puxe alto meio branco coluna cima em superior-esquerda branco saída uma vez preto canto é livre."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Use mesmo superior pista para remova restante branco empilhe em direita lateral."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Envie último preto coluna cima através preto saída."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Termine por soltando estacionado azul L para azul saída em esquerda parede."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para envie azul L para seu saída antes que branco colunas tem climbed.",
+        "Ignorando direita preto coluna e lifting branco em blocked canto."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 2 do Block Out",
+    "description": "Resolva o nível 2 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

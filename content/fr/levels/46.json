@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-46",
+  "locale": "fr",
+  "levelNumber": 46,
+  "title": "Guide Block Out Niveau 46",
+  "summary": "Block Out Niveau 46 a trois boss chambres à travers supérieur half — deux smaller ones à `3` chaque et larger one à `10` — all sitting au-dessus packed abaissez chambre de rouge, bleu, vert, jaune, et blocs orange. Drainez abaissez blocs fi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out Niveau 46 a trois boss chambres à travers supérieur half — deux smaller ones à `3` chaque et larger one à `10` — all sitting au-dessus packed abaissez chambre de rouge, bleu, vert, jaune, et blocs orange. Drainez abaissez blocs premier à laissez deux `3` chambres effondrez quickly, alors utilisez freed supérieur espace pour longer `10` reduction.",
+        "landmarks": [
+          "Block Out Niveau 46 a trois boss chambres à travers supérieur half — deux smaller ones à `3` chaque et larger one à `10` — all sitting au-dessus packed abaissez chambre de rouge, bleu, vert, jaune, et blocs orange.",
+          "Drainez abaissez blocs premier à laissez deux `3` chambres effondrez quickly, alors utilisez freed supérieur espace pour longer `10` reduction.",
+          "Le plateau mélange rouge, bleu et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Deux `3` chambres sont fast wins — si ils sont toujours haut quand vous commencez `10`, vous sont working faux partie de plateau.",
+        "Drainez abaissez blocs colorés avant un boss chambre.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Amincissez abaissez blocs colorés vers le bas sorties à commencez reducing all trois boss compteurs."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Laissez deux `3`-count chambres effondrez comme abaissez espace opens."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez `10` chambre garé jusqu'à `3`s sont les deux gone."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez freed supérieur espace à accelerate `10` reduction."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Sort restant blocs colorés à travers côté sorties."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez tardif rouge, bleu, et pièces jaune de abaissez chambre."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier chambre fragments et côté cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort entre all trois chambres de commencez — `10` needs lointain more salle que `3`s, donc rapide wins doit allez premier.",
+        "Pas draining abaissez blocs colorés avant attacking boss chambres, qui leaves non salle pour bosses à effondrez dans."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 46",
+    "description": "Résolvez le niveau 46 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "es-level-35",
+  "locale": "es",
+  "levelNumber": 35,
+  "title": "Guía de Block Out Nivel 35",
+  "summary": "El nivel 35 de Block Out es un rompecabezas de dispositivo y salida en una sala casi vacía. Un dispositivo morado `8` a la izquierda y un dispositivo verde `7` a la derecha regulan el tráfico de salida, y el orden en que encaminas las piezas por la salida roja derecha y la salida azul inferior det...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "El nivel 35 de Block Out es un rompecabezas de dispositivo y salida en una sala casi vacía. Un dispositivo morado `8` a la izquierda y un dispositivo verde `7` a la derecha regulan el tráfico de salida, y el orden en que encaminas las piezas por la salida roja derecha y la salida azul inferior determina qué bloques aparecen después. La sala empieza escasa pero se llena rápido si se usan las salidas en la secuencia equivocada: mantén un carril abierto en todo momento para la siguiente aparición.",
+        "landmarks": [
+          "El nivel 35 de Block Out es un rompecabezas de dispositivo y salida en una sala casi vacía.",
+          "Un dispositivo morado `8` a la izquierda y un dispositivo verde `7` a la derecha regulan el tráfico de salida, y el orden en que encaminas las piezas por la salida roja derecha y la salida azul inferior determina qué bloques aparecen después.",
+          "La sala empieza escasa pero se llena rápido si se usan las salidas en la secuencia equivocada: mantén un carril abierto en todo momento para la siguiente aparición."
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La sala parece fácil porque empieza casi vacía, pero cada salida hace aparecer un bloque nuevo: mantén un carril libre.",
+        "Atiende primero el dispositivo verde `7` de la derecha y luego el morado `8` de la izquierda.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza el bloque rojo en forma de L hacia la salida del muro derecho para atender primero el dispositivo verde `7`."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mueve la barra amarilla hacia la salida azul inferior después de que el bloque rojo se haya despejado."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Usa el bloque central oscuro como separador para evitar que las piezas aparecidas a continuación bloqueen las salidas."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Atiende el dispositivo morado `8` de la izquierda encaminando la siguiente pieza aparecida por su compuerta."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Sigue alternando entre las salidas derecha e inferior a medida que aparecen piezas nuevas."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Mantén un carril libre en todo momento: el riesgo de bloqueo se ve en el minuto 00:52 del vídeo."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con la última pieza de color cuando ambos contadores de dispositivo estén en cero y ya no aparezcan más bloques."
+        }
+      ],
+      "failurePoints": [
+        "Usar la salida azul inferior antes de atender la salida roja derecha, lo que produce la pieza de seguimiento equivocada y altera la secuencia del dispositivo.",
+        "Dejar que los bloques aparecidos llenen el último carril abierto: una vez que la sala está llena, no hay movimiento de recuperación."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 35",
+    "description": "Resuelve el nivel 35 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

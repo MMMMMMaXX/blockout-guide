@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-112",
+  "locale": "pt-br",
+  "levelNumber": 112,
+  "title": "Guia do nível 112 do Block Out",
+  "summary": "Block Out Nível 112 começa com dois oversized roxo barras — `7` e `10` — que encolha através fileira e coluna desliza em menor contadores como tabuleiro contracts. resolva é lento implosion: barras quebre baixo stage por stage unti...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "Block Out Nível 112 começa com dois oversized roxo barras — `7` e `10` — que encolha através fileira e coluna desliza em menor contadores como tabuleiro contracts. resolva é lento implosion: barras quebre baixo stage por stage até único centro `3` zona remains. Force perímetro deslize antes que grande barras tem divida e entire colapse sequência entrava.",
+        "landmarks": [
+          "Block Out Nível 112 começa com dois oversized roxo barras — `7` e `10` — que encolha através fileira e coluna desliza em menor contadores como tabuleiro contracts.",
+          "Resolva é lento implosion: barras quebre baixo stage por stage até único centro `3` zona remains.",
+          "Force perímetro deslize antes que grande barras tem divida e entire colapse sequência entrava."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Numerado bandeja peças em inferior são finishers — deslizando os cedo fecha verde sorriso pista.",
+        "Use superior roxo setas para divida `7` barra longe de `10` bloco antes que tocando centro.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize esquerda azul vertical coluna para cima ao longo vermelho esquerda seta para livre superior `7` barra."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Empurre `7` barra para a direita até ele divide de `10` bloco e superior tabuleiro abre em ambos lados."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gire verde sorriso barra leftward através novo lacuna sem tocando numerado bandeja peças (`1`, `4`, `3`)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Colapse `10` barra em centro zona usando superior roxo setas até tabuleiro mostra único `3` bolso."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar scattered borda blocos (vermelho esquerda, azul superior, verde direita, amarelo inferior) um em tempo ao redor `3` zona."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente laranja `1` e amarelo `4` bandeja peças através inferior setas para termine último perímetro limpa."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando inferior numerado bandeja peças (`1`, `4`, `3`) antes que `7` e `10` barras tem divida.",
+        "Forcing verde sorriso barra para baixo enquanto centro `3` bolso é ainda boxed em."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 112 do Block Out",
+    "description": "Resolva o nível 112 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

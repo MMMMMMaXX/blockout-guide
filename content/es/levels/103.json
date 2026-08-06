@@ -1,0 +1,96 @@
+{
+  "id": "es-level-103",
+  "locale": "es",
+  "levelNumber": 103,
+  "title": "Guía de Block Out Nivel 103",
+  "summary": "Block Out nivel 103 fills the grid con numbered baldosas — `11`, `19`, `14` a través the superior y a morado `10` barra en the izquierdo rail — turning cada fila en a counting puzzle. The izquierdo-rail stack de matching `10` baldosas debe drain antes the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out nivel 103 fills the grid con numbered baldosas — `11`, `19`, `14` a través the superior y a morado `10` barra en the izquierdo rail — turning cada fila en a counting puzzle. The izquierdo-rail stack de matching `10` baldosas debe drain antes the wide barras puede movimiento, y the inferior morado tray contador tracks cómo many placements remain. The trap es the superior `19` baldosa: lo looks urgent pero debe wait para the rail.",
+        "landmarks": [
+          "Block Out nivel 103 fills the grid con numbered baldosas — `11`, `19`, `14` a través the superior y a morado `10` barra en the izquierdo rail — turning cada fila en a counting puzzle.",
+          "The izquierdo-rail stack de matching `10` baldosas debe drain antes the wide barras puede movimiento, y the inferior morado tray contador tracks cómo many placements remain.",
+          "The trap es the superior `19` baldosa: lo looks urgent pero debe wait para the rail."
+        ],
+        "colors": ["morado", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Elimina cada izquierdo-rail `10` baldosa antes touching the inferior morado `19` barra.",
+        "The superior morado `4` barra puede movimiento once la fila superior es gone — do no wait para el centro entire cluster a despejado primero.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the superior-fila light-azul `11`, `19`, y `14` baldosas por the superior salidas."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Peel the izquierdo-rail azul `10` stack desde superior a inferior antes touching el centro cluster."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Desliza the superior morado `4` barra izquierdo once la fila superior y izquierdo rail son abierto."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Break arriba el centro rosa/verde/amarillo singles a abierto la columna central."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Desplaza the naranja cross y restante cian `10` baldosas en el lado carriles."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Libera the inferior morado `19` barra por el salida inferior después the izquierdo rail es empty."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina the último verde cluster y inferior-tray pasadas a close contador `6`."
+        }
+      ],
+      "failurePoints": [
+        "Trying a slide the inferior morado `19` barra antes the izquierdo-rail `10` stack es gone.",
+        "Elimina el centro naranja cross too early mientras the superior-fila numbers son todavía blocking the superior salidas."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 103",
+    "description": "Resuelve Block Out nivel 103 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

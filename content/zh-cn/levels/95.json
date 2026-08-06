@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-95",
+  "locale": "zh-cn",
+  "levelNumber": 95,
+  "title": "Block Out 第95关攻略",
+  "summary": "Block Out 第95关把带锁/钥门的彩色方块（红、橙、蓝、绿、紫、青）塞进水平的上一层，而下半部分是两间紫色室——顶部橙色边框内计数「14」，下方橙色边框内计数「11」。边缘的黄色点缀方块是自由的单块清除。先彻底清空上一层，再输送两室共 25 次通过。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/95/",
+        "layout": "Block Out 第95关把带锁/钥门的彩色方块（红、橙、蓝、绿、紫、青）塞进水平的上一层，而下半部分是两间紫色室——顶部橙色边框内计数「14」，下方橙色边框内计数「11」。边缘的黄色点缀方块是自由的单块清除。先彻底清空上一层，再输送两室共 25 次通过。",
+        "landmarks": [
+          "Block Out 第95关把带锁/钥门的彩色方块（红、橙、蓝、绿、紫、青）塞进水平的上一层，而下半部分是两间紫色室——顶部橙色边框内计数「14」，下方橙色边框内计数「11」。",
+          "边缘的黄色点缀方块是自由的单块清除。",
+          "先彻底清空上一层，再输送两室共 25 次通过。"
+        ],
+        "colors": ["purple", "red", "orange", "blue", "green", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "S3a7Be6nABA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=S3a7Be6nABA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先拿边缘的黄色方块——它们就在出口旁，是自由的单块清除。",
+        "在开始「14」室输送前，先清空层间的小方块。",
+        "先输送「14」室再输送「11」——它需要更多空间和更多通过次数。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将两侧的黄色边缘方块经左右出口推出，立即腾出空间（01:26）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "清空钥匙方块（带钥匙图标的青色小方块）以解锁上一层中的橙色方块（01:22）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将中心偏左的大号红色方块经顶部或左出口抽出，因为它们是上一层中最大的质量块（01:18）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将上一层右侧的绿色和蓝色方块经右墙出口清空（01:15）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "在开始输送前，移除上一层与「14」室之间的小青色和红色方块，因为它们可能飘入通道（01:11）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "开始输送上方紫色室（计数「14」）——保持其通道永久畅通，共十四次通过（01:07–00:56）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "将下方紫色室（计数「11」）经底部出口输送——十一次通过收尾（00:53–00:45）。"
+        }
+      ],
+      "failurePoints": [
+        "开局忽视边缘的黄色方块——它们是免费空间，先清它们能让后续每次抽取都更快。",
+        "在层间的小青色和红色方块仍存在时就启动「14」室输送——它们飘入输送通道，让计数器卡住。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/95/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第95关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第95关。"
+  },
+  "updatedAt": "2026-08-03"
+}

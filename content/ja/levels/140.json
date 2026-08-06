@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-140",
+  "locale": "ja",
+  "levelNumber": 140,
+  "title": "ブロックアウト レベル140 攻略",
+  "summary": "ブロックアウト レベル140は4本の縦のピストンバーをエレベーターとして使います—中央の「7」の円がサイクルのカウントを始める前に、各バーが上部グリッドの列の色と一致する必要があります。ピストンは色が一致するときだけ動くため、上部の列の向き矢印ブロックをまず消去して目標の色を現す必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "ブロックアウト レベル140は4本の縦のピストンバーをエレベーターとして使います—中央の「7」の円がサイクルのカウントを始める前に、各バーが上部グリッドの列の色と一致する必要があります。ピストンは色が一致するときだけ動くため、上部の列の向き矢印ブロックをまず消去して目標の色を現す必要があります。各ピストンを整列させ、次に「7」の円を排水してパーフェクト消去にします。",
+        "landmarks": [
+          "ブロックアウト レベル 140 — 揃える 列 上の、中央の `7` 丸 .。",
+          "上の 行' 矢印 消去する 現す 目標 .。",
+          "を整列させて、排出する `7` 丸 完璧な 消去する.。"
+        ],
+        "colors": ["red", "yellow", "blue", "green", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青のを維持して、黄 レベル 開始 — 黄 上-行 1 ペア.。",
+        "を消去して赤の字型- 左/下 矢印、黄 右.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "赤のを上げて棒 上-行 赤 2 ブロック、をスライドさせて下 赤 下-矢印 使う 2 カウンター.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄棒を整列させて黄 1 タイル、青 棒 青 1 タイル、揃い 下-矢印.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "緑棒を上げて右-列 緑、白のを使いて3 カウンター 上の-右 取り除く.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して上の パネル 上段 (紫/黄/青/緑 上-矢印)、上の カウンター .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "をスライドさせて赤の字型- 左/下 矢印 下の-左 レーン、押す 青 上-矢印 ブロック 中央 通路.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "黄のを下げて、紫 右-側、を使いて中央の 7 丸 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "黄 手順 1、上-行 1 ペア、中央の 7 上 3.。",
+        "黄、赤の字型-、青 下-矢印 ブロック 台座.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル140 攻略と解説",
+    "description": "ブロックアウト レベル140 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

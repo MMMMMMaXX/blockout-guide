@@ -1,0 +1,91 @@
+{
+  "id": "es-level-117",
+  "locale": "es",
+  "levelNumber": 117,
+  "title": "Guía de Block Out Nivel 117",
+  "summary": "Block Out nivel 117 uses a house-shaped morado marco con a dotted inferior grid, lado `13` rails, y external `4` feed panels en the izquierdo y inferior. El marco house has su own packing orden: the arch debe stay abierto hasta the external pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "Block Out nivel 117 uses a house-shaped morado marco con a dotted inferior grid, lado `13` rails, y external `4` feed panels en the izquierdo y inferior. El marco house has su own packing orden: the arch debe stay abierto hasta the external panels have delivered su bloques. Pack the arch too early y the último amarillo feed barra has nowhere a go, boxing en el lado rails permanentemente.",
+        "landmarks": [
+          "Block Out nivel 117 uses a house-shaped morado marco con a dotted inferior grid, lado `13` rails, y external `4` feed panels en the izquierdo y inferior.",
+          "El marco house has su own packing orden: the arch debe stay abierto hasta the external panels have delivered su bloques.",
+          "Pack the arch too early y the último amarillo feed barra has nowhere a go, boxing en el lado rails permanentemente."
+        ],
+        "colors": ["green", "blue", "red", "orange", "yellow", "cyan", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Estaciona the numbered circle en the dotted grid solo después la flecha derecho sliders have un carril despejado.",
+        "The izquierdo `13` rail debe fino antes the izquierdo cian `4` panel puede feed the arch.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Remove the superior verde `2` baldosa y the azul `4` bloque desde the superior cluster."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Peel the izquierdo `13` lado rail without blocking the dotted inferior zone."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Introduce piezas por the izquierdo cian `4` panel a abierto el marco house."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Route the derecho rojo-flecha y azul-flecha sliders once the superior naranja/verde fila thins."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Place the inferior amarillo circle (`9`, luego `6`) en the dotted grid without overfilling the arch."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Gasta the inferior amarillo barra y derecho cian `4` contador a close el lado restante rails en `10`."
+        }
+      ],
+      "failurePoints": [
+        "Overfilling the arch antes la flecha derecho sliders despejado — este boxes en the rojo-flecha carril.",
+        "Placing the inferior numbered circle too early mientras the izquierdo `13` rail es todavía full."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 117",
+    "description": "Resuelve Block Out nivel 117 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

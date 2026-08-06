@@ -1,0 +1,93 @@
+{
+  "id": "de-level-137",
+  "locale": "de",
+  "levelNumber": 137,
+  "title": "Block Out Level 137 Lösung",
+  "summary": "Block Out Level 137 anchors three fixed Bauteile — orange-bordered `6`, lila `8` key, und türkis `10` hook — auf L-shaped Spielfeld, dann fills remaining Platz mit türkis `5` Kacheln. Once oben rot Reihe räumt, jene Kacheln sind...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/137/",
+        "layout": "Block Out Level 137 anchors three fixed Bauteile — orange-bordered `6`, lila `8` key, und türkis `10` hook — auf L-shaped Spielfeld, dann fills remaining Platz mit türkis `5` Kacheln. Once oben rot Reihe räumt, jene Kacheln sind nur movable Zähler, und das Spielfeld becomes pure routing Puzzle: thread jede one past fixed anchors zu Ausgang ohne jamming L's narrow Ecke.",
+        "landmarks": [
+          "Block Out Level 137 anchors three fixed Bauteile — orange-bordered `6`, lila `8` key, und türkis `10` hook — auf L-shaped Spielfeld, dann fills remaining Platz mit türkis `5` Kacheln.",
+          "Once oben rot Reihe räumt, jene Kacheln sind nur movable Zähler, und das Spielfeld becomes pure routing Puzzle: thread jede one past fixed anchors zu Ausgang ohne jamming L's narrow Ecke.",
+          "Das Spielfeld mixes Lila, Türkis, Orange und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "cyan", "orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ymCjrSF_byY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ymCjrSF_byY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break türkis 10 hook nur nach 6 Kachel pops — doing es erste seals rechts-Seite 5 Bahn.",
+        "Aufsparen grün 4 linke Spalte bis alle three rechts-Seite türkis 5 Blöcke sind exposed.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Pop obere linke lila 8 Kachel und orange-bordered 6 Block ohne splitting türkis 10 hook auf rechts."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen rainbow stapeln von grün links bar nach unten, keeping lowest türkis 10 pair sealed auf rechts flank."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break türkis 10 hook once stapeln fällt … lassen zu two rows, feeding Bauteile in untere rechte Ecke."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben oben türkis 3 bar leftward nach beide 10 Kacheln räumen, exposing rechts-Seite türkis 5 cluster."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend three türkis 5 Blöcke auf rechts flank durch grün 4 linke Spalte."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen remaining rot und lila scraps runter untere linke orange Pfeil für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Breaking türkis 10 hook bevor 6 Kachel pops, permanently sealing rechts-Seite 5 Bahn.",
+        "Sliding grün 4 Spalte bevor rechts türkis 5 cluster räumt, stranding rot base scraps."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/137/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 137 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 137 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

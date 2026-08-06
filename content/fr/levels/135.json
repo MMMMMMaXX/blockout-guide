@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-135",
+  "locale": "fr",
+  "levelNumber": 135,
+  "title": "Guide Block Out Niveau 135",
+  "summary": "Block Out Niveau 135 sceaux haut colonne sur le bord gauche derrière compteur que doit hit zero. haut rangée's bleu `6`/`6`/`9` tuiles, jaune 2×2 dot bloc, et cyan bidirectional slider create lateral énigme dans vertical cadre. ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/135/",
+        "layout": "Block Out Niveau 135 sceaux haut colonne sur le bord gauche derrière compteur que doit hit zero. haut rangée's bleu `6`/`6`/`9` tuiles, jaune 2×2 dot bloc, et cyan bidirectional slider create lateral énigme dans vertical cadre. vert droite-retirez feeds sortie voie — poussez il avant la gauche-rail compteur zeroes hors et sealed colonne stays verrouillé forever.",
+        "landmarks": [
+          "Block Out Niveau 135 sceaux haut colonne sur le bord gauche derrière compteur que doit hit zero.",
+          "Haut rangée's bleu `6`/`6`/`9` tuiles, jaune 2×2 dot bloc, et cyan bidirectional slider create lateral énigme dans vertical cadre.",
+          "Vert droite-retirez feeds sortie voie — poussez il avant la gauche-rail compteur zeroes hors et sealed colonne stays verrouillé forever."
+        ],
+        "colors": ["blue", "yellow", "cyan", "green", "red", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UznrtGVtYHY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UznrtGVtYHY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez jaune dot bloc avant sliding ↔ pièce — reversing que ordre verrous la gauche rail au-dessus 4.",
+        "Dégagez vert droite-retirez seulement après noir-bordered 2 tuile unlocks.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dépensez la gauche-rail 9 compteur par sliding le haut bleu 6/6/9 trio rightward off haut gauche panneau."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez jaune 2×2 dot bloc sans splitting cyan ↔ slider dans le centre."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Poussez cyan double-arrow pièce à travers le centre une fois la gauche rail tombent à 4 et 7."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez vert droite-retirez > voie après noir-bordered 2 tuile unlocks."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez le bas rouge/vert/bleu amas bas vert bas-arrow sortie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez final gauche-rail 2 sur haut colonne violet et dégagez dernier scraps pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Sliding ↔ pièce avant jaune dot bloc breaks, locking la gauche rail au-dessus 4.",
+        "Envoyant le bas rouge amas bas vert arrow avant 2 tuile unlocks, stranding la droite-retirez voie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/135/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 135",
+    "description": "Résolvez le niveau 135 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

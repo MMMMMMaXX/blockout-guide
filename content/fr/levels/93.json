@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-93",
+  "locale": "fr",
+  "levelNumber": 93,
+  "title": "Guide Block Out Niveau 93",
+  "summary": "Block Out Niveau 93 arranges deux violet chambre blocs dans L-shape — compteur `13` dans orange cadre sur la gauche et compteur `8` dans orange cadre sous. Rouge, bleu, et blocs jaune sont empilé à la droite de `13` chambre, avec l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "Block Out Niveau 93 arranges deux violet chambre blocs dans L-shape — compteur `13` dans orange cadre sur la gauche et compteur `8` dans orange cadre sous. Rouge, bleu, et blocs jaune sont empilé à la droite de `13` chambre, avec verrou/clé icons sur les blocs bleu. surrounding blocs sont sparse et dégagez dans sous 10 seconds, making real challenge 21 total passes needed à travers les deux chambres.",
+        "landmarks": [
+          "Block Out Niveau 93 arranges deux violet chambre blocs dans L-shape — compteur `13` dans orange cadre sur la gauche et compteur `8` dans orange cadre sous.",
+          "Rouge, bleu, et blocs jaune sont empilé à la droite de `13` chambre, avec verrou/clé icons sur les blocs bleu.",
+          "Surrounding blocs sont sparse et dégagez dans sous 10 seconds, making real challenge 21 total passes needed à travers les deux chambres."
+        ],
+        "colors": ["violet", "red", "blue", "yellow", "green", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Surrounding blocs dégagez dans sous 10 seconds — dépensez planning time sur keeping `13` alimentez voie dégagez.",
+        "Dégagez petit vert et blocs cyan entre chambres avant de départ un alimentez.",
+        "Alimentez `13` chambre premier parce que il prend longer et benefits de maximum salle."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Poussez les blocs rouge à le haut-droite à travers le haut ou droite-mur sortie à ouvrez supérieur voie (02:26 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez clé blocs à déverrouillez les blocs bleu dans le milieu-droite (02:23)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Glissez unlocked blocs bleu et blocs jaune à travers la droite-mur sortie à dégagez la droite voie completely (02:20)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez petit vert et blocs cyan entre deux chambres à travers nearest sorties parce que ils peut drift dans alimentez chemin (02:17)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Commencez feeding violet `13` chambre à travers la gauche-mur sortie — thirteen passes, keeping voie permanently dégagez (02:14–02:05)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Sort un spilled blocs de `13` chambre effondrez avant ils reach `8` chambre's zone (02:05)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Alimentez violet `8` chambre à travers le bas sorties — eight passes à terminez (02:02–01:54)."
+        }
+      ],
+      "failurePoints": [
+        "Laissant petit vert et blocs cyan entre chambres during `13` alimentez — ils drift dans feeding voie et stall compteur mid-pass.",
+        "De départ avec `8` chambre — il sits sous `13` et benefits de salle created après `13` collapses, pas avant."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 93",
+    "description": "Résolvez le niveau 93 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-14",
+  "locale": "tr",
+  "levelNumber": 14,
+  "title": "Block Out Seviye 14 Rehberi",
+  "summary": "Beyaz merdiven açın ve büyük Camgöbeği centerpiece onun çevreleyerek çerçeveden bırakmadan önce üst sayacı azaltın.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "Büyük camgöbeği sayaç karo dolur merkez beş-renk çerçeve, ile beyaz parçalar concentrated üstünde ve sağa ve sarı sütunlar tutarak yan şeritler.",
+        "landmarks": [
+          "Merkez büyük camgöbeği kare marked 7.",
+          "Üst sayaç başlar 17 üstünde merkezi çerçeve.",
+          "Beyaz direkler oluştur merdiven sağ yanda.",
+          "Sarı sütunlar otur her ikisi de yanlar sırasında siyah parçalar sabitle daha düşük köşeler."
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çalış sağ-yan beyaz şerit önce harcayarak alt sarı çıkış.",
+        "Bırak camgöbeği 7 yerleştirde kadar çerçeve açıldı daha fazla bir yan.",
+        "Judge her temizle ile sonraki şerit o creates, değil sadece ile blok kaldırıldı şimdi."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Sağ kenarı gevşet",
+          "instruction": "Hareket ettir üst-sağ beyaz parçalar onların müsait çıkışa şerit böylece dış çerçeve başlar küçülte."
+        },
+        {
+          "order": 2,
+          "title": "Üst sayacı azalt",
+          "instruction": "Continue temizleyerek üst structure sırasında tutarak camgöbeği 7 fixed merkezde."
+        },
+        {
+          "order": 3,
+          "title": "Yan destekleri koru",
+          "instruction": "Kullan sarı yan sütunlar tuta alan müsait sırasında daha düşük siyah parçalar repositioned."
+        },
+        {
+          "order": 4,
+          "title": "Dikey alan oluştur",
+          "instruction": "Sonra sağ merdiven thinner, bring beyaz direk aşağı açık ilk dikey şerite centerpiecede."
+        },
+        {
+          "order": 5,
+          "title": "Merkez parçasını bırak",
+          "instruction": "Hareket ettir camgöbeği 7 sadece ne zaman çerçeve açık en az iki yanlar, sonra temizle kalan beyaz ve siyah parçalar."
+        },
+        {
+          "order": 6,
+          "title": "Sarı çıkışı sona sakla",
+          "instruction": "Bitir alt sarı çıkışdan sonra merkezi blok ve kalan çerçeve parçalar hayır daha uzun competing için alan."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir camgöbeği 7 sırasında sağ merdiven hâlâ kilitlenir çerçeve.",
+        "Temizleyerek alt sarı şerit çok erken ve kaldırarak spacing needed için orta aşama."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 14 Rehberi ve Çözümü",
+    "description": "Camgöbeği 7 tahtayı eşleştirin, sağ merdiveni açın, üst sayacı azaltın ve eksiksiz Block Out Seviye 14 çözümünü takip edin."
+  },
+  "updatedAt": "2026-08-03"
+}

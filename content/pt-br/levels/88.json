@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-88",
+  "locale": "pt-br",
+  "levelNumber": 88,
+  "title": "Guia do nível 88 do Block Out",
+  "summary": "Block Out Nível 88 é hourglass tabuleiro com azul centro coluna, vermelho zigzag hanging debaixo ele, e correspondido roxo cadeado pods em ambos lateral paredes. Comece em superior-direita empilhe, limpar lateral cadeados próximo, e único então solte laranja b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out Nível 88 é hourglass tabuleiro com azul centro coluna, vermelho zigzag hanging debaixo ele, e correspondido roxo cadeado pods em ambos lateral paredes. Comece em superior-direita empilhe, limpar lateral cadeados próximo, e único então solte laranja beam e centro coluna através garganta em inferior basin.",
+        "landmarks": [
+          "Block Out Nível 88 é hourglass tabuleiro com azul centro coluna, vermelho zigzag hanging debaixo ele, e correspondido roxo cadeado pods em ambos lateral paredes.",
+          "Comece em superior-direita empilhe, limpar lateral cadeados próximo, e único então solte laranja beam e centro coluna através garganta em inferior basin.",
+          "Tabuleiro mistura Verde, Vermelho, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do não comece de inferior basin. Este tabuleiro abre de pescoço para baixo.",
+        "Se um cadeado pod é ainda em parede, azul coluna é não ready para solte.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Trim superior-direita empilhe primeiro so direita parede abre e seu externo contagem começa soltando."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use que novo espaço para libere direita roxo cadeado pod, então limpar correspondência cadeado pod em esquerda parede."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deslize longo laranja beam através garganta único depois azul centro coluna tem um livre lateral."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Solte azul coluna e vermelho zigzag através pescoço em inferior basin."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar inferior-esquerda laranja runway e oposto laranja bandeja uma vez centro peças são para fora de caminho."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último roxo elbow mais superior-esquerda verde-e-amarelo peças através aberto lateral pistas."
+        }
+      ],
+      "failurePoints": [
+        "Inicial em inferior laranja trays antes que superior-direita empilhe e ambos lateral cadeados tem aberto pescoço.",
+        "Movendo laranja beam enquanto azul centro coluna é ainda pinned em ambos lados."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 88 do Block Out",
+    "description": "Resolva o nível 88 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

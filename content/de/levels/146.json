@@ -1,0 +1,91 @@
+{
+  "id": "de-level-146",
+  "locale": "de",
+  "levelNumber": 146,
+  "title": "Block Out Level 146 Lösung",
+  "summary": "Block Out Level 146 runs dual oben Zähler — `20` und `17` — dass tick runter als scraps räumen von Lego-textured Raster. Sealed links gelb Spalte und rot star-dotted anchor pin untere half. Star-dotted Block muss break bevor t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/146/",
+        "layout": "Block Out Level 146 runs dual oben Zähler — `20` und `17` — dass tick runter als scraps räumen von Lego-textured Raster. Sealed links gelb Spalte und rot star-dotted anchor pin untere half. Star-dotted Block muss break bevor endgültig lila 2×2 kann Ausgang, aber verschiebend grün L-Bauteil too früh Blöcke Mitte Bahn und strands anchor.",
+        "landmarks": [
+          "Block Out Level 146 runs dual oben Zähler — `20` und `17` — dass tick runter als scraps räumen von Lego-textured Raster.",
+          "Sealed links gelb Spalte und rot star-dotted anchor pin untere half.",
+          "Star-dotted Block muss break bevor endgültig lila 2×2 kann Ausgang, aber verschiebend grün L-Bauteil too früh Blöcke Mitte Bahn und strands anchor."
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "cyan", "green", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXs9atNLk6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXs9atNLk6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break rot star-dotted Block bevor sliding Mitte lila 2×2.",
+        "Behalten lila 12 cluster intact bis oben Zähler fallen lassen unterhalb 15.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben links gelb Spalte runter mit Seite grün hoch-Pfeil zu starten spending oben 20 Zähler ohne verschiebend lila 12 pair."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break twin oben 20/17 Kacheln runter zu 15/12 durch räumend obere türkis 5 und rot scraps zwischen sie."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Ansteuern blau L-shape und rot 2×2 durch Mitte gap once Zähler hit 15/12."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen unten lila 12 cluster und gelb 8 Kachel zu fallen lassen oben frames zu 6/3."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Break rot star-dotted Block auf untere rechte bevor sliding Mitte lila 2×2."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend endgültig 6/3 Zähler auf grün L-Bauteil und letzte blau scraps für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Sliding lila 2×2 bevor rot star-dotted Block breaks, sealing unten rot Bahn.",
+        "Verschiebend lila 12 cluster while oben 20 Zähler ist still voll, wasting erste spend."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/146/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 146 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 146 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-10",
+  "locale": "pt-br",
+  "levelNumber": 10,
+  "title": "Guia do nível 10 do Block Out",
+  "summary": "Block Out Nível 10 replaces plain cores com gigante número lajes. Limpar superior branco bloqueador, descasque amarelo peças baixo direita corredor, e único então deixe grande ciano blocos cascade em centro.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "Block Out Nível 10 replaces plain cores com gigante número lajes. Limpar superior branco bloqueador, descasque amarelo peças baixo direita corredor, e único então deixe grande ciano blocos cascade em centro.",
+        "landmarks": [
+          "Block Out Nível 10 replaces plain cores com gigante número lajes.",
+          "Limpar superior branco bloqueador, descasque amarelo peças baixo direita corredor, e único então deixe grande ciano blocos cascade em centro.",
+          "Tabuleiro mistura Ciano, Branco, Preto e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Superior branco saída é primeiro limpo ação.",
+        "Amarelo número coluna é wedge que deve be reduced antes que ciano lajes mova.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Envie superior-direita branco bloqueador cima através branco saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque primeiro amarelo número peça baixo direita corredor so superior preto bloqueador pode mova."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha alternating amarelo peças e preto bloqueadores até ciano saída em direita começa abertura suficiente para grande lajes para desloque."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deslize superior ciano rectangles para baixo em stages, turning `22/21/19` aglomerado em inferior placements como corredor limpa."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez direita coluna é no mais longo jammed, puxe meio branco bloco em vermelho pista e libere restante amarelo número peças através inferior-direita termine."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Use novo central espaço para separar último ciano lajes de vermelho e azul termine barras."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com curto rosa, azul, e vermelho barras depois final ciano bloco tem já esquerda."
+        }
+      ],
+      "failurePoints": [
+        "Treating grande ciano blocos como abertura mova em vez de reducing direita corredor primeiro.",
+        "Deixando amarelo número peças empilhado em direita quando preto bloqueadores ainda precisa para gire."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 10 do Block Out",
+    "description": "Resolva o nível 10 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

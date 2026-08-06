@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-43",
+  "locale": "tr",
+  "levelNumber": 43,
+  "title": "Block Out Seviye 43 Rehberi",
+  "summary": "Block Out Seviye 43 bir Sıkışık tetromino tahta centered büyük mavi geçde-şekilli blok ki dominates merkez-sağ ve bloklar dört directions sonradadır. Kırmızı L-şekiller doldur sol ve daha düşük areas, yeşil bloklar otur daha düşük-sağ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/43/",
+        "layout": "Block Out Seviye 43 bir Sıkışık tetromino tahta centered büyük mavi geçde-şekilli blok ki dominates merkez-sağ ve bloklar dört directions sonradadır. Kırmızı L-şekiller doldur sol ve daha düşük areas, yeşil bloklar otur daha düşük-sağ, ve sarı bloklar scattered merkezde-sol. çöz peels kenarlardan inward: extract kırmızı L-şekiller ilk, kaydır mavi geç sonra o alan, sonra bitir yeşil ve sarı bloklar alt çıkışlardan.",
+        "landmarks": [
+          "Block Out Seviye 43 bir Sıkışık tetromino tahta centered büyük mavi geçde-şekilli blok ki dominates merkez-sağ ve bloklar dört directions sonradadır.",
+          "Kırmızı L-şekiller doldur sol ve daha düşük areas, yeşil bloklar otur daha düşük-sağ, ve sarı bloklar scattered merkezde-sol.",
+          "Çöz peels kenarlardan inward: extract kırmızı L-şekiller ilk, kaydır mavi geç sonra o alan, sonra bitir yeşil ve sarı bloklar alt çıkışlardan."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OlsWS-kJ0KI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OlsWS-kJ0KI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mavi geç bloklar dört directions sonrada — değil dene hareket ettir o kadar çevreleyerek L-şekiller thinned.",
+        "Temizle kırmızı L-şekiller sol kenardan ilk oluştur çoğu alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır küçük parça dışarı üst çıkışdan oluştur ilk boşluk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract kırmızı L-şekilli bloklar sol yandan yandan çıkışlar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Ince sarı bloklar merkezde-sol ver mavi geç alan kaydır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Döndür mavi geç-şekilli blok sonra çevreleyerek alan geniş enough."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır yeşil bloklar alt çıkışa sonra geç hareket ettirildi."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle kalan kırmızı ve sarı parçalar müsait çıkışlardan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son blok sonra tahta çoğunlukla boş."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek zorla mavi geç dar boşlukdan önce çevreleyerek L-şekiller thinned — geç gerektirir clearance multiplede yanlar hareket ettir.",
+        "Ignoring sol-yan kırmızı L-şekiller ve başlayarak altdan, hangi bırakır merkez çok tight için geç döndür."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/43/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 43 Rehberi ve Çözümü",
+    "description": "Block Out seviye 43'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

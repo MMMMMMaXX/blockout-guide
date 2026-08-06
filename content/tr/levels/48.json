@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-48",
+  "locale": "tr",
+  "levelNumber": 48,
+  "title": "Block Out Seviye 48 Rehberi",
+  "summary": "Block Out Seviye 48 bir Lid-ilk ana blok bulmaca ile `10` ana blok oda daha düşük yarıda buried yatay söke renkli bloklar including `4`-sayaç parçadır. Sök lid ilk — `4` blok en hızlı win — sonra...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/48/",
+        "layout": "Block Out Seviye 48 bir Lid-ilk ana blok bulmaca ile `10` ana blok oda daha düşük yarıda buried yatay söke renkli bloklar including `4`-sayaç parçadır. Sök lid ilk — `4` blok en hızlı win — sonra bırak ana blok düşür ve sort açığa çıktı geç-game renkler yandan çıkışlar.",
+        "landmarks": [
+          "Block Out Seviye 48 bir Lid-ilk ana blok bulmaca ile `10` ana blok oda daha düşük yarıda buried yatay söke renkli bloklar including `4`-sayaç parçadır.",
+          "Sök lid ilk — `4` blok en hızlı win — sonra bırak ana blok düşür ve sort açığa çıktı geç-game renkler yandan çıkışlar.",
+          "Tahta sarı, mavi, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["yellow", "blue", "red", "green", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "X5TV6t29kCI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=X5TV6t29kCI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`4`-sayaç blok lidde ilk hızlı win — skip o ve lid kalır thick.",
+        "Expect saniye aşama: açığa çıktı renkli bloklar spill dışarı sonra ana blok düşer.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle `4`-sayaç blok üst bölümde ilk — o en hızlı lid reduction."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Sök kalan sarı, mavi, ve kırmızı lid parçalar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut `10` ana blok park edildi sırasında çevreleyerek sayaçlar düş."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Düşür ana blok sonra lid çoğunlukla gitti."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sort açığa çıktı geç-game renkli bloklar yandan çıkışlar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir yan sayaçlar sonra alan hayır daha uzun bölündü."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "End ile son temizlik sonra ana blok gitti."
+        }
+      ],
+      "failurePoints": [
+        "Skipping `4`-sayaç blok ve deneyerek azalt `10` ana blok doğrudan — lid kalır thick ve ana blok barely hamleler.",
+        "Değil having yan şeritler hazır ne zaman ana blok düşer, hangi sıkışır açığa çıktı bloklar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/48/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 48 Rehberi ve Çözümü",
+    "description": "Block Out seviye 48'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ko-level-54",
+  "locale": "ko",
+  "levelNumber": 54,
+  "title": "블록 아웃 레벨 54 공략",
+  "summary": "블록 아웃 레벨 54는 '어려운 레벨'로, 네 개의 보라색 보스 챔버가 있습니다 — 위에는 카운터 '3'과 '11', 아래에는 '6'과 '19'. 챔버는 좁은 틈으로 촘촘히 붙어 있습니다. 챔버 사이의 작은 색상 블록을 제거...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "블록 아웃 레벨 54는 '어려운 레벨'로, 네 개의 보라색 보스 챔버가 있습니다 — 위에는 카운터 '3'과 '11', 아래에는 '6'과 '19'. 챔버는 좁은 틈으로 촘촘히 붙어 있습니다. 먼저 챔버 사이의 작은 색상 블록을 제거하고, 그다음 위쪽을 건드리기 전에 아래 챔버를 비우세요. '19' 챔버가 가장 무겁습니다 — 주변 챔버가 공간을 연 후를 위해 남겨두세요.",
+        "landmarks": [
+          "블록 아웃 레벨 54는 '어려운 레벨'로, 네 개의 보라색 보스 챔버가 있습니다 — 위에는 카운터 '3'과 '11', 아래에는 '6'과 '19'.",
+          "챔버는 좁은 틈으로 촘촘히 붙어 있습니다.",
+          "먼저 챔버 사이의 작은 색상 블록을 제거하고, 그다음 위쪽을 건드리기 전에 아래 챔버를 비우세요.",
+          "'19' 챔버가 가장 무겁습니다 — 주변 챔버가 공간을 연 후를 위해 남겨두세요."
+        ],
+        "colors": ["purple", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "먼저 챔버 사이의 작은 색상 블록을 제거하세요 — 미는 경로를 여는 열쇠입니다.",
+        "'19' 챔버는 마라톤입니다. 먼저 작은 챔버를 제거하여 공간을 만들고, 그다음 조금씩 깎아내세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "왼쪽 위와 왼쪽 아래 챔버 사이의 틈을 열려면 왼쪽의 노란색 블록을 제거하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "왼쪽과 오른쪽 챔버 사이의 틈을 열려면 중앙의 빨간색/주황색 블록을 옮기세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "블록을 왼쪽 출구로 밀어 왼쪽 아래 챔버(카운터 '6') 비우기를 시작하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "오른쪽 아래 챔버(카운터 '19')를 작업하세요 — 왼쪽 아래가 비워지는 동안 점진적으로 제거하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "왼쪽 위 챔버(카운터 '3')로 넘어가세요 — 가장 가볍고 빠르게 비워집니다."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "다른 챔버가 비워진 후 가장 공간이 많은 오른쪽 위 챔버(카운터 '11')로 마무리하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "비워진 챔버 사이에 갇힌 남은 색상 블록을 제거하세요."
+        }
+      ],
+      "failurePoints": [
+        "다른 것을 건드리기 전에 한 챔버를 완전히 비우면 — 미는 벽이 사라지며 남은 챔버가 막힙니다.",
+        "주변 공간이 여전히 가득 찬 상태에서 '19' 챔버를 먼저 건드리면 — 움직일 공간이 필요합니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 54 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 54을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-57",
+  "locale": "pt-br",
+  "levelNumber": 57,
+  "title": "Guia do nível 57 do Block Out",
+  "summary": "Block Out Nível 57 empilha dois roxo chefe câmaras — '5' em superior, '11' em inferior — com três branco '10' blocos em very base. câmaras compartilhe parede, so limpando um affects outro. Comece com inferior '10' blocos, então wo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "Block Out Nível 57 empilha dois roxo chefe câmaras — '5' em superior, '11' em inferior — com três branco '10' blocos em very base. câmaras compartilhe parede, so limpando um affects outro. Comece com inferior '10' blocos, então funciona ambos câmaras em paralelo, deixando menor '5' câmara limpar faster enquanto '11' câmara gradually abre.",
+        "landmarks": [
+          "Block Out Nível 57 empilha dois roxo chefe câmaras — '5' em superior, '11' em inferior — com três branco '10' blocos em very base.",
+          "Câmaras compartilhe parede, so limpando um affects outro.",
+          "Comece com inferior '10' blocos, então funciona ambos câmaras em paralelo, deixando menor '5' câmara limpar faster enquanto '11' câmara gradually abre."
+        ],
+        "colors": ["purple", "yellow", "blue", "green", "red", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dois câmaras compartilhe parede — do não totalmente escoe '5' antes que '11' tem made progresso.",
+        "Comece com inferior '10' blocos. Eles são independent alvos que abra base.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar três branco '10' blocos em inferior por deslizando os em direção a direita saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque amarelo blocos em esquerda para fora através esquerda saída para abra lacuna entre dois câmaras."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece escoando superior '5' câmara — ele é menor e limpa faster, abertura espaço acima."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Funciona inferior '11' câmara em paralelo, deslizando seu blocos para fora através direita saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Como '5' câmara esvazia, use liberado espaço para ajude '11' câmara blocos deslize para fora."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar restante verde e azul blocos preso entre emptied câmaras."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com vermelho e roxo blocos em superior e lados."
+        }
+      ],
+      "failurePoints": [
+        "Totalmente escoando '5' câmara antes que '11' tem made progresso — shared parede provides deslizando suporte para ambos, e perdendo ele também cedo prende blocos.",
+        "Ignorando inferior '10' blocos e tentando para funciona câmaras primeiro, que deixa base empacotado e blocos pode't deslize baixo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 57 do Block Out",
+    "description": "Resolva o nível 57 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

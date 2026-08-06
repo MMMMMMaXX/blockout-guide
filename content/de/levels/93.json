@@ -1,0 +1,96 @@
+{
+  "id": "de-level-93",
+  "locale": "de",
+  "levelNumber": 93,
+  "title": "Block Out Level 93 Lösung",
+  "summary": "Block Out Level 93 arranges two lila chamber Blöcke in L-shape — Zähler `13` in orange frame auf links und Zähler `8` in orange frame unterhalb. Rot, blau, und gelb Blöcke sind gestapelt zu rechts von `13` chamber, mit l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "Block Out Level 93 arranges two lila chamber Blöcke in L-shape — Zähler `13` in orange frame auf links und Zähler `8` in orange frame unterhalb. Rot, blau, und gelb Blöcke sind gestapelt zu rechts von `13` chamber, mit verklemmen/key icons auf blau Blöcke. Surrounding Blöcke sind sparse und räumen in unter 10 Sekunden, making real challenge 21 total passes needed über beide chambers.",
+        "landmarks": [
+          "Block Out Level 93 arranges two lila chamber Blöcke in L-shape — Zähler `13` in orange frame auf links und Zähler `8` in orange frame unterhalb.",
+          "Rot, blau, und gelb Blöcke sind gestapelt zu rechts von `13` chamber, mit verklemmen/key icons auf blau Blöcke.",
+          "Surrounding Blöcke sind sparse und räumen in unter 10 Sekunden, making real challenge 21 total passes needed über beide chambers."
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Surrounding Blöcke räumen in unter 10 Sekunden — spend planning time auf keeping `13` hinausführen Bahn räumen.",
+        "Räumen small grün und türkis Blöcke zwischen chambers bevor Eröffnungs- irgendein hinausführen.",
+        "Hinausführen `13` chamber erste weil es takes longer und benefits von maximum Raum."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben rot Blöcke bei obere rechte durch oben oder rechts-Wand Ausgang zu öffnen obere Bahn (02:26 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen key Blöcke zu unlock blau Blöcke in mittlere-rechts (02:23)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben unlocked blau Blöcke und gelb Blöcke durch rechts-Wand Ausgang zu räumen rechte Bahn completely (02:20)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen small grün und türkis Blöcke zwischen two chambers durch nearest exits weil sie kann drift in hinausführen Pfad (02:17)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Begin feeding lila `13` chamber durch links-Wand Ausgang — thirteen passes, keeping Bahn permanently räumen (02:14–02:05)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Sort irgendein spilled Blöcke von `13` chamber collapse bevor sie reach `8` chamber's zone (02:05)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Hinausführen lila `8` chamber durch unten exits — eight passes zu beenden (02:02–01:54)."
+        }
+      ],
+      "failurePoints": [
+        "Leaving small grün und türkis Blöcke zwischen chambers während `13` hinausführen — sie drift in feeding Bahn und stall Zähler mittlere-pass.",
+        "Eröffnungs- mit `8` chamber — es sitzt unterhalb `13` und benefits von Raum created nach `13` collapses, nicht bevor."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 93 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 93 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

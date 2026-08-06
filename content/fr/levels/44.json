@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-44",
+  "locale": "fr",
+  "levelNumber": 44,
+  "title": "Guide Block Out Niveau 44",
+  "summary": "Block Out Niveau 44 est étiqueté 'Hard Niveau' et features central `5` boss carré sitting sur foundation rangée de four `5`-compteur blocs à le bas. Au-dessus boss, petit-compteur blocs (cyan `1`, `3` bloc) et violet device doit...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out Niveau 44 est étiqueté 'Hard Niveau' et features central `5` boss carré sitting sur foundation rangée de four `5`-compteur blocs à le bas. Au-dessus boss, petit-compteur blocs (cyan `1`, `3` bloc) et violet device doit être cleared premier à donnez boss vertical salle. bas `5` rangée et boss effondrez dans coordination — boss pushes bas comme foundation thins. Rose blocs sur la droite sont tardif-phase cleanup.",
+        "landmarks": [
+          "Block Out Niveau 44 est étiqueté 'Hard Niveau' et features central `5` boss carré sitting sur foundation rangée de four `5`-compteur blocs à le bas.",
+          "Au-dessus boss, petit-compteur blocs (cyan `1`, `3` bloc) et violet device doit être cleared premier à donnez boss vertical salle.",
+          "Bas `5` rangée et boss effondrez dans coordination — boss pushes bas comme foundation thins.",
+          "Rose blocs sur la droite sont tardif-phase cleanup."
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Supérieur compteurs (`1` et `3`) sont petit mais ils porte whole plateau — dégagez les premier.",
+        "Boss et le bas `5` rangée effondrez together, donc pas try à dégagez foundation independently.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez cyan `1`-compteur bloc à le haut à create premier opening au-dessus boss."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Service violet device à le haut de plateau."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Remove `3`-compteur bloc à widen supérieur espace."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez dropping central `5` boss une fois supérieur salle est ouvrez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez four `5` blocs à le bas amincissez comme boss pushes bas."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez les blocs rose sur le côté droit comme tardif-phase couleur."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec restant bas blocs et côté sorties après boss est gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à laissez tomber `5` boss avant supérieur `1` et `3` compteurs sont cleared — boss a non salle à déplacez et supérieur espace stays sealed.",
+        "Disturbing le bas `5` rangée avant boss a started dropping, qui removes support mais leaves boss bloqué au-dessus avec non chemin bas."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 44",
+    "description": "Résolvez le niveau 44 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

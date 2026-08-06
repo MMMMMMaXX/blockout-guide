@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-80",
+  "locale": "tr",
+  "levelNumber": 80,
+  "title": "Block Out Seviye 80 Rehberi",
+  "summary": "Block Out Seviye 80 dolur tahta ile uzun yeşil ve mavi/camgöbeği dikey sütunlar ayrıldı ile merkez boşluk kırmızı kilitlen-ve-anahtar bloklar. sütunlar cannot hareket ettir kadar kilitlen sequence merkez solvedda. temizle kilitlen-ve-anahtar blok...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "Block Out Seviye 80 dolur tahta ile uzun yeşil ve mavi/camgöbeği dikey sütunlar ayrıldı ile merkez boşluk kırmızı kilitlen-ve-anahtar bloklar. sütunlar cannot hareket ettir kadar kilitlen sequence merkez solvedda. temizle kilitlen-ve-anahtar bloklar ilk açık boşluka, sonra kaydır uzun yeşil sütunlar aşağı alt çıkışlardan, followed ile mavi/camgöbeği sütunlar.",
+        "landmarks": [
+          "Block Out Seviye 80 dolur tahta ile uzun yeşil ve mavi/camgöbeği dikey sütunlar ayrıldı ile merkez boşluk kırmızı kilitlen-ve-anahtar bloklar.",
+          "Sütunlar cannot hareket ettir kadar kilitlen sequence merkez solvedda.",
+          "Temizle kilitlen-ve-anahtar bloklar ilk açık boşluka, sonra kaydır uzun yeşil sütunlar aşağı alt çıkışlardan, followed ile mavi/camgöbeği sütunlar."
+        ],
+        "colors": ["green", "blue", "cyan", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Focus entirely merkez kilitlende-ve-anahtar boşluk ilk — hayır sütun hamleler kadar o açılır.",
+        "Kaydır yeşil sütunlar aşağı önce mavi/camgöbeği — yeşil daha yakın çıkışlara.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Eşleştir anahtar bloklar ile onların corresponding kilitlen bloklar merkez boşlukda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle kilidi açıldı kırmızı bloklar merkezden açık boşluka."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır uzun yeşil sütun bloklar sol aşağı doğru alt çıkışlardan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır mavi/camgöbeği sütun bloklar sağ aşağı sonrada yeşil sütunlar oluştur alan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle küçük camgöbeği/mavi bloklar altda aşağıdan-ok çıkışlar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan sütun parçalar."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir uzun sütun önce merkez kilitlen bloklar temizlendi — sütunlar hayır alan.",
+        "Mismatching keys ve kilitlenir, hangi israf eder hamleler ve bırakır bloklar gated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 80 Rehberi ve Çözümü",
+    "description": "Block Out seviye 80'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

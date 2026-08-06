@@ -1,0 +1,96 @@
+{
+  "id": "es-level-145",
+  "locale": "es",
+  "levelNumber": 145,
+  "title": "Guía de Block Out Nivel 145",
+  "summary": "Block Out nivel 145 layers marco contadores alrededor un centro rosa `20` pair, con a inferior combo barra alternating entre `6` y `4` mientras matched grupos despejado. La barra combo es the real constraint: lo debe read `6` antes the rosa pair breaks...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "Block Out nivel 145 layers marco contadores alrededor un centro rosa `20` pair, con a inferior combo barra alternating entre `6` y `4` mientras matched grupos despejado. La barra combo es the real constraint: lo debe read `6` antes the rosa pair breaks, o the primero combo wastes y the izquierdo amarillo franja locks en place. A rosa troll marker tracks the active despejado zone — finish en the rojo 2×2 y azul `9` para PERFECT.",
+        "landmarks": [
+          "Block Out nivel 145 layers marco contadores alrededor un centro rosa `20` pair, con a inferior combo barra alternating entre `6` y `4` mientras matched grupos despejado.",
+          "La barra combo es the real constraint: lo debe read `6` antes the rosa pair breaks, o the primero combo wastes y the izquierdo amarillo franja locks en place.",
+          "A rosa troll marker tracks the active despejado zone — finish en the rojo 2×2 y azul `9` para PERFECT."
+        ],
+        "colors": ["pink", "red", "blue", "green", "yellow", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Empieza la barra combo en 6 antes breaking el centro 20/20 pair.",
+        "Elimina the verde L-shape antes peeling the izquierdo amarillo franja sobre lo.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the superior rosa arriba-flecha bloque y the superior rojo/amarillo fila a start la barra combo en 6."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Break el centro rosa 20/20 pair without shifting el lado amarillo stacks."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Elimina the superior azul/verde vertical columnas por the izquierdo 2 rail contador."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Peel the izquierdo verde L-shape y the azul L-shape debajo lo once the superior 6 contador drops."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Elimina the derecho-lado rojo 2×2 bloque al lado de the 1 label por the 10 derecho-rail contador."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Gasta the inferior 9 box y the 18 esquina contador en the restante azul restos."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Coincide the último highlighted grupo para the PERFECT despejado con a score de 20."
+        }
+      ],
+      "failurePoints": [
+        "Breaking el centro 20 pair mientras la barra combo todavía reads 0, wasting the primero combo.",
+        "Elimina the izquierdo amarillo franja antes the verde L-shape debajo lo breaks, stranding the rojo 2×2."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 145",
+    "description": "Resuelve Block Out nivel 145 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

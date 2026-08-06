@@ -1,0 +1,92 @@
+{
+  "id": "de-level-78",
+  "locale": "de",
+  "levelNumber": 78,
+  "title": "Block Out Level 78 Lösung",
+  "summary": "Block Out Level 78 packs large colored Blöcke in rectangular Spielfeld mit dark channel paths constraining movement. Obere half holds large grün, blau, und rot Blöcke. Untere Mitte hat gelb/orange framed Block mit Zähler...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "Block Out Level 78 packs large colored Blöcke in rectangular Spielfeld mit dark channel paths constraining movement. Obere half holds large grün, blau, und rot Blöcke. Untere Mitte hat gelb/orange framed Block mit Zähler '3' flanked durch lila Blöcke. Räumen obere half erste zu öffnen channel routes, extract lila flanking Blöcke, dann hinausführen framed Block durch sein Ausgang three times.",
+        "landmarks": [
+          "Block Out Level 78 packs large colored Blöcke in rectangular Spielfeld mit dark channel paths constraining movement.",
+          "Obere half holds large grün, blau, und rot Blöcke.",
+          "Untere Mitte hat gelb/orange framed Block mit Zähler '3' flanked durch lila Blöcke.",
+          "Räumen obere half erste zu öffnen channel routes, extract lila flanking Blöcke, dann hinausführen framed Block durch sein Ausgang three times."
+        ],
+        "colors": ["green", "blue", "red", "cyan", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen obere half completely bevor Versuchen zu hinausführen Zähler '3' Block.",
+        "Channel paths force specific routes — planen dein extraction zu behalten lanes räumen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Extract grün Blöcke von obere linke durch oben und links exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Ziehen blau Blöcke von obere rechte durch rechts Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben rot Blöcke von Mitte durch freigegeben obere routes."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen lila Blöcke flanking untere Mitte zu öffnen lanes für framed Block."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen gelb/orange framed Block (Zähler '3') durch sein Ausgang three times."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit remaining lila Block bei unten."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu hinausführen Zähler '3' Block bevor obere half ist räumen — channels jam.",
+        "Leaving lila flanking Blöcke in Platz while attempting zu ansteuern framed Block."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 78 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 78 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

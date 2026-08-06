@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-36",
+  "locale": "zh-cn",
+  "levelNumber": 36,
+  "title": "Block Out 第 36 关通关攻略",
+  "summary": "Block Out 第 36 关是一幅由互锁的红、绿、蓝、黄四格方块组成的密集马赛克，没有 Boss 框架或装置计数。棋盘塞得极紧，第一个缺口必须从顶部打开，解法……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "Block Out 第 36 关是一幅由互锁的红、绿、蓝、黄四格方块组成的密集马赛克，没有 Boss 框架或装置计数。棋盘塞得极紧，第一个缺口必须从顶部打开，解法自上而下：先清除顶部附近的绿色方块，移动中央黄色块体，再将红、蓝方块经底部出口排出。中心一次错误的滑动就可能卡住多个方块。",
+        "landmarks": [
+          "Block Out 第 36 关是一幅由互锁的红、绿、蓝、黄四格方块组成的密集马赛克，没有 Boss 框架或装置计数。棋盘挤得如此之紧，第一个缺口必须来自顶部，解法自上而下：先清理顶部附近的绿色方块，移动中央黄色块体，再通过底部出口排出红色和蓝色方块。",
+          "棋盘挤得如此之紧，第一个缺口必须来自顶部，解法自上而下：先清理顶部附近的绿色方块，移动中央黄色块体，再通过底部出口排出红色和蓝色方块。",
+          "中央一步滑错就可能卡住多个方块。"
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "盯住空隙。如果顶部创造的缺口还没向下传到中心，底部方块仍被锁住。",
+        "左中央那块黄色 L 形大方块是关键解锁——它一动，大多数方块就能跟上。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把第一块小方块通过顶部出口滑出，在拥挤的棋盘中开出初始缺口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把右上方的绿色方块移向顶部出口，拓宽开口。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "利用新空间移动左中央的黄色 L 形大方块——这是关键解锁。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦黄色块体移开，它下方的红色方块就能开始滑向底部出口。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在中心不那么拥堵后，把蓝色方块从右侧或底部移出。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "为最后的红色和绿色方块保留底部出口通道。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在马赛克从上到下解开后，用最后剩余的方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在中心黄红方块还没移开足够时就试图把蓝色方块从底部强行移出——这会在 01:12 附近造成死锁。",
+        "在顶部缺口还没向下传到中心之前就处理底部出口，导致整个棋盘被锁死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 36 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 36 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

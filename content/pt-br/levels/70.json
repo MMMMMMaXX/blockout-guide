@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-70",
+  "locale": "pt-br",
+  "levelNumber": 70,
+  "title": "Guia do nível 70 do Block Out",
+  "summary": "Block Out Nível 70 empacota 5×7 grade com grande roxo '14' bloco em superior, livre-deslizando sorriso blocos em meio, e direcional seta blocos em lados. roxo bloco precisa 14 saídas — limpar inferior primeiro, então funciona s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/70/",
+        "layout": "Block Out Nível 70 empacota 5×7 grade com grande roxo '14' bloco em superior, livre-deslizando sorriso blocos em meio, e direcional seta blocos em lados. roxo bloco precisa 14 saídas — limpar inferior primeiro, então funciona sorriso blocos, e termine com pesado roxo bloco em superior.",
+        "landmarks": [
+          "Block Out Nível 70 empacota 5×7 grade com grande roxo '14' bloco em superior, livre-deslizando sorriso blocos em meio, e direcional seta blocos em lados.",
+          "Roxo bloco precisa 14 saídas — limpar inferior primeiro, então funciona sorriso blocos, e termine com pesado roxo bloco em superior.",
+          "Tabuleiro mistura Roxo, Rosa, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "pink", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h8NdrQz8KTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h8NdrQz8KTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Roxo '14' bloco é marathon — limpar sorriso blocos primeiro para construa espaço.",
+        "Sorriso blocos em meio são livre-deslizando — use este freedom para limpar caminhos para seta blocos.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar verde sorriso blocos em inferior através inferior saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque azul blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece deslizando rosa/magenta sorriso blocos em meio freely — eles pode mova em qualquer direção."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar vermelho blocos em direita através direita saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Tackle grande roxo '14' bloco em superior — ele precisa 14 saídas para totalmente limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante sorriso blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar '14' bloco antes que sorriso blocos — ele precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando superior antes que inferior, que deixa inferior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/70/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 70 do Block Out",
+    "description": "Resolva o nível 70 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "es-level-32",
+  "locale": "es",
+  "levelNumber": 32,
+  "title": "Guía de Block Out Nivel 32",
+  "summary": "El nivel 32 de Block Out es un rompecabezas simétrico de ruptura de marco. Una alta formación de bloques rojos con forma de rectángulo hueco domina el centro, sujeta por bloques cian de contador `2` a ambos lados y una tapa amarilla `6` arriba. La solución requ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "El nivel 32 de Block Out es un rompecabezas simétrico de ruptura de marco. Una alta formación de bloques rojos con forma de rectángulo hueco domina el centro, sujeta por bloques cian de contador `2` a ambos lados y una tapa amarilla `6` arriba. La solución requiere una reducción uniforme desde ambos flancos: limpia primero los contadores cian, pela las columnas rojas exteriores y solo entonces suelta la tapa amarilla después de que la estructura roja ya se haya aflojado.",
+        "landmarks": [
+          "El nivel 32 de Block Out es un rompecabezas simétrico de ruptura de marco.",
+          "Una alta formación de bloques rojos con forma de rectángulo hueco domina el centro, sujeta por bloques cian de contador `2` a ambos lados y una tapa amarilla `6` arriba.",
+          "La solución requiere una reducción uniforme desde ambos flancos: limpia primero los contadores cian, pela las columnas rojas exteriores y solo entonces suelta la tapa amarilla después de que la estructura roja ya se haya aflojado."
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vigila la simetría: si un flanco de la formación roja parece más grueso que el otro, iguala antes de continuar.",
+        "La tapa amarilla `6` es una pieza clave, no una apertura. Cae solo después de que las columnas rojas de debajo se hayan adelgazado.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Limpia el bloque cian de contador `2` izquierdo para abrir un carril estrecho en el flanco izquierdo de la formación roja."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Haz lo mismo con el bloque cian de contador `2` derecho para exponer ambos flancos de la masa roja."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Empieza a pelar las columnas rojas exteriores desde ambos bordes ahora que existen los carriles laterales."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Deja que la tapa amarilla `6` de arriba empiece a bajar a medida que las columnas rojas de debajo se adelgazan."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Sigue alternando el trabajo de las columnas rojas izquierda y derecha para mantener la formación equilibrada."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Cuando la masa roja esté mayormente separada, alimenta las piezas liberadas por las salidas laterales y la flecha amarilla inferior."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con la tapa amarilla y los últimos bloques rojos interiores después de que el marco se rompa."
+        }
+      ],
+      "failurePoints": [
+        "Trabajar en exceso un lado de la formación roja mientras el otro sigue intacto: la masa roja se desplaza hacia el muro del lado no desarrollado y bloquea el tablero.",
+        "Intentar quitar la tapa amarilla `6` antes de que las columnas rojas de debajo se hayan adelgazado bastante, lo que solo vuelve a sellar el centro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 32",
+    "description": "Resuelve el nivel 32 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

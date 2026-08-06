@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-31",
+  "locale": "pt-br",
+  "levelNumber": 31,
+  "title": "Guia do nível 31 do Block Out",
+  "summary": "Block Out Nível 31 é numerado-cascade tabuleiro onde ciano lajes rotulado `5`, `9`, `10`, e `13` são empilhado de superior para inferior e pinned em coloque por branco e preto vertical barras. lajes deve deixe em ascending ordem — `5` primeiro, `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "Block Out Nível 31 é numerado-cascade tabuleiro onde ciano lajes rotulado `5`, `9`, `10`, e `13` são empilhado de superior para inferior e pinned em coloque por branco e preto vertical barras. lajes deve deixe em ascending ordem — `5` primeiro, `13` último — e vertical barras entre os são primeiro things para descasque, porque eles são único caminho para desbloqueie cada laje em sequência.",
+        "landmarks": [
+          "Block Out Nível 31 é numerado-cascade tabuleiro onde ciano lajes rotulado `5`, `9`, `10`, e `13` são empilhado de superior para inferior e pinned em coloque por branco e preto vertical barras.",
+          "Lajes deve deixe em ascending ordem — `5` primeiro, `13` último — e vertical barras entre os são primeiro things para descasque, porque eles são único caminho para desbloqueie cada laje em sequência.",
+          "Tabuleiro mistura Verde, Ciano, Amarelo e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Contagem números superior para inferior: se laje's número é higher do que um ainda sentado acima ele, ordem é errado.",
+        "Vertical barras são não obstacles para funciona ao redor — eles são primeiro things para remova.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior-direita branco blocos e esquerda amarelo vertical coluna para crie borda espaço."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize verde `5` block out de superior-esquerda canto uma vez superior fileira abre."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use liberado superior fileira para descasque preto vertical barras longe de centro `9` laje."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Desloque `9` laje uma vez centro pista abre, que loosens dois `10` lajes abaixo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mova `10` lajes um em tempo — superior um primeiro — depois centro é limpar suficiente para seus width."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Com `10`s para fora, inferior-centro `13` laje finalmente tem pista. Deslize ele em direção a nearest abra saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por limpando restante pequeno verde, amarelo, e preto barra fragmentos depois tudo numerado lajes tem esquerda."
+        }
+      ],
+      "failurePoints": [
+        "Attempting para mova `13` laje antes que `10`s acima ele tem limpo — inferior-centro é completamente blocked até cascade sequência reaches ele.",
+        "Deixando vertical barras em coloque e tentando para deslize numerado lajes através estreito restante gaps, que stalls tabuleiro immediately."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 31 do Block Out",
+    "description": "Resolva o nível 31 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

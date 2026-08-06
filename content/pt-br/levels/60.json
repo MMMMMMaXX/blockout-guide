@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-60",
+  "locale": "pt-br",
+  "levelNumber": 60,
+  "title": "Guia do nível 60 do Block Out",
+  "summary": "Block Out Nível 60 preenche 5×7 grade com repetindo padrão de verde, azul, vermelho, verde, azul blocos, topped com laranja. denso empacotando significa cada coluna deve vazio de inferior para superior — limpar verde base primeiro, então funciona azul...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "Block Out Nível 60 preenche 5×7 grade com repetindo padrão de verde, azul, vermelho, verde, azul blocos, topped com laranja. denso empacotando significa cada coluna deve vazio de inferior para superior — limpar verde base primeiro, então funciona azul e vermelho blocos para cima, e termine com laranja superior fileira.",
+        "landmarks": [
+          "Block Out Nível 60 preenche 5×7 grade com repetindo padrão de verde, azul, vermelho, verde, azul blocos, topped com laranja.",
+          "Denso empacotando significa cada coluna deve vazio de inferior para superior — limpar verde base primeiro, então funciona azul e vermelho blocos para cima, e termine com laranja superior fileira.",
+          "Tabuleiro mistura Verde, Azul, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar cores de inferior para superior dentro cada coluna — do não skip ahead ou blocos obtenha preso.",
+        "Verde base deve go primeiro. Sem ele, azul e vermelho blocos acima tem no deslizando espaço.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar inferior verde blocos em direção a esquerda saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque azul blocos em inferior fileiras para fora através direita saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar vermelho blocos em meio fileiras através direita saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Mova verde blocos em superior-meio fileiras através esquerda saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Comece limpando azul blocos em superior fileiras através direita saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com laranja blocos em superior através superior saída."
+        }
+      ],
+      "failurePoints": [
+        "Limpando azul bloco antes que verde abaixo ele, que prende verde com no deslizando caminho.",
+        "Tentando para limpar laranja superior fileira antes que meio fileiras são abra, que entrava tabuleiro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 60 do Block Out",
+    "description": "Resolva o nível 60 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

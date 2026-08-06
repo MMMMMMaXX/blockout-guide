@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-34",
+  "locale": "zh-cn",
+  "levelNumber": 34,
+  "title": "Block Out 第 34 关通关攻略",
+  "summary": "Block Out 第 34 关标注为「Hard Level」，采用双 Boss 布局：左侧 `10` Boss 和右侧 `20` Boss 位于共享的红白黑地下室上方。解法分三阶段：先清空地下室以降下两个……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "Block Out 第 34 关标注为「Hard Level」，采用双 Boss 布局：左侧 `10` Boss 和右侧 `20` Boss 位于共享的红白黑地下室上方。解法分三阶段：先清空地下室以降下两个计数，再坍塌较小的左塔腾出空间，然后利用该空间加速右塔坍塌。一旦 Boss 降到 `9` 以下，隐藏的彩色方块——绿、黄、蓝——会涌出，需要单独分类。",
+        "landmarks": [
+          "解法分三个阶段：先清理地下室以降低两个计数，再让较小的左塔坍塌以创造空间，然后利用该空间加速右塔坍塌。",
+          "一旦 Boss 降到 `9` 以下，隐藏的彩色方块——绿、黄、蓝——就会涌出，需要单独分类。",
+          "左侧 `10` Boss 是你的进度计。如果右侧 Boss 显示 `17` 时它仍高于 `5`，说明地下室需要更多左侧关注。"
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "留意计数 `9` 附近的阶段转换——那正是隐藏彩色方块开始从腔室涌出的时刻。",
+        "把右侧地下室里的白色方块滑向右侧出口，并将黑色方块通过底部箭头移出。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "Block Out 第 34 关标注为「Hard Level」，采用双 Boss 布局：左侧 `10` Boss 和右侧 `20` Boss 位于共享的红白黑地下室上方。解法分三个阶段：先清理地下室以降低两个计数，再让较小的左塔坍塌以创造空间，然后利用该空间加速右塔坍塌。一旦 Boss 降到 `9` 以下，隐藏的彩色方块——绿、黄、蓝——就会涌出，需要单独分类。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "用左下角的绿色 `5` 方块作为开局一步，在左腔室下方打开一条通道。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "持续削薄地下室，直到左侧 `10` Boss 计数明显开始下降——留意左侧计数出现 `7`。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "把剩余地下室工作集中在左侧，使 `10` Boss 在右侧 `20` Boss 降到 `17` 之前完全坍塌。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "一旦左腔室清空，就利用腾出的空间加速右侧 `20` Boss 的削减。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "当右 Boss 降到 `9` 以下，彩色方块——绿、黄、蓝——涌出。通过侧边和底部出口将它们分类。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个腔室都清空后，用最后的红色地下室方块和剩余的暴露颜色收尾。"
+        }
+      ],
+      "failurePoints": [
+        "从一开始就对两个 Boss 平均用力——`20` Boss 需要多得多的空间，导致两座塔都达不到临界阈值，暴露的方块无处可去地堆积起来。",
+        "忽略左下角绿色 `5` 方块作为开局一步，延误了在进展最关键的左腔室下方打开通道。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 34 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 34 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

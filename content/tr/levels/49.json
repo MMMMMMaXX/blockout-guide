@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-49",
+  "locale": "tr",
+  "levelNumber": 49,
+  "title": "Block Out Seviye 49 Rehberi",
+  "summary": "Block Out Seviye 49 etiketli 'süper zor' ve içerir üç uzun ana blok odalar — sol ve sağ `17` her, ile merkez sarı anahtar blok — tüm oturarak üstünde sıkıştırılmış daha düşük oda mavi, yeşil, sarı, kırmızı, turuncu, ve camgöbeği blok...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "Block Out Seviye 49 etiketli 'süper zor' ve içerir üç uzun ana blok odalar — sol ve sağ `17` her, ile merkez sarı anahtar blok — tüm oturarak üstünde sıkıştırılmış daha düşük oda mavi, yeşil, sarı, kırmızı, turuncu, ve camgöbeği bloklar. boşalt daha düşük oda ilk ver tüm üç ana bloklar alan, sonra bırak eşleşti `17` odalar çökert roughly syncde. Every aşama depends daha düşük odada being açık enough.",
+        "landmarks": [
+          "Block Out Seviye 49 etiketli 'süper zor' ve içerir üç uzun ana blok odalar — sol ve sağ `17` her, ile merkez sarı anahtar blok — tüm oturarak üstünde sıkıştırılmış daha düşük oda mavi, yeşil, sarı, kırmızı, turuncu, ve camgöbeği bloklar.",
+          "Boşalt daha düşük oda ilk ver tüm üç ana bloklar alan, sonra bırak eşleşti `17` odalar çökert roughly syncde.",
+          "Every aşama depends daha düşük odada being açık enough."
+        ],
+        "colors": ["blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tüm üç ana bloklar depend aynı zeminde — eğer daha düşük oda hâlâ hisseder sıkıştırılmış, none onları hazır.",
+        "Sarı merkez blok arasında ana bloklar erken anahtar parça. kullan o başla açarak üst bölüm.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Boşalt daha düşük renkli bloklar (mavi, yeşil, sarı, kırmızı, turuncu, camgöbeği) yana çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan sarı merkez blok arasında ana bloklar erken hareket ettir başla açarak üst bölüm."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut `17` ana bloklar park edildi sırasında daha düşük oda hâlâ kalabalık."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra zemin yarı-boş, bırak ana blok sayaçlar başla dropping."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Çalış her ikisi de `17` odalar roughly evenly böylece onlar çökert syncde."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle geç renkli strips açığa çıktı üst alan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son yan sayaçlar ve oda temizlik."
+        }
+      ],
+      "failurePoints": [
+        "Çalışarak bir üst ana blok isolationda sırasında diğer iki hâlâ mühürlendi — tüm üç paylaş aynı zemin ve meli açık birlikte.",
+        "Değil boşaltarak daha düşük oda önce dokunarak ana bloklar, hangi bırakır hayır alan için any üç odalar çökert ."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 49 Rehberi ve Çözümü",
+    "description": "Block Out seviye 49'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de-level-22",
+  "locale": "de",
+  "levelNumber": 22,
+  "title": "Block Out Level 22 Lösung",
+  "summary": "Block Out Level 22 ist single giant Boss-Raum Puzzle around lila `17` panel. Abbauen checker roof erste, let huge Boss panel starten falling second, und sauber hoch spät blau und pink Bauteile nur nach lid ist gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/22/",
+        "layout": "Block Out Level 22 ist single giant Boss-Raum Puzzle around lila `17` panel. Abbauen checker roof erste, let huge Boss panel starten falling second, und sauber hoch spät blau und pink Bauteile nur nach lid ist gone.",
+        "landmarks": [
+          "Block Out Level 22 ist single giant Boss-Raum Puzzle around lila `17` panel.",
+          "Abbauen checker roof erste, let huge Boss panel starten falling second, und sauber hoch spät blau und pink Bauteile nur nach lid ist gone.",
+          "Das Spielfeld mixes Lila, Schwarz, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "black", "white", "red", "blue", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NYVd_MgWuJM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NYVd_MgWuJM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Roof matters mehr als Boss bei starten.",
+        "Rechts rot entfernen ist part von roof cleanup, nicht früh finisher.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen oben checker roof von links zu rechts also obere Blockierer stop sealing chamber."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Bewegen rechts rot entfernen nur nach surrounding schwarz Blöcke haben verschoben."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten `17` panel geparkt while Seite Zähler und roof continue shrinking."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once roof ist thin enough, starten draining `17` Boss panel."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden newly geöffnet obere Bahn zu bring hinaus spät blau und pink Bauteile."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Flatten remaining türkis Spalten nach Boss value ist much untere."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden Raum once Boss panel hat fully collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Working `17` panel bevor roof hat geöffnet.",
+        "Leaving rechts rot entfernen buried in roof when schwarz Blöcke still need zu bewegen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/22/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 22 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 22 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

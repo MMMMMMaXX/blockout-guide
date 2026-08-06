@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-20",
+  "locale": "pt-br",
+  "levelNumber": 20,
+  "title": "Guia do nível 20 do Block Out",
+  "summary": "Block Out Nível 20 é dois-espaço chefe quebra-cabeça centered em enorme roxo `5` bloco. Prepare inferior espaço, mantenha verde caule livre, reduza moldura contadores ao redor chefe, e único então deixe superior câmara resolve.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "Block Out Nível 20 é dois-espaço chefe quebra-cabeça centered em enorme roxo `5` bloco. Prepare inferior espaço, mantenha verde caule livre, reduza moldura contadores ao redor chefe, e único então deixe superior câmara resolve.",
+        "landmarks": [
+          "Block Out Nível 20 é dois-espaço chefe quebra-cabeça centered em enorme roxo `5` bloco.",
+          "Prepare inferior espaço, mantenha verde caule livre, reduza moldura contadores ao redor chefe, e único então deixe superior câmara resolve.",
+          "Tabuleiro mistura Roxo, Verde, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Proteja verde caule.",
+        "Inferior espaço é suporte funciona para superior chefe.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar espaço ao redor amarelo inferior saída em inferior espaço so primeiro contadores comece para caia."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Gire vermelho e azul inferior-espaço blocos sem pinning central verde caule."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha roxo `5` estacionado em superior câmara enquanto superior moldura contadores solte."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use inferior espaço para mantenha alimentando lados de superior câmara até chefe moldura é almost abra."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Livre verde caule único depois inferior espaço tem suficiente vazio espaço para absorb próximo movimentos."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deixe superior câmara termine uma vez roxo `5` bloco é no mais longo trancado por moldura."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termina com último inferior-espaço cores depois chefe bloco tem já limpo."
+        }
+      ],
+      "failurePoints": [
+        "Bloqueando verde conector com inferior-espaço cor bloco.",
+        "Tentando para mova roxo `5` enquanto moldura contadores são ainda high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 20 do Block Out",
+    "description": "Resolva o nível 20 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

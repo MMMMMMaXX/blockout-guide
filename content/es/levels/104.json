@@ -1,0 +1,93 @@
+{
+  "id": "es-level-104",
+  "locale": "es",
+  "levelNumber": 104,
+  "title": "Guía de Block Out Nivel 104",
+  "summary": "Block Out nivel 104 es un tablero gravity — verde-flecha baldosas solo fall downward, y chain reactions ripple izquierdo a derecho mientras columnas collapse. The danger es clearing el centro too early, antes derecho-columna flecha baldosas have settled, que...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out nivel 104 es un tablero gravity — verde-flecha baldosas solo fall downward, y chain reactions ripple izquierdo a derecho mientras columnas collapse. The danger es clearing el centro too early, antes derecho-columna flecha baldosas have settled, que cuts apagado the final chain reaction ese sweeps el tablero limpio.",
+        "landmarks": [
+          "Block Out nivel 104 es un tablero gravity — verde-flecha baldosas solo fall downward, y chain reactions ripple izquierdo a derecho mientras columnas collapse.",
+          "The danger es clearing el centro too early, antes derecho-columna flecha baldosas have settled, que cuts apagado the final chain reaction ese sweeps el tablero limpio.",
+          "El tablero mixes cian, verde, naranja y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["cyan", "green", "orange", "morado", "pink", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Halve la pared izquierdo antes triggering el coincidencia centro chain.",
+        "Flecha baldosas cannot sidestep — ellos need a full abierto columna directly beneath los.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the superior de the izquierdo stack por the superior salidas a abierto the primero downward columna."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Tira verde y cian baldosas fuera de la pared izquierdo antes touching el centro pairs."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Trigger the superior-central coincidencia chain once un hueco vertical runs beneath lo (starburst alrededor 01:42)."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Usa the azul splash columna a drop el centro restante flecha baldosas straight abajo."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Sweep the derecho-lado naranja y morado flecha baldosas por the derecho-pared salidas."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina the inferior-fila rosa y azul singles después the grid es mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Matching el centro cluster antes la pared izquierdo es half gone — derecho-columna flecha baldosas luego have no drop carril.",
+        "Elimina inferior singles too early mientras superior flecha baldosas todavía bloque el columnas sobre los."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 104",
+    "description": "Resuelve Block Out nivel 104 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

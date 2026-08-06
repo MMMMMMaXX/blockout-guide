@@ -1,0 +1,93 @@
+{
+  "id": "de-level-74",
+  "locale": "de",
+  "levelNumber": 74,
+  "title": "Block Out Level 74 Lösung",
+  "summary": "Block Out Level 74 öffnet mit four lila chambers wrapped around cramped Mitte spine. Drain tiny `3` pocket bei untere rechte erste, schieben türkis steps hinaus von untere Bahn, dann let `7` und `15` rooms shrink bevor du fina...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out Level 74 öffnet mit four lila chambers wrapped around cramped Mitte spine. Drain tiny `3` pocket bei untere rechte erste, schieben türkis steps hinaus von untere Bahn, dann let `7` und `15` rooms shrink bevor du finally commit zu huge `20` chamber auf links.",
+        "landmarks": [
+          "Block Out Level 74 öffnet mit four lila chambers wrapped around cramped Mitte spine.",
+          "Drain tiny `3` pocket bei untere rechte erste, schieben türkis steps hinaus von untere Bahn, dann let `7` und `15` rooms shrink bevor du finally commit zu huge `20` chamber auf links.",
+          "Das Spielfeld mixes Lila, Blau, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Wenn türkis Schritt Bauteil still covers untere mittlere, stay weg von `20` chamber.",
+        "`3` pocket ist nicht filler. Es ist key dass öffnet untere ansteuern für `7` Raum.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Drain untere rechte lila chamber marked `3` als soon als Level startet."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden dass new floor Platz zu schieben türkis Schritt Blöcke weg von untere mittlere und freigeben grün entfernen neben sie."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten reducing untere linke `7` chamber once türkis Bauteil ist kein longer blocking sein Bahn."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Let obere rechte `15` chamber lose sein einfach rechts-Wand exits while linke Seite ist Eröffnungs-."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Lassen obere linke `20` chamber alone bis `7` Raum ist mostly gone und Mitte rot ladder hat broken apart."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden durch draining `20` chamber und sweeping hinaus remaining lila, türkis, und rot Bauteile durch öffnen Mitte."
+        }
+      ],
+      "failurePoints": [
+        "Leaning auf `20` chamber bevor untere rechte `3` pocket ist gone und türkis steps haben bewegt.",
+        "Versuchen zu arbeiten `7` Raum while türkis Blockierer ist still stretched über untere mittlere."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 74 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 74 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

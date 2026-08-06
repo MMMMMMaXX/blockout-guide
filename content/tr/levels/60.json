@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-60",
+  "locale": "tr",
+  "levelNumber": 60,
+  "title": "Block Out Seviye 60 Rehberi",
+  "summary": "Block Out Seviye 60 dolur 5×7 ızgara ile repeating pattern yeşil, mavi, kırmızı, yeşil, mavi bloklar, topped ile turuncu. sıkışık packing demektir every sütun meli boş altdan üste — temizle yeşil taban ilk, sonra çalış mavi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "Block Out Seviye 60 dolur 5×7 ızgara ile repeating pattern yeşil, mavi, kırmızı, yeşil, mavi bloklar, topped ile turuncu. sıkışık packing demektir every sütun meli boş altdan üste — temizle yeşil taban ilk, sonra çalış mavi ve kırmızı bloklar yukarı doğru, ve bitir ile turuncu üst sıra.",
+        "landmarks": [
+          "Block Out Seviye 60 dolur 5×7 ızgara ile repeating pattern yeşil, mavi, kırmızı, yeşil, mavi bloklar, topped ile turuncu.",
+          "Sıkışık packing demektir every sütun meli boş altdan üste — temizle yeşil taban ilk, sonra çalış mavi ve kırmızı bloklar yukarı doğru, ve bitir ile turuncu üst sıra.",
+          "Tahta yeşil, mavi, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle renkler altdan üst içindee her sütun — değil skip ahead veya bloklar al tuzağa düştü.",
+        "Yeşil taban meli git ilk. olmadan o, mavi ve kırmızı bloklar üstünde hayır kaydırarak alan.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle alt yeşil bloklar sol çıkışa açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır mavi bloklar daha düşük sıralarda dışarı sağ çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle kırmızı bloklar orta sıralarda sağ çıkışdan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Hareket ettir yeşil bloklar üst-orta sıralar sol çıkışdan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Başla temizleyerek mavi bloklar üst sıralarda sağ çıkışdan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile turuncu bloklar üstde üst çıkışdan."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek mavi blok önce yeşil altında o, hangi tuzağa düşürür yeşil ile hayır kaydırarak yol.",
+        "Deneyerek temizle turuncu üst sıra önce orta sıralar açık, hangi sıkışır tahta."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 60 Rehberi ve Çözümü",
+    "description": "Block Out seviye 60'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es-level-27",
+  "locale": "es",
+  "levelNumber": 27,
+  "title": "Guía de Block Out Nivel 27",
+  "summary": "El nivel 27 de Block Out es un rompecabezas de jefe con liberación en bolsillo. Vacía la cavidad derecha primero, empieza a bajar el jefe izquierdo `7` segundo, y solo entonces retira las tiras verdes, rojas y amarillas finales.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "El nivel 27 de Block Out es un rompecabezas de jefe con liberación en bolsillo. Vacía la cavidad derecha primero, empieza a bajar el jefe izquierdo `7` segundo, y solo entonces retira las tiras verdes, rojas y amarillas finales.",
+        "landmarks": [
+          "El nivel 27 de Block Out es un rompecabezas de jefe con liberación en bolsillo.",
+          "Vacía la cavidad derecha primero, empieza a bajar el jefe izquierdo `7` segundo, y solo entonces retira las tiras verdes, rojas y amarillas finales.",
+          "El tablero combina morado, blanco, negro y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["purple", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El bolsillo derecho abre el jefe izquierdo.",
+        "Las tiras de color finales son la limpieza posterior al jefe.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Vacía primero la cavidad blanca y negra derecha."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Baja los contadores del lado izquierdo mientras el jefe sigue intacto."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Empieza a encoger el panel enmarcado `7` solo después de que el bolsillo lateral esté despejado."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Usa el espacio recién abierto para girar las tiras verdes y rojas finales."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Trae la tira amarilla solo después de que el jefe ya esté por debajo de la mitad del contador."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Limpia las salidas laterales cuando el jefe esté casi desaparecido."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con las últimas tiras de color después de que el panel enmarcado haya colapsado."
+        }
+      ],
+      "failurePoints": [
+        "Ignorar la cavidad derecha y tirar del jefe izquierdo demasiado pronto.",
+        "Tratar las tiras de color finales como la fase inicial."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 27",
+    "description": "Resuelve el nivel 27 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

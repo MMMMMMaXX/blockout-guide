@@ -1,0 +1,98 @@
+{
+  "id": "es-level-9",
+  "locale": "es",
+  "levelNumber": 9,
+  "title": "Guía de Block Out Nivel 9",
+  "summary": "El nivel 9 de Block Out es un rompecabezas de dos torres con una muesca central apretada. Limpia primero la salida amarilla derecha, cede al azul la cavidad central y luego gira en sentido horario verde, rosa y rojo alrededor del marco.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "El nivel 9 de Block Out es un rompecabezas de dos torres con una muesca central apretada. Limpia primero la salida amarilla derecha, cede al azul la cavidad central y luego gira en sentido horario verde, rosa y rojo alrededor del marco.",
+        "landmarks": [
+          "El nivel 9 de Block Out es un rompecabezas de dos torres con una muesca central apretada.",
+          "Limpia primero la salida amarilla derecha, cede al azul la cavidad central y luego gira en sentido horario verde, rosa y rojo alrededor del marco.",
+          "El tablero combina rosa, rojo, amarillo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Usa la salida amarilla derecha para romper la simetría.",
+        "El bloque azul central debe moverse en cuanto se abra la muesca.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza el bloque amarillo centro-derecho fuera por la salida amarilla del muro derecho."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mueve el bloque azul central a la nueva abertura para que la muesca central ya no esté bloqueada."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Gira el bloque verde inferior derecho hacia abajo y luego baja el bloque azul inferior izquierdo a su propio carril."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Usa el centro liberado para mover las piezas rosa por las filas superior y central mientras bajan los contadores de los bordes."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Deja que el bloque rojo inferior se asiente en el centro cuando verde y azul ya no lo crucen."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Guarda los dos bloques rojos de las esquinas superiores hasta que las zonas superiores estén despejadas."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina enviando el par rojo por las salidas superiores y dejando drenar el último bloque azul por la última salida azul."
+        }
+      ],
+      "failurePoints": [
+        "Dejar el bloque azul central estacionado después de que ya está abierta la salida amarilla derecha.",
+        "Intentar forzar uno de los bloques rojos superiores antes de que hayan girado las piezas verde y azul inferiores."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 9",
+    "description": "Resuelve el nivel 9 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

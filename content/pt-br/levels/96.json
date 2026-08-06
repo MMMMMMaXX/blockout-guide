@@ -1,0 +1,101 @@
+{
+  "id": "pt-br-level-96",
+  "locale": "pt-br",
+  "levelNumber": 96,
+  "title": "Guia do nível 96 do Block Out",
+  "summary": "Block Out Nível 96 é pure density quebra-cabeça — no câmaras, no molduras, apenas parede-para-parede colorido blocos de varying sizes. alto vermelho bloco com contador `12` divides centro como parede, dois grande roxo blocos (contadores `9` e `5`) do...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "Block Out Nível 96 é pure density quebra-cabeça — no câmaras, no molduras, apenas parede-para-parede colorido blocos de varying sizes. alto vermelho bloco com contador `12` divides centro como parede, dois grande roxo blocos (contadores `9` e `5`) dominam direita metade, e laranja/verde blocos preencha esquerda. Limpar pequeno contador-`1` borda blocos primeiro para breathing espaço, desbloqueie comporta verde `3` bloco, então alimente grande peças através seus nearest saídas.",
+        "landmarks": [
+          "Block Out Nível 96 é pure density quebra-cabeça — no câmaras, no molduras, apenas parede-para-parede colorido blocos de varying sizes.",
+          "Alto vermelho bloco com contador `12` divides centro como parede, dois grande roxo blocos (contadores `9` e `5`) dominam direita metade, e laranja/verde blocos preencha esquerda.",
+          "Limpar pequeno contador-`1` borda blocos primeiro para breathing espaço, desbloqueie comporta verde `3` bloco, então alimente grande peças através seus nearest saídas."
+        ],
+        "colors": ["red", "blue", "green", "purple", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar pequeno contador-`1` borda blocos primeiro — cada um creates espaço para grande blocos para desloque.",
+        "Desbloqueie verde `3` bloco cedo por removendo seu amarelo chave — ele saídas esquerda-lateral caminho.",
+        "Alto vermelho `12` bloco divides tabuleiro como parede — limpar ambos lados de ele antes que inicial seu alimente."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar pequeno contador-`1` blocos ao redor bordas: laranja para cima (superior saída), amarelo `1` para a direita (direita-parede saída), ciano `1` para baixo (inferior saída) — cada creates breathing espaço (02:54–02:48 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Empurre amarelo chave bloco perto centro através direita saída para desbloqueie comporta verde `3` bloco (02:42)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece alimentando superior roxo `9` bloco através direita-parede saída — nove passa (02:42–02:30)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar unlocked verde `3` bloco através esquerda-parede saída agora que saída é abra (02:30)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Comece alimentando alto vermelho `12` bloco através esquerda-parede saída — twelve passa, mantendo esquerda pista limpar de debris (02:25–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente inferior roxo `5` bloco através inferior direita-parede saída — cinco passa (02:13–02:07)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar restante laranja, amarelo, e azul blocos através seus nearest saídas como tabuleiro abre (02:07–02:01)."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Termine com último pequeno blocos em inferior uma vez tabuleiro é principalmente abra (01:56)."
+        }
+      ],
+      "failurePoints": [
+        "Inicial alto vermelho `12` bloco alimente antes que limpando pequeno debris em esquerda lateral — ele stalls mid-alimente e prende laranja e verde blocos atrás de ele.",
+        "Ignorando trancado verde `3` bloco's chave cedo em — chave bloco deve saída antes que verde bloco pode mova, e deixando ele tarde creates bottleneck."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 96 do Block Out",
+    "description": "Resolva o nível 96 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

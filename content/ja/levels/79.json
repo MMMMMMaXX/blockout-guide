@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-79",
+  "locale": "ja",
+  "levelNumber": 79,
+  "title": "ブロックアウト レベル79 攻略",
+  "summary": "ブロックアウト レベル79は2段階の盤面です。まず、2つの窮屈な上部の穴の下にある巨大な紫の「17」貯水槽を空にします。その後盤面は下部のトレイに崩れ、そこで紫の橋型ピースを、右の青とオレンジのブロックが抜け出す前に動かす必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "ブロックアウト レベル79は2段階の盤面です。まず、2つの窮屈な上部の穴の下にある巨大な紫の「17」貯水槽を空にします。その後盤面は下部のトレイに崩れ、そこで紫の橋型ピースを、右の青とオレンジのブロックが抜け出す前に動かす必要があります。",
+        "landmarks": [
+          "ブロックアウト レベル 79 2段階の .。",
+          "排出する 紫 `17` 配置し 狭い 上の .。",
+          "下の トレイ 紫 - ピース 手順、青、オレンジ 右 .。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を扱いて`17`、`7` 部屋.。",
+        "下の トレイ、を開きて左に、側、解放する 青 手順 右.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を排出して下 部屋 `17`、上 穴.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "上の-左 レーン 動かし 赤の字型-、緑 ' .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を始めて上の-右 `7` 部屋、左 穴 側 カウンター.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "紫 部屋、下の トレイ .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を開きて左に、側 下の トレイ、手順 紫 ピース、青 ブロック 右 通す.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて右-側 青、オレンジ、中央レーン .。"
+        }
+      ],
+      "failurePoints": [
+        "を扱いて上の-右 `7` 部屋 目標、`17` .。",
+        "消去する 右-側 青 手順 下の トレイ、紫 ピース 動かし.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル79 攻略と解説",
+    "description": "ブロックアウト レベル79 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

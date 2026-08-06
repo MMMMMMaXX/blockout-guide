@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-72",
+  "locale": "tr",
+  "levelNumber": 72,
+  "title": "Block Out Seviye 72 Rehberi",
+  "summary": "Block Out Seviye 72 barındırır 5×7 ızgara ile numaralı bloklar '6' ve '11' yanlarda, serbest-kaydırarak gülen yüz bloklar ortada, ve yönlü ok bloklar kenarlarda. numaralı bloklar meli çıkış onların kapılardan sırasında gülen yüz b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out Seviye 72 barındırır 5×7 ızgara ile numaralı bloklar '6' ve '11' yanlarda, serbest-kaydırarak gülen yüz bloklar ortada, ve yönlü ok bloklar kenarlarda. numaralı bloklar meli çıkış onların kapılardan sırasında gülen yüz bloklar serbest hareket ettir. temizle alt ilk, sonra çalış gülen yüz bloklar, ve bitir ile numaralı bloklar.",
+        "landmarks": [
+          "Block Out Seviye 72 barındırır 5×7 ızgara ile numaralı bloklar '6' ve '11' yanlarda, serbest-kaydırarak gülen yüz bloklar ortada, ve yönlü ok bloklar kenarlarda.",
+          "Numaralı bloklar meli çıkış onların kapılardan sırasında gülen yüz bloklar serbest hareket ettir.",
+          "Temizle alt ilk, sonra çalış gülen yüz bloklar, ve bitir ile numaralı bloklar."
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gülen yüz bloklar ortada serbest-kaydırarak — kullan bu freedom temizle paths için numaralı bloklar.",
+        "Temizle lighter '6' blok ilk, sonra heavier '11' bloklar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle yeşil gülen yüz bloklar altda alt çıkışdan açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır sarı bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla kaydırarak turuncu ve sarı gülen yüz bloklar orta freelyde — onlar ebilir hareket ettir any directionda."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle mavi bloklar sağda sağ çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tackle numaralı bloklar ile sayaçlar '6' ve '11' — temizle lighter '6' ilk."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile heavier '11' bloklar, hangi çoğu alan sonra diğerleri temizlendi."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek numaralı '11' bloklar önce gülen yüz bloklar — '11' bloklar gerektir alan kaydır ve çıkış multiple times.",
+        "Temizleyerek üst önce alt, hangi bırakır daha düşük bloklar tuzağa düştü ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 72 Rehberi ve Çözümü",
+    "description": "Block Out seviye 72'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

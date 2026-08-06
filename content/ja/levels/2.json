@@ -1,0 +1,100 @@
+{
+  "id": "ja-level-2",
+  "locale": "ja",
+  "levelNumber": 2,
+  "title": "ブロックアウト レベル2 攻略",
+  "summary": "ブロックアウト レベル2は、赤が上・黄が左で始まり、その後は縦列の片付けに変わります。青を左上の角に配置し、白と黒の列を上部レーンから剥がし、青は最後に回収します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "ブロックアウト レベル2は、赤が上・黄が左で始まり、その後は縦列の片付けに変わります。青を左上の角に配置し、白と黒の列を上部レーンから剥がし、青は最後に回収します。",
+        "landmarks": [
+          "ブロックアウト レベル 2 赤 上、黄 左、-列 .。",
+          "青のを配置して左上の角、白のを剥がして、黒の列 上部レーン、回収する 青 .。",
+          "混ぜる 赤、黄、青、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤、黄 開始時の消去.。",
+        "青、出口 ブロック .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "手順 赤のＬ字型ブロック 上 上段の赤の出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を押して黄のＴ字型ブロック 左 黄の側面出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をスライドさせて青の字型 左上の角、を残して配置し .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を上げて右端の白の列、持ち上げる その隣の黒の列 右上の黒の出口.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を引きて中央の背の高い白の列 上 左上の白の出口、黒の角 解放する.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて上部レーン 取り除く 残りの白の積み 右側.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を送りて最後の黒の列 上 黒の出口.。"
+        },
+        {
+          "order": 8,
+          "title": "手順8",
+          "instruction": "を終えて配置された青のＬ字型 左の壁にある青の出口.。"
+        }
+      ],
+      "failurePoints": ["送る 青の字型 出口、白の列 .。", "を無視して右に、黒の列、白 塞ぎ 角.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル2 攻略と解説",
+    "description": "ブロックアウト レベル2 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

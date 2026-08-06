@@ -1,0 +1,91 @@
+{
+  "id": "de-level-112",
+  "locale": "de",
+  "levelNumber": 112,
+  "title": "Block Out Level 112 Lösung",
+  "summary": "Block Out Level 112 startet mit two oversized lila bars — `7` und `10` — dass shrink durch Reihe und Spalte schiebt in smaller Zähler als das Spielfeld contracts. Lösen ist slow implosion: bars break runter stage durch stage unti...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "Block Out Level 112 startet mit two oversized lila bars — `7` und `10` — dass shrink durch Reihe und Spalte schiebt in smaller Zähler als das Spielfeld contracts. Lösen ist slow implosion: bars break runter stage durch stage bis nur Mitte `3` zone remains. Force perimeter schieben bevor big bars haben split und entire collapse sequence jams.",
+        "landmarks": [
+          "Block Out Level 112 startet mit two oversized lila bars — `7` und `10` — dass shrink durch Reihe und Spalte schiebt in smaller Zähler als das Spielfeld contracts.",
+          "Lösen ist slow implosion: bars break runter stage durch stage bis nur Mitte `3` zone remains.",
+          "Force perimeter schieben bevor big bars haben split und entire collapse sequence jams."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Numbered tray Kacheln bei unten sind finishers — sliding sie früh closes grün smiley Bahn.",
+        "Verwenden oben lila Pfeile zu split `7` bar weg von `10` Block bevor touching Mitte.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben links blau vertikal Spalte nach oben along rot links Pfeil zu freigeben oben `7` bar."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben `7` bar rightward bis es splits von `10` Block und obere Spielfeld öffnet auf beide sides."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Drehen grün smiley bar leftward durch new gap ohne touching numbered tray Kacheln (`1`, `4`, `3`)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Collapse `10` bar in Mitte zone verwendend oben lila Pfeile bis das Spielfeld zeigt single `3` pocket."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen scattered edge Blöcke (rot links, blau oben, grün rechts, gelb unten) one bei time around `3` zone."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen orange `1` und gelb `4` tray Kacheln durch unten Pfeile zu beenden letzte perimeter räumt."
+        }
+      ],
+      "failurePoints": [
+        "Sliding unten numbered tray Kacheln (`1`, `4`, `3`) bevor `7` und `10` bars haben split.",
+        "Forcing grün smiley bar nach unten while Mitte `3` pocket ist still boxed in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 112 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 112 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

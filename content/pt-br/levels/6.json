@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-6",
+  "locale": "pt-br",
+  "levelNumber": 6,
+  "title": "Guia do nível 6 do Block Out",
+  "summary": "Block Out Nível 6 é primeiro staged-saída tabuleiro. Colapse direita-lateral quota primeiro, mantenha ambos superior `9` caps encolhendo juntos, e salve vermelho e amarelo termine barras para moment superior saídas thaw.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "Block Out Nível 6 é primeiro staged-saída tabuleiro. Colapse direita-lateral quota primeiro, mantenha ambos superior `9` caps encolhendo juntos, e salve vermelho e amarelo termine barras para moment superior saídas thaw.",
+        "landmarks": [
+          "Block Out Nível 6 é primeiro staged-saída tabuleiro.",
+          "Colapse direita-lateral quota primeiro, mantenha ambos superior `9` caps encolhendo juntos, e salve vermelho e amarelo termine barras para moment superior saídas thaw.",
+          "Tabuleiro mistura Vermelho, Amarelo, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Direita-lateral `4` contador é primeiro alvo.",
+        "Mantenha inferior vermelho e amarelo barras idle até lateral pista abre.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize superior-direita branco empilhe em superior-direita pista so ele pode comece hitting direita-lateral quota coluna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use centro branco bridge para mantenha alimentando direita-lateral contador até ele solta de `4` em direção a `1`."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gire superior preto bloqueador e superior branco blocos através dois `9` contadores so ambos superior caps mantenha encolhendo juntos."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deixe inferior vermelho remova e inferior-direita amarelo remova estacionado enquanto checkerboard centro é ainda doing quota funciona."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez direita parede abre em branco libere pista, descasque último superior branco block out e termine superior countdown."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Quando frozen caps convert em colorido saídas, envie amarelo remova para superior-direita saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por running último vermelho remova para superior-esquerda vermelho saída."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para gaste inferior vermelho ou amarelo barras antes que direita-lateral contador tem quase collapsed.",
+        "Único encolhendo um de superior `9` caps e deixando outro um frozen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 6 do Block Out",
+    "description": "Resolva o nível 6 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

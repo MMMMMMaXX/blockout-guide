@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-68",
+  "locale": "zh-cn",
+  "levelNumber": 68,
+  "title": "Block Out 第68关攻略",
+  "summary": "Block Out 第68关将两个区域上下叠放，由一条横向分隔栏隔开。上层混合了绿色方块、一个大号蓝色正方形和橙/黄方块。下层主要由一个被红色边框包裹、计数「7」的巨大紫色长方形主导。先清空整个上层……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out 第68关将两个区域上下叠放，由一条横向分隔栏隔开。上层混合了绿色方块、一个大号蓝色正方形和橙/黄方块。下层主要由一个被红色边框包裹、计数「7」的巨大紫色长方形主导。先清空整个上层——分隔栏在它清空之前不会打开。然后剥离红色边框，将紫色方块从其出口送出七次。",
+        "landmarks": [
+          "Block Out 第68关将两个区域上下叠放，由一条横向分隔栏隔开。",
+          "上层混合了绿色方块、一个大号蓝色正方形和橙/黄方块。",
+          "下层主要由一个被红色边框包裹、计数「7」的巨大紫色长方形主导。",
+          "先清空整个上层——分隔栏在它清空之前不会打开。"
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "purple", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在碰下层之前先彻底清空上层——否则分隔栏不会打开。",
+        "在将紫色方块送出口之前，先剥离它周围的红色边框。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将上层顶部的小方块从顶部出口清空。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧的绿色方块从左出口抽出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将大号蓝色正方形方块从右侧或顶部出口滑出。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "清空上层底部的橙/黄方块。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "上层清空后分隔栏打开——剥离紫色方块周围的红色边框。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将巨大的紫色方块（计数「7」）反复从其出口送出，直到完全清空。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "最后处理任何剩余的青色侧块和底部碎片。"
+        }
+      ],
+      "failurePoints": [
+        "在上层清空之前就移动紫色方块——分隔栏仍封死。",
+        "在试图输送之前忘了剥离紫色方块周围的红色边框。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第68关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第68关。"
+  },
+  "updatedAt": "2026-08-03"
+}

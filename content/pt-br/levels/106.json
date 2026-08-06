@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-106",
+  "locale": "pt-br",
+  "levelNumber": 106,
+  "title": "Guia do nível 106 do Block Out",
+  "summary": "Block Out Nível 106 é compartment labirinto onde bolso contadores oculte dentro roxo paredes e um-caminho para cima-seta pista corre através centro. numerado peças são real objetivos, não labels — cada bolso deve escoe antes que próximo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "Block Out Nível 106 é compartment labirinto onde bolso contadores oculte dentro roxo paredes e um-caminho para cima-seta pista corre através centro. numerado peças são real objetivos, não labels — cada bolso deve escoe antes que próximo parede abre. inferior conveyor fileira alimenta whole system, e puxando ele também cedo colapsa centro canal enquanto superior bolsos são ainda ao vivo.",
+        "landmarks": [
+          "Block Out Nível 106 é compartment labirinto onde bolso contadores oculte dentro roxo paredes e um-caminho para cima-seta pista corre através centro.",
+          "Numerado peças são real objetivos, não labels — cada bolso deve escoe antes que próximo parede abre.",
+          "Inferior conveyor fileira alimenta whole system, e puxando ele também cedo colapsa centro canal enquanto superior bolsos são ainda ao vivo."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Centro para cima-seta pista é principal alimente roteie — do não bloco ele com inferior fileira.",
+        "Espere para direita-bolso vermelho `1`/`2` par para limpar antes que soltando inferior conveyor fileira.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize superior-esquerda verde/amarelo/azul aglomerado em centro para cima-seta pista."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar ciano `8` e azul `10` peças de superior-meio bolso."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Descasque superior-direita vermelho `12` e `14` empilhe uma vez centro canal é totalmente abra."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use highlighted azul `4` peça mid-use para desbloqueie meio-esquerda isolated bolso."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Solte inferior horizontal fileira único depois direita-bolso vermelho `1` e `2` peças são indo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com inferior-bandeja triangle peça e feche contadores `5`, `2`, e `8`."
+        }
+      ],
+      "failurePoints": [
+        "Puxando inferior conveyor fileira antes que direita-bolso vermelho `1`/`2` par limpa — este selos labirinto.",
+        "Rushing amarelo `16` peça antes que ciano `8` e azul `10` bolsos são vazio."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 106 do Block Out",
+    "description": "Resolva o nível 106 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

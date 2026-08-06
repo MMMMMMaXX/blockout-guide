@@ -1,0 +1,92 @@
+{
+  "id": "ja-level-83",
+  "locale": "ja",
+  "levelNumber": 83,
+  "title": "ブロックアウト レベル83 攻略",
+  "summary": "ブロックアウト レベル83は、3つの異なる区画を持つ段層パズルです。上部の層には2つの重い紫ブロック（各カウンター「12」）がオレンジ枠に入っています。中間の層は色ブロックと鍵付きピースで詰め込まれ、下部の部屋には…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "ブロックアウト レベル83は、3つの異なる区画を持つ段層パズルです。上部の層には2つの重い紫ブロック（各カウンター「12」）がオレンジ枠に入っています。中間の層は色ブロックと鍵付きピースで詰め込まれ、下部の部屋が隠れています。まず中間の層の鍵付きブロックを消去して通路を作り、次に重い紫ブロックを各出口から通し、最後に下部の部屋で締めくくります。",
+        "landmarks": [
+          "ブロックアウト レベル 83 .。",
+          "紫 (カウンター '12' ) 配置する オレンジ 枠 上 層.。",
+          "中央の 層 詰まった、をロックして/鍵 .。",
+          "下の 部屋 .。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去して中央の 層、紫 上.。",
+        "下の 部屋、中央の .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を解放して、を消去してロックする/鍵 中央の 層 側 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を取り出して(赤、緑、黄) 中央の 層.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "左 紫 ブロック (カウンター '12') 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "紫ブロックを通して右に、(カウンター '12')、.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "青のを消去して、緑 下の 部屋.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて下の 部屋.。"
+        }
+      ],
+      "failurePoints": [
+        "紫 ブロック、中央の 層 作り レーン — 通す .。",
+        "を無視してロックする/鍵 順序 中央の 層、を残して、.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル83 攻略と解説",
+    "description": "ブロックアウト レベル83 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

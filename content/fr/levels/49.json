@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-49",
+  "locale": "fr",
+  "levelNumber": 49,
+  "title": "Guide Block Out Niveau 49",
+  "summary": "Block Out Niveau 49 est étiqueté 'Super Hard' et features trois haut boss chambres — gauche et droite à `17` chaque, avec centre jaune clé bloc — all sitting au-dessus packed abaissez chambre de bleu, vert, jaune, rouge, orange, et bloc cyan...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "Block Out Niveau 49 est étiqueté 'Super Hard' et features trois haut boss chambres — gauche et droite à `17` chaque, avec centre jaune clé bloc — all sitting au-dessus packed abaissez chambre de bleu, vert, jaune, rouge, orange, et blocs cyan. Drainez abaissez chambre premier à donnez all trois bosses salle, alors laissez matched `17` chambres effondrez roughly dans sync. Chaque phase depends sur abaissez chambre being ouvrez assez.",
+        "landmarks": [
+          "Block Out Niveau 49 est étiqueté 'Super Hard' et features trois haut boss chambres — gauche et droite à `17` chaque, avec centre jaune clé bloc — all sitting au-dessus packed abaissez chambre de bleu, vert, jaune, rouge, orange, et blocs cyan.",
+          "Drainez abaissez chambre premier à donnez all trois bosses salle, alors laissez matched `17` chambres effondrez roughly dans sync.",
+          "Chaque phase depends sur abaissez chambre being ouvrez assez."
+        ],
+        "colors": ["blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "All trois bosses depend sur même floor — si abaissez chambre toujours feels packed, none de les est prêt.",
+        "Jaune centre bloc entre bosses est tôt clé pièce. Utilisez il à commencez opening supérieur section.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Drainez abaissez blocs colorés (bleu, vert, jaune, rouge, orange, cyan) vers côté sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez jaune centre bloc entre bosses comme tôt déplacez à commencez opening supérieur section."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez `17` bosses garé pendant abaissez chambre est toujours encombré."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois floor est à propos de half-videz, laissez boss compteurs commencez dropping."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Work les deux `17` chambres roughly evenly donc ils effondrez dans sync."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez tardif coloré bandes de révélé supérieur espace."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier côté compteurs et chambre cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Working one haut boss dans isolation pendant autre deux sont toujours sealed — all trois partagent même floor et doit ouvrez together.",
+        "Pas draining abaissez chambre avant touching bosses, qui leaves non salle pour un de trois chambres à effondrez dans."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 49",
+    "description": "Résolvez le niveau 49 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-125",
+  "locale": "fr",
+  "levelNumber": 125,
+  "title": "Guide Block Out Niveau 125",
+  "summary": "Block Out Niveau 125 est fast U-cadre plateau où bas launcher rangée feeds blocs vers le haut dans U-shaped gap. côté arms doit amincissez à bleu `6` et `4` tuiles avant launchers peut fire — sinon gap overflows. Cassez tho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/125/",
+        "layout": "Block Out Niveau 125 est fast U-cadre plateau où bas launcher rangée feeds blocs vers le haut dans U-shaped gap. côté arms doit amincissez à bleu `6` et `4` tuiles avant launchers peut fire — sinon gap overflows. Cassez those compteurs, alors dépensez launcher rangée pour PERFECT dégagez. blanc `9` compteur sur le centre bloc vert est dernier launch trigger.",
+        "landmarks": [
+          "Block Out Niveau 125 est fast U-cadre plateau où bas launcher rangée feeds blocs vers le haut dans U-shaped gap.",
+          "Côté arms doit amincissez à bleu `6` et `4` tuiles avant launchers peut fire — sinon gap overflows.",
+          "Cassez those compteurs, alors dépensez launcher rangée pour PERFECT dégagez.",
+          "Blanc `9` compteur sur le centre bloc vert est dernier launch trigger."
+        ],
+        "colors": ["yellow", "green", "red", "orange", "cyan", "blue", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "01Yjk5R2M04",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=01Yjk5R2M04",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez bleu `6` compteur avant bleu `4` compteur à gardez jaune base paire ouvrez.",
+        "Pas touch le centre rouge `17` launcher jusqu'à les deux côté compteur tuiles sont gone.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Décalez la gauche-arm jaune/vert/pile rouge vers le bas avec lointain-gauche vert haut-arrow sans touching bleu `6` tuile."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Mirror la droite-arm orange/rouge/pile bleu avec lointain-droite vert haut-arrow, keeping bleu `4` compteur garé."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez bleu `6` compteur tuile sur la gauche arm une fois les deux côté stacks sont trois blocs haut."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Cassez bleu `4` compteur tuile sur la droite arm avant deux jaune base bricks déplacez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez le bas launcher rangée — gauche rouge `25`, centre rouge `17`, droite vert `25` — à alimentez restant blocs dans U gap."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez le bas `9` compteur tuile et dernier rouge/bleu scraps à travers le centre vert arrow pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Breaking bleu `4` compteur avant bleu `6` — ce jams jaune base paire permanently.",
+        "Shifting le centre rouge `17` launcher avant les deux côté compteur tuiles dégagez, boxing les deux arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/125/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 125",
+    "description": "Résolvez le niveau 125 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "pt-br-level-87",
+  "locale": "pt-br",
+  "levelNumber": 87,
+  "title": "Guia do nível 87 do Block Out",
+  "summary": "Block Out Nível 87 é flood-escoe quebra-cabeça com pesado chefe peça. Ciano `7` contador blocos preencha inferior dois-thirds de tabuleiro como lake, enquanto verde `15` chefe bloco em laranja moldura fica em longe esquerda. empacotado remova de colo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/87/",
+        "layout": "Block Out Nível 87 é flood-escoe quebra-cabeça com pesado chefe peça. Ciano `7` contador blocos preencha inferior dois-thirds de tabuleiro como lake, enquanto verde `15` chefe bloco em laranja moldura fica em longe esquerda. empacotado remova de colorido blocos (laranja, verde `9`, vermelho, azul, amarelo) corre através superior e deve limpar primeiro. Alimente verde `15` chefe através esquerda-parede saída, remova pequeno `3` contador blocos wedged entre ciano peças, então deixe ciano flood escoe através inferior.",
+        "landmarks": [
+          "Block Out Nível 87 é flood-escoe quebra-cabeça com pesado chefe peça.",
+          "Ciano `7` contador blocos preencha inferior dois-thirds de tabuleiro como lake, enquanto verde `15` chefe bloco em laranja moldura fica em longe esquerda.",
+          "Empacotado remova de colorido blocos (laranja, verde `9`, vermelho, azul, amarelo) corre através superior e deve limpar primeiro.",
+          "Alimente verde `15` chefe através esquerda-parede saída, remova pequeno `3` contador blocos wedged entre ciano peças, então deixe ciano flood escoe através inferior."
+        ],
+        "colors": ["cyan", "green", "red", "blue", "orange", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AEJlO-_-lBI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AEJlO-_-lBI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Comece alimentando verde `15` chefe moment superior remova limpa — fifteen passa takes tempo e pista deve permaneça abra.",
+        "Remova vermelho `3` e verde `3` wedge blocos antes que tentando para escoe ciano `7` flood.",
+        "Ciano flood drains em seu próprio através inferior saídas uma vez wedge blocos são indo — do não tente para empurre ele."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize pequeno laranja bloco em superior-esquerda para cima através superior-saída seta para abra primeiro lacuna (02:55 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Empurre amarelo bloco em direita termina de superior remova através direita-parede saída (02:50)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar vermelho bloco através superior saída, então comece alimentando verde `9` bloco para cima — ele precisa nove passa (02:44–02:34)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Roteie azul bloco através direita-parede saída uma vez verde `9` bloco tem thinned suficiente para livre pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Com superior remova limpar, comece alimentando verde `15` chefe bloco através esquerda-parede saída — mantenha este pista permanentemente unblocked (02:28–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar pequeno vermelho `3` e verde `3` blocos wedged entre ciano `7` peças para ungate escoe caminho (ao redor 02:18)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Deixe ciano `7` flood escoe através inferior saídas uma vez wedge blocos são indo (02:13–02:02)."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Termine com último ciano fragmentos depois verde `15` chefe tem totalmente exited (01:57)."
+        }
+      ],
+      "failurePoints": [
+        "Deixando stray bloco drift em esquerda-parede pista enquanto alimentando verde `15` chefe — ele stalls longest alimente em nível e força você para waste movimentos re-limpando pista.",
+        "Tentando para escoe ciano `7` flood antes que removendo vermelho `3` e verde `3` wedge blocos — eles dam inferior saídas e flood não pode pass."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/87/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 87 do Block Out",
+    "description": "Resolva o nível 87 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-134",
+  "locale": "fr",
+  "levelNumber": 134,
+  "title": "Guide Block Out Niveau 134",
+  "summary": "Block Out Niveau 134 est Hard vertical plateau embedding orange clés, bleu verrous, et clé anglaise tools directement dans bloc field alongside violet `12` tours et haut `15` retirez. padlocked tuile cyan guards main sortie voie, et ke...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/134/",
+        "layout": "Block Out Niveau 134 est Hard vertical plateau embedding orange clés, bleu verrous, et clé anglaise tools directement dans bloc field alongside violet `12` tours et haut `15` retirez. padlocked tuile cyan guards main sortie voie, et clé et verrou restez sur opposite sides — le milieu barre cyan doit décalez gauche avant clé peut reach verrou, ou la gauche-arrow voie sceaux.",
+        "landmarks": [
+          "Block Out Niveau 134 est Hard vertical plateau embedding orange clés, bleu verrous, et clé anglaise tools directement dans bloc field alongside violet `12` tours et haut `15` retirez.",
+          "Padlocked tuile cyan guards main sortie voie, et clé et verrou restez sur opposite sides — le milieu barre cyan doit décalez gauche avant clé peut reach verrou, ou la gauche-arrow voie sceaux.",
+          "Le plateau mélange violet, bleu et cyan et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "blue", "cyan", "red", "pink", "yellow", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72iQQbHvR1s",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72iQQbHvR1s",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez bleu 7 poche avant touching verrouillé tuile cyan dans le bas amas.",
+        "Correspondre clé à verrou avant utilisant clé anglaise tools sur le L violet-base.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Cassez le haut 15 retirez et trois violet 12 tours sans touching verrouillé tuile cyan dans le bas amas."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez inférieur gauche bleu 7 poche à expose le bas 9 et 4 compteurs."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Correspondre orange clé sur la gauche-centre bande à bleu verrou sur la droite-centre."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez orange clé anglaise tools sur la gauche et droite flanks à libérez le L violet-base blocs."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez le milieu cyan/light-barre bleu à travers la gauche-arrow voie une fois clé-verrou paire dégage."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez restant rouge et rose scraps bas rouge et bleu bas vers le bas arrows."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez dernier violet base blocs pour Hard Niveau plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Detonating bomb tuile à côté de verrouillé bloc cyan avant 7 poche dégage, sealing 9/4 porte.",
+        "Déplaçant le L violet-base avant clé-verrou paire dégage, re-blocking le bas vers le bas arrows."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/134/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 134",
+    "description": "Résolvez le niveau 134 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

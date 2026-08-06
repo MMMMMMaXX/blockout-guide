@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-35",
+  "locale": "tr",
+  "levelNumber": 35,
+  "title": "Block Out Seviye 35 Rehberi",
+  "summary": "Block Out Seviye 35 bir Cihaz-kapı bulmaca çoğunluklada boş alandır. Mor `8` cihaz solda ve yeşil `7` cihaz sağ izlede çıkış trafik, ve sıra sen yönlendir parçalar kırmızı sağ çıkışdan ve mavi alt çıkış det...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "Block Out Seviye 35 bir Cihaz-kapı bulmaca çoğunluklada boş alandır. Mor `8` cihaz solda ve yeşil `7` cihaz sağ izlede çıkış trafik, ve sıra sen yönlendir parçalar kırmızı sağ çıkışdan ve mavi alt çıkış determines ne bloklar spawn sonraki. alan starts sparse ama dolur yukarı hızlı eğer çıkışlar kullanıldı yanlış sequenceda — tut bir şerit açık tüm timesde için sonraki spawn.",
+        "landmarks": [
+          "Block Out Seviye 35 bir Cihaz-kapı bulmaca çoğunluklada boş alandır.",
+          "Mor `8` cihaz solda ve yeşil `7` cihaz sağ izlede çıkış trafik, ve sıra sen yönlendir parçalar kırmızı sağ çıkışdan ve mavi alt çıkış determines ne bloklar spawn sonraki.",
+          "Alan starts sparse ama dolur yukarı hızlı eğer çıkışlar kullanıldı yanlış sequenceda — tut bir şerit açık tüm timesde için sonraki spawn."
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alan bakar kolay çünkü o starts çoğunlukla boş, ama her çıkış spawns yeni blok — tut bir şerit serbest.",
+        "Service yeşil `7` cihaz sağda ilk, sonra mor `8` solda.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır kırmızı L-şekilli blok sağ duvara çıkış servicee yeşil `7` cihaz ilk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Hareket ettir sarı çubuk alt mavi çıkışa sonra kırmızı blok temizlendi."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan dark merkez blok spacer tuta spawned follow-yukarı parçalar engelleyerekden çıkışlar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Service mor `8` cihaz sol ile yönlendirerekde sonraki spawned parça onun kapıdan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Continue alternating arasında sağ ve alt çıkışlar yeni parçalar spawn."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Tut bir şerit serbest tüm timesde — kilitlen-yukarı risk visible 00:52 videoda."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son renkli parça sonra her ikisi de cihaz sayaçlar zeroda ve hayır daha fazla bloklar spawn."
+        }
+      ],
+      "failurePoints": [
+        "Kullanarak alt mavi çıkış önce sağ kırmızı çıkış serviced, hangi produces yanlış follow-yukarı parça ve disrupts cihaz sequence.",
+        "Bırakarak spawned bloklar doldur son açık şerit — sonra alan dolu, orada hayır iyileşme hareket ettir."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 35 Rehberi ve Çözümü",
+    "description": "Block Out seviye 35'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-132",
+  "locale": "ja",
+  "levelNumber": 132,
+  "title": "ブロックアウト レベル132 攻略",
+  "summary": "ブロックアウト レベル132は、紫の側面レールと空間を分ける固定壁を持つ6×6グリッドに、4つの白の「11」オーバーレイを固定しています。本当の目標は「11」の固定点ではなく「6」のブロックで、彼らは底部の下向き矢印の通路から抜け出す必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/132/",
+        "layout": "ブロックアウト レベル132は、紫の側面レールと空間を分ける固定壁を持つ6×6グリッドに、4つの白の「11」オーバーレイを固定しています。本当の目標は「11」の固定点ではなく「6」のブロックで、彼らは底部の下向き矢印の通路から抜け出す必要があります。中央の黄の「6」と緑の「6」のペアが最後に去ります—右レールが「3」に達する前に彼らを無理に動かすと、底部の通路が閉じます。",
+        "landmarks": [
+          "ブロックアウト レベル 132 白 `11` 6×6 紫 側 レール、壁 .。",
+          "`6` — `11` アンカー — 目的、出口 下 下へ-矢印 レーン.。",
+          "黄 `6`、緑 `6` ペア 中央 残す、を無理に動かして、右 レール `3`、下部レーン .。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DLaXwz5IAQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DLaXwz5IAQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を崩して11、シアンのをスライドさせて右-レーン ピース.。",
+        "を消去して6 : 黄、緑/青 ペア、赤 右-レール 3.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を割りて上 赤/青 ペア 上へ 左-レール 青 3.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして白 11 象限 内へ 側-レール シアン 1 タイル 残し .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "黄 6 塊 上の-中央の、シアンのをスライドさせて右-レーン ピース.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "緑のを消去して6、青 6 ペア 下 緑、黄 下へ 矢印.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "赤のを通して6 ブロックアウト 右-レール 3 カウンター、中央 隙間 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて側-レール (3/1/3) 解放する シアン Ｌ字型 右.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "出口 緑、黄 開く 下へ レーン 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": ["11、側-レール 1 タイル、中央.。", "赤 6、中央 隙間、下 緑 下へ 矢印.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/132/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル132 攻略と解説",
+    "description": "ブロックアウト レベル132 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

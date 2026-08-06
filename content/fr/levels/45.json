@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-45",
+  "locale": "fr",
+  "levelNumber": 45,
+  "title": "Guide Block Out Niveau 45",
+  "summary": "Block Out Niveau 45 est à l'extérieur-dans énigme où thick rim de large rouge, bleu, vert, et blocs jaune boxes dans smaller encadré cible blocs dans abaissez half. rim doit être peeled de le haut et sides premier — large blocs lea...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "Block Out Niveau 45 est à l'extérieur-dans énigme où thick rim de large rouge, bleu, vert, et blocs jaune boxes dans smaller encadré cible blocs dans abaissez half. rim doit être peeled de le haut et sides premier — large blocs quittez avant cibles. Une fois le centre opens, encadré cibles peut finally travel à travers à leur sorties. Ce inverts usual boss pattern: big pièces sont openers, petit ones sont finishers.",
+        "landmarks": [
+          "Block Out Niveau 45 est à l'extérieur-dans énigme où thick rim de large rouge, bleu, vert, et blocs jaune boxes dans smaller encadré cible blocs dans abaissez half.",
+          "Rim doit être peeled de le haut et sides premier — large blocs quittez avant cibles.",
+          "Une fois le centre opens, encadré cibles peut finally travel à travers à leur sorties.",
+          "Ce inverts usual boss pattern: big pièces sont openers, petit ones sont finishers."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Large blocs sont rim, pas objectif — pelez les premier.",
+        "Encadré cibles sont finishers que seulement déplacez après le centre a real voies.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Extract blocs de supérieur bord à create premier gap dans rim."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez large bloc bleu sur supérieur gauche vers la gauche sorties."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez large bloc rouge sur supérieur droit suivant."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez freed haut espace à décalez vert centre bloc, opening voie pour abaissez cibles."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tournez premier encadré cible à travers widened centre et hors son sortie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez second encadré cible une fois premier est gone et le centre est wider."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier rim fragments après les deux cibles ont gauche."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez encadré cible avant rim a opened — cible needs large voie à travers le centre que seulement exists après large blocs sont gone.",
+        "Peeling seulement one bord de rim et laissant opposite côté thick, qui blocs cible's chemin de autre direction."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 45",
+    "description": "Résolvez le niveau 45 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-68",
+  "locale": "pt-br",
+  "levelNumber": 68,
+  "title": "Guia do nível 68 do Block Out",
+  "summary": "Block Out Nível 68 empilha dois câmaras verticalmente, separado por horizontal dividing barra. superior câmara segura mix de verde blocos, grande azul quadrado, e laranja/amarelo peças. inferior câmara é dominated por massivo roxo r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out Nível 68 empilha dois câmaras verticalmente, separado por horizontal dividing barra. superior câmara segura mix de verde blocos, grande azul quadrado, e laranja/amarelo peças. inferior câmara é dominated por massivo roxo rectangle com contador '7' wrapped em vermelho moldura. Limpar entire superior câmara primeiro — dividing barra will não abra até ele esvazia. Então remova vermelho moldura e alimente roxo bloco através seu saída sete vezes.",
+        "landmarks": [
+          "Block Out Nível 68 empilha dois câmaras verticalmente, separado por horizontal dividing barra.",
+          "Superior câmara segura mix de verde blocos, grande azul quadrado, e laranja/amarelo peças.",
+          "Inferior câmara é dominated por massivo roxo rectangle com contador '7' wrapped em vermelho moldura.",
+          "Limpar entire superior câmara primeiro — dividing barra will não abra até ele esvazia."
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "purple", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vazio superior câmara completamente antes que tocando inferior — dividing barra will não abra otherwise.",
+        "Remova vermelho moldura ao redor roxo bloco antes que alimentando ele através saída.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar pequeno blocos em superior de superior câmara através superior saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia verde blocos em esquerda através esquerda saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deslize grande azul quadrado block out através direita ou superior saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar laranja/amarelo blocos em inferior de superior câmara."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez superior câmara esvazia, dividing barra abre — remova vermelho moldura ao redor roxo bloco."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente massivo roxo bloco (contador '7') através seu saída repeatedly até totalmente limpo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com qualquer restante ciano lateral peças e inferior fragmentos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova roxo bloco antes que superior câmara é vazio — dividing barra é ainda vedado.",
+        "Forgetting para remova vermelho moldura ao redor roxo bloco antes que attempting para alimente ele."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 68 do Block Out",
+    "description": "Resolva o nível 68 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

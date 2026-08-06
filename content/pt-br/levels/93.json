@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-93",
+  "locale": "pt-br",
+  "levelNumber": 93,
+  "title": "Guia do nível 93 do Block Out",
+  "summary": "Block Out Nível 93 arranges dois roxo câmara blocos em L-forma — contador `13` em laranja moldura em esquerda e contador `8` em laranja moldura abaixo. Vermelho, azul, e amarelo blocos são empilhado para direita de `13` câmara, com l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "Block Out Nível 93 arranges dois roxo câmara blocos em L-forma — contador `13` em laranja moldura em esquerda e contador `8` em laranja moldura abaixo. Vermelho, azul, e amarelo blocos são empilhado para direita de `13` câmara, com cadeado/chave icons em azul blocos. circundante blocos são sparse e limpar em debaixo 10 segundos, making real challenge 21 total passa needed através ambos câmaras.",
+        "landmarks": [
+          "Block Out Nível 93 arranges dois roxo câmara blocos em L-forma — contador `13` em laranja moldura em esquerda e contador `8` em laranja moldura abaixo.",
+          "Vermelho, azul, e amarelo blocos são empilhado para direita de `13` câmara, com cadeado/chave icons em azul blocos.",
+          "Circundante blocos são sparse e limpar em debaixo 10 segundos, making real challenge 21 total passa needed através ambos câmaras."
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Circundante blocos limpar em debaixo 10 segundos — gaste planning tempo em mantendo `13` alimente pista limpar.",
+        "Limpar pequeno verde e ciano blocos entre câmaras antes que inicial qualquer alimente.",
+        "Alimente `13` câmara primeiro porque ele takes mais longo e benefits de máximo espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Empurre vermelho blocos em superior-direita através superior ou direita-parede saída para abra superior pista (02:26 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar chave blocos para desbloqueie azul blocos em meio-direita (02:23)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deslize unlocked azul blocos e amarelo blocos através direita-parede saída para limpar direita pista completamente (02:20)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar pequeno verde e ciano blocos entre dois câmaras através nearest saídas porque eles pode drift em alimente caminho (02:17)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Comece alimentando roxo `13` câmara através esquerda-parede saída — thirteen passa, mantendo pista permanentemente limpar (02:14–02:05)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Ordene qualquer spilled blocos de `13` câmara colapse antes que eles alcance `8` câmara's zona (02:05)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Alimente roxo `8` câmara através inferior saídas — oito passa para termine (02:02–01:54)."
+        }
+      ],
+      "failurePoints": [
+        "Deixando pequeno verde e ciano blocos entre câmaras during `13` alimente — eles drift em alimentando pista e stall contador mid-pass.",
+        "Inicial com `8` câmara — ele fica abaixo `13` e benefits de espaço created depois `13` colapsa, não antes que."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 93 do Block Out",
+    "description": "Resolva o nível 93 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

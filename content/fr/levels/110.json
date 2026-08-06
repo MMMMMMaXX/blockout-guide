@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-110",
+  "locale": "fr",
+  "levelNumber": 110,
+  "title": "Guide Block Out Niveau 110",
+  "summary": "Block Out Niveau 110 hides single connected rouge polyomino dans le centre de haut violet cadre — il looks like trois séparé blocs, mais coups comme one pièce. haut `11` porte et gauche-rail `8` colonne sceau orange-bordered bleu `3` poc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/110/",
+        "layout": "Block Out Niveau 110 hides single connected rouge polyomino dans le centre de haut violet cadre — il looks like trois séparé blocs, mais coups comme one pièce. haut `11` porte et gauche-rail `8` colonne sceau orange-bordered bleu `3` poche sous, et dense `19` amas fills le bas. Split la forme rouge too tôt et le L rose-pièce sur la droite obtient permanently piégé.",
+        "landmarks": [
+          "Block Out Niveau 110 hides single connected rouge polyomino dans le centre de haut violet cadre — il looks like trois séparé blocs, mais coups comme one pièce.",
+          "Haut `11` porte et gauche-rail `8` colonne sceau orange-bordered bleu `3` poche sous, et dense `19` amas fills le bas.",
+          "Split la forme rouge too tôt et le L rose-pièce sur la droite obtient permanently piégé."
+        ],
+        "colors": ["blue", "red", "green", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_D-7FbZBiEE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_D-7FbZBiEE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez le centre rouge polyomino comme one shape — pas split il tôt.",
+        "Dégagez la gauche-rail `8` avant sliding un bas-amas pièces.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Remove le haut light-bleu `11` tuile à déverrouillez orange-bordered centre poche."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez la gauche-rail `8` colonne avant sliding un bas-amas pièces."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez espace autour le centre bleu `3` poche sans splitting le bas `19` amas."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Décalez le centre rouge polyomino comme one shape, keeping jaune highlight ligne intact."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Libérez la droite-côté rose `1` tuile et abaissez L rose-pièce après la forme rouge coups."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez restant bleu base blocs et close le bas compteurs `3` et `14`."
+        }
+      ],
+      "failurePoints": [
+        "Splitting le centre rouge polyomino too tôt, qui traps la droite L rose-pièce.",
+        "Touching le bas `19` amas avant le haut `11` tuile et gauche-rail `8` sont gone."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/110/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 110",
+    "description": "Résolvez le niveau 110 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

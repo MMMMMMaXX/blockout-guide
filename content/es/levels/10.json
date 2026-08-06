@@ -1,0 +1,98 @@
+{
+  "id": "es-level-10",
+  "locale": "es",
+  "levelNumber": 10,
+  "title": "Guía de Block Out Nivel 10",
+  "summary": "El nivel 10 de Block Out sustituye los colores simples por gigantescas láminas numeradas. Limpia el bloqueador blanco superior, pela las fichas amarillas por el corredor derecho y solo entonces deja que las grandes piezas cian caigan en cascada hacia el centro.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/10/",
+        "layout": "El nivel 10 de Block Out sustituye los colores simples por gigantescas láminas numeradas. Limpia el bloqueador blanco superior, pela las fichas amarillas por el corredor derecho y solo entonces deja que las grandes piezas cian caigan en cascada hacia el centro.",
+        "landmarks": [
+          "El nivel 10 de Block Out sustituye los colores simples por gigantescas láminas numeradas.",
+          "Limpia el bloqueador blanco superior, pela las fichas amarillas por el corredor derecho y solo entonces deja que las grandes piezas cian caigan en cascada hacia el centro.",
+          "El tablero combina cian, blanco, negro y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["cyan", "white", "black", "yellow", "red", "blue", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BTlPbCRtE0U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BTlPbCRtE0U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La salida blanca superior es la primera acción limpia.",
+        "La columna numérica amarilla es una cuña que debe reducirse antes de mover las láminas cian.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Envía el bloqueador blanco superior derecho hacia arriba por la salida blanca."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Pela la primera ficha numérica amarilla por el corredor derecho para que pueda moverse el bloqueador negro superior."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Sigue alternando fichas amarillas y bloqueadores negros hasta que la salida cian derecha empiece a abrirse lo suficiente para mover las grandes láminas."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Desliza los rectángulos cian superiores hacia abajo por etapas, convirtiendo el grupo `22/21/19` en colocaciones más bajas a medida que se despeja el corredor."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Cuando la columna derecha ya no esté atascada, baja el bloque blanco central al carril rojo y libera las fichas numéricas amarillas restantes por la salida inferior derecha."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Usa el nuevo espacio central para separar las últimas láminas cian de las barras finales roja y azul."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con las cortas barras rosa, azul y roja tras haber salido ya el último bloque cian."
+        }
+      ],
+      "failurePoints": [
+        "Tratar las grandes piezas cian como el movimiento de apertura en lugar de reducir primero el corredor derecho.",
+        "Dejar las fichas numéricas amarillas apiladas a la derecha cuando los bloqueadores negros todavía necesitan girar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/10/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 10",
+    "description": "Resuelve el nivel 10 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

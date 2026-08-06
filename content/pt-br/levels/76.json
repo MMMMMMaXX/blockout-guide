@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-76",
+  "locale": "pt-br",
+  "levelNumber": 76,
+  "title": "Guia do nível 76 do Block Out",
+  "summary": "Block Out Nível 76 empacota 5×7 grade com numerado azul blocos — contadores '10' e '1' em superior, '1' em meio, '4' e '1' em inferior. azul '10' bloco precisa 10 saídas — limpar inferior primeiro, então funciona numerado blocos para cima...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/76/",
+        "layout": "Block Out Nível 76 empacota 5×7 grade com numerado azul blocos — contadores '10' e '1' em superior, '1' em meio, '4' e '1' em inferior. azul '10' bloco precisa 10 saídas — limpar inferior primeiro, então funciona numerado blocos para cima, e termine com pesado '10' bloco em superior.",
+        "landmarks": [
+          "Block Out Nível 76 empacota 5×7 grade com numerado azul blocos — contadores '10' e '1' em superior, '1' em meio, '4' e '1' em inferior.",
+          "Azul '10' bloco precisa 10 saídas — limpar inferior primeiro, então funciona numerado blocos para cima, e termine com pesado '10' bloco em superior.",
+          "Tabuleiro mistura Azul, Vermelho, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "t-dHXsPpANQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=t-dHXsPpANQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'10' bloco é marathon — limpar menor numerado blocos primeiro para construa espaço.",
+        "Limpar inferior primeiro para dê numerado blocos deslizando espaço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar vermelho e verde blocos em inferior através direita saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque azul blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece limpando numerado azul blocos em meio através seus saídas — contadores decrease como eles saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar azul '4' bloco em esquerda através esquerda saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Tackle azul '10' bloco em superior — ele precisa 10 saídas para totalmente limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante azul '1' blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar '10' bloco antes que menor numerado blocos — ele precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando superior antes que inferior, que deixa inferior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/76/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 76 do Block Out",
+    "description": "Resolva o nível 76 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

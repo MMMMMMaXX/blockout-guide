@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-74",
+  "locale": "pt-br",
+  "levelNumber": 74,
+  "title": "Guia do nível 74 do Block Out",
+  "summary": "Block Out Nível 74 abre com quatro roxo câmaras wrapped ao redor apertado centro coluna. Escoe tiny `3` bolso em inferior-direita primeiro, deslize ciano passos para fora de inferior pista, então deixe `7` e `15` rooms encolha antes que você fina...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out Nível 74 abre com quatro roxo câmaras wrapped ao redor apertado centro coluna. Escoe tiny `3` bolso em inferior-direita primeiro, deslize ciano passos para fora de inferior pista, então deixe `7` e `15` rooms encolha antes que você finalmente commit para enorme `20` câmara em esquerda.",
+        "landmarks": [
+          "Block Out Nível 74 abre com quatro roxo câmaras wrapped ao redor apertado centro coluna.",
+          "Escoe tiny `3` bolso em inferior-direita primeiro, deslize ciano passos para fora de inferior pista, então deixe `7` e `15` rooms encolha antes que você finalmente commit para enorme `20` câmara em esquerda.",
+          "Tabuleiro mistura Roxo, Azul, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Se ciano passo peça ainda covers inferior meio, permaneça longe de `20` câmara.",
+        "`3` bolso é não filler. Ele é chave que abre inferior roteie para `7` espaço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Escoe inferior-direita roxo câmara marcado `3` como soon como nível começa."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use que novo chão espaço para deslize ciano passo blocos longe de inferior meio e livre verde remova beside os."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece reducing inferior-esquerda `7` câmara uma vez ciano peça é no mais longo bloqueando seu pista."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deixe superior-direita `15` câmara perca seu fácil direita-parede saídas enquanto esquerda lateral é abertura."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe superior-esquerda `20` câmara alone até `7` espaço é principalmente indo e centro vermelho escada tem broken apart."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine por escoando `20` câmara e sweeping para fora restante roxo, ciano, e vermelho peças através abra centro."
+        }
+      ],
+      "failurePoints": [
+        "Leaning em `20` câmara antes que inferior-direita `3` bolso é indo e ciano passos tem movido.",
+        "Tentando para funciona `7` espaço enquanto ciano bloqueador é ainda stretched através inferior meio."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 74 do Block Out",
+    "description": "Resolva o nível 74 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

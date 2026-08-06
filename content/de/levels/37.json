@@ -1,0 +1,97 @@
+{
+  "id": "de-level-37",
+  "locale": "de",
+  "levelNumber": 37,
+  "title": "Block Out Level 37 Lösung",
+  "summary": "Block Out Level 37 centers auf large orange-framed Boss Quadrat mit `7` Zähler. Two small `1`-Zähler support Blöcke sitzen direkt unter Boss und muss sein getrennt erste zu create fallen lassen Bahn. Grün Blöcke bei unten drain...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "Block Out Level 37 centers auf large orange-framed Boss Quadrat mit `7` Zähler. Two small `1`-Zähler support Blöcke sitzen direkt unter Boss und muss sein getrennt erste zu create fallen lassen Bahn. Grün Blöcke bei unten drain früh, Seite blau und pink Blöcke thin nächste, und Boss finally descends once sein untere Bahn ist räumen. Nach Boss falls around 01:11, second wave von pink und blau Blöcke remains für cleanup.",
+        "landmarks": [
+          "Block Out Level 37 centers auf large orange-framed Boss Quadrat mit `7` Zähler.",
+          "Two small `1`-Zähler support Blöcke sitzen direkt unter Boss und muss sein getrennt erste zu create fallen lassen Bahn.",
+          "Grün Blöcke bei unten drain früh, Seite blau und pink Blöcke thin nächste, und Boss finally descends once sein untere Bahn ist räumen.",
+          "Nach Boss falls around 01:11, second wave von pink und blau Blöcke remains für cleanup."
+        ],
+        "colors": ["yellow", "blue", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Two `1`-Zähler Blöcke unterhalb Boss schauen small, aber sie sind Ausgang — bis sie sind gone, Boss hat kein nach unten Bahn.",
+        "Grün Blöcke bei unten sind früh exits. Räumen sie erste zu create untere Platz.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben gelb bar auf links zu öffnen linke Seite Bahn."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen grün Blöcke bei unten durch blau Ausgang Pfeil zu create Platz unterhalb Boss."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Entfernen two `1`-Zähler Blöcke sitting direkt unter Boss Quadrat."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verschieben blau Blöcke auf rechte Seite zu give Boss horizontal Raum."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Als Boss Zähler fällt … lassen toward `5`, continue thinning pink und blau Blöcke auf beide sides."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Let Boss Quadrat fallen lassen durch geräumt untere Bahn once Zähler ist low enough (visible bei 01:11)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden remaining pink und blau cleanup Blöcke nach Boss ist gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu untere Boss Quadrat while two `1`-Zähler support Blöcke sind still in Platz — Boss needs räumen vertikale Bahn zu fallen lassen.",
+        "Räumend Seite Blöcke bevor unten grün Ausgang ist öffnen, welche lässt untere Bereich packed und gives Boss nowhere zu fall."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 37 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 37 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

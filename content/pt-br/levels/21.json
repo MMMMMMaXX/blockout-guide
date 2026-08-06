@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-21",
+  "locale": "pt-br",
+  "levelNumber": 21,
+  "title": "Guia do nível 21 do Block Out",
+  "summary": "Block Out Nível 21 é triple-chefe escada. Quebre emoldurado `9` painel primeiro, unwind colorful meio remova segundo, e único então comece encolhendo inferior `16` e `18` painéis.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "Block Out Nível 21 é triple-chefe escada. Quebre emoldurado `9` painel primeiro, unwind colorful meio remova segundo, e único então comece encolhendo inferior `16` e `18` painéis.",
+        "landmarks": [
+          "Block Out Nível 21 é triple-chefe escada.",
+          "Quebre emoldurado `9` painel primeiro, unwind colorful meio remova segundo, e único então comece encolhendo inferior `16` e `18` painéis.",
+          "Tabuleiro mistura Azul, Amarelo, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Resolva emoldurado `9` primeiro.",
+        "Inferior `16` e `18` values são fase dois e fase três.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Funciona superior contadores e limpar superior cor faixa so emoldurado `9` painel é exposto."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Solte `9` painel antes que tocando inferior chefes."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use liberado meio corredor para gire rosa, verde, e azul barras."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece encolhendo inferior `16` painel uma vez centro é no mais longo empacotado."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe `18` painel comece caindo único depois `16` moldura tem já aberto."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Salve chão verde saída para tarde limpeza quando inferior painéis são fino."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com restante alto cor barras depois ambos inferior chefes tem collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para encolha inferior emoldurado values enquanto superior `9` é ainda alive.",
+        "Deixando meio remova empacotado depois superior chefe tem aberto."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 21 do Block Out",
+    "description": "Resolva o nível 21 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-34",
+  "locale": "pt-br",
+  "levelNumber": 34,
+  "title": "Guia do nível 34 do Block Out",
+  "summary": "Block Out Nível 34 é rotulado 'Difícil Nível' e apresenta twin-chefe layout com esquerda `10` chefe e direita `20` chefe sentado acima shared vermelho-branco-preto porão. resolva corre em três fases: limpar porão para bring baixo ambos...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "Block Out Nível 34 é rotulado 'Difícil Nível' e apresenta twin-chefe layout com esquerda `10` chefe e direita `20` chefe sentado acima shared vermelho-branco-preto porão. resolva corre em três fases: limpar porão para bring baixo ambos contadores, colapse menor esquerda torre primeiro para crie espaço, então use que espaço para accelerate direita torre's colapse. Uma vez chefes caia abaixo `9`, oculto colorido blocos — verde, amarelo, azul — spill para fora e precisa seus próprio ordenando.",
+        "landmarks": [
+          "Block Out Nível 34 é rotulado 'Difícil Nível' e apresenta twin-chefe layout com esquerda `10` chefe e direita `20` chefe sentado acima shared vermelho-branco-preto porão.",
+          "Resolva corre em três fases: limpar porão para bring baixo ambos contadores, colapse menor esquerda torre primeiro para crie espaço, então use que espaço para accelerate direita torre's colapse.",
+          "Uma vez chefes caia abaixo `9`, oculto colorido blocos — verde, amarelo, azul — spill para fora e precisa seus próprio ordenando."
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Esquerda `10` chefe é seu progresso meter. Se ele é ainda acima `5` quando direita chefe reads `17`, porão precisa mais esquerda-lateral focus.",
+        "Assista para fase transition ao redor contador `9` — que é quando oculto colorido blocos comece spilling para fora de câmaras.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize branco blocos em direita porão em direção a direita saída e mova preto blocos para fora através inferior seta."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use verde `5` bloco em inferior-esquerda como cedo mova para abra pista debaixo esquerda câmara."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Continue afinando porão até esquerda `10` chefe contador visibly começa soltando — assista para `7` em esquerda contador."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Focus restante porão funciona em esquerda lateral so `10` chefe colapsa totalmente antes que direita `20` chefe solta abaixo `17`."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez esquerda câmara esvazia, use liberado espaço para accelerate direita `20` chefe redução."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Como direita chefe cai abaixo `9`, colorido blocos — verde, amarelo, azul — spill para fora. Ordene os através lateral e inferior saídas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último vermelho porão peças e restante revelado cores depois ambos câmaras são vazio."
+        }
+      ],
+      "failurePoints": [
+        "Dividindo effort equally entre ambos chefes de comece — `20` chefe precisa so much mais espaço que neither torre reaches crítico threshold, e revelado blocos pile cima com nowhere para go.",
+        "Ignorando verde `5` bloco em inferior-esquerda canto como cedo mova, que delays abertura pista debaixo esquerda câmara onde progresso matters mais."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 34 do Block Out",
+    "description": "Resolva o nível 34 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-31",
+  "locale": "zh-cn",
+  "levelNumber": 31,
+  "title": "Block Out 第 31 关通关攻略",
+  "summary": "Block Out 第 31 关是一个编号级联棋盘：青色板块标注 `5`、`9`、`10`、`13`，从上到下堆叠，被白色和黑色竖条固定。板块必须按升序离开——`5` 先走、`1……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "Block Out 第 31 关是一个编号级联棋盘：青色板块标注 `5`、`9`、`10`、`13`，从上到下堆叠，被白色和黑色竖条固定。板块必须按升序离开——`5` 先走、`13` 最后——而它们之间的竖条是最先要剥离的，因为那是依次解锁每个板块的唯一办法。",
+        "landmarks": [
+          "Block Out 第 31 关是一个编号级联棋盘：青色板块标注 `5`、`9`、`10`、`13`，从上到下堆叠，被白色和黑色竖条固定。",
+          "板块必须按升序离开——`5` 先走、`13` 最后——而它们之间的竖条是最先要剥离的，因为那正是依次解锁每个板块的唯一办法。",
+          "棋盘混合了绿色、青色、黄色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "从上到下数编号：如果某板块的编号高于仍压在它上方的板块，顺序就错了。",
+        "竖条不是需要绕开的障碍——而是最先要移除的东西。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "清理右上角的白色方块和左侧黄色竖列，制造边缘空间。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "一旦顶行打开，把左上角的绿色 `5` 方块滑出。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "利用腾出的顶行，把黑色竖条从中央 `9` 板块上剥离。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "中央通道打开后，移动 `9` 板块，这会松动下方两块 `10` 板块。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在中心足够空旷、能容纳其宽度后，再逐块移动 `10` 板块——先移上方那块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "随着 `10` 离开，底部中央的 `13` 板块终于有了通道。把它滑向最近的开放出口。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在所有编号板块离开后，清理剩余的绿色、黄色和黑色小条碎片收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在上方 `10` 还未清空前就试图移动 `13` 板块——在级联序列到达之前，底部中央被完全堵死。",
+        "把竖条留在原位，试图让编号板块穿过剩余的狭窄缝隙，会立刻卡死棋盘。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 31 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 31 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

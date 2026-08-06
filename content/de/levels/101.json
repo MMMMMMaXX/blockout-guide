@@ -1,0 +1,91 @@
+{
+  "id": "de-level-101",
+  "locale": "de",
+  "levelNumber": 101,
+  "title": "Block Out Level 101 Lösung",
+  "summary": "Block Out Level 101 pairs dual hinausführen chambers — `9` auf oben und `4` unterhalb — mit patterned Seite Stapel dass schauen important aber sind actually just walls. Real Puzzle ist timing: rot Pfeil-nach-unten- Bauteil in unten tray muss wait un...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "Block Out Level 101 pairs dual hinausführen chambers — `9` auf oben und `4` unterhalb — mit patterned Seite Stapel dass schauen important aber sind actually just walls. Real Puzzle ist timing: rot Pfeil-nach-unten- Bauteil in unten tray muss wait bis obere `9` hinausführen ist fast done bevor es kann fallen lassen durch Mitte Bahn. Rush Pfeil Block und es gets buried unter collapsing Seite Stapel.",
+        "landmarks": [
+          "Block Out Level 101 pairs dual hinausführen chambers — `9` auf oben und `4` unterhalb — mit patterned Seite Stapel dass schauen important aber sind actually just walls.",
+          "Real Puzzle ist timing: rot Pfeil-nach-unten- Bauteil in unten tray muss wait bis obere `9` hinausführen ist fast done bevor es kann fallen lassen durch Mitte Bahn.",
+          "Rush Pfeil Block und es gets buried unter collapsing Seite Stapel."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Hinausführen lila dotted Block erste zu starten obere `9` Zähler.",
+        "Tu nicht touch rot Pfeil-nach-unten- Bauteil bis obere chamber ist runter zu sein letzte one oder two passes.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen lila dotted Block von unten tray in obere chamber zu starten `9` Zähler."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen links rot überqueren-pattern stapeln nach unten also obere hinausführen Bahn stays öffnen."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen grün und blau tray Bauteile in obere chamber once links stapeln thins."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Beenden letzte obere-chamber pass while Mitte blau Pfeil Spalte ist still empty."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Fallen lassen rot Pfeil-nach-unten- Block durch Mitte Bahn in untere `4` chamber."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen remaining patterned Blöcke von rechts gelb/blau Stapel zu close untere Zähler."
+        }
+      ],
+      "failurePoints": [
+        "Moving rot Pfeil-nach-unten- Bauteil bevor obere chamber ist fast beendet — es gets buried unter links Stapel.",
+        "Räumend rechts gelb stapeln bevor obere hinausführen Bahn ist stable, welche closes Mitte fallen lassen Bahn."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 101 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 101 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "es-level-89",
+  "locale": "es",
+  "levelNumber": 89,
+  "title": "Guía de Block Out Nivel 89",
+  "summary": "Block Out nivel 89 opens con a mezclado superior shelf sobre two stacked cámaras. Franja ese shelf primero, drain the `6` cámara siguiente, y luego despejado the clavado izquierdo carril plus the naranja columnas antes the `11` cámara gives way a the rojo T-shap...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out nivel 89 opens con a mezclado superior shelf sobre two stacked cámaras. Franja ese shelf primero, drain the `6` cámara siguiente, y luego despejado the clavado izquierdo carril plus the naranja columnas antes the `11` cámara gives way a the rojo T-shaped endgame.",
+        "landmarks": [
+          "Block Out nivel 89 opens con a mezclado superior shelf sobre two stacked cámaras.",
+          "Franja ese shelf primero, drain the `6` cámara siguiente, y luego despejado the clavado izquierdo carril plus the naranja columnas antes the `11` cámara gives way a the rojo T-shaped endgame.",
+          "El tablero mixes morado, verde, rojo y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["morado", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si the superior shelf todavía has live azul o verde piezas, the `11` cámara es no ready.",
+        "The clavado amarillo carril en the izquierdo matters más than the raw `11` count.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Remove the mezclado franjas en the superior shelf, especially la fila azul y el bloque verde en the superior-derecho."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Empieza shrinking the superior `6` cámara solo después the superior shelf has stopped feeding blockers downward."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Abandona the inferior `11` cámara alone hasta the `6` cámara es casi gone."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Después la cámara superior opens el tablero, despejado the clavado amarillo carril en the izquierdo y shorten the naranja columnas alrededor el centro."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Let the `11` cámara collapse solo cuando the rojo T-shape y the two azul pools underneath lo have room a separate."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the rojo T-pieza, the último naranja columna, y the restante amarillo L-bloque cerca the inferior-izquierdo esquina."
+        }
+      ],
+      "failurePoints": [
+        "Touching the `11` cámara mientras the superior shelf todavía has live azul o verde traffic.",
+        "Ignoring the clavado izquierdo carril y trying a brute-force the inferior half después the `6` cámara opens."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 89",
+    "description": "Resuelve Block Out nivel 89 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

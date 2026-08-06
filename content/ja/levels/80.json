@@ -1,0 +1,88 @@
+{
+  "id": "ja-level-80",
+  "locale": "ja",
+  "levelNumber": 80,
+  "title": "ブロックアウト レベル80 攻略",
+  "summary": "ブロックアウト レベル80は、高い緑と青／シアンの縦列を、中央の赤い鍵付きブロックの空隙で区切って盤面に並べています。中央の錠前シーケンスを解かない限り縦列は動きません。まず鍵付きブロックを消去し…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "ブロックアウト レベル80は、高い緑と青／シアンの縦列を、中央の赤い鍵付きブロックの空隙で区切って盤面に並べています。中央の錠前シーケンスを解かない限り縦列は動きません。まず鍵付きブロックを消去して空隙を開け、次に高い緑の縦列を底部の出口へ滑らせ、続いて青／シアンの縦列を通します。",
+        "landmarks": [
+          "ブロックアウト レベル 80 緑、青/シアン 中央 隙間 赤 ロックする- -鍵 .。",
+          "手順、ロックする 順序 中央 .。",
+          "を消去してロックする- -鍵 開く 隙間、スライドさせる 緑 下 下 出口、青/シアン .。"
+        ],
+        "colors": ["green", "blue", "cyan", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央 ロックする- -鍵 隙間 — 列 手順、.。",
+        "緑のをスライドさせて下、青/シアン — 緑 出口.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "鍵を揃えてロックする 中央 隙間.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して解放し 赤 中央 開く 隙間.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をスライドさせて緑 列 左 下へ 下 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青のをずらして/シアン 列 右 下、緑 作る .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去してシアン/青 下 下-矢印 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて列 .。"
+        }
+      ],
+      "failurePoints": ["手順 列、中央 ロックする 消去し — .。", "無駄にし 手順、.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル80 攻略と解説",
+    "description": "ブロックアウト レベル80 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

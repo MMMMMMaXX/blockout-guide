@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-57",
+  "locale": "zh-cn",
+  "levelNumber": 57,
+  "title": "Block Out 第57关攻略",
+  "summary": "Block Out 第57关叠着两个紫色大型方块室——顶部是「5」，底部是「11」——底座处还有三个白色「10」方块。两个室共用一面墙，因此清一个会影响另一个。先从底部的「10」方块开始……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "Block Out 第57关叠着两个紫色大型方块室——顶部是「5」，底部是「11」——底座处还有三个白色「10」方块。两个室共用一面墙，因此清一个会影响另一个。先从底部的「10」方块开始，然后并行处理两个室，让较小的「5」室更快清空，同时「11」室逐渐打开。",
+        "landmarks": [
+          "Block Out 第57关叠着两个紫色大型方块室——顶部是「5」，底部是「11」——底座处还有三个白色「10」方块。",
+          "两个室共用一面墙，因此清一个会影响另一个。",
+          "先从底部的「10」方块开始，然后并行处理两个室，让较小的「5」室更快清空，同时「11」室逐渐打开。"
+        ],
+        "colors": ["purple", "yellow", "blue", "green", "red", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "两个室共用一面墙——在「11」室取得进展之前，不要先把「5」室完全清空。",
+        "先从底部的「10」方块开始。它们是独立的清除目标，能打开底座。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部的三个白色「10」方块向右边出口滑动清空。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧的黄色方块从左出口移出，打通两个室之间的空隙。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始排空上方的「5」室——它较小，清空更快，能腾出上方空间。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "并行处理下方的「11」室，将其方块从右出口滑出。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "随着「5」室清空，利用腾出的空间帮助「11」室的方块滑出。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "清理残留在已清空两个室之间的绿色和蓝色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "最后清理顶部和两侧的红色与紫色方块。"
+        }
+      ],
+      "failurePoints": [
+        "在「11」室取得进展之前就把「5」室完全排空——共用墙为两者提供滑动支撑，过早失去它会卡住方块。",
+        "忽视底部的「10」方块而先处理室，导致底座塞满，方块无法向下滑动。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第57关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第57关。"
+  },
+  "updatedAt": "2026-08-03"
+}

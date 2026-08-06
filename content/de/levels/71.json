@@ -1,0 +1,93 @@
+{
+  "id": "de-level-71",
+  "locale": "de",
+  "levelNumber": 71,
+  "title": "Block Out Level 71 Lösung",
+  "summary": "Block Out Level 71 packs 6×8 Raster mit large lila '13' Block bei oben, freigeben-sliding smiley Blöcke in mittlere, und gerichtet Pfeil-Blöcke auf sides. Lila Block needs 13 exits — räumen unten erste, dann arbeiten s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/71/",
+        "layout": "Block Out Level 71 packs 6×8 Raster mit large lila '13' Block bei oben, freigeben-sliding smiley Blöcke in mittlere, und gerichtet Pfeil-Blöcke auf sides. Lila Block needs 13 exits — räumen unten erste, dann arbeiten smiley Blöcke, und beenden mit heavy lila Block bei oben.",
+        "landmarks": [
+          "Block Out Level 71 packs 6×8 Raster mit large lila '13' Block bei oben, freigeben-sliding smiley Blöcke in mittlere, und gerichtet Pfeil-Blöcke auf sides.",
+          "Lila Block needs 13 exits — räumen unten erste, dann arbeiten smiley Blöcke, und beenden mit heavy lila Block bei oben.",
+          "Das Spielfeld mixes Lila, Grün, Gelb und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_vwwRLOMKd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_vwwRLOMKd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Lila '13' Block ist marathon — räumen smiley Blöcke erste zu build Platz.",
+        "Smiley Blöcke in mittlere sind freigeben-sliding — verwenden dieses freedom zu räumen paths für Pfeil-Blöcke.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen grün smiley Blöcke bei unten durch unten Ausgang zu öffnen base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben blau Blöcke auf links hinaus durch links Ausgang zu öffnen untere linke Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin sliding gelb und grün smiley Blöcke in mittlere freely — sie kann bewegen in irgendein direction."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen rot Blöcke auf rechts durch rechts Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Tackle large lila '13' Block bei oben — es needs 13 exits zu fully räumen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining smiley Blöcke eingesperrt in corners."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu räumen '13' Block bevor smiley Blöcke — es needs Raum zu schieben und Ausgang multiple times.",
+        "Räumend oben bevor unten, welche lässt untere Blöcke eingesperrt mit kein sliding Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/71/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 71 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 71 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

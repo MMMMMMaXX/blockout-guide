@@ -1,0 +1,98 @@
+{
+  "id": "de-level-18",
+  "locale": "de",
+  "levelNumber": 18,
+  "title": "Block Out Level 18 Lösung",
+  "summary": "Block Out Level 18 ist double-frame Puzzle around türkis `14/11` pair. Abziehen Seite ladders und Zähler erste, behalten Mitte Blöcke together bis rails sind thinner, und beenden durch grün oben ansteuern.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "Block Out Level 18 ist double-frame Puzzle around türkis `14/11` pair. Abziehen Seite ladders und Zähler erste, behalten Mitte Blöcke together bis rails sind thinner, und beenden durch grün oben ansteuern.",
+        "landmarks": [
+          "Block Out Level 18 ist double-frame Puzzle around türkis `14/11` pair.",
+          "Abziehen Seite ladders und Zähler erste, behalten Mitte Blöcke together bis rails sind thinner, und beenden durch grün oben ansteuern.",
+          "Das Spielfeld mixes Türkis, Pink, Blau und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Öffnen rails bevor du split Mitte pair.",
+        "Grün oben beenden ist spät ansteuern, nicht erste ansteuern.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen rechts weiß-und-schwarz ladder also Seite Zähler begin falling."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Lassen türkis `14` cap und türkis `11` centerpiece geparkt while frame around sie loosens."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Mirror dass cleanup auf linke Seite once erste ladder hat geöffnet enough Raum."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Trennen türkis `14` cap von `11` Block nur nach beide Seite rails haben narrowed."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden freigegeben obere Bahn zu abziehen weg blau und pink Spalten."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Bewegen `11` Block nach outer rails sind bereits thin."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit grün oben ansteuern und letzte Seite leftovers."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu split `14/11` pair bevor rails sind öffnen.",
+        "Verwendend oben pink Spalten als früh movers stattdessen von spät cleanup."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 18 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 18 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

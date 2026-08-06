@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-116",
+  "locale": "fr",
+  "levelNumber": 116,
+  "title": "Guide Block Out Niveau 116",
+  "summary": "Block Out Niveau 116 wraps perimeter arrows autour central orange-bordered `6` poche — arrows sont live sorties, pas decoration. bas couleur-compteur plateau tracks progress, et côté arrows doit ouvrez dans sequence à évitez trapping...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/116/",
+        "layout": "Block Out Niveau 116 wraps perimeter arrows autour central orange-bordered `6` poche — arrows sont live sorties, pas decoration. bas couleur-compteur plateau tracks progress, et côté arrows doit ouvrez dans sequence à évitez trapping blanc-bordered carré violet dans le centre-droite. Forcez le carré violet à travers pendant le bas compteurs sont toujours high et plateau sceaux shut.",
+        "landmarks": [
+          "Block Out Niveau 116 wraps perimeter arrows autour central orange-bordered `6` poche — arrows sont live sorties, pas decoration.",
+          "Bas couleur-compteur plateau tracks progress, et côté arrows doit ouvrez dans sequence à évitez trapping blanc-bordered carré violet dans le centre-droite.",
+          "Forcez le carré violet à travers pendant le bas compteurs sont toujours high et plateau sceaux shut."
+        ],
+        "colors": ["violet", "blue", "green", "red", "cyan", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "nhsbZytgveo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=nhsbZytgveo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Bas compteur plateau est sceau — attendez jusqu'à le centre-droite violet highlight dégage.",
+        "Gardez cyan `12`/`10` paire garé jusqu'à le milieu channel actually widens.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez le haut-gauche bleu `8` et vert haut amas sans touching central orange-bordered `6` poche."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez rouge gauche-arrow colonne bas et dégagez le bas-gauche rouge `11` tuile."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez cyan `12` et paired `10` tuiles à travers le bas centre une fois le milieu channel opens."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez highlighted blanc-bordered carré violet dans le centre-droite à déverrouillez bleu droite-arrow sortie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Close le bas-plateau bleu `10`, `8`, et `4` compteurs avant spending violet `7` paire."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier vert 1x1 et restant perimeter arrow sorties jusqu'à 6x6 grille empties."
+        }
+      ],
+      "failurePoints": [
+        "Spending le bas compteur plateau avant le centre-droite violet highlight dégage — ce sceaux bleu droite-arrow sortie.",
+        "Feeding cyan `12`/`10` paire too tôt pendant central `6` poche est toujours boxed dans."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/116/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 116",
+    "description": "Résolvez le niveau 116 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

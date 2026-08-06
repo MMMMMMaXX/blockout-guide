@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-60",
+  "locale": "fr",
+  "levelNumber": 60,
+  "title": "Guide Block Out Niveau 60",
+  "summary": "Block Out Niveau 60 fills 5×7 grille avec repeating pattern de vert, bleu, rouge, vert, blocs bleu, topped avec orange. dense packing means chaque colonne doit videz de bas à haut — dégagez vert base premier, alors work bleu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "Block Out Niveau 60 fills 5×7 grille avec repeating pattern de vert, bleu, rouge, vert, blocs bleu, topped avec orange. dense packing means chaque colonne doit videz de bas à haut — dégagez vert base premier, alors work bleu et blocs rouge vers le haut, et terminez avec orange haut rangée.",
+        "landmarks": [
+          "Block Out Niveau 60 fills 5×7 grille avec repeating pattern de vert, bleu, rouge, vert, blocs bleu, topped avec orange.",
+          "Dense packing means chaque colonne doit videz de bas à haut — dégagez vert base premier, alors work bleu et blocs rouge vers le haut, et terminez avec orange haut rangée.",
+          "Le plateau mélange vert, bleu et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez couleurs de bas à haut within chaque colonne — pas skip ahead ou blocs obtenez piégé.",
+        "Vert base doit allez premier. Sans il, bleu et blocs rouge au-dessus ont non sliding salle.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez le bas blocs vert vers la sortie gauche à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs bleu dans abaissez rangées hors à travers la sortie droite."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez les blocs rouge dans le milieu rangées à travers la sortie droite."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Déplacez les blocs vert dans supérieur-milieu rangées à travers la sortie gauche."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Commencez dégagement les blocs bleu dans supérieur rangées à travers la sortie droite."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec les blocs orange à le haut à travers la sortie supérieure."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement un bloc bleu avant vert sous il, qui traps vert avec non sliding chemin.",
+        "Essayant à dégagez orange haut rangée avant le milieu rangées sont ouvrez, qui jams plateau."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 60",
+    "description": "Résolvez le niveau 60 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

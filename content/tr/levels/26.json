@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-26",
+  "locale": "tr",
+  "levelNumber": 26,
+  "title": "Block Out Seviye 26 Rehberi",
+  "summary": "Block Out Seviye 26 bir Köprü-ve-ana blok tahtadır. Boşalt üst oda `18` boğaz ilk, daha düşük köprü saniye, ve sadece sonra bırak devasa daha düşük `21` ana blok başla çökerterek.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "Block Out Seviye 26 bir Köprü-ve-ana blok tahtadır. Boşalt üst oda `18` boğaz ilk, daha düşük köprü saniye, ve sadece sonra bırak devasa daha düşük `21` ana blok başla çökerterek.",
+        "landmarks": [
+          "Block Out Seviye 26 bir Köprü-ve-ana blok tahtadır.",
+          "Boşalt üst oda `18` boğaz ilk, daha düşük köprü saniye, ve sadece sonra bırak devasa daha düşük `21` ana blok başla çökerterek.",
+          "Tahta pembe, yeşil, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`18` boğaz açılır level.",
+        "Daha düşük `21` panel saniye-aşama hedef.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle üst oda merkezi `18` boğaz ve başla lowering onun count."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut shaving yan sayaçlar üst alanda sırasında daha düşük `21` panel kalır untouched."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan beyaz-ve-siyah engelleyiciler üst alanda tuta köprü yeniden doldurarak."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra `18` şerit much daha düşük, açık passage daha düşük odaya."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Başla küçülerek `21` ana blok sadece sonra köprü hayır daha uzun kalabalık."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Döndür geç mor ve kırmızı parçalar sonra alt alan actual alan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son üst artanlar sonra daha düşük ana blok zaten fallen."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek çalış daha düşük ana blok önce köprü açıldı.",
+        "Bırakarak üst oda yeniden doldur `18` boğaz sonra o zaten başladı dropping."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 26 Rehberi ve Çözümü",
+    "description": "Block Out seviye 26'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

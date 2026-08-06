@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-12",
+  "locale": "pt-br",
+  "levelNumber": 12,
+  "title": "Guia do nível 12 do Block Out",
+  "summary": "Block Out Nível 12 é sandglass quebra-cabeça com dois câmaras joined por estreito cintura. Pass longo barras através centro garganta em alternating ordem, mantenha ambos metades balanced, e use temporary bolsos para ciano `2` tijolos.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "Block Out Nível 12 é sandglass quebra-cabeça com dois câmaras joined por estreito cintura. Pass longo barras através centro garganta em alternating ordem, mantenha ambos metades balanced, e use temporary bolsos para ciano `2` tijolos.",
+        "landmarks": [
+          "Block Out Nível 12 é sandglass quebra-cabeça com dois câmaras joined por estreito cintura.",
+          "Pass longo barras através centro garganta em alternating ordem, mantenha ambos metades balanced, e use temporary bolsos para ciano `2` tijolos.",
+          "Tabuleiro mistura Azul, Vermelho, Ciano e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cada strong mova either enters ou limpa cintura.",
+        "Mova paired ciano `2` tijolos único depois longo barra tem crossed.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Solte um de centro vertical barras através estreito garganta so dois câmaras stop pinning cada outro."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Troque superior vermelho e azul colunas através cintura até um lateral contador shrinks suficiente para dê extra espaço."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova paired ciano `2` tijolos único depois longo barra tem crossed, so eles use temporary bolso em vez de clogging ele."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Mantenha alternating superior-para-inferior e inferior-para-superior transfers através centro até externo amarelo colunas pode separar cleanly."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use newly aberto lateral pistas para remova vermelho colunas de cada câmara."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine por escoando último amarelo e azul colunas depois garganta é no mais longo occupied."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar um câmara completamente antes que usando outro metade.",
+        "Parking curto bloco em garganta quando cheio coluna ainda precisa para cruz."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 12 do Block Out",
+    "description": "Resolva o nível 12 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

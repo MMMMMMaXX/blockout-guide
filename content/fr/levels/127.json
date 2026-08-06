@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-127",
+  "locale": "fr",
+  "levelNumber": 127,
+  "title": "Guide Block Out Niveau 127",
+  "summary": "Block Out Niveau 127 feeds numéroté discs — `6`, `4`, `5` — dans orange-bordered slots à travers deux chambres, avec bas Lego brick rangée supplying couleur sequence. orange-bordered violet `2` pilier ancres le centre, et surro...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/127/",
+        "layout": "Block Out Niveau 127 feeds numéroté discs — `6`, `4`, `5` — dans orange-bordered slots à travers deux chambres, avec bas Lego brick rangée supplying couleur sequence. orange-bordered violet `2` pilier ancres le centre, et surrounding 2×2 amas sur la droite doit dégagez avant pilier peut laissez tomber. Forcez pilier tôt et il blocs abaissez chambre's seulement alimentez voie.",
+        "landmarks": [
+          "Block Out Niveau 127 feeds numéroté discs — `6`, `4`, `5` — dans orange-bordered slots à travers deux chambres, avec bas Lego brick rangée supplying couleur sequence.",
+          "Orange-bordered violet `2` pilier ancres le centre, et surrounding 2×2 amas sur la droite doit dégagez avant pilier peut laissez tomber.",
+          "Forcez pilier tôt et il blocs abaissez chambre's seulement alimentez voie."
+        ],
+        "colors": ["violet", "orange", "green", "blue", "red", "pink", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r6zFw7xFbd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r6zFw7xFbd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimentez orange `4` dans la droite `12` chambre avant shifting rouge 2×2 stack.",
+        "Haut violet `2` pilier est dernier objectif — pas cassez il jusqu'à le bas vert `3` voie est ouvrez.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Study le bas Lego rangée et alimentez premier correspondant paire dans la gauche orange-bordered `14` chambre."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Laissez tomber vert `6` disc dans la gauche chambre une fois `14` slot opens."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez orange `4` disc dans la droite `12` chambre pendant blanc `5` marqueur sur la droite rail est toujours dégagez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez rouge 2×2 et bleu 2×2 stacks sur supérieur droit sans blocking vert 2×2 sous les."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Acheminez le L rose-shape et bas vert `3` compteur à travers abaissez grille."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Cassez haut orange-bordered violet `2` pilier et terminez restant bas bleu scraps."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant rouge 2×2 avant orange `4` disc enters la droite `12` chambre — ce jams vert `3` voie.",
+        "Breaking haut violet `2` pilier pendant le L rose-shape toujours blocs abaissez grille."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/127/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 127",
+    "description": "Résolvez le niveau 127 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es-level-29",
+  "locale": "es",
+  "levelNumber": 29,
+  "title": "Guía de Block Out Nivel 29",
+  "summary": "El nivel 29 de Block Out es un tablero de jefes gemelos con columna central. Retira la escalera central roja-negra-blanca primero, baja las columnas laterales de los jefes segundo, y solo entonces gira las piezas de laberinto rojas, amarillas, azules y verdes finales.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "El nivel 29 de Block Out es un tablero de jefes gemelos con columna central. Retira la escalera central roja-negra-blanca primero, baja las columnas laterales de los jefes segundo, y solo entonces gira las piezas de laberinto rojas, amarillas, azules y verdes finales.",
+        "landmarks": [
+          "El nivel 29 de Block Out es un tablero de jefes gemelos con columna central.",
+          "Retira la escalera central roja-negra-blanca primero, baja las columnas laterales de los jefes segundo, y solo entonces gira las piezas de laberinto rojas, amarillas, azules y verdes finales.",
+          "El tablero combina rojo, negro, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La columna central es la fase uno.",
+        "El laberinto final solo importa después de que ambos lados hayan empezado a abrirse.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Retira la columna central roja-negra-blanca para que ambos jefes laterales empiecen a perder soporte a la vez."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mantén las columnas laterales mayormente estacionadas mientras los contadores compartidos siguen altos."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Baja los jefes enmarcados izquierdo y derecho solo después de que el carril central esté claramente más fino."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando los jefes se abran, gira las piezas de laberinto rojas, amarillas, azules y verdes finales hacia los nuevos bolsillos."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Sigue bajando los contadores superiores mientras el centro ya no sea un muro."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Usa las formas verdes finales para evitar que los carriles laterales se rellenen."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina el laberinto después de que ambos jefes laterales ya hayan colapsado."
+        }
+      ],
+      "failurePoints": [
+        "Intentar resolver un jefe lateral antes de que la columna central se haya abierto.",
+        "Ignorar la estructura del laberinto final después de que las columnas laterales empiecen a caer."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 29",
+    "description": "Resuelve el nivel 29 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

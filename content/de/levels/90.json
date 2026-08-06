@@ -1,0 +1,93 @@
+{
+  "id": "de-level-90",
+  "locale": "de",
+  "levelNumber": 90,
+  "title": "Block Out Level 90 Lösung",
+  "summary": "Block Out Level 90 ist öffnen-tray Spielfeld built around one geteilt Mitte well. Räumen erste gelb shapes ohne sealing dass mittlere Platz, dann let rot shelf, grün staircase, und later gelb Blöcke drehen durch gleich openi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "Block Out Level 90 ist öffnen-tray Spielfeld built around one geteilt Mitte well. Räumen erste gelb shapes ohne sealing dass mittlere Platz, dann let rot shelf, grün staircase, und later gelb Blöcke drehen durch gleich Eröffnungs- bis arena empties.",
+        "landmarks": [
+          "Block Out Level 90 ist öffnen-tray Spielfeld built around one geteilt Mitte well.",
+          "Räumen erste gelb shapes ohne sealing dass mittlere Platz, dann let rot shelf, grün staircase, und later gelb Blöcke drehen durch gleich Eröffnungs- bis arena empties.",
+          "Das Spielfeld mixes Gelb, Orange, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["yellow", "orange", "red", "green", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat mittlere von tray like reserved airspace. Tu nicht parken Bauteile dort.",
+        "Seite verklemmt matter nur when du let Verkehr bunch hoch nächste zu sie.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Bewegen obere gelb L-shape hinaus erste also oben half von arena öffnet."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen untere linke grün Quadrat und erste gelb Quadrat ohne filling Mitte well."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "When rot shelf appears in mittlere, drehen es durch öffnen Mitte stattdessen von pinning es zu Seite Wand."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Let grün staircase und blau foot-shaped Bauteile überqueren mittlere one bei time while Seite exits stay räumen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Aufsparen bulkier gelb shapes für nach rot und grün Verkehr hat thinned."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte rot L-Bauteil und remaining gelb Blöcke once mittlere von tray ist empty again."
+        }
+      ],
+      "failurePoints": [
+        "Stuffing Bauteile in untere corners und closing Mitte well.",
+        "Treating Level 90 like channel Puzzle stattdessen von öffnen-tray Drehung Spielfeld."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 90 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 90 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

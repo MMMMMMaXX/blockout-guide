@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-63",
+  "locale": "tr",
+  "levelNumber": 63,
+  "title": "Block Out Seviye 63 Rehberi",
+  "summary": "Block Out Seviye 63 crams tahta ile oversized LEGO bloklar — L-şekiller, uzun rectangles, ve büyük kareler — tüm interlocked ile sayaç numaralar yukarı 11. açarak strateji kenar-soy: extract yeşil bloklar üst-sağ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "Block Out Seviye 63 crams tahta ile oversized LEGO bloklar — L-şekiller, uzun rectangles, ve büyük kareler — tüm interlocked ile sayaç numaralar yukarı 11. açarak strateji kenar-soy: extract yeşil bloklar üst-sağ ve sarı '11' blok üst-sol. sonra kenarlar ince, interlocked merkez (kırmızı kare, mavi L-şekil, mor bloklar) ebilir sonunda ayrıldı. mavi L-parça sağ yanda gerektirir çoğu clearance ve usually bırakır son.",
+        "landmarks": [
+          "Block Out Seviye 63 crams tahta ile oversized LEGO bloklar — L-şekiller, uzun rectangles, ve büyük kareler — tüm interlocked ile sayaç numaralar yukarı 11.",
+          "Açarak strateji kenar-soy: extract yeşil bloklar üst-sağ ve sarı '11' blok üst-sol.",
+          "Sonra kenarlar ince, interlocked merkez (kırmızı kare, mavi L-şekil, mor bloklar) ebilir sonunda ayrıldı.",
+          "Mavi L-parça sağ yanda gerektirir çoğu clearance ve usually bırakır son."
+        ],
+        "colors": ["yellow", "green", "red", "blue", "orange", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Her zaman ince kenarlar önce dokunarak merkez — bir yanlış merkez hareket ettir kilitlenir tahta.",
+        "Mavi L-şekilli parça sağ yanda gerektirir çoğu clearance ve meli bırak geç.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çek yeşil bloklar üst-sağ üst çıkışdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır sarı '11' blok sola doğru onun çıkışa serbest üst-sol."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır turuncu bloklar sol kenarda aşağı sonra üst köşe açılır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Extract kırmızı kare merkezden-sol sonra enough kenar alan exists."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Yönlendir mavi L-şekil sağ yanda dışarı — o gerektirir çoğu clearance."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile kalan mor ve camgöbeği bloklar sonra merkez açık."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek merkez blok önce kenarlar thinned — interlocked parçalar sıkış instantly.",
+        "Deneyerek extracta mavi L-şekil erken ne zaman orada değil enough dikey ve yatay alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 63 Rehberi ve Çözümü",
+    "description": "Block Out seviye 63'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

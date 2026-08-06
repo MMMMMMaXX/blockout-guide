@@ -1,0 +1,92 @@
+{
+  "id": "ja-level-78",
+  "locale": "ja",
+  "levelNumber": 78,
+  "title": "ブロックアウト レベル78 攻略",
+  "summary": "ブロックアウト レベル78は、動きを制限する暗い通路を持つ長方形の盤面に、大きな色ブロックを詰め込んでいます。上半分には大きな緑・青・赤ブロックがあり、下部の中央にはカウンター付きの黄／オレンジの枠付きブロックがあります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/78/",
+        "layout": "ブロックアウト レベル78は、動きを制限する暗い通路を持つ長方形の盤面に、大きな色ブロックを詰め込んでいます。上半分には大きな緑・青・赤ブロックがあり、下部の中央には紫ブロックにはさまれたカウンター「3」の黄／オレンジの枠付きブロックがあります。まず上半分を消去して通路を開放し、紫の脇ブロックを取り出し、次に枠付きブロックを出口から3回通します。",
+        "landmarks": [
+          "ブロックアウト レベル 78 経路 .。",
+          "上の 緑、青、赤 .。",
+          "下の 中央 黄/オレンジ ブロック カウンター '3' 紫 .。",
+          "を消去して上の 開く 経路、紫のを取り出して、通す ブロック 出口 .。"
+        ],
+        "colors": ["green", "blue", "red", "cyan", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5LMPyiuGDKc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5LMPyiuGDKc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去して上の、通す カウンター '3' ブロック.。",
+        "経路 無理に動かす — 計画する 維持する レーン 消去する.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑のを取り出して上の-左 上、出口を残して.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青のを引きて上の-右 右 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤のをずらして中央 解放し 上の .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "紫のを消去して下の 中央 開く レーン ブロック.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "黄のを通して/オレンジ ブロック (カウンター '3') 出口 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて紫 ブロック 下.。"
+        }
+      ],
+      "failurePoints": [
+        "通す カウンター '3' ブロック、上の 消去する — 経路 .。",
+        "紫のを残して配置する 通す ブロック.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/78/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル78 攻略と解説",
+    "description": "ブロックアウト レベル78 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

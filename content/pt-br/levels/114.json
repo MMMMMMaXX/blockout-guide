@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-114",
+  "locale": "pt-br",
+  "levelNumber": 114,
+  "title": "Guia do nível 114 do Block Out",
+  "summary": "Block Out Nível 114 dá você dois wrenches e dois cadeado blocos, mas real constraint é quatro inferior cor barras — ao vivo quotas, não pontuação decoração. Cada chave inglesa desbloqueia exactly um cadeado aglomerado, e gastando azul chave inglesa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/114/",
+        "layout": "Block Out Nível 114 dá você dois wrenches e dois cadeado blocos, mas real constraint é quatro inferior cor barras — ao vivo quotas, não pontuação decoração. Cada chave inglesa desbloqueia exactly um cadeado aglomerado, e gastando azul chave inglesa em errado cadeado deixa esquerda ciano barra preso em `10` com no tool para fix ele. superior dispositivo contador soltando para `3` é seu signal que tempo é running para fora.",
+        "landmarks": [
+          "Block Out Nível 114 dá você dois wrenches e dois cadeado blocos, mas real constraint é quatro inferior cor barras — ao vivo quotas, não pontuação decoração.",
+          "Cada chave inglesa desbloqueia exactly um cadeado aglomerado, e gastando azul chave inglesa em errado cadeado deixa esquerda ciano barra preso em `10` com no tool para fix ele.",
+          "Superior dispositivo contador soltando para `3` é seu signal que tempo é running para fora."
+        ],
+        "colors": ["red", "pink", "yellow", "orange", "green", "cyan", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UAzhWbdstDQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UAzhWbdstDQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vermelho chave inglesa primeiro em superior amarelo bloco — ele único frees superior metade.",
+        "Inferior `14` rosa barra é último quota; limpar amarelo `12` e verde `4` antes que estrela aglomerado.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Tap vermelho chave inglesa em superior amarelo bloco para desbloqueie superior rosa/amarelo aglomerado."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar amarelo blocos em direção a inferior `12` barra antes que tocando centro rosa Z-forma."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Descasque esquerda ciano coluna ao longo vermelho esquerda seta até lateral contador solta de `15` para `10`."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Tap azul chave inglesa em verde bloco para desbloqueie cadeado laranja peça em inferior-meio."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente verde blocos para fora através inferior `4` barra e único azul bloco através `1` barra."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Quebre cima rosa estrela aglomerado em direita e feche inferior `14` rosa barra através verde direita setas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Saída último laranja singles uma vez inferior contadores read `7` e `9`."
+        }
+      ],
+      "failurePoints": [
+        "Gastando azul chave inglesa antes que vermelho chave inglesa, deixando superior aglomerado cadeado.",
+        "Limpando rosa estrela aglomerado antes que amarelo `12` barra é satisfied."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/114/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 114 do Block Out",
+    "description": "Resolva o nível 114 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

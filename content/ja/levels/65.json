@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-65",
+  "locale": "ja",
+  "levelNumber": 65,
+  "title": "ブロックアウト レベル65 攻略",
+  "summary": "ブロックアウト レベル65は入れ子枠のパズルで、2つの可視の枠層—外側の暗い枠と内側のオレンジ枠—が色ブロックの核を包んでいます。内側のブロックは両方の枠が開くまで動かせません。まず外側の枠を剥がし…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "ブロックアウト レベル65は入れ子枠のパズルで、2つの可視の枠層—外側の暗い枠と内側のオレンジ枠—が色ブロックの核を包んでいます。内側のブロックは両方の枠が開くまで動かせません。まずピンクと赤の端ピースを取り出して外側の枠を剥がし、次に内側のオレンジ枠を壊して緑・青・紫・赤のブロックを解放します。内側の枠の中にあるカウンター「10」の黄ブロックが最も重いピースで、最後に抜けます。",
+        "landmarks": [
+          "ブロックアウト レベル 65 -枠 枠 層 — 枠、オレンジ 枠 — .。",
+          "手順、枠 開く.。",
+          "を剥がして枠 ピンク、赤、割る オレンジ 枠 解放する 緑、青、紫、赤 .。",
+          "黄 ブロック カウンター '10' 枠 ピース、出口 .。"
+        ],
+        "colors": ["purple", "green", "blue", "red", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "枠、枠 .。",
+        "黄 '10' ブロック 必要とし レーン — 維持する 出口 消去する 通す.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を引きてピンク/ 枠 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "赤のを取り出して左 側 間、枠.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "枠、を割りてオレンジ 枠 解放する .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "紫ブロックをスライドさせて上の-左 エリア 左 出口.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "緑のを取り出して、青 中央 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "黄のを通して'10' ブロック 出口、消去し.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて赤 右側.。"
+        }
+      ],
+      "failurePoints": [
+        "無理に動かす - 枠 — 手順、層 開く.。",
+        "残し レーン 黄 '10' ブロック、狭い .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル65 攻略と解説",
+    "description": "ブロックアウト レベル65 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-39",
+  "locale": "pt-br",
+  "levelNumber": 39,
+  "title": "Guia do nível 39 do Block Out",
+  "summary": "Block Out Nível 39 é rotulado 'Super Difícil' e é primeiro triple-chefe tabuleiro em Block Out. layout é 2×2 grade: superior-esquerda chefe `14`, superior-direita chefe `21`, inferior-direita chefe `4`, e empacotado cor mix em inferior-esquerda. `4` bo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "Block Out Nível 39 é rotulado 'Super Difícil' e é primeiro triple-chefe tabuleiro em Block Out. layout é 2×2 grade: superior-esquerda chefe `14`, superior-direita chefe `21`, inferior-direita chefe `4`, e empacotado cor mix em inferior-esquerda. `4` chefe abre inferior metade, colorido blocos escoe próximo, então `14` cai antes que `21`. Cada fase depends em um antes que ele, e ordering é absolute.",
+        "landmarks": [
+          "Block Out Nível 39 é rotulado 'Super Difícil' e é primeiro triple-chefe tabuleiro em Block Out.",
+          "Layout é 2×2 grade: superior-esquerda chefe `14`, superior-direita chefe `21`, inferior-direita chefe `4`, e empacotado cor mix em inferior-esquerda.",
+          "`4` chefe abre inferior metade, colorido blocos escoe próximo, então `14` cai antes que `21`.",
+          "Cada fase depends em um antes que ele, e ordering é absolute."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Check inferior-direita `4` contador antes que tocando anything acima ele — se ele é ainda alive, neither superior chefe pode mova.",
+        "Cascade é strict: `4` → cores → `14` → `21`. No shortcuts.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Funciona blocos ao redor inferior-direita `4` câmara primeiro — desloque adjacente colorido blocos em direção a inferior saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Fino colorido blocos em inferior-esquerda quadrante (verde, amarelo, azul, vermelho, roxo) para crie espaço para `4` chefe para colapse."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Uma vez `4` contador solta para zero (ao redor 01:47), use liberado inferior-direita espaço para accelerate cor escoe."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece superior-esquerda `14` chefe único depois inferior metade é principalmente abra — assista seu contador solte através `10`."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mantenha superior-direita `21` chefe estacionado enquanto `14` é ainda caindo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deixe `21` chefe comece seu descent único depois `14` câmara tem totalmente emptied e superior teto é mais leve."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último colorido blocos e lateral contadores depois tudo três chefes são indo."
+        }
+      ],
+      "failurePoints": [
+        "Dividindo effort entre tudo três chefes de comece — none reaches crítico threshold, e tabuleiro stalls porque no único câmara obtém suficiente espaço.",
+        "Attempting para reduza `21` chefe antes que `14` tem collapsed, que desperdiça limited superior espaço em maior contador."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 39 do Block Out",
+    "description": "Resolva o nível 39 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

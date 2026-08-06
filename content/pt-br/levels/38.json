@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-38",
+  "locale": "pt-br",
+  "levelNumber": 38,
+  "title": "Guia do nível 38 do Block Out",
+  "summary": "Block Out Nível 38 tem `12` chefe câmara enterrado debaixo structured tampa de três azul `2` blocos, rosa `15` bloco, e roxo `6` dispositivo. tampa tem seu próprio internal sequência — azul `2`s são rápido, dispositivo é medium, e rosa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out Nível 38 tem `12` chefe câmara enterrado debaixo structured tampa de três azul `2` blocos, rosa `15` bloco, e roxo `6` dispositivo. tampa tem seu próprio internal sequência — azul `2`s são rápido, dispositivo é medium, e rosa `15` é lento — e deve be dismantled peça por peça antes que chefe pode solte. Depois chefe cai ao redor 01:33, massa de vermelho, rosa, verde, e azul blocos spills para fora para segundo ordenando fase.",
+        "landmarks": [
+          "Block Out Nível 38 tem `12` chefe câmara enterrado debaixo structured tampa de três azul `2` blocos, rosa `15` bloco, e roxo `6` dispositivo.",
+          "Tampa tem seu próprio internal sequência — azul `2`s são rápido, dispositivo é medium, e rosa `15` é lento — e deve be dismantled peça por peça antes que chefe pode solte.",
+          "Depois chefe cai ao redor 01:33, massa de vermelho, rosa, verde, e azul blocos spills para fora para segundo ordenando fase."
+        ],
+        "colors": ["blue", "pink", "purple", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tampa tem seu próprio ordem: azul `2`s primeiro (rápido), roxo dispositivo segundo (medium), rosa `15` último (lento).",
+        "Assista para spill em 01:33 — se lateral pistas são não ready, revelado blocos jam espaço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar três azul `2` blocos de superior fileira primeiro — eles são mais rápido tampa reductions."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Service roxo `6` dispositivo em superior-esquerda por routing amarelo bloco através seu saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece afinando rosa `15` bloco em superior-direita agora que azul blocos são indo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Assista chefe contador solte através `8` como tampa afina (visível ao redor 01:42)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Abra lateral pistas so revelado blocos tem somewhere para go depois chefe cai."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deixe `12` chefe colapse uma vez tampa é principalmente indo — spill happens ao redor 01:33."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Ordene revelado vermelho, rosa, verde, e azul blocos através lateral e inferior saídas para termine."
+        }
+      ],
+      "failurePoints": [
+        "Skipping azul `2` blocos e going reto para rosa `15` — tampa permanece também grosso para chefe para mova.",
+        "Não having lateral pistas abra quando chefe cai em 01:33, que significa revelado blocos pile cima com nowhere para go."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 38 do Block Out",
+    "description": "Resolva o nível 38 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

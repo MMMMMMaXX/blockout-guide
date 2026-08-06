@@ -1,0 +1,92 @@
+{
+  "id": "ja-level-67",
+  "locale": "ja",
+  "levelNumber": 67,
+  "title": "ブロックアウト レベル67 攻略",
+  "summary": "ブロックアウト レベル67は、迷路の通路でつながる上下2つの半分に盤面を分け、中央の接合部に枠付きの要石ブロック（カウンター「1」）を置いています。上半分には緑・紫・黄・青・赤のブロックが混在し…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "ブロックアウト レベル67は、迷路の通路でつながる上下2つの半分に盤面を分け、中央の接合部に枠付きの要石ブロック（カウンター「1」）を置いています。上半分には緑・紫・黄・青・赤のブロックが混在します。下半分にはカウンター「8」「3」「3」の高いシアンブロックが3つあります。まず要石を取り除いて迷路を通じて両半分を接続し、次に上半分の色ブロックを消去し、最後に高いシアンブロックを通路から底部の出口へ通します。",
+        "landmarks": [
+          "ブロックアウト レベル 67 上の、を下げて迷路 経路、ブロック (カウンター '1') 配置し 中央 .。",
+          "上の 緑、紫、黄、青、赤 .。",
+          "下の シアン カウンター '8'、'3'、'3'.。",
+          "を取り除きて迷路、消去する 上の、通す シアン 経路 下 出口.。"
+        ],
+        "colors": ["green", "purple", "yellow", "blue", "red", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "ブロック カウンター '1' 手順 — 消去する .。",
+        "を消去して上の、シアン 経路.。",
+        "盤面が行き詰まったら、最もクリアな経路を持つ色を見つけ、それを使って再びスペースを作りましょう。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去してブロック (カウンター '1') 中央 — .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑ブロックを取り出して上の-左 左 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "青のを引きて、赤 上 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "紫のをスライドさせて/ ブロックアウト、.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を通してシアン ブロック (カウンター '8') 迷路 経路 下部の出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通してシアン (カウンター '3' ) 経路.。"
+        }
+      ],
+      "failurePoints": [
+        "を無視してブロック、手順 上の — 残す .。",
+        "シアン ブロック、上の 区画 消去する、経路 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル67 攻略と解説",
+    "description": "ブロックアウト レベル67 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

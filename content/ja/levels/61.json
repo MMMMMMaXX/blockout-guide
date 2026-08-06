@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-61",
+  "locale": "ja",
+  "levelNumber": 61,
+  "title": "ブロックアウト レベル61 攻略",
+  "summary": "ブロックアウト レベル61は、向き矢印ブロックで6×8グリッドを埋めています—左側に緑の左矢印、右側に赤の右矢印、上部に青の左矢印、底部に緑の下矢印、中央にオレンジと赤の上下矢印ブロックがあります。すべての…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/61/",
+        "layout": "ブロックアウト レベル61は、向き矢印ブロックで6×8グリッドを埋めています—左側に緑の左矢印、右側に赤の右矢印、上部に青の左矢印、底部に緑の下矢印、中央にオレンジと赤の上下矢印ブロックがあります。各ブロックは矢印の向きにしか滑ることができません。まず上部と底部の段を消去し、次に中央の列を縦に進めます。",
+        "landmarks": [
+          "ブロックアウト レベル 61 6×8 矢印 — 緑 左-矢印 左、赤 右-矢印 右、青 左-矢印 上、緑 下-矢印 下、オレンジ/赤 上-下 中央の.。",
+          "ブロック スライドさせる 矢印 .。",
+          "を消去して上、下、進める 中央の .。"
+        ],
+        "colors": ["green", "red", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "kfVQ2SZQEL4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=kfVQ2SZQEL4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "矢印 — ブロック 左 矢印 スライドさせる 左. 計画する 周りを .。",
+        "を消去して上、下 中央の スライドさせる .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上 青 左 矢印 左 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して下 緑 下 矢印 下部の出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "スライドさせ 中央の オレンジ/赤 — 上-矢印 上、下-矢印 下.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "緑のを消去して左に、左 矢印 左 出口 中央の .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "赤のを消去して右に、右 矢印 右 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて中央の 必要とする スライドさせ.。"
+        }
+      ],
+      "failurePoints": [
+        "スライドさせる ブロック 矢印 — 矢印、.。",
+        "消去 中央の、上、下 開く、罠 上の、を下げてスライドさせ .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/61/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル61 攻略と解説",
+    "description": "ブロックアウト レベル61 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-130",
+  "locale": "de",
+  "levelNumber": 130,
+  "title": "Block Out Level 130 Lösung",
+  "summary": "Block Out Level 130 chains 10-wide obere Raster zu trennen untere Zähler frame durch verklemmen-und-key mechanism — blau verklemmen und lila key Kachel sitzen in Mitte Reihe, und abgleichend sie öffnet hinausführen Bahn zwischen boards. Rot roc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "Block Out Level 130 chains 10-wide obere Raster zu trennen untere Zähler frame durch verklemmen-und-key mechanism — blau verklemmen und lila key Kachel sitzen in Mitte Reihe, und abgleichend sie öffnet hinausführen Bahn zwischen boards. Rot rocket-marked Blöcke in obere Raster schauen urgent aber sind just Verkehr. Bewegen sie bevor verklemmen/key breaks und untere grün Pfeil Bahn seals permanently.",
+        "landmarks": [
+          "Block Out Level 130 chains 10-wide obere Raster zu trennen untere Zähler frame durch verklemmen-und-key mechanism — blau verklemmen und lila key Kachel sitzen in Mitte Reihe, und abgleichend sie öffnet hinausführen Bahn zwischen boards.",
+          "Rot rocket-marked Blöcke in obere Raster schauen urgent aber sind just Verkehr.",
+          "Bewegen sie bevor verklemmen/key breaks und untere grün Pfeil Bahn seals permanently."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Behalten rot rocket Blöcke geparkt bis blau verklemmen/lila key pair breaks.",
+        "Untere frame Zähler fällt … lassen von `20` zu `17` als obere Raster räumt — anschauen es bevor endgültig schieben.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen oben-Reihe Blöcke verwendend blau hoch-Pfeil, dann räumen grün padlock Kacheln auf obere band."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break Kette-linked rechts-Seite pair ohne verschiebend rot rocket Blöcke yet."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abgleichen blau verklemmen Kachel mit lila key Kachel in Mitte Reihe zu öffnen untere frame."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Ansteuern obere Raster exits durch links rot und rechts orange Pfeil lanes."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend unten Zähler `4`, `5`, und `1` zu hinausführen untere `17` frame."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen letzte obere scraps und zero untere Zähler Kachel für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Moving rot rocket Blöcke bevor verklemmen/key pair breaks — untere grün Pfeil Bahn seals shut.",
+        "Breaking Kette link while padlock Kacheln sind still auf obere band."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 130 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 130 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

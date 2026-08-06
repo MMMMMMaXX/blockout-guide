@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-57",
+  "locale": "tr",
+  "levelNumber": 57,
+  "title": "Block Out Seviye 57 Rehberi",
+  "summary": "Block Out Seviye 57 istifler iki mor ana blok odalar — '5' üstde, '11' altda — ile üç beyaz '10' bloklar veryde taban. odalar paylaş duvar, böylece temizleyerek bir affects diğer. başla ile alt '10' bloklar, sonra wo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "Block Out Seviye 57 istifler iki mor ana blok odalar — '5' üstde, '11' altda — ile üç beyaz '10' bloklar veryde taban. odalar paylaş duvar, böylece temizleyerek bir affects diğer. başla ile alt '10' bloklar, sonra çalış her ikisi de odalar parallel, bırakarak daha küçük '5' oda temizle faster sırasında '11' oda gradually açılır.",
+        "landmarks": [
+          "Block Out Seviye 57 istifler iki mor ana blok odalar — '5' üstde, '11' altda — ile üç beyaz '10' bloklar veryde taban.",
+          "Odalar paylaş duvar, böylece temizleyerek bir affects diğer.",
+          "Başla ile alt '10' bloklar, sonra çalış her ikisi de odalar parallel, bırakarak daha küçük '5' oda temizle faster sırasında '11' oda gradually açılır."
+        ],
+        "colors": ["purple", "yellow", "blue", "green", "red", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Iki odalar paylaş duvar — değil fully boşalt '5' önce '11' made progress.",
+        "Başla ile alt '10' bloklar. onlar independent hedefler ki açık taban.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üç beyaz '10' bloklar alt ile kaydırarakda onları sağ çıkışa."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır sarı bloklar sol dışarıda sol çıkışdan açık boşluka arasında iki odalar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla boşaltarak üst '5' oda — o daha küçük ve temizlenir faster, açarak alan üstünde."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Çalış daha düşük '11' oda parallel, kaydırarak onun bloklar dışarı sağ çıkışdan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "'5' oda boşalır, kullan serbest bırakıldı alan yardım et '11' oda bloklar kaydır dışarı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle kalan yeşil ve mavi bloklar tuzağa düştü arasında boşaldı odalar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kırmızı ve mor bloklar üstde ve yanlar."
+        }
+      ],
+      "failurePoints": [
+        "Fully boşaltarak '5' oda önce '11' made progress — shared duvar provides kaydırarak destek için her ikisi de, ve losing o çok erken tuzağa düşürür bloklar.",
+        "Ignoring alt '10' bloklar ve deneyerek çalış odalar ilk, hangi bırakır taban sıkıştırılmış ve bloklar ebilir't kaydır aşağı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 57 Rehberi ve Çözümü",
+    "description": "Block Out seviye 57'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-91",
+  "locale": "ja",
+  "levelNumber": 91,
+  "title": "ブロックアウト レベル91 攻略",
+  "summary": "ブロックアウト レベル91は積み重ねた「7」と「5」の部屋で始まりますが、本当の隘路は上部の部屋が縮んだあとに現れる中央のエレベーターです。まず詰め込まれた左壁を消去し、次に「7」の部屋を空にし、その後番号付きシアン通路を…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "ブロックアウト レベル91は積み重ねた「7」と「5」の部屋で始まりますが、本当の隘路は上部の部屋が縮んだあとに現れる中央のエレベーターです。まず詰め込まれた左壁を消去し、次に「7」の部屋を空にし、その後最後の側面ピースが抜ける前に番号付きシアン通路を片付けます。",
+        "landmarks": [
+          "ブロックアウト レベル 91 `7`、`5` 部屋、中央、上 部屋 .。",
+          "詰まったを消去して左の壁、を排出して`7` 部屋、シアン レーン、側 残す.。",
+          "混ぜる 紫、緑、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "左の壁 混雑した、`7` 部屋 .。",
+        "シアン レーン .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "左の壁 消去 緑 はしご、黄 列 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を解放して赤 四角 中央の、中央 縦穴 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を始めて縮め 上の `7` 部屋、左の壁 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を出して中央 開く、シアンのを消去してレーン 間 部屋.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を通して下の `5` 部屋、縦穴 塞ぎ 黄、赤 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて赤、緑 側、中央レーン .。"
+        }
+      ],
+      "failurePoints": [
+        "を縮めて`7` 部屋、左の壁 開き 中央 縦穴.。",
+        "シアンのを無視してレーン、まっすぐ `7` 部屋 `5` 部屋.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル91 攻略と解説",
+    "description": "ブロックアウト レベル91 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

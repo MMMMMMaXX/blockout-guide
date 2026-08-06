@@ -1,0 +1,96 @@
+{
+  "id": "de-level-49",
+  "locale": "de",
+  "levelNumber": 49,
+  "title": "Block Out Level 49 Lösung",
+  "summary": "Block Out Level 49 ist labeled 'Super schwer' und weist auf three hoch Boss chambers — links und rechts bei `17` jede, mit Mitte gelb key Block — alle sitting über packed untere chamber von blau, grün, gelb, rot, orange, und türkis Block...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "Block Out Level 49 ist labeled 'Super schwer' und weist auf three hoch Boss chambers — links und rechts bei `17` jede, mit Mitte gelb key Block — alle sitting über packed untere chamber von blau, grün, gelb, rot, orange, und türkis Blöcke. Drain untere chamber erste zu give alle three Bosse Raum, dann let abgeglichen `17` chambers collapse roughly in sync. Jede phase depends auf untere chamber seiend öffnen enough.",
+        "landmarks": [
+          "Block Out Level 49 ist labeled 'Super schwer' und weist auf three hoch Boss chambers — links und rechts bei `17` jede, mit Mitte gelb key Block — alle sitting über packed untere chamber von blau, grün, gelb, rot, orange, und türkis Blöcke.",
+          "Drain untere chamber erste zu give alle three Bosse Raum, dann let abgeglichen `17` chambers collapse roughly in sync.",
+          "Jede phase depends auf untere chamber seiend öffnen enough."
+        ],
+        "colors": ["blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alle three Bosse depend auf gleich floor — wenn untere chamber still fühlt packed, none von sie ist ready.",
+        "Gelb Mitte Block zwischen Bosse ist früh key Bauteil. Verwenden es zu starten Eröffnungs- obere section.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Drain untere colored Blöcke (blau, grün, gelb, rot, orange, türkis) toward Seite exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden gelb Mitte Block zwischen Bosse als früh bewegen zu starten Eröffnungs- obere section."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten `17` Bosse geparkt while untere chamber ist still crowded."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once floor ist über half-empty, let Boss Zähler starten dropping."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Arbeiten beide `17` chambers roughly evenly also sie collapse in sync."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen spät colored strips von revealed obere Platz."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte Seite Zähler und chamber cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Working one oben Boss in isolation while andere two sind still sealed — alle three teilen gleich floor und muss öffnen together.",
+        "Nicht draining untere chamber bevor touching Bosse, welche lässt kein Raum für irgendein von three chambers zu collapse in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 49 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 49 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-121",
+  "locale": "fr",
+  "levelNumber": 121,
+  "title": "Guide Block Out Niveau 121",
+  "summary": "Block Out Niveau 121 splits plateau dans bleu-et-jaune supérieur conveyor et abaissez damier grille, connected par alimentez voie. supérieur plateau doit drainez completely avant vert `31` crown bloc dans abaissez grille unlocks. rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "Block Out Niveau 121 splits plateau dans bleu-et-jaune supérieur conveyor et abaissez damier grille, connected par alimentez voie. supérieur plateau doit drainez completely avant vert `31` crown bloc dans abaissez grille unlocks. droite-côté `5` arrow tuile est dernier gatekeeper — dégagez il too tardif et crown stays boxed dans même après conveyor est videz.",
+        "landmarks": [
+          "Block Out Niveau 121 splits plateau dans bleu-et-jaune supérieur conveyor et abaissez damier grille, connected par alimentez voie.",
+          "Supérieur plateau doit drainez completely avant vert `31` crown bloc dans abaissez grille unlocks.",
+          "Droite-côté `5` arrow tuile est dernier gatekeeper — dégagez il too tardif et crown stays boxed dans même après conveyor est videz."
+        ],
+        "colors": ["blue", "yellow", "red", "orange", "green", "cyan", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drainez supérieur plateau completely avant chasing vert `31` crown.",
+        "Gardez abaissez cyan `19` colonne garé jusqu'à supérieur plateau va dark.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez supérieur bleu/jaune damier à travers la droite-côté jaune arrows dans abaissez plateau."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez supérieur rouge `23` rangée et la gauche-bord cyan `7` badge jusqu'à supérieur plateau va dark."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Pelez abaissez rouge/orange/vert haut capuchon sans touching le centre blanc `15` slot."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Cassez vert `31` crown bloc une fois la gauche cyan `19` colonne opens voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez bleu `10` tuile et la droite-côté `5` arrow compteur avant les piles jaune amincissez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec le bas cyan `26` compteur et restant bleu/jaune scraps pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Chasing vert `31` crown avant supérieur plateau est fully dark — ce boxes le centre `15` slot.",
+        "Dégagement piles jaune avant bleu `10` tuile coups, sealing le bas cyan `26` compteur."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 121",
+    "description": "Résolvez le niveau 121 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

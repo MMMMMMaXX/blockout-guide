@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-74",
+  "locale": "fr",
+  "levelNumber": 74,
+  "title": "Guide Block Out Niveau 74",
+  "summary": "Block Out Niveau 74 opens avec four violet chambres wrapped autour cramped centre colonne. Drainez tiny `3` poche à bas-droite premier, glissez cyan étapes hors de abaissez voie, alors laissez `7` et `15` salles shrink avant vous fina...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out Niveau 74 opens avec four violet chambres wrapped autour cramped centre colonne. Drainez tiny `3` poche à bas-droite premier, glissez cyan étapes hors de abaissez voie, alors laissez `7` et `15` salles shrink avant vous finally commit à énorme `20` chambre sur la gauche.",
+        "landmarks": [
+          "Block Out Niveau 74 opens avec four violet chambres wrapped autour cramped centre colonne.",
+          "Drainez tiny `3` poche à bas-droite premier, glissez cyan étapes hors de abaissez voie, alors laissez `7` et `15` salles shrink avant vous finally commit à énorme `20` chambre sur la gauche.",
+          "Le plateau mélange violet, bleu et vert et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si cyan étape pièce toujours covers abaissez milieu, stay loin de `20` chambre.",
+        "`3` poche est pas filler. Il est clé que opens abaissez acheminez pour `7` salle.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Drainez inférieur droit violet chambre marked `3` comme soon comme niveau starts."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez que nouveau floor espace à glissez cyan étape blocs loin de abaissez milieu et libérez vert retirez à côté de les."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez reducing inférieur gauche `7` chambre une fois la pièce cyan est non longer blocking son voie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez supérieur droit `15` chambre lose son easy droite-mur sorties pendant le côté gauche est opening."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Quittez supérieur gauche `20` chambre alone jusqu'à `7` salle est mostly gone et le centre rouge échelle a broken apart."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez par draining `20` chambre et sweeping hors restant violet, cyan, et pièces rouge à travers ouvrez centre."
+        }
+      ],
+      "failurePoints": [
+        "Leaning sur `20` chambre avant inférieur droit `3` poche est gone et cyan étapes ont moved.",
+        "Essayant à work `7` salle pendant cyan blocker est toujours stretched à travers abaissez milieu."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 74",
+    "description": "Résolvez le niveau 74 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

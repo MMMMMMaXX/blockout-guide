@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-47",
+  "locale": "ja",
+  "levelNumber": 47,
+  "title": "ブロックアウト レベル47 攻略",
+  "summary": "ブロックアウト レベル47は、左側が段になって下がり右側がまっすぐな壁という独特の階段型盤面です。番号カウンター『11』『13』『9』『22』が階段に埋め込まれています。頂上は誤導的です——",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "ブロックアウト レベル47は、左側が段になって下がり右側がまっすぐな壁という独特の階段型盤面です。番号カウンター『11』『13』『9』『22』が階段に埋め込まれています。頂上は誤導的です——盤面は右側のレーンと斜面の中央から開きます。まず左下の『9』を消去し、中央の層を剥がし、右下の『22』は最後に取っておきます。",
+        "landmarks": [
+          "ブロックアウト レベル 47 階段- 左 側 手順、右側 まっすぐ 壁.。",
+          "カウンター `11`、`13`、`9`、`22` 階段.。",
+          "— 右-側面レーン、中央の .。",
+          "を消去して`9` 下-左、を剥がして中央の 層、取っておく `22` 下-右 .。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "— レベル 47 右-側面レーン、中央の .。",
+        "`22` 下-右 ピース.、中央の 層 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して`9` カウンター 下-左 作る 開始.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を開きて右に、レーン、を下げて.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "階段を剥がして中央の — `11`、`13` — .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を維持して上の 階段 配置し、下の 区画 消去する.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を回転させて下の 開き .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を減らして`22` カウンター 下-右、中央の .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて上の 階段、側 .。"
+        }
+      ],
+      "failurePoints": [
+        "開始 上 階段、下の レーン、を無駄にして通す.。",
+        "減らす `22` カウンター、中央の 層 (`11`、`13`)、ピース 手順.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル47 攻略と解説",
+    "description": "ブロックアウト レベル47 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

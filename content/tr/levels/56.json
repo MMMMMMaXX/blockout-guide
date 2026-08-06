@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-56",
+  "locale": "tr",
+  "levelNumber": 56,
+  "title": "Block Out Seviye 56 Rehberi",
+  "summary": "Block Out Seviye 56 barındırır tight ızgara ile mor '3' blok üstde, kırmızı ve mavi bloklar doldurarak üst sıralar, ve sarı/yeşil bloklar ortada. chokepoint mor '3' — o bloklar üst bölüm. temizle alt...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/56/",
+        "layout": "Block Out Seviye 56 barındırır tight ızgara ile mor '3' blok üstde, kırmızı ve mavi bloklar doldurarak üst sıralar, ve sarı/yeşil bloklar ortada. chokepoint mor '3' — o bloklar üst bölüm. temizle alt ilk, sonra çalış orta sarı ve yeşil bloklar dışarı, ve bitir ile numaralı bloklar üstde.",
+        "landmarks": [
+          "Block Out Seviye 56 barındırır tight ızgara ile mor '3' blok üstde, kırmızı ve mavi bloklar doldurarak üst sıralar, ve sarı/yeşil bloklar ortada.",
+          "Chokepoint mor '3' — o bloklar üst bölüm.",
+          "Temizle alt ilk, sonra çalış orta sarı ve yeşil bloklar dışarı, ve bitir ile numaralı bloklar üstde."
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sqRrXyRKFBA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sqRrXyRKFBA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mor '3' blok üst multide-pass parça — temizle bloklar altında o ilk böylece o alan kaydır.",
+        "Temizle alt sıralar ilk oluştur kaydırarak alan için üst numaralı bloklar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle kırmızı ve pembe bloklar altda sağ çıkışa açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır yeşil bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir sarı bloklar merkezde sol çıkışdan şimdi ki yol temizle."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla temizleyerek mavi bloklar ortada sağ çıkışdan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tackle mor '3' blok üstde — o gerektirir üç çıkışlar fullya temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle kalan kırmızı ve mavi bloklar sağda sağ çıkışdan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile any kalan bloklar tuzağa düştü köşelerde."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek temizle mor '3' blok önce bloklar altında o — o gerektirir alan kaydır ve çıkış multiple times.",
+        "Temizleyerek üst önce alt, hangi bırakır daha düşük bloklar tuzağa düştü ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/56/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 56 Rehberi ve Çözümü",
+    "description": "Block Out seviye 56'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-141",
+  "locale": "tr",
+  "levelNumber": 141,
+  "title": "Block Out Seviye 141 Rehberi",
+  "summary": "Block Out Seviye 141 bir T-şekilli keyhole tahta nere chained kırmızı geç bloklar merkez ve numaralı cepler surround yeşil plus geç ki meli inşa edildi ve sonra temizlendidır. Zincir breaks ile harcayarak `9` ve `8` yan sayaçlar,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/141/",
+        "layout": "Block Out Seviye 141 bir T-şekilli keyhole tahta nere chained kırmızı geç bloklar merkez ve numaralı cepler surround yeşil plus geç ki meli inşa edildi ve sonra temizlendidır. Zincir breaks ile harcayarak `9` ve `8` yan sayaçlar, ama alt asma kilit kalır kapalı kadar yeşil geç çıkışlar yandan ok şeritler. temizle geç önce her ikisi de sayaçlar bitir ve asma kilit seals permanently.",
+        "landmarks": [
+          "Block Out Seviye 141 bir T-şekilli keyhole tahta nere chained kırmızı geç bloklar merkez ve numaralı cepler surround yeşil plus geç ki meli inşa edildi ve sonra temizlendidır.",
+          "Zincir breaks ile harcayarak `9` ve `8` yan sayaçlar, ama alt asma kilit kalır kapalı kadar yeşil geç çıkışlar yandan ok şeritler.",
+          "Temizle geç önce her ikisi de sayaçlar bitir ve asma kilit seals permanently."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "cFfUvNFciK4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=cFfUvNFciK4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır chained kırmızı geç önce oluşturarak yeşil plus geç — reversing ki sıra seals sağ 8 şerit.",
+        "Harca sol 9 cep önce temizleyerek sağ 8 arm.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst mavi sıra ve kır chained kırmızı geç üst geçde bölüm olmadan dokunarak daha düşük 2/2/2 sıra."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Yönlendir ilk üst artıklar mor soldan-ok şerit açığa çıkar sol 9 cep."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Harca sol 9 sayaç ile kaydırarak bloklar sol armdan, sonra temizle sağ 8 cep yeşil sağdan-ok şerit."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Oluştur yeşil plus geç merkez bantda ve eşleştir çevreleyerek kırmızı ve sarı bloklar o."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle 2/2/2 sıra daha düşük tabandan sonra yan sayaçlar hit zero."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kalan mavi ve kırmızı artıklar aşağı alt asma kilit kapı."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle son yeşil geç artıklar için dışarı! tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak sarı yan bloklar önce chained kırmızı geç breaks, mühürleyerek yeşil sağ-ok şerit.",
+        "Temizleyerek 2/2/2 sıra önce 9 ve 8 yan sayaçlar spent."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/141/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 141 Rehberi ve Çözümü",
+    "description": "Block Out seviye 141'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

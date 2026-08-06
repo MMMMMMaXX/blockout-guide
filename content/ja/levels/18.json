@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-18",
+  "locale": "ja",
+  "levelNumber": 18,
+  "title": "ブロックアウト レベル18 攻略",
+  "summary": "ブロックアウト レベル18は、シアンの「14/11」のペアを中心とした二重枠パズルです。まず側面の梯子とカウンターを剥がし、レールが細くなるまで中央のブロックをまとめたままにし、緑の上部ルートから仕上げます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "ブロックアウト レベル18は、シアンの「14/11」のペアを中心とした二重枠パズルです。まず側面の梯子とカウンターを剥がし、レールが細くなるまで中央のブロックをまとめたままにし、緑の上部ルートから仕上げます。",
+        "landmarks": [
+          "ブロックアウト レベル 18 -枠 周りを シアン `14/11` ペア.。",
+          "を剥がして側 はしご、カウンター、を維持して中央、レール、終える 緑 上 通す.。",
+          "混ぜる シアン、ピンク、青、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "レールを開きて、分割する 中央 ペア.。",
+        "緑 上 終える 通す、通す.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を取り除きて右に、白と黒のはしご、側 カウンター .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "シアンのを残して`14` キャップ、シアン `11` 中央部分 配置し 枠 周りを .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "左 側、はしご 開き .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "シアンのを分離して`14` キャップ `11` ブロック、側 レール .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて解放し 上部レーン 剥がす 青、ピンク .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "手順 `11` ブロック、レール .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて緑 上 通す、側 .。"
+        }
+      ],
+      "failurePoints": ["分割する `14/11` ペア、レール 開く.。", "上 ピンク、.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル18 攻略と解説",
+    "description": "ブロックアウト レベル18 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

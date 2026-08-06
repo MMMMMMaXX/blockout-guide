@@ -1,0 +1,98 @@
+{
+  "id": "de-level-7",
+  "locale": "de",
+  "levelNumber": 7,
+  "title": "Block Out Level 7 Lösung",
+  "summary": "Block Out Level 7 ist hoch ladder built around one früh rot Seite Ausgang. Senden obere rechte rot Block weg erste, drehen weiß ladders durch freigegeben pocket, und let schwarz mass collapse nur nach beide rechts-Seite reds sind gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "Block Out Level 7 ist hoch ladder built around one früh rot Seite Ausgang. Senden obere rechte rot Block weg erste, drehen weiß ladders durch freigegeben pocket, und let schwarz mass collapse nur nach beide rechts-Seite reds sind gone.",
+        "landmarks": [
+          "Block Out Level 7 ist hoch ladder built around one früh rot Seite Ausgang.",
+          "Senden obere rechte rot Block weg erste, drehen weiß ladders durch freigegeben pocket, und let schwarz mass collapse nur nach beide rechts-Seite reds sind gone.",
+          "Das Spielfeld mixes Rot, Weiß, Schwarz und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Verwenden obere rechte rot Ausgang erste.",
+        "Untere rechte rot Block follows gleich Wand nach weiß ladders verschieben.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben obere rechte rot Block hinaus durch roter Ausgang auf rechte Wand."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Heben oben weiß pillar und verwenden freigegeben rechts pocket zu drehen untere rechte rot Block nach oben."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten shuffling mittlere weiß ladders also untere rechte rot Block kann also lassen durch gleich rot Seiten-Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Nach beide rechts-Seite reds sind gone, verwenden extra height zu ziehen schwarz roof runter und let Mitte weiß pillars trennen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen remaining weiß ladders toward unten Ausgang als unten Zähler shrinks."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Aufsparen obere linke rot Block für spät cleanup once Mitte hat flattened."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch draining letzte schwarz Spalte durch untere Bahn."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring obere rechte rot Seite Ausgang und Versuchen zu arbeiten von unten erste.",
+        "Forcing obere linke rot Block too früh bevor schwarz roof hat fallen gelassen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 7 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 7 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

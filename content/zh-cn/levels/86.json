@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-86",
+  "locale": "zh-cn",
+  "levelNumber": 86,
+  "title": "Block Out 第86关攻略",
+  "summary": "Block Out 第86关是一个 C 形棋盘上的快速紧凑拼图。一条宽阔的红色方块横贯顶部，左侧中心是一个带挂锁「3」的绿色方块，中间填满橙色和蓝色方块，右侧则是一条高大的紫色竖列。先清空三个方块解锁绿色挂锁……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out 第86关是一个 C 形棋盘上的快速紧凑拼图。一条宽阔的红色方块横贯顶部，左侧中心是一个带挂锁「3」的绿色方块，中间填满橙色和蓝色方块，右侧则是一条高大的紫色竖列。先清空三个方块（蓝、橙、红）解锁绿色挂锁，再将紫色竖列从底部出口送出。",
+        "landmarks": [
+          "Block Out 第86关是一个 C 形棋盘上的快速紧凑拼图。",
+          "一条宽阔的红色方块横贯顶部，左侧中心是一个带挂锁「3」的绿色方块，中间填满橙色和蓝色方块，右侧则是一条高大的紫色竖列。",
+          "先清空三个方块（蓝、橙、红）解锁绿色挂锁，再将紫色竖列从底部出口送出。"
+        ],
+        "colors": ["blue", "red", "orange", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先按蓝、橙、红的顺序清空这三个方块，在第三步前解锁绿色挂锁「3」。",
+        "右侧的紫色竖列需要底行为空——先清黄色方块再输送它。",
+        "这一关只有 39 秒——每一步都重要，开局前先规划好前三次清除。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将中心的小蓝色方块向上推，经顶部出口送出——这是通往绿色挂锁的第一步清除（视频 02:57 处）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将橙色钥匙方块向左滑，经左墙出口送出——第二次清除，移除钥匙门（02:55）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将顶部宽阔的红色方块向上推，经顶部出口送出——第三次清除，解锁绿色挂锁「3」（02:52）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将已解锁的绿色方块经左墙出口送出，因为它现在有空间向左滑动（02:49）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将底部的黄色方块经下箭头出口清空，为紫色竖列打开通道（02:46）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将右侧高大的紫色竖列向下经底部出口送出——它是最大的质量块，需要多次通过（02:43–02:34）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "最后处理底部剩余的小绿色方块（02:31–02:25）。"
+        }
+      ],
+      "failurePoints": [
+        "在清空另外三个方块之前就移动绿色挂锁「3」方块——它被锁住无法移动，在 39 秒计时上浪费一步。",
+        "在输送紫色竖列时仍在底部留下黄色方块——竖列无法通过，会在中途卡住。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第86关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第86关。"
+  },
+  "updatedAt": "2026-08-03"
+}

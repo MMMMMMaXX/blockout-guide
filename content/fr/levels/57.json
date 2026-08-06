@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-57",
+  "locale": "fr",
+  "levelNumber": 57,
+  "title": "Guide Block Out Niveau 57",
+  "summary": "Block Out Niveau 57 stacks deux violet boss chambres — '5' sur haut, '11' sur le bas — avec trois blanc '10' blocs à very base. chambres partagent mur, donc dégagement one affects autre. Commencez avec le bas '10' blocs, alors wo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "Block Out Niveau 57 stacks deux violet boss chambres — '5' sur haut, '11' sur le bas — avec trois blanc '10' blocs à very base. chambres partagent mur, donc dégagement one affects autre. Commencez avec le bas '10' blocs, alors work les deux chambres dans parallel, letting smaller '5' chambre dégagez faster pendant '11' chambre gradually opens.",
+        "landmarks": [
+          "Block Out Niveau 57 stacks deux violet boss chambres — '5' sur haut, '11' sur le bas — avec trois blanc '10' blocs à very base.",
+          "Chambres partagent mur, donc dégagement one affects autre.",
+          "Commencez avec le bas '10' blocs, alors work les deux chambres dans parallel, letting smaller '5' chambre dégagez faster pendant '11' chambre gradually opens."
+        ],
+        "colors": ["violet", "yellow", "blue", "green", "red", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Deux chambres partagent mur — pas fully drainez '5' avant '11' a a fait progress.",
+        "Commencez avec le bas '10' blocs. Ils sont independent cibles que ouvrez base.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez trois blanc '10' blocs à le bas par sliding les vers la sortie droite."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs jaune sur la gauche hors à travers la sortie gauche à ouvrez gap entre deux chambres."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez draining supérieur '5' chambre — il est smaller et dégage faster, opening espace au-dessus."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Work abaissez '11' chambre dans parallel, sliding son blocs hors à travers la sortie droite."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Comme '5' chambre empties, utilisez freed espace à aidez '11' chambre blocs glissez hors."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez restant vert et blocs bleu piégé entre emptied chambres."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec rouge et blocs violet à le haut et sides."
+        }
+      ],
+      "failurePoints": [
+        "Fully draining '5' chambre avant '11' a a fait progress — shared mur provides sliding support pour les deux, et losing il too tôt traps blocs.",
+        "Ignoring le bas '10' blocs et essayant à work chambres premier, qui leaves base packed et blocs peut't glissez bas."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 57",
+    "description": "Résolvez le niveau 57 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

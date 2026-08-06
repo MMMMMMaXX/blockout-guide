@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-58",
+  "locale": "tr",
+  "levelNumber": 58,
+  "title": "Block Out Seviye 58 Rehberi",
+  "summary": "Block Out Seviye 58 bir Funnel tahta ile üç geniş camgöbeği bays, daha küçük boğaz marked `4`, ve cluttered üst deck balancing mor `6` oda çerçeveliye mavi blok sağdadır. Açık sağ shoulder ilk, trim sol...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "Block Out Seviye 58 bir Funnel tahta ile üç geniş camgöbeği bays, daha küçük boğaz marked `4`, ve cluttered üst deck balancing mor `6` oda çerçeveliye mavi blok sağdadır. Açık sağ shoulder ilk, trim sol `6` oda saniye, ve sadece sonra bırak kırmızı ve yeşil merkez strips düşür camgöbeği funnela.",
+        "landmarks": [
+          "Block Out Seviye 58 bir Funnel tahta ile üç geniş camgöbeği bays, daha küçük boğaz marked `4`, ve cluttered üst deck balancing mor `6` oda çerçeveliye mavi blok sağdadır.",
+          "Açık sağ shoulder ilk, trim sol `6` oda saniye, ve sadece sonra bırak kırmızı ve yeşil merkez strips düşür camgöbeği funnela.",
+          "Tahta mor, mavi, turuncu ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Eğer çerçeveli mavi blok hâlâ sarkarak sağ shouldera, funnel değil hazır.",
+        "Açık her ikisi de shoulders önce sen bırak kırmızı merkez sök düşür camgöbeği baysa.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle çerçeveli mavi blok üst-sağ köşe böylece sağ shoulder starts açarak."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Shorten skinny camgöbeği `2` sayaçlar ki aynı yanda önce sen dokun orta çok zor."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla azaltarak mor `6` oda sol sonrada sağ shoulder lighter."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak kırmızı merkez sök ve yakındaki yeşil parçalar düş üçe geniş camgöbeği bays sadece sonra her ikisi de shoulders açık."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Çökert daha düşük `4` boğaz sonra üst deck stopped besleyerek ekstra engelleyiciler o."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son kırmızı dikey parça ve surviving shoulder bloklar sonra funnel çoğunlukla boş."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek doldur camgöbeği bays sırasında çerçeveli mavi blok hâlâ hangs sağ shouldera.",
+        "Dropping kırmızı merkez sök önce sol `6` oda ve sağ `2` sayaçlar her ikisi de shortened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 58 Rehberi ve Çözümü",
+    "description": "Block Out seviye 58'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

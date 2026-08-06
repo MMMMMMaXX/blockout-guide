@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-36",
+  "locale": "ko",
+  "levelNumber": 36,
+  "title": "블록 아웃 레벨 36 공략",
+  "summary": "블록 아웃 레벨 36은 보스 프레임이나 장치 카운터 없이 맞물린 빨간색, 녹색, 파란색, 노란색 테트로미노 형태 블록으로 이루어진 빽빽한 모자이크입니다. 보드가 너무 꽉 차 있어 첫 틈은 위에서 나와야 하고, 해법은 아래로 작업됩니다. 먼저 위쪽 가까운 녹색 블록을 치우고, 가운데 노란색 덩어리를 이동시킨 뒤, 빨간색과 파란색 블록을 아래쪽 출구로 빼세요. 가운데에서 한 번 잘못 밀면 여러 조각이 끼입니다.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "블록 아웃 레벨 36은 보스 프레임이나 장치 카운터 없이 맞물린 빨간색, 녹색, 파란색, 노란색 테트로미노 형태 블록으로 이루어진 빽빡한 모자이크입니다. 보드가 너무 꽉 차 있어 첫 틈은 위에서 나와야 하고, 해법은 아래로 작업됩니다. 먼저 위쪽 가까운 녹색 블록을 치우고, 가운데 노란색 덩어리를 이동시킨 뒤, 빨간색과 파란색 블록을 아래쪽 출구로 빼세요. 가운데에서 한 번 잘못 밀면 여러 조각이 끼입니다.",
+        "landmarks": [
+          "블록 아웃 레벨 36은 보스 프레임이나 장치 카운터 없이 맞물린 빨간색, 녹색, 파란색, 노란색 테트로미노 형태 블록으로 이루어진 빽빡한 모자이크입니다.",
+          "보드가 너무 꽉 차 있어 첫 틈은 위에서 나와야 하고, 해법은 아래로 작업됩니다. 먼저 위쪽 가까운 녹색 블록을 치우고, 가운데 노란색 덩어리를 이동시킨 뒤, 빨간색과 파란색 블록을 아래쪽 출구로 빼세요.",
+          "가운데에서 한 번 잘못 밀면 여러 조각이 끼입니다."
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "빈 공간을 지켜보세요. 위에서 만든 틈이 아직 가운데까지 내려오지 않았다면 아래쪽 블록은 여전히 잠겨 있습니다.",
+        "가운데 왼쪽의 큰 노란색 L자 블록이 핵심 잠금 해제입니다 — 그것이 움직이면 대부분의 블록이 따라올 수 있습니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "꽉 찬 보드에 첫 틈을 만들려면 맨 위 출구로 첫 작은 블록을 밀어내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "개구부를 넓히려면 오른쪽 위 가까운 녹색 블록을 위쪽 출구 쪽으로 밀어내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "새 공간을 이용해 가운데 왼쪽의 큰 노란색 L자 블록을 움직이세요 — 이것이 핵심 잠금 해제입니다."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "노란색 덩어리가 이동하면 그 아래 빨간색 블록이 아래쪽 출구 쪽으로 미끄러지기 시작할 수 있습니다."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "가운데가 덜 붐비게 되면 오른쪽 측면이나 아래쪽을 통해 파란색 블록을 꺼내세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "마지막 빨간색과 녹색 조각을 위해 아래쪽 출구 차선을 비워두세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "모자이크가 위에서 아래로 풀린 뒤 남은 마지막 블록으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "가운데 노란색과 빨간색 블록이 충분히 이동하기 전에 파란색 블록을 아래쪽으로 억지로 빼려는 것 — 01:12 부근에서 데드락이 발생합니다.",
+        "위쪽 틈이 가운데를 거쳐 아래로 전파되기 전에 아래쪽 출구를 작업하는 것, 그러면 보드 전체가 잠깁니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 36 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 36을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

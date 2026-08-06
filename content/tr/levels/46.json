@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-46",
+  "locale": "tr",
+  "levelNumber": 46,
+  "title": "Block Out Seviye 46 Rehberi",
+  "summary": "Block Out Seviye 46 üç ana blok odalar üst yarıdan — iki daha küçük ones `3` her ve larger bir `10` — tüm oturarak üstünde sıkıştırılmış daha düşük oda kırmızı, mavi, yeşil, sarı, ve turuncu bloklar. boşalt daha düşük bloklar fi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out Seviye 46 üç ana blok odalar üst yarıdan — iki daha küçük ones `3` her ve larger bir `10` — tüm oturarak üstünde sıkıştırılmış daha düşük oda kırmızı, mavi, yeşil, sarı, ve turuncu bloklar. boşalt daha düşük bloklar ilk bıraka iki `3` odalar çökert quickly, sonra kullan serbest bırakıldı üst alan için daha uzun `10` reduction.",
+        "landmarks": [
+          "Block Out Seviye 46 üç ana blok odalar üst yarıdan — iki daha küçük ones `3` her ve larger bir `10` — tüm oturarak üstünde sıkıştırılmış daha düşük oda kırmızı, mavi, yeşil, sarı, ve turuncu bloklar.",
+          "Boşalt daha düşük bloklar ilk bıraka iki `3` odalar çökert quickly, sonra kullan serbest bırakıldı üst alan için daha uzun `10` reduction.",
+          "Tahta kırmızı, mavi, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Iki `3` odalar hızlı wins — eğer onlar hâlâ yukarı ne zaman sen başla `10`, sen çalışarak yanlış parça tahta.",
+        "Boşalt daha düşük renkli bloklar önce any ana blok oda.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Ince daha düşük renkli bloklar alt çıkışlara başla azaltarak tüm üç ana blok sayaçlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Bırak iki `3`-count odalar çökert daha düşük alan açılır."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut `10` oda park edildi kadar `3`s her ikisi de gitti."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan serbest bırakıldı üst alan acceleratea `10` reduction."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sort kalan renkli bloklar yandan çıkışlar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle geç kırmızı, mavi, ve sarı parçalar daha düşük odadan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son oda parçalar ve yan temizlik."
+        }
+      ],
+      "failurePoints": [
+        "Bölerek effort arasında tüm üç odalar başladan — `10` gerektirir far daha fazla alan `3`s, böylece hızlı wins meli git ilk.",
+        "Değil boşaltarak daha düşük renkli bloklar önce attacking ana blok odalar, hangi bırakır hayır alan için ana bloklar çökert ."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 46 Rehberi ve Çözümü",
+    "description": "Block Out seviye 46'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

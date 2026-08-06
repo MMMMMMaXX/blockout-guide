@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-1",
+  "locale": "ja",
+  "levelNumber": 1,
+  "title": "ブロックアウト レベル1 攻略",
+  "summary": "ブロックアウト レベル1は、3マスの回転パズルです。黒を左に動かし、白を右上の角に持ち上げ、赤を脇へ退け、その後は白・黒・赤の順に盤面から出します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "ブロックアウト レベル1は、3マスの回転パズルです。黒を左に動かし、白を右上の角に持ち上げ、赤を脇へ退け、その後は白・黒・赤の順に盤面から出します。",
+        "landmarks": [
+          "ブロックアウト レベル 1 3マスの .。",
+          "手順 黒 左、白のを持ち上げて右上の角に、赤のをスライドさせて脇、白のを出して、黒、赤 残す .。",
+          "混ぜる 赤、白、黒、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を使いて右上の角 白の駐車スペース.。",
+        "送る 赤 上へ、白 左.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "黒四角をスライドさせて左、配置し 赤の上段の出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "白四角を持ち上げて右上の角.に。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤四角を押して右 中央の-右 レーン.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黒四角を落として左 側を下って、下の レーン.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "手順 白 四角 渡り 上、を通して左の壁にある白の出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "黒四角をスライドさせて右 黒の下段の出口.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて動かし 赤 四角 左 赤の出口、上.。"
+        }
+      ],
+      "failurePoints": ["上げる 赤 四角、白 四角 上段.。", "黒のを残して右上の角、開く 左の列.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル1 攻略と解説",
+    "description": "ブロックアウト レベル1 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-8",
+  "locale": "fr",
+  "levelNumber": 8,
+  "title": "Guide Block Out Niveau 8",
+  "summary": "Block Out Niveau 8 hides énorme dalle rouge dans inférieur droit well. Work vert, blanc, et noir mini-blocs à travers le haut et droite compteurs premier, alors utilisez opened corridor à finally déplacez la dalle rouge.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "Block Out Niveau 8 hides énorme dalle rouge dans inférieur droit well. Work vert, blanc, et noir mini-blocs à travers le haut et droite compteurs premier, alors utilisez opened corridor à finally déplacez la dalle rouge.",
+        "landmarks": [
+          "Block Out Niveau 8 hides énorme dalle rouge dans inférieur droit well.",
+          "Work vert, blanc, et noir mini-blocs à travers le haut et droite compteurs premier, alors utilisez opened corridor à finally déplacez la dalle rouge.",
+          "Le plateau mélange rouge, vert et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Supérieur corridor matters more que géant dalle rouge à commencez.",
+        "Gardez la droite-côté meter falling pendant le haut capuchon est aussi shrinking.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Poussez le haut-droite blanc et noir paire dans la droite-côté quota voie à commencez shrinking `9` meter."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Tournez supérieur vert mini-blocs à travers le haut corridor donc `17` capuchon et la droite meter gardez dropping together."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez étroit centre tige à pass suivant bloc blanc vers le bas et gardez supérieur droit colonne de refilling."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Continue trimming noir-et-vert amas jusqu'à la droite colonne est almost videz et côté meter est presque exhausted."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois supérieur corridor opens, décalez restant petit pièces de côté donc la dalle rouge a nettoiez vertical voie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Glissez large rouge rectangle vers le haut et à travers vers la sortie rouge sur le mur gauche."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par feeding dernier vert mini-bloc à travers le haut vert terminez après quotas ont fully cleared."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez oversized dalle rouge avant supérieur corridor est mostly videz.",
+        "Ignoring la droite quota voie et seulement working le haut capuchon."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 8",
+    "description": "Résolvez le niveau 8 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-35",
+  "locale": "ja",
+  "levelNumber": 35,
+  "title": "ブロックアウト レベル35 攻略",
+  "summary": "ブロックアウト レベル35は、ほとんど空の部屋の装置ゲートパズルです。左の紫の『8』装置と右の緑の『7』装置が出口の往来を追跡し、赤の右出口と青の下部出口を通してピースを通す順番が次に何のブロックが出るかを決めます。部屋は",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "ブロックアウト レベル35は、ほとんど空の部屋の装置ゲートパズルです。左の紫の『8』装置と右の緑の『7』装置が出口の往来を追跡し、赤の右出口と青の下部出口を通してピースを通す順番が次に何のブロックが出るかを決めます。部屋は最初はまばらですが、出口を間違った順序で使うとすぐに満たされます——次の出現のために常に1つのレーンを開けておきましょう。",
+        "landmarks": [
+          "ブロックアウト レベル 35 装置-出口 .。",
+          "紫 `8` 装置 左、緑 `7` 装置 右 出口 交通、通す 赤 右 出口、青 下部の出口 .。",
+          "上 出口 使い 間違った 順序 — 維持する レーン 開く .。"
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "出口 ブロック — 維持する レーン 解放する.。",
+        "緑 `7` 装置 右、紫 `8` 左.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて赤のＬ字型ブロック の方へ 右の壁 出口 緑 `7` 装置 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "手順 黄 棒 の方へ 下 青 出口、赤 ブロック 消去し.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を使いて中央 ブロック 維持する 追う-上 出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "紫 `8` 装置 左 ピース 出口.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "間 右、下 出口 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を維持してレーン 解放する — ロックする-上 00:52 動画.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えてピース、装置 カウンター、.。"
+        }
+      ],
+      "failurePoints": [
+        "下 青 出口、右 赤の出口、間違った 追う-上 ピース、装置 順序.。",
+        "満たす 開く レーン —、回復 手順.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル35 攻略と解説",
+    "description": "ブロックアウト レベル35 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

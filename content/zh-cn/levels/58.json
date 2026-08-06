@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-58",
+  "locale": "zh-cn",
+  "levelNumber": 58,
+  "title": "Block Out 第58关攻略",
+  "summary": "Block Out 第58关是一个漏斗形棋盘，有三个宽阔的青色凹槽、一个标有`4`的较窄喉部，以及拥挤的上层甲板，左侧是紫色`6`方块室，右侧则是一个带框的蓝色方块。先打开右侧肩部，再削减左侧……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "Block Out 第58关是一个漏斗形棋盘，有三个宽阔的青色凹槽、一个标有`4`的较窄喉部，以及拥挤的上层甲板，左侧是紫色`6`方块室，右侧则是一个带框的蓝色方块。先打开右侧肩部，第二步削减左侧`6`方块室，之后才让红色和绿色的中心条落入青色漏斗。",
+        "landmarks": [
+          "Block Out 第58关是一个漏斗形棋盘，有三个宽阔的青色凹槽、一个标有`4`的较窄喉部，以及拥挤的上层甲板，左侧是紫色`6`方块室，右侧则是一个带框的蓝色方块。",
+          "先打开右侧肩部，第二步削减左侧`6`方块室，之后才让红色和绿色的中心条落入青色漏斗。",
+          "棋盘混合了紫色、蓝色、橙色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "如果带框的蓝色方块仍悬在右肩上，说明漏斗还没准备好。",
+        "在让红色中心条落入青色凹槽之前，先打开两侧肩部。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "清除右上角的带框蓝色方块，让右肩开始打开。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在用力触碰中间之前，先缩短同侧的细长青色`2`计数块。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "一旦右肩变轻，开始削减左侧的紫色`6`方块室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "两侧肩部都打开后，才让红色中心条和附近的绿色方块落入三个宽阔的青色凹槽。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "等顶层甲板不再向喉部输送额外的阻挡块后，收掉下层的`4`喉部。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "漏斗基本清空后，用最后的红色竖条和存活的肩部方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在带框的蓝色方块仍悬在右肩时，就试图填满青色凹槽。",
+        "在左侧`6`方块室和右侧`2`计数块都缩短之前，就放下红色中心条。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第58关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第58关。"
+  },
+  "updatedAt": "2026-08-03"
+}

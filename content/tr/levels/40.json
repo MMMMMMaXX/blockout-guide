@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-40",
+  "locale": "tr",
+  "levelNumber": 40,
+  "title": "Block Out Seviye 40 Rehberi",
+  "summary": "Block Out Seviye 40 ana blok çerçeve zaten sayaçda `0` — o değil gerektir reduction, sadece physical raf bloklar underneath kaldırıldı. densely sıkıştırılmış mavi, kırmızı, yeşil, ve sarı bloklar altında çerçeve oluştur ki raf, ve th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out Seviye 40 ana blok çerçeve zaten sayaçda `0` — o değil gerektir reduction, sadece physical raf bloklar underneath kaldırıldı. densely sıkıştırılmış mavi, kırmızı, yeşil, ve sarı bloklar altında çerçeve oluştur ki raf, ve çöz kaydırarak sağ bloklar kır destek. sonra raf gider, çerçeve temizlenir instantly ve kalan bloklar çöz yandan çıkışlar.",
+        "landmarks": [
+          "Block Out Seviye 40 ana blok çerçeve zaten sayaçda `0` — o değil gerektir reduction, sadece physical raf bloklar underneath kaldırıldı.",
+          "Densely sıkıştırılmış mavi, kırmızı, yeşil, ve sarı bloklar altında çerçeve oluştur ki raf, ve çöz kaydırarak sağ bloklar kır destek.",
+          "Sonra raf gider, çerçeve temizlenir instantly ve kalan bloklar çöz yandan çıkışlar."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Ana blok reads `0` — değil israf et hamleler deneyerek azalt o. sadece kaldır raf underneath.",
+        "Izle için bloklar kaydırarak yukarı rebuilde raf ne zaman sen temizle daha düşük sıra yanlış sırada.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle küçük `2`-sayaç bloklar sol kenarda oluştur ilk açarak."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır mavi bloklar uzakta doğrudandan ana blok çerçeve başla weakening raf."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır kırmızı bloklar merkezde kır son destek nokta `0`-sayaç çerçeve."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Izle ana blok çerçeve temizle instantly sonra raf gitti (visible 01:24)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan newly açıldı üst alan sorta kalan renkli bloklar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kırmızı ve yeşil bloklar yandan çıkışlar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile sarı ve mavi temizlik sonra alan flattened."
+        }
+      ],
+      "failurePoints": [
+        "Treating ana blok like standard sayaç bulmaca — `0` demektir o gerektirir hayır reduction, sadece raf kır.",
+        "Kaydırarak yanlış daha düşük blok ilk, hangi causes kalan parçalar kaydır yukarı ve rebuild raf ana blok çerçeve."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 40 Rehberi ve Çözümü",
+    "description": "Block Out seviye 40'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

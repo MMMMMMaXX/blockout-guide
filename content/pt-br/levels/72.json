@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-72",
+  "locale": "pt-br",
+  "levelNumber": 72,
+  "title": "Guia do nível 72 do Block Out",
+  "summary": "Block Out Nível 72 empacota 5×7 grade com numerado blocos '6' e '11' em lados, livre-deslizando sorriso blocos em meio, e direcional seta blocos em bordas. numerado blocos deve saída através seus saídas enquanto sorriso b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out Nível 72 empacota 5×7 grade com numerado blocos '6' e '11' em lados, livre-deslizando sorriso blocos em meio, e direcional seta blocos em bordas. numerado blocos deve saída através seus saídas enquanto sorriso blocos são livre para mova. Limpar inferior primeiro, então funciona sorriso blocos, e termine com numerado blocos.",
+        "landmarks": [
+          "Block Out Nível 72 empacota 5×7 grade com numerado blocos '6' e '11' em lados, livre-deslizando sorriso blocos em meio, e direcional seta blocos em bordas.",
+          "Numerado blocos deve saída através seus saídas enquanto sorriso blocos são livre para mova.",
+          "Limpar inferior primeiro, então funciona sorriso blocos, e termine com numerado blocos."
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sorriso blocos em meio são livre-deslizando — use este freedom para limpar caminhos para numerado blocos.",
+        "Limpar mais leve '6' bloco primeiro, então heavier '11' blocos.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar verde sorriso blocos em inferior através inferior saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque amarelo blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece deslizando laranja e amarelo sorriso blocos em meio freely — eles pode mova em qualquer direção."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar azul blocos em direita através direita saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Tackle numerado blocos com contadores '6' e '11' — limpar mais leve '6' primeiro."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com heavier '11' blocos, que tem mais espaço depois outros são limpo."
+        }
+      ],
+      "failurePoints": [
+        "Limpando numerado '11' blocos antes que sorriso blocos — '11' blocos precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando superior antes que inferior, que deixa inferior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 72 do Block Out",
+    "description": "Resolva o nível 72 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "es-level-3",
+  "locale": "es",
+  "levelNumber": 3,
+  "title": "Guía de Block Out Nivel 3",
+  "summary": "El nivel 3 de Block Out es un breve rompecabezas de reacción en cadena. Suelta primero el bloque rojo central, envía la esquina verde a la izquierda, saca el bloque azul inferior y luego termina con los bloques rojo y amarillo restantes por las salidas inferiores.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "El nivel 3 de Block Out es un breve rompecabezas de reacción en cadena. Suelta primero el bloque rojo central, envía la esquina verde a la izquierda, saca el bloque azul inferior y luego termina con los bloques rojo y amarillo restantes por las salidas inferiores.",
+        "landmarks": [
+          "El nivel 3 de Block Out es un breve rompecabezas de reacción en cadena.",
+          "Suelta primero el bloque rojo central, envía la esquina verde a la izquierda, saca el bloque azul inferior y luego termina con los bloques rojo y amarillo restantes por las salidas inferiores.",
+          "El tablero combina verde, amarillo, rojo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Usa la salida roja central como detonante.",
+        "El verde y el bloque azul inferior salen antes del amarillo final.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza el bloque rojo central directamente hacia abajo por la salida roja inferior."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Baja el bloque verde superior izquierdo y sácalo por la salida verde izquierda."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Suelta el bloque azul inferior en la salida azul inferior izquierda."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Baja el bloque amarillo central a la columna central que acaba de abrirse."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Envía el bloque rojo superior derecho hacia abajo por la salida roja cuando la columna central esté despejada."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina con el último bloque amarillo por la salida amarilla inferior derecha."
+        }
+      ],
+      "failurePoints": [
+        "Intentar forzar el bloque rojo superior derecho hacia abajo antes de que el rojo central haya salido.",
+        "Ignorar la salida lateral verde y tratar el tablero como un rompecabezas solo de abajo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 3",
+    "description": "Resuelve el nivel 3 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

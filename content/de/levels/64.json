@@ -1,0 +1,92 @@
+{
+  "id": "de-level-64",
+  "locale": "de",
+  "levelNumber": 64,
+  "title": "Block Out Level 64 Lösung",
+  "summary": "Block Out Level 64 ist quadrant-frame Puzzle. Orange frame borders divide das Spielfeld in four chambers — three filled mit massive lila numbered Blöcke (Zähler 4, 12, und 7), und one packed mit small colored Blöcke. Small Block...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/64/",
+        "layout": "Block Out Level 64 ist quadrant-frame Puzzle. Orange frame borders divide das Spielfeld in four chambers — three filled mit massive lila numbered Blöcke (Zähler 4, 12, und 7), und one packed mit small colored Blöcke. Small Blöcke in obere rechte quadrant sind nur Bauteile dass kann bewegen bei starten. Räumen sie erste zu öffnen obere half, dann hinausführen lila Blöcke durch ihr exits in ascending Zähler Reihenfolge.",
+        "landmarks": [
+          "Block Out Level 64 ist quadrant-frame Puzzle.",
+          "Orange frame borders divide das Spielfeld in four chambers — three filled mit massive lila numbered Blöcke (Zähler 4, 12, und 7), und one packed mit small colored Blöcke.",
+          "Small Blöcke in obere rechte quadrant sind nur Bauteile dass kann bewegen bei starten.",
+          "Räumen sie erste zu öffnen obere half, dann hinausführen lila Blöcke durch ihr exits in ascending Zähler Reihenfolge."
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gKBANgKGy-w",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gKBANgKGy-w",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Obere rechte quadrant ist dein nur lever bei starten — extract jede small Block dort erste.",
+        "Hinausführen lila Blöcke in ascending Zähler Reihenfolge: '4' erste, dann '7', dann '12'.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Extract small colored Blöcke von obere rechte quadrant durch oben und rechts exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen Zähler '2' Block bei oben von das Spielfeld."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen obere linke lila Block (Zähler '4') durch sein Ausgang once obere half öffnet."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden freigegeben obere Platz zu begin moving untere rechte lila Block (Zähler '7')."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Arbeiten massive untere linke lila Block (Zähler '12') letzte — es needs meisten Raum."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen irgendein remaining colored fragments nach lila Blöcke sind gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen lila Block bevor obere rechte quadrant ist geräumt — orange frames prevent es.",
+        "Leaving Zähler '12' Block bis letzte ohne creating enough Ausgangs-Bahn width erste."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/64/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 64 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 64 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

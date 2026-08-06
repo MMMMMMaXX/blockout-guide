@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-76",
+  "locale": "tr",
+  "levelNumber": 76,
+  "title": "Block Out Seviye 76 Rehberi",
+  "summary": "Block Out Seviye 76 barındırır 5×7 ızgara ile numaralı mavi bloklar — sayaçlar '10' ve '1' üstde, '1' ortada, '4' ve '1' altda. mavi '10' blok gerektirir 10 çıkışlar — temizle alt ilk, sonra çalış numaralı bloklar yukarı doğru...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/76/",
+        "layout": "Block Out Seviye 76 barındırır 5×7 ızgara ile numaralı mavi bloklar — sayaçlar '10' ve '1' üstde, '1' ortada, '4' ve '1' altda. mavi '10' blok gerektirir 10 çıkışlar — temizle alt ilk, sonra çalış numaralı bloklar yukarı doğru, ve bitir ile heavy '10' blok üstde.",
+        "landmarks": [
+          "Block Out Seviye 76 barındırır 5×7 ızgara ile numaralı mavi bloklar — sayaçlar '10' ve '1' üstde, '1' ortada, '4' ve '1' altda.",
+          "Mavi '10' blok gerektirir 10 çıkışlar — temizle alt ilk, sonra çalış numaralı bloklar yukarı doğru, ve bitir ile heavy '10' blok üstde.",
+          "Tahta mavi, kırmızı, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "t-dHXsPpANQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=t-dHXsPpANQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'10' blok marathon — temizle daha küçük numaralı bloklar ilk inşa et alan.",
+        "Temizle alt ilk ver numaralı bloklar kaydırarak alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle kırmızı ve yeşil bloklar altda sağ çıkışdan açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır mavi bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla temizleyerek numaralı mavi bloklar ortada onların kapılardan — sayaçlar decrease onlar çıkış."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle mavi '4' blok solda sol çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tackle mavi '10' blok üstde — o gerektirir 10 çıkışlar fullya temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan mavi '1' bloklar tuzağa düştü köşelerde."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek temizle '10' blok önce daha küçük numaralı bloklar — o gerektirir alan kaydır ve çıkış multiple times.",
+        "Temizleyerek üst önce alt, hangi bırakır daha düşük bloklar tuzağa düştü ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/76/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 76 Rehberi ve Çözümü",
+    "description": "Block Out seviye 76'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "es-level-79",
+  "locale": "es",
+  "levelNumber": 79,
+  "title": "Guía de Block Out Nivel 79",
+  "summary": "Block Out nivel 79 es a two-phase tablero. Primero tú drain a huge morado `17` depósito sitting bajo two cramped superior wells. Luego el tablero collapses en a inferior tray dónde a morado bridge-shaped pieza debe movimiento antes the azul y oran...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out nivel 79 es a two-phase tablero. Primero tú drain a huge morado `17` depósito sitting bajo two cramped superior wells. Luego el tablero collapses en a inferior tray dónde a morado bridge-shaped pieza debe movimiento antes the azul y naranja bloques en the derecho puede escape.",
+        "landmarks": [
+          "Block Out nivel 79 es a two-phase tablero.",
+          "Primero tú drain a huge morado `17` depósito sitting bajo two cramped superior wells.",
+          "Luego el tablero collapses en a inferior tray dónde a morado bridge-shaped pieza debe movimiento antes the azul y naranja bloques en the derecho puede escape."
+        ],
+        "colors": ["morado", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Trata the grande `17` depósito mientras the opener, no the `7` cámara.",
+        "Cuando the inferior tray appears, abierto el lado izquierdo antes tú try a libre the azul steps en the derecho.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Drena the giant inferior cámara marked `17` antes tú overwork either superior well."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Mientras ese depósito es falling, limpio the superior-izquierdo carril por moving the rojo L-shape y verde stair fuera de cada other's way."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Empieza reducing the superior-derecho `7` cámara solo después the izquierdo well es no longer clogging el lado contadores."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Cuando both morado cámaras son gone, switch focus a the inferior tray ese appears beneath los."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Abre el lado izquierdo de ese inferior tray primero, luego movimiento the morado bridge pieza así the azul stepped bloque en the derecho has a route."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the derecho-lado azul y naranja bloques después el carril centro es empty."
+        }
+      ],
+      "failurePoints": [
+        "Treating the superior-derecho `7` cámara mientras el objetivo primero instead de draining the `17` depósito underneath lo.",
+        "Trying a despejado the derecho-lado azul steps en the inferior tray antes the morado bridge pieza has moved."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 79",
+    "description": "Resuelve Block Out nivel 79 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

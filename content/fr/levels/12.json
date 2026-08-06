@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-12",
+  "locale": "fr",
+  "levelNumber": 12,
+  "title": "Guide Block Out Niveau 12",
+  "summary": "Block Out Niveau 12 est sandglass énigme avec deux chambres joined par étroit taille. Pass long barres à travers le centre gorge dans alterné ordre, gardez les deux moitiés équilibrées, et utilisez temporaire poches pour cyan `2` bricks.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "Block Out Niveau 12 est sandglass énigme avec deux chambres joined par étroit taille. Pass long barres à travers le centre gorge dans alterné ordre, gardez les deux moitiés équilibrées, et utilisez temporaire poches pour cyan `2` bricks.",
+        "landmarks": [
+          "Block Out Niveau 12 est sandglass énigme avec deux chambres joined par étroit taille.",
+          "Pass long barres à travers le centre gorge dans alterné ordre, gardez les deux moitiés équilibrées, et utilisez temporaire poches pour cyan `2` bricks.",
+          "Le plateau mélange bleu, rouge et cyan et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chaque strong déplacez either enters ou dégage taille.",
+        "Déplacez paired cyan `2` bricks seulement après long barre a traversé.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Laissez tomber one de le centre vertical barres à travers étroit gorge donc deux chambres arrêtez pinning chaque autre."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Swap le haut rouge et colonnes bleu à travers taille jusqu'à one côté compteur shrinks assez à donnez supplémentaire salle."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez paired cyan `2` bricks seulement après long barre a traversé, donc ils utilisez temporaire poche au lieu de de clogging il."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Gardez alterné haut-à-bas et bas-à-haut transfers à travers le centre jusqu'à outer colonnes jaune peut séparé proprement."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Utilisez nouvellement opened côté voies à remove les colonnes rouge de chaque chambre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez par draining dernier jaune et colonnes bleu après gorge est non longer occupied."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dégagez one chambre completely avant utilisant autre half.",
+        "Stationnement court bloc dans gorge quand plein colonne toujours needs à croisez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 12",
+    "description": "Résolvez le niveau 12 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

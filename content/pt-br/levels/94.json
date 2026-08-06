@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-94",
+  "locale": "pt-br",
+  "levelNumber": 94,
+  "title": "Guia do nível 94 do Block Out",
+  "summary": "Block Out Nível 94 é quatro-câmara cascade: `14` e `18` em superior, horizontal `6` barra através meio, e tucked-longe `3` bolso em inferior-direita. Abra inferior clutter primeiro, dinheiro `3` e `6` câmaras segundo, e único th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "Block Out Nível 94 é quatro-câmara cascade: `14` e `18` em superior, horizontal `6` barra através meio, e tucked-longe `3` bolso em inferior-direita. Abra inferior clutter primeiro, dinheiro `3` e `6` câmaras segundo, e único então settle em longo `14` e `18` alimenta.",
+        "landmarks": [
+          "Block Out Nível 94 é quatro-câmara cascade: `14` e `18` em superior, horizontal `6` barra através meio, e tucked-longe `3` bolso em inferior-direita.",
+          "Abra inferior clutter primeiro, dinheiro `3` e `6` câmaras segundo, e único então settle em longo `14` e `18` alimenta.",
+          "Tabuleiro mistura Roxo, Vermelho, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Inferior-direita `3` bolso é não optional limpeza. Ele é parte de opener.",
+        "Se `6` barra é ainda alive, `18` câmara é probably não ready yet.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar inferior-esquerda clutter primeiro, especially cadeado/chave peças e vermelho-verde empilha ao redor inferior câmaras."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Abra e escoe inferior-direita `3` câmara so direita quarter finalmente tem rotation espaço."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Reduza meio `6` câmara próximo, usando newly aberto inferior pistas para mantenha cruz-pista limpar."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece alimentando superior-esquerda `14` câmara uma vez inferior metade é no mais longo sharing seu pistas."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Salve superior-direita `18` câmara para longest tarde-game alimente, quando ciano T-forma e roxo elbow abaixo tem já movido de lado."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último ciano e roxo leftovers depois `18` câmara colapsa."
+        }
+      ],
+      "failurePoints": [
+        "Ignorando inferior-direita `3` bolso e pretending Nível 94 único tem três câmaras.",
+        "Inicial `18` câmara enquanto meio `6` barra é ainda competing para mesmo pista."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 94 do Block Out",
+    "description": "Resolva o nível 94 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

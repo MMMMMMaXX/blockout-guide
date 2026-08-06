@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-42",
+  "locale": "ja",
+  "levelNumber": 42,
+  "title": "ブロックアウト レベル42 攻略",
+  "summary": "ブロックアウト レベル42は、ボスも装置もない2列の仕分けパズルです。緑・赤・白・黒のブロックが、暗い中央の仕切りで分けられた2本の平行な縦の溝に積み重なっており、各色は下部の対応する出口に",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "ブロックアウト レベル42は、ボスも装置もない2列の仕分けパズルです。緑・赤・白・黒のブロックが、暗い中央の仕切りで分けられた2本の平行な縦の溝に積み重なっており、各色は下部の対応する出口に到達しなければなりません。解き方は上から下へ進みます——まず上部のブロックを剥がしてスペースを作り、白の中央ブロックをずらして列をまたぐ交換を可能にし、各色をその出口へ仕分けます。",
+        "landmarks": [
+          "ブロックアウト レベル 42 -列 ボス 装置.。",
+          "緑、赤、白、黒 経路 中央、届く 対応する出口 下.。",
+          "上 下: 剥がす 上の 作る、白のをずらして中央 横切る-列、色分け 出口.。"
+        ],
+        "colors": ["green", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を進めて上 下 — 下の 色分け、上の 消去し 列 .。",
+        "白 中央、手順.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を剥がして上 列 作る 隙間.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "列 維持する .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "白のをずらして中央 横切る-列 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "色分け 赤 の方へ 赤 下部の出口、緑 の方へ 緑 出口.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "上 下、消去 層 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を維持して中央 開く 横切る-列 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて、出口.。"
+        }
+      ],
+      "failurePoints": [
+        "使う 中央 白、— 横切る-列 必要とする、上 層 剥がし.。",
+        "下、上 消去し、詰まり 色分け.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル42 攻略と解説",
+    "description": "ブロックアウト レベル42 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

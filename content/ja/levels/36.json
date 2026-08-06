@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-36",
+  "locale": "ja",
+  "levelNumber": 36,
+  "title": "ブロックアウト レベル36 攻略",
+  "summary": "ブロックアウト レベル36は、ボス枠も装置カウンターもない、赤・緑・青・黄のテトロミノ型ブロックが組み合さった密なモザイクです。盤面が詰まりすぎているため最初の隙間は上から生まれ、解き方は",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "ブロックアウト レベル36は、ボス枠も装置カウンターもない、赤・緑・青・黄のテトロミノ型ブロックが組み合さった密なモザイクです。盤面が詰まりすぎているため最初の隙間は上から生まれ、解き方は下へ進みます——まず上部付近の緑のブロックを消去し、中央の黄の塊をずらし、それから赤と青のブロックを下部の出口から排出します。中央での1つの間違ったスライドが複数のピースを詰まらせる可能性があります。",
+        "landmarks": [
+          "ブロックアウト レベル 36 密集した 赤、緑、青、黄 - ボス 枠 装置 カウンター.。",
+          "詰まった 隙間 上、下へ: 消去する 緑 上、をずらして中央 黄 塊、排出する 赤、青 下 出口.。",
+          "間違った スライドさせる 中央 .。"
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        ". 隙間 作り 上 下 中央、下 .。",
+        "黄 Ｌ字型 ブロック 中央-左 鍵 解放する —、手順、追う.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせてブロックアウト 上 出口 作る 隙間 詰まった .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑のをずらして上の-右 の方へ 上 出口 開始.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を使いて手順 黄 Ｌ字型 ブロック 中央-左 — 鍵 解放する.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄 塊 ずらし、赤 始める スライドさせ の方へ 下 出口.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "青のを進めて右側 下、中央 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を維持して下部の出口 レーン 消去する 赤、緑 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えてブロック、上 下.。"
+        }
+      ],
+      "failurePoints": [
+        "無理に動かす 青 ブロックアウト 下、中央 黄、赤 ずらし — 周りを 01:12.。",
+        "下 出口、上 隙間 下 中央、.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル36 攻略と解説",
+    "description": "ブロックアウト レベル36 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

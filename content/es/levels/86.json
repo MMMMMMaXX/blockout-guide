@@ -1,0 +1,96 @@
+{
+  "id": "es-level-86",
+  "locale": "es",
+  "levelNumber": 86,
+  "title": "Guía de Block Out Nivel 86",
+  "summary": "Block Out nivel 86 es a fast, compact puzzle en a C-shaped tablero. A wide rojo bloque spans the superior, un bloque verde con padlock `3` sits en el centro-izquierdo, naranja y azul bloques fill the central, y a tall morado columna runs abajo the righ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "Block Out nivel 86 es a fast, compact puzzle en a C-shaped tablero. A wide rojo bloque spans the superior, un bloque verde con padlock `3` sits en el centro-izquierdo, naranja y azul bloques fill the central, y a tall morado columna runs abajo el lado derecho. Desbloquea the verde padlock por clearing three bloques primero (azul, naranja, rojo), luego feed la columna morada por the inferior salidas.",
+        "landmarks": [
+          "Block Out nivel 86 es a fast, compact puzzle en a C-shaped tablero.",
+          "A wide rojo bloque spans the superior, un bloque verde con padlock `3` sits en el centro-izquierdo, naranja y azul bloques fill the central, y a tall morado columna runs abajo el lado derecho.",
+          "Desbloquea the verde padlock por clearing three bloques primero (azul, naranja, rojo), luego feed la columna morada por the inferior salidas."
+        ],
+        "colors": ["blue", "red", "orange", "green", "morado", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Elimina the azul, naranja, y rojo bloques primero (en ese orden) a unlock the verde padlock `3` por movimiento three.",
+        "La columna morada en the derecho needs la fila inferior empty — despejado amarillo bloques antes feeding lo.",
+        "Este nivel es solo 39 seconds — cada movimiento counts, plan the primero three clears antes starting."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Empuja the pequeño azul bloque en el centro upward por el salida superior — este es the primero despejado hacia the verde padlock (02:57 en el vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desliza the naranja clave bloque izquierdo por the izquierdo-pared salida — second despejado, y lo removes la puerta clave (02:55)."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Empuja the wide rojo bloque en the superior upward por el salida superior — third despejado, unlocking the verde padlock `3` (02:52)."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the unlocked verde bloque por the izquierdo-pared salida porque lo ahora has room a slide izquierdo (02:49)."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Elimina the amarillo bloques en the inferior por the abajo-flecha salidas a abierto el carril para la columna morada (02:46)."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Introduce the tall morado columna en the derecho downward por the inferior salidas — lo es the largest mass y takes several pasadas (02:43–02:34)."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con the restante pequeño verde bloques en the inferior (02:31–02:25)."
+        }
+      ],
+      "failurePoints": [
+        "Trying a movimiento the verde padlock `3` bloque antes clearing three other bloques — lo es locked y will no budge, wasting un movimiento en a 39-second timer.",
+        "Leaving amarillo bloques en the inferior mientras feeding la columna morada — la columna cannot pasada por y stalls mid-feed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 86",
+    "description": "Resuelve Block Out nivel 86 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

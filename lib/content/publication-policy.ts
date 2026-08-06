@@ -16,11 +16,15 @@ export function isStructureTemplate(article: { id: string; status: string }): bo
   return article.id.startsWith("template-") && article.status === "draft";
 }
 
-/** 深度检查内容值，避免以自由文本或扩展字段绕过生成即发布规则。 */
+/**
+ * 深度检查内容值，避免以自由文本或扩展字段绕过生成即发布规则。
+ * 标记仅在整段字符串等于候选值（去空白、忽略大小写）时命中：西班牙语
+ * "en todo momento"（a todo = 全部）等合法文本不会被误判为 todo 待处理标记。
+ */
 function findDeferredMarker(value: unknown, trail = "root"): string | null {
   if (typeof value === "string") {
-    const normalized = value.toLowerCase();
-    const marker = deferredMarkers.find((candidate) => normalized.includes(candidate));
+    const normalized = value.trim().toLowerCase();
+    const marker = deferredMarkers.find((candidate) => normalized === candidate);
     return marker ? `${trail}=${marker}` : null;
   }
   if (Array.isArray(value)) {

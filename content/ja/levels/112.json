@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-112",
+  "locale": "ja",
+  "levelNumber": 112,
+  "title": "ブロックアウト レベル112 攻略",
+  "summary": "ブロックアウト レベル112は、2本の特大の紫バー—「7」と「10」—から始まり、盤面が縮むにつれて行と列のスライドでより小さいカウンターへと縮みます。解き方はゆっくりとした内破です：バーは段階的に崩れ、最後には…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "ブロックアウト レベル112は、2本の特大の紫バー—「7」と「10」—から始まり、盤面が縮むにつれて行と列のスライドでより小さいカウンターへと縮みます。解き方はゆっくりとした内破です：バーは段階的に崩れ、最後には中央の「3」ゾーンだけが残ります。大きなバーが分裂する前に周囲をスライドさせると、崩壊の一連の流れが詰まります。",
+        "landmarks": [
+          "ブロックアウト レベル 112 紫 — `7`、`10` — 縮める 行、列 カウンター .。",
+          ": 割る 下、中央 `3` ゾーン .。",
+          "を無理に動かして外周 スライドさせる、分割する、崩す 順序 詰まり.。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "トレイ タイル 下 — スライドさせ 緑 スマイル レーン.。",
+        "を使いて上 紫 矢印 分割する `7` 棒 `10` ブロック、中央.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "青のをスライドさせて左に、列 上へ 赤 左 矢印 解放する 上 `7` 棒.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を押して`7` 棒 右へ、`10` ブロック、上の .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "緑スマイルを回転させて棒 左へ 新しい隙間 トレイ タイル (`1`、`4`、`3`).。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を崩して`10` 棒 中央 ゾーン 上 紫 矢印、示し `3` 空きマス.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去して(赤 左、青 上、緑 右、黄 下) 周りを `3` ゾーン.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "オレンジのを通して`1`、黄 `4` トレイ タイル 下 矢印 終える 外周 .。"
+        }
+      ],
+      "failurePoints": [
+        "をスライドさせて下 トレイ タイル (`1`、`4`、`3`)、`7`、`10` 分割する.。",
+        "緑 スマイル 棒 下へ 中央 `3` 空きマス .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル112 攻略と解説",
+    "description": "ブロックアウト レベル112 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

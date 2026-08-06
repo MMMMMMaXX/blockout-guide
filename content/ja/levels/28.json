@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-28",
+  "locale": "ja",
+  "levelNumber": 28,
+  "title": "ブロックアウト レベル28 攻略",
+  "summary": "ブロックアウト レベル28は、上部に「6」ボス・下部に「2」ボスを持つ積み重ねた部屋のパズルです。まず下部の部屋を開き、次に「2」パネルを崩し、部屋がすでに動き出した後でのみ上部の「6」を落下させます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "ブロックアウト レベル28は、上部に「6」ボス・下部に「2」ボスを持つ積み重ねた部屋のパズルです。まず下部の部屋を開き、次に「2」パネルを崩し、部屋がすでに動き出した後でのみ上部の「6」を落下させます。",
+        "landmarks": [
+          "ブロックアウト レベル 28 部屋 上 `6` ボス、下の `2` ボス.。",
+          "を開きて下の、を崩して`2` パネル、出す 上の `6` 落ちる、部屋 .。",
+          "混ぜる 青、ピンク、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "下の `2`、上の `6`.。",
+        "下の 部屋 - .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を回転させて下の 部屋、を始めて青、ピンク 側 レーン.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を使いて縮め `2` ボス.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を維持して上の `6` パネル 配置し 下の 部屋 混雑した.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "`2` 枠、を出して上 `6` 始める 落ちる.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて赤、黄 止める 下の 部屋 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて側 出口、上の ボス .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "下、ボス .。"
+        }
+      ],
+      "failurePoints": ["下の `6` パネル、`2` ボス 開き.。", "を残して下の 部屋 混雑した、出口 .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル28 攻略と解説",
+    "description": "ブロックアウト レベル28 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

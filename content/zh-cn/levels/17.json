@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-17",
+  "locale": "zh-cn",
+  "levelNumber": 17,
+  "title": "Block Out 第 17 关通关攻略",
+  "summary": "Block Out 第 17 关是一张带框铰链式数字棋盘。先修整黄色顶盖，再解锁绿色中心框，之后才压平标着 `19`、`18` 和 `16` 的宽大青色板。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "Block Out 第 17 关是一张带框铰链式数字棋盘。先修整黄色顶盖，再解锁绿色中心框，之后才压平标着 `19`、`18` 和 `16` 的宽大青色板。",
+        "landmarks": [
+          "Block Out 第 17 关是一张带框铰链式数字棋盘。",
+          "先修整黄色顶盖，再解锁绿色中心框，之后才压平标着 `19`、`18` 和 `16` 的宽大青色板。",
+          "棋盘上混合了黄色、绿色、青色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "黄色顶盖能松动铰链。",
+        "大块青色板应在中心框之后移动，而不是之前。",
+        "用连锁消除的思路来思考。最佳走子是能为接下来两步铺路的，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "削掉顶部黄色行和右上角侧通道，使 `16` 计数器开始下降。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把带框的绿色中心锁住，直到上方计数器减轻足够分量。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "等顶部通道打开后，把红色和蓝色侧向长条旋转到中间。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用新空间释放带框的绿色方块，让它不再挤卡下方的青色板。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "从下往上压平 `19` 和 `18` 的青色板。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "等中心框消失后，清理最后的粉色和蓝色侧向方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "等宽大青色层完全分离后，收尾底部的楼层计数器。"
+        }
+      ],
+      "failurePoints": [
+        "在黄色顶盖变轻前就试图移动绿色铰链。",
+        "把下方的青色地毯当成开局谜题来处理。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 17 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 17 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "fr-level-92",
+  "locale": "fr",
+  "levelNumber": 92,
+  "title": "Guide Block Out Niveau 92",
+  "summary": "Block Out Niveau 92 packs blocs colorés (un L vert-shape, orange `7` compteur bloc, large carré rouge, bleu, jaune, et pièces violet avec verrou/clé icons) dans supérieur section pendant deux massive chambres fill abaissez plateau — coun...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/92/",
+        "layout": "Block Out Niveau 92 packs blocs colorés (un L vert-shape, orange `7` compteur bloc, large carré rouge, bleu, jaune, et pièces violet avec verrou/clé icons) dans supérieur section pendant deux massive chambres fill abaissez plateau — compteur `15` dans rouge cadre sur haut, compteur `10` dans orange cadre sous. Dégagez supérieur section à ouvrez voies, alimentez `15` chambre premier, sort se déversent, alors alimentez `10` chambre.",
+        "landmarks": [
+          "Block Out Niveau 92 packs blocs colorés (un L vert-shape, orange `7` compteur bloc, large carré rouge, bleu, jaune, et pièces violet avec verrou/clé icons) dans supérieur section pendant deux massive chambres fill abaissez plateau — compteur `15` dans rouge cadre sur haut, compteur `10` dans orange cadre sous.",
+          "Dégagez supérieur section à ouvrez voies, alimentez `15` chambre premier, sort se déversent, alors alimentez `10` chambre.",
+          "Le plateau mélange vert, orange et jaune et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "orange", "yellow", "red", "blue", "violet", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "C32pAC1HOlo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=C32pAC1HOlo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez supérieur section comme fast comme possible — deux chambre feeds besoin all restant time.",
+        "Remove petit cyan et blocs vert dans border retirez avant de départ `15` chambre alimentez.",
+        "Sort spilled blocs immediately après `15` chambre collapses, avant ils jam `10` chambre voie."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le L vert-shaped bloc dans le haut-gauche à travers la gauche-mur sortie à ouvrez premier voie (02:54 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Commencez feeding orange `7` bloc vers le haut à travers la sortie supérieure — seven passes (02:49–02:39)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez verrou/clé paires: remove clé blocs à déverrouillez les pièces bleu à côté de large carré rouge (02:44)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Poussez le bloc jaune droite à travers la droite-mur sortie, alors extract large carré rouge bloc de le centre (02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez petit cyan et blocs vert dans border retirez entre supérieur et abaissez zones avant ils drift dans alimentez voie (02:34)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Commencez feeding supérieur chambre (compteur `15`) à travers son sortie voie — gardez ce voie permanently dégagez pour fifteen passes (02:29–02:15)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Après `15` chambre collapses, immediately sort spilled rouge, bleu, vert, et blocs jaune avant ils bloc abaissez voie (02:10)."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Alimentez abaissez chambre (compteur `10`) à travers le bas sorties — ten passes à terminez (02:10–02:00)."
+        }
+      ],
+      "failurePoints": [
+        "De départ `15` chambre alimentez pendant border retirez toujours a petit cyan et blocs vert — ils drift dans alimentez voie et stall compteur mid-pass.",
+        "Ignoring spilled blocs après `15` chambre collapses — ils jam `10` chambre's sortie voie et forcez multiple recovery coups."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/92/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 92",
+    "description": "Résolvez le niveau 92 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

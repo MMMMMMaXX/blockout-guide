@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-114",
+  "locale": "tr",
+  "levelNumber": 114,
+  "title": "Block Out Seviye 114 Rehberi",
+  "summary": "Block Out Seviye 114 gives sen iki wrenches ve iki padlocked bloklar, ama gerçek constraint dört alt renk çubuklar — live quotas, değil score süs. her wrench kilidini açar exactly bir asma kilit küme, ve harcayarak mavi wrench...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/114/",
+        "layout": "Block Out Seviye 114 gives sen iki wrenches ve iki padlocked bloklar, ama gerçek constraint dört alt renk çubuklar — live quotas, değil score süs. her wrench kilidini açar exactly bir asma kilit küme, ve harcayarak mavi wrench yanlış kilitlende bırakır sol camgöbeği çubuk sıkıştı `10` ile hayır tool fixe o. üst cihaz sayaç dropping `3` senin sinyal ki time running dışarı.",
+        "landmarks": [
+          "Block Out Seviye 114 gives sen iki wrenches ve iki padlocked bloklar, ama gerçek constraint dört alt renk çubuklar — live quotas, değil score süs.",
+          "Her wrench kilidini açar exactly bir asma kilit küme, ve harcayarak mavi wrench yanlış kilitlende bırakır sol camgöbeği çubuk sıkıştı `10` ile hayır tool fixe o.",
+          "Üst cihaz sayaç dropping `3` senin sinyal ki time running dışarı."
+        ],
+        "colors": ["red", "pink", "yellow", "orange", "green", "cyan", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UAzhWbdstDQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UAzhWbdstDQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kırmızı wrench ilk üst sarı blokda — o sadece frees üst yarı.",
+        "Alt `14` pembe çubuk son kota; temizle sarı `12` ve yeşil `4` önce yıldız küme.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Tap kırmızı wrench üst sarı blokda kilidini aç üst pembe/sarı küme."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle sarı bloklar alta `12` çubuk önce dokunarak merkez pembe Z-şekil."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Soy sol camgöbeği sütun kırmızı sol okdan kadar yan sayaç düşer `15` `10`."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Tap mavi wrench yeşil blokda kilidini aç padlocked turuncu karo daha düşük-orta."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle yeşil bloklar dışarı altdan `4` çubuk ve single mavi blok `1` çubuk."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kır yukarı pembe yıldız küme sağda ve close alt `14` pembe çubuk yeşil sağ oklardan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Çıkış son turuncu tekliler sonra alt sayaçlar read `7` ve `9`."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak mavi wrench önce kırmızı wrench, bırakarak üst küme padlocked.",
+        "Temizleyerek pembe yıldız küme önce sarı `12` çubuk satisfied."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/114/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 114 Rehberi ve Çözümü",
+    "description": "Block Out seviye 114'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

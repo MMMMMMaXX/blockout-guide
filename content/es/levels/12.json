@@ -1,0 +1,93 @@
+{
+  "id": "es-level-12",
+  "locale": "es",
+  "levelNumber": 12,
+  "title": "Guía de Block Out Nivel 12",
+  "summary": "El nivel 12 de Block Out es un rompecabezas de reloj de arena con dos cámaras unidas por una estrecha cintura. Pasa las barras largas por la garganta central en orden alterno, mantén ambas mitades equilibradas y usa las bolsas temporales para los ladrillos cian `2`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "El nivel 12 de Block Out es un rompecabezas de reloj de arena con dos cámaras unidas por una estrecha cintura. Pasa las barras largas por la garganta central en orden alterno, mantén ambas mitades equilibradas y usa las bolsas temporales para los ladrillos cian `2`.",
+        "landmarks": [
+          "El nivel 12 de Block Out es un rompecabezas de reloj de arena con dos cámaras unidas por una estrecha cintura.",
+          "Pasa las barras largas por la garganta central en orden alterno, mantén ambas mitades equilibradas y usa las bolsas temporales para los ladrillos cian `2`.",
+          "El tablero combina azul, rojo, cian y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cada movimiento fuerte entra o despeja la cintura.",
+        "Mueve los emparejados ladrillos cian `2` solo después de que haya cruzado una barra larga.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Suelta una de las barras verticales centrales por la estrecha garganta para que las dos cámaras dejen de comprimirse."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Intercambia las columnas roja y azul superiores por la cintura hasta que un contador lateral se reduzca lo suficiente para dar espacio extra."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Mueve los emparejados ladrillos cian `2` solo después de que haya cruzado una barra larga, para que usen la bolsa temporal en lugar de obstruirla."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Sigue alternando transferencias de arriba abajo y de abajo arriba por el centro hasta que las columnas amarillas exteriores se puedan separar con limpieza."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Usa los carriles laterales recién abiertos para retirar las columnas rojas de cada cámara."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina drenando las últimas columnas amarilla y azul tras liberarse la garganta."
+        }
+      ],
+      "failurePoints": [
+        "Intentar limpiar una cámara por completo antes de usar la otra mitad.",
+        "Estacionar un bloque corto en la garganta cuando una columna entera todavía necesita cruzar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 12",
+    "description": "Resuelve el nivel 12 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

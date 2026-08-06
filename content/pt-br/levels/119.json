@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-119",
+  "locale": "pt-br",
+  "levelNumber": 119,
+  "title": "Guia do nível 119 do Block Out",
+  "summary": "Block Out Nível 119 é Super Difícil empacotando tabuleiro — numerado pillars e seta-marcado poliminó peças deve roteie através U-shaped corredor com no espaço para erro. fixed Lego brick aglomerado blocos um braço de U, e rainbow rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/119/",
+        "layout": "Block Out Nível 119 é Super Difícil empacotando tabuleiro — numerado pillars e seta-marcado poliminó peças deve roteie através U-shaped corredor com no espaço para erro. fixed Lego brick aglomerado blocos um braço de U, e rainbow direita-remova pode único saída em um direção. Force ele antes que verde snake caminho e roxo winding forma tem esquerda e U corredor cadeados para good.",
+        "landmarks": [
+          "Block Out Nível 119 é Super Difícil empacotando tabuleiro — numerado pillars e seta-marcado poliminó peças deve roteie através U-shaped corredor com no espaço para erro.",
+          "Fixed Lego brick aglomerado blocos um braço de U, e rainbow direita-remova pode único saída em um direção.",
+          "Force ele antes que verde snake caminho e roxo winding forma tem esquerda e U corredor cadeados para good."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r_96PuAWsyE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r_96PuAWsyE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar inferior-esquerda Lego aglomerado antes que direita rainbow empilhe, ou U corredor fecha.",
+        "Mantenha direita `8` coluna estacionado até inferior `2` bolso tem espaço para desloque.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior-esquerda azul `3` marcador e abra espaço ao redor esquerda laranja-bordered `14` pilar."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre inferior-esquerda Lego brick aglomerado (verde/vermelho/azul/amarelo) sem vedando central U corredor."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente direita alto roxo `8` coluna único depois inferior `2` bolso tem espaço para desloque."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Roteie rainbow direita-empilhe através inferior grade usando verde direita-seta pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar numerado ciano `1` peça sentado em U-abertura uma vez esquerda `3` torre afina."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine inferior contadores `8` e `1` e saída seta-directed verde L em inferior esquerda."
+        }
+      ],
+      "failurePoints": [
+        "Routing rainbow direita-empilhe antes que inferior-esquerda Lego aglomerado limpa — este selos U corredor.",
+        "Deslocando direita `8` coluna enquanto inferior `2` bolso é ainda boxed em."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/119/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 119 do Block Out",
+    "description": "Resolva o nível 119 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

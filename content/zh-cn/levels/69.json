@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-69",
+  "locale": "zh-cn",
+  "levelNumber": 69,
+  "title": "Block Out 第69关攻略",
+  "summary": "Block Out 第69关是一个「超高难度」四室首领关，有四个大号紫色方块——顶部计数「7」和「8」，底部计数「10」和「4」。底部蓝色「12」方块是额外的沉重目标。先清空底部……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out 第69关是一个「超高难度」四室首领关，有四个大号紫色方块——顶部计数「7」和「8」，底部计数「10」和「4」。底部蓝色「12」方块是额外的沉重目标。先清空底部，再并行处理紫色方块，让较小的更快清空，较大的逐渐打开。",
+        "landmarks": [
+          "Block Out 第69关是一个「超高难度」四室首领关，有四个大号紫色方块——顶部计数「7」和「8」，底部计数「10」和「4」。",
+          "底部蓝色「12」方块是额外的沉重目标。",
+          "先清空底部，再并行处理紫色方块，让较小的更快清空，较大的逐渐打开。"
+        ],
+        "colors": ["purple", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "「超高难度」意味着更密集的排布——先清空较小的紫色方块来腾出空间。",
+        "底部的蓝色「12」方块需要最多的空间。先清空它。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部计数「12」的蓝色方块从左出口清空——它需要最多的空间。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将右侧的黄色方块从右出口移出，打通右下区域。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始排空右下角的紫色方块（计数「4」）——它最轻，清空最快。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "并行处理左下角的紫色方块（计数「10」）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "转到左上角的紫色方块（计数「7」）——它比「8」轻。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理右上角的紫色方块（计数「8」），其他排空后它空间最充足。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "清理残留在已清空各室之间的彩色方块。"
+        }
+      ],
+      "failurePoints": [
+        "在较小方块之前就排空「10」或「8」方块——较大的方块需要腾挪空间，先清它们会移除其他方块的滑动墙。",
+        "忽视底部的蓝色「12」方块——它最重，需要最多的出口空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第69关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第69关。"
+  },
+  "updatedAt": "2026-08-03"
+}

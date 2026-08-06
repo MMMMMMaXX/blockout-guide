@@ -1,0 +1,93 @@
+{
+  "id": "de-level-100",
+  "locale": "de",
+  "levelNumber": 100,
+  "title": "Block Out Level 100 Lösung",
+  "summary": "Block Out Level 100 ist kurz ring-Drehung Spielfeld built around one moving empty pocket. Öffnen linke Seite erste, chase gap zu obere rechte Ecke, und dann verwenden geräumt mittlere Spalte zu flush endgültig grün slabs durch t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out Level 100 ist kurz ring-Drehung Spielfeld built around one moving empty pocket. Öffnen linke Seite erste, chase gap zu obere rechte Ecke, und dann verwenden geräumt mittlere Spalte zu flush endgültig grün slabs durch oben und rechts exits.",
+        "landmarks": [
+          "Block Out Level 100 ist kurz ring-Drehung Spielfeld built around one moving empty pocket.",
+          "Öffnen linke Seite erste, chase gap zu obere rechte Ecke, und dann verwenden geräumt mittlere Spalte zu flush endgültig grün slabs durch oben und rechts exits.",
+          "Das Spielfeld mixes Grün, Gelb, Orange und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Behalten empty pocket moving. Wenn es gets buried in mittlere too früh, ring stalls.",
+        "Obere rechte Ecke sollte öffnen bevor du versuchen zu herausholen oben-Mitte grün slab.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Verwenden small gap auf linke Seite von ring zu starten Drehung."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben oben-Reihe slabs also empty pocket Züge in obere rechte Ecke."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Öffnen mittlere Spalte once dass obere rechte Ecke ist räumen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Senden oben-Mitte grün slab hinaus durch oben Ausgang als soon als sein Bahn öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen rechts-Seite grün slab nächste, dann hinausführen remaining gelb slabs around ring."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte grün Blöcke once Mitte ist empty."
+        }
+      ],
+      "failurePoints": [
+        "Dropping slab in mittlere bevor empty pocket hat gedreht zu obere rechte Ecke.",
+        "Versuchen zu räumen oben-Mitte grün slab bevor mittlere Spalte ist actually öffnen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 100 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 100 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

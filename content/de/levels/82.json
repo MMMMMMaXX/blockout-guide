@@ -1,0 +1,91 @@
+{
+  "id": "de-level-82",
+  "locale": "de",
+  "levelNumber": 82,
+  "title": "Block Out Level 82 Lösung",
+  "summary": "Block Out Level 82 fills das Spielfeld mit numbered Blöcke ranging von Zähler '1' zu '11', plus verklemmen-und-key Blöcke dass Ausgang extraction sequence. Fast jede Block hat Zähler. Räumen lightest Zähler erste (1, 2, 3) zu öffnen l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "Block Out Level 82 fills das Spielfeld mit numbered Blöcke ranging von Zähler '1' zu '11', plus verklemmen-und-key Blöcke dass Ausgang extraction sequence. Fast jede Block hat Zähler. Räumen lightest Zähler erste (1, 2, 3) zu öffnen lanes, arbeiten medium Zähler (4, 5) nächste, und aufsparen heavy Blöcke (Zähler '9' und '11' auf linke Seite) für letzte when das Spielfeld hat meisten Raum.",
+        "landmarks": [
+          "Block Out Level 82 fills das Spielfeld mit numbered Blöcke ranging von Zähler '1' zu '11', plus verklemmen-und-key Blöcke dass Ausgang extraction sequence.",
+          "Fast jede Block hat Zähler.",
+          "Räumen lightest Zähler erste (1, 2, 3) zu öffnen lanes, arbeiten medium Zähler (4, 5) nächste, und aufsparen heavy Blöcke (Zähler '9' und '11' auf linke Seite) für letzte when das Spielfeld hat meisten Raum."
+        ],
+        "colors": ["green", "cyan", "purple", "yellow", "pink", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Always räumen lowest-Zähler Blöcke erste — jede one öffnet lanes für nächste.",
+        "Abgleichen verklemmen-und-key Blöcke früh zu unlock gated sections.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen gelb Block (Zähler '1') in Mitte zu öffnen mittlere."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract Zähler '2' Block bei unten durch unten Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Arbeiten grün Block (Zähler '3') Mitte-rechts durch rechts Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen verklemmen Blöcke durch abgleichend sie mit ihr keys zu unlock gated sections."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen lila Block (Zähler '4') und grün Block (Zähler '5') durch ihr exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Ansteuern heavy Blöcke (Zähler '9' und '11') auf links durch widened lanes letzte."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu hinausführen high-Zähler Block bevor lighter Blöcke haben geöffnet lanes — es jams immediately.",
+        "Ignoring verklemmen-und-key sequence, leaving gated Blöcke inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 82 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 82 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-82",
+  "locale": "pt-br",
+  "levelNumber": 82,
+  "title": "Guia do nível 82 do Block Out",
+  "summary": "Block Out Nível 82 preenche tabuleiro com numerado blocos ranging de contador '1' para '11', mais cadeado-e-chave blocos que saída extraction sequência. Quase cada bloco tem contador. Limpar lightest contadores primeiro (1, 2, 3) para abra l...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "Block Out Nível 82 preenche tabuleiro com numerado blocos ranging de contador '1' para '11', mais cadeado-e-chave blocos que saída extraction sequência. Quase cada bloco tem contador. Limpar lightest contadores primeiro (1, 2, 3) para abra pistas, funciona medium contadores (4, 5) próximo, e salve pesado blocos (contadores '9' e '11' em esquerda lateral) para último quando tabuleiro tem mais espaço.",
+        "landmarks": [
+          "Block Out Nível 82 preenche tabuleiro com numerado blocos ranging de contador '1' para '11', mais cadeado-e-chave blocos que saída extraction sequência.",
+          "Quase cada bloco tem contador.",
+          "Limpar lightest contadores primeiro (1, 2, 3) para abra pistas, funciona medium contadores (4, 5) próximo, e salve pesado blocos (contadores '9' e '11' em esquerda lateral) para último quando tabuleiro tem mais espaço."
+        ],
+        "colors": ["green", "cyan", "purple", "yellow", "pink", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sempre limpar lowest-contador blocos primeiro — cada um abre pistas para próximo.",
+        "Correspondência cadeado-e-chave blocos cedo para desbloqueie comporta seções.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar amarelo bloco (contador '1') em centro para abra meio."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia contador '2' bloco em inferior através inferior saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Funciona verde bloco (contador '3') centro-direita através direita saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar cadeado blocos por correspondência os com seus chaves para desbloqueie comporta seções."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente roxo bloco (contador '4') e verde bloco (contador '5') através seus saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Roteie pesado blocos (contadores '9' e '11') em esquerda através widened pistas último."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para alimente high-contador bloco antes que mais leve blocos tem aberto pistas — ele entrava immediately.",
+        "Ignorando cadeado-e-chave sequência, deixando comporta blocos inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 82 do Block Out",
+    "description": "Resolva o nível 82 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

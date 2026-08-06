@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-147",
+  "locale": "pt-br",
+  "levelNumber": 147,
+  "title": "Guia do nível 147 do Block Out",
+  "summary": "O nível 147 do Block Out é a solução mais longa na faixa 101–150 — um deslocador de coluna de câmara dupla com um cofre alto esquerdo `1` e um bolso direito separado `13`. As peças lançadoras inferiores alimentam a grade superior através de pistas estreitas. A coluna azul contornada em amarelo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/147/",
+        "layout": "O nível 147 do Block Out é a solução mais longa na faixa 101–150 — um deslocador de coluna de câmara dupla com um cofre alto esquerdo `1` e um bolso direito separado `13`. As peças lançadoras inferiores alimentam a grade superior através de pistas estreitas. A coluna azul contornada em amarelo à esquerda deve permanecer de pé até que a peça roxa `2` e a barra vermelha horizontal limpem o centro, ou a pista de alimentação do cofre desaba.",
+        "landmarks": [
+          "O nível 147 do Block Out é a solução mais longa na faixa 101–150 — um deslocador de coluna de câmara dupla com um cofre alto esquerdo `1` e um bolso direito separado `13`.",
+          "Inferior lançador peças alimente superior grade através estreito pistas.",
+          "Amarelo-outlined azul coluna em esquerda deve permaneça standing até roxo `2` peça e horizontal vermelho barra limpar centro, ou cofre's alimente pista colapsa."
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "orange", "green", "cyan", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9uAtDrUE4V0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9uAtDrUE4V0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre 12 highlight antes que movendo inferior azul-base lançador.",
+        "Mantenha 13 bolso vedado até esquerda 1 câmara accepts seu primeiro alimente.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize inferior amarelo L-peça esquerda em seu ciano base para comece abertura esquerda 1 câmara sem deslocando 13 bolso."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Alimente laranja/azul/amarelo/vermelho chão aglomerado para cima através inferior esquerda seta uma vez esquerda câmara accepts peças."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre laranja-bordered 12 highlight quadrado em direita câmara depois esquerda coluna afina."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar amarelo-outlined azul vertical coluna em esquerda uma vez 12 peça é indo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Correspondência roxo 2 peça (laranja borda) com amarelo 3 scrap acima verde seta bloco."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste inferior amarelo lançador peças — L em rosa base, então 2×2 em azul base — através centro vermelho barra."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Roteie último recortes através verde cima-seta saída para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Launching azul-base amarelo 2×2 antes que 12 highlight quebra, vedando verde cima-seta pista.",
+        "Abertura 13 bolso antes que esquerda 1 câmara afina, flooding centro vermelho barra."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/147/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 147 do Block Out",
+    "description": "Resolva o nível 147 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

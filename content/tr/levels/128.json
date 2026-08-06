@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-128",
+  "locale": "tr",
+  "levelNumber": 128,
+  "title": "Block Out Seviye 128 Rehberi",
+  "summary": "Block Out Seviye 128 düşer character bloklar — sarı gülen yüz face ve kırmızı heart-face karolar — çerçevee-sayaç tahta ile snowflake ice sayaçlar tracking kalan çıkışlar. character bloklar gerçek objectives, değil süs. C...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/128/",
+        "layout": "Block Out Seviye 128 düşer character bloklar — sarı gülen yüz face ve kırmızı heart-face karolar — çerçevee-sayaç tahta ile snowflake ice sayaçlar tracking kalan çıkışlar. character bloklar gerçek objectives, değil süs. temizle sağ kırmızı istifler önce ice sayaç finishes ve gülen yüz blok gets donmuş yerleştirde ile hayır çıkış.",
+        "landmarks": [
+          "Block Out Seviye 128 düşer character bloklar — sarı gülen yüz face ve kırmızı heart-face karolar — çerçevee-sayaç tahta ile snowflake ice sayaçlar tracking kalan çıkışlar.",
+          "Character bloklar gerçek objectives, değil süs.",
+          "Temizle sağ kırmızı istifler önce ice sayaç finishes ve gülen yüz blok gets donmuş yerleştirde ile hayır çıkış."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan", "teal"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_nuD7bwaKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_nuD7bwaKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kırmızı heart blok meli temizle önce sağ kırmızı istifler — değil sonra.",
+        "Izle üst display çubuk: o düşer `12` `9` `5` sen progress.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Tap turuncu-çerçeveli üst `12` display çubuk, sonra temizle sol mor ve kırmızı küme."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır mavi ve sarı gülen yüz-face çift daha düşük merkez öncede sağ kırmızı istifler shifts."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Pop kırmızı heart blok altda-sol sonra gülen yüz karolar gitti."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Boşalt uzun sağ-yan kırmızı sütun sırasında üst display hâlâ reads `9`."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca ice sayaçlar `18`, `5`, ve `2` sırada sağ kenardan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir kalan yeşil kütle ve daha düşük multicolor artıklar için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Boşaltarak sağ kırmızı istifler önce gülen yüz çift temizlenir — ice `18` sayaç kalır kilitlendi.",
+        "Skipping kırmızı heart blok sırasında kovalayarak üst display sayaç."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/128/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 128 Rehberi ve Çözümü",
+    "description": "Block Out seviye 128'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

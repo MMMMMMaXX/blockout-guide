@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-41",
+  "locale": "tr",
+  "levelNumber": 41,
+  "title": "Block Out Seviye 41 Rehberi",
+  "summary": "Block Out Seviye 41 `5` ana blok kare gated ile iki `2`-sayaç cihazlar üst köşelerde. Service her ikisi de cihazlar ilk kilidini aç mavi U-şekilli bloklar üstünde ana blok, sonra bırak ana blok düşür sonra çevreleyerek alan geniş enoug...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/41/",
+        "layout": "Block Out Seviye 41 `5` ana blok kare gated ile iki `2`-sayaç cihazlar üst köşelerde. Service her ikisi de cihazlar ilk kilidini aç mavi U-şekilli bloklar üstünde ana blok, sonra bırak ana blok düşür sonra çevreleyerek alan geniş enough. sonra ana blok temizlenir 01:30, büyük colorful kütle mavi, sarı, yeşil, kırmızı, ve mor bloklar dolur tahta için üçte bir sorting aşama.",
+        "landmarks": [
+          "Block Out Seviye 41 `5` ana blok kare gated ile iki `2`-sayaç cihazlar üst köşelerde.",
+          "Service her ikisi de cihazlar ilk kilidini aç mavi U-şekilli bloklar üstünde ana blok, sonra bırak ana blok düşür sonra çevreleyerek alan geniş enough.",
+          "Sonra ana blok temizlenir 01:30, büyük colorful kütle mavi, sarı, yeşil, kırmızı, ve mor bloklar dolur tahta için üçte bir sorting aşama."
+        ],
+        "colors": ["blue", "red", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q9Brph8V6fo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q9Brph8V6fo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Iki `2` cihazlar üst köşelerde kapı — eğer onlar değil zeroda, ana blok kilitlendi.",
+        "Expect üçte bir aşama: sonra ana blok temizlenir, colorful kütle appears ve gerektirir sorting.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Service sol `2` cihaz ile yönlendirerek adjacent bloklar onun kapıdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Service sağ `2` cihaz sonraki."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır mavi U-şekilli bloklar yukarı doğru sonra her ikisi de cihazlar zeroda."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Ince kırmızı ve yeşil bloklar ana blok onun sayaç düşer `5`."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak ana blok kare temizle sonra çevreleyerek alan geniş enough ( 01:30)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sort açığa çıktı mavi, sarı, yeşil, kırmızı, ve mor bloklar çıkışlardan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son renk temizlik sonra tahta çoğunlukla boş."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek azalt `5` ana blok sırasında `2` cihazlar hâlâ active — üst alan kalır kilitlendi ve ana blok barely hamleler.",
+        "Değil preparing çıkış şeritler için renk kütle ki appears sonra ana blok temizlenir, hangi sıkışır newly açıldı alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/41/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 41 Rehberi ve Çözümü",
+    "description": "Block Out seviye 41'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

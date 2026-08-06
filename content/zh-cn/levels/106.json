@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-106",
+  "locale": "zh-cn",
+  "levelNumber": 106,
+  "title": "Block Out 第106关攻略",
+  "summary": "Block Out 第106关是一个隔间迷宫，口袋计数藏在紫色墙内，一条单向向上箭头通道贯穿中心。带计数的方块是真正的目标而非标签——每个口袋必须在下一面墙打开前排空。底部传送带行供给整个系统，过早拉动它会在上方口袋仍活动时让中心通道坍塌。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/106/",
+        "layout": "Block Out 第106关是一个隔间迷宫，口袋计数藏在紫色墙内，一条单向向上箭头通道贯穿中心。带计数的方块是真正的目标而非标签——每个口袋必须在下一面墙打开前排空。底部传送带行供给整个系统，过早拉动它会在上方口袋仍活动时让中心通道坍塌。",
+        "landmarks": [
+          "Block Out 第106关是一个隔间迷宫，口袋计数藏在紫色墙内，一条单向向上箭头通道贯穿中心。",
+          "带计数的方块是真正的目标而非标签——每个口袋必须在下一面墙打开前排空。",
+          "底部传送带行供给整个系统，过早拉动它会在上方口袋仍活动时让中心通道坍塌。"
+        ],
+        "colors": ["green", "yellow", "blue", "red", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_fzxRHRoPeU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_fzxRHRoPeU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中心向上箭头通道是主要输送路线——不要用底部行堵住它。",
+        "在放下底部传送带行之前，等右侧口袋的红色「1」/「2」对清空。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左上角的绿/黄/蓝簇滑入中心向上箭头通道。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "清空中上口袋的青色「8」和蓝色「10」方块。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "中心通道完全打开后，剥离右上角的红色「12」和「14」堆叠。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "利用中段高亮的蓝色「4」方块解锁中左孤立的口袋。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "只有在右侧口袋的红色「1」和「2」方块消失后，才放下底部横行。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "用底部托盘的三角形块收尾，关闭计数「5」「2」「8」。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧口袋的红色「1」/「2」对清空之前就拉动底部传送带行——这会封死迷宫。",
+        "在青色「8」和蓝色「10」口袋清空之前，就急于处理黄色「16」方块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/106/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第106关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第106关。"
+  },
+  "updatedAt": "2026-08-03"
+}

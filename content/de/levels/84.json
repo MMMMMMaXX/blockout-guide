@@ -1,0 +1,91 @@
+{
+  "id": "de-level-84",
+  "locale": "de",
+  "levelNumber": 84,
+  "title": "Block Out Level 84 Lösung",
+  "summary": "Block Out Level 84 ist schwer Level mit three massive lila Blöcke bearing highest Zähler in 50-100 range: '12', '21', und '23'. Orange frame borders create chamber partitions around sie, mit colored Blöcke packed zwischen th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out Level 84 ist schwer Level mit three massive lila Blöcke bearing highest Zähler in 50-100 range: '12', '21', und '23'. Orange frame borders create chamber partitions around sie, mit colored Blöcke packed zwischen chambers. Räumen small Blöcke erste zu öffnen feeding lanes, dann hinausführen lila Blöcke in ascending Zähler Reihenfolge — '12' erste, '21' second, '23' letzte.",
+        "landmarks": [
+          "Block Out Level 84 ist schwer Level mit three massive lila Blöcke bearing highest Zähler in 50-100 range: '12', '21', und '23'.",
+          "Orange frame borders create chamber partitions around sie, mit colored Blöcke packed zwischen chambers.",
+          "Räumen small Blöcke erste zu öffnen feeding lanes, dann hinausführen lila Blöcke in ascending Zähler Reihenfolge — '12' erste, '21' second, '23' letzte."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Hinausführen lila Blöcke in ascending Zähler Reihenfolge: '12' erste, '21' second, '23' letzte.",
+        "Behalten '23' Block's Ausgangs-Bahn räumen von starten — never let andere Blöcke drift in sein Pfad.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen small colored Blöcke zwischen lila chambers durch Seite exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract Zähler '5' Block früh."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin feeding lila '12' Block erste — es ist lightest."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen lila '21' Block once '12' hat shrunk enough zu teilen Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Aufsparen lila '23' Block für letzte — es needs widest Bahn und meisten passes."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen remaining chamber fragments nach alle lila Blöcke sind gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu hinausführen '23' Block bevor lighter lila Blöcke haben reduced — lanes sind too narrow.",
+        "Leaving colored Blöcke in feeding Bahn, welche forces lila Blöcke zu detour."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 84 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 84 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

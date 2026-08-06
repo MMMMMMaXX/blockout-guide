@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-105",
+  "locale": "tr",
+  "levelNumber": 105,
+  "title": "Block Out Seviye 105 Rehberi",
+  "summary": "Block Out Seviye 105 wraps çokgen tuğlalar glowingden mor 2×2 kare ve gives sen exactly bir shot kır — kırmızı demolition çubuk sağ duvarda. harca ki çubuk yanlış kümede ve mor kare kalır trapp...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "Block Out Seviye 105 wraps çokgen tuğlalar glowingden mor 2×2 kare ve gives sen exactly bir shot kır — kırmızı demolition çubuk sağ duvarda. harca ki çubuk yanlış kümede ve mor kare kalır tuzağa düştü forever. çöz packing extraction: temizle üst sayaçlar ve sarı 2×2 ilk, sonra aim kırmızı çubuk üst kırmızı kümede serbest çıkışa yol.",
+        "landmarks": [
+          "Block Out Seviye 105 wraps çokgen tuğlalar glowingden mor 2×2 kare ve gives sen exactly bir shot kır — kırmızı demolition çubuk sağ duvarda.",
+          "Harca ki çubuk yanlış kümede ve mor kare kalır tuzağa düştü forever.",
+          "Çöz packing extraction: temizle üst sayaçlar ve sarı 2×2 ilk, sonra aim kırmızı çubuk üst kırmızı kümede serbest çıkışa yol."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Fırlat kırmızı demolition çubuk başlada — o sadece works sonra.",
+        "Hareket ettir sarı 2x2 dışarı önce deneyerek çıkışa mor `1` kare.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Trigger kırmızı sağ-duvar çubuk kır üst kırmızı küme önce any diğer hamleler."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır sol mor L-parça yukarı doğru açık alana merkez sarı 2x2."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir yeşil L sağ yanda aşağı böylece mor `1` kare temizle alt şerit."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır sarı 2x2 dışarı üst çıkışlardan unboxa mor `1` kare."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Gönder mor `1` kare dışarı alt çıkışdan satisfye üst sayaç."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle kalan mavi yatay parça ve pembe küme bitir üst `2` sayaç."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak kırmızı demolition çubuk alt pembe kümede yerine üst kırmızı bir.",
+        "Deneyerek kaydır mor `1` kare önce sarı 2x2 o temizlendide."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 105 Rehberi ve Çözümü",
+    "description": "Block Out seviye 105'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-31",
+  "locale": "tr",
+  "levelNumber": 31,
+  "title": "Block Out Seviye 31 Rehberi",
+  "summary": "Block Out Seviye 31 bir Numaralı-cascade tahta nere camgöbeği levhalar etiketli `5`, `9`, `10`, ve `13` istiflendi üstden alta ve pinned yerleştirde ile beyaz ve siyah dikey çubuklardır. Levhalar meli bırak ascendingde sıra — `5` ilk, `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "Block Out Seviye 31 bir Numaralı-cascade tahta nere camgöbeği levhalar etiketli `5`, `9`, `10`, ve `13` istiflendi üstden alta ve pinned yerleştirde ile beyaz ve siyah dikey çubuklardır. Levhalar meli bırak ascendingde sıra — `5` ilk, `13` son — ve dikey çubuklar arasında onları ilk things soy, çünkü onlar sadece way kilidini aç her levha sequenceda.",
+        "landmarks": [
+          "Block Out Seviye 31 bir Numaralı-cascade tahta nere camgöbeği levhalar etiketli `5`, `9`, `10`, ve `13` istiflendi üstden alta ve pinned yerleştirde ile beyaz ve siyah dikey çubuklardır.",
+          "Levhalar meli bırak ascendingde sıra — `5` ilk, `13` son — ve dikey çubuklar arasında onları ilk things soy, çünkü onlar sadece way kilidini aç her levha sequenceda.",
+          "Tahta yeşil, camgöbeği, sarı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Count numaralar üst alta: eğer levha's numara daha yüksek bir hâlâ oturarak üstünde o, sıra yanlış.",
+        "Dikey çubuklar değil engeller çalış — onlar ilk things kaldır.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst-sağ beyaz bloklar ve sol sarı dikey sütun oluştur kenar alan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır yeşil `5` blok dışarı üst-sol köşe sonra üst sıra açılır."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan serbest bırakıldı üst sıra soy siyah dikey çubuklar uzakta merkezden `9` levha."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır `9` levha sonra merkez şerit açılır, hangi loosens iki `10` levhalar altında."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Hareket ettir `10` levhalar bir timede — üst bir ilk — sonra merkez temizle enough için onların width."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Ile `10`s dışarı, alt-merkez `13` levha sonunda şerit. kaydır o en yakın açık çıkışa."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile temizleyerek kalan küçük yeşil, sarı, ve siyah çubuk parçalar sonra tüm numaralı levhalar sol."
+        }
+      ],
+      "failurePoints": [
+        "Attempting hareket ettir `13` levha önce `10`s üstünde o temizlendi — alt-merkez completely engellendi kadar cascade sequence reaches o.",
+        "Bırakarak dikey çubuklar yerleştirde ve deneyerek kaydır numaralı levhalar dar kalan boşluklardan, hangi durur tahta immediately."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 31 Rehberi ve Çözümü",
+    "description": "Block Out seviye 31'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

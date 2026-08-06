@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-101",
+  "locale": "ja",
+  "levelNumber": 101,
+  "title": "ブロックアウト レベル101 攻略",
+  "summary": "ブロックアウト レベル101は、二重の供給部屋—上部の「9」と下部の「4」—に、重要に見えるが実はただの壁である模様付きの側面積み重ねを組み合わせています。本当のパズルはタイミングです：底部のトレイにある赤の下矢印ピースは、中央の通路を通って落ちる前に、上部の「9」供給がほぼ終わるまで待つ必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "ブロックアウト レベル101は、二重の供給部屋—上部の「9」と下部の「4」—に、重要に見えるが実はただの壁である模様付きの側面積み重ねを組み合わせています。本当のパズルはタイミングです：底部のトレイにある赤の下矢印ピースは、中央の通路を通って落ちる前に、上部の「9」供給がほぼ終わるまで待つ必要があります。矢印ブロックを急ぎすぎると、崩れる側面積み重ねの下に埋もれます。",
+        "landmarks": [
+          "ブロックアウト レベル 101 通す 部屋 — `9` 上、`4` 下 — 側 積み 探す、壁.。",
+          ": 赤 下-矢印 ピース 下 トレイ、上の `9` 通す、落とす 中央レーン.。",
+          "矢印 ブロック、埋まった 側 積み.。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "紫のを通してブロック 始める 上の `9` カウンター.。",
+        "赤 下-矢印 ピース、上の 部屋 下 通し.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "紫のを通してブロック 下 トレイ 上の 部屋 始める `9` カウンター.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "赤のを剥がして左に、横切る- 積み 下へ、上の 通す レーン 残し 開く.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "緑のを消去して、青 トレイ 上の 部屋、左 積み .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を終えて上の-部屋 通す 中央 青 矢印 列 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "赤のを落として下-矢印 ブロック 中央レーン 下の `4` 部屋.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して右 黄/青 積み 下の カウンター.。"
+        }
+      ],
+      "failurePoints": [
+        "動かし 赤 下-矢印 ピース、上の 部屋 終え — 埋まった 左 積み.。",
+        "消去 右 黄 積み、上の 通す レーン、中央 落とす レーン.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル101 攻略と解説",
+    "description": "ブロックアウト レベル101 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

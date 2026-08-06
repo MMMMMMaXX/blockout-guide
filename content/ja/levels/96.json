@@ -1,0 +1,101 @@
+{
+  "id": "ja-level-96",
+  "locale": "ja",
+  "levelNumber": 96,
+  "title": "ブロックアウト レベル96 攻略",
+  "summary": "ブロックアウト レベル96は純粋な密度パズルです—部屋も枠もなく、壁から壁までさまざまな大きさの色ブロックが詰まっています。カウンター「12」の高い赤ブロックが壁のように中央を分断し、2つの大きな紫ブロック（カウンター「9」と「5」）が…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "ブロックアウト レベル96は純粋な密度パズルです—部屋も枠もなく、壁から壁までさまざまな大きさの色ブロックが詰まっています。カウンター「12」の高い赤ブロックが壁のように中央を分断し、2つの大きな紫ブロック（カウンター「9」と「5」）が右半分を支配し、オレンジと緑のブロックが左を埋めます。まず息抜きのために小さなカウンター「1」の端ブロックを消去し、ゲートされた緑の「3」ブロックを解放し、次に大きなピースを最寄りの出口から通します。",
+        "landmarks": [
+          "ブロックアウト レベル 96 — 部屋、枠、壁- -壁 .。",
+          "赤 ブロック カウンター `12` 中央 壁、紫 (カウンター `9`、`5`) 支配する 右、オレンジ/緑 満たす 左.。",
+          "を消去してカウンター-`1`、を解放して緑 `3` ブロック、通す 最も近い 出口.。"
+        ],
+        "colors": ["red", "blue", "green", "purple", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去してカウンター-`1` — ずらす.。",
+        "緑のを解放して`3` ブロック 黄 鍵 — 出口 左-側 .。",
+        "赤 `12` ブロック 壁 — 消去する、開始 通す.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去してカウンター-`1` 周りを : オレンジ 上へ (上 出口)、黄 `1` 右へ (右-壁 出口)、シアン `1` 下へ (下部の出口) — (02:54–02:48 動画).。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄鍵を押してブロック 中央 右 出口 解放する 緑 `3` ブロック (02:42).。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "上の 紫 `9` ブロック 右-壁 出口 — 通し (02:42–02:30).。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して解放し 緑 `3` ブロック 左-壁 出口 出口 開く (02:30).。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を始めて赤 `12` ブロック 左-壁 出口 — 通し、左 レーン 消去する (02:25–02:13).。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して下の 紫 `5` ブロック 下の 右-壁 出口 — 通し (02:13–02:07).。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を消去してオレンジ、黄、青 最も近い 出口 (02:07–02:01).。"
+        },
+        {
+          "order": 8,
+          "title": "手順8",
+          "instruction": "を終えて下、開く (01:56).。"
+        }
+      ],
+      "failurePoints": [
+        "開始 赤 `12` ブロック 通す、消去 左 側 — -通す、罠 オレンジ、緑 .。",
+        "を無視して緑 `3` ブロック' 鍵 — 鍵 ブロック 出口、緑 ブロック 手順、残し .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル96 攻略と解説",
+    "description": "ブロックアウト レベル96 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-82",
+  "locale": "zh-cn",
+  "levelNumber": 82,
+  "title": "Block Out 第82关攻略",
+  "summary": "Block Out 第82关棋盘上满是计数从「1」到「11」的数字方块，还有为抽取顺序把关的锁钥方块。几乎每个方块都有计数。先清空最轻的计数（1、2、3）以打开通道……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "Block Out 第82关棋盘上满是计数从「1」到「11」的数字方块，还有为抽取顺序把关的锁钥方块。几乎每个方块都有计数。先清空最轻的计数（1、2、3）以打开通道，接着处理中等计数（4、5），把沉重方块（左侧的「9」和「11」）留到最后，当棋盘空间最大时再处理。",
+        "landmarks": [
+          "Block Out 第82关棋盘上满是计数从「1」到「11」的数字方块，还有为抽取顺序把关的锁钥方块。",
+          "几乎每个方块都有计数。",
+          "先清空最轻的计数（1、2、3）以打开通道，接着处理中等计数（4、5），把沉重方块（左侧的「9」和「11」）留到最后，当棋盘空间最大时再处理。"
+        ],
+        "colors": ["green", "cyan", "purple", "yellow", "pink", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "永远先清空计数最低的方块——每一个都会为下一个打开通道。",
+        "尽早匹配锁钥方块以解锁被挡住的区域。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "清空中心的黄色方块（计数「1」）以打开中间。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将底部的计数「2」方块从底部出口抽出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将中心偏右的绿色方块（计数「3」）从右出口处理。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "通过将锁块与其钥匙匹配来清空锁块，解锁被挡住的区域。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将紫色方块（计数「4」）和绿色方块（计数「5」）送出其出口。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后将左侧的沉重方块（计数「9」和「11」）经拓宽的通道送出。"
+        }
+      ],
+      "failurePoints": [
+        "在较轻方块打开通道之前就输送高计数方块——它会立刻卡死。",
+        "忽视锁钥序列，导致被挡住的方块无法触及。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第82关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第82关。"
+  },
+  "updatedAt": "2026-08-03"
+}

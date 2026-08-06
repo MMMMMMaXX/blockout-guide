@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-150",
+  "locale": "tr",
+  "levelNumber": 150,
+  "title": "Block Out Seviye 150 Rehberi",
+  "summary": "Block Out Seviye 150 kapanır set ile compact 4-sütun eşleştir tahta — deceptively simple sonra süper zor gauntlet. Dual `6` sabitle karolar ve sol-ray `3` grupla sayaçlar sadece objectives. yeşil sağ-ok pushers rde...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/150/",
+        "layout": "Block Out Seviye 150 kapanır set ile compact 4-sütun eşleştir tahta — deceptively simple sonra süper zor gauntlet. Dual `6` sabitle karolar ve sol-ray `3` grupla sayaçlar sadece objectives. yeşil sağ-ok pushers sağ kenarda kaydır entire sıralar horizontally, dönerek bu kaydıraraka-sıralar game daha ziyade usual blok extraction.",
+        "landmarks": [
+          "Block Out Seviye 150 kapanır set ile compact 4-sütun eşleştir tahta — deceptively simple sonra süper zor gauntlet.",
+          "Dual `6` sabitle karolar ve sol-ray `3` grupla sayaçlar sadece objectives.",
+          "Yeşil sağ-ok pushers sağ kenarda kaydır entire sıralar horizontally, dönerek bu kaydıraraka-sıralar game daha ziyade usual blok extraction."
+        ],
+        "colors": ["blue", "red", "yellow", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mMIsmNrntpQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mMIsmNrntpQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır üst mavi 6 önce açarak merkez-sağ boşluk ile saniye pusher.",
+        "Hareket ettir alt mavi 1×2 sadece sonra yeşil 6 karo temizlenir.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Tap yeşil sağ-ok kaydır üst-sağ yeşil 1×2 sola doğru, eşleştirerek üst kırmızı/sarı çift olmadan kaydırarak mavi 6."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle üst mavi 6 karo ile eşleştirerek mavi sütun altında o sonra üst sıra thins."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan saniye yeşil sağ-ok pusher açık merkeze-sağ boşluk sonra ilk bant temizlenir."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Eşleştir orta kırmızı/kırmızı/sarı bant ticke üst sol-ray 3 sayaç aşağı."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kır alt-sol yeşil 6 karo ile kaydırarak daha düşük mavi 1×2 mavi/kırmızı çift."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle alt kırmızı/sarı/kırmızı bant harcaya daha düşük sol-ray 3 sayaç."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Tap sağ-ok bir son time ejecte son sarı artık için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak alt mavi 1×2 önce yeşil 6 breaks, stranding kırmızı çift uzakta sağdan-ok şerit.",
+        "Kullanarak saniye pusher önce üst mavi 6 temizlenir, bölerek üst bant ve wasting 3 sayaç."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/150/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 150 Rehberi ve Çözümü",
+    "description": "Block Out seviye 150'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

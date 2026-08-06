@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-95",
+  "locale": "pt-br",
+  "levelNumber": 95,
+  "title": "Guia do nível 95 do Block Out",
+  "summary": "Block Out Nível 95 empacota colorido blocos (vermelho, laranja, azul, verde, roxo, ciano) com cadeado/chave saídas em horizontal superior nível, enquanto dois roxo câmaras preencha inferior seção — contador `14` em laranja moldura em superior, contador `11` em...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/95/",
+        "layout": "Block Out Nível 95 empacota colorido blocos (vermelho, laranja, azul, verde, roxo, ciano) com cadeado/chave saídas em horizontal superior nível, enquanto dois roxo câmaras preencha inferior seção — contador `14` em laranja moldura em superior, contador `11` em laranja moldura abaixo. Amarelo accent blocos em bordas são livre único-peça limpa. Vazio superior nível completamente, então alimente ambos câmaras para 25 total passa.",
+        "landmarks": [
+          "Block Out Nível 95 empacota colorido blocos (vermelho, laranja, azul, verde, roxo, ciano) com cadeado/chave saídas em horizontal superior nível, enquanto dois roxo câmaras preencha inferior seção — contador `14` em laranja moldura em superior, contador `11` em laranja moldura abaixo.",
+          "Amarelo accent blocos em bordas são livre único-peça limpa.",
+          "Vazio superior nível completamente, então alimente ambos câmaras para 25 total passa."
+        ],
+        "colors": ["purple", "red", "orange", "blue", "green", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "S3a7Be6nABA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=S3a7Be6nABA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Take amarelo borda blocos primeiro — eles são livre único-peça limpa direita próximo para saídas.",
+        "Limpar pequeno blocos entre tiers antes que inicial `14` câmara alimente.",
+        "Alimente `14` câmara antes que `11` — ele precisa mais espaço e mais passa."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Empurre amarelo borda blocos em ambos lados através esquerda e direita saídas para immediate espaço (01:26 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar chave bloco (pequeno ciano com chave icon) para desbloqueie laranja bloco em superior nível (01:22)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Extraia grande vermelho blocos de centro-esquerda através superior ou esquerda saída porque eles são biggest massa em superior nível (01:18)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar verde e azul blocos de direita lateral de superior nível através direita-parede saída (01:15)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Remova pequeno ciano e vermelho blocos entre superior nível e `14` câmara antes que inicial alimente porque eles pode drift em pista (01:11)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Comece alimentando superior roxo câmara (contador `14`) — mantenha seu pista permanentemente limpar para fourteen passa (01:07–00:56)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Alimente inferior roxo câmara (contador `11`) através inferior saídas — eleven passa para termine (00:53–00:45)."
+        }
+      ],
+      "failurePoints": [
+        "Ignorando amarelo borda blocos em comece — eles são livre espaço e limpando os primeiro faz cada subsequent extraction faster.",
+        "Inicial `14` câmara alimente enquanto pequeno ciano e vermelho blocos entre tiers são ainda present — eles drift em alimente pista e stall contador."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/95/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 95 do Block Out",
+    "description": "Resolva o nível 95 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

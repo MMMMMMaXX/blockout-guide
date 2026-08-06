@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-24",
+  "locale": "pt-br",
+  "levelNumber": 24,
+  "title": "Guia do nível 24 do Block Out",
+  "summary": "Block Out Nível 24 é shared-corredor double-chefe tabuleiro com dois emoldurado `12` painéis. Fino direita pilar escada primeiro, abra central eixo segundo, e deixe superior chefe caia antes que inferior um follows.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "Block Out Nível 24 é shared-corredor double-chefe tabuleiro com dois emoldurado `12` painéis. Fino direita pilar escada primeiro, abra central eixo segundo, e deixe superior chefe caia antes que inferior um follows.",
+        "landmarks": [
+          "Block Out Nível 24 é shared-corredor double-chefe tabuleiro com dois emoldurado `12` painéis.",
+          "Fino direita pilar escada primeiro, abra central eixo segundo, e deixe superior chefe caia antes que inferior um follows.",
+          "Tabuleiro mistura Roxo, Vermelho, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abra eixo antes que movendo chefes.",
+        "Superior `12` goes antes que inferior `12`.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Fino direita escada de preto, vermelho, e branco blocos antes que tocando either emoldurado chefe."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Abra central eixo perto superior `12` painel so dois chefes stop sharing vedado corredor."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Inferior superior `12` painel uma vez direita borda é no mais longo cheio."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use liberado eixo para comece soltando inferior `12` painel afterward."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mantenha vermelho superior saída para tarde limpeza depois eixo tem aberto."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Escoe restante lateral contadores e pequeno cor peças como segundo chefe cai."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último direita-coluna leftovers depois ambos `12` painéis são quase indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova um chefe enquanto shared eixo é ainda blocked.",
+        "Usando superior vermelho saída antes que direita corredor tem thinned suficiente."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 24 do Block Out",
+    "description": "Resolva o nível 24 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

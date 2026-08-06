@@ -1,0 +1,93 @@
+{
+  "id": "ko-level-51",
+  "locale": "ko",
+  "levelNumber": 51,
+  "title": "블록 아웃 레벨 51 공략",
+  "summary": "블록 아웃 레벨 51은 왼쪽에 쌓인 두 빨간색 막대와 오른쪽 아래의 비좁은 주차장을 중심으로 구성됩니다. 먼저 오른쪽 세로 슬롯을 열고, 그 열린 차선으로 청록색 막대, 노란색 트레이, 그리고 마지막에 빨간색...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "블록 아웃 레벨 51은 왼쪽에 쌓인 두 빨간색 막대와 오른쪽 아래의 비좁은 주차장을 중심으로 구성됩니다. 먼저 오른쪽 세로 슬롯을 열고, 그 열린 차선으로 청록색 막대, 노란색 트레이, 그리고 마지막에 보라색 열을 가두지 않고 빨간색 막대를 회전시키세요.",
+        "landmarks": [
+          "블록 아웃 레벨 51은 왼쪽에 쌓인 두 빨간색 막대와 오른쪽 아래의 비좁은 주차장을 중심으로 구성됩니다.",
+          "먼저 오른쪽 세로 슬롯을 열고, 그 열린 차선으로 청록색 막대, 노란색 트레이, 그리고 마지막에 보라색 열을 가두지 않고 빨간색 막대를 회전시키세요.",
+          "보드는 빨간색, 초록색, 파란색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "오른쪽 파란색 기둥이 여전히 벽에 붙어 있다면, 왼쪽 쌓인 블록은 아직 준비되지 않았습니다.",
+        "빨간색 막대가 회전하는 동안 오른쪽 슬롯이 정돈되도록 보라색 열을 후반부 정리를 위해 남겨두세요.",
+        "보드가 막힌 듯하면 가장 깨끗한 경로를 가진 색상을 찾아 공간을 확보하세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "높은 빨간색 기둥과 오른쪽 벽 옆의 파란색 기둥을 옮겨 오른쪽 아래 주차장을 여세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "그 새 슬롯을 사용해 청록색 중앙 막대를 줄이고 왼쪽 아래 초록색 줄기가 숨 쉴 수 있게 하세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "오른쪽 슬롯이 돌아오는 조각을 받을 수 있게 된 후에만 왼쪽에 쌓인 빨간색 막대 제거를 시작하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "첫 빨간색 막대가 이동하고 청록색 차선이 짧아지면 노란색 트레이를 중앙을 통해 넣으세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "왼쪽 쌓인 블록이 회전하는 동안 오른쪽이 정돈되도록 보라색 열 두 개를 후반부 정리를 위해 남겨두세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "중앙 차선이 비면 마지막 노란색 트레이와 오른쪽 벽 파란색 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "오른쪽 주차장이 열리기 전에 왼쪽 빨간색 막대 두 개를 모두 치우려 하면.",
+        "보라색 열을 너무 일찍 사용하여 청록색 막대와 노란색 트레이가 여전히 필요로 하는 슬롯을 잃으면."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 51 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 51을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

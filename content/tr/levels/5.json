@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-5",
+  "locale": "tr",
+  "levelNumber": 5,
+  "title": "Block Out Seviye 5 Rehberi",
+  "summary": "Block Out Seviye 5 bir Dar damalı arasında iki kırmızı sütunlardır. Sök beyaz parçalar dışarı sağ kapıdan, bırak siyah bloklar çökert merdivene için daha düşük-sol çıkış, ve sakla son kırmızı sütun için bitir.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/5/",
+        "layout": "Block Out Seviye 5 bir Dar damalı arasında iki kırmızı sütunlardır. Sök beyaz parçalar dışarı sağ kapıdan, bırak siyah bloklar çökert merdivene için daha düşük-sol çıkış, ve sakla son kırmızı sütun için bitir.",
+        "landmarks": [
+          "Block Out Seviye 5 bir Dar damalı arasında iki kırmızı sütunlardır.",
+          "Sök beyaz parçalar dışarı sağ kapıdan, bırak siyah bloklar çökert merdivene için daha düşük-sol çıkış, ve sakla son kırmızı sütun için bitir.",
+          "Tahta kırmızı, beyaz, siyah ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "es-W99zOPd8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=es-W99zOPd8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Düşün sağ-kenar beyaz temizlik ilk.",
+        "Siyah gerektirir oluştur merdiven önce sol kapı kullanışlı.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle lowest beyaz parça sağ kenarda dışarı beyaz kapıdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan yeni cep soy sonraki beyaz parçalar aynı çıkışa yerine dokunarak uzun kırmızı sütunlar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Bırak siyah parçalar çökert daha düşük-merkez merdiven sırasında merkez sıralar being temizlendi."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra çoğu beyazlar gitti, gönder alt siyah parçalar sol siyah kapıya ve sonra çek daha yüksek siyah kare aşağı aynı kanala."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tut kırmızı sütunlar park edildi kadar beyaz çıkış ve siyah kapı her ikisi de bitti ile onların trafik."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile running kalan uzun kırmızı sütun temizlendiden üst şerit ve dışarı sol kırmızı kapıdan."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak bir uzun kırmızı sütunlar önce siyah merdiven oluştu.",
+        "Kullanarak sağ-yan beyaz cep için kırmızı movement yerine harcayarak o başkada beyaz çıkış."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/5/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 5 Rehberi ve Çözümü",
+    "description": "Block Out seviye 5'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

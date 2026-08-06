@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-145",
+  "locale": "pt-br",
+  "levelNumber": 145,
+  "title": "Guia do nível 145 do Block Out",
+  "summary": "O nível 145 do Block Out dispõe contadores de moldura ao redor de um par rosa central `20`, com uma barra de combo inferior alternando entre `6` e `4` conforme grupos correspondentes são limpos. A barra de combo é a verdadeira restrição: deve marcar `6` antes que o par rosa se quebr...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "O nível 145 do Block Out dispõe contadores de moldura ao redor de um par rosa central `20`, com uma barra de combo inferior alternando entre `6` e `4` conforme grupos correspondentes são limpos. A barra de combo é a verdadeira restrição: deve marcar `6` antes que o par rosa se quebre, ou o primeiro combo é desperdiçado e a faixa amarela esquerda trava no lugar. Um marcador rosa de troll rastreia a zona de limpeza ativa — termine no vermelho 2×2 e azul `9` para a limpeza PERFEITA.",
+        "landmarks": [
+          "O nível 145 do Block Out dispõe contadores de moldura ao redor de um par rosa central `20`, com uma barra de combo inferior alternando entre `6` e `4` conforme grupos correspondentes são limpos.",
+          "Combo barra é real constraint: ele deve read `6` antes que rosa par quebra, ou primeiro combo desperdiça e esquerda amarelo remova cadeados em coloque.",
+          "Rosa troll marcador tracks active limpar zona — termine em vermelho 2×2 e azul `9` para Perfeito."
+        ],
+        "colors": ["pink", "red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Comece combo barra em 6 antes que quebrando centro 20/20 par.",
+        "Limpar verde L-forma antes que descascando esquerda amarelo remova acima ele.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar superior rosa cima-seta bloco e superior vermelho/amarelo fileira para comece combo barra em 6."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre centro rosa 20/20 par sem deslocando lateral amarelo empilha."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar superior azul/verde vertical colunas através esquerda 2 trilho contador."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Descasque esquerda verde L-forma e azul L-forma abaixo ele uma vez superior 6 contador solta."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar direita-lateral vermelho 2×2 bloco beside 1 label através 10 direita-trilho contador."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste inferior 9 box e 18 canto contador em restante azul recortes."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Correspondência último highlighted grupo para Perfeito limpar com pontuação de 20."
+        }
+      ],
+      "failurePoints": [
+        "Quebrando centro 20 par enquanto combo barra ainda reads 0, wasting primeiro combo.",
+        "Limpando esquerda amarelo remova antes que verde L-forma abaixo ele quebra, stranding vermelho 2×2."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 145 do Block Out",
+    "description": "Resolva o nível 145 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

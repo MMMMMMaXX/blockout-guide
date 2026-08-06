@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-81",
+  "locale": "pt-br",
+  "levelNumber": 81,
+  "title": "Guia do nível 81 do Block Out",
+  "summary": "Block Out Nível 81 empilha cheio-width colorido horizontal barras em alto, estreito tabuleiro. verde barra com contador '1' fica em superior, followed por azul, vermelho, e verde barras, então grande amarelo/laranja bloco em direita lateral. cadeado bloco w...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out Nível 81 empilha cheio-width colorido horizontal barras em alto, estreito tabuleiro. verde barra com contador '1' fica em superior, followed por azul, vermelho, e verde barras, então grande amarelo/laranja bloco em direita lateral. cadeado bloco com contador '2' saídas centro, e inferior segura pesado blocos com contadores '10' e '5'. Descasque barras de superior baixo, limpar centro cadeado, então alimente pesado inferior blocos último.",
+        "landmarks": [
+          "Block Out Nível 81 empilha cheio-width colorido horizontal barras em alto, estreito tabuleiro.",
+          "Verde barra com contador '1' fica em superior, followed por azul, vermelho, e verde barras, então grande amarelo/laranja bloco em direita lateral.",
+          "Cadeado bloco com contador '2' saídas centro, e inferior segura pesado blocos com contadores '10' e '5'.",
+          "Descasque barras de superior baixo, limpar centro cadeado, então alimente pesado inferior blocos último."
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Descasque strictly de superior baixo — cheio-width barras não pode deslize sideways.",
+        "Limpar cadeado bloco em centro antes que attempting qualquer inferior-metade barra.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize verde barra (contador '1') em superior através superior saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia azul barra abaixo ele através superior saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Puxe vermelho barra próximo, continuing superior-baixo descasque."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar cadeado bloco com contador '2' em centro-esquerda para desbloqueie inferior empilhe."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Roteie grande amarelo/laranja block out através widened mid-seção."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente inferior blocos (contadores '10' e '5') através inferior saídas."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para skip barra em empilhe — cheio-width barras bloco everything abaixo os.",
+        "Attempting inferior blocos antes que cadeado bloco é limpo, que deixa inferior metade vedado."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 81 do Block Out",
+    "description": "Resolva o nível 81 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

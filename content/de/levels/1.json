@@ -1,0 +1,98 @@
+{
+  "id": "de-level-1",
+  "locale": "de",
+  "levelNumber": 1,
+  "title": "Block Out Level 1 Lösung",
+  "summary": "Block Out Level 1 ist Drehung eines drei-Quadrat-Puzzles Puzzle. Bewegen schwarz links, heben weiß in obere rechte Ecke, schieben rot zur Seite, und dann lass weiß, schwarz und rot in dieser Reihenfolge verlassen.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "Block Out Level 1 ist Drehung eines drei-Quadrat-Puzzles Puzzle. Bewegen schwarz links, heben weiß in obere rechte Ecke, schieben rot zur Seite, und dann lass weiß, schwarz und rot in dieser Reihenfolge verlassen.",
+        "landmarks": [
+          "Block Out Level 1 ist Drehung eines drei-Quadrat-Puzzles Puzzle.",
+          "Bewegen schwarz links, heben weiß in obere rechte Ecke, schieben rot zur Seite, und dann lass weiß, schwarz und rot in dieser Reihenfolge verlassen.",
+          "Das Spielfeld mixes Rot, Weiß, Schwarz und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Verwenden obere rechte Ecke als weißes Parkplatz.",
+        "Tu nicht senden rot nach oben bis weiß hat bereits überquert links.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben schwarz Quadrat links also es sitzt direkt unter roter oberer Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Heben weiß Quadrat in obere rechte Ecke."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben rot Quadrat rechts in mittlere-rechte Bahn."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Fallen lassen schwarz Quadrat runter linke Seite bis es reaches untere Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Bewegen weiß Quadrat über oben und hinausführen es hinaus durch weißer Ausgang auf linke Wand."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Schieben schwarz Quadrat rechts onto schwarzer unterer Ausgang."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch moving rot Quadrat links unter roter Ausgang und sending es hoch."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu anheben rot Quadrat bevor weiß Quadrat hat überquert oben Reihe.",
+        "Leaving schwarz in obere rechte Ecke stattdessen von verwendend es zu öffnen linke Spalte."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 1 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 1 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

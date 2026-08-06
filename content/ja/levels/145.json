@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-145",
+  "locale": "ja",
+  "levelNumber": 145,
+  "title": "ブロックアウト レベル145 攻略",
+  "summary": "ブロックアウト レベル145は、中央のピンクの「20」のペアの周りに枠カウンターを重ね、底部のコンボバーが一致したグループが消えるごとに「6」と「4」を交互に示します。コンボバーが本当の制約で、ピンクのペアが壊れる前に「6」を読む必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/145/",
+        "layout": "ブロックアウト レベル145は、中央のピンクの「20」のペアの周りに枠カウンターを重ね、底部のコンボバーが一致したグループが消えるごとに「6」と「4」を交互に示します。コンボバーが本当の制約で、ピンクのペアが壊れる前に「6」を読む必要があります—そうでないと最初のコンボが無駄になり、左の黄の帯がその場で施錠されます。ピンクのトロールマーカーがアクティブな消去ゾーンを追跡します—赤の2×2と青の「9」で終えればパーフェクトです。",
+        "landmarks": [
+          "ブロックアウト レベル 145 層 枠 カウンター 周りを 中央 ピンク `20` ペア、下 棒 間 `6`、`4` 揃った グループ 消去する.。",
+          "棒 : `6`、ピンク ペア、無駄にし、左 黄 取り除く 配置する.。",
+          "ピンク 消去する ゾーン — 終える 赤 2×2、青 `9` 完璧な.。"
+        ],
+        "colors": ["pink", "red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w8QXTYSZluM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w8QXTYSZluM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を始めて棒 6、を割りて中央 20/20 ペア.。",
+        "その上の左の黄の帯を剥がす前に、緑のＬ字型を消去します。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上 ピンク 上-矢印 ブロック、上の 赤/黄 行 始める 棒 6.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を割りて中央 ピンク 20/20 ペア ずらし 側 黄 積み.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を消去して上の 青/緑 左 2 レール カウンター.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "上部の6カウンターが落ちたら、左の緑のＬ字型とその下の青のＬ字型を剥がします。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去して右側の赤 2×2 ブロック 1 10 右-レール カウンター.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて下 9 箱、18 角 カウンター 青 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を揃えてグループ 完璧な 消去する 20.。"
+        }
+      ],
+      "failurePoints": [
+        "を割りて中央 20 ペア 棒 0、.。",
+        "消去 左 黄 取り除く、緑 Ｌ字型 下、赤 2×2.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/145/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル145 攻略と解説",
+    "description": "ブロックアウト レベル145 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

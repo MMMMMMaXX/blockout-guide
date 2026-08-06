@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-51",
+  "locale": "fr",
+  "levelNumber": 51,
+  "title": "Guide Block Out Niveau 51",
+  "summary": "Block Out Niveau 51 est built autour deux empilé barres rouge sur la gauche et cramped stationnement lot sur inférieur droit. Ouvrez la droite-côté vertical slot premier, alors utilisez que freed voie à tournez la barre cyan, jaune trays, et finally rouge...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "Block Out Niveau 51 est built autour deux empilé barres rouge sur la gauche et cramped stationnement lot sur inférieur droit. Ouvrez la droite-côté vertical slot premier, alors utilisez que freed voie à tournez la barre cyan, jaune trays, et finally les barres rouge sans trapping les colonnes violet.",
+        "landmarks": [
+          "Block Out Niveau 51 est built autour deux empilé barres rouge sur la gauche et cramped stationnement lot sur inférieur droit.",
+          "Ouvrez la droite-côté vertical slot premier, alors utilisez que freed voie à tournez la barre cyan, jaune trays, et finally les barres rouge sans trapping les colonnes violet.",
+          "Le plateau mélange rouge, vert et bleu et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "green", "blue", "violet", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si la droite-côté bleu pilier est toujours pinned à mur, la gauche stack est pas prêt yet.",
+        "Gardez les colonnes violet pour tardif cleanup donc la droite slot stays organized pendant les barres rouge tournez.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Ouvrez inférieur droit stationnement lot par shifting haut rouge pilier et bleu pilier à côté de le mur droit."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez que nouveau slot à shorten cyan centre barre et laissez inférieur gauche vert retirez breathe."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez dégagement empilé barres rouge sur la gauche seulement après la droite-côté slot peut accept returning pièces."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Alimentez jaune trays à travers le milieu une fois premier barre rouge a moved et la voie cyan est shorter."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Quittez deux colonnes violet pour tardif cleanup donc ils gardez le côté droit organized pendant la gauche stack rotates."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier jaune plateau et bleu droite-mur pièce après le centre voie est videz."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à encaissez les deux gauche-côté barres rouge avant la droite-côté stationnement lot est ouvrez.",
+        "Utilisant les colonnes violet too tôt et losing slot que la barre cyan et jaune trays toujours besoin."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 51",
+    "description": "Résolvez le niveau 51 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

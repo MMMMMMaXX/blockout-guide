@@ -1,0 +1,91 @@
+{
+  "id": "es-level-112",
+  "locale": "es",
+  "levelNumber": 112,
+  "title": "Guía de Block Out Nivel 112",
+  "summary": "Block Out nivel 112 starts con two oversized morado barras — a `7` y a `10` — ese shrink por fila y columna slides en smaller contadores mientras el tablero contracts. The solve es a slow implosion: el barras break abajo stage por stage unti...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "Block Out nivel 112 starts con two oversized morado barras — a `7` y a `10` — ese shrink por fila y columna slides en smaller contadores mientras el tablero contracts. The solve es a slow implosion: el barras break abajo stage por stage hasta solo un centro `3` zone remains. Force a perimeter slide antes the grande barras have split y the entire collapse sequence jams.",
+        "landmarks": [
+          "Block Out nivel 112 starts con two oversized morado barras — a `7` y a `10` — ese shrink por fila y columna slides en smaller contadores mientras el tablero contracts.",
+          "The solve es a slow implosion: el barras break abajo stage por stage hasta solo un centro `3` zone remains.",
+          "Force a perimeter slide antes the grande barras have split y the entire collapse sequence jams."
+        ],
+        "colors": ["morado", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The numbered tray baldosas en the inferior son finishers — sliding los early closes the verde smiley carril.",
+        "Usa the superior morado flechas a split the `7` barra lejos desde the `10` bloque antes touching el centro.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Desliza the izquierdo azul vertical columna upward a lo largo the rojo izquierdo flecha a libre the superior `7` barra."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Empuja the `7` barra rightward hasta lo splits desde the `10` bloque y el tablero superior opens en both lados."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Rotate the verde smiley barra leftward por el hueco new without touching the numbered tray baldosas (`1`, `4`, `3`)."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Colapsa the `10` barra en el centro zone using the superior morado flechas hasta el tablero shows a single `3` pocket."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Elimina la borde scattered bloques (rojo izquierdo, azul superior, verde derecho, amarillo inferior) one en a time alrededor the `3` zone."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Introduce the naranja `1` y amarillo `4` tray baldosas por the inferior flechas a finish the último perimeter clears."
+        }
+      ],
+      "failurePoints": [
+        "Desliza the inferior numbered tray baldosas (`1`, `4`, `3`) antes the `7` y `10` barras have split.",
+        "Forcing the verde smiley barra downward mientras el centro `3` pocket es todavía boxed en."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 112",
+    "description": "Resuelve Block Out nivel 112 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

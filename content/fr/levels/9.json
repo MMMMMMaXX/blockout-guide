@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-9",
+  "locale": "fr",
+  "levelNumber": 9,
+  "title": "Guide Block Out Niveau 9",
+  "summary": "Block Out Niveau 9 est twin-tour énigme avec cramped milieu notch. Dégagez la droite sortie jaune premier, donnez bleu le centre cavité, alors tournez vert, rose, et rouge horaire autour cadre.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "Block Out Niveau 9 est twin-tour énigme avec cramped milieu notch. Dégagez la droite sortie jaune premier, donnez bleu le centre cavité, alors tournez vert, rose, et rouge horaire autour cadre.",
+        "landmarks": [
+          "Block Out Niveau 9 est twin-tour énigme avec cramped milieu notch.",
+          "Dégagez la droite sortie jaune premier, donnez bleu le centre cavité, alors tournez vert, rose, et rouge horaire autour cadre.",
+          "Le plateau mélange rose, rouge et jaune et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Utilisez la droite sortie jaune à cassez symmetry.",
+        "Centre bloc bleu doit déplacez comme soon comme notch opens.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez mid-droite jaune block out à travers la porte jaune sur le mur droit."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Déplacez le centre bloc bleu dans nouveau opening donc le milieu notch est non longer blocked."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tournez inférieur droit bloc vert vers le bas et alors tirez inférieur gauche bloc bleu dans son own voie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez freed centre à shuffle les blocs rose à travers le haut et milieu rangées pendant bord compteurs shrink."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez abaissez bloc rouge settle dans le centre une fois vert et bleu sont non longer crossing il."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Économisez deux haut-coin blocs rouge jusqu'à supérieur voies sont dégagez."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par envoyant rouge paire à travers le haut sorties et letting final bloc bleu drainez à travers dernier bleu terminez."
+        }
+      ],
+      "failurePoints": [
+        "Laissant le centre bloc bleu garé après la droite sortie jaune est déjà ouvrez.",
+        "Essayant à forcez one de le haut blocs rouge avant abaissez vert et pièces bleu ont rotated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 9",
+    "description": "Résolvez le niveau 9 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

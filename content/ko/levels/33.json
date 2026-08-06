@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-33",
+  "locale": "ko",
+  "levelNumber": 33,
+  "title": "블록 아웃 레벨 33 공략",
+  "summary": "블록 아웃 레벨 33은 다이아몬드형 보드입니다. 큰 녹색 십자 블록과 빽빽한 빨간색 덩어리가 노란색, 파란색, 흰색, 검은색 조각으로 된 붐비는 가운데 벨트의 위아래에 놓여 있습니다. 다이아몬드 형태 때문에 넓은 가운데 행만이 두 큰 색상 덩어리가 지나갈 수 있는 유일한 길이므로, 벨트를 먼저 부숴야 합니다. 작은 벨트 블록을 치우고, 녹색 십자를 위쪽 출구로 빼낸 뒤, 빨간색 덩어리가 아래로 빠져나가게 하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "블록 아웃 레벨 33은 다이아몬드형 보드입니다. 큰 녹색 십자 블록과 빽빽한 빨간색 덩어리가 노란색, 파란색, 흰색, 검은색 조각으로 된 붐비는 가운데 벨트의 위아래에 놓여 있습니다. 다이아몬드 형태 때문에 넓은 가운데 행만이 두 큰 색상 덩어리가 지나갈 수 있는 유일한 길이므로, 벨트를 먼저 부숴야 합니다. 작은 벨트 블록을 치우고, 녹색 십자를 위쪽 출구로 빼낸 뒤, 빨간색 덩어리가 아래로 빠져나가게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 33은 다이아몬드형 보드입니다. 큰 녹색 십자 블록과 빽빽한 빨간색 덩어리가 노란색, 파란색, 흰색, 검은색 조각으로 된 붐비는 가운데 벨트의 위아래에 놓여 있습니다.",
+          "다이아몬드 형태 때문에 넓은 가운데 행만이 두 큰 색상 덩어리가 지나갈 수 있는 유일한 길이므로, 벨트를 먼저 부숴야 합니다.",
+          "작은 벨트 블록을 치우고, 녹색 십자를 위쪽 출구로 빼낸 뒤, 빨간색 덩어리가 아래로 빠져나가게 하세요."
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "넓은 가운데 행이 유일한 진짜 고속도로입니다 — 벨트가 아직 차지하고 있으면 어느 쐐기도 움직일 수 없습니다.",
+        "녹색이 빨간색보다 먼저 나갑니다. 녹색 십자 블록은 빨간색 덩어리가 움직이기 전에 위쪽 다이아몬드를 비워야 합니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "채널을 만들기 시작하려면 가운데 벨트에서 작은 노란색과 주황색 블록을 다이아몬드 왼쪽 가장자리로 당기세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "세로 채널을 넓히려면 중앙 오른쪽의 파란색 블록을 오른쪽 가장자리 출구 쪽으로 밀어내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "가운데 통로를 완전히 열려면 오른쪽 가장자리의 흰색 블록을 치우세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "열린 채널을 통해 녹색 십자 블록을 위로 밀어 위쪽 출구 지점으로 빼세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "녹색 블록이 사라지면 넓어진 가운데를 통해 아래쪽 섹션에서 빨간색 덩어리를 위로 움직이기 시작하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "가운데 벨트가 더 이상 막히지 않으니 빨간색 블록을 아래쪽 출구 지점으로 밀어내세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "오른쪽 아래 모서리의 남은 검은색 블록과 뒤에 남은 작은 벨트 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "벨트가 열리기 전에 녹색 십자 블록을 가운데로 밀려는 것 — 녹색 블록은 가장 큰 조각이라 완전히 비워진 통로가 필요합니다.",
+        "녹색 블록이 여전히 위쪽 다이아몬드를 차지한 채로 빨간색 덩어리를 아래쪽 출구로 움직이는 것, 그러면 두 큰 조각이 가운데 행에서 끼입니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 33 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 33을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

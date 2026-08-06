@@ -1,0 +1,92 @@
+{
+  "id": "de-level-81",
+  "locale": "de",
+  "levelNumber": 81,
+  "title": "Block Out Level 81 Lösung",
+  "summary": "Block Out Level 81 Stapel voll-width colored horizontale Balken in hoch, narrow Spielfeld. Grün bar mit Zähler '1' sitzt bei oben, followed durch blau, rot, und grün bars, dann large gelb/orange Block auf rechte Seite. Verklemmen Block w...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out Level 81 Stapel voll-width colored horizontale Balken in hoch, narrow Spielfeld. Grün bar mit Zähler '1' sitzt bei oben, followed durch blau, rot, und grün bars, dann large gelb/orange Block auf rechte Seite. Verklemmen Block mit Zähler '2' gates Mitte, und unten holds heavy Blöcke mit Zähler '10' und '5'. Abziehen bars von oben runter, räumen Mitte verklemmen, dann hinausführen heavy unten Blöcke letzte.",
+        "landmarks": [
+          "Block Out Level 81 Stapel voll-width colored horizontale Balken in hoch, narrow Spielfeld.",
+          "Grün bar mit Zähler '1' sitzt bei oben, followed durch blau, rot, und grün bars, dann large gelb/orange Block auf rechte Seite.",
+          "Verklemmen Block mit Zähler '2' gates Mitte, und unten holds heavy Blöcke mit Zähler '10' und '5'.",
+          "Abziehen bars von oben runter, räumen Mitte verklemmen, dann hinausführen heavy unten Blöcke letzte."
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abziehen strictly von oben runter — voll-width bars cannot schieben sideways.",
+        "Räumen verklemmen Block in Mitte bevor attempting irgendein untere-half bar.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben grün bar (Zähler '1') bei oben durch oben Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract blau bar unterhalb es durch oben Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Ziehen rot bar nächste, continuing oben-runter abziehen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen verklemmen Block mit Zähler '2' in Mitte-links zu unlock untere stapeln."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Ansteuern large gelb/orange Block hinaus durch widened mittlere-section."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen unten Blöcke (Zähler '10' und '5') durch unten exits."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu skip bar in stapeln — voll-width bars Block everything unterhalb sie.",
+        "Attempting unten Blöcke bevor verklemmen Block ist geräumt, welche lässt untere half sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 81 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 81 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

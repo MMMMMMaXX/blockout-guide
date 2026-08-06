@@ -1,0 +1,91 @@
+{
+  "id": "de-level-128",
+  "locale": "de",
+  "levelNumber": 128,
+  "title": "Block Out Level 128 Lösung",
+  "summary": "Block Out Level 128 fällt … lassen character Blöcke — gelb smiley face und rot heart-face Kacheln — onto frame-Zähler Spielfeld mit snowflake ice Zähler tracking remaining exits. Character Blöcke sind real objectives, nicht decoration. C...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/128/",
+        "layout": "Block Out Level 128 fällt … lassen character Blöcke — gelb smiley face und rot heart-face Kacheln — onto frame-Zähler Spielfeld mit snowflake ice Zähler tracking remaining exits. Character Blöcke sind real objectives, nicht decoration. Räumen rechts rot stapeln bevor ice Zähler beendet und smiley Block gets frozen in Platz mit kein Ausgang.",
+        "landmarks": [
+          "Block Out Level 128 fällt … lassen character Blöcke — gelb smiley face und rot heart-face Kacheln — onto frame-Zähler Spielfeld mit snowflake ice Zähler tracking remaining exits.",
+          "Character Blöcke sind real objectives, nicht decoration.",
+          "Räumen rechts rot stapeln bevor ice Zähler beendet und smiley Block gets frozen in Platz mit kein Ausgang."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan", "teal"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_nuD7bwaKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_nuD7bwaKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rot heart Block muss räumen bevor rechts rot stapeln — nicht nach.",
+        "Anschauen oben display bar: es fällt … lassen von `12` zu `9` zu `5` als du progress.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Tap orange-bordered oben `12` display bar, dann räumen links lila und rot cluster."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break blau und gelb smiley-face pair in untere Mitte bevor rechts rot stapeln verschiebt."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Pop rot heart Block auf untere linke once smiley Kacheln sind gone."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Drain hoch rechts-Seite rot Spalte while oben display still reads `9`."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend ice Zähler `18`, `5`, und `2` in Reihenfolge along rechts edge."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden remaining grün mass und untere multicolor scraps für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Draining rechts rot stapeln bevor smiley pair räumt — ice `18` Zähler stays verklemmt.",
+        "Skipping rot heart Block while chasing oben display Zähler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/128/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 128 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 128 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

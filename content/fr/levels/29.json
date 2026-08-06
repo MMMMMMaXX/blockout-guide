@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-29",
+  "locale": "fr",
+  "levelNumber": 29,
+  "title": "Guide Block Out Niveau 29",
+  "summary": "Block Out Niveau 29 est twin-boss colonne plateau. Retirez le centre rouge-noir-blanc échelle premier, abaissez côté boss colonnes second, et seulement alors tournez tardif rouge, jaune, bleu, et vert labyrinthe pièces.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "Block Out Niveau 29 est twin-boss colonne plateau. Retirez le centre rouge-noir-blanc échelle premier, abaissez côté boss colonnes second, et seulement alors tournez tardif rouge, jaune, bleu, et vert labyrinthe pièces.",
+        "landmarks": [
+          "Block Out Niveau 29 est twin-boss colonne plateau.",
+          "Retirez le centre rouge-noir-blanc échelle premier, abaissez côté boss colonnes second, et seulement alors tournez tardif rouge, jaune, bleu, et vert labyrinthe pièces.",
+          "Le plateau mélange rouge, noir et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Centre colonne est phase one.",
+        "Tardif labyrinthe seulement matters après les deux sides ont started opening.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Retirez le centre rouge-noir-blanc colonne donc les deux côté bosses commencez losing support together."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Gardez côté colonnes mostly garé pendant shared compteurs sont toujours high."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Abaissez la gauche et droite encadré bosses seulement après le centre voie est clearly thinner."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Quand bosses ouvrez, tournez tardif rouge, jaune, bleu, et vert labyrinthe pièces dans nouveau poches."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Gardez le haut compteurs falling pendant le centre est non longer mur."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Utilisez tardif vert shapes à arrêtez côté voies de refilling."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez labyrinthe après les deux côté bosses ont déjà collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à résolvez one côté boss avant le centre colonne a opened.",
+        "Ignoring tardif labyrinthe structure après côté colonnes commencez à tombe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 29",
+    "description": "Résolvez le niveau 29 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

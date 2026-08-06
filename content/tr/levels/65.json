@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-65",
+  "locale": "tr",
+  "levelNumber": 65,
+  "title": "Block Out Seviye 65 Rehberi",
+  "summary": "Block Out Seviye 65 bir Iç içe-çerçeve bulmaca ile iki visible çerçeve layers — dark dış çerçeve ve turuncu iç çerçeve — sararak core renkli bloklardır. Bloklar içeri cannot hareket ettir kadar her ikisi de çerçeveler açık. soy dış çerçeve firs...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "Block Out Seviye 65 bir Iç içe-çerçeve bulmaca ile iki visible çerçeve layers — dark dış çerçeve ve turuncu iç çerçeve — sararak core renkli bloklardır. Bloklar içeri cannot hareket ettir kadar her ikisi de çerçeveler açık. soy dış çerçeve ilk ile extracting pembe ve kırmızı kenar parçalar, sonra kır iç turuncu çerçeve serbest yeşil, mavi, mor, ve kırmızı bloklar. sarı blok ile sayaç '10' içeri iç çerçeve heaviest parça ve çıkışlar son.",
+        "landmarks": [
+          "Block Out Seviye 65 bir Iç içe-çerçeve bulmaca ile iki visible çerçeve layers — dark dış çerçeve ve turuncu iç çerçeve — sararak core renkli bloklardır.",
+          "Bloklar içeri cannot hareket ettir kadar her ikisi de çerçeveler açık.",
+          "Soy dış çerçeve ilk ile extracting pembe ve kırmızı kenar parçalar, sonra kır iç turuncu çerçeve serbest yeşil, mavi, mor, ve kırmızı bloklar.",
+          "Sarı blok ile sayaç '10' içeri iç çerçeve heaviest parça ve çıkışlar son."
+        ],
+        "colors": ["purple", "green", "blue", "red", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Değil dokun iç çerçeve kadar dış çerçeve lost enough parçalar.",
+        "Sarı '10' blok gerektirir geniş şeritler — tut çıkışlar temizle için onun uzun besle.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çek küçük pembe/macenta bloklar dış çerçeveden kenarlar yakındakiden çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract kırmızı bloklar sol yanda arasında dış ve iç çerçeveler."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Sonra dış çerçeve thins, kır iç turuncu çerçeve border serbest corea bloklar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır mor blok üst-sol iç bölge sol çıkışdan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Extract yeşil ve mavi bloklar merkezden müsait çıkışlardan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle sarı '10' blok onun çıkışdan repeatedly kadar fully temizlendi."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kalan kırmızı bloklar sağ yanda."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek zorla iç bloklar hâlâ-mühürlendi çerçeve — onlar cannot hareket ettir kadar her ikisi de layers açık.",
+        "Değil bırakarak geniş enough şeritler için sarı '10' blok, hangi causes yavaş ve dar endgame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 65 Rehberi ve Çözümü",
+    "description": "Block Out seviye 65'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-42",
+  "locale": "pt-br",
+  "levelNumber": 42,
+  "title": "Guia do nível 42 do Block Out",
+  "summary": "Block Out Nível 42 é dois-coluna ordenando quebra-cabeça com no chefes ou dispositivos. Verde, vermelho, branco, e preto blocos são empilhado em dois paralelo vertical canais separado por escuro centro divider, e cada cor deve alcance seu correspondência exi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "Block Out Nível 42 é dois-coluna ordenando quebra-cabeça com no chefes ou dispositivos. Verde, vermelho, branco, e preto blocos são empilhado em dois paralelo vertical canais separado por escuro centro divider, e cada cor deve alcance seu correspondência saída em inferior. resolva works de superior para inferior: descasque superior blocos primeiro para crie espaço, desloque branco centro blocos para enable cruz-coluna swaps, e ordene cada cor para seu saída.",
+        "landmarks": [
+          "Block Out Nível 42 é dois-coluna ordenando quebra-cabeça com no chefes ou dispositivos.",
+          "Verde, vermelho, branco, e preto blocos são empilhado em dois paralelo vertical canais separado por escuro centro divider, e cada cor deve alcance seu correspondência saída em inferior.",
+          "Resolva works de superior para inferior: descasque superior blocos primeiro para crie espaço, desloque branco centro blocos para enable cruz-coluna swaps, e ordene cada cor para seu saída."
+        ],
+        "colors": ["green", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Funciona de superior para inferior — inferior blocos não pode ordene até superior uns tem limpo seus coluna espaço.",
+        "Branco centro blocos são troque enablers, não primeiro movimentos.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque blocos de superior de um externo coluna para crie primeiro lacuna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mirror limpeza em oposto coluna para mantenha tabuleiro balanced."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque branco centro blocos para enable cruz-coluna movement."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Ordene vermelho blocos em direção a vermelho inferior saída e verde blocos em direção a verde saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Continue working de superior para inferior, limpando cada cor camada em gire."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Mantenha centro divider abra para final cruz-coluna swaps."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último blocos uma vez ambos colunas são sorted para seus saídas."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para use centro branco blocos antes que externo colunas tem thinned — cruz-coluna swaps precisa espaço que único exists depois superior camadas são peeled.",
+        "Working inferior blocos antes que superior é limpo, que entrava colunas porque there é no vertical espaço para ordene."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 42 do Block Out",
+    "description": "Resolva o nível 42 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

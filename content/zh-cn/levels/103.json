@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-103",
+  "locale": "zh-cn",
+  "levelNumber": 103,
+  "title": "Block Out 第103关攻略",
+  "summary": "Block Out 第103关用带计数的方块填满网格——顶部是「11」「19」「14」，左侧轨道是一条紫色「10」条——把每一行都变成计数拼图。左侧轨道上匹配的「10」方块必须先排空，宽条才能移动，底部紫色托盘计数器记录剩余放置次数。陷阱是上方的「19」方块：它看似紧急，却必须等轨道清空。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out 第103关用带计数的方块填满网格——顶部是「11」「19」「14」，左侧轨道是一条紫色「10」条——把每一行都变成计数拼图。左侧轨道上匹配的「10」方块必须先排空，宽条才能移动，底部紫色托盘计数器记录剩余放置次数。陷阱是上方的「19」方块：它看似紧急，却必须等轨道清空。",
+        "landmarks": [
+          "Block Out 第103关用带计数的方块填满网格——顶部是「11」「19」「14」，左侧轨道是一条紫色「10」条——把每一行都变成计数拼图。",
+          "左侧轨道上匹配的「10」方块必须先排空，宽条才能移动，底部紫色托盘计数器记录剩余放置次数。",
+          "陷阱是上方的「19」方块：它看似紧急，却必须等轨道清空。"
+        ],
+        "colors": ["purple", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在碰下方紫色「19」条之前，先清空每一个左侧轨道「10」方块。",
+        "顶行消失后，上方紫色「4」条就能移动——不必等整个中心簇先清空。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将顶行的浅蓝「11」「19」「14」方块经上部出口清空。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在碰中心簇之前，将左侧轨道的蓝色「10」堆叠自上而下剥离。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "顶行和左轨道打开后，将上方紫色「4」条向左滑动。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "拆散中心的粉/绿/黄单块，打开中列。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将橙色十字和剩余的青色「10」方块移入侧通道。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "左轨道清空后，将下方紫色「19」条经底部出口释放。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "用最后的绿色簇和底部托盘通过，关闭计数「6」。"
+        }
+      ],
+      "failurePoints": [
+        "在左侧轨道「10」堆叠消失之前就试图滑动下方紫色「19」条。",
+        "在顶行数字仍挡住上部出口时，过早清空中心橙色十字。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第103关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第103关。"
+  },
+  "updatedAt": "2026-08-03"
+}

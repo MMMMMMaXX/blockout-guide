@@ -1,0 +1,91 @@
+{
+  "id": "de-level-105",
+  "locale": "de",
+  "levelNumber": 105,
+  "title": "Block Out Level 105 Lösung",
+  "summary": "Block Out Level 105 wraps polyomino bricks around glowing lila 2×2 Quadrat und gives du exactly one shot zu break durch — rot demolition bar auf rechte Wand. Spend dass bar auf falsch cluster und lila Quadrat stays trapp...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "Block Out Level 105 wraps polyomino bricks around glowing lila 2×2 Quadrat und gives du exactly one shot zu break durch — rot demolition bar auf rechte Wand. Spend dass bar auf falsch cluster und lila Quadrat stays eingesperrt forever. Lösen ist packing extraction: räumen oben Zähler und gelb 2×2 erste, dann aim rot bar bei obere rot cluster zu freigeben Ausgang Pfad.",
+        "landmarks": [
+          "Block Out Level 105 wraps polyomino bricks around glowing lila 2×2 Quadrat und gives du exactly one shot zu break durch — rot demolition bar auf rechte Wand.",
+          "Spend dass bar auf falsch cluster und lila Quadrat stays eingesperrt forever.",
+          "Lösen ist packing extraction: räumen oben Zähler und gelb 2×2 erste, dann aim rot bar bei obere rot cluster zu freigeben Ausgang Pfad."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Fire rot demolition bar bei starten — es nur arbeitet once.",
+        "Bewegen gelb 2x2 hinaus bevor Versuchen zu Ausgang lila `1` Quadrat.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Trigger rot rechts-Wand bar zu break obere rot cluster bevor irgendein andere Züge."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben links lila L-Bauteil nach oben zu öffnen Platz around Mitte gelb 2x2."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Bewegen grün L auf rechte Seite runter also lila `1` Quadrat hat räumen untere Bahn."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verschieben gelb 2x2 hinaus durch oben exits zu unbox lila `1` Quadrat."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Senden lila `1` Quadrat hinaus durch unten Ausgang zu satisfy oben Zähler."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen remaining blau horizontal Bauteil und pink cluster zu beenden oben `2` Zähler."
+        }
+      ],
+      "failurePoints": [
+        "Spending rot demolition bar auf unten pink cluster stattdessen von obere rot one.",
+        "Versuchen zu schieben lila `1` Quadrat bevor gelb 2x2 neben es hat geräumt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 105 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 105 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

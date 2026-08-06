@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-137",
+  "locale": "tr",
+  "levelNumber": 137,
+  "title": "Block Out Seviye 137 Rehberi",
+  "summary": "Block Out Seviye 137 anchors üç fixed parçalar — turuncu-çerçeveli `6`, mor `8` anahtar, ve camgöbeği `10` kanca — Lde-şekilli tahta, sonra dolur kalan alan ile camgöbeği `5` karolar. sonra üst kırmızı sıra temizlenir, onlar karolar ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/137/",
+        "layout": "Block Out Seviye 137 anchors üç fixed parçalar — turuncu-çerçeveli `6`, mor `8` anahtar, ve camgöbeği `10` kanca — Lde-şekilli tahta, sonra dolur kalan alan ile camgöbeği `5` karolar. sonra üst kırmızı sıra temizlenir, onlar karolar sadece movable sayaçlar, ve tahta becomes pure yönlendirerek bulmaca: geçir her bir past fixed anchors çıkışa olmadan jamming L's dar köşe.",
+        "landmarks": [
+          "Block Out Seviye 137 anchors üç fixed parçalar — turuncu-çerçeveli `6`, mor `8` anahtar, ve camgöbeği `10` kanca — Lde-şekilli tahta, sonra dolur kalan alan ile camgöbeği `5` karolar.",
+          "Sonra üst kırmızı sıra temizlenir, onlar karolar sadece movable sayaçlar, ve tahta becomes pure yönlendirerek bulmaca: geçir her bir past fixed anchors çıkışa olmadan jamming L's dar köşe.",
+          "Tahta mor, camgöbeği, turuncu ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "cyan", "orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ymCjrSF_byY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ymCjrSF_byY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır camgöbeği 10 kanca sadece sonra 6 karo pops — doing o ilk seals sağ-yan 5 şerit.",
+        "Sakla yeşil 4 sol sütun kadar tüm üç sağ-yan camgöbeği 5 bloklar açığa çıktı.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Pop üst-sol mor 8 karo ve turuncu-çerçeveli 6 blok olmadan bölerek camgöbeği 10 kanca sağda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle rainbow istifler yeşil sol çubukdan aşağı doğru, tutarak lowest camgöbeği 10 çift mühürlendi sağ flankda."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır camgöbeği 10 kanca sonra istifler düşer ikiye sıralar, besleyerek parçalar alta-sağ köşe."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır üst camgöbeği 3 çubuk sola doğru sonra her ikisi de 10 karolar temizle, açığa çıkararak sağ-yan camgöbeği 5 küme."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca üç camgöbeği 5 bloklar sağ flankda yeşil 4 sol sütun."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kalan kırmızı ve mor artıklar aşağı alt-sol turuncu ok için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Breaking camgöbeği 10 kanca önce 6 karo pops, permanently mühürleyerek sağ-yan 5 şerit.",
+        "Kaydırarak yeşil 4 sütun önce sağ camgöbeği 5 küme temizlenir, stranding kırmızı taban artıklar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/137/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 137 Rehberi ve Çözümü",
+    "description": "Block Out seviye 137'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-82",
+  "locale": "tr",
+  "levelNumber": 82,
+  "title": "Block Out Seviye 82 Rehberi",
+  "summary": "Block Out Seviye 82 dolur tahta ile numaralı bloklar ranging sayaçdan '1' '11', plus kilitlen-ve-anahtar bloklar ki kapı extraction sequence. neredeyse every blok sayaç. temizle lightest sayaçlar ilk (1, 2, 3) açık le...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/82/",
+        "layout": "Block Out Seviye 82 dolur tahta ile numaralı bloklar ranging sayaçdan '1' '11', plus kilitlen-ve-anahtar bloklar ki kapı extraction sequence. neredeyse every blok sayaç. temizle lightest sayaçlar ilk (1, 2, 3) açık şeritlere, çalış medium sayaçlar (4, 5) sonraki, ve sakla heavy bloklar (sayaçlar '9' ve '11' sol yanda) için son ne zaman tahta çoğu alan.",
+        "landmarks": [
+          "Block Out Seviye 82 dolur tahta ile numaralı bloklar ranging sayaçdan '1' '11', plus kilitlen-ve-anahtar bloklar ki kapı extraction sequence.",
+          "Neredeyse every blok sayaç.",
+          "Temizle lightest sayaçlar ilk (1, 2, 3) açık şeritlere, çalış medium sayaçlar (4, 5) sonraki, ve sakla heavy bloklar (sayaçlar '9' ve '11' sol yanda) için son ne zaman tahta çoğu alan."
+        ],
+        "colors": ["green", "cyan", "purple", "yellow", "pink", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vRKw0-ZPyAk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vRKw0-ZPyAk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Her zaman temizle lowest-sayaç bloklar ilk — her bir açılır şeritler için sonraki.",
+        "Eşleştir kilitlen-ve-anahtar bloklar erken kilidini aç gated bölümler.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle sarı blok (sayaç '1') merkezde açık ortaya."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract sayaç '2' blok altda alt çıkışdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Çalış yeşil blok (sayaç '3') merkez-sağ sağ çıkışdan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kilitlen bloklar ile eşleştirerek onları ile onların keys kilidini aç gated bölümler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle mor blok (sayaç '4') ve yeşil blok (sayaç '5') onların çıkışlardan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Yönlendir heavy bloklar (sayaçlar '9' ve '11') solda widenedden şeritler son."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek besle high-sayaç blok önce lighter bloklar açıldı şeritler — o sıkışır immediately.",
+        "Ignoring kilitlen-ve-anahtar sequence, bırakarak gated bloklar inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/82/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 82 Rehberi ve Çözümü",
+    "description": "Block Out seviye 82'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

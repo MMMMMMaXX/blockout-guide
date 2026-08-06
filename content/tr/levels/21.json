@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-21",
+  "locale": "tr",
+  "levelNumber": 21,
+  "title": "Block Out Seviye 21 Rehberi",
+  "summary": "Block Out Seviye 21 bir Üçlü-ana blok merdivendır. Kır çerçeveli `9` panel ilk, çöz colorful orta sök saniye, ve sadece sonra başla küçülerek daha düşük `16` ve `18` paneller.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "Block Out Seviye 21 bir Üçlü-ana blok merdivendır. Kır çerçeveli `9` panel ilk, çöz colorful orta sök saniye, ve sadece sonra başla küçülerek daha düşük `16` ve `18` paneller.",
+        "landmarks": [
+          "Block Out Seviye 21 bir Üçlü-ana blok merdivendır.",
+          "Kır çerçeveli `9` panel ilk, çöz colorful orta sök saniye, ve sadece sonra başla küçülerek daha düşük `16` ve `18` paneller.",
+          "Tahta mavi, sarı, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çöz çerçeveli `9` ilk.",
+        "Daha düşük `16` ve `18` values aşama iki ve aşama üç.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çalış üst sayaçlar ve temizle üst renk bant böylece çerçeveli `9` panel açığa çıktı."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Düşür `9` panel önce dokunarak daha düşük ana bloklar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan serbest bırakıldı orta koridor döndür pembe, yeşil, ve mavi çubuklar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla küçülerek daha düşük `16` panel sonra merkez hayır daha uzun sıkıştırılmış."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak `18` panel başla düşerek sadece sonra `16` çerçeve zaten açıldı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sakla zemin yeşil çıkış için geç temizlik ne zaman daha düşük paneller ince."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kalan uzun renk çubuklar sonra her ikisi de alt ana bloklar çöktü."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek küçülte daha düşük çerçeveli values sırasında üst `9` hâlâ alive.",
+        "Bırakarak orta sök sıkıştırılmış sonra üst ana blok açıldı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 21 Rehberi ve Çözümü",
+    "description": "Block Out seviye 21'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

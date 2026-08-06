@@ -1,0 +1,93 @@
+{
+  "id": "de-level-88",
+  "locale": "de",
+  "levelNumber": 88,
+  "title": "Block Out Level 88 Lösung",
+  "summary": "Block Out Level 88 ist hourglass Spielfeld mit blau Mitte spine, rot zigzag hanging unter es, und abgeglichen lila verklemmen pods auf beide Seite walls. Starten auf obere rechte stapeln, räumen Seite verklemmt nächste, und nur dann fallen lassen orange b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out Level 88 ist hourglass Spielfeld mit blau Mitte spine, rot zigzag hanging unter es, und abgeglichen lila verklemmen pods auf beide Seite walls. Starten auf obere rechte stapeln, räumen Seite verklemmt nächste, und nur dann fallen lassen orange beam und Mitte spine durch throat in untere basin.",
+        "landmarks": [
+          "Block Out Level 88 ist hourglass Spielfeld mit blau Mitte spine, rot zigzag hanging unter es, und abgeglichen lila verklemmen pods auf beide Seite walls.",
+          "Starten auf obere rechte stapeln, räumen Seite verklemmt nächste, und nur dann fallen lassen orange beam und Mitte spine durch throat in untere basin.",
+          "Das Spielfeld mixes Grün, Rot, Orange und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tu nicht starten von unten basin. Dieses Spielfeld öffnet von neck nach unten.",
+        "Wenn one verklemmen pod ist still auf Wand, blau spine ist nicht ready zu fallen lassen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Trim obere rechte stapeln erste also rechte Wand öffnet und sein outer count startet dropping."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden dass new Raum zu freigeben rechts lila verklemmen pod, dann räumen abgleichend verklemmen pod auf linke Wand."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben long orange beam über throat nur nach blau Mitte spine hat one freigeben Seite."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Fallen lassen blau spine und rot zigzag durch neck in untere basin."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen untere linke orange runway und opposite orange tray once Mitte Bauteile sind hinaus von way."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte lila elbow plus obere linke grün-und-gelb Bauteile durch geöffnet Seite lanes."
+        }
+      ],
+      "failurePoints": [
+        "Eröffnungs- auf unten orange trays bevor obere rechte stapeln und beide Seite verklemmt haben geöffnet neck.",
+        "Moving orange beam while blau Mitte spine ist still pinned auf beide sides."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 88 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 88 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

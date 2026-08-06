@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-90",
+  "locale": "tr",
+  "levelNumber": 90,
+  "title": "Block Out Seviye 90 Rehberi",
+  "summary": "Block Out Seviye 90 açık-tepşi tahta inşa edildi birden shared merkez well. temizle ilk sarı şekiller olmadan mühürleyerek ki orta alan, sonra bırak kırmızı raf, yeşil merdiven, ve later sarı bloklar döndür aynı openiden...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "Block Out Seviye 90 açık-tepşi tahta inşa edildi birden shared merkez well. temizle ilk sarı şekiller olmadan mühürleyerek ki orta alan, sonra bırak kırmızı raf, yeşil merdiven, ve later sarı bloklar döndür aynı açarak kadardan arena boşalır.",
+        "landmarks": [
+          "Block Out Seviye 90 açık-tepşi tahta inşa edildi birden shared merkez well.",
+          "Temizle ilk sarı şekiller olmadan mühürleyerek ki orta alan, sonra bırak kırmızı raf, yeşil merdiven, ve later sarı bloklar döndür aynı açarak kadardan arena boşalır.",
+          "Tahta sarı, turuncu, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["yellow", "orange", "red", "green", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat orta tepşi like reserved airspace. değil park et parçalar orada.",
+        "Yan kilitlenir matter sadece ne zaman sen bırak trafik bunch yukarı sonraki onları.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Hareket ettir üst sarı L-şekil dışarı ilk böylece üst yarı arena açılır."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle daha düşük-sol yeşil kare ve ilk sarı kare olmadan doldurarak merkez well."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Ne zaman kırmızı raf appears ortada, döndür o açık merkez yerineden sabitleyerek o yana duvar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak yeşil merdiven ve mavi foot-şekilli parçalar geç orta bir timede sırasında yan çıkışlar kal temizle."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sakla bulkier sarı şekiller için sonra kırmızı ve yeşil trafik thinned."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son kırmızı L-parça ve kalan sarı bloklar sonra orta tepşi boş again."
+        }
+      ],
+      "failurePoints": [
+        "Stuffing parçalar daha düşük köşelere ve kapatarak merkez well.",
+        "Treating Seviye 90 like kanal bulmaca yerine açık-tepşi dönüş tahta."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 90 Rehberi ve Çözümü",
+    "description": "Block Out seviye 90'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-147",
+  "locale": "ja",
+  "levelNumber": 147,
+  "title": "ブロックアウト レベル147 攻略",
+  "summary": "ブロックアウト レベル147は101〜150の範囲で最も長い解法です—高い左の「1」保管庫と独立した右の「13」ポケットを持つ二部屋の列シフターです。底部の発射ピースが狭い通路を通して上部グリッドへ供給します。黄の枠線の青の列は…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/147/",
+        "layout": "ブロックアウト レベル147は101〜150の範囲で最も長い解法です—高い左の「1」保管庫と独立した右の「13」ポケットを持つ二部屋の列シフターです。底部の発射ピースが狭い通路を通して上部グリッドへ供給します。左の黄の枠線の青の列は、紫の「2」タイルと水平な赤のバーが中央を片付けるまで立ったままにしておく必要があります—そうでないと保管庫の供給通路が崩れます。",
+        "landmarks": [
+          "ブロックアウト レベル 147 101–150 — -部屋 列 左 `1`、分離する 右 `13` 空きマス.。",
+          "下 通す 上の レーン.。",
+          "黄- 青 列 左 残す、紫 `2` タイル、赤 棒 消去する 中央、' 通す レーン .。"
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "orange", "green", "cyan", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9uAtDrUE4V0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9uAtDrUE4V0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を割りて12、動かし 下 青-台座 .。",
+        "を維持して13 空きマス、左 1 部屋 通す.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて下 黄 Ｌ字型 左 シアン 台座 始める 開始 左 1 部屋 ずらし 13 空きマス.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "オレンジのを通して/青/黄/赤 塊 上へ 下 左 矢印、左 部屋 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "オレンジのを割りて- 12 四角 右 部屋、左の列 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄のを消去して- 青 列 左、12 タイル .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "紫のを揃えて2 タイル (オレンジ ) 黄 3 上 緑 矢印 ブロック.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて下 黄 — ピンク 台座、2×2 青 台座 — 中央の赤 棒.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を通して緑 上-矢印 出口 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "青-台座 黄 2×2、12、緑のを塞ぎて上-矢印 レーン.。",
+        "開始 13 空きマス、左 1 部屋、中央の赤 棒.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/147/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル147 攻略と解説",
+    "description": "ブロックアウト レベル147 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

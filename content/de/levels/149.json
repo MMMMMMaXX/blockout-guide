@@ -1,0 +1,96 @@
+{
+  "id": "de-level-149",
+  "locale": "de",
+  "levelNumber": 149,
+  "title": "Block Out Level 149 Lösung",
+  "summary": "Block Out Level 149 ist Super schwer four-quadrant Puzzle mit unten micro-Block tray und Seite rails bei `27`/`30`. Jede quadrant hat sein own Zähler dass shrinks independently als tray Bauteile verklemmen in. Links `20` quadrant führt hinaus erste,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/149/",
+        "layout": "Block Out Level 149 ist Super schwer four-quadrant Puzzle mit unten micro-Block tray und Seite rails bei `27`/`30`. Jede quadrant hat sein own Zähler dass shrinks independently als tray Bauteile verklemmen in. Links `20` quadrant führt hinaus erste, aber türkis `1` anchor und blau vertikal `6` Block guard Mitte — break anchor too früh und `6` drifts in rechts pocket, jamming two quadrants bei once.",
+        "landmarks": [
+          "Block Out Level 149 ist Super schwer four-quadrant Puzzle mit unten micro-Block tray und Seite rails bei `27`/`30`.",
+          "Jede quadrant hat sein own Zähler dass shrinks independently als tray Bauteile verklemmen in.",
+          "Links `20` quadrant führt hinaus erste, aber türkis `1` anchor und blau vertikal `6` Block guard Mitte — break anchor too früh und `6` drifts in rechts pocket, jamming two quadrants bei once."
+        ],
+        "colors": ["purple", "green", "blue", "yellow", "red", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tASeXYR8PkQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tASeXYR8PkQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break gelb polyomino bevor moving lila rechts-entfernen.",
+        "Behalten türkis 1 anchor intact bis links rail fällt … lassen von 27 zu 25.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Ziehen unten grün vertikal Bauteil von tray in links 20 quadrant verwendend grün links-Pfeil."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break türkis 1 Kachel in Mitte cluster ohne splitting rot floor bar."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen blau/gelb scraps in rechts 23 quadrant once links rail fällt … lassen von 27 zu 25."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Spend unten tray Reihe — grün, blau, gelb, lila — zu fallen lassen frame zu 18/21/2/10."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Break gelb polyomino in Mitte nach 2 und 10 unten Zähler räumen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen blau vertikal 6 Block zu öffnen rechts 10 pocket."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ansteuern letzte lila entfernen durch rot rechts-Pfeil Bahn für glowing Mitte räumen."
+        }
+      ],
+      "failurePoints": [
+        "Sliding lila rechts-entfernen bevor gelb polyomino breaks, sealing rot rechts-Pfeil Bahn.",
+        "Splitting rot floor bar while türkis 1 Kachel ist still verklemmt, wasting erste tray hinausführen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/149/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 149 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 149 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

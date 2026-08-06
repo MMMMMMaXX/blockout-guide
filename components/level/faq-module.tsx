@@ -20,7 +20,9 @@ export function FaqModule({ levelNumber, boosterUsage }: FaqModuleProps) {
     <section className="content-panel detail-faq">
       <p className="eyebrow">{t.levelDetail.faq}</p>
       <details>
-        <summary>{interpolate(t.levelDetail.faqBoardDiffersQuestion, { level: levelNumber })}</summary>
+        <summary>
+          {interpolate(t.levelDetail.faqBoardDiffersQuestion, { level: levelNumber })}
+        </summary>
         <p>{t.levelDetail.faqBoardDiffersAnswer}</p>
       </details>
       <details>

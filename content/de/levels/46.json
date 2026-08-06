@@ -1,0 +1,98 @@
+{
+  "id": "de-level-46",
+  "locale": "de",
+  "levelNumber": 46,
+  "title": "Block Out Level 46 Lösung",
+  "summary": "Block Out Level 46 hat three Boss chambers über obere half — two smaller ones bei `3` jede und larger one bei `10` — alle sitting über packed untere chamber von rot, blau, grün, gelb, und orange Blöcke. Drain untere Blöcke fi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out Level 46 hat three Boss chambers über obere half — two smaller ones bei `3` jede und larger one bei `10` — alle sitting über packed untere chamber von rot, blau, grün, gelb, und orange Blöcke. Drain untere Blöcke erste zu let two `3` chambers collapse quickly, dann verwenden freigegeben obere Platz für longer `10` reduction.",
+        "landmarks": [
+          "Block Out Level 46 hat three Boss chambers über obere half — two smaller ones bei `3` jede und larger one bei `10` — alle sitting über packed untere chamber von rot, blau, grün, gelb, und orange Blöcke.",
+          "Drain untere Blöcke erste zu let two `3` chambers collapse quickly, dann verwenden freigegeben obere Platz für longer `10` reduction.",
+          "Das Spielfeld mixes Rot, Blau, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Two `3` chambers sind fast wins — wenn sie sind still hoch when du starten `10`, du sind working falsch part von das Spielfeld.",
+        "Drain untere colored Blöcke bevor irgendein Boss chamber.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Thin untere colored Blöcke toward unten exits zu starten reducing alle three Boss Zähler."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Let two `3`-count chambers collapse als untere Platz öffnet."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten `10` chamber geparkt bis `3`s sind beide gone."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden freigegeben obere Platz zu accelerate `10` reduction."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Sort remaining colored Blöcke durch Seite exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen spät rot, blau, und gelb Bauteile von untere chamber."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte chamber fragments und Seite cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort zwischen alle three chambers von starten — `10` needs far mehr Raum als `3`s, also schnell wins sollte go erste.",
+        "Nicht draining untere colored Blöcke bevor attacking Boss chambers, welche lässt kein Raum für Bosse zu collapse in."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 46 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 46 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

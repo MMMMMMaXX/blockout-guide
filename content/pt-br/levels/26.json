@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-26",
+  "locale": "pt-br",
+  "levelNumber": 26,
+  "title": "Guia do nível 26 do Block Out",
+  "summary": "Block Out Nível 26 é bridge-e-chefe tabuleiro. Escoe superior câmara em `18` garganta primeiro, inferior bridge segundo, e único então deixe enorme inferior `21` chefe comece colapsando.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "Block Out Nível 26 é bridge-e-chefe tabuleiro. Escoe superior câmara em `18` garganta primeiro, inferior bridge segundo, e único então deixe enorme inferior `21` chefe comece colapsando.",
+        "landmarks": [
+          "Block Out Nível 26 é bridge-e-chefe tabuleiro.",
+          "Escoe superior câmara em `18` garganta primeiro, inferior bridge segundo, e único então deixe enorme inferior `21` chefe comece colapsando.",
+          "Tabuleiro mistura Rosa, Verde, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`18` garganta abre nível.",
+        "Inferior `21` painel é segundo-fase alvo.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente superior câmara em central `18` garganta e comece lowering seu contagem."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha shaving lateral contadores em superior espaço enquanto inferior `21` painel permanece untouched."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use branco-e-preto bloqueadores em superior espaço para mantenha bridge de refilling."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez `18` pista é much inferior, abra passage em inferior câmara."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Comece encolhendo `21` chefe único depois bridge é no mais longo cheio."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gire tarde roxo e vermelho peças uma vez inferior espaço tem actual espaço."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último superior leftovers depois inferior chefe tem já fallen."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para funciona inferior chefe antes que bridge tem aberto.",
+        "Deixando superior câmara refill `18` garganta depois ele tem já started soltando."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 26 do Block Out",
+    "description": "Resolva o nível 26 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

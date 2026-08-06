@@ -1,0 +1,98 @@
+{
+  "id": "de-level-6",
+  "locale": "de",
+  "levelNumber": 6,
+  "title": "Block Out Level 6 Lösung",
+  "summary": "Block Out Level 6 ist erste staged-Ausgang Spielfeld. Collapse rechts-Seite quota erste, behalten beide oben `9` caps shrinking together, und aufsparen rot und gelb beenden bars für moment oben gates thaw.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "Block Out Level 6 ist erste staged-Ausgang Spielfeld. Collapse rechts-Seite quota erste, behalten beide oben `9` caps shrinking together, und aufsparen rot und gelb beenden bars für moment oben gates thaw.",
+        "landmarks": [
+          "Block Out Level 6 ist erste staged-Ausgang Spielfeld.",
+          "Collapse rechts-Seite quota erste, behalten beide oben `9` caps shrinking together, und aufsparen rot und gelb beenden bars für moment oben gates thaw.",
+          "Das Spielfeld mixes Rot, Gelb, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rechts-Seite `4` Zähler ist erste Ziel.",
+        "Behalten untere rot und gelb bars idle bis Seite Bahn öffnet.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben obere rechte weiß stapeln in oben-rechte Bahn also es kann starten hitting rechts-Seite quota Spalte."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden Mitte weiß bridge zu behalten feeding rechts-Seite Zähler bis es fällt … lassen von `4` toward `1`."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Drehen oben schwarz Blockierer und obere weiß Blöcke durch two `9` Zähler also beide oben caps behalten shrinking together."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Lassen untere rot entfernen und untere rechte gelb entfernen geparkt while checkerboard Mitte ist still doing quota arbeiten."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once rechte Wand öffnet in weiß freigeben Bahn, abziehen letzte obere weiß Block hinaus und beenden oben countdown."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "When frozen caps convert in colored exits, senden gelb entfernen zu obere rechte Ausgang."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch running letzte rot entfernen zu obere linke roter Ausgang."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu spend untere rot oder gelb bars bevor rechts-Seite Zähler hat fast collapsed.",
+        "Nur shrinking one von oben `9` caps und leaving andere one frozen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 6 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 6 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

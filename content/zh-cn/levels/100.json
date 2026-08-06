@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-100",
+  "locale": "zh-cn",
+  "levelNumber": 100,
+  "title": "Block Out 第100关攻略",
+  "summary": "Block Out 第100关是一个围绕单个移动空位建造的短环形旋转棋盘。先打开左侧，把空隙追到右上角，然后利用清空的中列将最后的绿色板从顶部和右侧出口冲出。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out 第100关是一个围绕单个移动空位建造的短环形旋转棋盘。先打开左侧，把空隙追到右上角，然后利用清空的中列将最后的绿色板从顶部和右侧出口冲出。",
+        "landmarks": [
+          "Block Out 第100关是一个围绕单个移动空位建造的短环形旋转棋盘。",
+          "先打开左侧，把空隙追到右上角，然后利用清空的中列将最后的绿色板从顶部和右侧出口冲出。",
+          "棋盘混合了绿色、黄色、橙色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "让空位保持移动。如果它过早埋在中间，环形会停滞。",
+        "在尝试处理中上方绿色板之前，右上角应该已经打开。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "利用环形左侧的小空隙开始旋转。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "移动顶行板，让空位进入右上角。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "一旦右上角清空，就打开中列。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "中列通道一打开，就立刻将中上方的绿色板经顶部出口送出。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "接着清空右侧的绿色板，再沿环形输送剩余的黄色板。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "中心清空后，用最后的绿色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在空位旋转到右上角之前，就把板落进中间。",
+        "在中列真正打开之前就试图清空中上方的绿色板。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第100关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第100关。"
+  },
+  "updatedAt": "2026-08-03"
+}

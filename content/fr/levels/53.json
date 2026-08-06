@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-53",
+  "locale": "fr",
+  "levelNumber": 53,
+  "title": "Guide Block Out Niveau 53",
+  "summary": "Block Out Niveau 53 packs dense grille avec numéroté blocs bleu à le haut (compteurs '6', '4', '7', '9'), rose centre bloc acting comme pivot, et rouge/orange/blocs bleu filling abaissez rangées. chokepoint est rose centre bloc —...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "Block Out Niveau 53 packs dense grille avec numéroté blocs bleu à le haut (compteurs '6', '4', '7', '9'), rose centre bloc acting comme pivot, et rouge/orange/blocs bleu filling abaissez rangées. chokepoint est rose centre bloc — il splits plateau dans half. Dégagez le bas premier, déplacez le bloc rose tôt à ouvrez le milieu, alors work blocs numérotés hors à travers leur portes.",
+        "landmarks": [
+          "Block Out Niveau 53 packs dense grille avec numéroté blocs bleu à le haut (compteurs '6', '4', '7', '9'), rose centre bloc acting comme pivot, et rouge/orange/blocs bleu filling abaissez rangées.",
+          "Chokepoint est rose centre bloc — il splits plateau dans half.",
+          "Dégagez le bas premier, déplacez le bloc rose tôt à ouvrez le milieu, alors work blocs numérotés hors à travers leur portes."
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rose centre bloc est pivot. Déplacez il comme soon comme le bas est dégagez — il unlocks les deux supérieur et abaissez sections.",
+        "Numéroté blocs bleu à le haut besoin multiple porte passes. Dégagez les dans ordre de smallest compteur à largest.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez rouge horizontal bloc à le bas par sliding il vers la sortie droite."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs orange sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez rose centre bloc — ce est clé pivot que opens access à les deux supérieur et abaissez sections."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez les blocs jaune dans le centre à travers la sortie gauche maintenant que le bloc rose est gone."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Commencez exiting numéroté blocs bleu à le haut à travers leur correspondant portes, de départ avec '6' blocs sur la gauche."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez restant violet et blocs bleu sur la droite à travers la sortie droite."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier blocs numérotés et un restant pièces."
+        }
+      ],
+      "failurePoints": [
+        "Laissant rose centre bloc dans placez too long — il splits plateau et prevents les deux moitiés de progressing.",
+        "Essayant à sortie numéroté blocs bleu avant le bas rangées sont dégagez, qui jams chemin."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 53",
+    "description": "Résolvez le niveau 53 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-50",
+  "locale": "tr",
+  "levelNumber": 50,
+  "title": "Block Out Seviye 50 Anlatımı",
+  "summary": "Blok Out Level 50 is the directional slider finale — no bosslar, no sayaçlar, no cihazlar. Tall ok bloklar packed içine three sütunlar can only kaydır in the yön their ok points: blue ve yellow çubuklar go up, green bloklar go down, r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Blok Out Level 50 is the directional slider finale — no bosslar, no sayaçlar, no cihazlar. Tall ok bloklar packed içine three sütunlar can only kaydır in the yön their ok points: blue ve yellow çubuklar go up, green bloklar go down, red çubuklar go sola or sağa, ve purple iticiler doldur the kenarlar. The solve is about rota order: free one dikey şerit first, use the red yatay çubuklar as trafik denetleyiciler (not engeller), ve save the green ve purple parçalar for after the big çubuklar have temizlendi.",
+        "landmarks": [
+          "Blok Out Level 50 is the directional slider finale — no bosslar, no sayaçlar, no cihazlar.",
+          "Tall ok bloklar packed içine three sütunlar can only kaydır in the yön their ok points: blue ve yellow çubuklar go up, green bloklar go down, red çubuklar go sola or sağa, ve purple iticiler doldur the kenarlar.",
+          "The solve is about rota order: free one dikey şerit first, use the red yatay çubuklar as trafik denetleyiciler (not engeller), ve save the green ve purple parçalar for after the big çubuklar have temizlendi."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The red yatay çubuklar are trafik denetleyiciler, not engeller — keep one in reserve until the verticals are mostly gone.",
+        "Free one long dikey şerit first. Do not temizle both red çubuklar immediately.",
+        "Think in chain temizler. The best hareket is the one that sets up the next two hareketler, not just the quickest current eşleştir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Free the first long dikey şerit by kaydıran one blue or yellow çubuk up ve out."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Use that opened şerit to shift another yellow or blue ok blok out of the yığın."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Keep the sağa side from overfilling while the first red yatay çubuk kaydırır out."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Open the second long şerit only after the first side is calmer."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Serbest bırak the green down-ok bloklar after the dikey engelleyiciler are thinner."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Use the purple push bloklar late, once the big çubuklar are already gone."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Finish with the last red or green parça after the room is mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Removing both red yatay çubuklar before the dikey şeritler are ready — this removes your trafik control ve the sağa side overfills.",
+        "Trying to kaydır a green down-ok blok before the dikey çubuklar above it have temizlendi, which jams the sütun."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 50 Anlatımı ve Çözümü",
+    "description": "Block Out seviye 50'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-149",
+  "locale": "fr",
+  "levelNumber": 149,
+  "title": "Guide Block Out Niveau 149",
+  "summary": "Block Out Niveau 149 est Super Hard four-quadrant énigme avec bas micro-bloc plateau et côté rails à `27`/`30`. Chaque quadrant a son own compteur que shrinks independently comme plateau pièces verrou dans. gauche `20` quadrant feeds premier,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/149/",
+        "layout": "Block Out Niveau 149 est Super Hard four-quadrant énigme avec bas micro-bloc plateau et côté rails à `27`/`30`. Chaque quadrant a son own compteur que shrinks independently comme plateau pièces verrou dans. gauche `20` quadrant feeds premier, mais cyan `1` ancrez et bleu vertical `6` bloc guard le centre — cassez ancrez too tôt et `6` drifts dans la droite poche, jamming deux quadrants à une fois.",
+        "landmarks": [
+          "Block Out Niveau 149 est Super Hard four-quadrant énigme avec bas micro-bloc plateau et côté rails à `27`/`30`.",
+          "Chaque quadrant a son own compteur que shrinks independently comme plateau pièces verrou dans.",
+          "Gauche `20` quadrant feeds premier, mais cyan `1` ancrez et bleu vertical `6` bloc guard le centre — cassez ancrez too tôt et `6` drifts dans la droite poche, jamming deux quadrants à une fois."
+        ],
+        "colors": ["violet", "green", "blue", "yellow", "red", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tASeXYR8PkQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tASeXYR8PkQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez jaune polyomino avant déplaçant violet droite-retirez.",
+        "Gardez cyan 1 ancrez intact jusqu'à la gauche rail tombent de 27 à 25.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tirez le bas vert vertical pièce de plateau dans la gauche 20 quadrant utilisant vert gauche-arrow."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez cyan 1 tuile dans le centre amas sans splitting rouge floor barre."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez bleu/jaune scraps dans la droite 23 quadrant une fois la gauche rail tombent de 27 à 25."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dépensez le bas plateau rangée — vert, bleu, jaune, violet — à laissez tomber cadre à 18/21/2/10."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Cassez jaune polyomino dans le centre après 2 et 10 bas compteurs dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez bleu vertical 6 bloc à ouvrez la droite 10 poche."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Acheminez dernier violet retirez à travers rouge droite-arrow voie pour glowing centre dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Sliding violet droite-retirez avant jaune polyomino breaks, sealing rouge droite-arrow voie.",
+        "Splitting rouge floor barre pendant cyan 1 tuile est toujours verrouillé, wasting premier plateau alimentez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/149/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 149",
+    "description": "Résolvez le niveau 149 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

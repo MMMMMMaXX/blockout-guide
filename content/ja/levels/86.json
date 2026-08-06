@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-86",
+  "locale": "ja",
+  "levelNumber": 86,
+  "title": "ブロックアウト レベル86 攻略",
+  "summary": "ブロックアウト レベル86は、Ｃ字型の盤面での素早いコンパクトなパズルです。上部に幅広い赤ブロック、中央左に南京錠「3」の緑ブロック、中央にオレンジと青ブロックが詰まり、右側には高い紫の縦列が走っています…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/86/",
+        "layout": "ブロックアウト レベル86は、Ｃ字型の盤面での素早いコンパクトなパズルです。上部に幅広い赤ブロック、中央左に南京錠「3」の緑ブロック、中央にオレンジと青ブロックが詰まり、右側には高い紫の縦列が走っています。まず3つのブロック（青・オレンジ・赤）を消去して緑の南京錠を外し、次に紫の縦列を底部の出口から通します。",
+        "landmarks": [
+          "ブロックアウト レベル 86、- .。",
+          "赤 ブロック 上、緑 ブロック 錠 `3` 配置し 中央-左、オレンジ、青 満たす 中央の、紫 列 下 右側.。",
+          "緑錠を解放して消去 (青、オレンジ、赤)、通す 紫 列 下 出口.。"
+        ],
+        "colors": ["blue", "red", "orange", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2yiC7K-KBXU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2yiC7K-KBXU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青のを消去して、オレンジ、赤 ( ) 解放する 緑 錠 `3` 手順 .。",
+        "紫 列 右 必要とし 下 行 — 消去する 黄、.。",
+        "レベル 39 秒 — 手順、を計画して、開始.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を押して青 ブロック 中央 上へ 上 出口 — 消去する の方へ 緑 錠 (02:57 動画).。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "オレンジ鍵をスライドさせてブロック 左 左-壁 出口 — 消去する、鍵 出口 (02:55).。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を押して赤 ブロック 上 上へ 上 出口 — 消去する、緑 錠 `3` (02:52).。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して解放し 緑 ブロック 左-壁 出口 スライドさせる 左 (02:49).。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "黄のを消去して下 下-矢印 出口 開く レーン 紫 列 (02:46).。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して紫 列 右 下へ 下 出口 — 塊、通し (02:43–02:34).。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて緑 下 (02:31–02:25).。"
+        }
+      ],
+      "failurePoints": [
+        "手順 緑 錠 `3` ブロック、消去 —、手順 39- タイマー.。",
+        "黄のを残して下 紫 列 — 列 通す、-通す.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/86/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル86 攻略と解説",
+    "description": "ブロックアウト レベル86 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

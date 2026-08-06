@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-33",
+  "locale": "tr",
+  "levelNumber": 33,
+  "title": "Block Out Seviye 33 Rehberi",
+  "summary": "Block Out Seviye 33 bir Diamond-şekilli tahta nere büyük yeşil geç-blok ve sıkışık kırmızı kütle otur üstünde ve altında kalabalık orta kemer sarı, mavi, beyaz, ve siyah parçalardır. Diamond şekil yapar geniş merkez sıra sadece pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "Block Out Seviye 33 bir Diamond-şekilli tahta nere büyük yeşil geç-blok ve sıkışık kırmızı kütle otur üstünde ve altında kalabalık orta kemer sarı, mavi, beyaz, ve siyah parçalardır. Diamond şekil yapar geniş merkez sıra sadece yol büyük enough için iki büyük renk masses ilerlee , böylece kemer meli kırıldı açık ilk. temizle küçük kemer bloklar, gönder yeşil geç dışarı üst çıkışdan, sonra bırak kırmızı kütle boşalt altdan.",
+        "landmarks": [
+          "Block Out Seviye 33 bir Diamond-şekilli tahta nere büyük yeşil geç-blok ve sıkışık kırmızı kütle otur üstünde ve altında kalabalık orta kemer sarı, mavi, beyaz, ve siyah parçalardır.",
+          "Diamond şekil yapar geniş merkez sıra sadece yol büyük enough için iki büyük renk masses ilerlee , böylece kemer meli kırıldı açık ilk.",
+          "Temizle küçük kemer bloklar, gönder yeşil geç dışarı üst çıkışdan, sonra bırak kırmızı kütle boşalt altdan."
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Geniş orta sıra sadece gerçek highway — eğer kemer hâlâ occupied, neither kamala ebilir hareket ettir.",
+        "Yeşil bırakır önce kırmızı. yeşil geç-blok gerektirir vacatea üst diamond önce kırmızı kütle ebilir başla hareket ettirerek.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çek küçük sarı ve turuncu bloklar orta kemerden sol kenara diamond başla oluşturarak kanal."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır mavi bloklar merkezde-sağ sağa-kenar çıkış genişlete dikey kanal kemerden."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle beyaz bloklar sağ kenardan fullya açık orta passage."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kaydır yeşil geç-blok yukarı doğru açıldıdan kanal ve dışarı üst çıkış nokta."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra yeşil blok gitti, başla hareket ettirerek kırmızı kütle yukarı doğru daha düşük bölümden widenedden merkez."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kırmızı bloklar alt çıkışdan nokta şimdi ki merkez kemer hayır daha uzun clogged."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile kalan siyah bloklar altda-sağ köşe ve any küçük kemer parçalar sol ."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek it yeşil geç-blok orta önceden kemer açık — yeşil blok en büyük parça ve gerektirir fully temizlendi kanal.",
+        "Hareket ettirerek kırmızı kütle alt çıkışa sırasında yeşil blok hâlâ occupying üst diamond, hangi sıkışır her ikisi de büyük parçalar merkez sırada."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 33 Rehberi ve Çözümü",
+    "description": "Block Out seviye 33'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-112",
+  "locale": "fr",
+  "levelNumber": 112,
+  "title": "Guide Block Out Niveau 112",
+  "summary": "Block Out Niveau 112 starts avec deux oversized barres violet — `7` et `10` — que shrink à travers rangée et colonne slides dans smaller compteurs comme plateau contracts. résolvez est slow implosion: barres cassez bas stage par stage unti...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "Block Out Niveau 112 starts avec deux oversized barres violet — `7` et `10` — que shrink à travers rangée et colonne slides dans smaller compteurs comme plateau contracts. résolvez est slow implosion: barres cassez bas stage par stage jusqu'à seulement centre `3` zone remains. Forcez perimeter glissez avant big barres ont split et entire effondrez sequence jams.",
+        "landmarks": [
+          "Block Out Niveau 112 starts avec deux oversized barres violet — `7` et `10` — que shrink à travers rangée et colonne slides dans smaller compteurs comme plateau contracts.",
+          "Résolvez est slow implosion: barres cassez bas stage par stage jusqu'à seulement centre `3` zone remains.",
+          "Forcez perimeter glissez avant big barres ont split et entire effondrez sequence jams."
+        ],
+        "colors": ["violet", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Numéroté plateau tuiles à le bas sont finishers — sliding les tôt closes vert smiley voie.",
+        "Utilisez le haut violet arrows à split `7` barre loin de `10` bloc avant touching le centre.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez la gauche bleu vertical colonne vers le haut le long de rouge gauche arrow à libérez le haut `7` barre."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Poussez `7` barre rightward jusqu'à il splits de `10` bloc et supérieur plateau opens sur les deux sides."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tournez vert smiley barre leftward à travers nouveau gap sans touching numéroté plateau tuiles (`1`, `4`, `3`)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Effondrez `10` barre dans le centre zone utilisant le haut violet arrows jusqu'à plateau montre single `3` poche."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez scattered bord blocs (rouge gauche, bleu haut, vert droite, jaune bas) one à time autour `3` zone."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez orange `1` et jaune `4` plateau tuiles à travers le bas arrows à terminez dernier perimeter dégage."
+        }
+      ],
+      "failurePoints": [
+        "Sliding le bas numéroté plateau tuiles (`1`, `4`, `3`) avant `7` et `10` barres ont split.",
+        "Forcing vert smiley barre vers le bas pendant le centre `3` poche est toujours boxed dans."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 112",
+    "description": "Résolvez le niveau 112 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

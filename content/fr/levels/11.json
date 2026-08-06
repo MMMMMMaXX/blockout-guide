@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-11",
+  "locale": "fr",
+  "levelNumber": 11,
+  "title": "Guide Block Out Niveau 11",
+  "summary": "Block Out Niveau 11 est countdown-mur énigme. Grind bas haut droite colonne cyan premier, retirez le centre blocker colonne dans il, et économisez la gauche rose et vert capuchons jusqu'à mur est dans single digits.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "Block Out Niveau 11 est countdown-mur énigme. Grind bas haut droite colonne cyan premier, retirez le centre blocker colonne dans il, et économisez la gauche rose et vert capuchons jusqu'à mur est dans single digits.",
+        "landmarks": [
+          "Block Out Niveau 11 est countdown-mur énigme.",
+          "Grind bas haut droite colonne cyan premier, retirez le centre blocker colonne dans il, et économisez la gauche rose et vert capuchons jusqu'à mur est dans single digits.",
+          "Le plateau mélange rose, vert et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["pink", "green", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Droite colonne cyan est main objectif à commencez.",
+        "Rose et vert sont tardif movers.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Utilisez supérieur noir-et-blocs blanc à commencez hitting la droite countdown mur et bring `16` stack bas."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Gardez feeding le centre blocker colonne rightward pendant côté compteurs sur la gauche aussi tick abaissez."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Quittez le haut barre rose et les deux barres vert garé jusqu'à le mur droit a dropped dans single digits."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Quand colonne est mostly gone, glissez le haut barre vert dans le haut terminez et dégagez supérieur voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tournez abaissez barre vert à travers floor une fois noir base a opened."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Économisez la barre rose pour tardif cleanup après les pièces vert ont déjà gauche."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier noir et blanc leftovers quand countdown mur est presque videz."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant rose capuchon avant le centre colonne a done most de countdown work.",
+        "Seulement working petit gauche compteurs et ignoring big mur droit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 11",
+    "description": "Résolvez le niveau 11 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

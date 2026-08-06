@@ -1,0 +1,101 @@
+{
+  "id": "zh-cn-level-96",
+  "locale": "zh-cn",
+  "levelNumber": 96,
+  "title": "Block Out 第96关攻略",
+  "summary": "Block Out 第96关是一个纯粹的密集拼图——没有室，没有边框，只有铺满墙到墙、大小不一的彩色方块。一个计数「12」的高大红色方块像墙一样把中心分开，两个大号紫色方块（计数「9」和「5」）主导右半部分，左半部分填满橙/绿方块。先清空小计数「1」边缘方块腾出空间……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "Block Out 第96关是一个纯粹的密集拼图——没有室，没有边框，只有铺满墙到墙、大小不一的彩色方块。一个计数「12」的高大红色方块像墙一样把中心分开，两个大号紫色方块（计数「9」和「5」）主导右半部分，左半部分填满橙/绿方块。先清空小计数「1」边缘方块腾出空间，解锁带门的绿色「3」方块，再将大块经最近的出口送出。",
+        "landmarks": [
+          "Block Out 第96关是一个纯粹的密集拼图——没有室，没有边框，只有铺满墙到墙、大小不一的彩色方块。",
+          "一个计数「12」的高大红色方块像墙一样把中心分开，两个大号紫色方块（计数「9」和「5」）主导右半部分，左半部分填满橙/绿方块。",
+          "先清空小计数「1」边缘方块腾出空间，解锁带门的绿色「3」方块，再将大块经最近的出口送出。"
+        ],
+        "colors": ["red", "blue", "green", "purple", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先清空小计数「1」边缘方块——每一个都为大块腾出移动空间。",
+        "早点通过移除其黄色钥匙来解锁绿色「3」方块——它把守着左侧路径。",
+        "高大红色「12」方块像墙一样分隔棋盘——在开始输送它之前先清空其两侧。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "清空边缘的小计数「1」方块：橙色向上（顶部出口），黄色「1」向右（右墙出口），青色「1」向下（底部出口）——每一个都腾出空间（02:54–02:48）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将中心附近的黄色钥匙方块经右出口推出，解锁带门的绿色「3」方块（02:42）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始将上方紫色「9」方块经右墙出口输送——九次通过（02:42–02:30）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "门已打开，将已解锁的绿色「3」方块经左墙出口清空（02:30）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "开始将高大红色「12」方块经左墙出口输送——十二次通过，保持左通道无碎片（02:25–02:13）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将下方紫色「5」方块经右下部墙出口输送——五次通过（02:13–02:07）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "棋盘打开后，将剩余的橙、黄、蓝方块经最近的出口清空（02:07–02:01）。"
+        },
+        {
+          "order": 8,
+          "title": "第8步",
+          "instruction": "棋盘基本打开后，用底部最后的方块收尾（01:56）。"
+        }
+      ],
+      "failurePoints": [
+        "在清空左侧小碎片之前就开始输送高大红色「12」方块——它会中途卡住，并把身后的橙绿方块困住。",
+        "早期忽视上锁绿色「3」方块的钥匙——钥匙方块必须先出口，绿色方块才能移动，留到后面会造成瓶颈。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第96关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第96关。"
+  },
+  "updatedAt": "2026-08-03"
+}

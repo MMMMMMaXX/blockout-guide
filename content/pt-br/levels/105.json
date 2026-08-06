@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-105",
+  "locale": "pt-br",
+  "levelNumber": 105,
+  "title": "Guia do nível 105 do Block Out",
+  "summary": "Block Out Nível 105 wraps poliminó tijolos ao redor glowing roxo 2×2 quadrado e dá você exactly um shot para quebre através — vermelho demolition barra em direita parede. Gaste que barra em errado aglomerado e roxo quadrado permanece trapp...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "Block Out Nível 105 wraps poliminó tijolos ao redor glowing roxo 2×2 quadrado e dá você exactly um shot para quebre através — vermelho demolition barra em direita parede. Gaste que barra em errado aglomerado e roxo quadrado permanece preso forever. resolva é empacotando extraction: limpar superior contadores e amarelo 2×2 primeiro, então aim vermelho barra em superior vermelho aglomerado para livre saída caminho.",
+        "landmarks": [
+          "Block Out Nível 105 wraps poliminó tijolos ao redor glowing roxo 2×2 quadrado e dá você exactly um shot para quebre através — vermelho demolition barra em direita parede.",
+          "Gaste que barra em errado aglomerado e roxo quadrado permanece preso forever.",
+          "Resolva é empacotando extraction: limpar superior contadores e amarelo 2×2 primeiro, então aim vermelho barra em superior vermelho aglomerado para livre saída caminho."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Fire vermelho demolition barra em comece — ele único works uma vez.",
+        "Mova amarelo 2x2 para fora antes que tentando para saída roxo `1` quadrado.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Trigger vermelho direita-parede barra para quebre superior vermelho aglomerado antes que qualquer outro movimentos."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize esquerda roxo L-peça para cima para abra espaço ao redor centro amarelo 2x2."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova verde L em direita lateral baixo so roxo `1` quadrado tem limpar inferior pista."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Desloque amarelo 2x2 para fora através superior saídas para unbox roxo `1` quadrado."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Envie roxo `1` quadrado para fora através inferior saída para satisfy superior contador."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar restante azul horizontal peça e rosa aglomerado para termine superior `2` contador."
+        }
+      ],
+      "failurePoints": [
+        "Gastando vermelho demolition barra em inferior rosa aglomerado em vez de superior vermelho um.",
+        "Tentando para deslize roxo `1` quadrado antes que amarelo 2x2 beside ele tem limpo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 105 do Block Out",
+    "description": "Resolva o nível 105 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

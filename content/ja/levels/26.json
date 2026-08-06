@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-26",
+  "locale": "ja",
+  "levelNumber": 26,
+  "title": "ブロックアウト レベル26 攻略",
+  "summary": "ブロックアウト レベル26は、橋とボスの盤面です。まず上部の部屋を「18」の入り口へ排出し、次に橋を下げ、それからでのみ巨大な下部の「21」ボスを崩れ始めさせます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "ブロックアウト レベル26は、橋とボスの盤面です。まず上部の部屋を「18」の入り口へ排出し、次に橋を下げ、それからでのみ巨大な下部の「21」ボスを崩れ始めさせます。",
+        "landmarks": [
+          "ブロックアウト レベル 26 - -ボス .。",
+          "を排出して上の 部屋 `18` 入り口、を下げて、を出して下の `21` ボス 始める .。",
+          "混ぜる ピンク、緑、白、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`18` 入り口 レベル.。",
+        "下の `21` パネル - 目標.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を通して上の 部屋 中央の `18` 入り口、を始めて.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を維持して側 カウンター 上 下の `21` パネル 残し .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "白のを使いて- -黒 ブロッカー 上 維持する .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "`18` レーン 下の、を開きて下の 部屋.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を始めて縮め `21` ボス、混雑した.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を回転させて紫、赤、下 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて上の、下の ボス .。"
+        }
+      ],
+      "failurePoints": ["進める 下の ボス、開き.。", "上の 部屋 `18` 入り口、始め .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル26 攻略と解説",
+    "description": "ブロックアウト レベル26 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

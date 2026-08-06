@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-111",
+  "locale": "ja",
+  "levelNumber": 111,
+  "title": "ブロックアウト レベル111 攻略",
+  "summary": "ブロックアウト レベル111は、黄の下矢印タイルを通る1つの縦の落下通路を共有する2つの紫枠の部屋を積み重ねています。右側のコンボ列は9から0へ数え、連続消去を追跡します。上部の盤面は十分に薄くなる必要が…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "ブロックアウト レベル111は、黄の下矢印タイルを通る1つの縦の落下通路を共有する2つの紫枠の部屋を積み重ねています。右側のコンボ列は9から0へ数え、連続消去を追跡します。上部の盤面は赤のＬ字型ピースが動けるほど十分に薄くなる必要があります—そうでないと黄の矢印通路を塞ぎ、下部の「14」カウンターが落ち始めることはありません。",
+        "landmarks": [
+          "ブロックアウト レベル 111 積み 紫- 部屋 落とす レーン 黄 下-矢印 タイル.。",
+          "右-側 列 9 下 0、.。",
+          "上の 赤の字型-ピース 手順 — 黄 矢印 レーン、下の `14` カウンター .。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "黄 下-矢印 - 出口 — 配置する 上の 赤の字型-ピース .。",
+        "紫のを剥がして左に、横切る- ブロック、下部の黄 Ｌ字型 右へ.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を取り除きて上 オレンジ 棒、左 紫 列 上の 部屋 開く 上 `2`/`3` 行.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして中央 青 塊 下へ 黄 下-矢印 タイル.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をずらして上の 赤の字型-ピース 右へ、黄 矢印 レーン 残し 開く 下の 部屋.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を落として消去し 上の 黄 矢印 下の、左 横切る- ブロック .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "をスライドさせて下部の黄 Ｌ字型 右へ、青 `15` 側 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて下の-、紫 下 棒 カウンター `14`.。"
+        }
+      ],
+      "failurePoints": [
+        "上の 赤の字型-ピース 黄 下-矢印、下の `14` 通す.。",
+        "動かし 下部の黄 Ｌ字型、上の 消去し 周りを 矢印 レーン.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル111 攻略と解説",
+    "description": "ブロックアウト レベル111 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

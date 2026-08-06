@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-129",
+  "locale": "tr",
+  "levelNumber": 129,
+  "title": "Block Out Seviye 129 Rehberi",
+  "summary": "Block Out Seviye 129 bir Süper zor iki-aşama bulmaca — ilk yarı container-besle packing tahta, saniye yarı transforms kırmızı geçe kaydırarak steppedden mor duvar segmentsdır. Boş üst container sırasında onun sayaç...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/129/",
+        "layout": "Block Out Seviye 129 bir Süper zor iki-aşama bulmaca — ilk yarı container-besle packing tahta, saniye yarı transforms kırmızı geçe kaydırarak steppedden mor duvar segmentsdır. Boş üst container sırasında onun sayaç düşer `4`, sonra navigate kırmızı geç increasinglyden dar boşluklar. zorla camgöbeği `2` karo erken ve o pins geç duvara mid-kaydır.",
+        "landmarks": [
+          "Block Out Seviye 129 bir Süper zor iki-aşama bulmaca — ilk yarı container-besle packing tahta, saniye yarı transforms kırmızı geçe kaydırarak steppedden mor duvar segmentsdır.",
+          "Boş üst container sırasında onun sayaç düşer `4`, sonra navigate kırmızı geç increasinglyden dar boşluklar.",
+          "Zorla camgöbeği `2` karo erken ve o pins geç duvara mid-kaydır."
+        ],
+        "colors": ["purple", "blue", "red", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Qhu6W_7y5o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Qhu6W_7y5o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Every container sayaç meli hit zero önce kırmızı geç aşama başlar.",
+        "Camgöbeği `2` karo farda sağ tuzağa düşür eğer hareket ettirildi önce kırmızı küme temizlenir.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle sol mor `5` sütun ve mavi `8` blok olmadan jamming daha düşük `5` container."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Besle eşleştirerek alt-ızgara renkler daha düşük turuncu-çerçeveli `5` yuva, sonra çalış üst `21` container."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır kırmızı/sarı/yeşil mid-ızgara kümeler sonra sağ-ray `3` sayaçlar ince."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle sıkışık multicolor orta aşama önce tahta açılır geç bulmaca."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır kırmızı plus parça past üst stepped mor duvar, sonra past daha düşük mor çıkıntı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Düşür kırmızı geç alt kırmızı oka indicator için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Başlayarak kırmızı geç aşama sırasında üst container hâlâ gösterir numara — stepped duvarlar kal kilitlendi.",
+        "Hareket ettirerek camgöbeği `2` karo önce kırmızı küme sağ temizlendide."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/129/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 129 Rehberi ve Çözümü",
+    "description": "Block Out seviye 129'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

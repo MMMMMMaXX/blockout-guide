@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-60",
+  "locale": "zh-cn",
+  "levelNumber": 60,
+  "title": "Block Out 第60关攻略",
+  "summary": "Block Out 第60关在一个5×7的网格中填满了绿色、蓝色、红色、绿色、蓝色方块的循环图案，顶部是橙色。密集的排布意味着每一列都必须从下往上清空——先清绿色底座，再向上处理蓝色……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/60/",
+        "layout": "Block Out 第60关在一个5×7的网格中填满了绿色、蓝色、红色、绿色、蓝色方块的循环图案，顶部是橙色。密集的排布意味着每一列都必须从下往上清空——先清绿色底座，再向上处理蓝色和红色方块，最后清顶部的橙色行。",
+        "landmarks": [
+          "Block Out 第60关在一个5×7的网格中填满了绿色、蓝色、红色、绿色、蓝色方块的循环图案，顶部是橙色。",
+          "密集的排布意味着每一列都必须从下往上清空——先清绿色底座，再向上处理蓝色和红色方块，最后清顶部的橙色行。",
+          "棋盘混合了绿色、蓝色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["green", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "8E5AVCrvykM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=8E5AVCrvykM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在每一列内从下往上按颜色清除——不要跳步，否则方块会被卡住。",
+        "绿色底座必须先清空。没有它，上方的蓝色和红色方块就没有滑动空间。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部的绿色方块移向左边出口，打通底座。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将下层的蓝色方块从右出口移出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将中间几行的红色方块从右出口清空。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将中上层的绿色方块从左出口移出。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "开始将上层的蓝色方块从右出口清空。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后从顶部出口清空顶部的橙色方块。"
+        }
+      ],
+      "failurePoints": [
+        "在下方绿色方块还没清掉之前就清蓝色方块，导致绿色被卡住，没有滑动路径。",
+        "在中间几行打开之前就试图清空顶部橙色行，导致棋盘堵塞。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/60/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第60关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第60关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-39",
+  "locale": "fr",
+  "levelNumber": 39,
+  "title": "Guide Block Out Niveau 39",
+  "summary": "Block Out Niveau 39 est étiqueté 'Super Hard' et est premier triple-boss plateau dans Block Out. layout est 2×2 grille: supérieur gauche boss `14`, supérieur droit boss `21`, inférieur droit boss `4`, et packed couleur mix dans inférieur gauche. `4` bo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "Block Out Niveau 39 est étiqueté 'Super Hard' et est premier triple-boss plateau dans Block Out. layout est 2×2 grille: supérieur gauche boss `14`, supérieur droit boss `21`, inférieur droit boss `4`, et packed couleur mix dans inférieur gauche. `4` boss opens abaissez half, blocs colorés drainez suivant, alors `14` tombe avant `21`. Chaque phase depends sur one avant il, et ordering est absolute.",
+        "landmarks": [
+          "Block Out Niveau 39 est étiqueté 'Super Hard' et est premier triple-boss plateau dans Block Out.",
+          "Layout est 2×2 grille: supérieur gauche boss `14`, supérieur droit boss `21`, inférieur droit boss `4`, et packed couleur mix dans inférieur gauche.",
+          "`4` boss opens abaissez half, blocs colorés drainez suivant, alors `14` tombe avant `21`.",
+          "Chaque phase depends sur one avant il, et ordering est absolute."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Check inférieur droit `4` compteur avant touching anything au-dessus il — si il est toujours alive, neither supérieur boss peut déplacez.",
+        "Cascade est strict: `4` → couleurs → `14` → `21`. Non shortcuts.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Work blocs autour inférieur droit `4` chambre premier — décalez adjacent blocs colorés vers le bas sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Amincissez blocs colorés dans inférieur gauche quadrant (vert, jaune, bleu, rouge, violet) à create salle pour `4` boss à effondrez."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Une fois `4` compteur tombent à zero (autour 01:47), utilisez freed inférieur droit espace à accelerate couleur drainez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez supérieur gauche `14` boss seulement après abaissez half est mostly ouvrez — regardez son compteur laissez tomber à travers `10`."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Gardez supérieur droit `21` boss garé pendant `14` est toujours falling."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Laissez `21` boss commencez son descent seulement après `14` chambre a fully emptied et supérieur toit est lighter."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier blocs colorés et côté compteurs après all trois bosses sont gone."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort entre all trois bosses de commencez — none atteint critical threshold, et plateau stalls parce que non single chambre obtient assez salle.",
+        "Attempting à reduce `21` boss avant `14` a collapsed, qui wastes limited supérieur salle sur larger compteur."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 39",
+    "description": "Résolvez le niveau 39 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

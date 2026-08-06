@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-51",
+  "locale": "pt-br",
+  "levelNumber": 51,
+  "title": "Guia do nível 51 do Block Out",
+  "summary": "Block Out Nível 51 é construído ao redor dois empilhado vermelho barras em esquerda e apertado parking lot em inferior-direita. Abra direita-lateral vertical fenda primeiro, então use que liberado pista para gire ciano barra, amarelo trays, e finalmente vermelho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "Block Out Nível 51 é construído ao redor dois empilhado vermelho barras em esquerda e apertado parking lot em inferior-direita. Abra direita-lateral vertical fenda primeiro, então use que liberado pista para gire ciano barra, amarelo trays, e finalmente vermelho barras sem prendendo roxo colunas.",
+        "landmarks": [
+          "Block Out Nível 51 é construído ao redor dois empilhado vermelho barras em esquerda e apertado parking lot em inferior-direita.",
+          "Abra direita-lateral vertical fenda primeiro, então use que liberado pista para gire ciano barra, amarelo trays, e finalmente vermelho barras sem prendendo roxo colunas.",
+          "Tabuleiro mistura Vermelho, Verde, Azul e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Se direita-lateral azul pilar é ainda pinned para parede, esquerda empilhe é não ready yet.",
+        "Mantenha roxo colunas para tarde limpeza so direita fenda permanece organized enquanto vermelho barras gire.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Abra inferior-direita parking lot por deslocando alto vermelho pilar e azul pilar beside direita parede."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use que novo fenda para shorten ciano centro barra e deixe inferior-esquerda verde remova breathe."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece limpando empilhado vermelho barras em esquerda único depois direita-lateral fenda pode accept returning peças."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente amarelo trays através meio uma vez primeiro vermelho barra tem movido e ciano pista é shorter."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe dois roxo colunas para tarde limpeza so eles mantenha direita lateral organized enquanto esquerda empilhe gira."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último amarelo bandeja e azul direita-parede peça depois centro pista é vazio."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para dinheiro ambos esquerda-lateral vermelho barras antes que direita-lateral parking lot é abra.",
+        "Usando roxo colunas também cedo e perdendo fenda que ciano barra e amarelo trays ainda precisa."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 51 do Block Out",
+    "description": "Resolva o nível 51 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

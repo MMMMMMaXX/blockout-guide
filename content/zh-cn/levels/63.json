@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-63",
+  "locale": "zh-cn",
+  "levelNumber": 63,
+  "title": "Block Out 第63关攻略",
+  "summary": "Block Out 第63关棋盘上塞满了超大号积木方块——L 形、竖长方形和大正方形——彼此交错，计数数字最高达 11。开局策略是边缘剥离：从右上抽出绿色方块，从左上抽出黄色「11」方块。边缘变薄后，交错的中心（红色正方形、蓝色 L 形、紫色方块）才能被分开。右侧的蓝色 L 形块需要最大的空间，通常最后离开。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "Block Out 第63关棋盘上塞满了超大号积木方块——L 形、竖长方形和大正方形——彼此交错，计数数字最高达 11。开局策略是边缘剥离：从右上抽出绿色方块，从左上抽出黄色「11」方块。边缘变薄后，交错的中心（红色正方形、蓝色 L 形、紫色方块）才能被分开。右侧的蓝色 L 形块需要最大的空间，通常最后离开。",
+        "landmarks": [
+          "Block Out 第63关棋盘上塞满了超大号积木方块——L 形、竖长方形和大正方形——彼此交错，计数数字最高达 11。",
+          "开局策略是边缘剥离：从右上抽出绿色方块，从左上抽出黄色「11」方块。",
+          "边缘变薄后，交错的中心（红色正方形、蓝色 L 形、紫色方块）才能被分开。",
+          "右侧的蓝色 L 形块需要最大的空间，通常最后离开。"
+        ],
+        "colors": ["yellow", "green", "red", "blue", "orange", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在动中心之前一定要先削薄边缘——中心一步走错就会锁死棋盘。",
+        "右侧的蓝色 L 形块需要最大的空间，应当最后离开。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将右上角的绿色方块从顶部出口拉出。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将黄色「11」方块向左滑向其出口，腾出左上角。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "一旦上角打开，将左边缘的橙色方块向下移。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "等边缘空间足够后，从中心偏左抽出红色正方形。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将右侧的蓝色 L 形块运送出去——它需要最大的空间。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "中心打开后，用剩余的紫色和青色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在边缘削薄之前就移动中心方块——交错方块会立刻卡死。",
+        "在没有足够垂直和水平空间时，过早抽取蓝色 L 形块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第63关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第63关。"
+  },
+  "updatedAt": "2026-08-03"
+}

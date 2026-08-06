@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-124",
+  "locale": "fr",
+  "levelNumber": 124,
+  "title": "Guide Block Out Niveau 124",
+  "summary": "Block Out Niveau 124 est Hard polyomino labyrinthe où vert snake chemin et violet winding shape form one-chemin voies à travers grille. rouge `32` étoile bloc et cyan poche sont main objectives, mais snake et winding shapes dicta...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/124/",
+        "layout": "Block Out Niveau 124 est Hard polyomino labyrinthe où vert snake chemin et violet winding shape form one-chemin voies à travers grille. rouge `32` étoile bloc et cyan poche sont main objectives, mais snake et winding shapes dictate extraction ordre — glissez les hors de sequence et grille sceaux, trapping numéroté étoile blocs avec non voie arrière.",
+        "landmarks": [
+          "Block Out Niveau 124 est Hard polyomino labyrinthe où vert snake chemin et violet winding shape form one-chemin voies à travers grille.",
+          "Rouge `32` étoile bloc et cyan poche sont main objectives, mais snake et winding shapes dictate extraction ordre — glissez les hors de sequence et grille sceaux, trapping numéroté étoile blocs avec non voie arrière.",
+          "Le plateau mélange rouge, bleu et cyan et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "blue", "cyan", "green", "orange", "yellow", "violet", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "K4yNR5TX9yc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=K4yNR5TX9yc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drainez cyan `1`/`3`/`8` poche dans ascending ordre avant déplaçant jaune `1` tuile.",
+        "Dépensez vert `9` compteur avant breaking rouge `32` étoile bloc.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez supérieur gauche blocs bleu et déroulez vert snake chemin sans touching rouge `32` étoile tuile."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez le haut `10`/`10` coin labels et la gauche-bord vert `20` compteur à ouvrez labyrinthe centre."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez rouge `32` étoile bloc une fois le L orange-shapes le long de le centre-droite ont salle à décalez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dépensez cyan `1`/`3`/`8` poche tuiles dans ordre — `1` premier, alors `3`, alors `8` — avant jaune `1` tuile coups."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Detonate mid-grille bleu `15`, vert `9`, et cyan `5` compteurs pendant violet winding shape est toujours movable."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez restant L orange-scraps et le bas blanc `3` stack pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Pulling cyan `8` tuile avant `1` — ce boxes jaune `1` tuile contre violet snake.",
+        "Breaking rouge `32` étoile avant vert `9` compteur dégage, trapping le L orange-shape sur le mur droit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/124/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 124",
+    "description": "Résolvez le niveau 124 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

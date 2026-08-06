@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-21",
+  "locale": "ko",
+  "levelNumber": 21,
+  "title": "블록 아웃 레벨 21 공략",
+  "summary": "블록 아웃 레벨 21은 삼중 보스 사다리입니다. 먼저 프레임된 `9` 패널을 부수고, 두 번째로 화려한 가운데 띠를 풀고, 그제야 아래쪽 `16`과 `18` 패널을 줄이기 시작하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "블록 아웃 레벨 21은 삼중 보스 사다리입니다. 먼저 프레임된 `9` 패널을 부수고, 두 번째로 화려한 가운데 띠를 풀고, 그제야 아래쪽 `16`과 `18` 패널을 줄이기 시작하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 21은 삼중 보스 사다리입니다.",
+          "먼저 프레임된 `9` 패널을 부수고, 두 번째로 화려한 가운데 띠를 풀고, 그때 가서 아래쪽 `16`과 `18` 패널을 줄이기 시작하세요.",
+          "보드는 파란색, 노란색, 초록색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "프레임된 `9`를 먼저 풀세요.",
+        "아래쪽 `16`과 `18` 값은 2단계와 3단계입니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "프레임된 `9` 패널이 드러나도록 위쪽 카운터를 작업하고 위쪽 색상 띠를 지우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "`9` 패널을 아래쪽 보스에 손대기 전에 떨어뜨리세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "확보한 가운데 복도를 이용해 분홍색, 녹색, 파란색 막대를 회전시키세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "가운데가 더 이상 꽉 차 있지 않을 때 아래쪽 `16` 패널을 줄이기 시작하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "`16` 프레임이 이미 열린 뒤에야 `18` 패널이 떨어지기 시작하게 하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "아래쪽 패널이 가늘어지면 바닥 녹색 출구를 늦은 정리를 위해 남겨두세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "아래쪽 보스 두 개가 무너진 뒤 남은 높은 색상 막대로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "위쪽 `9`가 아직 살아있는데 아래쪽 프레임 값을 줄이려는 것.",
+        "위쪽 보스가 열린 뒤에도 가운데 띠를 꽉 찬 채로 두는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 21 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 21을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

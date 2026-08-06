@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-38",
+  "locale": "tr",
+  "levelNumber": 38,
+  "title": "Block Out Seviye 38 Rehberi",
+  "summary": "Block Out Seviye 38 `12` ana blok oda buried structureda lid üç mavi `2` bloklar, pembe `15` blok, ve mor `6` cihaz. lid onun own internal sequence — mavi `2`s hızlı, cihaz medium, ve pembe...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out Seviye 38 `12` ana blok oda buried structureda lid üç mavi `2` bloklar, pembe `15` blok, ve mor `6` cihaz. lid onun own internal sequence — mavi `2`s hızlı, cihaz medium, ve pembe `15` yavaş — ve meli dismantled parça ile parça önce ana blok ebilir düşür. sonra ana blok düşer 01:33, kütle kırmızı, pembe, yeşil, ve mavi bloklar spills dışarı için saniye sorting aşama.",
+        "landmarks": [
+          "Block Out Seviye 38 `12` ana blok oda buried structureda lid üç mavi `2` bloklar, pembe `15` blok, ve mor `6` cihaz.",
+          "Lid onun own internal sequence — mavi `2`s hızlı, cihaz medium, ve pembe `15` yavaş — ve meli dismantled parça ile parça önce ana blok ebilir düşür.",
+          "Sonra ana blok düşer 01:33, kütle kırmızı, pembe, yeşil, ve mavi bloklar spills dışarı için saniye sorting aşama."
+        ],
+        "colors": ["blue", "pink", "purple", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Lid onun own sıra: mavi `2`s ilk (hızlı), mor cihaz saniye (medium), pembe `15` son (yavaş).",
+        "Izle için spill 01:33 — eğer yan şeritler değil hazır, açığa çıktı bloklar sıkış alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üç mavi `2` bloklar üst sıradan ilk — onlar en hızlı lid reductions."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Service mor `6` cihaz üstde-sol ile yönlendirerek sarı blok onun kapıdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla thinning pembe `15` blok üst-sağ şimdi ki mavi bloklar gitti."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Izle ana blok sayaç düşür `8` lid thins (visible 01:42)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Açık yan şeritler böylece açığa çıktı bloklar somewhere gite sonra ana blok düşer."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bırak `12` ana blok çökert sonra lid çoğunlukla gitti — spill happens 01:33."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Sort açığa çıktı kırmızı, pembe, yeşil, ve mavi bloklar yandan ve alt çıkışlar bitir."
+        }
+      ],
+      "failurePoints": [
+        "Skipping mavi `2` bloklar ve going straight için pembe `15` — lid kalır çok thick için ana blok hareket ettir.",
+        "Değil having yan şeritler açık ne zaman ana blok düşer 01:33, hangi demektir açığa çıktı bloklar pile yukarı ile nowhere gite."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 38 Rehberi ve Çözümü",
+    "description": "Block Out seviye 38'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

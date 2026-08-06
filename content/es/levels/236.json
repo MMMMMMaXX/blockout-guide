@@ -1,0 +1,119 @@
+{
+  "id": "es-level-236",
+  "locale": "es",
+  "levelNumber": 236,
+  "title": "Guía de Block Out Nivel 236",
+  "summary": "Block Out! Nivel 236 Solution guía. Observa el guía embedded a despejado este easy tablero.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/236.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/236",
+        "layout": "Block Out nivel 236 opens en a easy clasificación por color tablero dominated por azul, rojo, rosa, amarillo, verde baldosas. The exact starting disposición y verified solution son shown en el guía embedded vídeo; coincidencia tu tablero a el vídeo antes following el orden movimiento.",
+        "landmarks": [
+          "El tablero prominently features azul, rojo, y rosa bloques.",
+          "Color grupos debe be separated y stacked a despejado el nivel.",
+          "El guía embedded shows the exact starting disposición y solution orden."
+        ],
+        "colors": ["blue", "red", "pink", "yellow", "green", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FRjTJ548BpM",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=FRjTJ548BpM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Apertura del tablero"
+        },
+        {
+          "seconds": 61,
+          "label": "Primeras fusiones"
+        },
+        {
+          "seconds": 121,
+          "label": "Limpieza a mitad del tablero"
+        },
+        {
+          "seconds": 178,
+          "label": "Salida final"
+        }
+      ],
+      "quickTips": [
+        "Agrupa the azul y rojo bloques primero — ellos dominate el tablero opening, así clearing los early opens el espacio most.",
+        "Mantén one columna empty mientras un búfer hasta tu primero two fusiones son done; lo es the solo safe place a reverse a bad movimiento.",
+        "Estaciona mezclado o trapped rosa bloques en la columna shortest, never the tallest one, así tú keep un salida limpio carril.",
+        "Si two columnas share the mismo superior color, fusión the inferior-risk one primero y save the other para the finale."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coincide el tablero",
+          "instruction": "Confirma the azul/rojo disposición coincidencias el guía antes tú movimiento; una variante diferente means a diferente solution.",
+          "image": "/boards/236.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Elimina the dominant color",
+          "instruction": "Fusiona the azul columnas primero a libre la zona largest de el tablero y reduce el piezas tú debe track.",
+          "image": "/boards/236.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Abre un carril búfer",
+          "instruction": "Desplaza rojo bloques aside en one corto columna así mezclado stacks stay separable y el carril salida stays abierto.",
+          "image": "/boards/236.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Trabaja superior-abajo",
+          "instruction": "Elimina desde the superior así nothing locks early; keep la columna búfer available hasta el tablero es casi empty.",
+          "image": "/boards/236.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Route el salida",
+          "instruction": "Envía the último bloques fuera por el carril mismo shown en el vídeo, en el orden el guía demonstrates.",
+          "image": "/boards/236.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "Merging la columna tallest primero burns tu solo búfer carril y traps the inferior bloques detrás lo.",
+        "Chasing a full azul stack antes separating mezclado colors leaves bloques tú puede no longer reach.",
+        "Starting the timer antes el tablero es matched wastes 8–12 seconds de recovery en un tablero easy.",
+        "Letting rojo bloques sit detrás others forces a restart tú could have avoided con one early shift."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/236",
+    "https://www.youtube.com/watch?v=FRjTJ548BpM",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 236",
+    "description": "Resuelve Block Out nivel 236 con the verified easy guía vídeo y tablero colors. Observa the embedded solution a coincidencia tu starting tablero."
+  },
+  "updatedAt": "2026-08-03"
+}

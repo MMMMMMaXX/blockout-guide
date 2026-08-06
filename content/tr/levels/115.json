@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-115",
+  "locale": "tr",
+  "levelNumber": 115,
+  "title": "Block Out Seviye 115 Rehberi",
+  "summary": "Block Out Seviye 115 splits tahta üçe sütunlar gated ile yönlü oklar — yeşil, pembe, ve mavi git yukarı sırasında kırmızı, sarı, ve turuncu git aşağı. pembe dotted connector arasında iki `7` çiftler anahtar parça: düşür o ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/115/",
+        "layout": "Block Out Seviye 115 splits tahta üçe sütunlar gated ile yönlü oklar — yeşil, pembe, ve mavi git yukarı sırasında kırmızı, sarı, ve turuncu git aşağı. pembe dotted connector arasında iki `7` çiftler anahtar parça: düşür o orta sütundan ilk ve istifler üstünde ebilir sonunda boşalt. dokun sol-sütun `1` istifler önce merkez reshapes ve connector gets buried.",
+        "landmarks": [
+          "Block Out Seviye 115 splits tahta üçe sütunlar gated ile yönlü oklar — yeşil, pembe, ve mavi git yukarı sırasında kırmızı, sarı, ve turuncu git aşağı.",
+          "Pembe dotted connector arasında iki `7` çiftler anahtar parça: düşür o orta sütundan ilk ve istifler üstünde ebilir sonunda boşalt.",
+          "Dokun sol-sütun `1` istifler önce merkez reshapes ve connector gets buried."
+        ],
+        "colors": ["purple", "cyan", "pink", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gk9J6m1hutU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gk9J6m1hutU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pembe dotted connector meli düşür önce any `7` çift ebilir bölündü.",
+        "Temizle sağ lone `1` turuncu aşağıdan-ok açık sağ şerite erken.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Çek pembe dotted connector aşağı doğru orta sütundan kullanarak sarı aşağı-ok."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Besle üst sol `1` istifler üç camgöbeği karolar aşağı kırmızı sütundan ok."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle lone sağ-sütun camgöbeği `1` turuncu aşağıdan-ok açık sağ şerite."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bölündü üst `7` çift orta sütunda sonra connector passed pembe yukarı-triangle."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Gönder daha düşük sol `1` istifler kırmızı aşağıdan-ok sonra üst `7`s gitti."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Boşalt daha düşük `7` çift dışarı sarı aşağıdan-ok ve çıkış kalan yeşil sütun parçalar."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek sol-sütun `1` istifler önce pembe dotted connector bırakıldı.",
+        "Deneyerek bölündü `7` çiftler sırasında connector hâlâ oturur arasında onları."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/115/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 115 Rehberi ve Çözümü",
+    "description": "Block Out seviye 115'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

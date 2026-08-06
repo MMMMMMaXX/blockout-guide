@@ -1,0 +1,102 @@
+{
+  "id": "zh-cn-level-98",
+  "locale": "zh-cn",
+  "levelNumber": 98,
+  "title": "Block Out 第98关攻略",
+  "summary": "Block Out 第98关用橙色边框将棋盘分成多个隔区。青色「5」方块填满左上区域，一个紫色「8」室位于中心、藏在锁/钥门后，紫色「13」室填满下方区域。狭窄通道连接各区域——方块必须单列通过。先排空青色区域……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/98/",
+        "layout": "Block Out 第98关用橙色边框将棋盘分成多个隔区。青色「5」方块填满左上区域，一个紫色「8」室位于中心、藏在锁/钥门后，紫色「13」室填满下方区域。狭窄通道连接各区域——方块必须单列通过。先排空青色区域，解锁并输送「8」室，最后输送「13」室，共 26 次通过。",
+        "landmarks": [
+          "Block Out 第98关用橙色边框将棋盘分成多个隔区。",
+          "青色「5」方块填满左上区域，一个紫色「8」室位于中心、藏在锁/钥门后，紫色「13」室填满下方区域。",
+          "狭窄通道连接各区域——方块必须单列通过。",
+          "先排空青色区域，解锁并输送「8」室，最后输送「13」室，共 26 次通过。"
+        ],
+        "colors": ["cyan", "red", "purple", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MX11ryK4VL0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MX11ryK4VL0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先排空青色「5」区域——它输送最快，为其他一切打开空间。",
+        "在开始任何室输送前，清空通道中的所有小方块——一个零散方块会让一切停滞。",
+        "「8」室坍塌后立刻整理溢出方块，在开始「13」输送前。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左上角的青色「5」方块经左墙出口排空——五次通过（02:52）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将青色区域下方的大号红色方块经右墙出口清空，打开通往中心区域的通道（02:46）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "解锁钥匙方块以进入紫色「8」室区域，因为锁门挡住了唯一的进入通道（02:39）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "在输送过程中它们可能漂移之前，清空各区域之间通道中的小绿色和蓝色方块（02:33）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "经通道输送紫色「8」室——八次通过，保持狭窄通道畅通（02:26–02:13）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "在它们进入下方区域并堵住「13」通道之前，整理「8」室坍塌溢出的方块（02:13）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "经就近出口清空「13」室周围的小红色和青色方块（02:07）。"
+        },
+        {
+          "order": 8,
+          "title": "第8步",
+          "instruction": "将紫色「13」室经底部出口输送——十三次通过收尾（02:01–01:41）。"
+        }
+      ],
+      "failurePoints": [
+        "在小方块仍在通道中时就启动「8」室输送——它们挡住单列通道，让输送停滞且无法在不重置的情况下清除。",
+        "忽视「8」室坍塌后的溢出方块——它们进入下方区域并卡住「13」室的出口通道，迫使多次补救。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/98/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第98关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第98关。"
+  },
+  "updatedAt": "2026-08-03"
+}

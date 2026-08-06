@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-7",
+  "locale": "pt-br",
+  "levelNumber": 7,
+  "title": "Guia do nível 7 do Block Out",
+  "summary": "Block Out Nível 7 é alto escada construído ao redor um cedo vermelho lateral saída. Envie superior-direita vermelho bloco longe primeiro, gire branco ladders através liberado bolso, e deixe preto massa colapse único depois ambos direita-lateral reds são indo.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "Block Out Nível 7 é alto escada construído ao redor um cedo vermelho lateral saída. Envie superior-direita vermelho bloco longe primeiro, gire branco ladders através liberado bolso, e deixe preto massa colapse único depois ambos direita-lateral reds são indo.",
+        "landmarks": [
+          "Block Out Nível 7 é alto escada construído ao redor um cedo vermelho lateral saída.",
+          "Envie superior-direita vermelho bloco longe primeiro, gire branco ladders através liberado bolso, e deixe preto massa colapse único depois ambos direita-lateral reds são indo.",
+          "Tabuleiro mistura Vermelho, Branco, Preto e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use superior-direita vermelho saída primeiro.",
+        "Inferior-direita vermelho bloco follows mesmo parede depois branco ladders desloque.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize superior-direita vermelho block out através vermelho saída em direita parede."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Levante superior branco pilar e use liberado direita bolso para gire inferior-direita vermelho bloco para cima."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha shuffling meio branco ladders so inferior-direita vermelho bloco pode também deixe através mesmo vermelho lateral saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Depois ambos direita-lateral reds são indo, use extra height para puxe preto teto baixo e deixe centro branco pillars separar."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente restante branco ladders em direção a inferior saída como inferior contador shrinks."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Salve superior-esquerda vermelho bloco para tarde limpeza uma vez centro tem flattened."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por escoando último preto coluna através inferior pista."
+        }
+      ],
+      "failurePoints": [
+        "Ignorando superior-direita vermelho lateral saída e tentando para funciona de inferior primeiro.",
+        "Forcing superior-esquerda vermelho bloco também cedo antes que preto teto tem dropped."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 7 do Block Out",
+    "description": "Resolva o nível 7 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

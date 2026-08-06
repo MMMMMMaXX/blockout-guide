@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-136",
+  "locale": "ja",
+  "levelNumber": 136,
+  "title": "ブロックアウト レベル136 攻略",
+  "summary": "ブロックアウト レベル136は、各スライド方向をゲートする枠の数字を持つ上部グリッドと、4つの色矢印で第2の得点ゾーンを作る「13」の円を中心とする下部パネルに盤面を分けています。赤のＬ字型テトロミノと黄の2×2の正方形が中央の空間を奪い合います…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/136/",
+        "layout": "ブロックアウト レベル136は、各スライド方向をゲートする枠の数字を持つ上部グリッドと、4つの色矢印で第2の得点ゾーンを作る「13」の円を中心とする下部パネルに盤面を分けています。赤のＬ字型テトロミノと黄の2×2の正方形が中央の空間を奪い合います—まず「2」の枠を通るシアンの上矢印供給を消去しないと、下部パネルは入ってくるピースが尽きます。",
+        "landmarks": [
+          "ブロックアウト レベル 136 上の スライドさせる、下の パネル `13` 丸 矢印 ゾーン.。",
+          "赤の字型-、黄 2×2 四角 中央 — 消去する シアン 上-矢印 `2`、下の パネル .。",
+          "混ぜる 紫、緑、青、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "green", "blue", "cyan", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXBKSTtpyQk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXBKSTtpyQk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "黄のを割りて2×2、シアンのをスライドさせて右 棒 — 下の 13 上 4.。",
+        "を通して赤の字型- 紫 左-矢印、側 9 カウンター 消去する.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて上 紫/緑/青 塊 右へ 使う 2、4 上部のカウンター シアン/黄 右 ペア.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "赤のを通して左の列 下 緑 下-矢印 レーン 始める 左 9 カウンター.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "黄のを割りて2×2 四角 上の-中央、右 9 カウンター 6.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を押して赤の字型- 左へ 紫 左-矢印 レーン、側 9 カウンター 消去する.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "シアンのをスライドさせて棒 右端 下 赤 右-矢印 レーン 解放する 下の パネル.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて下の 9 タイル オレンジ 丸、を通して下 黄 上-矢印 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "シアンのをスライドさせて右 棒、黄 2×2、下の 13 丸 上 4.。",
+        "赤の字型- 左、側 9 カウンター 消去する、下の パネル.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/136/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル136 攻略と解説",
+    "description": "ブロックアウト レベル136 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

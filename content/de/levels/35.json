@@ -1,0 +1,96 @@
+{
+  "id": "de-level-35",
+  "locale": "de",
+  "levelNumber": 35,
+  "title": "Block Out Level 35 Lösung",
+  "summary": "Block Out Level 35 ist Gerät-Ausgang Puzzle in mostly empty Raum. Lila `8` Gerät auf links und grün `7` Gerät auf rechts track Ausgang Verkehr, und Reihenfolge du ansteuern Bauteile durch rot rechts Ausgang und blau unten Ausgang det...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "Block Out Level 35 ist Gerät-Ausgang Puzzle in mostly empty Raum. Lila `8` Gerät auf links und grün `7` Gerät auf rechts track Ausgang Verkehr, und Reihenfolge du ansteuern Bauteile durch rot rechts Ausgang und blau unten Ausgang determines war Blöcke spawn nächste. Raum startet sparse aber fills hoch fast wenn exits sind verwendet in falsch sequence — behalten one Bahn öffnen bei alle times für nächste spawn.",
+        "landmarks": [
+          "Block Out Level 35 ist Gerät-Ausgang Puzzle in mostly empty Raum.",
+          "Lila `8` Gerät auf links und grün `7` Gerät auf rechts track Ausgang Verkehr, und Reihenfolge du ansteuern Bauteile durch rot rechts Ausgang und blau unten Ausgang determines war Blöcke spawn nächste.",
+          "Raum startet sparse aber fills hoch fast wenn exits sind verwendet in falsch sequence — behalten one Bahn öffnen bei alle times für nächste spawn."
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Raum schaut einfach weil es startet mostly empty, aber jede Ausgang spawns new Block — behalten one Bahn freigeben.",
+        "Service grün `7` Gerät auf rechts erste, dann lila `8` auf links.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben rot L-shaped Block toward rechte Wand Ausgang zu service grün `7` Gerät erste."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Bewegen gelb bar toward unten blau Ausgang nach rot Block hat geräumt."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden dark Mitte Block als spacer zu behalten spawned folgen-hoch Bauteile von blocking exits."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Service lila `8` Gerät auf links durch routing nächste spawned Bauteil durch sein Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Continue alternating zwischen rechts und unten exits als new Bauteile spawn."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Behalten one Bahn freigeben bei alle times — verklemmen-hoch risk ist visible bei 00:52 in Video."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte colored Bauteil nach beide Gerät Zähler sind bei zero und kein mehr Blöcke spawn."
+        }
+      ],
+      "failurePoints": [
+        "Verwendend unten blau Ausgang bevor rechts rot Ausgang ist serviced, welche produces falsch folgen-hoch Bauteil und disrupts Gerät sequence.",
+        "Letting spawned Blöcke fill letzte öffnen Bahn — once Raum ist voll, dort ist kein Erholung bewegen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 35 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 35 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

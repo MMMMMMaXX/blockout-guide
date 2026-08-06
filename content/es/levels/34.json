@@ -1,0 +1,96 @@
+{
+  "id": "es-level-34",
+  "locale": "es",
+  "levelNumber": 34,
+  "title": "Guía de Block Out Nivel 34",
+  "summary": "El nivel 34 de Block Out está etiquetado como 'Nivel difícil' y presenta un diseño de jefes gemelos con un jefe `10` izquierdo y un jefe `20` derecho situados sobre un sótano compartido rojo-blanco-negro. La solución se desarrolla en tres fases: limpia el sótano para bajar amb...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/34/",
+        "layout": "El nivel 34 de Block Out está etiquetado como 'Nivel difícil' y presenta un diseño de jefes gemelos con un jefe `10` izquierdo y un jefe `20` derecho situados sobre un sótano compartido rojo-blanco-negro. La solución se desarrolla en tres fases: limpia el sótano para bajar ambos contadores, colapsa primero la torre izquierda más pequeña para crear espacio y luego usa ese espacio para acelerar el colapso de la torre derecha. Cuando los jefes caen por debajo de `9`, bloques de color ocultos — verde, amarillo, azul — se derraman y necesitan su propia clasificación.",
+        "landmarks": [
+          "El nivel 34 de Block Out está etiquetado como 'Nivel difícil' y presenta un diseño de jefes gemelos con un jefe `10` izquierdo y un jefe `20` derecho situados sobre un sótano compartido rojo-blanco-negro.",
+          "La solución se desarrolla en tres fases: limpia el sótano para bajar ambos contadores, colapsa primero la torre izquierda más pequeña para crear espacio y luego usa ese espacio para acelerar el colapso de la torre derecha.",
+          "Cuando los jefes caen por debajo de `9`, bloques de color ocultos — verde, amarillo, azul — se derraman y necesitan su propia clasificación."
+        ],
+        "colors": ["red", "white", "black", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GGBucmc9Q-c",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GGBucmc9Q-c",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El jefe `10` izquierdo es tu medidor de progreso. Si sigue por encima de `5` cuando el jefe derecho marca `17`, el sótano necesita más atención en el lado izquierdo.",
+        "Vigila la transición de fase cerca del contador `9`: es cuando los bloques de color ocultos empiezan a derramarse de las cámaras.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza los bloques blancos del sótano derecho hacia la salida derecha y saca los bloques negros por la flecha inferior."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Usa el bloque verde `5` de la esquina inferior izquierda como un movimiento temprano para abrir un carril bajo la cámara izquierda."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Sigue adelgazando el sótano hasta que el contador del jefe `10` izquierdo empiece a bajar visiblemente: vigila el `7` en el contador izquierdo."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Concentra el trabajo restante del sótano en el lado izquierdo para que el jefe `10` colapse por completo antes de que el jefe `20` derecho baje de `17`."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Cuando la cámara izquierda se vacíe, usa el espacio liberado para acelerar la reducción del jefe `20` derecho."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Cuando el jefe derecho baja de `9`, los bloques de color — verde, amarillo, azul — se derraman. Clasifícalos por las salidas laterales e inferior."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con las últimas piezas rojas del sótano y los colores revelados restantes después de que ambas cámaras estén vacías."
+        }
+      ],
+      "failurePoints": [
+        "Dividir el esfuerzo por igual entre ambos jefes desde el principio: el jefe `20` necesita tanto más espacio que ninguna torre alcanza el umbral crítico, y los bloques revelados se amontonan sin adónde ir.",
+        "Ignorar el bloque verde `5` de la esquina inferior izquierda como movimiento temprano, lo que retrasa abrir el carril bajo la cámara izquierda, donde más importa el progreso."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/34/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 34",
+    "description": "Resuelve el nivel 34 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

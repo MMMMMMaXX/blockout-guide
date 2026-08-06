@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-16",
+  "locale": "tr",
+  "levelNumber": 16,
+  "title": "Block Out Seviye 16 Rehberi",
+  "summary": "Block Out Seviye 16 bir Merdiven destek bulmacadır. Yumuşat daha düşük raf ve sağ duvar ilk, çökert siyah çapraz onun tabanda, ve sadece sonra bırak uzun kırmızı ve sarı çubuklar üst-sağ climb.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "Block Out Seviye 16 bir Merdiven destek bulmacadır. Yumuşat daha düşük raf ve sağ duvar ilk, çökert siyah çapraz onun tabanda, ve sadece sonra bırak uzun kırmızı ve sarı çubuklar üst-sağ climb.",
+        "landmarks": [
+          "Block Out Seviye 16 bir Merdiven destek bulmacadır.",
+          "Yumuşat daha düşük raf ve sağ duvar ilk, çökert siyah çapraz onun tabanda, ve sadece sonra bırak uzun kırmızı ve sarı çubuklar üst-sağ climb.",
+          "Tahta kırmızı, sarı, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Daha düşük raf gerçek opener.",
+        "Siyah merdiven kır altındadan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle daha düşük beyaz küme sağ geri sayım şerit başla küçülerek `12` duvar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Döndür kısa alt kırmızı ve sarı parçalar böylece siyah merdiven loses onun daha düşük destek."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut uzun kırmızı köşe çubuk ve iç sarı sütun park edildi sırasında alt sayaçlar tut dropping."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra siyah adımlar başla çökert, açık raf enough için uzun sarı sütun kaydır aşağı doğru."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan yeni boşluk kaydır uzun kırmızı çubuk uzakta köşeden olmadan tuzağa düşürerek kalan siyah bloklar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir merdiven temizlik ilk."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "End ile uzun sarı ve kırmızı çubuklar sonra raf ve sağ duvar zaten flat."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek harcaya bir uzun köşe çubuklar önce daha düşük raf açık.",
+        "Çalışarak sadece üst-sağ climb ve ignoring raf sayaçlar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 16 Rehberi ve Çözümü",
+    "description": "Block Out seviye 16'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

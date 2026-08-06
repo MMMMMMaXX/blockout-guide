@@ -1,0 +1,89 @@
+{
+  "id": "ja-level-63",
+  "locale": "ja",
+  "levelNumber": 63,
+  "title": "ブロックアウト レベル63 攻略",
+  "summary": "ブロックアウト レベル63は、特大のLEGOブロック—Ｌ字型、縦長の長方形、大きな正方形—をすべてカウンター番号付き（最大11）で噛み合わせ、盤面に詰め込んでいます。最初の戦略は端から剥がす方法です：右上から緑ブロックを取り出し…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "ブロックアウト レベル63は、特大のLEGOブロック—Ｌ字型、縦長の長方形、大きな正方形—をすべてカウンター番号付き（最大11）で噛み合わせ、盤面に詰め込んでいます。最初の戦略は端から剥がす方法です：右上から緑ブロックを、左上から黄の「11」ブロックを取り出します。端が薄くなると、噛み合った中央（赤の正方形、青のＬ字型、紫ブロック）をようやく分離できます。右側の青のＬ字型ピースは最も大きな隙間を必要とし、たいてい最後に抜けます。",
+        "landmarks": [
+          "ブロックアウト レベル 63 — Ｌ字型、— カウンター 上 11.。",
+          "開始 -剥がす: 取り出す 緑 上の-右、黄 '11' ブロック 上の-左.。",
+          "中央 (赤 四角、青の字型-、紫 ) .。",
+          "青の字型-ピース 右側 必要とし、.。"
+        ],
+        "colors": ["yellow", "green", "red", "blue", "orange", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央 — 間違った 中央 手順 .。",
+        "青 Ｌ字型 ピース 右側 必要とし、残す .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑のを引きて上の-右 上 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄のをスライドさせて'11' ブロック 左へ の方へ 出口 解放する 上の-左.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "オレンジのをずらして左 下、上の 角 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "赤四角を取り出して中央-左、.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を通して青の字型- 右側 — 必要とし .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて紫、シアン、中央 開く.。"
+        }
+      ],
+      "failurePoints": ["動かし 中央 ブロック、— .。", "取り出す 青の字型-、.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル63 攻略と解説",
+    "description": "ブロックアウト レベル63 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

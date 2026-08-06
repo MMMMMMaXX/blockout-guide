@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-130",
+  "locale": "pt-br",
+  "levelNumber": 130,
+  "title": "Guia do nível 130 do Block Out",
+  "summary": "Block Out Nível 130 chains 10-largo superior grade para separar inferior contador moldura através cadeado-e-chave mechanism — azul cadeado e roxo chave peça fica em centro fileira, e correspondência os abre alimente pista entre boards. vermelho roc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "Block Out Nível 130 chains 10-largo superior grade para separar inferior contador moldura através cadeado-e-chave mechanism — azul cadeado e roxo chave peça fica em centro fileira, e correspondência os abre alimente pista entre boards. vermelho rocket-marcado blocos em superior grade olhe urgent mas são apenas tráfego. Mova os antes que cadeado/chave quebra e inferior verde seta pista selos permanentemente.",
+        "landmarks": [
+          "Block Out Nível 130 chains 10-largo superior grade para separar inferior contador moldura através cadeado-e-chave mechanism — azul cadeado e roxo chave peça fica em centro fileira, e correspondência os abre alimente pista entre boards.",
+          "Vermelho rocket-marcado blocos em superior grade olhe urgent mas são apenas tráfego.",
+          "Mova os antes que cadeado/chave quebra e inferior verde seta pista selos permanentemente."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantenha vermelho rocket blocos estacionado até azul cadeado/roxo chave par quebra.",
+        "Inferior moldura contador solta de `20` para `17` como superior grade limpa — assista ele antes que final empurre.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior-fileira blocos usando azul cima-seta, então limpar verde cadeado peças em superior faixa."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre corrente-linked direita-lateral par sem deslocando vermelho rocket blocos yet."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Correspondência azul cadeado peça com roxo chave peça em centro fileira para abra inferior moldura."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Roteie superior grade saídas através esquerda vermelho e direita laranja seta pistas."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste inferior contadores `4`, `5`, e `1` para alimente inferior `17` moldura."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar último superior recortes e zero inferior contador peça para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Movendo vermelho rocket blocos antes que cadeado/chave par quebra — inferior verde seta pista selos shut.",
+        "Quebrando corrente elo enquanto cadeado peças são ainda em superior faixa."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 130 do Block Out",
+    "description": "Resolva o nível 130 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

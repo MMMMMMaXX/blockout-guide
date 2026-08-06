@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-107",
+  "locale": "pt-br",
+  "levelNumber": 107,
+  "title": "Guia do nível 107 do Block Out",
+  "summary": "Block Out Nível 107 camadas creature marcadores, dual padlocks, e direita-seta alimente peça sobre irregular brick tabuleiro. azul e roxo cadeados saída dois metades de grade, e inferior `3` bandeja é contador saída — não livre refi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/107/",
+        "layout": "Block Out Nível 107 camadas creature marcadores, dual padlocks, e direita-seta alimente peça sobre irregular brick tabuleiro. azul e roxo cadeados saída dois metades de grade, e inferior `3` bandeja é contador saída — não livre refill. alto amarelo aglomerado em esquerda e vermelho C-forma em direita compita para mesmo pista, so limpando cadeados em errado ordem entrava alimente.",
+        "landmarks": [
+          "Block Out Nível 107 camadas creature marcadores, dual padlocks, e direita-seta alimente peça sobre irregular brick tabuleiro.",
+          "Azul e roxo cadeados saída dois metades de grade, e inferior `3` bandeja é contador saída — não livre refill.",
+          "Alto amarelo aglomerado em esquerda e vermelho C-forma em direita compita para mesmo pista, so limpando cadeados em errado ordem entrava alimente."
+        ],
+        "colors": ["green", "yellow", "red", "blue", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mvigiJZ71eE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mvigiJZ71eE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abra azul cadeado antes que roxo um — inferior verde seta pista depends em que ordem.",
+        "Do não gaste inferior `3` bandeja enquanto either cadeado é ainda fechado.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova superior verde creature peça e meio amarelo troll peça."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre superior-esquerda vermelho/amarelo/azul aglomerado sem deslizando em either cadeado."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente direita-seta laranja bloco através abra direita canal."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Abra azul cadeado em inferior-esquerda, então roxo cadeado em inferior-centro."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize inferior verde seta peça através aberto inferior pista."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste inferior laranja `3` bandeja para feche contadores `5` e `4`, então limpar azul L-forma marcado `1`."
+        }
+      ],
+      "failurePoints": [
+        "Gastando inferior `3` bandeja antes que ambos padlocks são abra — este caixas em inferior verde seta peça.",
+        "Alimentando direita-seta laranja peça antes que superior-meio lacuna é actually limpar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/107/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 107 do Block Out",
+    "description": "Resolva o nível 107 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

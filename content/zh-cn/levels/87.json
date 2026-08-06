@@ -1,0 +1,102 @@
+{
+  "id": "zh-cn-level-87",
+  "locale": "zh-cn",
+  "levelNumber": 87,
+  "title": "Block Out 第87关攻略",
+  "summary": "Block Out 第87关是一个带沉重首领方块的水淹排空拼图。青色计数「7」方块像湖水一样填满棋盘下方三分之二，而左侧远处是一个被橙色边框包裹、计数「15」的绿色首领方块。顶部横着一条密集的彩色方块带（橙、绿「9」、红、蓝、黄），必须先清空……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/87/",
+        "layout": "Block Out 第87关是一个带沉重首领方块的水淹排空拼图。青色计数「7」方块像湖水一样填满棋盘下方三分之二，而左侧远处是一个被橙色边框包裹、计数「15」的绿色首领方块。顶部横着一条密集的彩色方块带（橙、绿「9」、红、蓝、黄），必须先清空。将绿色「15」首领经左墙出口送出，移除夹在青色方块之间的小「3」计数方块，再让青色洪水从底部排出。",
+        "landmarks": [
+          "Block Out 第87关是一个带沉重首领方块的水淹排空拼图。",
+          "青色计数「7」方块像湖水一样填满棋盘下方三分之二，而左侧远处是一个被橙色边框包裹、计数「15」的绿色首领方块。",
+          "顶部横着一条密集的彩色方块带（橙、绿「9」、红、蓝、黄），必须先清空。",
+          "将绿色「15」首领经左墙出口送出，移除夹在青色方块之间的小「3」计数方块，再让青色洪水从底部排出。"
+        ],
+        "colors": ["cyan", "green", "red", "blue", "orange", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AEJlO-_-lBI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AEJlO-_-lBI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "顶部方块带一清空，就立即开始输送绿色「15」首领——十五次通过很耗时，通道必须保持畅通。",
+        "在试图排出青色「7」洪水之前，先移除红色「3」和绿色「3」楔形方块。",
+        "楔形方块消失后，青色洪水会自行从底部出口排出——不要去推它。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左上角的小橙色方块向上推，经顶部出口箭头打开第一个缺口（02:55）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将顶部方块带右端的黄色方块经右墙出口推出（02:50）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将红色方块经顶部出口清空，然后开始向上输送绿色「9」方块——它需要九次通过（02:44–02:34）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "等绿色「9」方块变薄到足以腾出通道后，将蓝色方块经右墙出口送出（02:34）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "顶部方块带清空后，开始将绿色「15」首领经左墙出口送出——让这条通道永久不被堵塞（02:28–02:13）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "清空夹在青色「7」方块之间的小红色「3」和绿色「3」方块，解除排水路径的封堵（约 02:18）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "楔形方块消失后，让青色「7」洪水经底部出口排出（02:13–02:02）。"
+        },
+        {
+          "order": 8,
+          "title": "第8步",
+          "instruction": "在绿色「15」首领完全出口后，用最后的青色碎片收尾（01:57）。"
+        }
+      ],
+      "failurePoints": [
+        "在输送绿色「15」首领时，让零散方块飘进左墙通道——它会卡住本关最长的输送，迫使你浪费步数重新清理通道。",
+        "在移除红色「3」和绿色「3」楔形方块之前就试图排出青色「7」洪水——它们堵住了底部出口，洪水无法通过。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/87/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第87关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第87关。"
+  },
+  "updatedAt": "2026-08-03"
+}

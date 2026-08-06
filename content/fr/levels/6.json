@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-6",
+  "locale": "fr",
+  "levelNumber": 6,
+  "title": "Guide Block Out Niveau 6",
+  "summary": "Block Out Niveau 6 est premier staged-sortie plateau. Effondrez la droite-côté quota premier, gardez les deux haut `9` capuchons shrinking together, et économisez rouge et jaune terminez barres pour moment le haut portes thaw.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "Block Out Niveau 6 est premier staged-sortie plateau. Effondrez la droite-côté quota premier, gardez les deux haut `9` capuchons shrinking together, et économisez rouge et jaune terminez barres pour moment le haut portes thaw.",
+        "landmarks": [
+          "Block Out Niveau 6 est premier staged-sortie plateau.",
+          "Effondrez la droite-côté quota premier, gardez les deux haut `9` capuchons shrinking together, et économisez rouge et jaune terminez barres pour moment le haut portes thaw.",
+          "Le plateau mélange rouge, jaune et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Droite-côté `4` compteur est premier cible.",
+        "Gardez abaissez rouge et barres jaune idle jusqu'à côté voie opens.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez supérieur droit pile blanc dans le haut-droite voie donc il peut commencez hitting la droite-côté quota colonne."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez le centre blanc bridge à gardez feeding la droite-côté compteur jusqu'à il tombent de `4` vers `1`."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tournez le haut noir blocker et supérieur blocs blanc à travers deux `9` compteurs donc les deux haut capuchons gardez shrinking together."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Quittez abaissez rouge retirez et inférieur droit jaune retirez garé pendant damier centre est toujours doing quota work."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois le mur droit opens dans blanc relâchez voie, pelez dernier supérieur blanc block out et terminez le haut countdown."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Quand gelé capuchons convert dans coloré sorties, envoyez jaune retirez à supérieur droit porte."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez par running dernier rouge retirez à le haut-gauche porte rouge."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dépensez abaissez rouge ou barres jaune avant la droite-côté compteur a presque collapsed.",
+        "Seulement shrinking one de le haut `9` capuchons et laissant autre one gelé."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 6",
+    "description": "Résolvez le niveau 6 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

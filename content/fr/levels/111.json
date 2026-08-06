@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-111",
+  "locale": "fr",
+  "levelNumber": 111,
+  "title": "Guide Block Out Niveau 111",
+  "summary": "Block Out Niveau 111 stacks deux violet-encadré chambres que partagent single vertical laissez tomber voie à travers jaune bas-arrow tuile. droite-côté combo colonne counts de 9 bas à 0, tracking consecutive dégage. supérieur plateau doit amincissez en...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "Block Out Niveau 111 stacks deux violet-encadré chambres que partagent single vertical laissez tomber voie à travers jaune bas-arrow tuile. droite-côté combo colonne counts de 9 bas à 0, tracking consecutive dégage. supérieur plateau doit amincissez assez pour le L rouge-pièce à déplacez — sinon il blocs jaune arrow voie et abaissez `14` compteur never starts dropping.",
+        "landmarks": [
+          "Block Out Niveau 111 stacks deux violet-encadré chambres que partagent single vertical laissez tomber voie à travers jaune bas-arrow tuile.",
+          "Droite-côté combo colonne counts de 9 bas à 0, tracking consecutive dégage.",
+          "Supérieur plateau doit amincissez assez pour le L rouge-pièce à déplacez — sinon il blocs jaune arrow voie et abaissez `14` compteur never starts dropping."
+        ],
+        "colors": ["violet", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Jaune bas-arrow est one-chemin porte — pas garez supérieur L rouge-pièce sur il.",
+        "Pelez la gauche violet croisez-pattern bloc avant feeding abaissez L jaune-pièce rightward.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Remove le haut orange horizontal barre et la gauche colonne violet dans supérieur chambre à ouvrez le haut `2`/`3` rangée."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez le centre bleu amas vers le bas sans blocking jaune bas-arrow tuile."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez supérieur L rouge-pièce rightward donc jaune arrow voie stays ouvrez pour abaissez chambre."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez tomber cleared supérieur pièces à travers jaune arrow dans abaissez grille une fois la gauche croisez-pattern bloc thins."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez abaissez L jaune-pièce rightward avant feeding bleu verticals hors à travers `15` côté sortie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez restant abaissez-plateau pièces et close violet bas barre compteur `14`."
+        }
+      ],
+      "failurePoints": [
+        "Stationnement supérieur L rouge-pièce sur jaune bas-arrow, qui blocs abaissez `14` alimentez.",
+        "Déplaçant abaissez L jaune-pièce avant supérieur plateau a cleared autour arrow voie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 111",
+    "description": "Résolvez le niveau 111 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

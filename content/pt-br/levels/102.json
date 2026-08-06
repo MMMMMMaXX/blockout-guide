@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-102",
+  "locale": "pt-br",
+  "levelNumber": 102,
+  "title": "Guia do nível 102 do Block Out",
+  "summary": "Block Out Nível 102 vira usual formula — em vez de deslizando blocos para fora, você're placing os em. vazio principal grade fica acima inferior inventory de L-shapes e 2×2 aglomerados, e passo contador tracks cada transfer. quebra-cabeça é...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out Nível 102 vira usual formula — em vez de deslizando blocos para fora, você're placing os em. vazio principal grade fica acima inferior inventory de L-shapes e 2×2 aglomerados, e passo contador tracks cada transfer. quebra-cabeça é spatial: fitting cada peça cleanly sem bloqueando meio coluna, onde um misplaced verde `1` peça pode vede tabuleiro.",
+        "landmarks": [
+          "Block Out Nível 102 vira usual formula — em vez de deslizando blocos para fora, você're placing os em.",
+          "Vazio principal grade fica acima inferior inventory de L-shapes e 2×2 aglomerados, e passo contador tracks cada transfer.",
+          "Quebra-cabeça é spatial: fitting cada peça cleanly sem bloqueando meio coluna, onde um misplaced verde `1` peça pode vede tabuleiro."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantenha centro coluna vazio até highlighted verde `1` peça é placed.",
+        "Assista passo contador — você should alcance passo 6 antes que inferior metade é totalmente empacotado.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Solte primeiro inferior-bandeja aglomerado em superior-esquerda de principal moldura para abra use (passo 1)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Coloque próximo dois aglomerados ao longo superior fileira so centro coluna permanece vazio."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova highlighted verde `1` peça através abra centro coluna antes que preenchendo inferior metade."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Transfer mid-use L-shapes em esquerda e direita inferior cantos so eles do não cruz centro pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Coloque restante ciano e roxo pares ao longo inferior fileira de principal moldura."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar último dois-bloco grupo de inferior bandeja para termine passo-11 completion."
+        }
+      ],
+      "failurePoints": [
+        "Preenchendo centro coluna antes que verde `1` peça é placed — highlighted peça então tem no para baixo caminho.",
+        "Soltando tarde L-shapes em meio de grade em vez de inferior cantos, que blocos final placements."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 102 do Block Out",
+    "description": "Resolva o nível 102 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

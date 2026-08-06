@@ -1,0 +1,97 @@
+{
+  "id": "de-level-39",
+  "locale": "de",
+  "levelNumber": 39,
+  "title": "Block Out Level 39 Lösung",
+  "summary": "Block Out Level 39 ist labeled 'Super schwer' und ist erste triple-Boss Spielfeld in Block Out. Layout ist 2×2 Raster: obere linke Boss `14`, obere rechte Boss `21`, untere rechte Boss `4`, und packed Farbe mix in untere linke. `4` bo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/39/",
+        "layout": "Block Out Level 39 ist labeled 'Super schwer' und ist erste triple-Boss Spielfeld in Block Out. Layout ist 2×2 Raster: obere linke Boss `14`, obere rechte Boss `21`, untere rechte Boss `4`, und packed Farbe mix in untere linke. `4` Boss öffnet untere half, colored Blöcke drain nächste, dann `14` falls bevor `21`. Jede phase depends auf one bevor es, und ordering ist absolute.",
+        "landmarks": [
+          "Block Out Level 39 ist labeled 'Super schwer' und ist erste triple-Boss Spielfeld in Block Out.",
+          "Layout ist 2×2 Raster: obere linke Boss `14`, obere rechte Boss `21`, untere rechte Boss `4`, und packed Farbe mix in untere linke.",
+          "`4` Boss öffnet untere half, colored Blöcke drain nächste, dann `14` falls bevor `21`.",
+          "Jede phase depends auf one bevor es, und ordering ist absolute."
+        ],
+        "colors": ["green", "yellow", "blue", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J1xBsJ6eOEs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J1xBsJ6eOEs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Check untere rechte `4` Zähler bevor touching anything über es — wenn es ist still alive, neither obere Boss kann bewegen.",
+        "Cascade ist strict: `4` → Farben → `14` → `21`. Kein shortcuts.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Arbeiten Blöcke around untere rechte `4` chamber erste — verschieben adjacent colored Blöcke toward unten exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Thin colored Blöcke in untere linke quadrant (grün, gelb, blau, rot, lila) zu create Raum für `4` Boss zu collapse."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Once `4` Zähler fällt … lassen zu zero (around 01:47), verwenden freigegeben untere rechte Platz zu accelerate Farbe drain."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Starten obere linke `14` Boss nur nach untere half ist mostly öffnen — anschauen sein Zähler fallen lassen durch `10`."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Behalten obere rechte `21` Boss geparkt while `14` ist still falling."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Let `21` Boss begin sein descent nur nach `14` chamber hat fully emptied und obere roof ist lighter."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte colored Blöcke und Seite Zähler nach alle three Bosse sind gone."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort zwischen alle three Bosse von starten — none reaches critical threshold, und das Spielfeld stalls weil kein single chamber gets enough Raum.",
+        "Attempting zu reduce `21` Boss bevor `14` hat collapsed, welche verschwendet limited obere Raum auf larger Zähler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/39/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 39 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 39 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

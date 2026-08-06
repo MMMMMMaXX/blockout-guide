@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-132",
+  "locale": "pt-br",
+  "levelNumber": 132,
+  "title": "Guia do nível 132 do Block Out",
+  "summary": "O nível 132 do Block Out fixa quatro sobreposições brancas `11` em uma grade 6×6 com trilhos laterais roxos e paredes fixas que dividem o espaço. Os blocos `6` — não as âncoras `11` — são os verdadeiros objetivos, e devem sair pelas pistas inferiores para baixo-...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/132/",
+        "layout": "O nível 132 do Block Out fixa quatro sobreposições brancas `11` em uma grade 6×6 com trilhos laterais roxos e paredes fixas que dividem o espaço. Os blocos `6` — não as âncoras `11` — são os verdadeiros objetivos, e devem sair pelas pistas inferiores de setas para baixo. O par amarelo `6` e verde `6` no centro são os últimos a sair; force-os antes que o trilho direito atinja `3` e a pista inferior se feche.",
+        "landmarks": [
+          "O nível 132 do Block Out fixa quatro sobreposições brancas `11` em uma grade 6×6 com trilhos laterais roxos e paredes fixas que dividem o espaço.",
+          "`6` blocos — não `11` âncoras — são real objetivos, e eles deve saída através inferior para baixo-seta pistas.",
+          "Amarelo `6` e verde `6` par em centro são último para deixe; force os antes que direita trilho hits `3` e inferior pista fecha."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DLaXwz5IAQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DLaXwz5IAQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Colapse tudo quatro 11 overlays antes que deslizando ciano direita-pista peça.",
+        "Limpar 6 blocos em ordem: amarelo, então verde/azul par, então vermelho através direita-trilho 3.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Quebre superior vermelho/azul par debaixo para cima triangles sem crossing esquerda-trilho azul 3."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque quatro branco 11 quadrante overlays inward enquanto lateral-trilho ciano 1 peça permanece vedado."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Detonate amarelo 6 aglomerado em superior-meio antes que deslizando ciano direita-pista peça."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar verde 6 e azul 6 par através inferior verde e amarelo para baixo setas."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente vermelho 6 block out direita-trilho 3 contador uma vez centro lacuna abre."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste restante lateral-trilho counts (3/1/3) para desbloqueie último ciano L-peça em direita."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Saída final verde e amarelo recortes através abra para baixo pistas para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Dividindo 11 overlay também cedo, que cadeados lateral-trilho 1 peça e selos centro.",
+        "Detonating vermelho 6 antes que centro lacuna abre, bloqueando inferior verde para baixo seta."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/132/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 132 do Block Out",
+    "description": "Resolva o nível 132 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

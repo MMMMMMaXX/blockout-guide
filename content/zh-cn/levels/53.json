@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-53",
+  "locale": "zh-cn",
+  "levelNumber": 53,
+  "title": "Block Out 第 53 关通关攻略",
+  "summary": "Block Out 第 53 关是一张密集网格，顶部有编号蓝色方块（计数 `6`、`4`、`7`、`9`），中央一块粉色方块作为支点，红/橙/蓝方块填满下方各列。瓶颈在于粉色中央方块——……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "Block Out 第 53 关是一张密集网格，顶部有编号蓝色方块（计数 `6`、`4`、`7`、`9`），中央一块粉色方块作为支点，红/橙/蓝方块填满下方各列。瓶颈在于粉色中央方块——它将棋盘一分为二。先清理底部，尽早移动粉色方块以打开中段，再将编号方块经各自出口送出。",
+        "landmarks": [
+          "Block Out 第 53 关是一张密集网格，顶部有编号蓝色方块（计数 `6`、`4`、`7`、`9`），中央一块粉色方块作为支点，红/橙/蓝方块填满下方各列。",
+          "瓶颈在于粉色中央方块——它将棋盘一分为二。",
+          "先清理底部，尽早移动粉色方块以打开中段，再将编号方块经各自出口送出。"
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "粉色中央方块是支点。底部一清空就移动它——它能解锁上、下两个部分。",
+        "顶部的编号蓝色方块需要多次经过出口。按计数从小到大依次清理。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将底部的红色横向方块向右出口滑出清除。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将左侧的橙色方块经左侧出口移出，打开左下区域。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "移动粉色中央方块——这是打开上、下两部分通道的关键支点。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "粉色方块移走后，将中部的黄色方块经左侧出口清除。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "开始将顶部的编号蓝色方块经匹配的出口送出，先从左侧的 `6` 方块开始。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "将右侧残余的紫色与蓝色方块经右侧出口清除。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "以最后的编号方块和任何残余方块收尾，完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "让粉色中央方块停留过久——它会分割棋盘，阻碍两半同时推进。",
+        "在底部各列清空前就试图送出编号蓝色方块，会导致路径堵塞。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 53 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 53 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

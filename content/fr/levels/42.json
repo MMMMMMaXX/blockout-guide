@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-42",
+  "locale": "fr",
+  "levelNumber": 42,
+  "title": "Guide Block Out Niveau 42",
+  "summary": "Block Out Niveau 42 est deux-colonne sorting énigme avec non bosses ou devices. Vert, rouge, blanc, et blocs noir sont empilé dans deux parallel vertical channels separated par dark centre divider, et chaque couleur doit reach son correspondant exi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "Block Out Niveau 42 est deux-colonne sorting énigme avec non bosses ou devices. Vert, rouge, blanc, et blocs noir sont empilé dans deux parallel vertical channels separated par dark centre divider, et chaque couleur doit reach son correspondant sortie à le bas. résolvez works de haut à bas: pelez supérieur blocs premier à create salle, décalez blanc centre blocs à enable croisez-colonne swaps, et sort chaque couleur à son sortie.",
+        "landmarks": [
+          "Block Out Niveau 42 est deux-colonne sorting énigme avec non bosses ou devices.",
+          "Vert, rouge, blanc, et blocs noir sont empilé dans deux parallel vertical channels separated par dark centre divider, et chaque couleur doit reach son correspondant sortie à le bas.",
+          "Résolvez works de haut à bas: pelez supérieur blocs premier à create salle, décalez blanc centre blocs à enable croisez-colonne swaps, et sort chaque couleur à son sortie."
+        ],
+        "colors": ["green", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Work de haut à bas — abaissez blocs cannot sort jusqu'à supérieur ones ont cleared leur colonne espace.",
+        "Blanc centre blocs sont swap enablers, pas premier coups.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez blocs de le haut de one outer colonne à create premier gap."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Mirror cleanup sur opposite colonne à gardez plateau équilibrées."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez blanc centre blocs à enable croisez-colonne movement."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Sort les blocs rouge vers rouge sortie inférieure et blocs vert vers la sortie vert."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Continue working de haut à bas, dégagement chaque couleur layer dans tournez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Gardez le centre divider ouvrez pour final croisez-colonne swaps."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier blocs une fois les deux colonnes sont sorted à leur sorties."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à utilisez le centre blocs blanc avant outer colonnes ont thinned — croisez-colonne swaps besoin salle que seulement exists après le haut layers sont peeled.",
+        "Working le bas blocs avant le haut est cleared, qui jams colonnes parce que là est non vertical salle à sort."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 42",
+    "description": "Résolvez le niveau 42 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-123",
+  "locale": "de",
+  "levelNumber": 123,
+  "title": "Block Out Level 123 Lösung",
+  "summary": "Block Out Level 123 wraps perimeter frame around central lila tube, mit hammer-tool Hindernisse guarding numbered pocket Zähler. Perimeter Kacheln muss drain bevor tube accepts input — und grün `3` Kachel highlighted...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/123/",
+        "layout": "Block Out Level 123 wraps perimeter frame around central lila tube, mit hammer-tool Hindernisse guarding numbered pocket Zähler. Perimeter Kacheln muss drain bevor tube accepts input — und grün `3` Kachel highlighted mit gelb line ist gating Bauteil. Räumen obere linke pink pocket erste, dann arbeiten hammer tools inward zu öffnen tube.",
+        "landmarks": [
+          "Block Out Level 123 wraps perimeter frame around central lila tube, mit hammer-tool Hindernisse guarding numbered pocket Zähler.",
+          "Perimeter Kacheln muss drain bevor tube accepts input — und grün `3` Kachel highlighted mit gelb line ist gating Bauteil.",
+          "Räumen obere linke pink pocket erste, dann arbeiten hammer tools inward zu öffnen tube."
+        ],
+        "colors": ["pink", "green", "orange", "blue", "purple", "white", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hMB1I2XGFso",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hMB1I2XGFso",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break orange hammer-tool pair bevor feeding irgendein blau Kachel in central tube.",
+        "Behalten unten pink Reihe geparkt bis oben perimeter ist fully thin.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen obere linke pink `4` cluster und grün `5` Kachel ohne touching central orange `3`."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break twin orange hammer-tool Blöcke auf obere rechte bevor feeding irgendein rechts-Wand blau Kacheln."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Drain links-Wand blau `5` Spalte und weiß `1` Ecke Kachel zu öffnen links tube entrance."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen unten pink Reihe und grün/orange unten pair once oben perimeter ist thin."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Ansteuern grün `3` Kachel durch central lila tube verwendend gelb vertikale Bahn marker."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden rechts-Wand blau `4`/`2` pair und remaining blau scraps für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Feeding blau Kacheln in tube bevor hammer-tool Blöcke break — dieses pins grün `3` inside.",
+        "Räumend unten pink Reihe bevor oben perimeter thins, sealing tube corridor."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/123/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 123 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 123 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

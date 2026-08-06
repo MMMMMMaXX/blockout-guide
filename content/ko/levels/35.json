@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-35",
+  "locale": "ko",
+  "levelNumber": 35,
+  "title": "블록 아웃 레벨 35 공략",
+  "summary": "블록 아웃 레벨 35는 대부분 빈 방에 있는 장치 게이트 퍼즐입니다. 왼쪽의 보라색 `8` 장치와 오른쪽의 녹색 `7` 장치가 출구 통행을 추적하고, 빨간색 오른쪽 출구와 파란색 아래쪽 출구를 통해 조각을 보내는 순서가 다음에 어떤 블록이 생성되는지 결정합니다. 방은 처음에 성글지만 출구를 잘못된 순서로 쓰면 빨리 차고로 됩니다 — 다음 생성을 위해 항상 하나의 차선을 열어두세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "블록 아웃 레벨 35는 대부분 빈 방에 있는 장치 게이트 퍼즐입니다. 왼쪽의 보라색 `8` 장치와 오른쪽의 녹색 `7` 장치가 출구 통행을 추적하고, 빨간색 오른쪽 출구와 파란색 아래쪽 출구를 통해 조각을 보내는 순서가 다음에 어떤 블록이 생성되는지 결정합니다. 방은 처음에 성글지만 출구를 잘못된 순서로 쓰면 빨리 차고로 됩니다 — 다음 생성을 위해 항상 하나의 차선을 열어두세요.",
+        "landmarks": [
+          "블록 아웃 레벨 35는 대부분 빈 방에 있는 장치 게이트 퍼즐입니다.",
+          "왼쪽의 보라색 `8` 장치와 오른쪽의 녹색 `7` 장치가 출구 통행을 추적하고, 빨간색 오른쪽 출구와 파란색 아래쪽 출구를 통해 조각을 보내는 순서가 다음에 어떤 블록이 생성되는지 결정합니다.",
+          "방은 처음에 성글지만 출구를 잘못된 순서로 쓰면 빨리 차고로 됩니다 — 다음 생성을 위해 항상 하나의 차선을 열어두세요."
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "방은 대부분 비어 있어 쉬워 보이지만, 각 출구는 새 블록을 생성합니다 — 하나의 차선을 비워두세요.",
+        "오른쪽 녹색 `7` 장치를 먼저, 그다음 왼쪽 보라색 `8`을 서비스하세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "녹색 `7` 장치를 먼저 서비스하려면 빨간색 L자 블록을 오른쪽 벽 출구 쪽으로 밀어내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "빨간색 블록이 치워진 뒤 노란색 막대를 아래쪽 파란색 출구 쪽으로 움직이세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "생성된 뒤따르는 조각이 출구를 막지 않게 어두운 가운데 블록을 간격재로 사용하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "다음 생성된 조각을 자신의 게이트로 보내 왼쪽 보라색 `8` 장치를 서비스하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "새 조각이 생기면서 오른쪽과 아래쪽 출구 사이를 계속 번갈아 가며 작업하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "항상 하나의 차선을 비워두세요 — 영상 00:52 부근에서 잠금 위험이 보입니다."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "두 장치 카운터가 모두 0이 되고 더 이상 블록이 생성되지 않으면 마지막 색상 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "오른쪽 빨간색 출구를 서비스하기 전에 아래쪽 파란색 출구를 쓰는 것, 그러면 잘못된 뒤따르기 조각이 생성되어 장치 순서가 어긋납니다.",
+        "생성된 블록이 마지막 열린 차선을 채우게 내버려두는 것 — 방이 가득 차면 되살릴 수 있는 수가 없습니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 35 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 35을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

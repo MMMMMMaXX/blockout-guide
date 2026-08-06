@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-9",
+  "locale": "ja",
+  "levelNumber": 9,
+  "title": "ブロックアウト レベル9 攻略",
+  "summary": "ブロックアウト レベル9は、狭い中央の切り欠きを持つ双塔パズルです。まず右の黄の出口を消去し、青に中央の空洞を与え、その後は緑・ピンク・赤を枠に沿って時計回りに回転させます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "ブロックアウト レベル9は、狭い中央の切り欠きを持つ双塔パズルです。まず右の黄の出口を消去し、青に中央の空洞を与え、その後は緑・ピンク・赤を枠に沿って時計回りに回転させます。",
+        "landmarks": [
+          "ブロックアウト レベル 9 双塔パズル 狭い中央の切り欠き.。",
+          "黄出口を消去して右に、青 中央の空洞、回転させる 緑、ピンク、赤 時計回りに 周りを 枠.。",
+          "混ぜる ピンク、赤、黄、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "黄出口を使いて右に、割る .。",
+        "中央 青 ブロック 手順 .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "をスライドさせて-右 黄 ブロックアウト 黄の出口 右の壁.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "手順 中央 青 ブロック 開始、中央の 塞ぎ.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を回転させて下の-右 緑 ブロック 下へ、引く 下の-左 青 ブロック レーン.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて解放し 中央 ピンク 渡り 上、中央の カウンター 縮める.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を出して下部の赤 ブロック 中央、緑、青 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を取っておきて上-角 赤、上の レーン 消去する.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて赤 ペア 渡り 上 出口、青 ブロック 排出する 青 終える.。"
+        }
+      ],
+      "failurePoints": [
+        "を残して中央 青 ブロック 配置し、右 黄 出口 開く.。",
+        "無理に動かす 上 赤、下の 緑、青 回転させ.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル9 攻略と解説",
+    "description": "ブロックアウト レベル9 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

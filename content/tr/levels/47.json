@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-47",
+  "locale": "tr",
+  "levelNumber": 47,
+  "title": "Block Out Seviye 47 Rehberi",
+  "summary": "Block Out Seviye 47 unique merdiven-şekilli tahta nere sol yan descends adımlarda ve sağ yan straight duvar. numaralı sayaçlar `11`, `13`, `9`, ve `22` gömülü merdivende. summit misleading — ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "Block Out Seviye 47 unique merdiven-şekilli tahta nere sol yan descends adımlarda ve sağ yan straight duvar. numaralı sayaçlar `11`, `13`, `9`, ve `22` gömülü merdivende. summit misleading — tahta açılır sağdan-yan şerit ve orta slope. temizle `9` altda-sol ilk, soy orta layers, ve sakla `22` altda-sağ için son.",
+        "landmarks": [
+          "Block Out Seviye 47 unique merdiven-şekilli tahta nere sol yan descends adımlarda ve sağ yan straight duvar.",
+          "Numaralı sayaçlar `11`, `13`, `9`, ve `22` gömülü merdivende.",
+          "Summit misleading — tahta açılır sağdan-yan şerit ve orta slope.",
+          "Temizle `9` altda-sol ilk, soy orta layers, ve sakla `22` altda-sağ için son."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Summit distraction — Seviye 47 açılır sağdan-yan şerit ve orta slope.",
+        "`22` altda-sağ son parça. değil dokun o kadar orta layers gitti.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle `9` sayaç altda-sol oluştur ilk açarak."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Açık sağ gadget şerit ve daha düşük onun counts."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Soy merdiven ortadan — `11` ve `13` bloklar — daha ziyade peak."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Tut üst ipucu merdiven park edildi kadar daha düşük bölüm temizle."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Döndür daha düşük renkli parçalar açıldıdan cepler."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Azalt `22` sayaç altda-sağ sadece sonra orta çoğunlukla gitti."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile üst merdiven ipucu ve son yan temizlik."
+        }
+      ],
+      "failurePoints": [
+        "Başlayarak veryde üst merdiven, hangi keeps daha düşük şeritler clogged ve israf eder sadece kullanışlı yönlendir.",
+        "Deneyerek azalt `22` sayaç önce orta layers (`11` ve `13`) gitti, hangi bırakır hayır alan için heavy parça hareket ettir."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 47 Rehberi ve Çözümü",
+    "description": "Block Out seviye 47'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

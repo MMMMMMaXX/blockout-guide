@@ -1,0 +1,96 @@
+{
+  "id": "de-level-43",
+  "locale": "de",
+  "levelNumber": 43,
+  "title": "Block Out Level 43 Lösung",
+  "summary": "Block Out Level 43 ist dense tetromino Spielfeld centered auf large blau überqueren-shaped Block dass beherrscht Mitte-rechts und Blöcke four directions bei once. Rot L-shapes fill links und untere areas, grün Blöcke sitzen in untere rechte...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/43/",
+        "layout": "Block Out Level 43 ist dense tetromino Spielfeld centered auf large blau überqueren-shaped Block dass beherrscht Mitte-rechts und Blöcke four directions bei once. Rot L-shapes fill links und untere areas, grün Blöcke sitzen in untere rechte, und gelb Blöcke sind scattered in Mitte-links. Lösen zieht ab von edges inward: extract rot L-shapes erste, verschieben blau überqueren once es hat Raum, dann beenden grün und gelb Blöcke durch unten exits.",
+        "landmarks": [
+          "Block Out Level 43 ist dense tetromino Spielfeld centered auf large blau überqueren-shaped Block dass beherrscht Mitte-rechts und Blöcke four directions bei once.",
+          "Rot L-shapes fill links und untere areas, grün Blöcke sitzen in untere rechte, und gelb Blöcke sind scattered in Mitte-links.",
+          "Lösen zieht ab von edges inward: extract rot L-shapes erste, verschieben blau überqueren once es hat Raum, dann beenden grün und gelb Blöcke durch unten exits."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OlsWS-kJ0KI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OlsWS-kJ0KI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Blau überqueren Blöcke four directions bei once — tu nicht versuchen zu bewegen es bis surrounding L-shapes sind thinned.",
+        "Räumen rot L-shapes von links edge erste zu create meisten Raum.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben small Bauteil hinaus durch oben Ausgang zu create erste gap."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract rot L-shaped Blöcke von linke Seite durch Seite exits."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Thin gelb Blöcke in Mitte-links zu give blau überqueren Raum zu verschieben."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Drehen blau überqueren-shaped Block once surrounding Platz ist wide enough."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben grün Blöcke toward unten Ausgang nach überqueren hat bewegt."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen remaining rot und gelb fragments durch available exits."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte Block once das Spielfeld ist mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu force blau überqueren durch narrow gap bevor surrounding L-shapes sind thinned — überqueren needs clearance auf multiple sides zu bewegen.",
+        "Ignoring links-Seite rot L-shapes und Eröffnungs- von unten, welche lässt Mitte too tight für überqueren zu drehen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/43/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 43 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 43 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

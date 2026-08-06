@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-109",
+  "locale": "pt-br",
+  "levelNumber": 109,
+  "title": "Guia do nível 109 do Block Out",
+  "summary": "Block Out Nível 109 é Super Difícil blast tabuleiro construído ao redor três azul `6` pillars e fileira de martelo tools. hammers quebre pilar peças, e amarelo orb follows drawn vermelho e amarelo caminhos para termine último aglomerados. pegue é...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/109/",
+        "layout": "Block Out Nível 109 é Super Difícil blast tabuleiro construído ao redor três azul `6` pillars e fileira de martelo tools. hammers quebre pilar peças, e amarelo orb follows drawn vermelho e amarelo caminhos para termine último aglomerados. pegue é sequencing: uma vez direita martelo é spent, centro blast orb deve fire — mas triggering ele antes que esquerda caminho limpa strands metade tabuleiro.",
+        "landmarks": [
+          "Block Out Nível 109 é Super Difícil blast tabuleiro construído ao redor três azul `6` pillars e fileira de martelo tools.",
+          "Hammers quebre pilar peças, e amarelo orb follows drawn vermelho e amarelo caminhos para termine último aglomerados.",
+          "Pegue é sequencing: uma vez direita martelo é spent, centro blast orb deve fire — mas triggering ele antes que esquerda caminho limpa strands metade tabuleiro."
+        ],
+        "colors": ["blue", "red", "purple", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MOEMMEAt4Lg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MOEMMEAt4Lg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Amarelo blast orb é finisher, não opener.",
+        "Salve amarelo martelo até superior-direita `10` contador é visível.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Use verde martelo peça em esquerda azul `6` pilar para solte superior-esquerda `13` contador."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Gaste roxo martelo em centro `6` pilar uma vez esquerda trilho reads `10`."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar esquerda `8` peça ao longo vermelho guide caminho antes que tocando direita pilar."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Salve amarelo martelo até superior-direita `10` contador é visível e direita trilho ainda mostra `7`."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Quebre direita azul `6` pilar, então mova amarelo blast orb ao longo amarelo guide caminho."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine inferior amarelo peça debaixo starburst e feche restante lateral-trilho `9` contagem."
+        }
+      ],
+      "failurePoints": [
+        "Triggering amarelo blast orb antes que esquerda `8` peça é indo.",
+        "Gastando amarelo martelo também cedo, deixando direita pilar unbreakable."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/109/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 109 do Block Out",
+    "description": "Resolva o nível 109 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

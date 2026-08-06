@@ -1,0 +1,102 @@
+{
+  "id": "de-level-99",
+  "locale": "de",
+  "levelNumber": 99,
+  "title": "Block Out Level 99 Lösung",
+  "summary": "Block Out Level 99 ist Expert Level — densest und longest Puzzle in 50–100 range bei 138 Sekunden. Large gelb/orange überqueren-shaped Block beherrscht Mitte, lila/blau Block fills obere linke Ecke, grün Blöcke stapeln...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "Block Out Level 99 ist Expert Level — densest und longest Puzzle in 50–100 range bei 138 Sekunden. Large gelb/orange überqueren-shaped Block beherrscht Mitte, lila/blau Block fills obere linke Ecke, grün Blöcke stapeln vertically auf rechts, pink/magenta Blöcke line links, und rot Blöcke fill remaining gaps. Verklemmen/key icons auf bei least four Blöcke force specific räumend Reihenfolge. Extract edge Blöcke erste, räumen grün und pink masses zu expose überqueren, dann ansteuern es hinaus letzte.",
+        "landmarks": [
+          "Block Out Level 99 ist Expert Level — densest und longest Puzzle in 50–100 range bei 138 Sekunden.",
+          "Large gelb/orange überqueren-shaped Block beherrscht Mitte, lila/blau Block fills obere linke Ecke, grün Blöcke stapeln vertically auf rechts, pink/magenta Blöcke line links, und rot Blöcke fill remaining gaps.",
+          "Verklemmen/key icons auf bei least four Blöcke force specific räumend Reihenfolge.",
+          "Extract edge Blöcke erste, räumen grün und pink masses zu expose überqueren, dann ansteuern es hinaus letzte."
+        ],
+        "colors": ["red", "green", "blue", "orange", "pink", "yellow", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dieses ist 138-second marathon — planen Züge, tu nicht rush oder force.",
+        "Räumen grün stapeln (rechts) und pink mass (links) bevor anything else — sie expose überqueren Block's sides.",
+        "'Super Slow' badge bei ~01:48 means du sind hinter pace — prioritize sides."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen smallest edge Blöcke erste: türkis (untere rechte, rightward), blau (obere linke, nach oben), pink (linke Seite, leftward) — jede creates incremental Raum (02:19–02:09 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Begin räumend grün Blöcke gestapelt auf rechte Seite durch rechts-Wand Ausgang weil sie expose überqueren Block's rechts arm (02:09–01:59)."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen pink/magenta Blöcke auf linke Seite durch links-Wand Ausgang weil sie expose überqueren Block's links arm (01:59–01:48)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Unlock key Blöcke zu öffnen verklemmt paths — überqueren-shaped Block's verklemmen muss sein unlocked bevor es kann bewegen (01:48)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen large lila/blau Ecke Block von obere linke durch oben oder links Ausgang weil es gibt frei überqueren Block's obere arm (01:38–01:27)."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Extract rot Blöcke von remaining packed areas durch nearest exits (01:27–01:06)."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ansteuern gelb/orange überqueren-shaped Block durch widest available Ausgang Pfad — es needs clearance in alle four directions (01:06–00:56)."
+        },
+        {
+          "order": 8,
+          "title": "Zug 8",
+          "instruction": "Beenden mit letzte small Blöcke nach überqueren Bauteil hat exited (00:46–00:25)."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen überqueren-shaped Block bevor räumend alle four von sein arms — es extends hoch, runter, links, und rechts, und cannot bewegen bis jede direction ist räumen.",
+        "Falling hinter pace und seeing 'Super Slow' badge — wenn grün und pink masses sind still present bei 01:48, überqueren Block cannot Ausgang in time."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 99 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 99 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

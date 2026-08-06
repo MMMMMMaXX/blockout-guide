@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-134",
+  "locale": "tr",
+  "levelNumber": 134,
+  "title": "Block Out Seviye 134 Rehberi",
+  "summary": "Block Out Seviye 134 bir Zor dikey tahta embedding turuncu keys, mavi kilitlenir, ve wrench tools doğrudan blokda field alongside mor `12` kuleler ve üst `15` sökdır. Padlocked camgöbeği karo guards main çıkış şerit, ve ke...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/134/",
+        "layout": "Block Out Seviye 134 bir Zor dikey tahta embedding turuncu keys, mavi kilitlenir, ve wrench tools doğrudan blokda field alongside mor `12` kuleler ve üst `15` sökdır. Padlocked camgöbeği karo guards main çıkış şerit, ve anahtar ve kilitlen otur opposite yanlarda — orta camgöbeği çubuk meli kaydır sol önce anahtar ebilir ulaş kilitlen, veya sol-ok şerit seals.",
+        "landmarks": [
+          "Block Out Seviye 134 bir Zor dikey tahta embedding turuncu keys, mavi kilitlenir, ve wrench tools doğrudan blokda field alongside mor `12` kuleler ve üst `15` sökdır.",
+          "Padlocked camgöbeği karo guards main çıkış şerit, ve anahtar ve kilitlen otur opposite yanlarda — orta camgöbeği çubuk meli kaydır sol önce anahtar ebilir ulaş kilitlen, veya sol-ok şerit seals.",
+          "Tahta mor, mavi, camgöbeği ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "blue", "cyan", "red", "pink", "yellow", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72iQQbHvR1s",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72iQQbHvR1s",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle mavi 7 cep önce dokunarak kilitlendi camgöbeği karo alt kümede.",
+        "Eşleştir anahtar kilitlen önce kullanarak wrench tools mor Lde-taban.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kır üst 15 sök ve üç mor 12 kuleler olmadan dokunarak kilitlendi camgöbeği karo alt kümede."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle daha düşük-sol mavi 7 cep açığa çıkar alt 9 ve 4 sayaçlar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Eşleştir turuncu anahtar solda-merkez bant mavi kilitlen sağda-merkez."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan turuncu wrench tools solda ve sağ flanks serbest mor Le-taban bloklar."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır orta camgöbeği/light-mavi çubuk soldan-ok şerit sonra anahtar-kilitlen çift temizlenir."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kalan kırmızı ve pembe artıklar aşağı kırmızı ve mavi alt aşağı doğru oklar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle son mor taban bloklar için zor Level tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Detonating bomb karo kilitlendi camgöbeği blokda önce 7 cep temizlenir, mühürleyerek 9/4 kapı.",
+        "Hareket ettirerek mor L-taban önce anahtar-kilitlen çift temizlenir, re-engelleyerek alt aşağı doğru oklar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/134/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 134 Rehberi ve Çözümü",
+    "description": "Block Out seviye 134'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

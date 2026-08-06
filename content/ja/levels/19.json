@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-19",
+  "locale": "ja",
+  "levelNumber": 19,
+  "title": "ブロックアウト レベル19 攻略",
+  "summary": "ブロックアウト レベル19は、地下室優先の数字盤面です。まず下部の赤・緑・黒・白の積みを開き、次に巨大な「20/10」のシアンのカーペットを平らにならし、中央が柔らかくなった後でのみ黄の屋根を使います。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "ブロックアウト レベル19は、地下室優先の数字盤面です。まず下部の赤・緑・黒・白の積みを開き、次に巨大な「20/10」のシアンのカーペットを平らにならし、中央が柔らかくなった後でのみ黄の屋根を使います。",
+        "landmarks": [
+          "ブロックアウト レベル 19 地下- .。",
+          "を開きて下部の赤、緑、黒、白の積み、`20/10` シアン、使う 黄 屋根、中央の .。",
+          "混ぜる シアン、青、黄、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["cyan", "blue", "yellow", "red", "green", "black", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "地下 .。",
+        "シアン、下の ブロッカー 回転させ.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を開きて右側 地下、下部の赤、緑 始める .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして黒、白 ブロッカー シアン 下.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を残して繰り返し `20/10` スラブ 配置し、地下 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "下の 積み、を始めてシアン 中央の 外へ.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を出して上 青- -黄 屋根 手順、中央 スラブ .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて側 カウンター 終える シアン .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "黄 屋根、下段の赤の出口.。"
+        }
+      ],
+      "failurePoints": ["を扱いて中央の シアン 開始 .。", "地下を残して手順 屋根.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル19 攻略と解説",
+    "description": "ブロックアウト レベル19 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-132",
+  "locale": "tr",
+  "levelNumber": 132,
+  "title": "Block Out Seviye 132 Rehberi",
+  "summary": "Block Out Seviye 132 pins dört beyaz `11` overlays 6×6 ızgara ile mor yan raylar ve fixed duvarlar dividing alan. `6` bloklar — değil `11` anchors — gerçek objectives, ve onlar meli çıkış alt aşağı doğru-...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/132/",
+        "layout": "Block Out Seviye 132 pins dört beyaz `11` overlays 6×6 ızgara ile mor yan raylar ve fixed duvarlar dividing alan. `6` bloklar — değil `11` anchors — gerçek objectives, ve onlar meli çıkış alt aşağı doğru-ok şeritler. sarı `6` ve yeşil `6` çift merkezde son bıraka; zorla onları önce sağ ray hits `3` ve alt şerit kapanır.",
+        "landmarks": [
+          "Block Out Seviye 132 pins dört beyaz `11` overlays 6×6 ızgara ile mor yan raylar ve fixed duvarlar dividing alan.",
+          "`6` bloklar — değil `11` anchors — gerçek objectives, ve onlar meli çıkış alt aşağı doğru-ok şeritler.",
+          "Sarı `6` ve yeşil `6` çift merkezde son bıraka; zorla onları önce sağ ray hits `3` ve alt şerit kapanır."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DLaXwz5IAQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DLaXwz5IAQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çökert tüm dört 11 overlays önce kaydırarak camgöbeği sağ-şerit parça.",
+        "Temizle 6 bloklar sırada: sarı, sonra yeşil/mavi çift, sonra kırmızı sağdan-ray 3.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kır üst kırmızı/mavi çift yukarı doğru triangles olmadan geçerek sol-ray mavi 3."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy dört beyaz 11 quadrant overlays inward sırasında yan-ray camgöbeği 1 karo kalır mühürlendi."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Detonate sarı 6 küme üst-orta önce kaydırarak camgöbeği sağ-şerit parça."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle yeşil 6 ve mavi 6 çift altdan yeşil ve sarı aşağı doğru oklar."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle kırmızı 6 blok dışarı sağ-ray 3 sayaç sonra merkez boşluk açılır."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca kalan yan-ray counts (3/1/3) kilidini aç son camgöbeği L-parça sağda."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Çıkış son yeşil ve sarı artıklar açık aşağı doğru şeritler için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Bölerek 11 overlay çok erken, hangi kilitlenir yan-ray 1 karo ve seals merkez.",
+        "Detonating kırmızı 6 önce merkez boşluk açılır, engelleyerek alt yeşil aşağı doğru ok."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/132/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 132 Rehberi ve Çözümü",
+    "description": "Block Out seviye 132'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

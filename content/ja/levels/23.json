@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-23",
+  "locale": "ja",
+  "levelNumber": 23,
+  "title": "ブロックアウト レベル23 攻略",
+  "summary": "ブロックアウト レベル23は、「11」と「8」と印が付いた2つの枠付き下部ボックスを持つ結び目盤面です。上部の青レーンと右の黄の出口を使って丸まった中央の経路をほどき、結び目がなくなったら2つのボスボックスを落下させます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "ブロックアウト レベル23は、「11」と「8」と印が付いた2つの枠付き下部ボックスを持つ結び目盤面です。上部の青レーンと右の黄の出口を使って丸まった中央の経路をほどき、結び目がなくなったら2つのボスボックスを落下させます。",
+        "landmarks": [
+          "ブロックアウト レベル 23 下の 箱 `11`、`8`.。",
+          "を使いて上 青 レーン、右 黄の出口 中央、出す ボス 箱 落ちる、.。",
+          "混ぜる 青、黄、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": ["中央、下の 箱.。", "上 青 通す、.。", "を考えて. 手順 上 手順、揃える.。"],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を通して上 青 通す、中央の ブロッカー.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄レーンを使いて右に、引く 上の 黄 列 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤のを回転させて、紫、中央の .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を始めて縮め `11` 箱、左 開き.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を出して`8` 箱 落ちる、右 消去し.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "上 赤、黄 配置する.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて青 上 通す、下の 枠 .。"
+        }
+      ],
+      "failurePoints": ["下の 箱 中央 .。", "を無視して右に、黄の出口、上 青 通す.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル23 攻略と解説",
+    "description": "ブロックアウト レベル23 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

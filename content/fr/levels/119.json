@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-119",
+  "locale": "fr",
+  "levelNumber": 119,
+  "title": "Guide Block Out Niveau 119",
+  "summary": "Block Out Niveau 119 est Super Hard packing plateau — numéroté pillars et arrow-marked polyomino pièces doit acheminez à travers U-shaped corridor avec non salle pour error. fixed Lego brick amas blocs one arm de U, et rainbow rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/119/",
+        "layout": "Block Out Niveau 119 est Super Hard packing plateau — numéroté pillars et arrow-marked polyomino pièces doit acheminez à travers U-shaped corridor avec non salle pour error. fixed Lego brick amas blocs one arm de U, et rainbow droite-retirez peut seulement sortie dans one direction. Forcez il avant vert snake chemin et violet winding shape ont gauche et U corridor verrous pour good.",
+        "landmarks": [
+          "Block Out Niveau 119 est Super Hard packing plateau — numéroté pillars et arrow-marked polyomino pièces doit acheminez à travers U-shaped corridor avec non salle pour error.",
+          "Fixed Lego brick amas blocs one arm de U, et rainbow droite-retirez peut seulement sortie dans one direction.",
+          "Forcez il avant vert snake chemin et violet winding shape ont gauche et U corridor verrous pour good."
+        ],
+        "colors": ["violet", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r_96PuAWsyE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r_96PuAWsyE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez le bas-gauche Lego amas avant la droite rainbow stack, ou U corridor closes.",
+        "Gardez la droite `8` colonne garé jusqu'à abaissez `2` poche a salle à décalez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez le haut-gauche bleu `3` marqueur et ouvrez espace autour la gauche orange-bordered `14` pilier."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez le bas-gauche Lego brick amas (vert/rouge/bleu/jaune) sans sealing central U corridor."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez la droite haut violet `8` colonne seulement après le bas `2` poche a salle à décalez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Acheminez rainbow droite-stack à travers abaissez grille utilisant vert droite-arrow voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez numéroté cyan `1` tuile sitting dans U-opening une fois la gauche `3` tour thins."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez le bas compteurs `8` et `1` et sortie arrow-directed L vert sur abaissez gauche."
+        }
+      ],
+      "failurePoints": [
+        "Routing rainbow droite-stack avant le bas-gauche Lego amas dégage — ce sceaux U corridor.",
+        "Shifting la droite `8` colonne pendant abaissez `2` poche est toujours boxed dans."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/119/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 119",
+    "description": "Résolvez le niveau 119 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

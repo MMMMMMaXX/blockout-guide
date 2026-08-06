@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-116",
+  "locale": "tr",
+  "levelNumber": 116,
+  "title": "Block Out Seviye 116 Rehberi",
+  "summary": "Block Out Seviye 116 wraps perimeter oklar merkezi turuncu-çerçeveli `6` cep — oklar live çıkışlar, değil süs. alt renk-sayaç tepşi izler progress, ve yan oklar meli açık sequenceda kaçın tuzağa düşürerek...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/116/",
+        "layout": "Block Out Seviye 116 wraps perimeter oklar merkezi turuncu-çerçeveli `6` cep — oklar live çıkışlar, değil süs. alt renk-sayaç tepşi izler progress, ve yan oklar meli açık sequenceda kaçın tuzağa düşürerek beyaz-çerçeveli mor kare merkezde-sağ. zorla mor kare sırasındadan alt sayaçlar hâlâ high ve tepşi seals shut.",
+        "landmarks": [
+          "Block Out Seviye 116 wraps perimeter oklar merkezi turuncu-çerçeveli `6` cep — oklar live çıkışlar, değil süs.",
+          "Alt renk-sayaç tepşi izler progress, ve yan oklar meli açık sequenceda kaçın tuzağa düşürerek beyaz-çerçeveli mor kare merkezde-sağ.",
+          "Zorla mor kare sırasındadan alt sayaçlar hâlâ high ve tepşi seals shut."
+        ],
+        "colors": ["purple", "blue", "green", "red", "cyan", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "nhsbZytgveo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=nhsbZytgveo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alt sayaç tepşi mühürle — wait kadar merkez-sağ mor highlight temizlenir.",
+        "Tut camgöbeği `12`/`10` çift park edildi kadar orta kanal actually widens.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst-sol mavi `8` ve yeşil üst küme olmadan dokunarak merkezi turuncu-çerçeveli `6` cep."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır kırmızı sol-ok sütun aşağı ve temizle alt-sol kırmızı `11` karo."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle camgöbeği `12` ve paired `10` karolar alt merkez sonradan orta kanal açılır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan highlighted beyaz-çerçeveli mor kare merkezde-sağ kilidini aç mavi sağ-ok çıkış."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Close alt-tepşi mavi `10`, `8`, ve `4` sayaçlar önce harcayarak mor `7` çift."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son yeşil 1x1 ve kalan perimeter ok çıkışlar kadar 6x6 ızgara boşalır."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak alt sayaç tepşi önce merkez-sağ mor highlight temizlenir — bu seals mavi sağ-ok çıkış.",
+        "Besleyerek camgöbeği `12`/`10` çift çok erken sırasında merkezi `6` cep hâlâ boxed ."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/116/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 116 Rehberi ve Çözümü",
+    "description": "Block Out seviye 116'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

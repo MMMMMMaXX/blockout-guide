@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-138",
+  "locale": "ja",
+  "levelNumber": 138,
+  "title": "ブロックアウト レベル138 攻略",
+  "summary": "ブロックアウト レベル138は、盤面の唯一の進行追跡系として3つのオレンジ枠の筒—「7」「9」「13」—を並べ、多色のベースグリッドからヘッダーの「2」装置を通して供給されます。右列の「3」カウンターとベースの板は、筒が入力を受け付ける前に整列する必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/138/",
+        "layout": "ブロックアウト レベル138は、盤面の唯一の進行追跡系として3つのオレンジ枠の筒—「7」「9」「13」—を並べ、多色のベースグリッドからヘッダーの「2」装置を通して供給されます。右列の「3」カウンターとベースの板は、筒が入力を受け付ける前に整列する必要があります。ヘッダーが作動する前に紫の塊を押すと、1つの赤ブロックが「9」の筒の供給通路へ流れ込み、最も長いカウンターが停滞します。",
+        "landmarks": [
+          "ブロックアウト レベル 138 上 オレンジ- — `7`、`9`、`13` — '、を通して台座 `2` 装置.。",
+          "右-列 `3` カウンター、台座 スラブ 整列させる、.。",
+          "紫塊を押して、赤 ブロック `9` 筒' 通す レーン、カウンター.。"
+        ],
+        "colors": ["yellow", "purple", "red", "blue", "green", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w0c0YTRTa2Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w0c0YTRTa2Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去して赤 下-中央 ブロック — 13 筒.。",
+        "を通して右に、-側 黄/青/赤 積み、7 列 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して下-左 青 四角、赤 ペア 青 左-矢印 レーン 始める 左 7 列.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "をスライドさせて中央 黄 ブロック 右へ 通す 中央の 9 列 右-側 2 カウンター.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を割りて右に、-側 黄/青/赤 積み 緑 右-矢印 レーン、7 列 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を通して紫、シアン 台座 上へ 右 13 列.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて2 装置、赤 棒、列 消去する.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "オレンジのを排出して右に、-列 3 カウンター、出口 赤 赤 下-矢印 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "消去 下-中央の赤のブロック、2、13 筒.。",
+        "右-側 積み、7 列、緑 右-矢印 レーン.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/138/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル138 攻略と解説",
+    "description": "ブロックアウト レベル138 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

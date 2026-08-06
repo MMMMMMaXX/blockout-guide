@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-144",
+  "locale": "pt-br",
+  "levelNumber": 144,
+  "title": "Guia do nível 144 do Block Out",
+  "summary": "O nível 144 do Block Out é um tabuleiro de contador Difícil construído em torno de torres roxas numeradas e uma fileira inferior de sete contas com uma chave inglesa. Os contadores das bordas decrescem de `15`/`12`/`20` para baixo conforme as torres escoam. Os dois grandes blocos roxos — `6` e...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/144/",
+        "layout": "O nível 144 do Block Out é um tabuleiro de contador Difícil construído em torno de torres roxas numeradas e uma fileira inferior de sete contas com uma chave inglesa. Os contadores das bordas decrescem de `15`/`12`/`20` para baixo conforme as torres escoam. Os dois grandes blocos roxos — `6` e `9` — encolhem em paralelo, e limpar a pilha esquerda antes que a barra inferior atinja `17` deixa a chave inglesa órfã, sem torre para destrancar.",
+        "landmarks": [
+          "O nível 144 do Block Out é um tabuleiro de contador Difícil construído em torno de torres roxas numeradas e uma fileira inferior de sete contas com uma chave inglesa.",
+          "Borda contadores tick de `15`/`12`/`20` para baixo como torres escoe.",
+          "Dois grande roxo blocos — `6` e `9` — encolha em paralelo, e limpando esquerda empilhe antes que inferior barra hits `17` deixa chave inglesa tool orphaned com no torre para desbloqueie."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hmv_9A-ga-k",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hmv_9A-ga-k",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use roxo chave inglesa em direita vermelho conta antes que quebrando direita 9 torre.",
+        "Limpar verde/vermelho/amarelo/verde base fileira em esquerda antes que tocando borda 15 contador.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Quebre superior 9 roxo bloco e descasque esquerda numerado empilhe (6/2/3/1) sem tocando chave inglesa conta."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar verde/vermelho/amarelo/verde base fileira em inferior-esquerda flank."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use roxo chave inglesa em direita vermelho conta para desbloqueie inferior conta fileira."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar direita-lateral azul 4 empilhe e adjacente laranja/verde/vermelho coluna."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Quebre restante grande roxo 6 e 9 torres uma vez borda contadores solte."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste esquerda 12/1 trilho e inferior 17 barra em restante recortes."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar último isolated laranja e azul blocos em base para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Limpando direita 9 torre antes que chave inglesa conta desbloqueia, vedando verde/vermelho inferior aglomerado.",
+        "Detonating conta fileira antes que esquerda 6/2/3/1 empilhe é totalmente peeled."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/144/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 144 do Block Out",
+    "description": "Resolva o nível 144 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

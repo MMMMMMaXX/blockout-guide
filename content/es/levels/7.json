@@ -1,0 +1,98 @@
+{
+  "id": "es-level-7",
+  "locale": "es",
+  "levelNumber": 7,
+  "title": "Guía de Block Out Nivel 7",
+  "summary": "El nivel 7 de Block Out es una alta escalera construida en torno a una salida lateral roja temprana. Envía primero el bloque rojo superior derecho, gira las escaleras blancas por el hueco liberado y deja que la masa negra colapse solo después de que hayan salido ambos rojos del lado derecho.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "El nivel 7 de Block Out es una alta escalera construida en torno a una salida lateral roja temprana. Envía primero el bloque rojo superior derecho, gira las escaleras blancas por el hueco liberado y deja que la masa negra colapse solo después de que hayan salido ambos rojos del lado derecho.",
+        "landmarks": [
+          "El nivel 7 de Block Out es una alta escalera construida en torno a una salida lateral roja temprana.",
+          "Envía primero el bloque rojo superior derecho, gira las escaleras blancas por el hueco liberado y deja que la masa negra colapse solo después de que hayan salido ambos rojos del lado derecho.",
+          "El tablero combina rojo, blanco, negro y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Usa primero la salida lateral roja superior derecha.",
+        "El bloque rojo inferior derecho sigue el mismo muro después de que se desplacen las escaleras blancas.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza el bloque rojo superior derecho fuera por la salida roja del muro derecho."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Sube el pilar blanco superior y usa el hueco derecho liberado para girar el bloque rojo inferior derecho hacia arriba."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Sigue moviendo las escaleras blancas centrales para que el bloque rojo inferior derecho también pueda salir por la misma salida lateral roja."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Tras salir ambos rojos del lado derecho, usa la altura extra para bajar el techo negro y separa los pilares blancos centrales."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Alimenta las escaleras blancas restantes hacia la salida inferior a medida que baja el contador del fondo."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Guarda el bloque rojo superior izquierdo para la limpieza final una vez que el centro se haya aplanado."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina drenando la última columna negra por el carril inferior."
+        }
+      ],
+      "failurePoints": [
+        "Ignorar la salida lateral roja superior derecha e intentar trabajar desde abajo primero.",
+        "Forzar el bloque rojo superior izquierdo demasiado pronto antes de que haya bajado el techo negro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 7",
+    "description": "Resuelve el nivel 7 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

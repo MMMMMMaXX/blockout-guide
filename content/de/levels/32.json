@@ -1,0 +1,96 @@
+{
+  "id": "de-level-32",
+  "locale": "de",
+  "levelNumber": 32,
+  "title": "Block Out Level 32 Lösung",
+  "summary": "Block Out Level 32 ist symmetrical frame-breaking Puzzle. Hoch rot Block formation shaped like hollow rectangle beherrscht Mitte, held in Platz durch türkis `2`-Zähler Blöcke auf beide sides und gelb `6` cap auf oben. Lösen requ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "Block Out Level 32 ist symmetrical frame-breaking Puzzle. Hoch rot Block formation shaped like hollow rectangle beherrscht Mitte, held in Platz durch türkis `2`-Zähler Blöcke auf beide sides und gelb `6` cap auf oben. Lösen requires even reduction von beide flanks: räumen türkis Zähler erste, abziehen outer rot Spalten, und nur dann fallen lassen gelb cap nach rot structure hat bereits loosened.",
+        "landmarks": [
+          "Block Out Level 32 ist symmetrical frame-breaking Puzzle.",
+          "Hoch rot Block formation shaped like hollow rectangle beherrscht Mitte, held in Platz durch türkis `2`-Zähler Blöcke auf beide sides und gelb `6` cap auf oben.",
+          "Lösen requires even reduction von beide flanks: räumen türkis Zähler erste, abziehen outer rot Spalten, und nur dann fallen lassen gelb cap nach rot structure hat bereits loosened."
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Anschauen symmetry — wenn one flank von rot formation schaut thicker als andere, equalize bevor continuing.",
+        "Gelb `6` cap ist keystone, nicht opener. Es fällt … lassen nur nach rot Spalten underneath sind thinned.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen links türkis `2`-Zähler Block zu öffnen thin Bahn auf links flank von rot formation."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Mirror dass durch räumend rechts türkis `2`-Zähler Block also beide flanks von rot mass sind exposed."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten peeling outer rot Spalten von beide edges jetzt dass Seite lanes exist."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Let gelb `6` cap bei oben begin lowering als rot Spalten underneath thin hinaus."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Continue alternating links und rechts rot Spalte arbeiten zu behalten formation balanced."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Once rot mass ist mostly getrennt, hinausführen freigegeben Bauteile durch Seite exits und unten gelb Pfeil."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit gelb cap und letzte inner rot Blöcke nach frame ist broken."
+        }
+      ],
+      "failurePoints": [
+        "Overworking one Seite von rot formation while andere stays intact — rot mass verschiebt in Wand auf undeveloped Seite und verklemmt das Spielfeld.",
+        "Versuchen zu entfernen gelb `6` cap bevor rot Spalten underneath haben thinned enough, welche just reseals Mitte."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 32 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 32 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

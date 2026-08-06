@@ -1,0 +1,91 @@
+{
+  "id": "es-level-102",
+  "locale": "es",
+  "levelNumber": 102,
+  "title": "Guía de Block Out Nivel 102",
+  "summary": "Block Out nivel 102 flips the usual formula — instead de sliding bloques fuera, tú're placing los en. An empty main grid sits sobre a inferior inventory de L-shapes y 2×2 clusters, y el contador step tracks cada transfer. The puzzle es...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out nivel 102 flips the usual formula — instead de sliding bloques fuera, tú're placing los en. An empty main grid sits sobre a inferior inventory de L-shapes y 2×2 clusters, y el contador step tracks cada transfer. The puzzle es spatial: fitting cada pieza cleanly without blocking la columna central, dónde one misplaced verde `1` baldosa puede seal el tablero.",
+        "landmarks": [
+          "Block Out nivel 102 flips the usual formula — instead de sliding bloques fuera, tú're placing los en.",
+          "An empty main grid sits sobre a inferior inventory de L-shapes y 2×2 clusters, y el contador step tracks cada transfer.",
+          "The puzzle es spatial: fitting cada pieza cleanly without blocking la columna central, dónde one misplaced verde `1` baldosa puede seal el tablero."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "morado", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantén la columna centro empty hasta the highlighted verde `1` pieza es placed.",
+        "Observa el contador step — tú should reach step 6 antes the inferior half es totalmente packed.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Suelta the primero inferior-tray cluster en the superior-izquierdo de el marco main a abierto the run (step 1)."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Place the siguiente two clusters a lo largo la fila superior así la columna centro stays empty."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Mueve the highlighted verde `1` pieza por el centro abierto columna antes filling the inferior half."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Transfer the mid-run L-shapes en the izquierdo y derecho inferior esquinas así ellos do no cross el carril centro."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Place the restante cian y morado pairs a lo largo la fila inferior de el marco main."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the último two-bloque grupo desde the inferior tray a finish the step-11 completion."
+        }
+      ],
+      "failurePoints": [
+        "Filling la columna centro antes the verde `1` pieza es placed — la pieza highlighted luego has no downward camino.",
+        "Suelte late L-shapes en the central de the grid instead de the inferior esquinas, que bloques the final placements."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 102",
+    "description": "Resuelve Block Out nivel 102 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

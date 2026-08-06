@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-7",
+  "locale": "tr",
+  "levelNumber": 7,
+  "title": "Block Out Seviye 7 Rehberi",
+  "summary": "Block Out Seviye 7 bir Uzun merdiven inşa edildi birden erken kırmızı yan çıkışdır. Gönder üst-sağ kırmızı blok uzakta ilk, döndür beyaz merdivenler serbest bırakıldı cep, ve bırak siyah kütle çökert sadece sonra her ikisi de sağ-yan kırmızılar gitti.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "Block Out Seviye 7 bir Uzun merdiven inşa edildi birden erken kırmızı yan çıkışdır. Gönder üst-sağ kırmızı blok uzakta ilk, döndür beyaz merdivenler serbest bırakıldı cep, ve bırak siyah kütle çökert sadece sonra her ikisi de sağ-yan kırmızılar gitti.",
+        "landmarks": [
+          "Block Out Seviye 7 bir Uzun merdiven inşa edildi birden erken kırmızı yan çıkışdır.",
+          "Gönder üst-sağ kırmızı blok uzakta ilk, döndür beyaz merdivenler serbest bırakıldı cep, ve bırak siyah kütle çökert sadece sonra her ikisi de sağ-yan kırmızılar gitti.",
+          "Tahta kırmızı, beyaz, siyah ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kullan üst-sağ kırmızı çıkış ilk.",
+        "Daha düşük-sağ kırmızı blok follows aynı duvar sonra beyaz merdivenler kaydır.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır üst-sağ kırmızı blok dışarı kırmızı kapıdan sağ duvarda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaldır üst beyaz direk ve kullan serbest bırakıldı sağ cep döndür daha düşük-sağ kırmızı blok yukarı doğru."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut shuffling orta beyaz merdivenler böylece daha düşük-sağ kırmızı blok ebilir ayrıca bırak aynı kırmızı yandan kapı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra her ikisi de sağ-yan kırmızılar gitti, kullan ekstra height çek siyah çatı aşağı ve bırak merkez beyaz direkler ayı."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle kalan beyaz merdivenler alt çıkışa alt sayaç küçülür."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sakla üst-sol kırmızı blok için geç temizlik sonra merkez flattened."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile boşaltarak son siyah sütun alt şeritden."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring üst-sağ kırmızı yan çıkış ve deneyerek çalış altdan ilk.",
+        "Forcing üst-sol kırmızı blok çok erken önce siyah çatı bırakıldı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 7 Rehberi ve Çözümü",
+    "description": "Block Out seviye 7'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

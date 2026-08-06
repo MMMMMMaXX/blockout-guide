@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-140",
+  "locale": "pt-br",
+  "levelNumber": 140,
+  "title": "Guia do nível 140 do Block Out",
+  "summary": "O nível 140 do Block Out usa quatro barras de pistão verticais como elevadores — cada uma deve corresponder à cor de sua coluna na grade superior antes que o círculo central `7` comece a contar ciclos. Os pistões só se movem quando sua cor corresponde, então a fileira superior...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "O nível 140 do Block Out usa quatro barras de pistão verticais como elevadores — cada uma deve corresponder à cor de sua coluna na grade superior antes que o círculo central `7` comece a contar ciclos. Os pistões só se movem quando sua cor corresponde, então os blocos de seta direcional da fileira superior devem ser limpos primeiro para revelar as cores alvo. Alinhe cada pistão e então escoe o círculo `7` para a limpeza PERFEITA.",
+        "landmarks": [
+          "O nível 140 do Block Out usa quatro barras de pistão verticais como elevadores — cada uma deve corresponder à cor de sua coluna na grade superior antes que o círculo central `7` comece a contar ciclos.",
+          "Pistons único travel quando seus cor corresponde, so superior fileira's direcional seta blocos deve limpar primeiro para revele alvo cores.",
+          "Align cada piston, então escoe `7` circle para Perfeito limpar."
+        ],
+        "colors": ["red", "yellow", "blue", "green", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantenha azul e amarelo pistons nível during abertura — raising amarelo cedo divide superior-fileira 1 par.",
+        "Limpar vermelho L-forma com esquerda/baixo setas antes que lowering amarelo piston em direita.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Raise vermelho piston barra para superior-fileira vermelho 2 bloco e deslize ele baixo vermelho inferior-seta para gaste 2 contador."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Align amarelo barra com amarelo 1 peça e azul barra com azul 1 peça, lowering cada através seu correspondência inferior-seta."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Raise verde barra para direita-coluna verde blocos e gaste branco 3 borda contador em superior-direita remova."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar superior painel superior fileira (roxo/amarelo/azul/verde com cima-setas) uma vez tudo quatro superior contadores hit zero."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize vermelho L-forma com esquerda/baixo setas através inferior-esquerda pista, então empurre azul vertical cima-seta bloco através centro corredor."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Inferior amarelo e roxo direita-lateral peças e gaste final central 7 circle para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Raising amarelo piston during passo 1, dividindo superior-fileira 1 par e locking central 7 acima 3.",
+        "Lowering amarelo piston antes que vermelho L-forma limpa, stranding azul baixo-seta bloco em base."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 140 do Block Out",
+    "description": "Resolva o nível 140 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

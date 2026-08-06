@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-15",
+  "locale": "fr",
+  "levelNumber": 15,
+  "title": "Guide Block Out Niveau 15",
+  "summary": "Block Out Niveau 15 est cible-coin twin-tour énigme. Ouvrez la droite voie jaune, tournez le milieu barres jusqu'à abaissez coin cibles peut quittez, et seulement alors dépensez encadré haut coins.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "Block Out Niveau 15 est cible-coin twin-tour énigme. Ouvrez la droite voie jaune, tournez le milieu barres jusqu'à abaissez coin cibles peut quittez, et seulement alors dépensez encadré haut coins.",
+        "landmarks": [
+          "Block Out Niveau 15 est cible-coin twin-tour énigme.",
+          "Ouvrez la droite voie jaune, tournez le milieu barres jusqu'à abaissez coin cibles peut quittez, et seulement alors dépensez encadré haut coins.",
+          "Le plateau mélange bleu, jaune et rose et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Droite voie jaune starts chaîne.",
+        "Abaissez coin cibles quittez avant supérieur encadré coins.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Ouvrez la droite voie jaune et utilisez il à commencez rotating le milieu rouge et blocs rose."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Gardez encadré bleu et jaune haut coins garé pendant le centre stack works vers le bas."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Libérez abaissez vert cible premier, alors abaissez rose cible une fois le bas notch est non longer encombré."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez nouveau bas espace à séparé central rouge et barres bleu."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Après abaissez coins sont gone, relâchez encadré supérieur droit jaune cible."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec encadré supérieur gauche bleu cible et dernier barre rouge à travers le haut."
+        }
+      ],
+      "failurePoints": [
+        "Spending haut-coin cadre avant abaissez cibles sont déjà déplaçant.",
+        "Ignoring la droite voie jaune et essayant à tournez le milieu stack dans placez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 15",
+    "description": "Résolvez le niveau 15 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

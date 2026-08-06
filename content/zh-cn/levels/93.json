@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-93",
+  "locale": "zh-cn",
+  "levelNumber": 93,
+  "title": "Block Out 第93关攻略",
+  "summary": "Block Out 第93关将两个紫色室方块排成 L 形——左侧橙色边框内计数「13」，下方橙色边框内计数「8」。红色、蓝色和黄色方块堆叠在「13」室右侧，蓝色方块上有锁/钥图标。周围方块稀疏，10 秒内清空，真正的挑战是两大室共需 21 次通过。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/93/",
+        "layout": "Block Out 第93关将两个紫色室方块排成 L 形——左侧橙色边框内计数「13」，下方橙色边框内计数「8」。红色、蓝色和黄色方块堆叠在「13」室右侧，蓝色方块上有锁/钥图标。周围方块稀疏，10 秒内清空，真正的挑战是两大室共需 21 次通过。",
+        "landmarks": [
+          "Block Out 第93关将两个紫色室方块排成 L 形——左侧橙色边框内计数「13」，下方橙色边框内计数「8」。",
+          "红色、蓝色和黄色方块堆叠在「13」室右侧，蓝色方块上有锁/钥图标。",
+          "周围方块稀疏，10 秒内清空，真正的挑战是两大室共需 21 次通过。"
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BZ2qelEr_qA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BZ2qelEr_qA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "周围方块 10 秒内清空——把规划时间花在保持「13」输送通道畅通上。",
+        "在开始任何输送前，先清空两室之间的小绿色和青色方块。",
+        "先输送「13」室，因为它耗时更长，且能受益于最大空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将右上角的红色方块经顶部或右墙出口推出，打开上方通道（02:26）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "清空钥匙方块以解锁中右部的蓝色方块（02:23）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将已解锁的蓝色方块和黄色方块经右墙出口滑出，彻底清空右侧通道（02:20）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "通过最近的出口清空两室之间的小绿色和青色方块，因为它们可能飘入输送路径（02:17）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "开始将紫色「13」室经左墙出口输送——十三次通过，保持通道永久畅通（02:14–02:05）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "在它们到达「8」室区域之前，整理「13」室坍塌溢出的方块（02:05）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "将紫色「8」室经底部出口输送——八次通过收尾（02:02–01:54）。"
+        }
+      ],
+      "failurePoints": [
+        "在「13」输送期间留下两室之间的小绿色和青色方块——它们飘入输送通道，让计数器在通过中途卡住。",
+        "从「8」室开始——它位于「13」下方，受益于「13」坍塌后腾出的空间，而非之前。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/93/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第93关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第93关。"
+  },
+  "updatedAt": "2026-08-03"
+}

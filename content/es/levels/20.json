@@ -1,0 +1,98 @@
+{
+  "id": "es-level-20",
+  "locale": "es",
+  "levelNumber": 20,
+  "title": "Guía de Block Out Nivel 20",
+  "summary": "El nivel 20 de Block Out es un rompecabezas de jefe de dos habitaciones centrado en un enorme bloque morado `5`. Prepara la habitación inferior, mantén libre el tallo verde, reduce los contadores del marco alrededor del jefe y solo entonces deja resolverse la cámara superior.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "El nivel 20 de Block Out es un rompecabezas de jefe de dos habitaciones centrado en un enorme bloque morado `5`. Prepara la habitación inferior, mantén libre el tallo verde, reduce los contadores del marco alrededor del jefe y solo entonces deja resolverse la cámara superior.",
+        "landmarks": [
+          "El nivel 20 de Block Out es un rompecabezas de jefe de dos habitaciones centrado en un enorme bloque morado `5`.",
+          "Prepara la habitación inferior, mantén libre el tallo verde, reduce los contadores del marco alrededor del jefe y solo entonces deja resolverse la cámara superior.",
+          "El tablero combina morado, verde, rojo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Protege el tallo verde.",
+        "La habitación inferior es trabajo de soporte para el jefe superior.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Despeja espacio alrededor de la salida amarilla inferior en la habitación inferior para que empiecen a bajar los primeros contadores."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Gira los bloques rojo y azul de la habitación inferior sin bloquear el tallo verde central."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Mantén estacionado el morado `5` en la cámara superior mientras bajan los contadores del marco superior."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Usa la habitación inferior para seguir alimentando los lados de la cámara superior hasta que el marco del jefe esté casi abierto."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Libera el tallo verde solo después de que la habitación inferior tenga suficiente espacio vacío para absorber los próximos movimientos."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Deja que la cámara superior termine una vez que el bloque morado `5` ya no esté bloqueado por el marco."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Acaba con los últimos colores de la habitación inferior después de que el bloque jefe ya haya salido."
+        }
+      ],
+      "failurePoints": [
+        "Bloquear el conector verde con un bloque de color de la habitación inferior.",
+        "Intentar mover el morado `5` mientras los contadores del marco siguen altos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 20",
+    "description": "Resuelve el nivel 20 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

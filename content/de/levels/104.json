@@ -1,0 +1,93 @@
+{
+  "id": "de-level-104",
+  "locale": "de",
+  "levelNumber": 104,
+  "title": "Block Out Level 104 Lösung",
+  "summary": "Block Out Level 104 ist gravity Spielfeld — grün-Pfeil Kacheln nur fall nach unten, und Kette reactions ripple links zu rechts als Spalten collapse. Danger ist räumend Mitte too früh, bevor rechts-Spalte Pfeil Kacheln haben settled, welche...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out Level 104 ist gravity Spielfeld — grün-Pfeil Kacheln nur fall nach unten, und Kette reactions ripple links zu rechts als Spalten collapse. Danger ist räumend Mitte too früh, bevor rechts-Spalte Pfeil Kacheln haben settled, welche cuts ab endgültig Kette reaction dass sweeps das Spielfeld sauber.",
+        "landmarks": [
+          "Block Out Level 104 ist gravity Spielfeld — grün-Pfeil Kacheln nur fall nach unten, und Kette reactions ripple links zu rechts als Spalten collapse.",
+          "Danger ist räumend Mitte too früh, bevor rechts-Spalte Pfeil Kacheln haben settled, welche cuts ab endgültig Kette reaction dass sweeps das Spielfeld sauber.",
+          "Das Spielfeld mixes Türkis, Grün, Orange und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["cyan", "green", "orange", "purple", "pink", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Halve linke Wand bevor triggering Mitte abgleichen Kette.",
+        "Pfeil Kacheln cannot sidestep — sie need voll öffnen Spalte direkt beneath sie.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben von links stapeln durch obere exits zu öffnen erste nach unten Spalte."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Ziehen grün und türkis Kacheln hinaus von linke Wand bevor touching Mitte pairs."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Trigger obere-mittlere abgleichen Kette once vertikal gap runs beneath es (starburst around 01:42)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden blau splash Spalte zu fallen lassen remaining Mitte Pfeil Kacheln straight runter."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Sweep rechts-Seite orange und lila Pfeil Kacheln durch rechts-Wand exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden unten-Reihe pink und blau singles nach Raster ist mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Abgleichend Mitte cluster bevor linke Wand ist half gone — rechts-Spalte Pfeil Kacheln dann haben kein fallen lassen Bahn.",
+        "Räumend unten singles too früh while obere Pfeil Kacheln still Block Spalten über sie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 104 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 104 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

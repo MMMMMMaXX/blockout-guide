@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-31",
+  "locale": "ko",
+  "levelNumber": 31,
+  "title": "블록 아웃 레벨 31 공략",
+  "summary": "블록 아웃 레벨 31은 `5`, `9`, `10`, `13`이 표시된 청록색 판이 위에서 아래로 쌓여 있고 흰색과 검은색 세로 막대로 고정된 숫자 계단 보드입니다. 판은 오름차순으로 나가야 합니다 — `5` 먼저, `13` 마지막 — 그리고 그 사이 세로 막대는 각 판을 순서대로 잠금 해제하는 유일한 방법이므로 가장 먼저 벗겨내야 합니다.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "블록 아웃 레벨 31은 `5`, `9`, `10`, `13`이 표시된 청록색 판이 위에서 아래로 쌓여 있고 흰색과 검은색 세로 막대로 고정된 숫자 계단 보드입니다. 판은 오름차순으로 나가야 합니다 — `5` 먼저, `13` 마지막 — 그리고 그 사이 세로 막대는 각 판을 순서대로 잠금 해제하는 유일한 방법이므로 가장 먼저 벗겨내야 합니다.",
+        "landmarks": [
+          "블록 아웃 레벨 31은 `5`, `9`, `10`, `13`이 표시된 청록색 판이 위에서 아래로 쌓여 있고 흰색과 검은색 세로 막대로 고정된 숫자 계단 보드입니다.",
+          "판은 오름차순으로 나가야 합니다 — `5` 먼저, `13` 마지막 — 그리고 그 사이 세로 막대는 각 판을 순서대로 잠금 해제하는 유일한 방법이므로 가장 먼저 벗겨내야 합니다.",
+          "보드는 초록색, 청록색, 노란색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "숫자를 위에서 아래로 세세요. 한 판의 숫자가 그 위에 아직 놓인 판보다 높으면 순서가 틀린 것입니다.",
+        "세로 막대는 피해가며 작업할 장애물이 아닙니다 — 가장 먼저 제거할 것들입니다.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "가장자리 공간을 만들려면 오른쪽 위 흰색 블록과 왼쪽 노란색 세로 열을 치우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "맨 위 행이 열리면 왼쪽 위 모서리에서 녹색 `5` 블록을 꺼내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "확보한 맨 위 행을 이용해 가운데 `9` 판에서 검은색 세로 막대를 벗겨내세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "가운데 차선이 열리면 `9` 판을 이동시켜 아래쪽 두 `10` 판이 느슨해지게 하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "가운데가 그 폭에 충분히 비워지면 `10` 판을 하나씩 — 위쪽 것을 먼저 — 움직이세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "`10`이 나가면 맨 아래 중앙 `13` 판에 비로소 차선이 생깁니다. 가장 가까운 열린 출구 쪽으로 밀어내세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "모든 숫자 판이 나간 뒤 남은 작은 녹색, 노란색, 검은색 막대 조각을 치워 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "위에 있는 `10`이 아직 안 빠진 상태에서 `13` 판을 옮기려는 것 — 맨 아래 중앙은 계단 순서가 거기에 닿을 때까지 완전히 막혀 있습니다.",
+        "세로 막대를 제자리에 둔 채 좁아진 남은 틈으로 숫자 판을 밀려는 것, 그러면 보드가 즉시 멈춥니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 31 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 31을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

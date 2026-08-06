@@ -1,0 +1,98 @@
+{
+  "id": "es-level-28",
+  "locale": "es",
+  "levelNumber": 28,
+  "title": "Guía de Block Out Nivel 28",
+  "summary": "El nivel 28 de Block Out es un rompecabezas de cámaras apiladas con un jefe superior `6` y un jefe inferior `2`. Abre la sala inferior primero, colapsa el panel `2` a continuación y deja que el superior `6` caiga solo después de que la cámara ya esté girando.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "El nivel 28 de Block Out es un rompecabezas de cámaras apiladas con un jefe superior `6` y un jefe inferior `2`. Abre la sala inferior primero, colapsa el panel `2` a continuación y deja que el superior `6` caiga solo después de que la cámara ya esté girando.",
+        "landmarks": [
+          "El nivel 28 de Block Out es un rompecabezas de cámaras apiladas con un jefe superior `6` y un jefe inferior `2`.",
+          "Abre la sala inferior primero, colapsa el panel `2` a continuación y deja que el superior `6` caiga solo después de que la cámara ya esté girando.",
+          "El tablero combina azul, rosa, rojo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Resuelve el inferior `2` antes del superior `6`.",
+        "La cámara inferior es el espacio de trabajo de la fase uno.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Gira la cámara inferior primero y empieza a pelar el azul y el rosa por los carriles laterales."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Usa ese nuevo espacio para empezar a encoger el jefe enmarcado `2`."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Mantén el panel superior `6` estacionado mientras la cámara inferior sigue llena."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Cuando el marco `2` esté casi desaparecido, deja que el superior `6` por fin empiece a caer."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Usa las piezas rojas y amarillas finales para evitar que la cámara inferior se rellene."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina las salidas laterales cuando el jefe superior ya esté bajo."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Acaba con los últimos colores inferiores cuando ambos jefes hayan desaparecido."
+        }
+      ],
+      "failurePoints": [
+        "Intentar bajar el panel `6` antes de que el jefe `2` se haya abierto.",
+        "Dejar la cámara inferior llena después de que las primeras salidas ya estén disponibles."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 28",
+    "description": "Resuelve el nivel 28 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

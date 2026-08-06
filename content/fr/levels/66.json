@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-66",
+  "locale": "fr",
+  "levelNumber": 66,
+  "title": "Guide Block Out Niveau 66",
+  "summary": "Block Out Niveau 66 packs 5×7 grille avec large bleu '13' bloc à le haut, numéroté blocs bleu avec compteurs '5' dans le milieu, et directional arrow blocs sur sides. blocs numérotés doit sortie à travers leur portes pendant sid...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/66/",
+        "layout": "Block Out Niveau 66 packs 5×7 grille avec large bleu '13' bloc à le haut, numéroté blocs bleu avec compteurs '5' dans le milieu, et directional arrow blocs sur sides. blocs numérotés doit sortie à travers leur portes pendant côté blocs sont constrained à one direction. Dégagez le bas premier, alors work blocs numérotés vers le haut.",
+        "landmarks": [
+          "Block Out Niveau 66 packs 5×7 grille avec large bleu '13' bloc à le haut, numéroté blocs bleu avec compteurs '5' dans le milieu, et directional arrow blocs sur sides.",
+          "Blocs numérotés doit sortie à travers leur portes pendant côté blocs sont constrained à one direction.",
+          "Dégagez le bas premier, alors work blocs numérotés vers le haut."
+        ],
+        "colors": ["blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "WMLdROI6Sz8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=WMLdROI6Sz8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'13' bloc est marathon — dégagez smaller blocs numérotés premier à build espace.",
+        "Regardez numéroté compteurs. Ils decrease comme blocs sortie, showing votre progress.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez jaune et blocs bleu à le bas à travers la sortie droite à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs vert sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez dégagement numéroté blocs bleu dans le milieu à travers leur portes — compteurs decrease comme ils sortie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez les blocs rouge sur la droite à travers la sortie droite comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Tackle large bleu '13' bloc à le haut — il needs 13 sorties à fully dégagez."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant blocs piégé dans coins."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dégagez '13' bloc avant smaller blocs numérotés — il needs salle à glissez et sortie multiple times.",
+        "Dégagement le haut avant le bas, qui leaves abaissez blocs piégé avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/66/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 66",
+    "description": "Résolvez le niveau 66 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

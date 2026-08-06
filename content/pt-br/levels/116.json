@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-116",
+  "locale": "pt-br",
+  "levelNumber": 116,
+  "title": "Guia do nível 116 do Block Out",
+  "summary": "Block Out Nível 116 wraps perímetro setas ao redor central laranja-bordered `6` bolso — setas são ao vivo saídas, não decoração. inferior cor-contador bandeja tracks progresso, e lateral setas deve abra em sequência para evite prendendo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/116/",
+        "layout": "Block Out Nível 116 wraps perímetro setas ao redor central laranja-bordered `6` bolso — setas são ao vivo saídas, não decoração. inferior cor-contador bandeja tracks progresso, e lateral setas deve abra em sequência para evite prendendo branco-bordered roxo quadrado em centro-direita. Force roxo quadrado através enquanto inferior contadores são ainda high e bandeja selos shut.",
+        "landmarks": [
+          "Block Out Nível 116 wraps perímetro setas ao redor central laranja-bordered `6` bolso — setas são ao vivo saídas, não decoração.",
+          "Inferior cor-contador bandeja tracks progresso, e lateral setas deve abra em sequência para evite prendendo branco-bordered roxo quadrado em centro-direita.",
+          "Force roxo quadrado através enquanto inferior contadores são ainda high e bandeja selos shut."
+        ],
+        "colors": ["purple", "blue", "green", "red", "cyan", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "nhsbZytgveo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=nhsbZytgveo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Inferior contador bandeja é vede — espere até centro-direita roxo highlight limpa.",
+        "Mantenha ciano `12`/`10` par estacionado até meio canal actually widens.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior-esquerda azul `8` e verde superior aglomerado sem tocando central laranja-bordered `6` bolso."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize vermelho esquerda-seta coluna baixo e limpar inferior-esquerda vermelho `11` peça."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente ciano `12` e paired `10` peças através inferior centro uma vez meio canal abre."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use highlighted branco-bordered roxo quadrado em centro-direita para desbloqueie azul direita-seta saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Feche inferior-bandeja azul `10`, `8`, e `4` contadores antes que gastando roxo `7` par."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último verde 1x1 e restante perímetro seta saídas até 6x6 grade esvazia."
+        }
+      ],
+      "failurePoints": [
+        "Gastando inferior contador bandeja antes que centro-direita roxo highlight limpa — este selos azul direita-seta saída.",
+        "Alimentando ciano `12`/`10` par também cedo enquanto central `6` bolso é ainda boxed em."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/116/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 116 do Block Out",
+    "description": "Resolva o nível 116 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

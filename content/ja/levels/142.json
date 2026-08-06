@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-142",
+  "locale": "ja",
+  "levelNumber": 142,
+  "title": "ブロックアウト レベル142 攻略",
+  "summary": "ブロックアウト レベル142は、密な上部本体から狭い茎へと徐々に細くなる鍵穴の塔で、中央に固定された「21」の空白マーカーが施錠されています。3つの向き矢印の通路—青左、赤右、紫下—が唯一の出口です…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "ブロックアウト レベル142は、密な上部本体から狭い茎へと徐々に細くなる鍵穴の塔で、中央に固定された「21」の空白マーカーが施錠されています。3つの向き矢印の通路—青左、赤右、紫下—が唯一の出口です。塔はまず上部から重みを減らす必要があります—上部本体が細くなる前に右側のシアンリングを押すと、「21」の空白が崩れるブロックの下に埋もれたままになります。",
+        "landmarks": [
+          "ブロックアウト レベル 142 塔 密集した 上の、`21` 中央.。",
+          "矢印 レーン — 青 左、赤 右、紫 下 — 出口.。",
+          "塔 上、を押して右に、-側 シアン、上の、`21` 残し 埋まった .。"
+        ],
+        "colors": ["red", "blue", "yellow", "purple", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青のを開きて左 レーン、右 オレンジ 積み.。",
+        "21 タイル 手順 — 消去する 周りを、.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上 青 上-矢印 キャップ、赤/黄 上の 帯 ずらし 21 タイル.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を通して上の 下 紫 下-矢印 レーン 開く 下の-左 青 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "紫のを剥がして左に、/青 列 青 左-矢印 レーン、を残して.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "オレンジのを消去して右に、/黄 積み 赤 右-矢印 レーン、左 側 開く.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "シアンのを割りて周りを 中央の 黄 ブロック -塔 隙間.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "をスライドさせて青、オレンジ 下の 台座 の方へ 下 矢印.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "出口 ブロックアウト! 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "開始 右 オレンジ レーン、左 青 レーン、-塔 積み.。",
+        "手順 21 タイル、消去 周りを .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル142 攻略と解説",
+    "description": "ブロックアウト レベル142 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

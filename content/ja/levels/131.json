@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-131",
+  "locale": "ja",
+  "levelNumber": 131,
+  "title": "ブロックアウト レベル131 攻略",
+  "summary": "ブロックアウト レベル131は、中央のオレンジ「5」ゲートの周りに8の字の枠を巻き、青の左矢印、赤の右矢印、黄の下矢印が唯一の正当な出口通路を示しています。左下の青の「2」封印と上部の赤の「3」ブロックが同じ通路を奪い合います…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "ブロックアウト レベル131は、中央のオレンジ「5」ゲートの周りに8の字の枠を巻き、青の左矢印、赤の右矢印、黄の下矢印が唯一の正当な出口通路を示しています。左下の青の「2」封印と上部の赤の「3」ブロックが同じ通路を奪い合います—赤の「3」を露出した左下の通路を通して早く滑らせると、「5」ゲートは唯一の流入経路を失います。",
+        "landmarks": [
+          "ブロックアウト レベル 131 -8 枠 周りを 中央 オレンジ `5` 出口、青 左-矢印、赤 右-矢印、黄 下-矢印 出口 レーン.。",
+          "下の-左 青 `2` 塞ぐ、上の 赤 `3` ブロック 通路 — スライドさせる 赤 `3` 下の-左 レーン、`5` 出口 .。",
+          "混ぜる 黄、緑、青、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["yellow", "green", "blue", "red", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青のを通して-星 塊 左 矢印、3 カウンター 腰.。",
+        "を取っておきて赤の字型-塊 右-矢印 レーン、上の 部屋 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上 黄 腕、を使いて中央 オレンジ 5 出口 下の-左 2 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "をスライドさせて下の-左 青-星 塊 青 左-矢印 レーン 腰 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を割りて中央 紫 通路 落とす 赤 3 カウンター ブロック 腰 開始.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を通して下の-左 赤の字型-塊 赤 右-矢印 レーン、上の 部屋 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "をずらして緑 積み の方へ 黄 下へ-矢印 出口 下 中央.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して黄、青、紫 下 -空きマス 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "下の-左 2、中央 5 出口、腰.。",
+        "赤の字型-塊 右 矢印、上の 部屋、下へ 出口.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル131 攻略と解説",
+    "description": "ブロックアウト レベル131 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

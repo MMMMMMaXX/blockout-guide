@@ -1,0 +1,91 @@
+{
+  "id": "de-level-120",
+  "locale": "de",
+  "levelNumber": 120,
+  "title": "Block Out Level 120 Lösung",
+  "summary": "Block Out Level 120 ist fast crown-und-bomb Spielfeld where real objectives sind specific marked Kacheln — rot `15` und grün `25` crowns, rot `23` und gelb `48` bombs — nicht generic Farbgruppen. Padlock Reihe bei unten stays seale...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/120/",
+        "layout": "Block Out Level 120 ist fast crown-und-bomb Spielfeld where real objectives sind specific marked Kacheln — rot `15` und grün `25` crowns, rot `23` und gelb `48` bombs — nicht generic Farbgruppen. Padlock Reihe bei unten stays sealed bis crowns und bombs sind alle gone. Detonate hinaus von Reihenfolge und letzte bomb Blöcke endgültig rot Ausgang, one bewegen von PERFECT räumen.",
+        "landmarks": [
+          "Block Out Level 120 ist fast crown-und-bomb Spielfeld where real objectives sind specific marked Kacheln — rot `15` und grün `25` crowns, rot `23` und gelb `48` bombs — nicht generic Farbgruppen.",
+          "Padlock Reihe bei unten stays sealed bis crowns und bombs sind alle gone.",
+          "Detonate hinaus von Reihenfolge und letzte bomb Blöcke endgültig rot Ausgang, one bewegen von PERFECT räumen."
+        ],
+        "colors": ["red", "green", "blue", "cyan", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q5ubnDWBJ10",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q5ubnDWBJ10",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break rot `15` bevor grün `25` — crown pair Reihenfolge matters für links-Spalte hole.",
+        "Pop beide gelb `48` bombs bevor spending unten padlock Zähler.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Tap oben rot triangle Bauteil, dann räumen türkis `4` und blau `10` edge Kacheln."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break Mitte crown pair — rot `15` erste, dann grün `25` — bevor touching gelb `60` bricks."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Detonate rot `23` bomb Block once links-Spalte hole öffnet."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Pop beide gelb `48` bomb Kacheln while blau `8` und türkis `9` oben pair ist still movable."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend unten weiß `6` und `4` Zähler Kacheln zu unlock padlock Reihe."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden remaining rot unten scraps für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Detonating gelb `48` bombs nach padlock Reihe — one live bomb Blöcke endgültig rot Ausgang.",
+        "Touching gelb `60` bricks bevor rot `15` crown räumt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/120/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 120 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 120 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

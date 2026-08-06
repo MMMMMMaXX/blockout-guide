@@ -1,0 +1,91 @@
+{
+  "id": "de-level-108",
+  "locale": "de",
+  "levelNumber": 108,
+  "title": "Block Out Level 108 Lösung",
+  "summary": "Block Out Level 108 verwendet compact 6×6 Raster where links-rail numbers sind live progress markers, nicht decoration. Rot star cluster anchors Mitte und unten star bar seals endgültig Ausgang. Real constraint ist rechts-rail `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/108/",
+        "layout": "Block Out Level 108 verwendet compact 6×6 Raster where links-rail numbers sind live progress markers, nicht decoration. Rot star cluster anchors Mitte und unten star bar seals endgültig Ausgang. Real constraint ist rechts-rail `10` Kachel: sliding es too früh Blöcke untere hinausführen Bahn while star bar still needs Raum zu räumen.",
+        "landmarks": [
+          "Block Out Level 108 verwendet compact 6×6 Raster where links-rail numbers sind live progress markers, nicht decoration.",
+          "Rot star cluster anchors Mitte und unten star bar seals endgültig Ausgang.",
+          "Real constraint ist rechts-rail `10` Kachel: sliding es too früh Blöcke untere hinausführen Bahn while star bar still needs Raum zu räumen."
+        ],
+        "colors": ["red", "orange", "green", "blue", "purple", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "32sx09TztaI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=32sx09TztaI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Verwenden links-rail counts als checklist — oben count muss reach `8` bevor unten star bar kann fallen lassen.",
+        "Behalten untere-Mitte gap öffnen while peeling links grün Spalte.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Break hoch obere-mittlere rot star cluster bevor moving Seite singles."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen links grün Spalte while keeping untere-Mitte gap öffnen."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben orange vertikal bar nur nach links-rail oben count fällt … lassen von `11` zu `8`."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen remaining blau und türkis singles once links-rail mittlere counts read `6` und `1`."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen rechts-rail `10` Kachel hinaus durch rechts grün Pfeil Bahn."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Senden unten orange star bar durch nach unten Pfeil Ausgang."
+        }
+      ],
+      "failurePoints": [
+        "Moving rechts-rail `10` Kachel bevor links-rail oben count reaches `8`.",
+        "Filling untere-Mitte gap too früh, welche entfernt star bar's fallen lassen Bahn."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/108/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 108 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 108 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-25",
+  "locale": "ja",
+  "levelNumber": 25,
+  "title": "ブロックアウト レベル25 攻略",
+  "summary": "ブロックアウト レベル25は、背の高い側面レールを持つ砂時計の支持パズルです。まず白と黒の腰を開き、次に下部のピンク・シアンの部屋を回転させ、それからでのみ長い枠付きの側面列の使用を始めます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "ブロックアウト レベル25は、背の高い側面レールを持つ砂時計の支持パズルです。まず白と黒の腰を開き、次に下部のピンク・シアンの部屋を回転させ、それからでのみ長い枠付きの側面列の使用を始めます。",
+        "landmarks": [
+          "ブロックアウト レベル 25 側 レール.。",
+          "白のを開きて- -黒 腰、を回転させて下の ピンク-シアン 部屋、を始めて側 .。",
+          "混ぜる 紫、緑、ピンク、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "green", "pink", "cyan", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "腰を開きて、側 レール.。",
+        "下の 部屋 必要とし、側 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を剥がして白のはしご、黒 ブロッカー 首.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を維持して側 配置し 上の .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "腰、を回転させて下の ピンク、シアン 塊、部屋 上へ.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を通して側 列、下の 部屋 作り .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて分離する 側 列、緑 取り除く.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて下の 部屋、側 列 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "緑 通す、首 開く.。"
+        }
+      ],
+      "failurePoints": ["使う 側 レール 腰 .。", "を無視して下の 部屋、レール.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル25 攻略と解説",
+    "description": "ブロックアウト レベル25 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

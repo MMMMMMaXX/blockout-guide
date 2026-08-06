@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-72",
+  "locale": "zh-cn",
+  "levelNumber": 72,
+  "title": "Block Out 第72关攻略",
+  "summary": "Block Out 第72关在一个5×7的网格中，两侧有数字方块「6」和「11」，中间是自由滑动的笑脸方块，边缘是带方向箭头的方块。数字方块必须从其出口离开，而笑脸方块可自由移动。先清空底部……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/72/",
+        "layout": "Block Out 第72关在一个5×7的网格中，两侧有数字方块「6」和「11」，中间是自由滑动的笑脸方块，边缘是带方向箭头的方块。数字方块必须从其出口离开，而笑脸方块可自由移动。先清空底部，再处理笑脸方块，最后处理数字方块。",
+        "landmarks": [
+          "Block Out 第72关在一个5×7的网格中，两侧有数字方块「6」和「11」，中间是自由滑动的笑脸方块，边缘是带方向箭头的方块。",
+          "数字方块必须从其出口离开，而笑脸方块可自由移动。",
+          "先清空底部，再处理笑脸方块，最后处理数字方块。"
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "pNNtKRn73Cc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=pNNtKRn73Cc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中间的笑脸方块可自由滑动——利用这种自由为数字方块清理通道。",
+        "先清空较轻的「6」方块，再清空较重的「11」方块。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部的绿色笑脸方块从底部出口清空，打通底座。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧的黄色方块从左出口移出，打通左下区域。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始自由滑动中间的橙色和黄色笑脸方块——它们可向任意方向移动。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "随着中间打开，将右侧的蓝色方块从右出口清空。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "处理计数「6」和「11」的数字方块——先清空较轻的「6」。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理较重的「11」方块，其他清空后它的空间最充足。"
+        }
+      ],
+      "failurePoints": [
+        "在笑脸方块之前就清空数字「11」方块——「11」方块需要空间来滑动并多次出口。",
+        "先清上方再清下方，导致下方方块被卡住，没有滑动空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/72/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第72关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第72关。"
+  },
+  "updatedAt": "2026-08-03"
+}

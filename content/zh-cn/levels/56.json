@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-56",
+  "locale": "zh-cn",
+  "levelNumber": 56,
+  "title": "Block Out 第56关攻略",
+  "summary": "Block Out 第56关棋盘紧凑，顶部有一个紫色「3」方块，上方几行填满红色与蓝色方块，中间是黄色和绿色方块。难点在于紫色「3」——它挡住了上层区域。先清空底部……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/56/",
+        "layout": "Block Out 第56关棋盘紧凑，顶部有一个紫色「3」方块，上方几行填满红色与蓝色方块，中间是黄色和绿色方块。难点在于紫色「3」——它挡住了上层区域。先清空底部，再处理中间的黄色和绿色方块，最后清除顶部的数字方块。",
+        "landmarks": [
+          "Block Out 第56关棋盘紧凑，顶部有一个紫色「3」方块，上方几行填满红色与蓝色方块，中间是黄色/绿色方块。",
+          "难点在于紫色「3」——它挡住了上层区域。",
+          "先清空底部，再处理中间的黄色和绿色方块，最后清除顶部的数字方块。"
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sqRrXyRKFBA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sqRrXyRKFBA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "顶部的紫色「3」方块需要多次消除——先清空它下方的方块，给它留出滑动空间。",
+        "先清空底部几行，为上方数字方块腾出滑动空间。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部的红色和粉色方块移向右边出口，打通底部。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧的绿色方块从左出口移出，打通左下区域。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "通道已清空，将中间的黄色方块从左出口移出。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "开始将中间的蓝色方块从右出口清空。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "处理顶部的紫色「3」方块——它需要三个出口才能完全消除。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将右侧剩余的红色和蓝色方块从右出口清空。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "最后清理残留在角落里的方块。"
+        }
+      ],
+      "failurePoints": [
+        "在清空下方方块之前就试图消除紫色「3」方块——它需要空间来滑动并多次出口。",
+        "先清空上方再清下方，导致下方方块被卡住，没有滑动空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/56/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第56关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第56关。"
+  },
+  "updatedAt": "2026-08-03"
+}

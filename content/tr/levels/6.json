@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-6",
+  "locale": "tr",
+  "levelNumber": 6,
+  "title": "Block Out Seviye 6 Rehberi",
+  "summary": "Block Out Seviye 6 ilk kademeli-çıkış tahta. çökert sağ-yan kota ilk, tut her ikisi de üst `9` tavanlar küçülerek birlikte, ve sakla kırmızı ve sarı bitir çubuklar için moment üst kapılar çözül.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "Block Out Seviye 6 ilk kademeli-çıkış tahta. çökert sağ-yan kota ilk, tut her ikisi de üst `9` tavanlar küçülerek birlikte, ve sakla kırmızı ve sarı bitir çubuklar için moment üst kapılar çözül.",
+        "landmarks": [
+          "Block Out Seviye 6 ilk kademeli-çıkış tahta.",
+          "Çökert sağ-yan kota ilk, tut her ikisi de üst `9` tavanlar küçülerek birlikte, ve sakla kırmızı ve sarı bitir çubuklar için moment üst kapılar çözül.",
+          "Tahta kırmızı, sarı, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sağ-yan `4` sayaç ilk hedef.",
+        "Tut daha düşük kırmızı ve sarı çubuklar idle kadar yan şerit açılır.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır üst-sağ beyaz istifler üste-sağ şerit böylece o ebilir başla hitting sağ-yan kota sütun."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan merkez beyaz köprü tuta besleyerek sağ-yan sayaç kadar o düşer `4` `1`."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Döndür üst siyah engelleyici ve üst beyaz bloklar ikiden `9` sayaçlar böylece her ikisi de üst tavanlar tut küçülerek birlikte."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak daha düşük kırmızı sök ve daha düşük-sağ sarı sök park edildi sırasında damalı merkez hâlâ doing kota çalış."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra sağ duvar açılır beyaz bıraka şerit, soy son üst beyaz blok dışarı ve bitir üst geri sayım."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Ne zaman donmuş tavanlar convert renkliye çıkışlar, gönder sarı sök üst-sağ kapı."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile running son kırmızı sök üste-sol kırmızı kapı."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek harcaya daha düşük kırmızı veya sarı çubuklar önce sağ-yan sayaç neredeyse çöktü.",
+        "Sadece küçülerek bir üst `9` tavanlar ve bırakarak diğer bir donmuş."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 6 Rehberi ve Çözümü",
+    "description": "Block Out seviye 6'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

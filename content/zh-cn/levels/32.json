@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-32",
+  "locale": "zh-cn",
+  "levelNumber": 32,
+  "title": "Block Out 第 32 关通关攻略",
+  "summary": "Block Out 第 32 关是一个对称的破框拼图。一个形似空心矩形的高大红色方块阵占据中心，由两侧的青色 `2` 计数块和顶部的黄色 `6` 帽固定。解法需……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "Block Out 第 32 关是一个对称的破框拼图。一个形似空心矩形的高大红色方块阵占据中心，由两侧的青色 `2` 计数块和顶部的黄色 `6` 帽固定。解法要求从两翼均衡削减：先清除青色计数块，再剥离外侧红色列，待红色结构已经松动后才落下黄色帽。",
+        "landmarks": [
+          "一个形似空心矩形的高大红色方块阵占据中央，由两侧的青色 `2` 计数方块和顶部的黄色 `6` 帽固定。",
+          "Block Out 第 32 关是一个对称的破框拼图。一个形似空心矩形的高大红色方块阵占据中央，由两侧的青色 `2` 计数方块和顶部的黄色 `6` 帽固定。解法要求从两翼均匀削减：先清理青色计数，再剥离外侧红列，最后在红色结构已经松动后才放下黄色帽。",
+          "解法要求从两翼均匀削减：先清理青色计数，再剥离外侧红列，最后在红色结构已经松动后才放下黄色帽。"
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "注意对称性——如果红色方块阵一侧看起来比另一侧更厚，先将其拉平再继续。",
+        "黄色 `6` 帽是关键石，不是开局点。它只有在下方的红列削薄后才会落下。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "清理左侧的青色 `2` 计数方块，在红色方块阵左翼开出一条细通道。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "对称地清理右侧的青色 `2` 计数方块，让红色块体的两翼都暴露出来。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "既然侧边通道已经存在，就开始从两侧边缘剥离外侧红列。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "随着下方红列变薄，让顶部的黄色 `6` 帽开始降低。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "继续左右交替处理红列，保持方块阵平衡。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "一旦红色块体基本分离，就把腾出的方块通过侧边出口和底部黄色箭头送出。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在框架破开之后，用黄色帽和最后的内部红块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "过度处理红色方块阵的一侧而让另一侧保持完好——红色块体向未开发一侧的墙移动并锁死棋盘。",
+        "在下方红列还没削薄足够时就试图移除黄色 `6` 帽，结果只是重新封住中心。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 32 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 32 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

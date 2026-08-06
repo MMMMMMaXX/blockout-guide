@@ -1,0 +1,98 @@
+{
+  "id": "es-level-1",
+  "locale": "es",
+  "levelNumber": 1,
+  "title": "Guía de Block Out Nivel 1",
+  "summary": "El nivel 1 de Block Out es un rompecabezas de rotación de tres casillas. Mueve el bloque negro a la izquierda, sube el bloque blanco a la esquina superior derecha, desliza el bloque rojo a un lado y luego deja que salgan, en ese orden, el bloque blanco, el negro y el rojo.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "El nivel 1 de Block Out es un rompecabezas de rotación de tres casillas. Mueve el bloque negro a la izquierda, sube el bloque blanco a la esquina superior derecha, desliza el bloque rojo a un lado y luego deja que salgan, en ese orden, el bloque blanco, el negro y el rojo.",
+        "landmarks": [
+          "El nivel 1 de Block Out es un rompecabezas de rotación de tres casillas.",
+          "Mueve el bloque negro a la izquierda, sube el bloque blanco a la esquina superior derecha, desliza el bloque rojo a un lado y luego deja que salgan, en ese orden, el bloque blanco, el negro y el rojo.",
+          "El tablero combina rojo, blanco, negro y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Usa la esquina superior derecha como zona de espera del bloque blanco.",
+        "No envíes el bloque rojo hacia arriba hasta que el blanco ya haya cruzado a la izquierda.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza el bloque negro a la izquierda para que quede justo debajo de la salida superior roja."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Sube el bloque blanco a la esquina superior derecha."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Empuja el bloque rojo a la derecha, a la zona central derecha."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Suelta el bloque negro por el lado izquierdo hasta que llegue a la zona inferior."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Mueve el bloque blanco a lo largo de la parte superior y sácalo por la salida blanca del muro izquierdo."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Desliza el bloque negro a la derecha, sobre la salida inferior negra."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina moviendo el bloque rojo a la izquierda, debajo de la salida roja, y súbelo."
+        }
+      ],
+      "failurePoints": [
+        "Intentar subir el bloque rojo antes de que el blanco haya cruzado la fila superior.",
+        "Dejar el bloque negro en la esquina superior derecha en lugar de usarlo para abrir la columna izquierda."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 1",
+    "description": "Resuelve el nivel 1 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

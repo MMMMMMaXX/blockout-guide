@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-95",
+  "locale": "tr",
+  "levelNumber": 95,
+  "title": "Block Out Seviye 95 Rehberi",
+  "summary": "Block Out Seviye 95 barındırır renkli bloklar (kırmızı, turuncu, mavi, yeşil, mor, camgöbeği) ile kilitlen/anahtar kapılar yatay üst tiere, sırasında iki mor odalar doldur daha düşük bölüm — sayaç `14` turuncu çerçevede üstde, sayaç `11` ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/95/",
+        "layout": "Block Out Seviye 95 barındırır renkli bloklar (kırmızı, turuncu, mavi, yeşil, mor, camgöbeği) ile kilitlen/anahtar kapılar yatay üst tiere, sırasında iki mor odalar doldur daha düşük bölüm — sayaç `14` turuncu çerçevede üstde, sayaç `11` turuncu çerçevede altında. sarı accent bloklar kenarlarda serbest single-parça temizlenir. boş üst tier completely, sonra besle her ikisi de odalar için 25 total passes.",
+        "landmarks": [
+          "Block Out Seviye 95 barındırır renkli bloklar (kırmızı, turuncu, mavi, yeşil, mor, camgöbeği) ile kilitlen/anahtar kapılar yatay üst tiere, sırasında iki mor odalar doldur daha düşük bölüm — sayaç `14` turuncu çerçevede üstde, sayaç `11` turuncu çerçevede altında.",
+          "Sarı accent bloklar kenarlarda serbest single-parça temizlenir.",
+          "Boş üst tier completely, sonra besle her ikisi de odalar için 25 total passes."
+        ],
+        "colors": ["purple", "red", "orange", "blue", "green", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "S3a7Be6nABA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=S3a7Be6nABA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Take sarı kenar bloklar ilk — onlar serbest single-parça temizlenir sağ sonraki çıkışlara.",
+        "Temizle küçük bloklar arasında tiers önce başlayarak `14` oda besle.",
+        "Besle `14` oda önce `11` — o gerektirir daha fazla alan ve daha fazla passes."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "It sarı kenar bloklar her ikisi de yanlar soldan ve sağ çıkışlar için immediate alan (01:26 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle anahtar blok (küçük camgöbeği ile anahtar icon) kilidini aç turuncu blok üst tierde (01:22)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Extract büyük kırmızı bloklar merkezden-sol üstden veya sol çıkış çünkü onlar biggest kütle üst tierde (01:18)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle yeşil ve mavi bloklar sağ yandan üst tier sağdan-duvar çıkış (01:15)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaldır küçük camgöbeği ve kırmızı bloklar arasında üst tier ve `14` oda önce başlayarak besle çünkü onlar ebilir drift şerite (01:11)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Başla besleyerek üst mor oda (sayaç `14`) — tut onun şerit permanently temizle için fourteen passes (01:07–00:56)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Besle daha düşük mor oda (sayaç `11`) alt çıkışlardan — eleven passes bitir (00:53–00:45)."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring sarı kenar bloklar başlada — onlar serbest alan ve temizleyerek onları ilk yapar every subsequent extraction faster.",
+        "Başlayarak `14` oda besle sırasında küçük camgöbeği ve kırmızı bloklar arasında tiers hâlâ present — onlar drift beslee şerit ve dur sayaç."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/95/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 95 Rehberi ve Çözümü",
+    "description": "Block Out seviye 95'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

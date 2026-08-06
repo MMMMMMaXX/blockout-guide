@@ -1,0 +1,96 @@
+{
+  "id": "de-level-38",
+  "locale": "de",
+  "levelNumber": 38,
+  "title": "Block Out Level 38 Lösung",
+  "summary": "Block Out Level 38 hat `12` Boss chamber buried unter structured lid von three blau `2` Blöcke, pink `15` Block, und lila `6` Gerät. Lid hat sein own internal sequence — blau `2`s sind fast, Gerät ist medium, und pink...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/38/",
+        "layout": "Block Out Level 38 hat `12` Boss chamber buried unter structured lid von three blau `2` Blöcke, pink `15` Block, und lila `6` Gerät. Lid hat sein own internal sequence — blau `2`s sind fast, Gerät ist medium, und pink `15` ist slow — und muss sein abgebaut Bauteil durch Bauteil bevor Boss kann fallen lassen. Nach Boss falls around 01:33, mass von rot, pink, grün, und blau Blöcke spills hinaus für second sorting phase.",
+        "landmarks": [
+          "Block Out Level 38 hat `12` Boss chamber buried unter structured lid von three blau `2` Blöcke, pink `15` Block, und lila `6` Gerät.",
+          "Lid hat sein own internal sequence — blau `2`s sind fast, Gerät ist medium, und pink `15` ist slow — und muss sein abgebaut Bauteil durch Bauteil bevor Boss kann fallen lassen.",
+          "Nach Boss falls around 01:33, mass von rot, pink, grün, und blau Blöcke spills hinaus für second sorting phase."
+        ],
+        "colors": ["blue", "pink", "purple", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpQ5yoxLErE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpQ5yoxLErE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Lid hat sein own Reihenfolge: blau `2`s erste (fast), lila Gerät second (medium), pink `15` letzte (slow).",
+        "Anschauen für spill bei 01:33 — wenn Seite lanes sind nicht ready, revealed Blöcke jam Raum.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen three blau `2` Blöcke von oben Reihe erste — sie sind schnellste lid reductions."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Service lila `6` Gerät auf obere linke durch routing gelb Block durch sein Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin thinning pink `15` Block auf obere rechte jetzt dass blau Blöcke sind gone."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Anschauen Boss Zähler fallen lassen durch `8` als lid thins (visible around 01:42)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Öffnen Seite lanes also revealed Blöcke haben somewhere zu go nach Boss falls."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Let `12` Boss collapse once lid ist mostly gone — spill happens around 01:33."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Sort revealed rot, pink, grün, und blau Blöcke durch Seite und unten exits zu beenden."
+        }
+      ],
+      "failurePoints": [
+        "Skipping blau `2` Blöcke und going straight für pink `15` — lid stays too thick für Boss zu bewegen.",
+        "Nicht having Seite lanes öffnen when Boss falls bei 01:33, welche means revealed Blöcke pile hoch mit nowhere zu go."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/38/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 38 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 38 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

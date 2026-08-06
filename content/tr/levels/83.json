@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-83",
+  "locale": "tr",
+  "levelNumber": 83,
+  "title": "Block Out Seviye 83 Rehberi",
+  "summary": "Block Out Seviye 83 bir Tiered bulmaca ile üç distinct bölümlerdır. Iki heavy mor bloklar (sayaç '12' her) otur turuncu çerçevelerde üst tierde. orta tier sıkıştırılmış ile renkli bloklar ve kilitlen/anahtar parçalar. daha düşük oda gizle...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/83/",
+        "layout": "Block Out Seviye 83 bir Tiered bulmaca ile üç distinct bölümlerdır. Iki heavy mor bloklar (sayaç '12' her) otur turuncu çerçevelerde üst tierde. orta tier sıkıştırılmış ile renkli bloklar ve kilitlen/anahtar parçalar. daha düşük oda hides altında. temizle orta tier's kilitlen-ve-anahtar bloklar ilk oluştur şeritler, sonra besle heavy mor bloklar onların çıkışlardan, ve bitir ile daha düşük oda.",
+        "landmarks": [
+          "Block Out Seviye 83 bir Tiered bulmaca ile üç distinct bölümlerdır.",
+          "Iki heavy mor bloklar (sayaç '12' her) otur turuncu çerçevelerde üst tierde.",
+          "Orta tier sıkıştırılmış ile renkli bloklar ve kilitlen/anahtar parçalar.",
+          "Daha düşük oda hides altında."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "-Tr_xrQHckY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=-Tr_xrQHckY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle entire orta tier önce dokunarak mor bloklar üstünde.",
+        "Daha düşük oda sadece becomes accessible sonra orta çoğunlukla boş.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kilidini aç ve temizle kilitlen/anahtar bloklar orta tierde yandan çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract renkli bloklar (kırmızı, yeşil, sarı) orta tierden."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla besleyerek sol mor blok (sayaç '12') onun çıkışdan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle sağ mor blok (sayaç '12') sonra ilk shrunk enough."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle mavi ve yeşil bloklar flanking daha düşük oda."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan parçalar daha düşük odada."
+        }
+      ],
+      "failurePoints": [
+        "Dokunarak mor blok önce orta tier created şeritler — besle durur immediately.",
+        "Ignoring kilitlen/anahtar sequence orta tierde, bırakarak bloklar gated ve inaccessible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/83/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 83 Rehberi ve Çözümü",
+    "description": "Block Out seviye 83'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

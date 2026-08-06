@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-75",
+  "locale": "tr",
+  "levelNumber": 75,
+  "title": "Block Out Seviye 75 Rehberi",
+  "summary": "Block Out Seviye 75 uses geç-şekilli tahta ile stepped pixelated kenarlar — değil usual rectangle. bloklar sıkıştırılmış her ikisi de üst ve daha düşük arms geç, bağlı sadece merkez kavşakdan. temizle üst arm ilk ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/75/",
+        "layout": "Block Out Seviye 75 uses geç-şekilli tahta ile stepped pixelated kenarlar — değil usual rectangle. bloklar sıkıştırılmış her ikisi de üst ve daha düşük arms geç, bağlı sadece merkez kavşakdan. temizle üst arm ilk açık kavşaka, sonra yönlendir daha düşük arm's heavy bloklar widenedden merkez alt çıkışlara.",
+        "landmarks": [
+          "Block Out Seviye 75 uses geç-şekilli tahta ile stepped pixelated kenarlar — değil usual rectangle.",
+          "Bloklar sıkıştırılmış her ikisi de üst ve daha düşük arms geç, bağlı sadece merkez kavşakdan.",
+          "Temizle üst arm ilk açık kavşaka, sonra yönlendir daha düşük arm's heavy bloklar widenedden merkez alt çıkışlara."
+        ],
+        "colors": ["green", "red", "yellow", "purple", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "0-D_Iw1P4YU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=0-D_Iw1P4YU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Merkez kavşak sadece yol arasında üst ve daha düşük arms — temizle o erken.",
+        "Besle daha düşük arm's heavy bloklar son ne zaman merkez çoğu alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle küçük yeşil bloklar üst armda ipuçları yandan çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract çerçeveli blok merkez kavşakdan açık geçereke nokta."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Çek kalan kırmızı ve sarı bloklar üst armdan üstden veya yan çıkışlar."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Yönlendir ilk daha düşük-arm bloklar (mor ve turuncu) açıldıdan merkez kavşak."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle larger sarı ve mavi bloklar daha düşük armdan alt çıkışlardan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile high-sayaç bloklar ki gerektir çoğu passes altdan."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek yönlendir daha düşük-arm bloklar merkez önceden üst arm temizlendi — kavşak sıkışır.",
+        "Ignoring çerçeveli blok merkez kavşakda, hangi kapılar tüm trafik arasında iki arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/75/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 75 Rehberi ve Çözümü",
+    "description": "Block Out seviye 75'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

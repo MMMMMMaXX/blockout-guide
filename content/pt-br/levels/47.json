@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-47",
+  "locale": "pt-br",
+  "levelNumber": 47,
+  "title": "Guia do nível 47 do Block Out",
+  "summary": "Block Out Nível 47 tem unique escada-shaped tabuleiro onde esquerda lateral descends em passos e direita lateral é reto parede. Numerado contadores `11`, `13`, `9`, e `22` são integrado em escada. summit é misleading — ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "Block Out Nível 47 tem unique escada-shaped tabuleiro onde esquerda lateral descends em passos e direita lateral é reto parede. Numerado contadores `11`, `13`, `9`, e `22` são integrado em escada. summit é misleading — tabuleiro abre de direita-lateral pista e meio de slope. Limpar `9` em inferior-esquerda primeiro, descasque meio camadas, e salve `22` em inferior-direita para último.",
+        "landmarks": [
+          "Block Out Nível 47 tem unique escada-shaped tabuleiro onde esquerda lateral descends em passos e direita lateral é reto parede.",
+          "Numerado contadores `11`, `13`, `9`, e `22` são integrado em escada.",
+          "Summit é misleading — tabuleiro abre de direita-lateral pista e meio de slope.",
+          "Limpar `9` em inferior-esquerda primeiro, descasque meio camadas, e salve `22` em inferior-direita para último."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Summit é distraction — Nível 47 abre de direita-lateral pista e meio de slope.",
+        "`22` em inferior-direita é último peça. Do não touch ele até meio camadas são indo.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar `9` contador em inferior-esquerda para crie primeiro abertura."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Abra direita gadget pista e inferior seu counts."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Descasque escada de meio — `11` e `13` blocos — em vez do que peak."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Mantenha superior dica de escada estacionado até inferior seção é limpar."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gire inferior colorido peças através aberto bolsos."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Reduza `22` contador em inferior-direita único depois meio é principalmente indo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com superior escada dica e último lateral limpeza."
+        }
+      ],
+      "failurePoints": [
+        "Inicial em very superior de escada, que keeps inferior pistas clogged e desperdiça único útil roteie.",
+        "Tentando para reduza `22` contador antes que meio camadas (`11` e `13`) são indo, que deixa no espaço para pesado peça para mova."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 47 do Block Out",
+    "description": "Resolva o nível 47 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

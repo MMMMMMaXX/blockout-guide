@@ -1,0 +1,93 @@
+{
+  "id": "de-level-51",
+  "locale": "de",
+  "levelNumber": 51,
+  "title": "Block Out Level 51 Lösung",
+  "summary": "Block Out Level 51 ist built around two gestapelt rot bars auf links und cramped parken- lot auf untere rechte. Öffnen rechts-Seite vertikal slot erste, dann verwenden dass freigegeben Bahn zu drehen türkis bar, gelb trays, und finally rot...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/51/",
+        "layout": "Block Out Level 51 ist built around two gestapelt rot bars auf links und cramped parken- lot auf untere rechte. Öffnen rechts-Seite vertikal slot erste, dann verwenden dass freigegeben Bahn zu drehen türkis bar, gelb trays, und finally rot bars ohne trapping lila Spalten.",
+        "landmarks": [
+          "Block Out Level 51 ist built around two gestapelt rot bars auf links und cramped parken- lot auf untere rechte.",
+          "Öffnen rechts-Seite vertikal slot erste, dann verwenden dass freigegeben Bahn zu drehen türkis bar, gelb trays, und finally rot bars ohne trapping lila Spalten.",
+          "Das Spielfeld mixes Rot, Grün, Blau und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "cyan", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sCjsTXvRpno",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sCjsTXvRpno",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Wenn rechts-Seite blau pillar ist still pinned zu Wand, links stapeln ist nicht ready yet.",
+        "Behalten lila Spalten für spät cleanup also rechts slot stays organized while rot bars drehen.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Öffnen untere rechte parken- lot durch verschiebend hoch rot pillar und blau pillar neben rechte Wand."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden dass new slot zu shorten türkis Mitte bar und let untere linke grün entfernen breathe."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten räumend gestapelt rot bars auf links nur nach rechts-Seite slot kann accept returning Bauteile."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen gelb trays durch mittlere once erste rot bar hat bewegt und türkis Bahn ist kürzer."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Lassen two lila Spalten für spät cleanup also sie behalten rechte Seite organized while links stapeln dreht."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte gelb tray und blau rechts-Wand Bauteil nach Mitte Bahn ist empty."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu herausholen beide links-Seite rot bars bevor rechts-Seite parken- lot ist öffnen.",
+        "Verwendend lila Spalten too früh und losing slot dass türkis bar und gelb trays still need."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/51/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 51 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 51 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

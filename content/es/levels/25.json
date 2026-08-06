@@ -1,0 +1,98 @@
+{
+  "id": "es-level-25",
+  "locale": "es",
+  "levelNumber": 25,
+  "title": "Guía de Block Out Nivel 25",
+  "summary": "El nivel 25 de Block Out es un rompecabezas de soporte de reloj de arena con altos rieles laterales. Abre primero la cintura blanca y negra, gira en segundo lugar la cámara inferior rosa y cian y solo entonces empieza a gastar las largas columnas laterales enmarcadas.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "El nivel 25 de Block Out es un rompecabezas de soporte de reloj de arena con altos rieles laterales. Abre primero la cintura blanca y negra, gira en segundo lugar la cámara inferior rosa y cian y solo entonces empieza a gastar las largas columnas laterales enmarcadas.",
+        "landmarks": [
+          "El nivel 25 de Block Out es un rompecabezas de soporte de reloj de arena con altos rieles laterales.",
+          "Abre primero la cintura blanca y negra, gira en segundo lugar la cámara inferior rosa y cian y solo entonces empieza a gastar las largas columnas laterales enmarcadas.",
+          "El tablero combina morado, verde, rosa y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["purple", "green", "pink", "cyan", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abre la cintura antes de tocar los rieles laterales.",
+        "La cámara inferior necesita espacio antes de que las altas columnas laterales puedan viajar.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Pela las escaleras blancas y los bloqueadores negros lejos del cuello del reloj de arena."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mantén estacionadas las largas columnas laterales enmarcadas mientras el estrangulamiento superior sigue estrecho."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Una vez abierta la cintura, gira la masa inferior rosa y cian para que la cámara deje de presionar hacia arriba."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Alimenta una alta columna lateral solo después de que la cámara inferior haya creado un espacio vacío real."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Usa la nueva sala para separar la segunda alta columna lateral y la franja verde interior."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Termina la cámara inferior antes de que salga la última columna lateral."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Acaba con la ruta verde restante después de que el cuello esté completamente abierto."
+        }
+      ],
+      "failurePoints": [
+        "Intentar gastar un riel lateral mientras la cintura sigue estrecha.",
+        "Ignorar la cámara inferior y enfocarse en exceso en los altos rieles."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 25",
+    "description": "Resuelve el nivel 25 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

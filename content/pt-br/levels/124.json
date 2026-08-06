@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-124",
+  "locale": "pt-br",
+  "levelNumber": 124,
+  "title": "Guia do nível 124 do Block Out",
+  "summary": "Block Out Nível 124 é Difícil poliminó labirinto onde verde snake caminho e roxo winding forma form um-caminho pistas através grade. vermelho `32` estrela bloco e ciano bolso são principal objetivos, mas snake e winding shapes dicta...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/124/",
+        "layout": "Block Out Nível 124 é Difícil poliminó labirinto onde verde snake caminho e roxo winding forma form um-caminho pistas através grade. vermelho `32` estrela bloco e ciano bolso são principal objetivos, mas snake e winding shapes dictate extraction ordem — deslize os para fora de sequência e grade selos, prendendo numerado estrela blocos com no pista volta.",
+        "landmarks": [
+          "Block Out Nível 124 é Difícil poliminó labirinto onde verde snake caminho e roxo winding forma form um-caminho pistas através grade.",
+          "Vermelho `32` estrela bloco e ciano bolso são principal objetivos, mas snake e winding shapes dictate extraction ordem — deslize os para fora de sequência e grade selos, prendendo numerado estrela blocos com no pista volta.",
+          "Tabuleiro mistura Vermelho, Azul, Ciano e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "blue", "cyan", "green", "orange", "yellow", "purple", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "K4yNR5TX9yc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=K4yNR5TX9yc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Escoe ciano `1`/`3`/`8` bolso em ascending ordem antes que movendo amarelo `1` peça.",
+        "Gaste verde `9` contador antes que quebrando vermelho `32` estrela bloco.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior-esquerda azul blocos e unwind verde snake caminho sem tocando vermelho `32` estrela peça."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar superior `10`/`10` canto labels e esquerda-borda verde `20` contador para abra labirinto centro."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre vermelho `32` estrela bloco uma vez laranja L-shapes ao longo centro-direita tem espaço para desloque."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Gaste ciano `1`/`3`/`8` bolso peças em ordem — `1` primeiro, então `3`, então `8` — antes que amarelo `1` peça movimentos."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Detonate mid-grade azul `15`, verde `9`, e ciano `5` contadores enquanto roxo winding forma é ainda movable."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine restante laranja L-recortes e inferior branco `3` empilhe para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Puxando ciano `8` peça antes que `1` — este caixas amarelo `1` peça contra roxo snake.",
+        "Quebrando vermelho `32` estrela antes que verde `9` contador limpa, prendendo laranja L-forma em direita parede."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/124/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 124 do Block Out",
+    "description": "Resolva o nível 124 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

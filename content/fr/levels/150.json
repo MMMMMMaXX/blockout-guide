@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-150",
+  "locale": "fr",
+  "levelNumber": 150,
+  "title": "Guide Block Out Niveau 150",
+  "summary": "Block Out Niveau 150 closes réglez avec compact 4-colonne correspondre plateau — deceptively simple après Super Hard gauntlet. Dual `6` ancrez tuiles et gauche-rail `3` regroupez compteurs sont seulement objectives. Vert droite-arrow pushers sur r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/150/",
+        "layout": "Block Out Niveau 150 closes réglez avec compact 4-colonne correspondre plateau — deceptively simple après Super Hard gauntlet. Dual `6` ancrez tuiles et gauche-rail `3` regroupez compteurs sont seulement objectives. Vert droite-arrow pushers sur le bord droit glissez entire rangées horizontally, turning ce dans sliding-rangées game rather que usual bloc extraction.",
+        "landmarks": [
+          "Block Out Niveau 150 closes réglez avec compact 4-colonne correspondre plateau — deceptively simple après Super Hard gauntlet.",
+          "Dual `6` ancrez tuiles et gauche-rail `3` regroupez compteurs sont seulement objectives.",
+          "Vert droite-arrow pushers sur le bord droit glissez entire rangées horizontally, turning ce dans sliding-rangées game rather que usual bloc extraction."
+        ],
+        "colors": ["blue", "red", "yellow", "green", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mMIsmNrntpQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mMIsmNrntpQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez le haut bleu 6 avant opening le centre-droite gap avec second pusher.",
+        "Déplacez le bas bleu 1×2 seulement après vert 6 tuile dégage.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tap vert droite-arrow à glissez supérieur droit vert 1×2 leftward, correspondant le haut rouge/jaune paire sans shifting bleu 6."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez le haut bleu 6 tuile par correspondant la colonne bleu beneath il une fois le haut rangée thins."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez second vert droite-arrow pusher à ouvrez le centre-droite gap après premier bande dégage."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Correspondre le milieu rouge/rouge/jaune bande à tick supérieur gauche-rail 3 compteur bas."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Cassez le bas-gauche vert 6 tuile par sliding abaissez bleu 1×2 dans bleu/rouge paire."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez le bas rouge/jaune/rouge bande à dépensez abaissez gauche-rail 3 compteur."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Tap la droite-arrow one dernier time à eject final jaune scrap pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Sliding le bas bleu 1×2 avant vert 6 breaks, stranding rouge paire loin de la droite-arrow voie.",
+        "Utilisant second pusher avant le haut bleu 6 dégage, splitting supérieur bande et wasting 3 compteur."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/150/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 150",
+    "description": "Résolvez le niveau 150 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

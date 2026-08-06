@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-37",
+  "locale": "ja",
+  "levelNumber": 37,
+  "title": "ブロックアウト レベル37 攻略",
+  "summary": "ブロックアウト レベル37は、『7』のカウンターを持つ大きなオレンジ枠のボス四角を中心としています。ボスの直下には『1』カウンターの小さな支持ブロックが2つあり、落下用レーンを作るためにまず分離する必要があります。下部の緑の",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/37/",
+        "layout": "ブロックアウト レベル37は、『7』のカウンターを持つ大きなオレンジ枠のボス四角を中心としています。ボスの直下には『1』カウンターの小さな支持ブロックが2つあり、落下用レーンを作るためにまず分離する必要があります。下部の緑のブロックは早く排出され、側面の青とピンクのブロックは次に細くなり、ボスの下部レーンが空いたときに初めてボスは降ります。ボスが01:11付近で落下した後、第2波としてピンクと青のブロックが片付け残します。",
+        "landmarks": [
+          "ブロックアウト レベル 37 オレンジ- ボス 四角 `7` カウンター.。",
+          "`1`-カウンター 配置する ボス、作る 落とす レーン.。",
+          "緑 下 排出する、側 青、ピンク、ボス、下の レーン 消去する.。",
+          "ボス 周りを 01:11、ピンク、青 .。"
+        ],
+        "colors": ["yellow", "blue", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "q4TsAQcyxgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=q4TsAQcyxgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`1`-カウンター 下 ボス 探す、出口 —、ボス 下へ レーン.。",
+        "緑 下 出口. 消去する 作る 下の .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "黄棒をスライドさせて左 開く 左 側面レーン.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑のを消去して下 青 出口 矢印 作る 下 ボス.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を取り除きて`1`-カウンター 配置し ボス 四角.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青のをずらして右側 ボス .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "ボス カウンター の方へ `5`、ピンク、青 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "ボスを出して四角 落とす 消去し 下の レーン、カウンター ( 01:11).。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えてピンク、青、ボス .。"
+        }
+      ],
+      "failurePoints": [
+        "下の ボス 四角 `1`-カウンター 配置する — ボス 必要とし 消去する レーン 落とす.。",
+        "消去 側、下 緑 出口 開く、下の エリア 詰まった、ボス 落ちる.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/37/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル37 攻略と解説",
+    "description": "ブロックアウト レベル37 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

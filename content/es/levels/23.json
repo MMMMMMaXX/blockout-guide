@@ -1,0 +1,98 @@
+{
+  "id": "es-level-23",
+  "locale": "es",
+  "levelNumber": 23,
+  "title": "Guía de Block Out Nivel 23",
+  "summary": "El nivel 23 de Block Out es un tablero nudo con dos cajas inferiores enmarcadas marcadas con `11` y `8`. Usa el carril azul superior y la salida amarilla derecha para desatar la ruta central enroscada y luego deja caer las dos cajas jefe una vez que el nudo haya desaparecido.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "El nivel 23 de Block Out es un tablero nudo con dos cajas inferiores enmarcadas marcadas con `11` y `8`. Usa el carril azul superior y la salida amarilla derecha para desatar la ruta central enroscada y luego deja caer las dos cajas jefe una vez que el nudo haya desaparecido.",
+        "landmarks": [
+          "El nivel 23 de Block Out es un tablero nudo con dos cajas inferiores enmarcadas marcadas con `11` y `8`.",
+          "Usa el carril azul superior y la salida amarilla derecha para desatar la ruta central enroscada y luego deja caer las dos cajas jefe una vez que el nudo haya desaparecido.",
+          "El tablero combina azul, amarillo, rojo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Desata el centro antes de atacar las cajas inferiores.",
+        "La ruta azul superior forma parte de la apertura, no del cierre.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Alimenta primero la ruta azul superior para que la curva central tenga un bloqueador menos."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Usa el carril amarillo derecho para alejar la columna amarilla superior del nudo."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Gira las piezas rojas y moradas de la curva hasta que la ruta central ya no esté cerrada."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Empieza a reducir la caja enmarcada `11` una vez que se haya abierto la mitad izquierda del nudo."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Deja caer la caja enmarcada `8` después de que también se haya despejado la mitad derecha."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Limpia las altas columnas roja y amarilla que mantenían la curva en su sitio."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con la última ruta azul superior después de que ambos marcos inferiores estén casi desaparecidos."
+        }
+      ],
+      "failurePoints": [
+        "Intentar vaciar una caja enmarcada inferior mientras la curva central sigue apretada.",
+        "Ignorar la salida amarilla derecha y trabajar en exceso solo la ruta azul superior."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 23",
+    "description": "Resuelve el nivel 23 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

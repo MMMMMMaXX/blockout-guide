@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-132",
+  "locale": "fr",
+  "levelNumber": 132,
+  "title": "Guide Block Out Niveau 132",
+  "summary": "Block Out Niveau 132 pins four blanc `11` overlays sur 6×6 grille avec violet côté rails et fixed murs dividing espace. `6` blocs — pas `11` ancres — sont real objectives, et ils doit sortie à travers le bas vers le bas-...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/132/",
+        "layout": "Block Out Niveau 132 pins four blanc `11` overlays sur 6×6 grille avec violet côté rails et fixed murs dividing espace. `6` blocs — pas `11` ancres — sont real objectives, et ils doit sortie à travers le bas vers le bas-arrow voies. jaune `6` et vert `6` paire dans le centre sont dernier à quittez; forcez les avant la droite rail hits `3` et le bas voie closes.",
+        "landmarks": [
+          "Block Out Niveau 132 pins four blanc `11` overlays sur 6×6 grille avec violet côté rails et fixed murs dividing espace.",
+          "`6` blocs — pas `11` ancres — sont real objectives, et ils doit sortie à travers le bas vers le bas-arrow voies.",
+          "Jaune `6` et vert `6` paire dans le centre sont dernier à quittez; forcez les avant la droite rail hits `3` et le bas voie closes."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "cyan", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DLaXwz5IAQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DLaXwz5IAQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Effondrez all four 11 overlays avant sliding cyan droite-voie pièce.",
+        "Dégagez 6 blocs dans ordre: jaune, alors vert/bleu paire, alors rouge à travers la droite-rail 3.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Cassez le haut rouge/bleu paire sous vers le haut triangles sans crossing la gauche-rail bleu 3."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez four blanc 11 quadrant overlays inward pendant côté-rail cyan 1 tuile stays sealed."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Detonate jaune 6 amas dans supérieur-milieu avant sliding cyan droite-voie pièce."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez vert 6 et bleu 6 paire à travers le bas vert et jaune vers le bas arrows."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez rouge 6 block out la droite-rail 3 compteur une fois le centre gap opens."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez restant côté-rail counts (3/1/3) à déverrouillez dernier L cyan-pièce sur la droite."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Sortie final vert et jaune scraps à travers ouvrez vers le bas voies pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Splitting 11 overlay too tôt, qui verrous côté-rail 1 tuile et sceaux le centre.",
+        "Detonating rouge 6 avant le centre gap opens, blocking le bas vert vers le bas arrow."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/132/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 132",
+    "description": "Résolvez le niveau 132 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

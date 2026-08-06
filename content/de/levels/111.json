@@ -1,0 +1,91 @@
+{
+  "id": "de-level-111",
+  "locale": "de",
+  "levelNumber": 111,
+  "title": "Block Out Level 111 Lösung",
+  "summary": "Block Out Level 111 Stapel two lila-framed chambers dass teilen single vertikal fallen lassen Bahn durch gelb Pfeil-nach-unten- Kachel. Rechts-Seite combo Spalte counts von 9 runter zu 0, tracking consecutive räumt. Obere Spielfeld muss thin en...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "Block Out Level 111 Stapel two lila-framed chambers dass teilen single vertikal fallen lassen Bahn durch gelb Pfeil-nach-unten- Kachel. Rechts-Seite combo Spalte counts von 9 runter zu 0, tracking consecutive räumt. Obere Spielfeld muss thin enough für rot L-Bauteil zu bewegen — otherwise es Blöcke gelb Pfeil Bahn und untere `14` Zähler never startet dropping.",
+        "landmarks": [
+          "Block Out Level 111 Stapel two lila-framed chambers dass teilen single vertikal fallen lassen Bahn durch gelb Pfeil-nach-unten- Kachel.",
+          "Rechts-Seite combo Spalte counts von 9 runter zu 0, tracking consecutive räumt.",
+          "Obere Spielfeld muss thin enough für rot L-Bauteil zu bewegen — otherwise es Blöcke gelb Pfeil Bahn und untere `14` Zähler never startet dropping."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gelb Pfeil-nach-unten- ist one-way Ausgang — tu nicht parken obere rot L-Bauteil auf es.",
+        "Abziehen links lila überqueren-pattern Block bevor feeding untere gelb L-Bauteil rightward.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen oben orange horizontal bar und links lila Spalte in obere chamber zu öffnen oben `2`/`3` Reihe."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen Mitte blau cluster nach unten ohne blocking gelb Pfeil-nach-unten- Kachel."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verschieben obere rot L-Bauteil rightward also gelb Pfeil Bahn stays öffnen für untere chamber."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Fallen lassen geräumt obere Bauteile durch gelb Pfeil in untere Raster once links überqueren-pattern Block thins."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben untere gelb L-Bauteil rightward bevor feeding blau verticals hinaus durch `15` Seite Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden remaining untere-Spielfeld Bauteile und close lila unten bar Zähler `14`."
+        }
+      ],
+      "failurePoints": [
+        "Parken- obere rot L-Bauteil auf gelb Pfeil-nach-unten-, welche Blöcke untere `14` hinausführen.",
+        "Moving untere gelb L-Bauteil bevor obere Spielfeld hat geräumt around Pfeil Bahn."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 111 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 111 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

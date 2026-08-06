@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-139",
+  "locale": "tr",
+  "levelNumber": 139,
+  "title": "Block Out Seviye 139 Rehberi",
+  "summary": "Block Out Seviye 139 bir Süper zor dual-tier tahta — rainbow üst ızgara boşaltır daha düşük tiere pairedden aşağı-oklar, besleyerek `17` ve `13` mor tubes flanked ile mavi `4` yan sayaçlardır. Üst ızgara boşalır ilk, sonra ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/139/",
+        "layout": "Block Out Seviye 139 bir Süper zor dual-tier tahta — rainbow üst ızgara boşaltır daha düşük tiere pairedden aşağı-oklar, besleyerek `17` ve `13` mor tubes flanked ile mavi `4` yan sayaçlardır. Üst ızgara boşalır ilk, sonra gerçek bulmaca başlar: daha düşük tier's tubes kapı her düşür aşama independently, ve yeşil `1` karo altda-sol meli wait kadar border sayaçlar align.",
+        "landmarks": [
+          "Block Out Seviye 139 bir Süper zor dual-tier tahta — rainbow üst ızgara boşaltır daha düşük tiere pairedden aşağı-oklar, besleyerek `17` ve `13` mor tubes flanked ile mavi `4` yan sayaçlardır.",
+          "Üst ızgara boşalır ilk, sonra gerçek bulmaca başlar: daha düşük tier's tubes kapı her düşür aşama independently, ve yeşil `1` karo altda-sol meli wait kadar border sayaçlar align.",
+          "Tahta mor, kırmızı, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hT_Nx8ZCThY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hT_Nx8ZCThY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tut her ikisi de mavi 4 kareler mühürlendi kadar üst ızgara fully boş — harcayarak either erken kilitlenir 17 tube.",
+        "Temizle mavi 1 çubuk üst daha düşük tierde önce dokunarak sağ-sütun kırmızı artıklar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle üst rainbow sıra aşağı kırmızı sol aşağı-ok olmadan bölerek sarı sağ çift üst ızgarada."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle kalan üst-ızgara sıralar sarı sağdan aşağı-ok kadar üst tier fully boş."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Harca her ikisi de mavi 4 yan sayaçlar sonra üst ızgara temizlenir, kilidini açarak daha düşük 17 tube."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kır daha düşük mavi 1 çubuk üst alt tierde sonra 17 sayaç hits zero."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle sol-border 5/1/1 sayaçlar ve sağ-border 1/1 çift yandan şeritler."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Detonate yeşil 2×2 küme altda-merkez ve besle son kırmızı/pembe sağ-sütun artıklar için süper zor tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak either mavi 4 sayaç önce üst ızgara boşalır, locking 17 tube üstünde 9.",
+        "Temizleyerek sağ-sütun kırmızı artıklar önce mavi 1 çubuk breaks, re-mühürleyerek 13 tube."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/139/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 139 Rehberi ve Çözümü",
+    "description": "Block Out seviye 139'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

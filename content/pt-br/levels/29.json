@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-29",
+  "locale": "pt-br",
+  "levelNumber": 29,
+  "title": "Guia do nível 29 do Block Out",
+  "summary": "Block Out Nível 29 é twin-chefe coluna tabuleiro. Remova centro vermelho-preto-branco escada primeiro, inferior lateral chefe colunas segundo, e único então gire tarde vermelho, amarelo, azul, e verde labirinto peças.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "Block Out Nível 29 é twin-chefe coluna tabuleiro. Remova centro vermelho-preto-branco escada primeiro, inferior lateral chefe colunas segundo, e único então gire tarde vermelho, amarelo, azul, e verde labirinto peças.",
+        "landmarks": [
+          "Block Out Nível 29 é twin-chefe coluna tabuleiro.",
+          "Remova centro vermelho-preto-branco escada primeiro, inferior lateral chefe colunas segundo, e único então gire tarde vermelho, amarelo, azul, e verde labirinto peças.",
+          "Tabuleiro mistura Vermelho, Preto, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Centro coluna é fase um.",
+        "Tarde labirinto único matters depois ambos lados tem started abertura.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova centro vermelho-preto-branco coluna so ambos lateral chefes comece perdendo suporte juntos."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha lateral colunas principalmente estacionado enquanto shared contadores são ainda high."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Inferior esquerda e direita emoldurado chefes único depois centro pista é clearly thinner."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quando chefes abra, gire tarde vermelho, amarelo, azul, e verde labirinto peças em novo bolsos."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mantenha superior contadores caindo enquanto centro é no mais longo parede."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Use tarde verde shapes para stop lateral pistas de refilling."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine labirinto depois ambos lateral chefes tem já collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para resolva um lateral chefe antes que centro coluna tem aberto.",
+        "Ignorando tarde labirinto structure depois lateral colunas comece para caia."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 29 do Block Out",
+    "description": "Resolva o nível 29 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

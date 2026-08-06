@@ -1,0 +1,91 @@
+{
+  "id": "de-level-121",
+  "locale": "de",
+  "levelNumber": 121,
+  "title": "Block Out Level 121 Lösung",
+  "summary": "Block Out Level 121 splits das Spielfeld in blau-und-gelb obere conveyor und untere checkerboard Raster, connected durch hinausführen Bahn. Obere tray muss drain completely bevor grün `31` crown Block in untere Raster unlocks. Rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "Block Out Level 121 splits das Spielfeld in blau-und-gelb obere conveyor und untere checkerboard Raster, connected durch hinausführen Bahn. Obere tray muss drain completely bevor grün `31` crown Block in untere Raster unlocks. Rechts-Seite `5` Pfeil Kachel ist letzte gatekeeper — räumen es too spät und crown stays boxed in even nach conveyor ist empty.",
+        "landmarks": [
+          "Block Out Level 121 splits das Spielfeld in blau-und-gelb obere conveyor und untere checkerboard Raster, connected durch hinausführen Bahn.",
+          "Obere tray muss drain completely bevor grün `31` crown Block in untere Raster unlocks.",
+          "Rechts-Seite `5` Pfeil Kachel ist letzte gatekeeper — räumen es too spät und crown stays boxed in even nach conveyor ist empty."
+        ],
+        "colors": ["blue", "yellow", "red", "orange", "green", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drain obere tray completely bevor chasing grün `31` crown.",
+        "Behalten untere türkis `19` Spalte geparkt bis obere tray goes dark.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen obere blau/gelb checkerboard durch rechts-Seite gelb Pfeile in untere tray."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen obere rot `23` Reihe und links-edge türkis `7` badge bis obere tray goes dark."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abziehen untere rot/orange/grün oben cap ohne touching Mitte weiß `15` slot."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Break grün `31` crown Block once links türkis `19` Spalte öffnet Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend blau `10` Kachel und rechts-Seite `5` Pfeil Zähler bevor gelb Stapel thin."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit unten türkis `26` Zähler und remaining blau/gelb scraps für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Chasing grün `31` crown bevor obere tray ist fully dark — dieses boxes Mitte `15` slot.",
+        "Räumend gelb Stapel bevor blau `10` Kachel Züge, sealing unten türkis `26` Zähler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 121 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 121 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

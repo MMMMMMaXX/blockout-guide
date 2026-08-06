@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-130",
+  "locale": "ja",
+  "levelNumber": 130,
+  "title": "ブロックアウト レベル130 攻略",
+  "summary": "ブロックアウト レベル130は、鍵付き機構を通じて10列の上部グリッドを独立した下部カウンターフレームにつなぎます—青の錠前と紫の鍵タイルが中央の列にあり、それらを合わせると盤面間の供給通路が開きます。赤のロケット印のブロックは…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "ブロックアウト レベル130は、鍵付き機構を通じて10列の上部グリッドを独立した下部カウンターフレームにつなぎます—青の錠前と紫の鍵タイルが中央の列にあり、それらを合わせると盤面間の供給通路が開きます。上部グリッドの赤のロケット印のブロックは緊急に見えますが、ただの通行物です。鍵が壊れる前にそれらを動かすと、下部の緑の矢印通路が永久に封じられます。",
+        "landmarks": [
+          "ブロックアウト レベル 130 10- 上の 分離する 下の カウンター 枠 ロックする- -鍵 — 青 ロックする、紫 鍵 タイル 配置する 中央 行、揃い 通す レーン 間 .。",
+          "赤 - 上の 探す、交通.。",
+          "手順、ロックする/鍵、下の 緑 矢印 レーン .。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤のを維持して配置し、青 ロックする/紫 鍵 ペア .。",
+        "下の 枠 カウンター `20` `17` 上の —、押す.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を剥がして上-行 青 上-矢印、消去する 緑 錠 タイル 上の 帯.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を割りて- 右-側 ペア ずらし 赤 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "青のを揃えてロックする タイル 紫 鍵 タイル 中央 行 開く 下の 枠.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を通して上の 出口 左 赤、右 オレンジ 矢印 レーン.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて下 カウンター `4`、`5`、`1` 通す 下の `17` 枠.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して上の、下の カウンター タイル 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "動かし 赤、ロックする/鍵 ペア — 下の 緑 矢印 レーン .。",
+        "を割りて錠 タイル 上の 帯.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル130 攻略と解説",
+    "description": "ブロックアウト レベル130 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

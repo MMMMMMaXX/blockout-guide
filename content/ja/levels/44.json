@@ -1,0 +1,97 @@
+{
+  "id": "ja-level-44",
+  "locale": "ja",
+  "levelNumber": 44,
+  "title": "ブロックアウト レベル44 攻略",
+  "summary": "ブロックアウト レベル44は『ハードレベル』と印が付き、底部に『5』カウンターの4つのブロックの基礎列の上に置かれた中央の『5』ボス四角を特徴とします。ボスの上には、小カウンターのブロック（シアン『1』、『3』のブロック）と紫の装置が",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "ブロックアウト レベル44は『ハードレベル』と印が付き、底部に『5』カウンターの4つのブロックの基礎列の上に置かれた中央の『5』ボス四角を特徴とします。ボスの上には、小カウンターのブロック（シアン『1』、『3』のブロック）と紫の装置があり、ボスに縦のスペースを与えるためにまず消去する必要があります。下部の『5』の列とボスは連携して崩れ——基礎が細くなるにつれてボスは押し下げます。右のピンクのブロックは後半の片付けです。",
+        "landmarks": [
+          "ブロックアウト レベル 44 ' レベル'、を備えて中央の `5` ボス 四角 配置し 行 `5`-カウンター 下.。",
+          "上 ボス、-カウンター (シアン `1`、`3` ブロック)、紫 装置 消去し ボス .。",
+          "下 `5` 行、ボス 崩す — ボス 下 .。",
+          "ピンク 右 - .。"
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上の カウンター (`1`、`3`)、出口 — 消去する .。",
+        "ボス、下 `5` 行 崩す、消去する .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "シアンのを消去して`1`-カウンター ブロック 上 作る 開始 上 ボス.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "紫 装置 上 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を取り除きて`3`-カウンター ブロック 上の .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を始めて中央の `5` ボス、上の 開く.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を出して`5` 下 ボス 下.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "ピンクのを消去して右側 - .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて下、側 出口、ボス .。"
+        }
+      ],
+      "failurePoints": [
+        "落とす `5` ボス、上の `1`、`3` カウンター 消去し — ボス 手順、上の 残し .。",
+        "下 `5` 行、ボス 始め、ボス 上 下.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル44 攻略と解説",
+    "description": "ブロックアウト レベル44 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

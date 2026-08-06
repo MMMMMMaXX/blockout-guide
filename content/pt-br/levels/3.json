@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-3",
+  "locale": "pt-br",
+  "levelNumber": 3,
+  "title": "Guia do nível 3 do Block Out",
+  "summary": "Block Out Nível 3 é curto corrente-reaction quebra-cabeça. Solte centro vermelho bloco primeiro, envie verde canto esquerda, dinheiro inferior azul bloco, e então termine restante vermelho e amarelo blocos em inferior saídas.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "Block Out Nível 3 é curto corrente-reaction quebra-cabeça. Solte centro vermelho bloco primeiro, envie verde canto esquerda, dinheiro inferior azul bloco, e então termine restante vermelho e amarelo blocos em inferior saídas.",
+        "landmarks": [
+          "Block Out Nível 3 é curto corrente-reaction quebra-cabeça.",
+          "Solte centro vermelho bloco primeiro, envie verde canto esquerda, dinheiro inferior azul bloco, e então termine restante vermelho e amarelo blocos em inferior saídas.",
+          "Tabuleiro mistura Verde, Amarelo, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use centro vermelho saída como trigger.",
+        "Verde e inferior azul bloco deixe antes que final amarelo.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize centro vermelho bloco reto baixo através vermelho inferior saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mova superior-esquerda verde bloco baixo e para fora através verde esquerda saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Solte inferior azul bloco em azul inferior-esquerda saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Inferior meio amarelo bloco em centro pista que apenas aberto."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Envie superior-direita vermelho bloco baixo através vermelho saída uma vez meio pista é limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com último amarelo bloco em amarelo inferior-direita saída."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para force superior-direita vermelho bloco baixo antes que centro vermelho tem esquerda.",
+        "Ignorando verde lateral saída e treating tabuleiro como inferior-único quebra-cabeça."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 3 do Block Out",
+    "description": "Resolva o nível 3 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "fr-level-87",
+  "locale": "fr",
+  "levelNumber": 87,
+  "title": "Guide Block Out Niveau 87",
+  "summary": "Block Out Niveau 87 est flood-drainez énigme avec heavy boss pièce. Cyan `7` compteur blocs fill abaissez deux-thirds de plateau like lake, pendant vert `15` boss bloc dans orange cadre sits sur lointain gauche. packed retirez de colo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/87/",
+        "layout": "Block Out Niveau 87 est flood-drainez énigme avec heavy boss pièce. Cyan `7` compteur blocs fill abaissez deux-thirds de plateau like lake, pendant vert `15` boss bloc dans orange cadre sits sur lointain gauche. packed retirez de blocs colorés (orange, vert `9`, rouge, bleu, jaune) runs à travers le haut et doit dégagez premier. Alimentez vert `15` boss à travers la gauche-mur sortie, remove petit `3` compteur blocs wedged entre les pièces cyan, alors laissez cyan flood drainez à travers le bas.",
+        "landmarks": [
+          "Block Out Niveau 87 est flood-drainez énigme avec heavy boss pièce.",
+          "Cyan `7` compteur blocs fill abaissez deux-thirds de plateau like lake, pendant vert `15` boss bloc dans orange cadre sits sur lointain gauche.",
+          "Packed retirez de blocs colorés (orange, vert `9`, rouge, bleu, jaune) runs à travers le haut et doit dégagez premier.",
+          "Alimentez vert `15` boss à travers la gauche-mur sortie, remove petit `3` compteur blocs wedged entre les pièces cyan, alors laissez cyan flood drainez à travers le bas."
+        ],
+        "colors": ["cyan", "green", "red", "blue", "orange", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AEJlO-_-lBI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AEJlO-_-lBI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Commencez feeding vert `15` boss moment le haut retirez dégage — fifteen passes prend time et voie doit stay ouvrez.",
+        "Remove rouge `3` et vert `3` wedge blocs avant essayant à drainez cyan `7` flood.",
+        "Cyan flood drains sur son own à travers le bas sorties une fois wedge blocs sont gone — pas try à poussez il."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez petit bloc orange dans le haut-gauche vers le haut à travers le haut-sortie arrow à ouvrez premier gap (02:55 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Poussez le bloc jaune sur la droite fin de le haut retirez à travers la droite-mur sortie (02:50)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez le bloc rouge à travers la sortie supérieure, alors commencez feeding vert `9` bloc vers le haut — il needs nine passes (02:44–02:34)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Acheminez le bloc bleu à travers la droite-mur sortie une fois vert `9` bloc a thinned assez à libérez voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Avec le haut retirez dégagez, commencez feeding vert `15` boss bloc à travers la gauche-mur sortie — gardez ce voie permanently unblocked (02:28–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez petit rouge `3` et vert `3` blocs wedged entre cyan `7` pièces à ungate drainez chemin (autour 02:18)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Laissez cyan `7` flood drainez à travers le bas sorties une fois wedge blocs sont gone (02:13–02:02)."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Terminez avec dernier cyan fragments après vert `15` boss a fully exited (01:57)."
+        }
+      ],
+      "failurePoints": [
+        "Letting stray bloc drift dans la gauche-mur voie pendant feeding vert `15` boss — il stalls longest alimentez dans niveau et forces vous à gaspillez coups re-dégagement voie.",
+        "Essayant à drainez cyan `7` flood avant removing rouge `3` et vert `3` wedge blocs — ils dam le bas sorties et flood cannot pass."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/87/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 87",
+    "description": "Résolvez le niveau 87 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

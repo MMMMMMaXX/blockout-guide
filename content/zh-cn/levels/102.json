@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-102",
+  "locale": "zh-cn",
+  "levelNumber": 102,
+  "title": "Block Out 第102关攻略",
+  "summary": "Block Out 第102关颠覆了常规套路——不是把方块滑出，而是放进去。一个空的主网格位于底部由 L 形和 2×2 簇组成的库存之上，步数计数器记录每次转移。难点在于空间：干净地放下每一块而不堵住中列，一块放错的绿色「1」砖就能封死棋盘。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out 第102关颠覆了常规套路——不是把方块滑出，而是放进去。一个空的主网格位于底部由 L 形和 2×2 簇组成的库存之上，步数计数器记录每次转移。难点在于空间：干净地放下每一块而不堵住中列，一块放错的绿色「1」砖就能封死棋盘。",
+        "landmarks": [
+          "Block Out 第102关颠覆了常规套路——不是把方块滑出，而是放进去。",
+          "一个空的主网格位于底部由 L 形和 2×2 簇组成的库存之上，步数计数器记录每次转移。",
+          "难点在于空间：干净地放下每一块而不堵住中列，一块放错的绿色「1」砖就能封死棋盘。"
+        ],
+        "colors": ["red", "yellow", "green", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在放上高亮的绿色「1」方块之前，保持中列为空。",
+        "注意步数计数器——在下半部分完全填满之前，你应在第 6 步左右到达。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将第一个底部托盘簇放入主框的左上角，开始推进（第 1 步）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "沿顶行放置接下来两个簇，保持中列为空。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "在填满下半部分之前，将高亮的绿色「1」方块经打开的中列移动。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将中段运行的 L 形块转移到左下和右下角，使其不跨越中心通道。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将剩余的青色和紫色对沿主框底行放置。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "清空底部托盘最后的两块组，完成第 11 步。"
+        }
+      ],
+      "failurePoints": [
+        "在绿色「1」方块放好之前就填满中列——高亮方块随后没有向下路径。",
+        "把后期的 L 形块落在网格中间而非下角，这会堵住最后的放置。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第102关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第102关。"
+  },
+  "updatedAt": "2026-08-03"
+}

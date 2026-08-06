@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-27",
+  "locale": "ja",
+  "levelNumber": 27,
+  "title": "ブロックアウト レベル27 攻略",
+  "summary": "ブロックアウト レベル27は、ポケット解放のボスパズルです。まず右の空洞を空にし、次に左の「7」ボスの低下を始め、それからでのみ遅れて現れる緑・赤・黄の帯を片付けます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "ブロックアウト レベル27は、ポケット解放のボスパズルです。まず右の空洞を空にし、次に左の「7」ボスの低下を始め、それからでのみ遅れて現れる緑・赤・黄の帯を片付けます。",
+        "landmarks": [
+          "ブロックアウト レベル 27 空きマス-解放する ボス .。",
+          "右、を始めて左 `7` ボス、上 緑、赤、黄 .。",
+          "混ぜる 紫、白、黒、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": ["右 空きマス 左 ボス.。", "-ボス .。", "を考えて. 手順 上 手順、揃える.。"],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "右 白- -黒 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を下げて左に、-側 カウンター ボス .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を始めて縮め `7` パネル、側 空きマス 消去する.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて開き 回転させる 緑、赤 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "黄 取り除く、ボス 下 -.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して側 出口、ボス .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて、パネル 崩し.。"
+        }
+      ],
+      "failurePoints": ["を無視して右に、左 ボス .。", "を扱いて開始 .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル27 攻略と解説",
+    "description": "ブロックアウト レベル27 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

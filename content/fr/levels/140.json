@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-140",
+  "locale": "fr",
+  "levelNumber": 140,
+  "title": "Guide Block Out Niveau 140",
+  "summary": "Block Out Niveau 140 uses four vertical piston barres comme elevators — chaque doit correspondre son colonne couleur dans supérieur grille avant central `7` circle starts counting cycles. pistons seulement travel quand leur couleur matches, donc supérieur rangée...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/140/",
+        "layout": "Block Out Niveau 140 uses four vertical piston barres comme elevators — chaque doit correspondre son colonne couleur dans supérieur grille avant central `7` circle starts counting cycles. pistons seulement travel quand leur couleur matches, donc supérieur rangée's directional arrow blocs doit dégagez premier à révélez cible couleurs. Align chaque piston, alors drainez `7` circle pour PERFECT dégagez.",
+        "landmarks": [
+          "Block Out Niveau 140 uses four vertical piston barres comme elevators — chaque doit correspondre son colonne couleur dans supérieur grille avant central `7` circle starts counting cycles.",
+          "Pistons seulement travel quand leur couleur matches, donc supérieur rangée's directional arrow blocs doit dégagez premier à révélez cible couleurs.",
+          "Align chaque piston, alors drainez `7` circle pour PERFECT dégagez."
+        ],
+        "colors": ["red", "yellow", "blue", "green", "violet", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "204f9mXSuEo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=204f9mXSuEo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gardez bleu et jaune pistons niveau during opening — raising jaune tôt splits le haut-rangée 1 paire.",
+        "Dégagez le L rouge-shape avec gauche/bas arrows avant lowering jaune piston sur la droite.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Levez rouge piston barre à le haut-rangée rouge 2 bloc et glissez il bas rouge bas-arrow à dépensez 2 compteur."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Align la barre jaune avec jaune 1 tuile et la barre bleu avec bleu 1 tuile, lowering chaque à travers son correspondant bas-arrow."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Levez la barre vert pour la droite-colonne blocs vert et dépensez blanc 3 bord compteur sur supérieur droit retirez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez supérieur panneau haut rangée (violet/jaune/bleu/vert avec haut-arrows) une fois all four supérieur compteurs hit zero."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez le L rouge-shape avec gauche/bas arrows à travers inférieur gauche voie, alors poussez bleu vertical haut-arrow bloc à travers le centre corridor."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Abaissez jaune et violet droite-côté pièces et dépensez final central 7 circle pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Raising jaune piston during étape 1, splitting le haut-rangée 1 paire et locking central 7 au-dessus 3.",
+        "Lowering jaune piston avant le L rouge-shape dégage, stranding bleu bas-arrow bloc à base."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/140/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 140",
+    "description": "Résolvez le niveau 140 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

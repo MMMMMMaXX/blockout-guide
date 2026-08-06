@@ -1,0 +1,101 @@
+{
+  "id": "tr-level-96",
+  "locale": "tr",
+  "levelNumber": 96,
+  "title": "Block Out Seviye 96 Rehberi",
+  "summary": "Block Out Seviye 96 bir Pure density bulmaca — hayır odalar, hayır çerçeveler, sadece duvar--duvar renkli bloklar varying sizesdır. Uzun kırmızı blok ile sayaç `12` divides merkez like duvar, iki büyük mor bloklar (sayaçlar `9` ve `5`) ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/96/",
+        "layout": "Block Out Seviye 96 bir Pure density bulmaca — hayır odalar, hayır çerçeveler, sadece duvar--duvar renkli bloklar varying sizesdır. Uzun kırmızı blok ile sayaç `12` divides merkez like duvar, iki büyük mor bloklar (sayaçlar `9` ve `5`) baskın sağ yarı, ve turuncu/yeşil bloklar doldur sol. temizle küçük sayaç-`1` kenar bloklar ilk için breathing alan, kilidini aç gated yeşil `3` blok, sonra besle büyük parçalar onların en yakın çıkışlardan.",
+        "landmarks": [
+          "Block Out Seviye 96 bir Pure density bulmaca — hayır odalar, hayır çerçeveler, sadece duvar--duvar renkli bloklar varying sizesdır.",
+          "Uzun kırmızı blok ile sayaç `12` divides merkez like duvar, iki büyük mor bloklar (sayaçlar `9` ve `5`) baskın sağ yarı, ve turuncu/yeşil bloklar doldur sol.",
+          "Temizle küçük sayaç-`1` kenar bloklar ilk için breathing alan, kilidini aç gated yeşil `3` blok, sonra besle büyük parçalar onların en yakın çıkışlardan."
+        ],
+        "colors": ["red", "blue", "green", "purple", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvABOgqKKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvABOgqKKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle küçük sayaç-`1` kenar bloklar ilk — her bir creates alan için büyük bloklar kaydır.",
+        "Kilidini aç yeşil `3` blok erken ile kaldırarak onun sarı anahtar — o kapılar sol-yan yol.",
+        "Uzun kırmızı `12` blok divides tahta like duvar — temizle her ikisi de yanlar o önce başlayarak onun besle."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle küçük sayaç-`1` bloklar kenarlardan: turuncu yukarı doğru (üst çıkış), sarı `1` sağa doğru (sağ-duvar çıkış), camgöbeği `1` aşağı doğru (alt çıkış) — her creates breathing alan (02:54–02:48 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "It sarı anahtar blok merkezde sağ çıkışdan kilidini aç gated yeşil `3` blok (02:42)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla besleyerek üst mor `9` blok sağdan-duvar çıkış — dokuz passes (02:42–02:30)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kilidi açıldı yeşil `3` blok soldan-duvar çıkış şimdi ki kapı açık (02:30)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Başla besleyerek uzun kırmızı `12` blok soldan-duvar çıkış — twelve passes, tutarak sol şerit temizle debris (02:25–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle daha düşük mor `5` blok daha düşük sağdan-duvar çıkış — beş passes (02:13–02:07)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle kalan turuncu, sarı, ve mavi bloklar onların en yakın çıkışlardan tahta açılır (02:07–02:01)."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Bitir ile son küçük bloklar alt sonrada tahta çoğunlukla açık (01:56)."
+        }
+      ],
+      "failurePoints": [
+        "Başlayarak uzun kırmızı `12` blok besle önce temizleyerek küçük debris sol yanda — o durur mid-besle ve tuzağa düşürür turuncu ve yeşil bloklar o.",
+        "Ignoring kilitlendi yeşil `3` blok's anahtar erken — anahtar blok meli çıkış önce yeşil blok ebilir hareket ettir, ve bırakarak o geç creates bottleneck."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/96/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 96 Rehberi ve Çözümü",
+    "description": "Block Out seviye 96'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

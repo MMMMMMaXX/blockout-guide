@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-77",
+  "locale": "fr",
+  "levelNumber": 77,
+  "title": "Guide Block Out Niveau 77",
+  "summary": "Block Out Niveau 77 packs 5×7 grille avec orange '12' bloc sur la gauche, bleu '2' bloc sur la droite, et directional arrow blocs sur bords. orange '12' needs 12 sorties — dégagez le bas premier, alors work blocs numérotés,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/77/",
+        "layout": "Block Out Niveau 77 packs 5×7 grille avec orange '12' bloc sur la gauche, bleu '2' bloc sur la droite, et directional arrow blocs sur bords. orange '12' needs 12 sorties — dégagez le bas premier, alors work blocs numérotés, et terminez avec heavy '12' bloc.",
+        "landmarks": [
+          "Block Out Niveau 77 packs 5×7 grille avec orange '12' bloc sur la gauche, bleu '2' bloc sur la droite, et directional arrow blocs sur bords.",
+          "Orange '12' needs 12 sorties — dégagez le bas premier, alors work blocs numérotés, et terminez avec heavy '12' bloc.",
+          "Le plateau mélange orange, bleu et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["orange", "blue", "red", "green", "violet", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JNbWl2gHe14",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JNbWl2gHe14",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'12' bloc est marathon — dégagez lighter '2' bloc premier à build espace.",
+        "Dégagez le bas premier à donnez blocs numérotés sliding salle.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez violet et blocs bleu à le bas à travers la sortie inférieure à ouvrez base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez les blocs vert sur la gauche hors à travers la sortie gauche à ouvrez inférieur gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez dégagement bleu '2' bloc sur la droite à travers la sortie droite — il est lighter cible."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Work orange '12' bloc sur la gauche à travers la sortie gauche comme le milieu opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez les blocs rouge sur le haut à travers la sortie droite."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant blocs piégé dans coins."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dégagez '12' bloc avant '2' bloc — '12' bloc needs salle à glissez et sortie multiple times.",
+        "Dégagement le haut avant le bas, qui leaves abaissez blocs piégé avec non sliding salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/77/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 77",
+    "description": "Résolvez le niveau 77 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

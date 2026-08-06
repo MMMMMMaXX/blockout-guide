@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-53",
+  "locale": "ja",
+  "levelNumber": 53,
+  "title": "ブロックアウト レベル53 攻略",
+  "summary": "ブロックアウト レベル53は、上部に番号付き青ブロック（カウンター「6」「4」「7」「9」）、中央に支点となるピンクブロック、下部の段を埋める赤・オレンジ・青ブロックを詰め込んだ密度の高いグリッドです。隘路となるのはピンクの中央ブロックで—",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "ブロックアウト レベル53は、上部に番号付き青ブロック（カウンター「6」「4」「7」「9」）、中央に支点となるピンクブロック、下部の段を埋める赤・オレンジ・青ブロックを詰め込んだ密度の高いグリッドです。隘路となるのはピンクの中央ブロックで、盤面を上下に分断しています。まず底を消去し、早めにピンクブロックを動かして中央を開放したうえで、番号付きブロックを各ゲートから外へ出します。",
+        "landmarks": [
+          "ブロックアウト レベル 53 密集した 青 上 (カウンター '6'、'4'、'7'、'9')、ピンク 中央 ブロック、赤/オレンジ/青 下の .。",
+          "ピンク 中央 ブロック — .。",
+          "を消去して下、手順 ピンク ブロック 開く 中央の、進める 出口.。"
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "ピンク 中央 ブロック . 手順 下 消去する — 上の、を下げて.。",
+        "青 上 必要とする 出口 通し. 消去する カウンター .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "赤のを消去してブロック 下 スライドさせ の方へ 右 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "オレンジのをずらして左 左 出口 開く 下の-左 エリア.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "手順 ピンク 中央 ブロック — 鍵 上の、を下げて.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄のを消去して中央 左 出口 ピンク ブロック .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "青 上 揃い 出口、開始 '6' 左.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して紫、青 右 右 出口.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて、.。"
+        }
+      ],
+      "failurePoints": [
+        "ピンクのを残して中央 ブロック 配置する —、.。",
+        "出口 青、下 消去する、詰まり .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル53 攻略と解説",
+    "description": "ブロックアウト レベル53 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

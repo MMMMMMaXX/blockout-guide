@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-40",
+  "locale": "zh-cn",
+  "levelNumber": 40,
+  "title": "Block Out 第 40 关通关攻略",
+  "summary": "Block Out 第 40 关有一个计数已为 `0` 的 Boss 框架——它不需要削减，只需移除下方实体的方块搁板。框架下方密集堆叠的蓝、红、绿、黄方块构成了那个搁板，而……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out 第 40 关有一个计数已为 `0` 的 Boss 框架——它不需要削减，只需移除下方实体的方块搁板。框架下方密集堆叠的蓝、红、绿、黄方块构成了那个搁板，解法在于移动正确的方块以破坏支撑。一旦搁板消失，框架瞬间清空，剩余方块经侧边出口依次解开。",
+        "landmarks": [
+          "Block Out 第 40 关有一个计数已为 `0` 的 Boss 框架——它不需要削减，只需移除下方实体的方块搁板。框架下方密集堆叠的蓝、红、绿、黄方块构成了那块搁板，而解法在于移动正确的方块以破坏支撑。一旦搁板消失，框架瞬间清空，剩余方块通过侧边出口解开。",
+          "框架下方密集堆叠的蓝、红、绿、黄方块构成了那块搁板，而解法在于移动正确的方块以破坏支撑。",
+          "一旦搁板消失，框架瞬间清空，剩余方块通过侧边出口解开。"
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boss 显示 `0`——不要把走法浪费在削减它上。只需移除下方的搁板。",
+        "留意在你以错误顺序清理底行时，方块向上滑动重建搁板。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "清理左边缘的小型 `2` 计数方块，创造第一个开口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把直接位于 Boss 框架下方的蓝色方块移开，开始削弱搁板。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "移动中央的红色方块，破坏 `0` 计数框架下的最后一个支撑点。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦搁板消失，留意 Boss 框架瞬间清空（约 01:24 可见）。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用新打开的顶部空间，分类剩余的彩色方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "通过侧边出口送出红色和绿色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在房间平整后，用黄色和蓝色清理收尾。"
+        }
+      ],
+      "failurePoints": [
+        "把 Boss 当成标准计数拼图——`0` 意味着它无需削减，只需破坏搁板。",
+        "第一步就移动了错误的下方方块，导致剩余方块向上滑动，在 Boss 框架下方重建搁板。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 40 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 40 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

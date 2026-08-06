@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-85",
+  "locale": "zh-cn",
+  "levelNumber": 85,
+  "title": "Block Out 第85关攻略",
+  "summary": "Block Out 第85关棋盘上有一个大号红色中心方块，周围是绿色、蓝色和紫色方块，还有带磁铁/奖杯「U」图标的特殊方块，会与相邻方块互动。锁/钥块增加了顺序约束。先清空左侧的绿色方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/85/",
+        "layout": "Block Out 第85关棋盘上有一个大号红色中心方块，周围是绿色、蓝色和紫色方块，还有带磁铁/奖杯「U」图标的特殊方块，会与相邻方块互动。锁/钥块增加了顺序约束。先经左侧出口清空左侧的绿色方块，再清右侧的蓝色方块，最后在两侧打开后抽出大号红色中心方块。",
+        "landmarks": [
+          "Block Out 第85关棋盘上有一个大号红色中心方块，周围是绿色、蓝色和紫色方块，还有带磁铁/奖杯「U」图标的特殊方块，会与相邻方块互动。",
+          "锁/钥块增加了顺序约束。",
+          "先经左侧出口清空左侧的绿色方块，再清右侧的蓝色方块，最后在两侧打开后抽出大号红色中心方块。"
+        ],
+        "colors": ["red", "green", "blue", "purple", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "acjCQqZtavE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=acjCQqZtavE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "尽早处理特殊的「U」图标方块——它们与相邻方块的互动难以预测。",
+        "先清两侧再清中心——红色方块需要宽阔的通道。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左侧的绿色方块经左侧出口抽出。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将右侧的蓝色方块从右出口拉出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "小心处理特殊的「U」图标方块——它们与相邻方块互动。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "清空锁/钥方块，解锁被挡住的区域。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "等两侧打开后，将大号红色中心方块经其出口移出。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理底部的橙/黄色方块和剩余的紫色碎片。"
+        }
+      ],
+      "failurePoints": [
+        "忽视特殊的「U」图标方块，它们可能意外卡住相邻方块。",
+        "在两侧清空之前就试图移动中心红色方块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/85/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第85关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第85关。"
+  },
+  "updatedAt": "2026-08-03"
+}

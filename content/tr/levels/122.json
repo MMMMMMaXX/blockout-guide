@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-122",
+  "locale": "tr",
+  "levelNumber": 122,
+  "title": "Block Out Seviye 122 Rehberi",
+  "summary": "Block Out Seviye 122 bir Head-şekilli tahta — geniş crownda, dar gövdede — ile `60` crown kapılar ve cep objectives scattered facedandır. Pembe `29` crown çift altda merkez ve yan sayaç karolar gerçek...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "Block Out Seviye 122 bir Head-şekilli tahta — geniş crownda, dar gövdede — ile `60` crown kapılar ve cep objectives scattered facedandır. Pembe `29` crown çift altda merkez ve yan sayaç karolar gerçek boşaltarak objectives. daha düşük gövde böylece dar ki bir misplaced dikey parça üst facedan ebilir mühürle sadece çıkış şerit.",
+        "landmarks": [
+          "Block Out Seviye 122 bir Head-şekilli tahta — geniş crownda, dar gövdede — ile `60` crown kapılar ve cep objectives scattered facedandır.",
+          "Pembe `29` crown çift altda merkez ve yan sayaç karolar gerçek boşaltarak objectives.",
+          "Daha düşük gövde böylece dar ki bir misplaced dikey parça üst facedan ebilir mühürle sadece çıkış şerit."
+        ],
+        "colors": ["red", "blue", "cyan", "orange", "green", "pink", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır yeşil crown `60` önce kırmızı crown `60` tuta taban küme açık.",
+        "Temizle her ikisi de camgöbeği `10` sayaçlar önce detonating pembe `29` crown çift.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst kırmızı sıra ve üst-sol camgöbeği bloklar olmadan dokunarak alt crown `60` boşluk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle yan `17` sayaç cepler her ikisi de ears alternatingde passes tuta çerçeve balanced."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır yeşil crown `60` karo ilk, sonra kırmızı crown `60` karo üstünde sarı/pembe/mavi taban."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Harca camgöbeği `8` karo ve her ikisi de camgöbeği `10` yan sayaçlar önce üst body re-seals."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Detonate pembe `29` crown çift alt merkez sonrada daha düşük `11` sayaçlar gitti."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle isolated pembe dikey blok ve alt camgöbeği `4` çift dar gövdeden için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Breaking kırmızı crown `60` önce yeşil crown `60` — bu boxes sarı/pembe/mavi taban küme.",
+        "Detonating pembe `29` çift önce camgöbeği `10` karolar temizle, tuzağa düşürerek isolated pembe blok gövdede."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 122 Rehberi ve Çözümü",
+    "description": "Block Out seviye 122'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

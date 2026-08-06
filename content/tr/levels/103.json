@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-103",
+  "locale": "tr",
+  "levelNumber": 103,
+  "title": "Block Out Seviye 103 Rehberi",
+  "summary": "Block Out Seviye 103 dolur ızgara ile numaralı karolar — `11`, `19`, `14` üstden ve mor `10` çubuk sol rayda — dönerek every sıra countinge bulmaca. sol-ray istifler eşleştirerek `10` karolar meli boşalt önce ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out Seviye 103 dolur ızgara ile numaralı karolar — `11`, `19`, `14` üstden ve mor `10` çubuk sol rayda — dönerek every sıra countinge bulmaca. sol-ray istifler eşleştirerek `10` karolar meli boşalt önce geniş çubuklar ebilir hareket ettir, ve alt mor tepşi sayaç izler how çok placements remain. tuzağa düşür üst `19` karo: o bakar urgent ama meli wait için ray.",
+        "landmarks": [
+          "Block Out Seviye 103 dolur ızgara ile numaralı karolar — `11`, `19`, `14` üstden ve mor `10` çubuk sol rayda — dönerek every sıra countinge bulmaca.",
+          "Sol-ray istifler eşleştirerek `10` karolar meli boşalt önce geniş çubuklar ebilir hareket ettir, ve alt mor tepşi sayaç izler how çok placements remain.",
+          "Tuzağa düşür üst `19` karo: o bakar urgent ama meli wait için ray."
+        ],
+        "colors": ["purple", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle every sol-ray `10` karo önce dokunarak daha düşük mor `19` çubuk.",
+        "Üst mor `4` çubuk ebilir hareket ettir sonra üst sıra gitti — değil wait için entire merkez küme temizle ilk.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst-sıra light-mavi `11`, `19`, ve `14` karolar üst çıkışlardan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy sol-ray mavi `10` istifler üstden alt öncee dokunarak merkez küme."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır üst mor `4` çubuk sol sonra üst sıra ve sol ray açık."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kır yukarı merkez pembe/yeşil/sarı tekliler açık orta sütuna."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kaydır turuncu geç ve kalan camgöbeği `10` karolar yana şeritler."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bırak daha düşük mor `19` çubuk alt çıkışdan sonra sol ray boş."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir son yeşil küme ve alt-tepşi passes closea sayaç `6`."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek kaydır daha düşük mor `19` çubuk önce sol-ray `10` istifler gitti.",
+        "Temizleyerek merkez turuncu geç çok erken sırasında üst-sıra numaralar hâlâ engelleyerek üst çıkışlar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 103 Rehberi ve Çözümü",
+    "description": "Block Out seviye 103'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

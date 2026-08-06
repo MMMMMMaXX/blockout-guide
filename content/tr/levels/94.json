@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-94",
+  "locale": "tr",
+  "levelNumber": 94,
+  "title": "Block Out Seviye 94 Rehberi",
+  "summary": "Block Out Seviye 94 bir Dört-oda cascade: `14` ve `18` üstde, yatay `6` çubuk ortadan, ve tucked-uzakta `3` cep daha düşük-sağdır. Açık daha düşük clutter ilk, çöz `3` ve `6` odalar saniye, ve sadece th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "Block Out Seviye 94 bir Dört-oda cascade: `14` ve `18` üstde, yatay `6` çubuk ortadan, ve tucked-uzakta `3` cep daha düşük-sağdır. Açık daha düşük clutter ilk, çöz `3` ve `6` odalar saniye, ve sadece sonra settle uzun `14` ve `18` besler.",
+        "landmarks": [
+          "Block Out Seviye 94 bir Dört-oda cascade: `14` ve `18` üstde, yatay `6` çubuk ortadan, ve tucked-uzakta `3` cep daha düşük-sağdır.",
+          "Açık daha düşük clutter ilk, çöz `3` ve `6` odalar saniye, ve sadece sonra settle uzun `14` ve `18` besler.",
+          "Tahta mor, kırmızı, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Daha düşük-sağ `3` cep değil optional temizlik. o parça opener.",
+        "Eğer `6` çubuk hâlâ alive, `18` oda probably değil hazır henüz.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle daha düşük-sol clutter ilk, especially kilitlen/anahtar parçalar ve kırmızı-yeşil istifler alt odalardan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Açık ve boşalt daha düşük-sağ `3` oda böylece sağ çeyrek sonunda dönüş alan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Azalt orta `6` oda sonraki, kullanarak newly açıldı daha düşük şeritler tuta geç-şerit temizle."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla besleyerek üst-sol `14` oda sonra daha düşük yarı hayır daha uzun sharing onun şeritler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sakla üst-sağ `18` oda için longest geç-game besle, ne zaman camgöbeği T-şekil ve mor elbow altında zaten hareket ettirildi kenara."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son camgöbeği ve mor artanlar sonra `18` oda çöker."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring daha düşük-sağ `3` cep ve pretending Seviye 94 sadece üç odalar.",
+        "Başlayarak `18` oda sırasında orta `6` çubuk hâlâ competing için aynı şerit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 94 Rehberi ve Çözümü",
+    "description": "Block Out seviye 94'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

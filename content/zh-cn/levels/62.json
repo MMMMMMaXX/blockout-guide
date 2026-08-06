@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-62",
+  "locale": "zh-cn",
+  "levelNumber": 62,
+  "title": "Block Out 第62关攻略",
+  "summary": "Block Out 第62关在一个5×8的网格中，中间是笑脸方块（可自由滑动），两侧是带方向箭头的方块——左侧蓝色左箭头，右侧红色右箭头。笑脸方块可自由移动，但箭头方块受约束。先清空顶部和底部行，再处理中间笑脸方块，最后处理两侧箭头方块。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "Block Out 第62关在一个5×8的网格中，中间是笑脸方块（可自由滑动），两侧是带方向箭头的方块——左侧蓝色左箭头，右侧红色右箭头。笑脸方块可自由移动，但箭头方块受约束。先清空顶部和底部行，再处理中间笑脸方块，最后处理两侧箭头方块。",
+        "landmarks": [
+          "Block Out 第62关在一个5×8的网格中，中间是笑脸方块（可自由滑动），两侧是带方向箭头的方块——左侧蓝色左箭头，右侧红色右箭头。",
+          "笑脸方块可自由移动，但箭头方块受约束。",
+          "先清空顶部和底部行，再处理中间笑脸方块，最后处理两侧箭头方块。"
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中间的笑脸方块可自由滑动——利用这种自由为方向箭头方块清理通道。",
+        "先清空顶部和底部行，给中间方块留出移动空间。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "从顶部出口清空顶部的橙色笑脸方块，打通上层。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "从底部出口清空底部的绿色笑脸方块，打通下层。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "开始自由滑动中间的笑脸方块——它们可以向任意方向移动。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "随着中间打开，将左侧带左箭头的蓝色方块从左出口清空。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将右侧带右箭头的红色方块从右出口清空。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后清理残留在角落里的笑脸方块。"
+        }
+      ],
+      "failurePoints": [
+        "在中间笑脸方块腾出空间之前就清理两侧箭头方块——中间方块会被卡住。",
+        "在顶部和底部行打开之前就试图清理中间，导致棋盘堵塞。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第62关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第62关。"
+  },
+  "updatedAt": "2026-08-03"
+}

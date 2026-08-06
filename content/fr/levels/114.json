@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-114",
+  "locale": "fr",
+  "levelNumber": 114,
+  "title": "Guide Block Out Niveau 114",
+  "summary": "Block Out Niveau 114 donne vous deux wrenches et deux padlocked blocs, mais real constraint est four bas couleur barres — live quotas, pas score decoration. Chaque clé anglaise unlocks exactly one cadenas amas, et spending bleu clé anglaise...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/114/",
+        "layout": "Block Out Niveau 114 donne vous deux wrenches et deux padlocked blocs, mais real constraint est four bas couleur barres — live quotas, pas score decoration. Chaque clé anglaise unlocks exactly one cadenas amas, et spending bleu clé anglaise sur faux verrou leaves la gauche barre cyan bloqué à `10` avec non tool à fix il. haut device compteur dropping à `3` est votre signal que time est running hors.",
+        "landmarks": [
+          "Block Out Niveau 114 donne vous deux wrenches et deux padlocked blocs, mais real constraint est four bas couleur barres — live quotas, pas score decoration.",
+          "Chaque clé anglaise unlocks exactly one cadenas amas, et spending bleu clé anglaise sur faux verrou leaves la gauche barre cyan bloqué à `10` avec non tool à fix il.",
+          "Haut device compteur dropping à `3` est votre signal que time est running hors."
+        ],
+        "colors": ["red", "pink", "yellow", "orange", "green", "cyan", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UAzhWbdstDQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UAzhWbdstDQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rouge clé anglaise premier sur supérieur bloc jaune — il seulement frees le haut half.",
+        "Bas `14` barre rose est dernier quota; dégagez jaune `12` et vert `4` avant étoile amas.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tap rouge clé anglaise sur supérieur bloc jaune à déverrouillez le haut rose/jaune amas."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez les blocs jaune vers le bas `12` barre avant touching le centre rose Z-shape."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Pelez la gauche colonne cyan le long de rouge gauche arrow jusqu'à côté compteur tombent de `15` à `10`."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Tap bleu clé anglaise sur le bloc vert à déverrouillez padlocked tuile orange dans abaissez-milieu."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez les blocs vert hors à travers le bas `4` barre et single bloc bleu à travers `1` barre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Cassez haut rose étoile amas sur la droite et close le bas `14` barre rose à travers vert droite arrows."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Sortie dernier orange singles une fois le bas compteurs read `7` et `9`."
+        }
+      ],
+      "failurePoints": [
+        "Spending bleu clé anglaise avant rouge clé anglaise, laissant le haut amas padlocked.",
+        "Dégagement rose étoile amas avant jaune `12` barre est satisfied."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/114/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 114",
+    "description": "Résolvez le niveau 114 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

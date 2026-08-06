@@ -1,0 +1,93 @@
+{
+  "id": "de-level-59",
+  "locale": "de",
+  "levelNumber": 59,
+  "title": "Block Out Level 59 Lösung",
+  "summary": "Block Out Level 59 startet als double-chamber Spielfeld aber beendet als verklemmen Puzzle. Öffnen big central `4` chamber erste, thin untere linke `10` Raum second, und dann verwenden freigegeben mittlere zu break Kette Spalte bevor du herausholen...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/59/",
+        "layout": "Block Out Level 59 startet als double-chamber Spielfeld aber beendet als verklemmen Puzzle. Öffnen big central `4` chamber erste, thin untere linke `10` Raum second, und dann verwenden freigegeben mittlere zu break Kette Spalte bevor du herausholen large pink Block auf rechts.",
+        "landmarks": [
+          "Block Out Level 59 startet als double-chamber Spielfeld aber beendet als verklemmen Puzzle.",
+          "Öffnen big central `4` chamber erste, thin untere linke `10` Raum second, und dann verwenden freigegeben mittlere zu break Kette Spalte bevor du herausholen large pink Block auf rechts.",
+          "Das Spielfeld mixes Lila, Blau, Orange und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9gh_W3CS4Yg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9gh_W3CS4Yg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chained Mitte spine ist real spät-game Ausgang, nicht big pink Block.",
+        "Öffnen central `4` Raum bevor du spend serious effort auf untere linke `10` chamber.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Drain big central lila chamber marked `4` bevor du overwork untere linke `10` Raum."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Trim obere shelf while dass chamber ist shrinking also mittlere Bahn ist nicht boxed in durch Seite walls."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten reducing untere linke `10` chamber nur nach Mitte `4` Raum hat bereits geöffnet einige floor Platz."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "When chained padlock Spalte appears, räumen dass Mitte spine bevor moving large pink Block auf rechts."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden unlocked mittlere zu schieben pink Block und nearby rot Bauteile toward untere exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit unten gelb cluster und letzte small Seite Bauteile nach Kette Bahn ist empty."
+        }
+      ],
+      "failurePoints": [
+        "Treating untere linke `10` chamber like opener while central `4` Raum ist still filling das Spielfeld.",
+        "Versuchen zu bewegen large pink Block bevor chained Mitte Spalte hat gewesen geräumt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/59/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 59 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 59 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

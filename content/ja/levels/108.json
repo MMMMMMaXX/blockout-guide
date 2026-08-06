@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-108",
+  "locale": "ja",
+  "levelNumber": 108,
+  "title": "ブロックアウト レベル108 攻略",
+  "summary": "ブロックアウト レベル108はコンパクトな6×6グリッドを使い、左レールの数字は装飾ではなく生きた進行マーカーです。赤の星の塊が中央を支え、底部の星の棒が最後の出口を封じます。本当の制約は右レールの「1…」です。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/108/",
+        "layout": "ブロックアウト レベル108はコンパクトな6×6グリッドを使い、左レールの数字は装飾ではなく生きた進行マーカーです。赤の星の塊が中央を支え、底部の星の棒が最後の出口を封じます。本当の制約は右レールの「10」タイルです：それを早く滑らせると、星の棒がまだ消去する余地を必要としている間に、下部の供給通路を塞いでしまいます。",
+        "landmarks": [
+          "ブロックアウト レベル 108 6×6 左-レール、.。",
+          "赤 星 塊 アンカー 中央、下 星 棒 最終出口.。",
+          "右-レール `10` タイル: スライドさせ 下の 通す レーン 星 棒 必要とし 消去する.。"
+        ],
+        "colors": ["red", "orange", "green", "blue", "purple", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "32sx09TztaI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=32sx09TztaI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を使いて左に、-レール — 上 届く `8`、下 星 棒 落とす.。",
+        "を維持して下の-中央 隙間 開く 左 緑 列.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を割りて上に、上の-中央の 赤 星 塊、動かし 側 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑列を剥がして左に、下の-中央 隙間 開く.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "オレンジのをずらして棒、左-レール 上 `11` `8`.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去して青、シアン、左-レール 中央の `6`、`1`.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を通して右に、-レール `10` タイル 右 緑 矢印 レーン.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を送りて下 オレンジ 星 棒 下へ 矢印 出口.。"
+        }
+      ],
+      "failurePoints": [
+        "動かし 右-レール `10` タイル、左-レール 上 `8`.。",
+        "下の-中央 隙間、星 棒' 落とす レーン.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/108/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル108 攻略と解説",
+    "description": "ブロックアウト レベル108 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

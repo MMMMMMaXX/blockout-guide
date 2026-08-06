@@ -1,0 +1,92 @@
+{
+  "id": "ko-level-63",
+  "locale": "ko",
+  "levelNumber": 63,
+  "title": "블록 아웃 레벨 63 공략",
+  "summary": "블록 아웃 레벨 63은(는) 보드를 크기가 큰 레고 블록 — L자, 긴 직사각형, 큰 정사각형 — 로 가득 채웠고, 모두 카운터 숫자 11까지 맞물려 있습니다. 시작 전략은 가장자리 떼어내기입니다. 오른쪽 위에서 초록색 블록을...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "블록 아웃 레벨 63은(는) 보드를 크기가 큰 레고 블록 — L자, 긴 직사각형, 큰 정사각형 — 로 가득 채웠고, 모두 카운터 숫자 11까지 맞물려 있습니다. 시작 전략은 가장자리 떼어내기입니다. 오른쪽 위에서 초록색 블록을, 왼쪽 위에서 노란색 '11' 블록을 뽑아내세요. 가장자리가 얇아지면 맞물린 중앙(빨간색 정사각형, 파란색 L자, 보라색 블록)을 비로소 분리할 수 있습니다. 오른쪽의 파란색 L자 조각이 가장 많은 클리어 공간을 필요로 하며 보통 마지막에 나갑니다.",
+        "landmarks": [
+          "블록 아웃 레벨 63은(는) 보드를 크기가 큰 레고 블록 — L자, 긴 직사각형, 큰 정사각형 — 로 가득 채웠고, 모두 카운터 숫자 11까지 맞물려 있습니다.",
+          "시작 전략은 가장자리 떼어내기입니다. 오른쪽 위에서 초록색 블록을, 왼쪽 위에서 노란색 '11' 블록을 뽑아내세요.",
+          "가장자리가 얇아지면 맞물린 중앙(빨간색 정사각형, 파란색 L자, 보라색 블록)을 비로소 분리할 수 있습니다.",
+          "오른쪽의 파란색 L자 조각이 가장 많은 클리어 공간을 필요로 하며 보통 마지막에 나갑니다."
+        ],
+        "colors": ["노란색", "초록색", "빨간색", "파란색", "주황색", "보라색", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "중앙을 건드리기 전에 항상 가장자리를 얇게 만드세요. 중앙을 잘못 움직이면 보드가 잠깁니다.",
+        "오른쪽의 파란색 L자 조각이 가장 많은 클리어 공간을 필요로 하므로 늦게 나가야 합니다.",
+        "연쇄 클리어를 염두에 두세요. 가장 좋은 수는 당장의 가장 빠른 매칭이 아니라, 다음 두 수를 만들어주는 수입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "오른쪽 위의 초록색 블록을 위쪽 출구로 빼내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "노란색 '11' 블록을 왼쪽 출구 쪽으로 밀어 왼쪽 위를 풀어주세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "윗모서리가 열리면 왼쪽 가장자리의 주황색 블록을 아래로 밀어내세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "가장자리 공간이 충분히 생기면 중앙 왼쪽에서 빨간색 정사각형을 뽑아내세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "오른쪽의 파란색 L자를 빼내세요. 가장 많은 클리어 공간이 필요합니다."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "중앙이 열리면 남은 보라색과 청록색 블록으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "가장자리가 얇아지기 전에 중앙 블록을 움직이는 것 — 맞물린 조각이 즉시 끼입니다.",
+        "수직과 수평 공간이 충분하지 않은데 파란색 L자를 일찍 뽑아내려는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 63 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 63을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

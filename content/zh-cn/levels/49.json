@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-49",
+  "locale": "zh-cn",
+  "levelNumber": 49,
+  "title": "Block Out 第 49 关通关攻略",
+  "summary": "Block Out 第 49 关标注为「Super Hard」，有三个高大的 Boss 密室——左右各为 `17`，中间是一块黄色关键方块——都位于下方填满蓝、绿、黄、红、橙、青方块的密室之上……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/49/",
+        "layout": "Block Out 第 49 关标注为「Super Hard」，有三个高大的 Boss 密室——左右各为 `17`，中间是一块黄色关键方块——都位于下方填满蓝、绿、黄、红、橙、青方块的密室之上。先排干下方密室给三个 Boss 腾出空间，再让相匹配的 `17` 密室大致同步坍塌。每个阶段都取决于下方密室是否足够空旷。",
+        "landmarks": [
+          "Block Out 第 49 关标注为「Super Hard」，有三个高大的 Boss 密室——左右各为 `17`，中间是一块黄色关键方块——都位于下方填满蓝、绿、黄、红、橙、青方块的密室之上。",
+          "先排干下方密室给三个 Boss 腾出空间，再让相匹配的 `17` 密室大致同步坍塌。",
+          "每个阶段都取决于下方密室是否足够空旷。"
+        ],
+        "colors": ["blue", "green", "yellow", "red", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RzfhaGIE24A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RzfhaGIE24A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "三个 Boss 都依赖同一层地板——若下方密室仍显拥挤，它们都尚未就绪。",
+        "Boss 之间的黄色中央方块是早期关键块。用它来开始打开上部区域。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将下方彩色方块（蓝、绿、黄、红、橙、青）向侧边出口排干。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "将 Boss 之间的黄色中央方块作为早期一步，开始打开上部区域。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在下方密室仍然拥挤时，让 `17` Boss 保持不动。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "地板约清空一半后，让 Boss 计数开始下降。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "大致均衡地处理两个 `17` 密室，使它们同步坍塌。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "清理显露的上部空间中后期出现的彩色条带。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "处理最后的侧边计数块与密室清理，完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在另外两个仍封闭时单独处理一个顶部 Boss——三个共享同一层地板，必须一起打开。",
+        "在触碰 Boss 前未排干下方密室，导致三个密室都没有坍塌空间。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/49/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 49 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 49 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

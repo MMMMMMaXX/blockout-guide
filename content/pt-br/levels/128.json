@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-128",
+  "locale": "pt-br",
+  "levelNumber": 128,
+  "title": "Guia do nível 128 do Block Out",
+  "summary": "Block Out Nível 128 solta character blocos — amarelo sorriso face e vermelho heart-face peças — sobre moldura-contador tabuleiro com snowflake ice contadores tracking restante saídas. character blocos são real objetivos, não decoração. C...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/128/",
+        "layout": "Block Out Nível 128 solta character blocos — amarelo sorriso face e vermelho heart-face peças — sobre moldura-contador tabuleiro com snowflake ice contadores tracking restante saídas. character blocos são real objetivos, não decoração. Limpar direita vermelho empilhe antes que ice contador finishes e sorriso bloco obtém frozen em coloque com no saída.",
+        "landmarks": [
+          "Block Out Nível 128 solta character blocos — amarelo sorriso face e vermelho heart-face peças — sobre moldura-contador tabuleiro com snowflake ice contadores tracking restante saídas.",
+          "Character blocos são real objetivos, não decoração.",
+          "Limpar direita vermelho empilhe antes que ice contador finishes e sorriso bloco obtém frozen em coloque com no saída."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan", "teal"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_nuD7bwaKQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_nuD7bwaKQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vermelho heart bloco deve limpar antes que direita vermelho empilhe — não depois.",
+        "Assista superior display barra: ele solta de `12` para `9` para `5` como você progresso.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Tap laranja-bordered superior `12` display barra, então limpar esquerda roxo e vermelho aglomerado."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre azul e amarelo sorriso-face par em inferior centro antes que direita vermelho empilhe desloca."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Pop vermelho heart bloco em inferior-esquerda uma vez sorriso peças são indo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Escoe alto direita-lateral vermelho coluna enquanto superior display ainda reads `9`."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste ice contadores `18`, `5`, e `2` em ordem ao longo direita borda."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine restante verde massa e inferior multicolor recortes para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Escoando direita vermelho empilhe antes que sorriso par limpa — ice `18` contador permanece trancado.",
+        "Skipping vermelho heart bloco enquanto perseguindo superior display contador."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/128/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 128 do Block Out",
+    "description": "Resolva o nível 128 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

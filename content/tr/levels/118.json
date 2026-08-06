@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-118",
+  "locale": "tr",
+  "levelNumber": 118,
+  "title": "Block Out Seviye 118 Rehberi",
+  "summary": "Block Out Seviye 118 layers kırmızı threshold çubuk 6×6 Lego-textured ızgara ile yan-ray sayaçlar ve yıldız-desenli camgöbeği cep ki meli survive mid-run intact. ızgara slides sıralarda — her it ripples tüm altıdan colu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/118/",
+        "layout": "Block Out Seviye 118 layers kırmızı threshold çubuk 6×6 Lego-textured ızgara ile yan-ray sayaçlar ve yıldız-desenli camgöbeği cep ki meli survive mid-run intact. ızgara slides sıralarda — her it ripples tüm altıdan sütunlar. merkez kırmızı blok bakar harmless, ama kaydırarak o önce sağ ray düşer buries yıldız cep kaydıraraka debris.",
+        "landmarks": [
+          "Block Out Seviye 118 layers kırmızı threshold çubuk 6×6 Lego-textured ızgara ile yan-ray sayaçlar ve yıldız-desenli camgöbeği cep ki meli survive mid-run intact.",
+          "Izgara slides sıralarda — her it ripples tüm altıdan sütunlar.",
+          "Merkez kırmızı blok bakar harmless, ama kaydırarak o önce sağ ray düşer buries yıldız cep kaydıraraka debris."
+        ],
+        "colors": ["cyan", "green", "yellow", "red", "purple", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "W5Eeo1DQgt8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=W5Eeo1DQgt8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Değil bölündü yıldız-desenli camgöbeği 3×3 cep — o anchors sol-merkez slides.",
+        "Sakla sağ sarı L-küme kadar alt mor `2` sayaç appears.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kır üst camgöbeği tetromino kırmızı thresholda çubuk olmadan geçerek sol `2` ray."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy sol yeşil sütun sırasında tutarak yıldız-desenli camgöbeği 3×3 cep intact."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır alt kırmızı aşağı doğru-ok blok merkez sonradan sol ray düşer `10`."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle sağ-ray `6` ve `8` counts aşağı ile yeşil sağ-ok şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle sarı L-küme sağ sadece sonrada alt mor `2` sayaç visible."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Çıkış son kırmızı ve sarı artıklar açık aşağı doğru şerit için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Bölerek yıldız-desenli camgöbeği cep çok erken, hangi removes sol-merkez sabitle.",
+        "Hareket ettirerek sağ sarı L-küme önce alt mor `2` sayaç visible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/118/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 118 Rehberi ve Çözümü",
+    "description": "Block Out seviye 118'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

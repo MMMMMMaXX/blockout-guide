@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-1",
+  "locale": "tr",
+  "levelNumber": 1,
+  "title": "Block Out Seviye 1 Anlatımı",
+  "summary": "Blok Out Level 1 is a three-kare dönüş bulmaca. Hareket black sola, lift white içine the sağ üst köşe, kaydır red kenara, ve then let white, black, ve red leave in that order.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "Blok Out Level 1 is a three-kare dönüş bulmaca. Hareket black sola, lift white içine the sağ üst köşe, kaydır red kenara, ve then let white, black, ve red leave in that order.",
+        "landmarks": [
+          "Blok Out Level 1 is a three-kare dönüş bulmaca.",
+          "Hareket black sola, lift white içine the sağ üst köşe, kaydır red kenara, ve then let white, black, ve red leave in that order.",
+          "The tahta mixes Red, White, Black ve daha fazla.",
+          "The açılış layout is a renk sıralı grid.",
+          "Temizle eşleşti karolar to finish the level."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use the sağ üst köşe as white's parking alan.",
+        "Do not send red upward until white has already crossed sola.",
+        "If the tahta feels stuck, look for the renk with the cleanest yol ve use that to regain alan."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır the black kare sola so it sits directly altına the red top çıkış."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Lift the white kare içine the sağ üst köşe."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Push the red kare sağa içine the orta-sağa şerit."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak the black kare down the sola side until it reaches the alt şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Hareket the white kare boyunca the top ve feed it out üzerinden the white çıkış on the sola duvar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kaydır the black kare sağa üstüne the black bottom çıkış."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Finish by moving the red kare sola altına the red çıkış ve sending it up."
+        }
+      ],
+      "failurePoints": [
+        "Trying to raise the red kare before the white kare has crossed the top sıra.",
+        "Leaving black in the sağ üst köşe instead of using it to open the sola sütun."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 1 Anlatımı ve Çözümü",
+    "description": "Block Out seviye 1'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

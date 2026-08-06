@@ -1,0 +1,98 @@
+{
+  "id": "de-level-4",
+  "locale": "de",
+  "levelNumber": 4,
+  "title": "Block Out Level 4 Lösung",
+  "summary": "Block Out Level 4 ist two-phase striped Spielfeld. Räumen untere rechte weiß Ausgang und unten mintgrün bar erste, abbauen weiß-und-schwarz Blockierer ladder auf rechts, und nur dann freigeben long colored bars.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "Block Out Level 4 ist two-phase striped Spielfeld. Räumen untere rechte weiß Ausgang und unten mintgrün bar erste, abbauen weiß-und-schwarz Blockierer ladder auf rechts, und nur dann freigeben long colored bars.",
+        "landmarks": [
+          "Block Out Level 4 ist two-phase striped Spielfeld.",
+          "Räumen untere rechte weiß Ausgang und unten mintgrün bar erste, abbauen weiß-und-schwarz Blockierer ladder auf rechts, und nur dann freigeben long colored bars.",
+          "Das Spielfeld mixes Rot, Gelb, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untere rechte weiß Ausgang ist real starter.",
+        "Unten mintgrün bar ist nur long bar du sollte freigeben bevor rechts ladder collapses.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Fallen lassen small weiß Block in untere rechte Ecke durch weiß Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben unten mintgrün bar zu rechts und räumen es durch sein abgleichend Seiten-Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Let nearest schwarz Blockierer fall in floor Bahn, dann verwenden new gap zu abziehen nächste weiß Blockierer runter rechts edge und hinaus durch weißer Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Behalten repeating dass rechts-edge cleanup bis weiß-und-schwarz ladder ist mostly gone und long bars auf links haben Raum zu travel."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Freigeben blau bar, dann grün bar, und dann remaining untere warm bars once ihr abgleichend rechts-Seite gates sind öffnen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Aufsparen obere gelb bar für penultimate bewegen."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch sliding oben rot bar über zu rot Seiten-Ausgang."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu fire long blau bar bevor rechts-Seite Blockierer ladder hat collapsed.",
+        "Ignoring unten mintgrün bar und leaving floor Bahn sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 4 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 4 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

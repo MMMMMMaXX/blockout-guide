@@ -1,0 +1,97 @@
+{
+  "id": "es-level-68",
+  "locale": "es",
+  "levelNumber": 68,
+  "title": "Guía de Block Out Nivel 68",
+  "summary": "Block Out nivel 68 stacks two cámaras vertically, separated por a horizontal dividing barra. La cámara superior holds a mix de verde bloques, a grande azul bloque, y naranja/amarillo piezas. La cámara inferior es dominated por a massive morado r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out nivel 68 stacks two cámaras vertically, separated por a horizontal dividing barra. La cámara superior holds a mix de verde bloques, a grande azul bloque, y naranja/amarillo piezas. La cámara inferior es dominated por a massive morado rectangle con contador '7' wrapped en un marco rojo. Elimina the entire superior cámara primero — la barra dividing will no abierto hasta lo empties. Luego franja el marco rojo y feed el bloque morado por su salida seven times.",
+        "landmarks": [
+          "Block Out nivel 68 stacks two cámaras vertically, separated por a horizontal dividing barra.",
+          "La cámara superior holds a mix de verde bloques, a grande azul bloque, y naranja/amarillo piezas.",
+          "La cámara inferior es dominated por a massive morado rectangle con contador '7' wrapped en un marco rojo.",
+          "Elimina the entire superior cámara primero — la barra dividing will no abierto hasta lo empties."
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "morado", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Empty la cámara superior completely antes touching the inferior — la barra dividing will no abierto otherwise.",
+        "Franja el marco rojo alrededor el bloque morado antes feeding lo por el salida.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the pequeño bloques en the superior de la cámara superior por el salida superior."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Extract the verde bloques en the izquierdo por el salida izquierdo."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Desliza the grande azul bloque bloque fuera por the derecho o superior salida."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the naranja/amarillo bloques en the inferior de la cámara superior."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Once la cámara superior empties, la barra dividing opens — franja el marco rojo alrededor el bloque morado."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Introduce the massive morado bloque (contador '7') por su salida repeatedly hasta totalmente cleared."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con cualquier restante cian lado piezas y inferior fragments."
+        }
+      ],
+      "failurePoints": [
+        "Trying a movimiento el bloque morado antes la cámara superior es empty — la barra dividing es todavía sealed.",
+        "Forgetting a franja el marco rojo alrededor el bloque morado antes attempting a feed lo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 68",
+    "description": "Resuelve Block Out nivel 68 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-70",
+  "locale": "ja",
+  "levelNumber": 70,
+  "title": "ブロックアウト レベル70 攻略",
+  "summary": "ブロックアウト レベル70は、上部に大きな紫の「14」ブロック、中央に自由に滑るスマイリーブロック、側面に向き矢印ブロックを詰め込んだ5×7グリッドです。紫ブロックは14回の出口が必要です—まず底を消去し、次にス…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/70/",
+        "layout": "ブロックアウト レベル70は、上部に大きな紫の「14」ブロック、中央に自由に滑るスマイリーブロック、側面に向き矢印ブロックを詰め込んだ5×7グリッドです。紫ブロックは14回の出口が必要です—まず底を消去し、次にスマイリーブロックを進め、最後に上部の重い紫ブロックで締めくくります。",
+        "landmarks": [
+          "ブロックアウト レベル 70 5×7 紫 '14' ブロック 上、を解放して-スライドさせ スマイル 中央の、矢印 .。",
+          "紫 ブロック 必要とし 14 出口 — 消去する 下、進める スマイル、終える 紫 ブロック 上.。",
+          "混ぜる 紫、ピンク、緑、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "pink", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h8NdrQz8KTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h8NdrQz8KTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "紫 '14' ブロック — 消去する スマイル .。",
+        "スマイル 中央の 解放する-スライドさせ — 使う 消去する 矢印 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑スマイルを消去して下 下部の出口 開く 台座.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青のをずらして左 左 出口 開く 下の-左 エリア.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "スライドさせ ピンク/ スマイル 中央の — 手順 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "赤のを消去して右 右 出口 中央の .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "紫 '14' ブロック 上 — 必要とし 14 出口 消去する.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えてスマイル 角.。"
+        }
+      ],
+      "failurePoints": [
+        "消去する '14' ブロック、スマイル — 必要とし スライドさせる、出口 .。",
+        "消去 上、下、下の スライドさせ .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/70/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル70 攻略と解説",
+    "description": "ブロックアウト レベル70 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

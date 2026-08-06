@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-77",
+  "locale": "pt-br",
+  "levelNumber": 77,
+  "title": "Guia do nível 77 do Block Out",
+  "summary": "Block Out Nível 77 empacota 5×7 grade com laranja '12' bloco em esquerda, azul '2' bloco em direita, e direcional seta blocos em bordas. laranja '12' precisa 12 saídas — limpar inferior primeiro, então funciona numerado blocos,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/77/",
+        "layout": "Block Out Nível 77 empacota 5×7 grade com laranja '12' bloco em esquerda, azul '2' bloco em direita, e direcional seta blocos em bordas. laranja '12' precisa 12 saídas — limpar inferior primeiro, então funciona numerado blocos, e termine com pesado '12' bloco.",
+        "landmarks": [
+          "Block Out Nível 77 empacota 5×7 grade com laranja '12' bloco em esquerda, azul '2' bloco em direita, e direcional seta blocos em bordas.",
+          "Laranja '12' precisa 12 saídas — limpar inferior primeiro, então funciona numerado blocos, e termine com pesado '12' bloco.",
+          "Tabuleiro mistura Laranja, Azul, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["orange", "blue", "red", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JNbWl2gHe14",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JNbWl2gHe14",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'12' bloco é marathon — limpar mais leve '2' bloco primeiro para construa espaço.",
+        "Limpar inferior primeiro para dê numerado blocos deslizando espaço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar roxo e azul blocos em inferior através inferior saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque verde blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece limpando azul '2' bloco em direita através direita saída — ele é mais leve alvo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Funciona laranja '12' bloco em esquerda através esquerda saída como meio abre."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar vermelho blocos em superior através direita saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar '12' bloco antes que '2' bloco — '12' bloco precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando superior antes que inferior, que deixa inferior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/77/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 77 do Block Out",
+    "description": "Resolva o nível 77 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

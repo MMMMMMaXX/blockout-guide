@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-55",
+  "locale": "pt-br",
+  "levelNumber": 55,
+  "title": "Guia do nível 55 do Block Out",
+  "summary": "Block Out Nível 55 cadeados largo roxo chefe barra com contador `7` através inferior de tabuleiro enquanto empacotando superior zona com grande verde 2×2 bloco, quatro alto ciano blocos (cada contador `4`), e assorted vermelho, azul, e amarelo peça...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out Nível 55 cadeados largo roxo chefe barra com contador `7` através inferior de tabuleiro enquanto empacotando superior zona com grande verde 2×2 bloco, quatro alto ciano blocos (cada contador `4`), e assorted vermelho, azul, e amarelo peças. Limpar cada superior bloco para contagem chefe barra baixo para zero, então ordene oculto camada de alto amarelo, laranja, e verde blocos que aparece depois barra colapsa.",
+        "landmarks": [
+          "Block Out Nível 55 cadeados largo roxo chefe barra com contador `7` através inferior de tabuleiro enquanto empacotando superior zona com grande verde 2×2 bloco, quatro alto ciano blocos (cada contador `4`), e assorted vermelho, azul, e amarelo peças.",
+          "Limpar cada superior bloco para contagem chefe barra baixo para zero, então ordene oculto camada de alto amarelo, laranja, e verde blocos que aparece depois barra colapsa.",
+          "Tabuleiro mistura Verde, Ciano, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Comece quatro ciano `4` blocos cedo — eles consume 16 total passa através direita-parede saída.",
+        "Do não touch revelado amarelo/laranja camada até roxo chefe barra tem totalmente disappeared.",
+        "Mantenha esquerda pista abra depois verde 2×2 bloco saídas — você will precisa ele para segundo onda."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize pequeno vermelho bloco perto superior-esquerda para baixo, então empurre grande verde 2×2 block out através esquerda-parede saída para abra esquerda pista (02:55–02:50 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Roteie azul bloco através esquerda-parede saída usando lacuna verde bloco esquerda atrás de."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece alimentando quatro ciano `4` blocos através direita-parede saída — comece com leftmost ciano bloco e mantenha direita pista limpar para tudo 16 passa (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar restante amarelo e pequeno vermelho blocos através whichever saída é closest — cada peça solta chefe contador por um (contador reads `3` em 02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez contador hits `0` (ao redor 02:29), roxo chefe barra colapsa e reveals alto amarelo, laranja, e verde blocos underneath."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deslize revelado amarelo alto bloco em direção a esquerda-parede saída primeiro porque ele blocos laranja bloco atrás de ele."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Roteie laranja alto bloco através direita-parede saída, então termine com restante verde blocos através inferior saídas (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "Movendo revelado amarelo ou laranja bloco antes que chefe barra tem totalmente collapsed — peça entrava contra barra e blocos saída pista com no caminho para recover.",
+        "Alimentando ciano `4` blocos através esquerda-parede saída em vez de direita — este clogs pista needed para verde 2×2 bloco e stalls chefe countdown."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 55 do Block Out",
+    "description": "Resolva o nível 55 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

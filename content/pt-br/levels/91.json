@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-91",
+  "locale": "pt-br",
+  "levelNumber": 91,
+  "title": "Guia do nível 91 do Block Out",
+  "summary": "Block Out Nível 91 começa com empilhado `7` e `5` câmaras, mas real choke point é centro elevator que aparece depois superior câmara shrinks. Limpar empacotado esquerda parede primeiro, escoe `7` câmara segundo, e então limpo n...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/91/",
+        "layout": "Block Out Nível 91 começa com empilhado `7` e `5` câmaras, mas real choke point é centro elevator que aparece depois superior câmara shrinks. Limpar empacotado esquerda parede primeiro, escoe `7` câmara segundo, e então limpo numerado ciano pista antes que último lateral peças deixe.",
+        "landmarks": [
+          "Block Out Nível 91 começa com empilhado `7` e `5` câmaras, mas real choke point é centro elevator que aparece depois superior câmara shrinks.",
+          "Limpar empacotado esquerda parede primeiro, escoe `7` câmara segundo, e então limpo numerado ciano pista antes que último lateral peças deixe.",
+          "Tabuleiro mistura Roxo, Verde, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zTmcF9fl4FU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zTmcF9fl4FU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Se esquerda parede é ainda cheio, `7` câmara é não ready.",
+        "Ciano countdown pista é parte que actually cadeados tarde game.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Soften esquerda parede por limpando verde escada e amarelo coluna beside ele."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Livre pequeno vermelho quadrado perto meio so centro eixo é não boxed em later."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece encolhendo superior `7` câmara único depois esquerda parede é mais leve."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deixe centro elevator abra e limpar ciano countdown pista que aparece entre câmaras."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente inferior `5` câmara uma vez eixo é no mais longo blocked por amarelo e vermelho vertical peças."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com restante vermelho e verde lateral peças depois meio pista é vazio."
+        }
+      ],
+      "failurePoints": [
+        "Encolhendo `7` câmara antes que esquerda parede tem aberto suficiente espaço para centro eixo.",
+        "Ignorando ciano countdown pista e jumping reto de `7` câmara para `5` câmara."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/91/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 91 do Block Out",
+    "description": "Resolva o nível 91 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

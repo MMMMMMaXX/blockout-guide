@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-138",
+  "locale": "pt-br",
+  "levelNumber": 138,
+  "title": "Guia do nível 138 do Block Out",
+  "summary": "O nível 138 do Block Out alinha três tubos com borda laranja — `7`, `9`, `13` — como os únicos rastreadores de progresso do tabuleiro, alimentados a partir de uma grade base multicolorida através de um dispositivo de cabeçalho `2`. O contador `3` da coluna direita e as lajes base devem se alinhar antes que...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/138/",
+        "layout": "O nível 138 do Block Out alinha três tubos com borda laranja — `7`, `9`, `13` — como os únicos rastreadores de progresso do tabuleiro, alimentados a partir de uma grade base multicolorida através de um dispositivo de cabeçalho `2`. O contador `3` da coluna direita e as lajes base devem se alinhar antes que os tubos aceitem entrada. Empurre o aglomerado roxo antes que o cabeçalho dispare, ou um bloco vermelho solitário à deriva entra na pista de alimentação do tubo `9`, paralisando o contador mais longo.",
+        "landmarks": [
+          "O nível 138 do Block Out alinha três tubos com borda laranja — `7`, `9`, `13` — como os únicos rastreadores de progresso do tabuleiro, alimentados a partir de uma grade base multicolorida através de um dispositivo de cabeçalho `2`.",
+          "Direita-coluna `3` contador e base lajes deve align antes que tubos accept input.",
+          "Empurre roxo aglomerado antes que cabeçalho fires e lone vermelho bloco drifts em `9` tubo's alimente pista, stalling longest contador."
+        ],
+        "colors": ["yellow", "purple", "red", "blue", "green", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w0c0YTRTa2Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w0c0YTRTa2Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar isolated vermelho inferior-centro bloco último — doing ele cedo overfills 13 tubo.",
+        "Alimente direita-lateral amarelo/azul/vermelho empilhe único depois 7 coluna hits zero.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar inferior-esquerda azul quadrado e vermelho horizontal par através azul esquerda-seta pista para comece esquerda 7 coluna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize centro amarelo horizontal bloco para a direita para alimente meio 9 coluna sem tocando direita-lateral 2 contador."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre direita-lateral amarelo/azul/vermelho empilhe através verde direita-seta pista uma vez 7 coluna hits zero."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente restante roxo e ciano base recortes para cima em direita 13 coluna."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste cabeçalho 2 dispositivo e vermelho segmented barra depois tudo três coluna circles limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Escoe direita laranja-coluna 3 contador e saída último vermelho singleton através vermelho inferior-seta para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Limpando inferior-centro vermelho bloco antes que cabeçalho 2 spends, overfilling 13 tubo.",
+        "Alimentando direita-lateral empilhe antes que 7 coluna limpa, locking verde direita-seta pista."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/138/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 138 do Block Out",
+    "description": "Resolva o nível 138 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

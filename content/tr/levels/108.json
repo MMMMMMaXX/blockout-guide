@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-108",
+  "locale": "tr",
+  "levelNumber": 108,
+  "title": "Block Out Seviye 108 Rehberi",
+  "summary": "Block Out Seviye 108 uses compact 6×6 ızgara nere sol-ray numaralar live progress markers, değil süs. kırmızı yıldız küme anchors merkez ve alt yıldız çubuk seals son çıkış. gerçek constraint sağ-ray `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/108/",
+        "layout": "Block Out Seviye 108 uses compact 6×6 ızgara nere sol-ray numaralar live progress markers, değil süs. kırmızı yıldız küme anchors merkez ve alt yıldız çubuk seals son çıkış. gerçek constraint sağ-ray `10` karo: kaydırarak o çok erken bloklar daha düşük besle şerit sırasında yıldız çubuk hâlâ gerektirir alan temizle.",
+        "landmarks": [
+          "Block Out Seviye 108 uses compact 6×6 ızgara nere sol-ray numaralar live progress markers, değil süs.",
+          "Kırmızı yıldız küme anchors merkez ve alt yıldız çubuk seals son çıkış.",
+          "Gerçek constraint sağ-ray `10` karo: kaydırarak o çok erken bloklar daha düşük besle şerit sırasında yıldız çubuk hâlâ gerektirir alan temizle."
+        ],
+        "colors": ["red", "orange", "green", "blue", "purple", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "32sx09TztaI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=32sx09TztaI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kullan sol-ray counts checklist — üst count meli ulaş `8` önce alt yıldız çubuk ebilir düşür.",
+        "Tut daha düşük-merkez boşluk açık sırasında soyarak sol yeşil sütun.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kır yukarı üst-orta kırmızı yıldız küme önce hareket ettirerek yan tekliler."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy sol yeşil sütun sırasında tutarak daha düşük-merkez boşluk açık."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır turuncu dikey çubuk sadece sonra sol-ray üst count düşer `11` `8`."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kalan mavi ve camgöbeği tekliler sonra sol-ray orta counts read `6` ve `1`."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle sağ-ray `10` karo dışarı sağ yeşil okdan şerit."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Gönder alt turuncu yıldız çubuk aşağı doğru ok çıkış."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek sağ-ray `10` karo önce sol-ray üst count reaches `8`.",
+        "Doldurarak daha düşük-merkez boşluk çok erken, hangi removes yıldız çubuk's düşür şerit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/108/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 108 Rehberi ve Çözümü",
+    "description": "Block Out seviye 108'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

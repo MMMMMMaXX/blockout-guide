@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-42",
+  "locale": "tr",
+  "levelNumber": 42,
+  "title": "Block Out Seviye 42 Rehberi",
+  "summary": "Block Out Seviye 42 bir Iki-sütun sorting bulmaca ile hayır ana bloklar veya cihazlardır. Yeşil, kırmızı, beyaz, ve siyah bloklar istiflendi ikide parallel dikey kanallar ayrıldı ile dark merkez divider, ve her renk meli ulaş onun eşleştirerek exi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/42/",
+        "layout": "Block Out Seviye 42 bir Iki-sütun sorting bulmaca ile hayır ana bloklar veya cihazlardır. Yeşil, kırmızı, beyaz, ve siyah bloklar istiflendi ikide parallel dikey kanallar ayrıldı ile dark merkez divider, ve her renk meli ulaş onun eşleştirerek çıkış altda. çöz works üstden alta: soy üst bloklar ilk oluştur alan, kaydır beyaz merkez bloklar enablea geç-sütun swaps, ve sort her renk onun çıkışa.",
+        "landmarks": [
+          "Block Out Seviye 42 bir Iki-sütun sorting bulmaca ile hayır ana bloklar veya cihazlardır.",
+          "Yeşil, kırmızı, beyaz, ve siyah bloklar istiflendi ikide parallel dikey kanallar ayrıldı ile dark merkez divider, ve her renk meli ulaş onun eşleştirerek çıkış altda.",
+          "Çöz works üstden alta: soy üst bloklar ilk oluştur alan, kaydır beyaz merkez bloklar enablea geç-sütun swaps, ve sort her renk onun çıkışa."
+        ],
+        "colors": ["green", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ouYs3h8WBRE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ouYs3h8WBRE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çalış üstden alta — daha düşük bloklar cannot sort kadar üst ones temizlendi onların sütun alan.",
+        "Beyaz merkez bloklar değiştir enablers, değil ilk hamleler.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy bloklar üst birden dış sütun oluştur ilk boşluk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Mirror temizlik opposite sütunda tuta tahta balanced."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır beyaz merkez bloklar enablea geç-sütun movement."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sort kırmızı bloklar kırmızı alt çıkışa ve yeşil bloklar yeşil çıkışa."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Continue çalışarak üstden alta, temizleyerek her renk layer döndürde."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Tut merkez divider açık için son geç-sütun swaps."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son bloklar sonra her ikisi de sütunlar sorted onların çıkışlara."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek kullan merkez beyaz bloklar önce dış sütunlar thinned — geç-sütun swaps gerektir alan ki sadece exists sonra üst layers peeled.",
+        "Çalışarak alt bloklar önce üst temizlendi, hangi sıkışır sütunlar çünkü orada hayır dikey alan sorta."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/42/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 42 Rehberi ve Çözümü",
+    "description": "Block Out seviye 42'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "fr-level-97",
+  "locale": "fr",
+  "levelNumber": 97,
+  "title": "Guide Block Out Niveau 97",
+  "summary": "Block Out Niveau 97 stacks deux horizontal cadres packed avec blocs colorés. supérieur cadre holds un bloc jaune, bleu borders, large blocs rouge, et padlocked orange/pièces jaune (cadenas `5`). abaissez cadre est twice comme dense avec la...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out Niveau 97 stacks deux horizontal cadres packed avec blocs colorés. supérieur cadre holds un bloc jaune, bleu borders, large blocs rouge, et padlocked orange/pièces jaune (cadenas `5`). abaissez cadre est twice comme dense avec large rouge et blocs vert, bleu, orange, violet, et padlocked pièces jaune. Work les deux cadres dans alternation — dégagez non-padlocked bord blocs à déverrouillez cadenas `5` portes dans chaque cadre, alors alimentez large pièces à travers.",
+        "landmarks": [
+          "Block Out Niveau 97 stacks deux horizontal cadres packed avec blocs colorés.",
+          "Supérieur cadre holds un bloc jaune, bleu borders, large blocs rouge, et padlocked orange/pièces jaune (cadenas `5`).",
+          "Abaissez cadre est twice comme dense avec large rouge et blocs vert, bleu, orange, violet, et padlocked pièces jaune.",
+          "Work les deux cadres dans alternation — dégagez non-padlocked bord blocs à déverrouillez cadenas `5` portes dans chaque cadre, alors alimentez large pièces à travers."
+        ],
+        "colors": ["red", "orange", "yellow", "green", "blue", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cadenas `5` compteurs sont per-cadre — dégagement supérieur blocs seulement unlocks supérieur padlocks, pas abaissez ones.",
+        "Commencez avec non-padlocked bord blocs dans les deux cadres à build vers five-dégagez déverrouillez threshold.",
+        "Alimentez large bloc vert dans abaissez centre dernier — il blocs le centre chemin et needs most salle."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Supérieur cadre: glissez bleu border bloc sur lointain droite à travers la droite-mur sortie, alors poussez le bloc jaune sur lointain gauche à travers la gauche-mur sortie (02:24–02:20 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Abaissez cadre: dégagez orange et blocs violet sur lointain droite à travers la droite-mur sortie — ils sont closest et pas padlocked (02:20–02:15)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Supérieur cadre: dégagez large blocs rouge dans le centre-gauche à travers la gauche-mur sortie — chaque removal counts vers supérieur cadenas `5` déverrouillez (02:15–02:06)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Supérieur cadre padlocks maintenant ouvrez: dégagez orange et jaune padlocked blocs de le centre à travers la sortie droite (02:06)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Abaissez cadre: dégagez non-padlocked bleu et blocs rouge de le centre à count vers abaissez cadenas `5` threshold (02:01–01:52)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Abaissez cadre padlocks maintenant ouvrez: dégagez jaune padlocked blocs sur lointain gauche à travers la gauche-mur sortie (01:52)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Alimentez large bloc vert dans abaissez centre à travers la sortie inférieure — il prend several passes et needs le centre chemin dégagez (01:47–01:38)."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Terminez avec restant petit blocs de les deux cadres à travers nearest sorties (01:38–01:33)."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement blocs rouge dans supérieur cadre avant planning padlocked blocs' sortie acheminez — une fois surrounding espace fills avec abaissez-cadre se déversent, padlocked blocs ont nowhere à allez.",
+        "Treating cadenas compteurs comme shared — dégagement five supérieur-cadre blocs pas déverrouillez abaissez-cadre padlocks, donc working seulement one cadre à time wastes coups."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 97",
+    "description": "Résolvez le niveau 97 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-126",
+  "locale": "tr",
+  "levelNumber": 126,
+  "title": "Block Out Seviye 126 Rehberi",
+  "summary": "Block Out Seviye 126 lines yukarı yatay Lego-textured çubuklar ile kaydır oklar, istiflerek onları ikizden turuncu-çerçeveli `7` bloklar ve alt `9`/`11` sayaç sıra. `7` çift meli temizle sequenceda — breaking bir olmadan ilk openin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/126/",
+        "layout": "Block Out Seviye 126 lines yukarı yatay Lego-textured çubuklar ile kaydır oklar, istiflerek onları ikizden turuncu-çerçeveli `7` bloklar ve alt `9`/`11` sayaç sıra. `7` çift meli temizle sequenceda — breaking bir olmadan ilk açarak merkez kanal bırakır onun ikiz orphaned ile hayır çıkış şerit. alt çubuk sadece starts counting aşağı sonra her ikisi de `7` bloklar gitti.",
+        "landmarks": [
+          "Block Out Seviye 126 lines yukarı yatay Lego-textured çubuklar ile kaydır oklar, istiflerek onları ikizden turuncu-çerçeveli `7` bloklar ve alt `9`/`11` sayaç sıra.",
+          "`7` çift meli temizle sequenceda — breaking bir olmadan ilk açarak merkez kanal bırakır onun ikiz orphaned ile hayır çıkış şerit.",
+          "Alt çubuk sadece starts counting aşağı sonra her ikisi de `7` bloklar gitti."
+        ],
+        "colors": ["red", "pink", "purple", "blue", "cyan", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tlZ8zHlih30",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tlZ8zHlih30",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sağ turuncu-çerçeveli `7` meli git önce sol bir — reversing sıra bloklar `9`/`11` çubuk.",
+        "Bırak merkez `4` kule alone kadar üst sarı/mor/yeşil çubuk istifler fully temizlendi.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır üst pembe `7` ve camgöbeği `8` bloklar sıradan oklar, sonra temizle sarı/mor/yeşil çubuk istifler solda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır merkez kırmızı/mavi/camgöbeği `4` kule olmadan mühürleyerek sağ kırmızı ok şerit."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Ayı sol mavi `2` ve mor `4` sütun sonra üst çubuklar gitti."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Pop her ikisi de turuncu-çerçeveli mor `7` bloklar sırasında alt camgöbeği `13` ve mavi `15` sayaçlar hâlâ reachable."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca alt light-mavi `9` ve `11` sayaç karolar açık son şerite."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle mor `2` çift ve bitir camgöbeği `4` ve sarı `6` çıkış sayaçlar."
+        }
+      ],
+      "failurePoints": [
+        "Temizleyerek sol mor `7` önce sağ bir — `9`/`11` çubuk kalır kilitlendi.",
+        "Dokunarak merkez `4` kule sırasında üst sarı/mor/yeşil çubuklar hâlâ yerleştirde."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/126/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 126 Rehberi ve Çözümü",
+    "description": "Block Out seviye 126'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

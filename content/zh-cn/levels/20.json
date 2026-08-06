@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-20",
+  "locale": "zh-cn",
+  "levelNumber": 20,
+  "title": "Block Out 第 20 关通关攻略",
+  "summary": "Block Out 第 20 关是一个以巨大紫色 `5` 方块为核心的两房间 Boss 拼图。先准备好下方房间，保持绿色茎干畅通，削减 Boss 周围的框架计数器，最后才让上方腔室收尾。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "Block Out 第 20 关是一个以巨大紫色 `5` 方块为核心的两房间 Boss 拼图。先准备好下方房间，保持绿色茎干畅通，削减 Boss 周围的框架计数器，最后才让上方腔室收尾。",
+        "landmarks": [
+          "Block Out 第 20 关是一个以巨大紫色 `5` 方块为核心的两房间 Boss 拼图。",
+          "先准备好下方房间，保持绿色茎干畅通，削减 Boss 周围的框架计数器，最后才让上方腔室收尾。",
+          "棋盘混合了紫色、绿色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "保护好绿色茎干。",
+        "下方房间是为上方 Boss 做的支撑工作。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "在下方房间清空黄色底部出口周围的空间，让第一批计数器开始落下。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "旋转红蓝两色的下方房间方块，但不要卡住中央绿色茎干。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在顶部框架计数器下落时，让紫色 `5` 停在上方腔室中。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用下方房间持续喂给上方腔室两侧，直到 Boss 框架几乎打开。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "只有在下方房间有足够空位吸收后续走法后，才解放绿色茎干。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "一旦紫色 `5` 方块不再被框架锁住，就让上方腔室完成。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在 Boss 方块已经清空后，用下方房间的最后几种颜色收尾。"
+        }
+      ],
+      "failurePoints": [
+        "用下方房间的颜色方块堵住绿色连接块。",
+        "在框架计数器仍然很高时就试图移动紫色 `5`。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 20 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 20 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

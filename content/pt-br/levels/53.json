@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-53",
+  "locale": "pt-br",
+  "levelNumber": 53,
+  "title": "Guia do nível 53 do Block Out",
+  "summary": "Block Out Nível 53 empacota denso grade com numerado azul blocos em superior (contadores '6', '4', '7', '9'), rosa centro bloco acting como pivot, e vermelho/laranja/azul blocos preenchendo inferior fileiras. chokepoint é rosa centro bloco —...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/53/",
+        "layout": "Block Out Nível 53 empacota denso grade com numerado azul blocos em superior (contadores '6', '4', '7', '9'), rosa centro bloco acting como pivot, e vermelho/laranja/azul blocos preenchendo inferior fileiras. chokepoint é rosa centro bloco — ele divide tabuleiro em metade. Limpar inferior primeiro, mova rosa bloco cedo para abra meio, então funciona numerado blocos para fora através seus saídas.",
+        "landmarks": [
+          "Block Out Nível 53 empacota denso grade com numerado azul blocos em superior (contadores '6', '4', '7', '9'), rosa centro bloco acting como pivot, e vermelho/laranja/azul blocos preenchendo inferior fileiras.",
+          "Chokepoint é rosa centro bloco — ele divide tabuleiro em metade.",
+          "Limpar inferior primeiro, mova rosa bloco cedo para abra meio, então funciona numerado blocos para fora através seus saídas."
+        ],
+        "colors": ["blue", "pink", "orange", "yellow", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RSMurFG43_M",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RSMurFG43_M",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rosa centro bloco é pivot. Mova ele como soon como inferior é limpar — ele desbloqueia ambos superior e inferior seções.",
+        "Numerado azul blocos em superior precisa múltiplo saída passa. Limpar os em ordem de smallest contador para maior.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar vermelho horizontal bloco em inferior por deslizando ele em direção a direita saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque laranja blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova rosa centro bloco — este é chave pivot que abre access para ambos superior e inferior seções."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar amarelo blocos em centro através esquerda saída agora que rosa bloco é indo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Comece exiting numerado azul blocos em superior através seus correspondência saídas, inicial com '6' blocos em esquerda."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar restante roxo e azul blocos em direita através direita saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último numerado blocos e qualquer restante peças."
+        }
+      ],
+      "failurePoints": [
+        "Deixando rosa centro bloco em coloque também longo — ele divide tabuleiro e impede ambos metades de progressing.",
+        "Tentando para saída numerado azul blocos antes que inferior fileiras são limpar, que entrava caminho."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/53/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 53 do Block Out",
+    "description": "Resolva o nível 53 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

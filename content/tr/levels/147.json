@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-147",
+  "locale": "tr",
+  "levelNumber": 147,
+  "title": "Block Out Seviye 147 Rehberi",
+  "summary": "Block Out Seviye 147 longest çöz 101–150 range — dual-oda sütun shifter ile uzun sol `1` vault ve ayı sağ `13` cep. alt fırlatıcı parçalar besle üst ızgara dar şeritlerden. sarı-outlin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/147/",
+        "layout": "Block Out Seviye 147 longest çöz 101–150 range — dual-oda sütun shifter ile uzun sol `1` vault ve ayı sağ `13` cep. alt fırlatıcı parçalar besle üst ızgara dar şeritlerden. sarı-outlined mavi sütun sol meli kalda standing kadar mor `2` karo ve yatay kırmızı çubuk temizle merkez, veya vault's besle şerit çöker.",
+        "landmarks": [
+          "Block Out Seviye 147 longest çöz 101–150 range — dual-oda sütun shifter ile uzun sol `1` vault ve ayı sağ `13` cep.",
+          "Alt fırlatıcı parçalar besle üst ızgara dar şeritlerden.",
+          "Sarı-outlined mavi sütun sol meli kalda standing kadar mor `2` karo ve yatay kırmızı çubuk temizle merkez, veya vault's besle şerit çöker."
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "orange", "green", "cyan", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9uAtDrUE4V0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9uAtDrUE4V0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır 12 highlight önce hareket ettirerek alt mavi-taban fırlatıcı.",
+        "Tut 13 cep mühürlendi kadar sol 1 oda accepts onun ilk besle.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır alt sarı L-parça sol onun camgöbeği tabanda başla açarak sol 1 oda olmadan kaydırarak 13 cep."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Besle turuncu/mavi/sarı/kırmızı zemin küme yukarı doğru alt sol okdan sonra sol oda accepts parçalar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır turuncu-çerçeveli 12 highlight kare sağ odada sonra sol sütun thins."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle sarı-outlined mavi dikey sütun sol sonrada 12 karo gitti."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Eşleştir mor 2 karo (turuncu border) ile sarı 3 artık üstünde yeşil ok blok."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca alt sarı fırlatıcı parçalar — L pembe tabanda, sonra 2×2 mavi tabanda — merkez kırmızı çubukdan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Yönlendir son artıklar yeşil yukarıdan-ok çıkış için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Launching mavi-taban sarı 2×2 önce 12 highlight breaks, mühürleyerek yeşil yukarı-ok şerit.",
+        "Açarak 13 cep önce sol 1 oda thins, flooding merkez kırmızı çubuk."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/147/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 147 Rehberi ve Çözümü",
+    "description": "Block Out seviye 147'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

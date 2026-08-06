@@ -1,0 +1,91 @@
+{
+  "id": "de-level-126",
+  "locale": "de",
+  "levelNumber": 126,
+  "title": "Block Out Level 126 Lösung",
+  "summary": "Block Out Level 126 lines hoch horizontal Lego-textured bars mit schieben Pfeile, stapelnd sie around twin orange-bordered `7` Blöcke und unten `9`/`11` Zähler Reihe. `7` pair muss räumen in sequence — breaking one ohne erste openin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/126/",
+        "layout": "Block Out Level 126 lines hoch horizontal Lego-textured bars mit schieben Pfeile, stapelnd sie around twin orange-bordered `7` Blöcke und unten `9`/`11` Zähler Reihe. `7` pair muss räumen in sequence — breaking one ohne erste Eröffnungs- Mitte channel lässt sein twin orphaned mit kein Ausgangs-Bahn. Unten bar nur startet counting runter once beide `7` Blöcke sind gone.",
+        "landmarks": [
+          "Block Out Level 126 lines hoch horizontal Lego-textured bars mit schieben Pfeile, stapelnd sie around twin orange-bordered `7` Blöcke und unten `9`/`11` Zähler Reihe.",
+          "`7` pair muss räumen in sequence — breaking one ohne erste Eröffnungs- Mitte channel lässt sein twin orphaned mit kein Ausgangs-Bahn.",
+          "Unten bar nur startet counting runter once beide `7` Blöcke sind gone."
+        ],
+        "colors": ["red", "pink", "purple", "blue", "cyan", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tlZ8zHlih30",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tlZ8zHlih30",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rechts orange-bordered `7` muss go bevor links one — reversing Reihenfolge Blöcke `9`/`11` bar.",
+        "Lassen Mitte `4` tower alone bis oben gelb/lila/grün bar stapeln ist fully geräumt.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben oben pink `7` und türkis `8` Blöcke along Reihe Pfeile, dann räumen gelb/lila/grün bar stapeln auf links."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break Mitte rot/blau/türkis `4` tower ohne sealing rechts rot Pfeil Bahn."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Detach links blau `2` und lila `4` Spalte once oben bars sind gone."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Pop beide orange-bordered lila `7` Blöcke while unten türkis `13` und blau `15` Zähler sind still reachable."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Spend unten light-blau `9` und `11` Zähler Kacheln zu öffnen endgültig Bahn."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen lila `2` pair und beenden durch türkis `4` und gelb `6` Ausgang Zähler."
+        }
+      ],
+      "failurePoints": [
+        "Räumend links lila `7` bevor rechts one — `9`/`11` bar stays verklemmt.",
+        "Touching Mitte `4` tower while oben gelb/lila/grün bars sind still in Platz."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/126/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 126 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 126 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

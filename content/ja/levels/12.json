@@ -1,0 +1,90 @@
+{
+  "id": "ja-level-12",
+  "locale": "ja",
+  "levelNumber": 12,
+  "title": "ブロックアウト レベル12 攻略",
+  "summary": "ブロックアウト レベル12は、細い腰でつながる2つの部屋を持つ砂時計パズルです。長い棒を中央の入り口を通して交互に通し、両側のバランスを保ち、シアンの「2」のれんがには一時的な空きマスを使います。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "ブロックアウト レベル12は、細い腰でつながる2つの部屋を持つ砂時計パズルです。長い棒を中央の入り口を通して交互に通し、両側のバランスを保ち、シアンの「2」のれんがには一時的な空きマスを使います。",
+        "landmarks": [
+          "ブロックアウト レベル 12 部屋 腰.。",
+          "を通して長い棒 中央 入り口、を維持して、使う シアン `2` .。",
+          "混ぜる 青、赤、シアン、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "手順 腰.。",
+        "手順 シアン `2`、棒 .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を落として中央 入り口、部屋 止める .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "上 赤、青 腰、側 カウンター .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "手順 シアン `2`、棒、使う 空きマス、.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を維持して上- -下、下- -上 中央、黄 分離する .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて開き 側 レーン 取り除く 赤の列 部屋.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて黄、青、入り口 .。"
+        }
+      ],
+      "failurePoints": ["消去する 部屋、.。", "ブロック 入り口 列 必要とし 横切る.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル12 攻略と解説",
+    "description": "ブロックアウト レベル12 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

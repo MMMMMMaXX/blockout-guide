@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-89",
+  "locale": "ja",
+  "levelNumber": 89,
+  "title": "ブロックアウト レベル89 攻略",
+  "summary": "ブロックアウト レベル89は、積み重ねた2つの部屋の上に混在する上部棚で始まります。まずその棚を剥がし、次に「6」の部屋を空にし、そして「11」の部屋が赤のＴ字型の…に崩れる前に、鍵付きの左通路とオレンジの縦列を消去します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "ブロックアウト レベル89は、積み重ねた2つの部屋の上に混在する上部棚で始まります。まずその棚を剥がし、次に「6」の部屋を空にし、そして「11」の部屋が赤のＴ字型の終盤に崩れる前に、鍵付きの左通路とオレンジの縦列を消去します。",
+        "landmarks": [
+          "ブロックアウト レベル 89 混ぜた 上 棚 部屋.。",
+          "を取り除きて棚、を排出して`6` 部屋、を消去して左 レーン オレンジ、`11` 部屋 赤 Ｔ字型 .。",
+          "混ぜる 紫、緑、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上 棚 青 緑、`11` 部屋 .。",
+        "黄 レーン 左 `11` .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "混ぜたを取り除きて上 棚、青 行、緑 ブロック 上の-右.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を始めて縮め 上の `6` 部屋、上 棚 ブロッカー 下へ.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を残して下の `11` 部屋、`6` 部屋 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "上の 部屋、を消去して黄 レーン 左、オレンジ 周りを 中央.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を出して`11` 部屋 崩す 赤 -、青 分離する.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて赤 -ピース、オレンジ 列、黄 -ブロック 左下の角.。"
+        }
+      ],
+      "failurePoints": [
+        "`11` 部屋 上 棚 青 緑 交通.。",
+        "を無視して左 レーン、-無理に動かす 下の、`6` 部屋 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル89 攻略と解説",
+    "description": "ブロックアウト レベル89 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

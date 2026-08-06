@@ -1,0 +1,96 @@
+{
+  "id": "es-level-149",
+  "locale": "es",
+  "levelNumber": 149,
+  "title": "Guía de Block Out Nivel 149",
+  "summary": "Block Out nivel 149 es a Super Hard four-quadrant puzzle con a inferior micro-bloque tray y lado rails en `27`/`30`. Cada quadrant has su own contador ese shrinks independently mientras tray piezas lock en. The izquierdo `20` quadrant feeds primero,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/149/",
+        "layout": "Block Out nivel 149 es a Super Hard four-quadrant puzzle con a inferior micro-bloque tray y lado rails en `27`/`30`. Cada quadrant has su own contador ese shrinks independently mientras tray piezas lock en. The izquierdo `20` quadrant feeds primero, pero a cian `1` anchor y azul vertical `6` bloque guard el centro — break the anchor too early y the `6` drifts en the derecho pocket, jamming two quadrants en once.",
+        "landmarks": [
+          "Block Out nivel 149 es a Super Hard four-quadrant puzzle con a inferior micro-bloque tray y lado rails en `27`/`30`.",
+          "Cada quadrant has su own contador ese shrinks independently mientras tray piezas lock en.",
+          "The izquierdo `20` quadrant feeds primero, pero a cian `1` anchor y azul vertical `6` bloque guard el centro — break the anchor too early y the `6` drifts en the derecho pocket, jamming two quadrants en once."
+        ],
+        "colors": ["morado", "green", "blue", "yellow", "red", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tASeXYR8PkQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tASeXYR8PkQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the amarillo polyomino antes moving the morado derecho-franja.",
+        "Mantén the cian 1 anchor intact hasta the izquierdo rail drops desde 27 a 25.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Tira the inferior verde vertical pieza desde the tray en the izquierdo 20 quadrant using the verde izquierdo-flecha."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Break the cian 1 baldosa en el centro cluster without splitting the rojo floor barra."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Introduce azul/amarillo restos en the derecho 23 quadrant once the izquierdo rail drops desde 27 a 25."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Gasta the inferior tray fila — verde, azul, amarillo, morado — a drop el marco a 18/21/2/10."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Break the amarillo polyomino en el centro después the 2 y 10 inferior contadores despejado."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the azul vertical 6 bloque a abierto the derecho 10 pocket."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Route the último morado franja por the rojo derecho-flecha carril para el centro glowing despejado."
+        }
+      ],
+      "failurePoints": [
+        "Desliza the morado derecho-franja antes the amarillo polyomino breaks, sealing the rojo derecho-flecha carril.",
+        "Splitting the rojo floor barra mientras the cian 1 baldosa es todavía locked, wasting the primero tray feed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/149/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 149",
+    "description": "Resuelve Block Out nivel 149 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

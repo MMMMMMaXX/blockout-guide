@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-13",
+  "locale": "zh-cn",
+  "levelNumber": 13,
+  "title": "Block Out 第 13 关通关攻略",
+  "summary": "Block Out 第 13 关是一张压力棋盘，右侧墙拥挤且顶部带计数器。先软化右侧通道，把上方蓝色条带当作支撑停在原位，等红色通道打开后再压垮青色板。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "Block Out 第 13 关是一张压力棋盘，右侧墙拥挤且顶部带计数器。先软化右侧通道，把上方蓝色条带当作支撑停在原位，等红色通道打开后再压垮青色板。",
+        "landmarks": [
+          "Block Out 第 13 关是一张压力棋盘，右侧墙拥挤且顶部带计数器。",
+          "先软化右侧通道，把上方蓝色条带当作支撑停在原位，等红色通道打开后再压垮青色板。",
+          "棋盘上混合了青色、黄色、蓝色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["cyan", "yellow", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右侧的红色通道比顶部蓝色条带更优先。",
+        "青色板应在计数器之后移动，而不是之前。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右侧边缘的方块喂入红色墙，让标着 `1` 的小侧计数器先消失。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "持续缩小顶部 `3` 和 `4` 的计数器，同时把青色 `10` 板停在中间。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "等右侧通道不再堵塞后，再用黄色带横跨中心搭桥。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "依次落下青色 `8` 和 `6` 板，使中间行不再挤卡蓝色条带。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "等顶部计数器几乎耗尽后，再释放上方的蓝色条带。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "先清空最后的黄色带，再消除最后一块青色 `5` 板收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧红色通道打开前就移动顶部蓝色条带。",
+        "在顶部计数器仍很高时就试图把青色 `10` 板向下压。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 13 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 13 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-74",
+  "locale": "ja",
+  "levelNumber": 74,
+  "title": "ブロックアウト レベル74 攻略",
+  "summary": "ブロックアウト レベル74は、窮屈な中央の柱を囲む4つの紫の部屋で始まります。まず右下の小さな「3」ポケットを空にし、下部の通路からシアンの段を滑らせ、その後「7」と「15」の部屋が縮むのを待ってから最後に…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "ブロックアウト レベル74は、窮屈な中央の柱を囲む4つの紫の部屋で始まります。まず右下の小さな「3」ポケットを空にし、下部の通路からシアンの段を滑らせ、その後「7」と「15」の部屋が縮むのを待ってから、最後に左側の巨大な「20」部屋に取り掛かります。",
+        "landmarks": [
+          "ブロックアウト レベル 74 紫 部屋 周りを 狭い 中央 背骨.。",
+          "を排出して`3` 空きマス 下-右、シアン手順をスライドさせて下の レーン、出す `7`、`15` 縮める、`20` 部屋 左.。",
+          "混ぜる 紫、青、緑、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "シアン 手順 ピース 下の 中央の、を残して`20` 部屋.。",
+        "`3` 空きマス . 鍵 下の 通す `7` .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を排出して下の-右 紫 部屋 `3` レベル .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を使いてスライドさせる シアン 手順 下の 中央の、緑のを解放して取り除く .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を始めて下の-左 `7` 部屋、シアン ピース レーン.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を出して上の-右 `15` 部屋 右-壁 出口 左 側 開始.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を残して上の-左 `20` 部屋、`7`、中央の赤 はしご .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて`20` 部屋、紫、シアン、赤 開く 中央.。"
+        }
+      ],
+      "failurePoints": [
+        "`20` 部屋、下の-右 `3` 空きマス、シアン 手順 動かし.。",
+        "進める `7` シアン ブロッカー 渡り 下の 中央の.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル74 攻略と解説",
+    "description": "ブロックアウト レベル74 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

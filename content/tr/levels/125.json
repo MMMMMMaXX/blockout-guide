@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-125",
+  "locale": "tr",
+  "levelNumber": 125,
+  "title": "Block Out Seviye 125 Rehberi",
+  "summary": "Block Out Seviye 125 bir Hızlı U-çerçeve tahta nere alt fırlatıcı sıra besler bloklar yukarı doğru Uya-şekilli boşlukdır. Yan arms meli ince mavi `6` ve `4` karolar önce launchers ebilir fırlat — otherwise boşluk overflows. kır tho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/125/",
+        "layout": "Block Out Seviye 125 bir Hızlı U-çerçeve tahta nere alt fırlatıcı sıra besler bloklar yukarı doğru Uya-şekilli boşlukdır. Yan arms meli ince mavi `6` ve `4` karolar önce launchers ebilir fırlat — otherwise boşluk overflows. kır onlar sayaçlar, sonra harca fırlatıcı sıra için mükemmel temizle. beyaz `9` sayaç merkez yeşil blokda son launch trigger.",
+        "landmarks": [
+          "Block Out Seviye 125 bir Hızlı U-çerçeve tahta nere alt fırlatıcı sıra besler bloklar yukarı doğru Uya-şekilli boşlukdır.",
+          "Yan arms meli ince mavi `6` ve `4` karolar önce launchers ebilir fırlat — otherwise boşluk overflows.",
+          "Kır onlar sayaçlar, sonra harca fırlatıcı sıra için mükemmel temizle.",
+          "Beyaz `9` sayaç merkez yeşil blokda son launch trigger."
+        ],
+        "colors": ["yellow", "green", "red", "orange", "cyan", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "01Yjk5R2M04",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=01Yjk5R2M04",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır mavi `6` sayaç önce mavi `4` sayaç tuta sarı taban çift açık.",
+        "Değil dokun merkez kırmızı `17` fırlatıcı kadar her ikisi de yan sayaç karolar gitti.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır sol-arm sarı/yeşil/kırmızı istifler aşağı doğru ile far-sol yeşil yukarı-ok olmadan dokunarak mavi `6` karo."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Mirror sağ-arm turuncu/kırmızı/mavi istifler ile far-sağ yeşil yukarı-ok, tutarak mavi `4` sayaç park edildi."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kır mavi `6` sayaç karo sol armda sonra her ikisi de yan istifler üç bloklar uzun."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kır mavi `4` sayaç karo sağ armda önce iki sarı taban tuğlalar hareket ettir."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca alt fırlatıcı sıra — sol kırmızı `25`, merkez kırmızı `17`, sağ yeşil `25` — besle kalan bloklar Uya boşluk."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle alt `9` sayaç karo ve son kırmızı/mavi artıklar merkez yeşil okdan için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Breaking mavi `4` sayaç önce mavi `6` — bu sıkışır sarı taban çift permanently.",
+        "Kaydırarak merkez kırmızı `17` fırlatıcı önce her ikisi de yan sayaç karolar temizle, boxing her ikisi de arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/125/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 125 Rehberi ve Çözümü",
+    "description": "Block Out seviye 125'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-30",
+  "locale": "fr",
+  "levelNumber": 30,
+  "title": "Guide Block Out Niveau 30",
+  "summary": "Block Out Niveau 30 est en forme de L salle built autour haut encadré boss colonne avec `11` compteur. rouge, blanc, et blocs noir packed autour tour base doit être cleared premier à bring compteur bas, et tour seulement collaps...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "Block Out Niveau 30 est en forme de L salle built autour haut encadré boss colonne avec `11` compteur. rouge, blanc, et blocs noir packed autour tour base doit être cleared premier à bring compteur bas, et tour seulement collapses une fois il tombent à autour `2`. Après colonne tombe, second wave de vert, rouge, et blocs blanc spills hors de à l'intérieur arbre et needs son own separation phase.",
+        "landmarks": [
+          "Block Out Niveau 30 est en forme de L salle built autour haut encadré boss colonne avec `11` compteur.",
+          "Rouge, blanc, et blocs noir packed autour tour base doit être cleared premier à bring compteur bas, et tour seulement collapses une fois il tombent à autour `2`.",
+          "Après colonne tombe, second wave de vert, rouge, et blocs blanc spills hors de à l'intérieur arbre et needs son own separation phase."
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Track boss compteur numéro, pas tour height — si compteur toujours reads `5` ou higher, base needs more work.",
+        "Alimentez la sortie vert à le bas centre avant essayant à utilisez le mur gauche sorties pour inner mass.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez la gauche-côté blocs rouge vers le mur gauche sorties à create premier gap à côté de tour base."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Déplacez les blocs blanc hors de le milieu base à ouvrez voie entre tour et la droite-côté rouge mass."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez la droite-côté rouge et blocs noir à travers gaps created par premier deux coups, watching boss compteur laissez tomber avec chaque pièce."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois compteur tombe à `2`, laissez encadré colonne effondrez — inner vert et blocs blanc va se déversent dans base zone."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Séparé révélé blocs vert et alimentez les à travers le bas-centre sortie vert premier."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Utilisez le mur gauche sorties pour restant blanc et rouge inner pièces."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier rouge tour segment après arbre est videz et base est flat."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à forcez boss colonne bas pendant base zone est toujours packed avec rouge et blocs blanc — compteur barely coups parce que là est non voie pour base pièces à escape dans.",
+        "Ignoring vert bas-centre sortie dans favor de le mur gauche sorties quand inner mass spills hors, qui causes traffic jam dans horizontal section."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 30",
+    "description": "Résolvez le niveau 30 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

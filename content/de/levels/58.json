@@ -1,0 +1,93 @@
+{
+  "id": "de-level-58",
+  "locale": "de",
+  "levelNumber": 58,
+  "title": "Block Out Level 58 Lösung",
+  "summary": "Block Out Level 58 ist funnel Spielfeld mit three wide türkis bays, smaller throat marked `4`, und cluttered obere deck balancing lila `6` chamber gegen framed blau Block auf rechts. Öffnen rechts shoulder erste, trim links...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "Block Out Level 58 ist funnel Spielfeld mit three wide türkis bays, smaller throat marked `4`, und cluttered obere deck balancing lila `6` chamber gegen framed blau Block auf rechts. Öffnen rechts shoulder erste, trim links `6` chamber second, und nur dann let rot und grün Mitte strips fallen lassen in türkis funnel.",
+        "landmarks": [
+          "Block Out Level 58 ist funnel Spielfeld mit three wide türkis bays, smaller throat marked `4`, und cluttered obere deck balancing lila `6` chamber gegen framed blau Block auf rechts.",
+          "Öffnen rechts shoulder erste, trim links `6` chamber second, und nur dann let rot und grün Mitte strips fallen lassen in türkis funnel.",
+          "Das Spielfeld mixes Lila, Blau, Orange und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Wenn framed blau Block ist still hanging über rechts shoulder, funnel ist nicht ready.",
+        "Öffnen beide shoulders bevor du let rot Mitte entfernen fallen lassen in türkis bays.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen framed blau Block in obere rechte Ecke also rechts shoulder startet Eröffnungs-."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Shorten skinny türkis `2` Zähler auf dass gleich Seite bevor du touch mittlere too schwer."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Starten reducing lila `6` chamber auf links once rechts shoulder ist lighter."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Let rot Mitte entfernen und nearby grün Bauteile fall in three wide türkis bays nur nach beide shoulders sind öffnen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Collapse untere `4` throat once oben deck hat stopped feeding extra Blockierer in es."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte rot vertikal Bauteil und surviving shoulder Blöcke nach funnel ist mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu fill türkis bays while framed blau Block still hangs über rechts shoulder.",
+        "Dropping rot Mitte entfernen bevor links `6` chamber und rechts `2` Zähler haben beide shortened."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 58 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 58 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

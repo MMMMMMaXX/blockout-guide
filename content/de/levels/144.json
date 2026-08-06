@@ -1,0 +1,96 @@
+{
+  "id": "de-level-144",
+  "locale": "de",
+  "levelNumber": 144,
+  "title": "Block Out Level 144 Lösung",
+  "summary": "Block Out Level 144 ist schwer Zähler Spielfeld built around lila numbered towers und seven-bead unten Reihe mit wrench tool. Border Zähler tick von `15`/`12`/`20` nach unten als towers drain. Two large lila Blöcke — `6` und...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/144/",
+        "layout": "Block Out Level 144 ist schwer Zähler Spielfeld built around lila numbered towers und seven-bead unten Reihe mit wrench tool. Border Zähler tick von `15`/`12`/`20` nach unten als towers drain. Two large lila Blöcke — `6` und `9` — shrink in parallel, und räumend links stapeln bevor unten bar hits `17` lässt wrench tool orphaned mit kein tower zu unlock.",
+        "landmarks": [
+          "Block Out Level 144 ist schwer Zähler Spielfeld built around lila numbered towers und seven-bead unten Reihe mit wrench tool.",
+          "Border Zähler tick von `15`/`12`/`20` nach unten als towers drain.",
+          "Two large lila Blöcke — `6` und `9` — shrink in parallel, und räumend links stapeln bevor unten bar hits `17` lässt wrench tool orphaned mit kein tower zu unlock."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hmv_9A-ga-k",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hmv_9A-ga-k",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Verwenden lila wrench auf rechts rot bead bevor breaking rechts 9 tower.",
+        "Räumen grün/rot/gelb/grün base Reihe auf links bevor touching border 15 Zähler.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Break oben 9 lila Block und abziehen links numbered stapeln (6/2/3/1) ohne touching wrench bead."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen grün/rot/gelb/grün base Reihe auf untere linke flank."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden lila wrench auf rechts rot bead zu unlock unten bead Reihe."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen rechts-Seite blau 4 stapeln und adjacent orange/grün/rot Spalte."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Break remaining large lila 6 und 9 towers once border Zähler fallen lassen."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend links 12/1 rail und unten 17 bar auf remaining scraps."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen letzte isolated orange und blau Blöcke bei base für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Räumend rechts 9 tower bevor wrench bead unlocks, sealing grün/rot untere cluster.",
+        "Detonating bead Reihe bevor links 6/2/3/1 stapeln ist fully abgezogen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/144/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 144 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 144 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

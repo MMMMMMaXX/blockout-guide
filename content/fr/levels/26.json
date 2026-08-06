@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-26",
+  "locale": "fr",
+  "levelNumber": 26,
+  "title": "Guide Block Out Niveau 26",
+  "summary": "Block Out Niveau 26 est bridge-et-boss plateau. Drainez supérieur chambre dans `18` gorge premier, abaissez bridge second, et seulement alors laissez énorme abaissez `21` boss commencez collapsing.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "Block Out Niveau 26 est bridge-et-boss plateau. Drainez supérieur chambre dans `18` gorge premier, abaissez bridge second, et seulement alors laissez énorme abaissez `21` boss commencez collapsing.",
+        "landmarks": [
+          "Block Out Niveau 26 est bridge-et-boss plateau.",
+          "Drainez supérieur chambre dans `18` gorge premier, abaissez bridge second, et seulement alors laissez énorme abaissez `21` boss commencez collapsing.",
+          "Le plateau mélange rose, vert et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`18` gorge opens niveau.",
+        "Abaissez `21` panneau est second-phase cible.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez supérieur chambre dans central `18` gorge et commencez lowering son count."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Gardez shaving côté compteurs dans le haut salle pendant abaissez `21` panneau stays untouched."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Utilisez blanc-et-noir blockers dans le haut salle à gardez bridge de refilling."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois `18` voie est much abaissez, ouvrez passage dans abaissez chambre."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Commencez shrinking `21` boss seulement après bridge est non longer encombré."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Tournez tardif violet et pièces rouge une fois le bas salle a actual espace."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier supérieur leftovers après abaissez boss a déjà fallen."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à work abaissez boss avant bridge a opened.",
+        "Letting supérieur chambre refill `18` gorge après il a déjà started dropping."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 26",
+    "description": "Résolvez le niveau 26 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

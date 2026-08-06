@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-133",
+  "locale": "pt-br",
+  "levelNumber": 133,
+  "title": "Guia do nível 133 do Block Out",
+  "summary": "O nível 133 do Block Out organiza blocos-chave numerados nos braços de um tabuleiro em forma de T, com uma coluna central `13` e uma grade de explosão inferior. Setas direcionais no bloco azul para baixo e na faixa vermelha para a direita marcam as únicas saídas permitidas. O superior esquer...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/133/",
+        "layout": "O nível 133 do Block Out organiza blocos-chave numerados nos braços de um tabuleiro em forma de T, com uma coluna central `13` e uma grade de explosão inferior. Setas direcionais no bloco azul para baixo e na faixa vermelha para a direita marcam as únicas saídas permitidas. O nicho magenta `7` superior esquerdo deve ser limpo antes que a pilha alta azul `1` possa se deslocar — caso contrário, bloqueia o único caminho de drenagem da coluna central.",
+        "landmarks": [
+          "O nível 133 do Block Out organiza blocos-chave numerados nos braços de um tabuleiro em forma de T, com uma coluna central `13` e uma grade de explosão inferior.",
+          "Direcional setas em azul para baixo bloco e verde direita-remova marque único legal saídas.",
+          "Superior-esquerda magenta `7` alcove deve limpar antes que alto azul `1` empilhe pode desloque — otherwise ele blocos centro coluna's único drainage caminho."
+        ],
+        "colors": ["cyan", "magenta", "green", "blue", "red", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lUJCT64KCKk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=lUJCT64KCKk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantenha verde esquerda barra intacto enquanto limpando inferior blast grade.",
+        "Salve 1/10 par até 9 peça desbloqueia em inferior flare.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Pop superior ciano 24 e 21 peças mais esquerda/direita braço 17 e 19 blocos antes que centro 13 coluna solta."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar inferior colorido grade de verde esquerda barra outward, mantendo 1/10 par vedado para final saída."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre centro 13 coluna uma vez ambos braço alcoves vazio, alimentando 18 lateral peça em cintura."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deslize azul para baixo-seta bloco através estreito corredor depois contadores encolha para 12."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Detonate verde direita-seta aglomerado em inferior flare uma vez 9 peça desbloqueia."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste inferior 0/1 contadores e saída último magenta e azul recortes para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Soltando centro 13 coluna antes que braço alcoves vazio, vedando cintura.",
+        "Movendo verde direita-seta aglomerado antes que 9 peça desbloqueia, prendendo 0/1 saída."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/133/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 133 do Block Out",
+    "description": "Resolva o nível 133 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

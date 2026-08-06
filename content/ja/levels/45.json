@@ -1,0 +1,94 @@
+{
+  "id": "ja-level-45",
+  "locale": "ja",
+  "levelNumber": 45,
+  "title": "ブロックアウト レベル45 攻略",
+  "summary": "ブロックアウト レベル45は、外側から内へとするパズルで、大きな赤・青・緑・黄のブロックの厚い縁が下半分の小さな枠付き目標ブロックを囲っています。縁はまず上と側面から剥がされる必要があり——大きなブロックは",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "ブロックアウト レベル45は、外側から内へとするパズルで、大きな赤・青・緑・黄のブロックの厚い縁が下半分の小さな枠付き目標ブロックを囲っています。縁はまず上と側面から剥がされる必要があり——大きなブロックは目標より先に出ます。中央が開くと、枠付きの目標はようやく出口へと進めます。これは通常のボスパターンを反転させます——大きなピースが開き手、小さなものが仕上げです。",
+        "landmarks": [
+          "ブロックアウト レベル 45 - 赤、青、緑、黄 箱 目標 下の .。",
+          "剥がし 上、— 残す、目標.。",
+          "中央、目標 出口.。",
+          "ボス :、.。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "— 剥がす .。",
+        "目標 手順、中央 レーン.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を取り出して上の 作る 隙間 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "をずらして青 ブロック 上の-左 の方へ 左 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "手順 赤 ブロック 上の-右 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて解放し 上 ずらす 緑 中央 ブロック、開始 レーン 下の 目標.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を回転させて目標 中央、出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して目標、中央 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて、目標 左.。"
+        }
+      ],
+      "failurePoints": ["手順 目標、開き — 目標 必要とし レーン 中央、.。", "を残して側、目標' .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル45 攻略と解説",
+    "description": "ブロックアウト レベル45 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

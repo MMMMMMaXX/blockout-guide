@@ -1,0 +1,91 @@
+{
+  "id": "es-level-121",
+  "locale": "es",
+  "levelNumber": 121,
+  "title": "Guía de Block Out Nivel 121",
+  "summary": "Block Out nivel 121 splits el tablero en a azul-y-amarillo superior conveyor y a inferior checkerboard grid, connected por un carril feed. The superior tray debe drain completely antes the verde `31` crown bloque en the inferior grid unlocks. The rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "Block Out nivel 121 splits el tablero en a azul-y-amarillo superior conveyor y a inferior checkerboard grid, connected por un carril feed. The superior tray debe drain completely antes the verde `31` crown bloque en the inferior grid unlocks. The derecho-lado `5` flecha baldosa es the último gatekeeper — despejado lo too late y the crown stays boxed en even después the conveyor es empty.",
+        "landmarks": [
+          "Block Out nivel 121 splits el tablero en a azul-y-amarillo superior conveyor y a inferior checkerboard grid, connected por un carril feed.",
+          "The superior tray debe drain completely antes the verde `31` crown bloque en the inferior grid unlocks.",
+          "The derecho-lado `5` flecha baldosa es the último gatekeeper — despejado lo too late y the crown stays boxed en even después the conveyor es empty."
+        ],
+        "colors": ["blue", "yellow", "red", "orange", "green", "cyan", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drena the superior tray completely antes chasing the verde `31` crown.",
+        "Mantén the inferior cian `19` columna parked hasta the superior tray goes dark.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Introduce the superior azul/amarillo checkerboard por the derecho-lado amarillo flechas en the inferior tray."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Elimina the superior rojo `23` fila y the izquierdo-borde cian `7` badge hasta the superior tray goes dark."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Peel the inferior rojo/naranja/verde superior cap without touching el centro blanco `15` slot."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Break the verde `31` crown bloque once the izquierdo cian `19` columna opens un carril."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Gasta the azul `10` baldosa y the derecho-lado `5` flecha contador antes the amarillo stacks fino."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the inferior cian `26` contador y the restante azul/amarillo restos para the PERFECT despejado."
+        }
+      ],
+      "failurePoints": [
+        "Chasing the verde `31` crown antes the superior tray es totalmente dark — este boxes el centro `15` slot.",
+        "Elimina amarillo stacks antes the azul `10` baldosa movimientos, sealing the inferior cian `26` contador."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 121",
+    "description": "Resuelve Block Out nivel 121 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-36",
+  "locale": "tr",
+  "levelNumber": 36,
+  "title": "Block Out Seviye 36 Rehberi",
+  "summary": "Block Out Seviye 36 bir Sıkışık mosaic interlocking kırmızı, yeşil, mavi, ve sarı tetromino-şekilli bloklar ile hayır ana blok çerçeveler veya cihaz sayaçlardır. Tahta böylece tightly sıkıştırılmış ki ilk boşluk meli come üstden, ve çöz wor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "Block Out Seviye 36 bir Sıkışık mosaic interlocking kırmızı, yeşil, mavi, ve sarı tetromino-şekilli bloklar ile hayır ana blok çerçeveler veya cihaz sayaçlardır. Tahta böylece tightly sıkıştırılmış ki ilk boşluk meli come üstden, ve çöz works aşağı doğru: temizle yeşil bloklar üstde ilk, kaydır merkez sarı kütle, sonra boşalt kırmızı ve mavi bloklar alt çıkışlardan. bir yanlış kaydır merkez ebilir sıkışda multiple parçalar.",
+        "landmarks": [
+          "Block Out Seviye 36 bir Sıkışık mosaic interlocking kırmızı, yeşil, mavi, ve sarı tetromino-şekilli bloklar ile hayır ana blok çerçeveler veya cihaz sayaçlardır.",
+          "Tahta böylece tightly sıkıştırılmış ki ilk boşluk meli come üstden, ve çöz works aşağı doğru: temizle yeşil bloklar üstde ilk, kaydır merkez sarı kütle, sonra boşalt kırmızı ve mavi bloklar alt çıkışlardan.",
+          "Bir yanlış kaydır merkez ebilir sıkışda multiple parçalar."
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Izle boş alan. eğer boşluk created üst değil traveledda aşağı merkeze henüz, alt bloklar hâlâ kilitlendi.",
+        "Büyük sarı L-şekilli blok merkezde-sol anahtar kilidini aç — sonra o hamleler, çoğu bloklar ebilir follow.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır ilk küçük blok dışarı üst çıkışdan oluştur initial boşluk sıkıştırılmışda tahta."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır yeşil bloklar üst-sağ üst çıkışa genişlete açarak."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan yeni alan hareket ettir büyük sarı L-şekilli blok merkezde-sol — bu anahtar kilidini aç."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra sarı kütle kaydırıldı, kırmızı bloklar altında o ebilir başla kaydırarak alt çıkışlara."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Çalış mavi bloklar dışarı sağ yandan veya alt sonra merkez daha az congested."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Tut alt çıkış şeritler temizle için son kırmızı ve yeşil parçalar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son kalan blok sonra mosaic unraveled üstden alta."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek zorla mavi blok dışarı alt önceden merkez sarı ve kırmızı bloklar kaydırıldı enough — bu creates deadlock 01:12.",
+        "Çalışarak alt çıkışlar önce üst boşluk propagated aşağı merkezden, hangi bırakır entire tahta kilitlendi."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 36 Rehberi ve Çözümü",
+    "description": "Block Out seviye 36'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

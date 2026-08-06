@@ -1,0 +1,91 @@
+{
+  "id": "de-level-117",
+  "locale": "de",
+  "levelNumber": 117,
+  "title": "Block Out Level 117 Lösung",
+  "summary": "Block Out Level 117 verwendet house-shaped lila frame mit dotted untere Raster, Seite `13` rails, und external `4` hinausführen panels auf links und unten. House frame hat sein own packing Reihenfolge: arch muss stay öffnen bis external pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "Block Out Level 117 verwendet house-shaped lila frame mit dotted untere Raster, Seite `13` rails, und external `4` hinausführen panels auf links und unten. House frame hat sein own packing Reihenfolge: arch muss stay öffnen bis external panels haben delivered ihr Blöcke. Pack arch too früh und letzte gelb hinausführen bar hat nowhere zu go, boxing in Seite rails permanently.",
+        "landmarks": [
+          "Block Out Level 117 verwendet house-shaped lila frame mit dotted untere Raster, Seite `13` rails, und external `4` hinausführen panels auf links und unten.",
+          "House frame hat sein own packing Reihenfolge: arch muss stay öffnen bis external panels haben delivered ihr Blöcke.",
+          "Pack arch too früh und letzte gelb hinausführen bar hat nowhere zu go, boxing in Seite rails permanently."
+        ],
+        "colors": ["green", "blue", "red", "orange", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Parken numbered circle in dotted Raster nur nach rechts Pfeil sliders haben räumen Bahn.",
+        "Links `13` rail muss thin bevor links türkis `4` panel kann hinausführen arch.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen obere grün `2` Kachel und blau `4` Block von oben cluster."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen links `13` Seite rail ohne blocking dotted untere zone."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen Bauteile durch links türkis `4` panel zu öffnen house frame."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Ansteuern rechts rot-Pfeil und blau-Pfeil sliders once obere orange/grün Reihe thins."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Platz untere gelb circle (`9`, dann `6`) in dotted Raster ohne overfilling arch."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend unten gelb bar und rechts türkis `4` Zähler zu close remaining Seite rails bei `10`."
+        }
+      ],
+      "failurePoints": [
+        "Overfilling arch bevor rechts Pfeil sliders räumen — dieses boxes in rot-Pfeil Bahn.",
+        "Placing untere numbered circle too früh while links `13` rail ist still voll."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 117 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 117 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

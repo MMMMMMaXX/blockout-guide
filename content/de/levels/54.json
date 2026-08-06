@@ -1,0 +1,97 @@
+{
+  "id": "de-level-54",
+  "locale": "de",
+  "levelNumber": 54,
+  "title": "Block Out Level 54 Lösung",
+  "summary": "Block Out Level 54 ist 'schwer Level' mit four lila Boss chambers — Zähler '3' und '11' auf oben, '6' und '19' auf unten. Chambers sind packed tightly mit narrow gaps zwischen sie. Räumen small colored Blöcke zwischen chamber...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out Level 54 ist 'schwer Level' mit four lila Boss chambers — Zähler '3' und '11' auf oben, '6' und '19' auf unten. Chambers sind packed tightly mit narrow gaps zwischen sie. Räumen small colored Blöcke zwischen chambers erste, dann drain unten chambers bevor tackling oben ones. '19' chamber ist heaviest — aufsparen es für nach surrounding chambers haben geöffnet hoch Platz.",
+        "landmarks": [
+          "Block Out Level 54 ist 'schwer Level' mit four lila Boss chambers — Zähler '3' und '11' auf oben, '6' und '19' auf unten.",
+          "Chambers sind packed tightly mit narrow gaps zwischen sie.",
+          "Räumen small colored Blöcke zwischen chambers erste, dann drain unten chambers bevor tackling oben ones.",
+          "'19' chamber ist heaviest — aufsparen es für nach surrounding chambers haben geöffnet hoch Platz."
+        ],
+        "colors": ["purple", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen small colored Blöcke zwischen chambers erste — sie sind key zu Eröffnungs- sliding paths.",
+        "'19' chamber ist marathon. Räumen smaller chambers erste zu build Platz, dann chip weg bei es.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen gelb Blöcke auf linke Seite zu öffnen gap zwischen obere linke und untere linke chambers."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben rot/orange Blöcke in Mitte zu öffnen gap zwischen links und rechts chambers."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin draining untere linke chamber (Zähler '6') durch sliding sein Blöcke hinaus durch links Ausgang."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Arbeiten untere rechte chamber (Zähler '19') — räumen es gradually while untere linke ist also draining."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Bewegen zu obere linke chamber (Zähler '3') — es ist lightest und sollte räumen quickly."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit obere rechte chamber (Zähler '11'), welche hat meisten Raum nach others sind drained."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen irgendein remaining colored Blöcke eingesperrt zwischen emptied chambers."
+        }
+      ],
+      "failurePoints": [
+        "Draining one chamber completely bevor touching others — dieses entfernt sliding walls und jams remaining chambers.",
+        "Tackling '19' chamber erste when surrounding Platz ist still packed — es needs Raum zu maneuver."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 54 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 54 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

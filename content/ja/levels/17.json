@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-17",
+  "locale": "ja",
+  "levelNumber": 17,
+  "title": "ブロックアウト レベル17 攻略",
+  "summary": "ブロックアウト レベル17は、枠付きヒンジの数字盤面です。まず黄の屋根を切り取り、次に緑の中央枠を解放し、それからでのみ「19」「18」「16」と印が付いた広いシアンのスラブを平らにならします。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "ブロックアウト レベル17は、枠付きヒンジの数字盤面です。まず黄の屋根を切り取り、次に緑の中央枠を解放し、それからでのみ「19」「18」「16」と印が付いた広いシアンのスラブを平らにならします。",
+        "landmarks": [
+          "ブロックアウト レベル 17 - .。",
+          "黄 屋根、緑のを解放して中央 枠、シアン スラブ `19`、`18`、`16`.。",
+          "混ぜる 黄、緑、シアン、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "黄 屋根 .。",
+        "シアン スラブ 手順、中央 枠、.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "上 黄 行、上の-右側 レーン、`16` カウンター 落ちる.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を維持して緑 中央、上の カウンター .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤のを回転させて、青 側 中央の、上部レーン 開き.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて解放する 緑 四角、を止めて下の シアン スラブ.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "`19`、`18` シアン スラブ 下 上へ.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "上 ピンク、青 側、中央 枠 .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて下の カウンター、シアン 層 .。"
+        }
+      ],
+      "failurePoints": ["手順 緑、黄 屋根 .。", "を扱いて下の シアン 開始 .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル17 攻略と解説",
+    "description": "ブロックアウト レベル17 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ja-level-52",
+  "locale": "ja",
+  "levelNumber": 52,
+  "title": "ブロックアウト レベル52 攻略",
+  "summary": "ブロックアウト レベル52は、中央に高い赤い縦ブロックがあり盤面を分断しており、左側（緑・黄）と右側（青・ピンク）を連携して消去する2目標のパズルになっています。カウンター「10」と「12」が…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "ブロックアウト レベル52は、中央に高い赤い縦ブロックがあり盤面を分断しており、左側（緑・黄）と右側（青・ピンク）を連携して消去する2目標のパズルになっています。上部のカウンター「10」と「12」は各側の残りブロック数を示します。まず底の段を空にし、その後両側から中央の赤い壁に向かって内側へ進めます。",
+        "landmarks": [
+          "ブロックアウト レベル 52 赤 下 中央、-目標 左 側 (緑、黄)、右側 (青、ピンク) 消去し .。",
+          "カウンター '10'、'12' 上 側.。",
+          "を排出して下、進める 内へ の方へ 中央の赤 壁.。"
+        ],
+        "colors": ["red", "green", "blue", "yellow", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤 中央 壁、. 消去する .。",
+        "カウンター 上 — 必要とする 出口 側.。",
+        "盤面が行き詰まったら、最もクリアな経路を持つ色を見つけ、それを使って再びスペースを作りましょう。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して下の 青 左 側、ピンク 右側 の方へ 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄のをずらして/オレンジ 左 左 出口 開く 中央の-左 エリア.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "手順 緑 上-左 左の出口 消去する.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "スライドさせ 赤 中央 — 手順、.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去して青 右 右 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて赤 中央、下 赤 ブロック.。"
+        }
+      ],
+      "failurePoints": ["動かし 赤 中央、下 — ブロック 出口 .。", "側 側 詰まった、中央の赤 壁.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル52 攻略と解説",
+    "description": "ブロックアウト レベル52 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

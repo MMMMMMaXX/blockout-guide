@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-74",
+  "locale": "zh-cn",
+  "levelNumber": 74,
+  "title": "Block Out 第74关攻略",
+  "summary": "Block Out 第74关开局有四个紫色方块室环绕在狭窄的中心脊梁周围。先排空右下角的小「3」口袋，将青色阶梯块滑出下通道，然后让「7」和「15」室缩小，最后再处理左侧巨大的「20」室……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out 第74关开局有四个紫色方块室环绕在狭窄的中心脊梁周围。先排空右下角的小「3」口袋，将青色阶梯块滑出下通道，然后让「7」和「15」室缩小，最后再处理左侧巨大的「20」室。",
+        "landmarks": [
+          "Block Out 第74关开局有四个紫色方块室环绕在狭窄的中心脊梁周围。",
+          "先排空右下角的小「3」口袋，将青色阶梯块滑出下通道，然后让「7」和「15」室缩小，最后再处理左侧巨大的「20」室。",
+          "棋盘混合了紫色、蓝色、绿色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "如果青色阶梯块仍盖住下方中部，就别碰「20」室。",
+        "「3」口袋不是填充物。它是为「7」室打开下方路线的关键。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "关卡一开始，先排空右下角标有「3」的紫色方块室。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "利用这块新腾出的地面空间，把青色阶梯块滑离下方中部，并释放它们旁边的绿色条。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "一旦青色块不再挡路，开始削减左下角的「7」室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "趁左侧正在打开，让右上角的「15」室失去其便利的右侧墙壁出口。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "在「7」室基本清空、中心红色阶梯已拆散之前，先别动左上角的「20」室。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后排空「20」室，并将剩余的紫色、青色和红色方块从打开的中心扫出。"
+        }
+      ],
+      "failurePoints": [
+        "在右下角「3」口袋清空、青色阶梯块移走之前，就依赖「20」室。",
+        "在青色阻挡块仍横亘下方中部时，就试图处理「7」室。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第74关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第74关。"
+  },
+  "updatedAt": "2026-08-03"
+}

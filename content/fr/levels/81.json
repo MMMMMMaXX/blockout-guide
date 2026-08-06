@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-81",
+  "locale": "fr",
+  "levelNumber": 81,
+  "title": "Guide Block Out Niveau 81",
+  "summary": "Block Out Niveau 81 stacks plein-width coloré horizontal barres dans haut, étroit plateau. barre vert avec compteur '1' sits à le haut, followed par bleu, rouge, et barres vert, alors large jaune/bloc orange sur le côté droit. verrou bloc w...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out Niveau 81 stacks plein-width coloré horizontal barres dans haut, étroit plateau. barre vert avec compteur '1' sits à le haut, followed par bleu, rouge, et barres vert, alors large jaune/bloc orange sur le côté droit. verrou bloc avec compteur '2' portes le centre, et le bas holds heavy blocs avec compteurs '10' et '5'. Pelez barres de le haut bas, dégagez le centre verrou, alors alimentez heavy bas blocs dernier.",
+        "landmarks": [
+          "Block Out Niveau 81 stacks plein-width coloré horizontal barres dans haut, étroit plateau.",
+          "Barre vert avec compteur '1' sits à le haut, followed par bleu, rouge, et barres vert, alors large jaune/bloc orange sur le côté droit.",
+          "Verrou bloc avec compteur '2' portes le centre, et le bas holds heavy blocs avec compteurs '10' et '5'.",
+          "Pelez barres de le haut bas, dégagez le centre verrou, alors alimentez heavy bas blocs dernier."
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pelez strictly de le haut bas — plein-width barres cannot glissez de côté.",
+        "Dégagez verrou bloc dans le centre avant attempting un abaissez-half barre.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez la barre vert (compteur '1') à le haut à travers la sortie supérieure."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract la barre bleu sous il à travers la sortie supérieure."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tirez la barre rouge suivant, continuing le haut-bas pelez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez verrou bloc avec compteur '2' dans le centre-gauche à déverrouillez abaissez stack."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Acheminez large jaune/orange block out à travers widened mid-section."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez le bas blocs (compteurs '10' et '5') à travers le bas sorties."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à skip barre dans stack — plein-width barres bloc everything sous les.",
+        "Attempting le bas blocs avant verrou bloc est cleared, qui leaves abaissez half sealed."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 81",
+    "description": "Résolvez le niveau 81 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

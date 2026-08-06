@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-30",
+  "locale": "ko",
+  "levelNumber": 30,
+  "title": "블록 아웃 레벨 30 공략",
+  "summary": "블록 아웃 레벨 30은 `11` 카운터가 있는 높은 프레임 보스 열을 중심으로 한 L자형 방입니다. 탑 밑둥이 둘러싸인 빨간색·흰색·검은색 블록을 먼저 치워 카운터를 낮춰야 하고, 탑은 `2` 근처로 떨어져야만 무너집니다.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "블록 아웃 레벨 30은 `11` 카운터가 있는 높은 프레임 보스 열을 중심으로 한 L자형 방입니다. 탑 밑둥이 둘러싸인 빨간색, 흰색, 검은색 블록을 먼저 치워 카운터를 낮춰야 하고, 탑은 `2` 근처로 떨어져야만 무너집니다. 열이 떨어진 뒤에는 안쪽 샤프트에서 녹색, 빨간색, 흰색 블록의 두 번째 물결이 쏟아져 나와 별도의 분리 단계가 필요합니다.",
+        "landmarks": [
+          "블록 아웃 레벨 30은 `11` 카운터가 있는 높은 프레임 보스 열을 중심으로 한 L자형 방입니다.",
+          "탑 밑둥이 둘러싸인 빨간색, 흰색, 검은색 블록을 먼저 치워 카운터를 낮춰야 하고, 탑은 `2` 근처로 떨어져야만 무너집니다.",
+          "열이 떨어진 뒤에는 안쪽 샤프트에서 녹색, 빨간색, 흰색 블록의 두 번째 물결이 쏟아져 나와 별도의 분리 단계가 필요합니다."
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "보스 카운터 숫자를 따라가세요, 탑 높이가 아니라 — 카운터가 여전히 `5` 이상이면 밑둥에 더 작업이 필요합니다.",
+        "안쪽 덩어리에 왼쪽 벽 출구를 쓰기 전에 아래쪽 중앙의 녹색 출구를 먼저 먹이세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "탑 밑둥 옆에 첫 틈을 만들려면 왼쪽 빨간색 블록을 왼쪽 벽 출구 쪽으로 밀어내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "탑과 오른쪽 빨간색 덩어리 사이에 차선을 열려면 가운데 밑둥의 흰색 블록을 치우세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "처음 두 수로 만든 틈을 통해 오른쪽 빨간색과 검은색 블록을 치우며, 조각마다 보스 카운터가 떨어지는 것을 지켜보세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "카운터가 `2`로 떨어지면 프레임 열이 무너지게 하세요 — 안쪽 녹색과 흰색 블록이 밑둥 영역으로 쏟아집니다."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "드러난 녹색 블록을 분리해 먼저 아래쪽 중앙 녹색 출구로 밀어내세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "남은 흰색과 빨간색 안쪽 조각에는 왼쪽 벽 출구를 이용하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "샤프트가 비고 밑둥이 평평해지면 마지막 빨간색 탑 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "밑둥 영역이 아직 빨간색과 흰색 블록으로 꽉 찬 채로 보스 열을 억지로 내리려는 것 — 밑둥 조각이 빠져나갈 차선이 없어 카운터가 거의 움직이지 않습니다.",
+        "안쪽 덩어리가 쏟아질 때 녹색 아래쪽 중앙 출구를 무시하고 왼쪽 벽 출구를 쓰는 것, 그러면 가로 구간에 교통 체증이 발생합니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 30 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 30을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

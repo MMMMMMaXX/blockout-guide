@@ -1,0 +1,93 @@
+{
+  "id": "es-level-74",
+  "locale": "es",
+  "levelNumber": 74,
+  "title": "Guía de Block Out Nivel 74",
+  "summary": "Block Out nivel 74 opens con four morado cámaras wrapped alrededor un centro cramped spine. Drena the diminuto `3` pocket en inferior-derecho primero, slide the cian steps fuera de el carril inferior, luego let the `7` y `15` rooms shrink antes tú fina...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out nivel 74 opens con four morado cámaras wrapped alrededor un centro cramped spine. Drena the diminuto `3` pocket en inferior-derecho primero, slide the cian steps fuera de el carril inferior, luego let the `7` y `15` rooms shrink antes tú finally commit a the huge `20` cámara en the izquierdo.",
+        "landmarks": [
+          "Block Out nivel 74 opens con four morado cámaras wrapped alrededor un centro cramped spine.",
+          "Drena the diminuto `3` pocket en inferior-derecho primero, slide the cian steps fuera de el carril inferior, luego let the `7` y `15` rooms shrink antes tú finally commit a the huge `20` cámara en the izquierdo.",
+          "El tablero mixes morado, azul, verde y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["morado", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si the cian step pieza todavía covers the inferior central, stay lejos desde the `20` cámara.",
+        "The `3` pocket es no filler. Lo es the clave ese opens the inferior route para the `7` room.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Drena the inferior-derecho morado cámara marked `3` mientras soon mientras el nivel starts."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Usa ese new floor espacio a slide the cian step bloques lejos desde the inferior central y libre la franja verde al lado de los."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Empieza reducing the inferior-izquierdo `7` cámara once la pieza cian es no longer blocking su carril."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Let the superior-derecho `15` cámara lose su easy derecho-pared salidas mientras el lado izquierdo es opening."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Abandona the superior-izquierdo `20` cámara alone hasta the `7` room es mostly gone y el centro rojo ladder has broken apart."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina por draining the `20` cámara y sweeping fuera the restante morado, cian, y rojo piezas por el centro abierto."
+        }
+      ],
+      "failurePoints": [
+        "Leaning en the `20` cámara antes the inferior-derecho `3` pocket es gone y the cian steps have moved.",
+        "Trying a work the `7` room mientras the cian blocker es todavía stretched a través the inferior central."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 74",
+    "description": "Resuelve Block Out nivel 74 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

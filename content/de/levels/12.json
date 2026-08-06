@@ -1,0 +1,93 @@
+{
+  "id": "de-level-12",
+  "locale": "de",
+  "levelNumber": 12,
+  "title": "Block Out Level 12 Lösung",
+  "summary": "Block Out Level 12 ist sandglass Puzzle mit two chambers joined durch narrow waist. Pass long bars durch Mitte throat in alternating Reihenfolge, behalten beide halves balanced, und verwenden temporary pockets für türkis `2` bricks.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "Block Out Level 12 ist sandglass Puzzle mit two chambers joined durch narrow waist. Pass long bars durch Mitte throat in alternating Reihenfolge, behalten beide halves balanced, und verwenden temporary pockets für türkis `2` bricks.",
+        "landmarks": [
+          "Block Out Level 12 ist sandglass Puzzle mit two chambers joined durch narrow waist.",
+          "Pass long bars durch Mitte throat in alternating Reihenfolge, behalten beide halves balanced, und verwenden temporary pockets für türkis `2` bricks.",
+          "Das Spielfeld mixes Blau, Rot, Türkis und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Jede strong bewegen either enters oder räumt waist.",
+        "Bewegen paired türkis `2` bricks nur nach long bar hat überquert.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Fallen lassen one von Mitte vertikal bars durch narrow throat also two chambers stop pinning jede andere."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Swap oben rot und blau Spalten durch waist bis one Seite Zähler shrinks enough zu give extra Raum."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Bewegen paired türkis `2` bricks nur nach long bar hat überquert, also sie verwenden temporary pocket stattdessen von clogging es."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Behalten alternating oben-zu-unten und unten-zu-oben transfers durch Mitte bis outer gelb Spalten kann trennen cleanly."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden newly geöffnet Seite lanes zu entfernen rot Spalten von jede chamber."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden durch draining letzte gelb und blau Spalten nach throat ist kein longer occupied."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu räumen one chamber completely bevor verwendend andere half.",
+        "Parken- kurz Block in throat when voll Spalte still needs zu überqueren."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 12 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 12 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

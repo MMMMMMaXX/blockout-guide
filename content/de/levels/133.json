@@ -1,0 +1,91 @@
+{
+  "id": "de-level-133",
+  "locale": "de",
+  "levelNumber": 133,
+  "title": "Block Out Level 133 Lösung",
+  "summary": "Block Out Level 133 arranges numbered key Blöcke auf arms von T-shaped Spielfeld, mit Mitte `13` spine und unten blast Raster. Gerichtet Pfeile auf blau nach unten Block und grün rechts-entfernen mark nur legal exits. Oben-le...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/133/",
+        "layout": "Block Out Level 133 arranges numbered key Blöcke auf arms von T-shaped Spielfeld, mit Mitte `13` spine und unten blast Raster. Gerichtet Pfeile auf blau nach unten Block und grün rechts-entfernen mark nur legal exits. Obere linke magenta `7` alcove muss räumen bevor hoch blau `1` stapeln kann verschieben — otherwise es Blöcke Mitte spine's nur drainage Pfad.",
+        "landmarks": [
+          "Block Out Level 133 arranges numbered key Blöcke auf arms von T-shaped Spielfeld, mit Mitte `13` spine und unten blast Raster.",
+          "Gerichtet Pfeile auf blau nach unten Block und grün rechts-entfernen mark nur legal exits.",
+          "Obere linke magenta `7` alcove muss räumen bevor hoch blau `1` stapeln kann verschieben — otherwise es Blöcke Mitte spine's nur drainage Pfad."
+        ],
+        "colors": ["cyan", "magenta", "green", "blue", "red", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lUJCT64KCKk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=lUJCT64KCKk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Behalten grün links bar intact while räumend unten blast Raster.",
+        "Aufsparen 1/10 pair bis 9 Kachel unlocks auf unten flare.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Pop oben türkis 24 und 21 Kacheln plus links/rechts arm 17 und 19 Blöcke bevor Mitte 13 Spalte fällt … lassen."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen unten colored Raster von grün links bar outward, keeping 1/10 pair sealed für endgültig Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break Mitte 13 spine once beide arm alcoves empty, feeding 18 Seite Kachel in waist."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben blau nach unten-Pfeil Block durch narrow corridor nach Zähler shrink zu 12."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Detonate grün rechts-Pfeil cluster auf unten flare once 9 Kachel unlocks."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend unten 0/1 Zähler und Ausgang letzte magenta und blau scraps für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Dropping Mitte 13 spine bevor arm alcoves empty, sealing waist.",
+        "Moving grün rechts-Pfeil cluster bevor 9 Kachel unlocks, trapping 0/1 Ausgang."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/133/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 133 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 133 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

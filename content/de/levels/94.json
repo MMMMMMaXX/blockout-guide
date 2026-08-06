@@ -1,0 +1,93 @@
+{
+  "id": "de-level-94",
+  "locale": "de",
+  "levelNumber": 94,
+  "title": "Block Out Level 94 Lösung",
+  "summary": "Block Out Level 94 ist four-chamber cascade: `14` und `18` auf oben, horizontal `6` bar durch mittlere, und tucked-weg `3` pocket in untere rechte. Öffnen untere clutter erste, herausholen `3` und `6` chambers second, und nur th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "Block Out Level 94 ist four-chamber cascade: `14` und `18` auf oben, horizontal `6` bar durch mittlere, und tucked-weg `3` pocket in untere rechte. Öffnen untere clutter erste, herausholen `3` und `6` chambers second, und nur dann settle in long `14` und `18` führt hinaus.",
+        "landmarks": [
+          "Block Out Level 94 ist four-chamber cascade: `14` und `18` auf oben, horizontal `6` bar durch mittlere, und tucked-weg `3` pocket in untere rechte.",
+          "Öffnen untere clutter erste, herausholen `3` und `6` chambers second, und nur dann settle in long `14` und `18` führt hinaus.",
+          "Das Spielfeld mixes Lila, Rot, Grün und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untere rechte `3` pocket ist nicht optional cleanup. Es ist part von opener.",
+        "Wenn `6` bar ist still alive, `18` chamber ist probably nicht ready yet.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen untere linke clutter erste, especially verklemmen/key Bauteile und rot-grün Stapel around unten chambers."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Öffnen und drain untere rechte `3` chamber also rechts quarter finally hat Drehung Platz."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Reduce mittlere `6` chamber nächste, verwendend newly geöffnet untere lanes zu behalten überqueren-Bahn räumen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Starten feeding obere linke `14` chamber once untere half ist kein longer sharing sein lanes."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Aufsparen obere rechte `18` chamber für longest spät-game hinausführen, when türkis T-shape und lila elbow unterhalb haben bereits bewegt zur Seite."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit letzte türkis und lila leftovers nach `18` chamber collapses."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring untere rechte `3` pocket und pretending Level 94 nur hat three chambers.",
+        "Eröffnungs- `18` chamber while mittlere `6` bar ist still competing für gleich Bahn."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 94 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 94 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

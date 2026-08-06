@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-17",
+  "locale": "fr",
+  "levelNumber": 17,
+  "title": "Guide Block Out Niveau 17",
+  "summary": "Block Out Niveau 17 est encadré-charnière numeric plateau. Taillez jaune toit premier, déverrouillez vert centre cadre second, et seulement alors aplatissez large dalles cyan marked `19`, `18`, et `16`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "Block Out Niveau 17 est encadré-charnière numeric plateau. Taillez jaune toit premier, déverrouillez vert centre cadre second, et seulement alors aplatissez large dalles cyan marked `19`, `18`, et `16`.",
+        "landmarks": [
+          "Block Out Niveau 17 est encadré-charnière numeric plateau.",
+          "Taillez jaune toit premier, déverrouillez vert centre cadre second, et seulement alors aplatissez large dalles cyan marked `19`, `18`, et `16`.",
+          "Le plateau mélange jaune, vert et cyan et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Jaune toit loosens charnière.",
+        "Big dalles cyan déplacez après le centre cadre, pas avant il.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Shave le haut rangée jaune et supérieur droit côté voie donc `16` compteur commence à tombe."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Gardez encadré vert centre verrouillé jusqu'à supérieur compteurs ont lost assez weight."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tournez rouge et bleu côté barres dans le milieu une fois la voie supérieure a opened."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez que nouveau espace à libérez encadré carré vert et arrêtez il de pinning abaissez dalles cyan."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Aplatissez `19` et `18` dalles cyan de le bas vers le haut."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Nettoiez haut dernier rose et bleu côté pièces après le centre cadre est gone."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez abaissez floor compteur une fois large cyan layer a fully separated."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez vert charnière avant jaune toit est lighter.",
+        "Treating abaissez cyan tapis like opening énigme."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 17",
+    "description": "Résolvez le niveau 17 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

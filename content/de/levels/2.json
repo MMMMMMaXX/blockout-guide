@@ -1,0 +1,103 @@
+{
+  "id": "de-level-2",
+  "locale": "de",
+  "levelNumber": 2,
+  "title": "Block Out Level 2 Lösung",
+  "summary": "Block Out Level 2 öffnet mit rot hoch und gelb links, dann turns in vertikal-Spalte cleanup. Parken blau in obere linke Ecke, abziehen weiß und schwarz Spalten durch obere Bahn, und nur hole blau erst als Letztes heraus.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "Block Out Level 2 öffnet mit rot hoch und gelb links, dann turns in vertikal-Spalte cleanup. Parken blau in obere linke Ecke, abziehen weiß und schwarz Spalten durch obere Bahn, und nur hole blau erst als Letztes heraus.",
+        "landmarks": [
+          "Block Out Level 2 öffnet mit rot hoch und gelb links, dann turns in vertikal-Spalte cleanup.",
+          "Parken blau in obere linke Ecke, abziehen weiß und schwarz Spalten durch obere Bahn, und nur hole blau erst als Letztes heraus.",
+          "Das Spielfeld mixes Rot, Gelb, Blau und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rot und gelb sind two Eröffnungs- räumt.",
+        "Blau ist brace erste und Ausgangs-Block second.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Bewegen rot L-shaped Block hoch durch oben roter Ausgang."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben gelb T-shaped Block links durch gelb Seiten-Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben blau L in obere linke Ecke und lassen es geparkt dort."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Anheben far-rechts weiß Spalte und dann heben schwarz Spalte neben es in obere rechte schwarzer Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Ziehen hoch mittlere weiß Spalte hoch in obere linke weißer Ausgang once schwarz Ecke ist freigeben."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Verwenden gleich obere Bahn zu entfernen remaining weiß stapeln auf rechte Seite."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Senden letzte schwarz Spalte hoch durch schwarzer Ausgang."
+        },
+        {
+          "order": 8,
+          "title": "Zug 8",
+          "instruction": "Beenden durch dropping geparkt blau L zu blauer Ausgang auf linke Wand."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu senden blau L zu sein Ausgang bevor weiß Spalten haben climbed.",
+        "Ignoring rechts schwarz Spalte und lifting weiß in blocked Ecke."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 2 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 2 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-4",
+  "locale": "ja",
+  "levelNumber": 4,
+  "title": "ブロックアウト レベル4 攻略",
+  "summary": "ブロックアウト レベル4は、2段階の縞模様の盤面です。まず右下の白の出口と下部のミントの棒を消去し、右側の白と黒のブロッカーのはしごを分解し、それからでのみ長い色付きの棒を解放します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "ブロックアウト レベル4は、2段階の縞模様の盤面です。まず右下の白の出口と下部のミントの棒を消去し、右側の白と黒のブロッカーのはしごを分解し、それからでのみ長い色付きの棒を解放します。",
+        "landmarks": [
+          "ブロックアウト レベル 4 2段階の 縞模様の盤面.。",
+          "を消去して右下の白の出口、下部のミントの棒、を分解して白と黒のブロッカーのはしご 右、を解放して長い色付きの棒.。",
+          "混ぜる 赤、黄、緑、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右下の白の出口 本当の始め.。",
+        "下部のミントの棒 唯一の長い棒 解放する、右のはしごが崩れる.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を落として小さな白のブロック 右下の角 白 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "をスライドさせて下部のミントの棒 右、を消去して対応する側面出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を出して最も近い黒のブロッカー 落ちる 床のレーン、使う 新しい隙間 剥がす 次の白のブロッカー 下 右端、白の出口.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を維持して右端の片付け、白と黒のはしご、長い棒 左 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "青棒を解放して、緑 棒、残りの下部の暖色の棒、揃い 右側の出口 開く.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を取っておきて上部の黄の棒 最後から2番目の手順.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えてスライドさせ 上 赤 棒 渡り 赤の側面出口.。"
+        }
+      ],
+      "failurePoints": [
+        "発射する 青 棒、右側のブロッカーのはしご 崩し.。",
+        "を無視して下部のミントの棒、を残して床のレーンが塞がれている.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル4 攻略と解説",
+    "description": "ブロックアウト レベル4 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

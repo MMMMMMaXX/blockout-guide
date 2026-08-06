@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-8",
+  "locale": "tr",
+  "levelNumber": 8,
+  "title": "Block Out Seviye 8 Rehberi",
+  "summary": "Block Out Seviye 8 Devasa kırmızı levha daha düşük-sağ well gizler. Çalış yeşil, beyaz, ve siyah mini-bloklar üstden ve sağ sayaçlar ilk, sonra kullan açıldı koridor sonundaya hareket ettir kırmızı levha.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "Block Out Seviye 8 Devasa kırmızı levha daha düşük-sağ well gizler. Çalış yeşil, beyaz, ve siyah mini-bloklar üstden ve sağ sayaçlar ilk, sonra kullan açıldı koridor sonundaya hareket ettir kırmızı levha.",
+        "landmarks": [
+          "Block Out Seviye 8 hides devasa kırmızı levha daha düşük-sağ well.",
+          "Çalış yeşil, beyaz, ve siyah mini-bloklar üstden ve sağ sayaçlar ilk, sonra kullan açıldı koridor sonundaya hareket ettir kırmızı levha.",
+          "Tahta kırmızı, yeşil, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Üst koridor matters daha fazla dev kırmızı levha başlada.",
+        "Tut sağ-yan gösterge düşerek sırasında üst tavan ayrıca küçülerek.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "It üst-sağ beyaz ve siyah çift sağa-yan kota şerit başla küçülerek `9` gösterge."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Döndür üst yeşil mini-bloklar üst koridordan böylece `17` tavan ve sağ gösterge tut dropping birlikte."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kullan dar merkez gövde passa sonraki beyaz blok aşağı doğru ve tut üst-sağ sütun yeniden doldurarak."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Continue trimming siyah-ve-yeşil küme kadar sağ sütun almost boş ve yan gösterge neredeyse exhausted."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sonra üst koridor açılır, kaydır kalan küçük parçalar kenara böylece kırmızı levha temiz dikey şerit."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kaydır büyük kırmızı rectangle yukarı doğru ve kırmızı çıkışa sol duvarda."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile besleyerek son yeşil mini-blok üst yeşil bitirden sonra quotas fully temizlendi."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir oversized kırmızı levha önce üst koridor çoğunlukla boş.",
+        "Ignoring sağ kota şerit ve sadece çalışarak üst tavan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 8 Rehberi ve Çözümü",
+    "description": "Block Out seviye 8'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

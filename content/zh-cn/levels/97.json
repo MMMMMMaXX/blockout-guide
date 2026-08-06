@@ -1,0 +1,102 @@
+{
+  "id": "zh-cn-level-97",
+  "locale": "zh-cn",
+  "levelNumber": 97,
+  "title": "Block Out 第97关攻略",
+  "summary": "Block Out 第97关堆叠了两个塞满彩色方块的水平边框。上边框有黄色方块、蓝色边框、大号红色方块和带挂锁的橙/黄方块（挂锁「5」）。下边框密度加倍，有大号红绿方块、蓝、橙、紫和带挂锁的黄色方块。交替处理两个边框……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out 第97关堆叠了两个塞满彩色方块的水平边框。上边框有黄色方块、蓝色边框、大号红色方块和带挂锁的橙/黄方块（挂锁「5」）。下边框密度加倍，有大号红绿方块、蓝、橙、紫和带挂锁的黄色方块。交替处理两个边框——清空非挂锁的边缘方块以解锁各边框的挂锁「5」门，再通过大块。",
+        "landmarks": [
+          "Block Out 第97关堆叠了两个塞满彩色方块的水平边框。",
+          "上边框有黄色方块、蓝色边框、大号红色方块和带挂锁的橙/黄方块（挂锁「5」）。",
+          "下边框密度加倍，有大号红绿方块、蓝、橙、紫和带挂锁的黄色方块。",
+          "交替处理两个边框——清空非挂锁的边缘方块以解锁各边框的挂锁「5」门，再通过大块。"
+        ],
+        "colors": ["red", "orange", "yellow", "green", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "挂锁「5」计数按边框分别计——清空上方方块只解锁上方挂锁，不解锁下方。",
+        "从两个边框中的非挂锁边缘方块开始，逐步达到五次清除的解锁阈值。",
+        "把下中心的大号绿色方块留到最后——它挡住中心路径，需要最多空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "上边框：将最右侧的蓝色边框方块经右墙出口滑出，再将最左侧的黄色方块经左墙出口推出（02:24–02:20）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "下边框：将最右侧的橙色和紫色方块经右墙出口清空——它们最近，且未上锁（02:20–02:15）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "上边框：将中心偏左的大号红色方块经左墙出口清空——每移除一个都计入上方挂锁「5」的解锁（02:15–02:06）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "上边框挂锁现已打开：将中心的橙/黄挂锁方块经右出口清空（02:06）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "下边框：清空中心的非挂锁蓝红方块，计入下方挂锁「5」阈值（02:01–01:52）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "下边框挂锁现已打开：将最左侧的黄色挂锁方块经左墙出口清空（01:52）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "将下中心的大号绿色方块经底部出口输送——需要多次通过，且中心路径必须畅通（01:47–01:38）。"
+        },
+        {
+          "order": 8,
+          "title": "第8步",
+          "instruction": "用两个边框剩余的方块经最近的出口收尾（01:38–01:33）。"
+        }
+      ],
+      "failurePoints": [
+        "在规划好挂锁方块的出口路线前，就清空上边框的红色方块——一旦周围空间被下边框溢出填满，挂锁方块就无处可去。",
+        "把挂锁计数当作共享——清空五个上边框方块并不会解锁下边框挂锁，所以一次只处理一个边框会浪费步数。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第97关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第97关。"
+  },
+  "updatedAt": "2026-08-03"
+}

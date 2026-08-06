@@ -1,0 +1,98 @@
+{
+  "id": "es-level-46",
+  "locale": "es",
+  "levelNumber": 46,
+  "title": "Guía de Block Out Nivel 46",
+  "summary": "Block Out nivel 46 has three jefe cámaras a través the superior half — two smaller ones en `3` cada y a larger one en `10` — todos sitting sobre a packed inferior cámara de rojo, azul, verde, amarillo, y naranja bloques. Drena the inferior bloques fi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "Block Out nivel 46 has three jefe cámaras a través the superior half — two smaller ones en `3` cada y a larger one en `10` — todos sitting sobre a packed inferior cámara de rojo, azul, verde, amarillo, y naranja bloques. Drena the inferior bloques primero a let the two `3` cámaras collapse quickly, luego use the freed superior espacio para the longer `10` reduction.",
+        "landmarks": [
+          "Block Out nivel 46 has three jefe cámaras a través the superior half — two smaller ones en `3` cada y a larger one en `10` — todos sitting sobre a packed inferior cámara de rojo, azul, verde, amarillo, y naranja bloques.",
+          "Drena the inferior bloques primero a let the two `3` cámaras collapse quickly, luego use the freed superior espacio para the longer `10` reduction.",
+          "El tablero mixes rojo, azul, verde y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The two `3` cámaras son fast wins — si ellos son todavía arriba cuando tú start the `10`, tú son working the wrong part de el tablero.",
+        "Drena the inferior de color bloques antes cualquier jefe cámara.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Fino the inferior de color bloques hacia the inferior salidas a start reducing todos three jefe contadores."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Let the two `3`-count cámaras collapse mientras el espacio inferior opens."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Mantén the `10` cámara parked hasta the `3`s son both gone."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Usa the freed superior espacio a accelerate the `10` reduction."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Clasifica the restante de color bloques por el lado salidas."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the late rojo, azul, y amarillo piezas desde la cámara inferior."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con la cámara último fragments y lado cleanup."
+        }
+      ],
+      "failurePoints": [
+        "Splitting effort entre todos three cámaras desde the start — the `10` needs far más room than the `3`s, así the quick wins should go primero.",
+        "No draining the inferior de color bloques antes attacking el jefe cámaras, que leaves no room para the bosses a collapse en."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 46",
+    "description": "Resuelve Block Out nivel 46 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

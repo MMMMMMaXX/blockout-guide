@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-33",
+  "locale": "pt-br",
+  "levelNumber": 33,
+  "title": "Guia do nível 33 do Block Out",
+  "summary": "Block Out Nível 33 é diamond-shaped tabuleiro onde grande verde cruz-bloco e denso vermelho massa fica acima e abaixo cheio meio cinto de amarelo, azul, branco, e preto peças. diamond forma faz largo centro fileira único pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "Block Out Nível 33 é diamond-shaped tabuleiro onde grande verde cruz-bloco e denso vermelho massa fica acima e abaixo cheio meio cinto de amarelo, azul, branco, e preto peças. diamond forma faz largo centro fileira único caminho grande suficiente para dois grande cor masses para travel através, so cinto deve be broken abra primeiro. Limpar pequeno cinto blocos, envie verde cruz para fora através superior saída, então deixe vermelho massa escoe através inferior.",
+        "landmarks": [
+          "Block Out Nível 33 é diamond-shaped tabuleiro onde grande verde cruz-bloco e denso vermelho massa fica acima e abaixo cheio meio cinto de amarelo, azul, branco, e preto peças.",
+          "Diamond forma faz largo centro fileira único caminho grande suficiente para dois grande cor masses para travel através, so cinto deve be broken abra primeiro.",
+          "Limpar pequeno cinto blocos, envie verde cruz para fora através superior saída, então deixe vermelho massa escoe através inferior."
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Largo meio fileira é único real highway — se cinto é ainda occupied, neither wedge pode mova.",
+        "Verde deixa antes que vermelho. verde cruz-bloco precisa para vacate superior diamond antes que vermelho massa pode comece movendo.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Puxe pequeno amarelo e laranja blocos de meio cinto em direção a esquerda borda de diamond para comece creating canal."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque azul blocos em centro-direita em direção a direita-borda saída para widen vertical canal através cinto."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar branco blocos de direita borda para totalmente abra meio passage."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deslize verde cruz-bloco para cima através aberto canal e para fora superior saída point."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez verde bloco é indo, comece movendo vermelho massa para cima de inferior seção através widened centro."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente vermelho blocos através inferior saída point agora que centro cinto é no mais longo clogged."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com restante preto blocos em inferior-direita canto e qualquer pequeno cinto fragmentos esquerda atrás de."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para empurre verde cruz-bloco através meio antes que cinto é abra — verde bloco é maior peça e precisa totalmente limpo canal.",
+        "Movendo vermelho massa em direção a inferior saída enquanto verde bloco é ainda occupying superior diamond, que entrava ambos grande peças em centro fileira."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 33 do Block Out",
+    "description": "Resolva o nível 33 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

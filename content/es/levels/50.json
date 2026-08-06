@@ -1,0 +1,96 @@
+{
+  "id": "es-level-50",
+  "locale": "es",
+  "levelNumber": 50,
+  "title": "Guía de Block Out Nivel 50",
+  "summary": "Block Out nivel 50 es the directional slider finale — no bosses, no contadores, no dispositivos. Tall flecha bloques packed en three columnas puede solo slide en the direction su flecha puntos: azul y amarillo barras go arriba, verde bloques go abajo, r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Block Out nivel 50 es the directional slider finale — no bosses, no contadores, no dispositivos. Tall flecha bloques packed en three columnas puede solo slide en the direction su flecha puntos: azul y amarillo barras go arriba, verde bloques go abajo, rojo barras go izquierdo o derecho, y morado pushers fill el bordes. The solve es about route orden: libre one vertical carril primero, use the rojo horizontal barras mientras traffic controllers (no obstacles), y save the verde y morado piezas para después the grande barras have cleared.",
+        "landmarks": [
+          "Block Out nivel 50 es the directional slider finale — no bosses, no contadores, no dispositivos.",
+          "Tall flecha bloques packed en three columnas puede solo slide en the direction su flecha puntos: azul y amarillo barras go arriba, verde bloques go abajo, rojo barras go izquierdo o derecho, y morado pushers fill el bordes.",
+          "The solve es about route orden: libre one vertical carril primero, use the rojo horizontal barras mientras traffic controllers (no obstacles), y save the verde y morado piezas para después the grande barras have cleared."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The rojo horizontal barras son traffic controllers, no obstacles — keep one en reserve hasta the verticals son mostly gone.",
+        "Libera one largo vertical carril primero. Do no despejado both rojo barras immediately.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Libera the primero largo vertical carril por sliding one azul o amarillo barra arriba y fuera."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Usa ese opened carril a shift another amarillo o azul flecha bloque fuera de the stack."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Mantén el lado derecho desde overfilling mientras the primero rojo horizontal barra slides fuera."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Abre the second largo carril solo después el lado primero es calmer."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Libera the verde abajo-flecha bloques después the vertical blockers son más fino."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Usa the morado push bloques late, once the grande barras son ya gone."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Termina con the último rojo o verde pieza después the room es mostly empty."
+        }
+      ],
+      "failurePoints": [
+        "Removing both rojo horizontal barras antes the vertical carriles son ready — este removes tu traffic control y el lado derecho overfills.",
+        "Trying a slide a verde abajo-flecha bloque antes the vertical barras sobre lo have cleared, que jams la columna."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 50",
+    "description": "Resuelve Block Out nivel 50 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

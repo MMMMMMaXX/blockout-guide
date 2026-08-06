@@ -1,0 +1,91 @@
+{
+  "id": "es-level-111",
+  "locale": "es",
+  "levelNumber": 111,
+  "title": "Guía de Block Out Nivel 111",
+  "summary": "Block Out nivel 111 stacks two morado-enmarcado cámaras ese share a single vertical drop carril por a amarillo abajo-flecha baldosa. The derecho-lado combo columna counts desde 9 abajo a 0, tracking consecutive clears. El tablero superior debe fino en...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "Block Out nivel 111 stacks two morado-enmarcado cámaras ese share a single vertical drop carril por a amarillo abajo-flecha baldosa. The derecho-lado combo columna counts desde 9 abajo a 0, tracking consecutive clears. El tablero superior debe fino enough para the rojo L-pieza a movimiento — otherwise lo bloques la flecha amarillo carril y the inferior `14` contador never starts dropping.",
+        "landmarks": [
+          "Block Out nivel 111 stacks two morado-enmarcado cámaras ese share a single vertical drop carril por a amarillo abajo-flecha baldosa.",
+          "The derecho-lado combo columna counts desde 9 abajo a 0, tracking consecutive clears.",
+          "El tablero superior debe fino enough para the rojo L-pieza a movimiento — otherwise lo bloques la flecha amarillo carril y the inferior `14` contador never starts dropping."
+        ],
+        "colors": ["morado", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The amarillo abajo-flecha es a one-way puerta — do no park the superior rojo L-pieza en lo.",
+        "Peel the izquierdo morado cross-pattern bloque antes feeding the inferior amarillo L-pieza rightward.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Remove the superior naranja horizontal barra y the izquierdo morado columna en la cámara superior a abierto the superior `2`/`3` fila."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Peel el centro azul cluster downward without blocking the amarillo abajo-flecha baldosa."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Desplaza the superior rojo L-pieza rightward así la flecha amarillo carril stays abierto para la cámara inferior."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Suelta the cleared superior piezas por la flecha amarillo en the inferior grid once the izquierdo cross-pattern bloque thins."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Desliza the inferior amarillo L-pieza rightward antes feeding the azul verticals fuera por the `15` lado salida."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina the restante inferior-tablero piezas y close the morado inferior barra contador `14`."
+        }
+      ],
+      "failurePoints": [
+        "Parking the superior rojo L-pieza en the amarillo abajo-flecha, que bloques the inferior `14` feed.",
+        "Mueve the inferior amarillo L-pieza antes el tablero superior has cleared alrededor el carril flecha."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 111",
+    "description": "Resuelve Block Out nivel 111 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

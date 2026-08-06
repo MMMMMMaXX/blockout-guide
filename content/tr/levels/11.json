@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-11",
+  "locale": "tr",
+  "levelNumber": 11,
+  "title": "Block Out Seviye 11 Rehberi",
+  "summary": "Block Out Seviye 11 bir Geri sayım-duvar bulmacadır. Grind aşağı uzun sağ camgöbeği sütun ilk, sök merkez engelleyici omurga o, ve sakla sol pembe ve yeşil tavanlar kadar duvar single digitsde.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "Block Out Seviye 11 bir Geri sayım-duvar bulmacadır. Grind aşağı uzun sağ camgöbeği sütun ilk, sök merkez engelleyici omurga o, ve sakla sol pembe ve yeşil tavanlar kadar duvar single digitsde.",
+        "landmarks": [
+          "Block Out Seviye 11 bir Geri sayım-duvar bulmacadır.",
+          "Grind aşağı uzun sağ camgöbeği sütun ilk, sök merkez engelleyici omurga o, ve sakla sol pembe ve yeşil tavanlar kadar duvar single digitsde.",
+          "Tahta pembe, yeşil, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["pink", "green", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sağ camgöbeği sütun main hedef başlada.",
+        "Pembe ve yeşil geç hareketli bloklar.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kullan üst siyah-ve-beyaz bloklar başla hitting sağ geri sayım duvar ve bring `16` istifler aşağı."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut besleyerek merkez engelleyici omurga sağa doğru sırasında yan sayaçlar sol ayrıca tickde daha düşük."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Bırak üst pembe çubuk ve her ikisi de yeşil çubuklar park edildi kadar sağ duvar bırakıldı single digitse."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Ne zaman omurga çoğunlukla gitti, kaydır üst yeşil çubuk üst bitire ve temizle üst şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Döndür daha düşük yeşil çubuk zeminden sonra siyah taban açıldı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sakla pembe çubuk için geç temizlik sonra yeşil parçalar zaten sol."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son siyah ve beyaz artanlar ne zaman geri sayım duvar neredeyse boş."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek pembe tavan önce merkez omurga yapıldı çoğu geri sayım çalış.",
+        "Sadece çalışarak küçük sol sayaçlar ve ignoring büyük sağ duvar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 11 Rehberi ve Çözümü",
+    "description": "Block Out seviye 11'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

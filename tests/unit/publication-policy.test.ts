@@ -31,4 +31,19 @@ describe("publication policy", () => {
       ),
     ).toThrow(/deferred-field/);
   });
+
+  it("treats a standalone todo placeholder as deferred but not the Spanish word todos", () => {
+    expect(() =>
+      assertProductionArticle(
+        { id: "en-level-9", status: "published", summary: "todo" } as never,
+        "fixture",
+      ),
+    ).toThrow(/todo/);
+    expect(() =>
+      assertProductionArticle(
+        { id: "es-level-9", status: "published", summary: "todos los niveles" } as never,
+        "fixture",
+      ),
+    ).not.toThrow();
+  });
 });

@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-67",
+  "locale": "fr",
+  "levelNumber": 67,
+  "title": "Guide Block Out Niveau 67",
+  "summary": "Block Out Niveau 67 splits plateau dans supérieur et abaissez moitiés connected par labyrinthe channels, avec encadré keystone bloc (compteur '1') sitting dans le centre junction. supérieur half holds mix de vert, violet, jaune, bleu, et rouge blo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "Block Out Niveau 67 splits plateau dans supérieur et abaissez moitiés connected par labyrinthe channels, avec encadré keystone bloc (compteur '1') sitting dans le centre junction. supérieur half holds mix de vert, violet, jaune, bleu, et blocs rouge. abaissez half a trois haut blocs cyan avec compteurs '8', '3', et '3'. Remove keystone premier à connect les deux moitiés à travers labyrinthe, alors dégagez supérieur blocs colorés, et finally alimentez haut blocs cyan à travers channels à le bas sorties.",
+        "landmarks": [
+          "Block Out Niveau 67 splits plateau dans supérieur et abaissez moitiés connected par labyrinthe channels, avec encadré keystone bloc (compteur '1') sitting dans le centre junction.",
+          "Supérieur half holds mix de vert, violet, jaune, bleu, et blocs rouge.",
+          "Abaissez half a trois haut blocs cyan avec compteurs '8', '3', et '3'.",
+          "Remove keystone premier à connect les deux moitiés à travers labyrinthe, alors dégagez supérieur blocs colorés, et finally alimentez haut blocs cyan à travers channels à le bas sorties."
+        ],
+        "colors": ["green", "violet", "yellow", "blue", "red", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keystone bloc avec compteur '1' est cheapest déplacez sur plateau — always dégagez il premier.",
+        "Dégagez all supérieur blocs colorés avant routing haut blocs cyan à travers channels.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez encadré keystone bloc (compteur '1') dans le centre — il connects deux moitiés."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract le bloc vert de supérieur gauche à travers la sortie gauche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tirez bleu et blocs rouge à le haut à travers leur sorties."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Glissez violet/magenta block out une fois adjacent espace opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Acheminez premier haut bloc cyan (compteur '8') à travers labyrinthe channels à la sortie inférieure."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez restant deux blocs cyan (compteur '3' chaque) à travers channels."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring keystone bloc et essayant à déplacez supérieur blocs premier — moitiés stay isolated.",
+        "Routing haut bloc cyan avant supérieur section est dégagez, qui blocs channels pour everything else."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 67",
+    "description": "Résolvez le niveau 67 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

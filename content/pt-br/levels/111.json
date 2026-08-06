@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-111",
+  "locale": "pt-br",
+  "levelNumber": 111,
+  "title": "Guia do nível 111 do Block Out",
+  "summary": "Block Out Nível 111 empilha dois roxo-emoldurado câmaras que compartilhe único vertical solte pista através amarelo baixo-seta peça. direita-lateral combo coluna counts de 9 baixo para 0, tracking consecutive limpa. superior tabuleiro deve fino en...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/111/",
+        "layout": "Block Out Nível 111 empilha dois roxo-emoldurado câmaras que compartilhe único vertical solte pista através amarelo baixo-seta peça. direita-lateral combo coluna counts de 9 baixo para 0, tracking consecutive limpa. superior tabuleiro deve fino suficiente para vermelho L-peça para mova — otherwise ele blocos amarelo seta pista e inferior `14` contador nunca começa soltando.",
+        "landmarks": [
+          "Block Out Nível 111 empilha dois roxo-emoldurado câmaras que compartilhe único vertical solte pista através amarelo baixo-seta peça.",
+          "Direita-lateral combo coluna counts de 9 baixo para 0, tracking consecutive limpa.",
+          "Superior tabuleiro deve fino suficiente para vermelho L-peça para mova — otherwise ele blocos amarelo seta pista e inferior `14` contador nunca começa soltando."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNbjEKm4AoE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNbjEKm4AoE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Amarelo baixo-seta é um-caminho saída — do não estacione superior vermelho L-peça em ele.",
+        "Descasque esquerda roxo cruz-padrão bloco antes que alimentando inferior amarelo L-peça para a direita.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova superior laranja horizontal barra e esquerda roxo coluna em superior câmara para abra superior `2`/`3` fileira."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque centro azul aglomerado para baixo sem bloqueando amarelo baixo-seta peça."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque superior vermelho L-peça para a direita so amarelo seta pista permanece abra para inferior câmara."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Solte limpo superior peças através amarelo seta em inferior grade uma vez esquerda cruz-padrão bloco afina."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize inferior amarelo L-peça para a direita antes que alimentando azul verticals para fora através `15` lateral saída."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine restante inferior-tabuleiro peças e feche roxo inferior barra contador `14`."
+        }
+      ],
+      "failurePoints": [
+        "Parking superior vermelho L-peça em amarelo baixo-seta, que blocos inferior `14` alimente.",
+        "Movendo inferior amarelo L-peça antes que superior tabuleiro tem limpo ao redor seta pista."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/111/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 111 do Block Out",
+    "description": "Resolva o nível 111 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

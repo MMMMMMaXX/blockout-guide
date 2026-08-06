@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-143",
+  "locale": "tr",
+  "levelNumber": 143,
+  "title": "Block Out Seviye 143 Rehberi",
+  "summary": "Block Out Seviye 143 bir Dual-tahta feeder — üst placement ızgara boşaltır mor aşamadan sayaç daha düşük sarı-çerçeveli çerçeve whose merkezi numara ticks `17` aşağı doğrudır. Aşama sayaç kapılar speed: her mileston...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/143/",
+        "layout": "Block Out Seviye 143 bir Dual-tahta feeder — üst placement ızgara boşaltır mor aşamadan sayaç daha düşük sarı-çerçeveli çerçeve whose merkezi numara ticks `17` aşağı doğrudır. Aşama sayaç kapılar speed: her milestone kilidini açar sonraki batch parçalar için transfer. it sağ-yan bloklar önce sayaç reaches onun midpoint ve daha düşük çerçeve sıkışır ile parçalar arriving dışarı sıra.",
+        "landmarks": [
+          "Block Out Seviye 143 bir Dual-tahta feeder — üst placement ızgara boşaltır mor aşamadan sayaç daha düşük sarı-çerçeveli çerçeve whose merkezi numara ticks `17` aşağı doğrudır.",
+          "Aşama sayaç kapılar speed: her milestone kilidini açar sonraki batch parçalar için transfer.",
+          "It sağ-yan bloklar önce sayaç reaches onun midpoint ve daha düşük çerçeve sıkışır ile parçalar arriving dışarı sıra."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "fSHRe5b75Ic",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=fSHRe5b75Ic",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle orta 2/1 sök önce harcayarak sağ-ray 9 sayaç.",
+        "Izle aşama box — o meli ulaş 07 önce daha düşük 7 karo ebilir zeroed.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle üst kırmızı/yeşil sıra üst ızgarada kullanarak sol inventory mavi parçalar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Besle üst çıkışlar mor aşamadan box o cycles 01 → 04."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Harca sağ-ray 4/2/9 sayaçlar ile yönlendirerek bloklar aşağı sağ ok buttons."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kır orta 2/1 sök sonra daha düşük çerçeve düşer 17 7."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle kalan mavi kümeler üst ızgarada 07 aşama."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Yönlendir daha düşük-çerçeve artıklar yeşil aşağıdan-ok ve sağ-ok şeritler."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Zero daha düşük 7 karo ve temizle son üst artıklar için BLOW dışarı! bitir."
+        }
+      ],
+      "failurePoints": [
+        "Harcayarak sağ-ray 9 önce 2 karo temizlenir, engelleyerek daha düşük yeşil aşağı-ok.",
+        "Besleyerek üst ızgara önce aşama box reaches 04, wasting bloklar orta sökde."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/143/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 143 Rehberi ve Çözümü",
+    "description": "Block Out seviye 143'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

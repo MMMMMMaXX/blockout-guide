@@ -1,0 +1,91 @@
+{
+  "id": "es-level-62",
+  "locale": "es",
+  "levelNumber": 62,
+  "title": "Guía de Block Out Nivel 62",
+  "summary": "Block Out nivel 62 fills a 5×8 grid con smiley face bloques en the central (libre-sliding) y directional flecha bloques en el lados — azul izquierdo-flechas en the izquierdo, rojo derecho-flechas en the derecho. The smiley bloques puede movimiento libremente, pero the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "Block Out nivel 62 fills a 5×8 grid con smiley face bloques en the central (libre-sliding) y directional flecha bloques en el lados — azul izquierdo-flechas en the izquierdo, rojo derecho-flechas en the derecho. The smiley bloques puede movimiento libremente, pero la flecha bloques son constrained. Elimina the superior y inferior filas primero, luego work the central smiley bloques, y finish con la flecha lado bloques.",
+        "landmarks": [
+          "Block Out nivel 62 fills a 5×8 grid con smiley face bloques en the central (libre-sliding) y directional flecha bloques en el lados — azul izquierdo-flechas en the izquierdo, rojo derecho-flechas en the derecho.",
+          "The smiley bloques puede movimiento libremente, pero la flecha bloques son constrained.",
+          "Elimina the superior y inferior filas primero, luego work the central smiley bloques, y finish con la flecha lado bloques."
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The smiley bloques en the central son libre-sliding — use este freedom a despejado caminos para la flecha directional bloques.",
+        "Elimina the superior y inferior filas primero a give the central bloques room a movimiento.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the superior naranja smiley bloques por el salida superior a abierto la sección superior."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Elimina the inferior verde smiley bloques por el salida inferior a abierto la sección inferior."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza sliding the central smiley bloques libremente — ellos puede movimiento en cualquier direction."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the azul izquierdo-flecha bloques en the izquierdo por el salida izquierdo mientras the central opens."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Elimina the rojo derecho-flecha bloques en the derecho por el salida derecho."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con cualquier restante smiley bloques trapped en el esquinas."
+        }
+      ],
+      "failurePoints": [
+        "Elimina la flecha lado bloques antes the central smiley bloques have room — the central bloques get trapped.",
+        "Trying a despejado the central antes the superior y inferior filas son abierto, que jams el tablero."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 62",
+    "description": "Resuelve Block Out nivel 62 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

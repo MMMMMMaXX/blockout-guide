@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-54",
+  "locale": "fr",
+  "levelNumber": 54,
+  "title": "Guide Block Out Niveau 54",
+  "summary": "Block Out Niveau 54 est 'Hard Niveau' avec four violet boss chambres — compteurs '3' et '11' sur haut, '6' et '19' sur le bas. chambres sont packed tightly avec étroit gaps entre les. Dégagez petit blocs colorés entre chambre...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out Niveau 54 est 'Hard Niveau' avec four violet boss chambres — compteurs '3' et '11' sur haut, '6' et '19' sur le bas. chambres sont packed tightly avec étroit gaps entre les. Dégagez petit blocs colorés entre chambres premier, alors drainez le bas chambres avant tackling le haut ones. '19' chambre est heaviest — économisez il pour après surrounding chambres ont opened haut espace.",
+        "landmarks": [
+          "Block Out Niveau 54 est 'Hard Niveau' avec four violet boss chambres — compteurs '3' et '11' sur haut, '6' et '19' sur le bas.",
+          "Chambres sont packed tightly avec étroit gaps entre les.",
+          "Dégagez petit blocs colorés entre chambres premier, alors drainez le bas chambres avant tackling le haut ones.",
+          "'19' chambre est heaviest — économisez il pour après surrounding chambres ont opened haut espace."
+        ],
+        "colors": ["violet", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dégagez petit blocs colorés entre chambres premier — ils sont clé à opening sliding paths.",
+        "'19' chambre est marathon. Dégagez smaller chambres premier à build espace, alors chip loin à il.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez les blocs jaune sur le côté gauche à ouvrez gap entre le haut-gauche et bas-gauche chambres."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez rouge/blocs orange dans le centre à ouvrez gap entre la gauche et droite chambres."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez draining le bas-gauche chambre (compteur '6') par sliding son blocs hors à travers la sortie gauche."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Work le bas-droite chambre (compteur '19') — dégagez il gradually pendant le bas-gauche est aussi draining."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Déplacez à le haut-gauche chambre (compteur '3') — il est lightest et doit dégagez quickly."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec le haut-droite chambre (compteur '11'), qui a most salle après others sont drained."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Dégagez un restant blocs colorés piégé entre emptied chambres."
+        }
+      ],
+      "failurePoints": [
+        "Draining one chambre completely avant touching others — ce removes sliding murs et jams restant chambres.",
+        "Tackling '19' chambre premier quand surrounding espace est toujours packed — il needs salle à maneuver."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 54",
+    "description": "Résolvez le niveau 54 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

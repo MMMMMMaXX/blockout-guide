@@ -1,0 +1,98 @@
+{
+  "id": "de-level-11",
+  "locale": "de",
+  "levelNumber": 11,
+  "title": "Block Out Level 11 Lösung",
+  "summary": "Block Out Level 11 ist countdown-Wand Puzzle. Grind runter hoch rechts türkis Spalte erste, entfernen Mitte Blockierer spine in es, und aufsparen links pink und grün caps bis Wand ist in single digits.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "Block Out Level 11 ist countdown-Wand Puzzle. Grind runter hoch rechts türkis Spalte erste, entfernen Mitte Blockierer spine in es, und aufsparen links pink und grün caps bis Wand ist in single digits.",
+        "landmarks": [
+          "Block Out Level 11 ist countdown-Wand Puzzle.",
+          "Grind runter hoch rechts türkis Spalte erste, entfernen Mitte Blockierer spine in es, und aufsparen links pink und grün caps bis Wand ist in single digits.",
+          "Das Spielfeld mixes Pink, Grün, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["pink", "green", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rechts türkis Spalte ist main objective bei starten.",
+        "Pink und grün sind spät movers.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Verwenden obere schwarz-und-weiß Blöcke zu starten hitting rechts countdown Wand und bring `16` stapeln runter."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten feeding Mitte Blockierer spine rightward while Seite Zähler auf links also tick untere."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Lassen oben pink bar und beide grün bars geparkt bis rechte Wand hat fallen gelassen in single digits."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "When spine ist mostly gone, schieben oben grün bar in oben beenden und räumen obere Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Drehen untere grün bar über floor once schwarz base hat geöffnet."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Aufsparen pink bar für spät cleanup nach grün Bauteile haben bereits links."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte schwarz und weiß leftovers when countdown Wand ist fast empty."
+        }
+      ],
+      "failurePoints": [
+        "Moving pink cap bevor Mitte spine hat done meisten von countdown arbeiten.",
+        "Nur working small links Zähler und ignoring big rechte Wand."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 11 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 11 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

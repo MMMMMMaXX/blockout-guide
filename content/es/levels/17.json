@@ -1,0 +1,98 @@
+{
+  "id": "es-level-17",
+  "locale": "es",
+  "levelNumber": 17,
+  "title": "Guía de Block Out Nivel 17",
+  "summary": "El nivel 17 de Block Out es un tablero numérico con bisagra y marco. Recorta primero el techo amarillo, desbloquea en segundo lugar el marco central verde y solo entonces aplana las anchas láminas cian marcadas con `19`, `18` y `16`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/17/",
+        "layout": "El nivel 17 de Block Out es un tablero numérico con bisagra y marco. Recorta primero el techo amarillo, desbloquea en segundo lugar el marco central verde y solo entonces aplana las anchas láminas cian marcadas con `19`, `18` y `16`.",
+        "landmarks": [
+          "El nivel 17 de Block Out es un tablero numérico con bisagra y marco.",
+          "Recorta primero el techo amarillo, desbloquea en segundo lugar el marco central verde y solo entonces aplana las anchas láminas cian marcadas con `19`, `18` y `16`.",
+          "El tablero combina amarillo, verde, cian y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["yellow", "green", "cyan", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "GC3vxR36Zeg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=GC3vxR36Zeg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El techo amarillo afloja la bisagra.",
+        "Las grandes láminas cian se mueven después del marco central, no antes.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Raspa la fila amarilla superior y el carril lateral superior derecho para que el contador `16` empiece a bajar."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Mantén bloqueado el marco verde central hasta que los contadores superiores hayan perdido suficiente peso."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Gira las barras laterales roja y azul hacia el centro una vez abierto el carril superior."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Usa ese nuevo espacio para liberar el cuadrado verde enmarcado y evita que siga comprimiendo las láminas cian inferiores."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Aplana las láminas cian `19` y `18` de abajo hacia arriba."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Limpia las últimas piezas laterales rosa y azul después de que haya desaparecido el marco central."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina el contador del suelo inferior una vez que la amplia capa cian se haya separado por completo."
+        }
+      ],
+      "failurePoints": [
+        "Intentar mover la bisagra verde antes de que el techo amarillo pese menos.",
+        "Tratar la alfombra cian inferior como el rompecabezas de apertura."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/17/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 17",
+    "description": "Resuelve el nivel 17 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-35",
+  "locale": "pt-br",
+  "levelNumber": 35,
+  "title": "Guia do nível 35 do Block Out",
+  "summary": "Block Out Nível 35 é dispositivo-saída quebra-cabeça em principalmente vazio espaço. roxo `8` dispositivo em esquerda e verde `7` dispositivo em direita rastreie saída tráfego, e ordem você roteie peças através vermelho direita saída e azul inferior saída det...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/35/",
+        "layout": "Block Out Nível 35 é dispositivo-saída quebra-cabeça em principalmente vazio espaço. roxo `8` dispositivo em esquerda e verde `7` dispositivo em direita rastreie saída tráfego, e ordem você roteie peças através vermelho direita saída e azul inferior saída determines what blocos spawn próximo. espaço começa sparse mas preenche cima rápido se saídas são used em errado sequência — mantenha um pista abra em tudo vezes para próximo spawn.",
+        "landmarks": [
+          "Block Out Nível 35 é dispositivo-saída quebra-cabeça em principalmente vazio espaço.",
+          "Roxo `8` dispositivo em esquerda e verde `7` dispositivo em direita rastreie saída tráfego, e ordem você roteie peças através vermelho direita saída e azul inferior saída determines what blocos spawn próximo.",
+          "Espaço começa sparse mas preenche cima rápido se saídas são used em errado sequência — mantenha um pista abra em tudo vezes para próximo spawn."
+        ],
+        "colors": ["red", "yellow", "purple", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BycP8zMexog",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BycP8zMexog",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Espaço looks fácil porque ele começa principalmente vazio, mas cada saída spawns novo bloco — mantenha um pista livre.",
+        "Service verde `7` dispositivo em direita primeiro, então roxo `8` em esquerda.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize vermelho L-shaped bloco em direção a direita parede saída para service verde `7` dispositivo primeiro."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mova amarelo barra em direção a inferior azul saída depois vermelho bloco tem limpo."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use escuro centro bloco como spacer para mantenha spawned follow-cima peças de bloqueando saídas."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Service roxo `8` dispositivo em esquerda por routing próximo spawned peça através seu saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Continue alternating entre direita e inferior saídas como novo peças spawn."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Mantenha um pista livre em tudo vezes — cadeado-cima risk é visível em 00:52 em vídeo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último colorido peça depois ambos dispositivo contadores são em zero e no mais blocos spawn."
+        }
+      ],
+      "failurePoints": [
+        "Usando inferior azul saída antes que direita vermelho saída é serviced, que produces errado follow-cima peça e disrupts dispositivo sequência.",
+        "Deixando spawned blocos preencha último abra pista — uma vez espaço é cheio, there é no recuperação mova."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/35/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 35 do Block Out",
+    "description": "Resolva o nível 35 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

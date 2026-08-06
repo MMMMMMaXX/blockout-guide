@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-122",
+  "locale": "fr",
+  "levelNumber": 122,
+  "title": "Guide Block Out Niveau 122",
+  "summary": "Block Out Niveau 122 est head-shaped plateau — large à crown, étroit à tige — avec `60` crown portes et poche objectives scattered à travers face. rose `29` crown paire à le bas centre et côté compteur tuiles sont real...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "Block Out Niveau 122 est head-shaped plateau — large à crown, étroit à tige — avec `60` crown portes et poche objectives scattered à travers face. rose `29` crown paire à le bas centre et côté compteur tuiles sont real draining objectives. abaissez tige est donc étroit que one misplaced vertical pièce de supérieur face peut sceau seulement sortie voie.",
+        "landmarks": [
+          "Block Out Niveau 122 est head-shaped plateau — large à crown, étroit à tige — avec `60` crown portes et poche objectives scattered à travers face.",
+          "Rose `29` crown paire à le bas centre et côté compteur tuiles sont real draining objectives.",
+          "Abaissez tige est donc étroit que one misplaced vertical pièce de supérieur face peut sceau seulement sortie voie."
+        ],
+        "colors": ["red", "blue", "cyan", "orange", "green", "pink", "yellow", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez vert crown `60` avant rouge crown `60` à gardez base amas ouvrez.",
+        "Dégagez les deux cyan `10` compteurs avant detonating rose `29` crown paire.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez le haut rangée rouge et supérieur gauche blocs cyan sans touching le bas crown `60` gap."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez côté `17` compteur poches sur les deux ears dans alterné passes à gardez cadre équilibrées."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Cassez vert crown `60` tuile premier, alors rouge crown `60` tuile au-dessus jaune/rose/bleu base."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dépensez cyan `8` tuile et les deux cyan `10` côté compteurs avant supérieur body re-sceaux."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Detonate rose `29` crown paire à le bas centre une fois abaissez `11` compteurs sont gone."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez isolated rose vertical bloc et le bas cyan `4` paire à travers étroit tige pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Breaking rouge crown `60` avant vert crown `60` — ce boxes jaune/rose/bleu base amas.",
+        "Detonating rose `29` paire avant cyan `10` tuiles dégagez, trapping isolated bloc rose dans tige."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 122",
+    "description": "Résolvez le niveau 122 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

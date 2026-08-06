@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-150",
+  "locale": "ja",
+  "levelNumber": 150,
+  "title": "ブロックアウト レベル150 攻略",
+  "summary": "ブロックアウト レベル150は、コンパクトな4列のマッチ盤面でこのセットを締めくくります—スーパーハードの試練の後では見かけより簡単です。二重の「6」固定タイルと左レールの「3」グループカウンターが唯一の目標です。右端の緑の右矢印押し出し機が行全体を水平にスライドさせ…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/150/",
+        "layout": "ブロックアウト レベル150は、コンパクトな4列のマッチ盤面でこのセットを締めくくります—スーパーハードの試練の後では見かけより簡単です。二重の「6」固定タイルと左レールの「3」グループカウンターが唯一の目標です。右端の緑の右矢印押し出し機が行全体を水平にスライドさせ、これをいつものブロック抽出ではなく行スライドのゲームに変えます。",
+        "landmarks": [
+          "ブロックアウト レベル 150 配置する 4-列 揃える —、.。",
+          "`6` アンカー タイル、を残して-レール `3` グループ カウンター 目的.。",
+          "緑 右-矢印 右端 スライドさせる、スライドさせ- ブロック .。"
+        ],
+        "colors": ["blue", "red", "yellow", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mMIsmNrntpQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mMIsmNrntpQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を割りて上 青 6、開始 中央-右 隙間 .。",
+        "手順 下 青 1×2、緑 6 タイル .。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑 右-矢印 スライドさせる 上の-右 緑 1×2 左へ、揃い 上 赤/黄 ペア ずらし 青 6.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して上 青 6 タイル 揃い 青 列、上段 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を使いて緑 右-矢印 開く 中央-右 隙間、帯 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を揃えて中央の 赤/赤/黄 帯 上の 左-レール 3 カウンター 下.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を割りて下-左 緑 6 タイル スライドさせ 下の 青 1×2 青/赤 ペア.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して下 赤/黄/赤 帯 使う 下の 左-レール 3 カウンター.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "右-矢印 排出する 最後の黄 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "をスライドさせて下 青 1×2、緑 6、赤 ペア 右-矢印 レーン.。",
+        "上 青 6、上の 帯、3 カウンター.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/150/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル150 攻略と解説",
+    "description": "ブロックアウト レベル150 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

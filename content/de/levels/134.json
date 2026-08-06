@@ -1,0 +1,98 @@
+{
+  "id": "de-level-134",
+  "locale": "de",
+  "levelNumber": 134,
+  "title": "Block Out Level 134 Lösung",
+  "summary": "Block Out Level 134 ist schwer vertikal Spielfeld embedding orange keys, blau verklemmt, und wrench tools direkt in Block field alongside lila `12` towers und oben `15` entfernen. Padlocked türkis Kachel guards main Ausgangs-Bahn, und ke...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/134/",
+        "layout": "Block Out Level 134 ist schwer vertikal Spielfeld embedding orange keys, blau verklemmt, und wrench tools direkt in Block field alongside lila `12` towers und oben `15` entfernen. Padlocked türkis Kachel guards main Ausgangs-Bahn, und key und verklemmen sitzen auf opposite sides — mittlere türkis bar muss verschieben links bevor key kann reach verklemmen, oder links-Pfeil Bahn seals.",
+        "landmarks": [
+          "Block Out Level 134 ist schwer vertikal Spielfeld embedding orange keys, blau verklemmt, und wrench tools direkt in Block field alongside lila `12` towers und oben `15` entfernen.",
+          "Padlocked türkis Kachel guards main Ausgangs-Bahn, und key und verklemmen sitzen auf opposite sides — mittlere türkis bar muss verschieben links bevor key kann reach verklemmen, oder links-Pfeil Bahn seals.",
+          "Das Spielfeld mixes Lila, Blau, Türkis und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["purple", "blue", "cyan", "red", "pink", "yellow", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72iQQbHvR1s",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72iQQbHvR1s",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen blau 7 pocket bevor touching verklemmt türkis Kachel in unten cluster.",
+        "Abgleichen key zu verklemmen bevor verwendend wrench tools auf lila L-base.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Break oben 15 entfernen und three lila 12 towers ohne touching verklemmt türkis Kachel in unten cluster."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen untere linke blau 7 pocket zu expose unten 9 und 4 Zähler."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Abgleichen orange key auf links-Mitte band zu blau verklemmen auf rechts-Mitte."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden orange wrench tools auf links und rechts flanks zu freigeben lila L-base Blöcke."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben mittlere türkis/light-blau bar durch links-Pfeil Bahn once key-verklemmen pair räumt."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen remaining rot und pink scraps runter rot und blau unten nach unten Pfeile."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen letzte lila base Blöcke für schwer Level Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Detonating bomb Kachel neben verklemmt türkis Block bevor 7 pocket räumt, sealing 9/4 Ausgang.",
+        "Moving lila L-base bevor key-verklemmen pair räumt, re-blocking unten nach unten Pfeile."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/134/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 134 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 134 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

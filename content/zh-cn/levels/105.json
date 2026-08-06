@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-105",
+  "locale": "zh-cn",
+  "levelNumber": 105,
+  "title": "Block Out 第105关攻略",
+  "summary": "Block Out 第105关把多连方块砖围绕一个发光的紫色 2×2 正方形包裹起来，并只给你一次突破机会——右侧墙上的一根红色拆除条。把这根条用错簇上，紫色正方形就会永远被困住。解法是打包抽取：先清空顶部计数块和黄色 2×2，再把红色条对准上方红色簇以打开出口路径。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "Block Out 第105关把多连方块砖围绕一个发光的紫色 2×2 正方形包裹起来，并只给你一次突破机会——右侧墙上的一根红色拆除条。把这根条用错簇上，紫色正方形就会永远被困住。解法是打包抽取：先清空顶部计数块和黄色 2×2，再把红色条对准上方红色簇以打开出口路径。",
+        "landmarks": [
+          "Block Out 第105关把多连方块砖围绕一个发光的紫色 2×2 正方形包裹起来，并只给你一次突破机会——右侧墙上的一根红色拆除条。",
+          "把这根条用错簇上，紫色正方形就会永远被困住。",
+          "解法是打包抽取：先清空顶部计数块和黄色 2×2，再把红色条对准上方红色簇以打开出口路径。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "开局就发射红色拆除条——它只能用一次。",
+        "在试图让紫色「1」正方形出口前，先把黄色 2×2 移开。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "在其他任何移动之前，触发右侧红色墙条以打破上方红色簇。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧紫色 L 形块向上滑动，在中心黄色 2×2 周围腾出空间。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将右侧的绿色 L 形块向下移动，让紫色「1」正方形有畅通的底部通道。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将黄色 2×2 经顶部出口移出，解除紫色「1」正方形的包裹。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将紫色「1」正方形经底部出口送出，满足顶部计数。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "清空剩余的蓝色横条和粉色簇，关闭顶部「2」计数。"
+        }
+      ],
+      "failurePoints": [
+        "把红色拆除条用在底部粉色簇而非上方红色簇上。",
+        "在旁边的黄色 2×2 清空之前就试图滑动紫色「1」正方形。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第105关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第105关。"
+  },
+  "updatedAt": "2026-08-03"
+}

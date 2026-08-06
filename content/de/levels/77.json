@@ -1,0 +1,93 @@
+{
+  "id": "de-level-77",
+  "locale": "de",
+  "levelNumber": 77,
+  "title": "Block Out Level 77 Lösung",
+  "summary": "Block Out Level 77 packs 5×7 Raster mit orange '12' Block auf links, blau '2' Block auf rechts, und gerichtet Pfeil-Blöcke auf edges. Orange '12' needs 12 exits — räumen unten erste, dann arbeiten numbered Blöcke,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/77/",
+        "layout": "Block Out Level 77 packs 5×7 Raster mit orange '12' Block auf links, blau '2' Block auf rechts, und gerichtet Pfeil-Blöcke auf edges. Orange '12' needs 12 exits — räumen unten erste, dann arbeiten numbered Blöcke, und beenden mit heavy '12' Block.",
+        "landmarks": [
+          "Block Out Level 77 packs 5×7 Raster mit orange '12' Block auf links, blau '2' Block auf rechts, und gerichtet Pfeil-Blöcke auf edges.",
+          "Orange '12' needs 12 exits — räumen unten erste, dann arbeiten numbered Blöcke, und beenden mit heavy '12' Block.",
+          "Das Spielfeld mixes Orange, Blau, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["orange", "blue", "red", "green", "purple", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JNbWl2gHe14",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JNbWl2gHe14",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'12' Block ist marathon — räumen lighter '2' Block erste zu build Platz.",
+        "Räumen unten erste zu give numbered Blöcke sliding Raum.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen lila und blau Blöcke bei unten durch unten Ausgang zu öffnen base."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben grün Blöcke auf links hinaus durch links Ausgang zu öffnen untere linke Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin räumend blau '2' Block auf rechts durch rechts Ausgang — es ist lighter Ziel."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Arbeiten orange '12' Block auf links durch links Ausgang als mittlere öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen rot Blöcke auf oben durch rechts Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining Blöcke eingesperrt in corners."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu räumen '12' Block bevor '2' Block — '12' Block needs Raum zu schieben und Ausgang multiple times.",
+        "Räumend oben bevor unten, welche lässt untere Blöcke eingesperrt mit kein sliding Raum."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/77/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 77 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 77 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

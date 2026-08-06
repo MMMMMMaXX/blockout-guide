@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-11",
+  "locale": "pt-br",
+  "levelNumber": 11,
+  "title": "Guia do nível 11 do Block Out",
+  "summary": "Block Out Nível 11 é countdown-parede quebra-cabeça. Grind baixo alto direita ciano coluna primeiro, remova centro bloqueador coluna em ele, e salve esquerda rosa e verde caps até parede é em único digits.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/11/",
+        "layout": "Block Out Nível 11 é countdown-parede quebra-cabeça. Grind baixo alto direita ciano coluna primeiro, remova centro bloqueador coluna em ele, e salve esquerda rosa e verde caps até parede é em único digits.",
+        "landmarks": [
+          "Block Out Nível 11 é countdown-parede quebra-cabeça.",
+          "Grind baixo alto direita ciano coluna primeiro, remova centro bloqueador coluna em ele, e salve esquerda rosa e verde caps até parede é em único digits.",
+          "Tabuleiro mistura Rosa, Verde, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["pink", "green", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "g30F53dq-h4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=g30F53dq-h4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Direita ciano coluna é principal objetivo em comece.",
+        "Rosa e verde são tarde movers.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Use superior preto-e-branco blocos para comece hitting direita countdown parede e bring `16` empilhe baixo."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mantenha alimentando centro bloqueador coluna para a direita enquanto lateral contadores em esquerda também tick inferior."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deixe superior rosa barra e ambos verde barras estacionado até direita parede tem dropped em único digits."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quando coluna é principalmente indo, deslize superior verde barra em superior termine e limpar superior pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gire inferior verde barra através chão uma vez preto base tem aberto."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Salve rosa barra para tarde limpeza depois verde peças tem já esquerda."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último preto e branco leftovers quando countdown parede é quase vazio."
+        }
+      ],
+      "failurePoints": [
+        "Movendo rosa tampa antes que centro coluna tem feito mais de countdown funciona.",
+        "Único working pequeno esquerda contadores e ignorando grande direita parede."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/11/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 11 do Block Out",
+    "description": "Resolva o nível 11 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

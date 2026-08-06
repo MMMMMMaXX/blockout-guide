@@ -1,0 +1,91 @@
+{
+  "id": "de-level-102",
+  "locale": "de",
+  "levelNumber": 102,
+  "title": "Block Out Level 102 Lösung",
+  "summary": "Block Out Level 102 flips usual formula — stattdessen von sliding Blöcke hinaus, du're placing sie in. Empty main Raster sitzt über unten inventory von L-shapes und 2×2 clusters, und Schritt Zähler tracks jede transfer. Puzzle ist...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out Level 102 flips usual formula — stattdessen von sliding Blöcke hinaus, du're placing sie in. Empty main Raster sitzt über unten inventory von L-shapes und 2×2 clusters, und Schritt Zähler tracks jede transfer. Puzzle ist spatial: fitting jede Bauteil cleanly ohne blocking mittlere Spalte, where one misplaced grün `1` Kachel kann seal das Spielfeld.",
+        "landmarks": [
+          "Block Out Level 102 flips usual formula — stattdessen von sliding Blöcke hinaus, du're placing sie in.",
+          "Empty main Raster sitzt über unten inventory von L-shapes und 2×2 clusters, und Schritt Zähler tracks jede transfer.",
+          "Puzzle ist spatial: fitting jede Bauteil cleanly ohne blocking mittlere Spalte, where one misplaced grün `1` Kachel kann seal das Spielfeld."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Behalten Mitte Spalte empty bis highlighted grün `1` Bauteil ist placed.",
+        "Anschauen Schritt Zähler — du sollte reach Schritt 6 bevor untere half ist fully packed.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Fallen lassen erste unten-tray cluster in obere linke von main frame zu öffnen run (Schritt 1)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Platz nächste two clusters along oben Reihe also Mitte Spalte stays empty."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Bewegen highlighted grün `1` Bauteil durch öffnen Mitte Spalte bevor filling untere half."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Transfer mittlere-run L-shapes in links und rechts untere corners also sie tu nicht überqueren Mitte Bahn."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Platz remaining türkis und lila pairs along unten Reihe von main frame."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen letzte two-Block zusammenfassen von unten tray zu beenden Schritt-11 completion."
+        }
+      ],
+      "failurePoints": [
+        "Filling Mitte Spalte bevor grün `1` Bauteil ist placed — highlighted Bauteil dann hat kein nach unten Pfad.",
+        "Dropping spät L-shapes in mittlere von Raster stattdessen von untere corners, welche Blöcke endgültig placements."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 102 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 102 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

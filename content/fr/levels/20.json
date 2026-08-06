@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-20",
+  "locale": "fr",
+  "levelNumber": 20,
+  "title": "Guide Block Out Niveau 20",
+  "summary": "Block Out Niveau 20 est deux-salle boss énigme centered sur énorme violet `5` bloc. Prepare abaissez salle, gardez vert tige libérez, reduce cadre compteurs autour boss, et seulement alors laissez supérieur chambre resolve.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "Block Out Niveau 20 est deux-salle boss énigme centered sur énorme violet `5` bloc. Prepare abaissez salle, gardez vert tige libérez, reduce cadre compteurs autour boss, et seulement alors laissez supérieur chambre resolve.",
+        "landmarks": [
+          "Block Out Niveau 20 est deux-salle boss énigme centered sur énorme violet `5` bloc.",
+          "Prepare abaissez salle, gardez vert tige libérez, reduce cadre compteurs autour boss, et seulement alors laissez supérieur chambre resolve.",
+          "Le plateau mélange violet, vert et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Protect vert tige.",
+        "Abaissez salle est support work pour supérieur boss.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez espace autour jaune porte inférieure dans abaissez salle donc premier compteurs commencez à tombe."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Tournez rouge et bleu abaissez-salle blocs sans pinning central vert tige."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez violet `5` garé dans supérieur chambre pendant le haut cadre compteurs laissez tomber."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez abaissez salle à gardez feeding sides de supérieur chambre jusqu'à boss cadre est almost ouvrez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Libérez vert tige seulement après abaissez salle a assez videz espace à absorb suivant coups."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Laissez supérieur chambre terminez une fois violet `5` bloc est non longer verrouillé par cadre."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Fin avec dernier abaissez-salle couleurs après boss bloc a déjà cleared."
+        }
+      ],
+      "failurePoints": [
+        "Blocking vert connector avec abaissez-salle couleur bloc.",
+        "Essayant à déplacez violet `5` pendant cadre compteurs sont toujours high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 20",
+    "description": "Résolvez le niveau 20 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

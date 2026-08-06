@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-22",
+  "locale": "pt-br",
+  "levelNumber": 22,
+  "title": "Guia do nível 22 do Block Out",
+  "summary": "Block Out Nível 22 é único gigante chefe-espaço quebra-cabeça ao redor roxo `17` painel. Dismantle checker teto primeiro, deixe enorme chefe painel comece caindo segundo, e limpo cima tarde azul e rosa peças único depois tampa é indo.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/22/",
+        "layout": "Block Out Nível 22 é único gigante chefe-espaço quebra-cabeça ao redor roxo `17` painel. Dismantle checker teto primeiro, deixe enorme chefe painel comece caindo segundo, e limpo cima tarde azul e rosa peças único depois tampa é indo.",
+        "landmarks": [
+          "Block Out Nível 22 é único gigante chefe-espaço quebra-cabeça ao redor roxo `17` painel.",
+          "Dismantle checker teto primeiro, deixe enorme chefe painel comece caindo segundo, e limpo cima tarde azul e rosa peças único depois tampa é indo.",
+          "Tabuleiro mistura Roxo, Preto, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "black", "white", "red", "blue", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NYVd_MgWuJM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NYVd_MgWuJM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Teto matters mais do que chefe em comece.",
+        "Direita vermelho remova é parte de teto limpeza, não cedo finisher.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova superior checker teto de esquerda para direita so superior bloqueadores stop vedando câmara."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mova direita vermelho remova único depois circundante preto blocos tem shifted."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha `17` painel estacionado enquanto lateral contadores e teto continue encolhendo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Uma vez teto é fino suficiente, comece escoando `17` chefe painel."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use newly aberto superior pista para bring para fora tarde azul e rosa peças."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Flatten restante ciano colunas depois chefe value é much inferior."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine espaço uma vez chefe painel tem totalmente collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Working `17` painel antes que teto tem aberto.",
+        "Deixando direita vermelho remova enterrado em teto quando preto blocos ainda precisa para mova."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/22/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 22 do Block Out",
+    "description": "Resolva o nível 22 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-55",
+  "locale": "zh-cn",
+  "levelNumber": 55,
+  "title": "Block Out 第 55 关通关攻略",
+  "summary": "Block Out 第 55 关在棋盘底部锁着一条计数 `7` 的宽紫色 Boss 长条，上方区域塞着一块大型绿色 2×2 方块、四块高大的青色方块（各计数 `4`），以及各色红、蓝、黄方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out 第 55 关在棋盘底部锁着一条计数 `7` 的宽紫色 Boss 长条，上方区域塞着一块大型绿色 2×2 方块、四块高大的青色方块（各计数 `4`），以及各色红、蓝、黄方块。清空每一个上方方块以将 Boss 长条计数降为零，随后对长条坍塌后显露的隐藏层——高大的黄、橙、绿方块——进行分类。",
+        "landmarks": [
+          "Block Out 第 55 关在棋盘底部锁着一条计数 `7` 的宽紫色 Boss 长条，上方区域塞着一块大型绿色 2×2 方块、四块高大的青色方块（各计数 `4`），以及各色红、蓝、黄方块。",
+          "清空每一个上方方块以将 Boss 长条计数降为零，随后对长条坍塌后显露的隐藏层——高大的黄、橙、绿方块——进行分类。",
+          "棋盘混合了绿色、青色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "尽早处理四块青色 `4` 方块——它们总共需要经过右侧出口 16 次。",
+        "在紫色 Boss 长条完全消失前，不要碰显露出来的黄/橙层。",
+        "绿色 2×2 方块离场后，保持左侧通道畅通——第二波会用到它。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将左上角附近的小红方块向下滑，再把大型绿色 2×2 方块经左侧出口推出，打开左通道（视频 02:55–02:50）。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用绿色方块留下的空隙，将蓝色方块经左侧出口送出。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "开始将四块青色 `4` 方块经右侧出口送入——从最左侧青色方块开始，并为全部 16 次通过保持右通道畅通（02:50–02:39）。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "将残余黄色与小号红色方块经最近的出口清除——每块使 Boss 计数减一（02:39 时计数为 `3`）。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "计数归零（约 02:29）后，紫色 Boss 长条坍塌，露出下方高大的黄、橙、绿方块。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "先将显露的黄色高大方块滑向左侧出口，因为它挡住了后面的橙色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "将橙色高大方块经右侧出口送出，最后将残余绿色方块经底部出口完成（02:19–02:03）。"
+        }
+      ],
+      "failurePoints": [
+        "在 Boss 长条完全坍塌前移动显露的黄或橙方块——方块会卡在长条上，堵死出口通道且无法挽回。",
+        "把青色 `4` 方块从左侧出口而非右侧送入——这会堵塞绿色 2×2 方块所需的通道，使 Boss 倒计时停滞。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 55 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 55 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

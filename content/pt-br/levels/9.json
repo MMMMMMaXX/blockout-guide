@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-9",
+  "locale": "pt-br",
+  "levelNumber": 9,
+  "title": "Guia do nível 9 do Block Out",
+  "summary": "Block Out Nível 9 é twin-torre quebra-cabeça com apertado meio notch. Limpar direita amarelo saída primeiro, dê azul centro cavity, então gire verde, rosa, e vermelho no sentido horário ao redor moldura.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "Block Out Nível 9 é twin-torre quebra-cabeça com apertado meio notch. Limpar direita amarelo saída primeiro, dê azul centro cavity, então gire verde, rosa, e vermelho no sentido horário ao redor moldura.",
+        "landmarks": [
+          "Block Out Nível 9 é twin-torre quebra-cabeça com apertado meio notch.",
+          "Limpar direita amarelo saída primeiro, dê azul centro cavity, então gire verde, rosa, e vermelho no sentido horário ao redor moldura.",
+          "Tabuleiro mistura Rosa, Vermelho, Amarelo e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use direita amarelo saída para quebre symmetry.",
+        "Centro azul bloco should mova como soon como notch abre.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize mid-direita amarelo block out através amarelo saída em direita parede."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mova centro azul bloco em novo abertura so meio notch é no mais longo blocked."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gire inferior-direita verde bloco para baixo e então puxe inferior-esquerda azul bloco em seu próprio pista."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use liberado centro para shuffle rosa blocos através superior e meio fileiras enquanto borda contadores encolha."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe inferior vermelho bloco settle em centro uma vez verde e azul são no mais longo crossing ele."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Salve dois superior-canto vermelho blocos até superior pistas são limpar."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por sending vermelho par através superior saídas e deixando final azul bloco escoe através último azul termine."
+        }
+      ],
+      "failurePoints": [
+        "Deixando centro azul bloco estacionado depois direita amarelo saída é já abra.",
+        "Tentando para force um de superior vermelho blocos antes que inferior verde e azul peças tem rotated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 9 do Block Out",
+    "description": "Resolva o nível 9 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

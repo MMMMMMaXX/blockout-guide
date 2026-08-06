@@ -1,0 +1,95 @@
+{
+  "id": "ja-level-24",
+  "locale": "ja",
+  "levelNumber": 24,
+  "title": "ブロックアウト レベル24 攻略",
+  "summary": "ブロックアウト レベル24は、2つの枠付き「12」パネルを持つ共有通路の二重ボス盤面です。まず右の柱の梯子を細くし、次に中央の縦穴を開き、下部のボスが続く前に上部のボスを落下させます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "ブロックアウト レベル24は、2つの枠付き「12」パネルを持つ共有通路の二重ボス盤面です。まず右の柱の梯子を細くし、次に中央の縦穴を開き、下部のボスが続く前に上部のボスを落下させます。",
+        "landmarks": [
+          "ブロックアウト レベル 24 -通路 -ボス `12` パネル.。",
+          "右 柱 はしご、を開きて中央の 縦穴、出す 上の ボス 落ちる、下の .。",
+          "混ぜる 紫、赤、白、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "縦穴を開きて、動かし ボス.。",
+        "上の `12`、下の `12`.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "右のはしご 黒、赤、白、ボス.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を開きて中央の 縦穴 上 `12` パネル、ボス 止める 通路.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を下げて上の `12` パネル、右端 混雑した.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて解放し 縦穴 下の `12` パネル .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を維持して赤の上段の出口、縦穴 開き.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を排出して側 カウンター、ボス .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて右-列、`12` パネル .。"
+        }
+      ],
+      "failurePoints": ["手順 ボス 縦穴 塞ぎ.。", "上段の赤の出口、右 通路 .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル24 攻略と解説",
+    "description": "ブロックアウト レベル24 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ko-level-3",
+  "locale": "ko",
+  "levelNumber": 3,
+  "title": "블록 아웃 레벨 3 공략",
+  "summary": "블록 아웃 레벨 3은 짧은 연쇄 반응 퍼즐입니다. 먼저 가운데 빨간색 블록을 떨어뜨리고, 녹색 모서리를 왼쪽으로 보낸 뒤, 아래쪽 파란색 블록을 제거하고, 남은 빨간색과 노란색 블록을 하단 출구에서 마무리하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "블록 아웃 레벨 3은 짧은 연쇄 반응 퍼즐입니다. 먼저 가운데 빨간색 블록을 떨어뜨리고, 녹색 모서리를 왼쪽으로 보낸 뒤, 아래쪽 파란색 블록을 제거하고, 남은 빨간색과 노란색 블록을 하단 출구에서 마무리하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 3은 짧은 연쇄 반응 퍼즐입니다.",
+          "먼저 가운데 빨간색 블록을 떨어뜨리고, 녹색 모서리를 왼쪽으로 보내며, 아래쪽 파란색 블록을 꺼낸 다음, 남은 빨간색과 노란색 블록을 하단 출구로 마무리하세요.",
+          "보드는 초록색, 노란색, 빨간색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "가운데 빨간색 출구를 방아쇠로 사용하세요.",
+        "녹색과 아래쪽 파란색 블록은 마지막 노란색보다 먼저 빠져나갑니다.",
+        "보드가 막힌 듯하면 가장 깨끗한 경로를 가진 색상을 찾아 공간을 확보하세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "가운데 빨간색 블록을 빨간색 하단 출구로 곧바로 아래로 밀어내리세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "왼쪽 위 녹색 블록을 아래로 내려 녹색 왼쪽 출구로 빼세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "아래쪽 파란색 블록을 파란색 왼쪽 아래 출구로 떨어뜨리세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "가운데 노란색 블록을 방금 열린 가운데 차선으로 내리세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "가운데 차선이 비면 오른쪽 위 빨간색 블록을 빨간색 출구로 아래로 보내세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "마지막 노란색 블록을 오른쪽 아래 노란색 출구에서 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "가운데 빨간색이 나가기 전에 오른쪽 위 빨간색 블록을 억지로 아래로 밀어내려 하는 것.",
+        "녹색 측면 출구를 무시하고 보드를 아래쪽 전용 퍼즐처럼 다루는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 3 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 3을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

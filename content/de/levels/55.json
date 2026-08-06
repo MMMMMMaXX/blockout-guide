@@ -1,0 +1,98 @@
+{
+  "id": "de-level-55",
+  "locale": "de",
+  "levelNumber": 55,
+  "title": "Block Out Level 55 Lösung",
+  "summary": "Block Out Level 55 verklemmt wide lila Boss bar mit Zähler `7` über unten von das Spielfeld while packing obere zone mit large grün 2×2 Block, four hoch türkis Blöcke (jede Zähler `4`), und assorted rot, blau, und gelb Bauteil...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/55/",
+        "layout": "Block Out Level 55 verklemmt wide lila Boss bar mit Zähler `7` über unten von das Spielfeld while packing obere zone mit large grün 2×2 Block, four hoch türkis Blöcke (jede Zähler `4`), und assorted rot, blau, und gelb Bauteile. Räumen jede obere Block zu count Boss bar runter zu zero, dann sort hidden layer von hoch gelb, orange, und grün Blöcke dass appears nach bar collapses.",
+        "landmarks": [
+          "Block Out Level 55 verklemmt wide lila Boss bar mit Zähler `7` über unten von das Spielfeld while packing obere zone mit large grün 2×2 Block, four hoch türkis Blöcke (jede Zähler `4`), und assorted rot, blau, und gelb Bauteile.",
+          "Räumen jede obere Block zu count Boss bar runter zu zero, dann sort hidden layer von hoch gelb, orange, und grün Blöcke dass appears nach bar collapses.",
+          "Das Spielfeld mixes Grün, Türkis, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["green", "cyan", "red", "blue", "yellow", "orange", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "IzvJ-SxgkZg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=IzvJ-SxgkZg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Starten four türkis `4` Blöcke früh — sie consume 16 total passes durch rechts-Wand Ausgang.",
+        "Tu nicht touch revealed gelb/orange layer bis lila Boss bar hat fully disappeared.",
+        "Behalten linke Bahn öffnen nach grün 2×2 Block exits — du wird need es für second wave."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben small rot Block near obere linke nach unten, dann schieben large grün 2×2 Block hinaus durch links-Wand Ausgang zu öffnen linke Bahn (02:55–02:50 in Video)."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Ansteuern blau Block durch links-Wand Ausgang verwendend gap grün Block links hinter."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin feeding four türkis `4` Blöcke durch rechts-Wand Ausgang — starten mit leftmost türkis Block und behalten rechte Bahn räumen für alle 16 passes (02:50–02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen remaining gelb und small rot Blöcke durch whichever Ausgang ist closest — jede Bauteil fällt … lassen Boss Zähler durch one (Zähler reads `3` bei 02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once Zähler hits `0` (around 02:29), lila Boss bar collapses und reveals hoch gelb, orange, und grün Blöcke underneath."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Schieben revealed gelb hoch Block toward links-Wand Ausgang erste weil es Blöcke orange Block hinter es."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ansteuern orange hoch Block durch rechts-Wand Ausgang, dann beenden mit remaining grün Blöcke durch unten exits (02:19–02:03)."
+        }
+      ],
+      "failurePoints": [
+        "Moving revealed gelb oder orange Block bevor Boss bar hat fully collapsed — Bauteil jams gegen bar und Blöcke Ausgangs-Bahn mit kein way zu recover.",
+        "Feeding türkis `4` Blöcke durch links-Wand Ausgang stattdessen von rechts — dieses clogs Bahn needed für grün 2×2 Block und stalls Boss countdown."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/55/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 55 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 55 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

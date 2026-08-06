@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-117",
+  "locale": "pt-br",
+  "levelNumber": 117,
+  "title": "Guia do nível 117 do Block Out",
+  "summary": "Block Out Nível 117 uses house-shaped roxo moldura com dotted inferior grade, lateral `13` trilhos, e external `4` alimente painéis em esquerda e inferior. house moldura tem seu próprio empacotando ordem: arch deve permaneça abra até external pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "Block Out Nível 117 uses house-shaped roxo moldura com dotted inferior grade, lateral `13` trilhos, e external `4` alimente painéis em esquerda e inferior. house moldura tem seu próprio empacotando ordem: arch deve permaneça abra até external painéis tem delivered seus blocos. Pack arch também cedo e último amarelo alimente barra tem nowhere para go, boxing em lateral trilhos permanentemente.",
+        "landmarks": [
+          "Block Out Nível 117 uses house-shaped roxo moldura com dotted inferior grade, lateral `13` trilhos, e external `4` alimente painéis em esquerda e inferior.",
+          "House moldura tem seu próprio empacotando ordem: arch deve permaneça abra até external painéis tem delivered seus blocos.",
+          "Pack arch também cedo e último amarelo alimente barra tem nowhere para go, boxing em lateral trilhos permanentemente."
+        ],
+        "colors": ["green", "blue", "red", "orange", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Estacione numerado circle em dotted grade único depois direita seta sliders tem limpar pista.",
+        "Esquerda `13` trilho deve fino antes que esquerda ciano `4` painel pode alimente arch.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Remova superior verde `2` peça e azul `4` bloco de superior aglomerado."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque esquerda `13` lateral trilho sem bloqueando dotted inferior zona."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente peças através esquerda ciano `4` painel para abra house moldura."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Roteie direita vermelho-seta e azul-seta sliders uma vez superior laranja/verde fileira afina."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Coloque inferior amarelo circle (`9`, então `6`) em dotted grade sem overfilling arch."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Gaste inferior amarelo barra e direita ciano `4` contador para feche restante lateral trilhos em `10`."
+        }
+      ],
+      "failurePoints": [
+        "Overfilling arch antes que direita seta sliders limpar — este caixas em vermelho-seta pista.",
+        "Placing inferior numerado circle também cedo enquanto esquerda `13` trilho é ainda cheio."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 117 do Block Out",
+    "description": "Resolva o nível 117 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

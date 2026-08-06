@@ -1,0 +1,91 @@
+{
+  "id": "es-level-115",
+  "locale": "es",
+  "levelNumber": 115,
+  "title": "Guía de Block Out Nivel 115",
+  "summary": "Block Out nivel 115 splits el tablero en three columnas gated por directional flechas — verde, rosa, y azul go arriba mientras rojo, amarillo, y naranja go abajo. A rosa dotted connector entre two `7` pairs es la pieza clave: drop lo por the...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/115/",
+        "layout": "Block Out nivel 115 splits el tablero en three columnas gated por directional flechas — verde, rosa, y azul go arriba mientras rojo, amarillo, y naranja go abajo. A rosa dotted connector entre two `7` pairs es la pieza clave: drop lo por la columna central primero y the stacks sobre puede finally drain. Touch the izquierdo-columna `1` stack antes el centro reshapes y the connector gets buried.",
+        "landmarks": [
+          "Block Out nivel 115 splits el tablero en three columnas gated por directional flechas — verde, rosa, y azul go arriba mientras rojo, amarillo, y naranja go abajo.",
+          "A rosa dotted connector entre two `7` pairs es la pieza clave: drop lo por la columna central primero y the stacks sobre puede finally drain.",
+          "Touch the izquierdo-columna `1` stack antes el centro reshapes y the connector gets buried."
+        ],
+        "colors": ["morado", "cyan", "pink", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gk9J6m1hutU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gk9J6m1hutU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The rosa dotted connector debe drop antes cualquier `7` pair puede split.",
+        "Elimina the derecho lone `1` por the naranja abajo-flecha a abierto el carril derecho early.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Tira the rosa dotted connector downward por la columna central using the amarillo abajo-flecha."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Introduce the superior izquierdo `1` stack de three cian baldosas abajo por la columna roja flecha."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Elimina the lone derecho-columna cian `1` por the naranja abajo-flecha a abierto el carril derecho."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Split the superior `7` pair en la columna central once the connector has passed the rosa arriba-triangle."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Envía the inferior izquierdo `1` stack por the rojo abajo-flecha después the superior `7`s son gone."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Drena the inferior `7` pair fuera por the amarillo abajo-flecha y salida the restante verde columna piezas."
+        }
+      ],
+      "failurePoints": [
+        "Mueve a izquierdo-columna `1` stack antes the rosa dotted connector has dropped.",
+        "Trying a split the `7` pairs mientras the connector todavía sits entre los."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/115/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 115",
+    "description": "Resuelve Block Out nivel 115 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

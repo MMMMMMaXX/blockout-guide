@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-66",
+  "locale": "tr",
+  "levelNumber": 66,
+  "title": "Block Out Seviye 66 Rehberi",
+  "summary": "Block Out Seviye 66 barındırır 5×7 ızgara ile büyük mavi '13' blok üstde, numaralı mavi bloklar ile sayaçlar '5' ortada, ve yönlü ok bloklar yanlarda. numaralı bloklar meli çıkış onların kapılardan sırasında sid...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/66/",
+        "layout": "Block Out Seviye 66 barındırır 5×7 ızgara ile büyük mavi '13' blok üstde, numaralı mavi bloklar ile sayaçlar '5' ortada, ve yönlü ok bloklar yanlarda. numaralı bloklar meli çıkış onların kapılardan sırasında yan bloklar constrained bire direction. temizle alt ilk, sonra çalış numaralı bloklar yukarı doğru.",
+        "landmarks": [
+          "Block Out Seviye 66 barındırır 5×7 ızgara ile büyük mavi '13' blok üstde, numaralı mavi bloklar ile sayaçlar '5' ortada, ve yönlü ok bloklar yanlarda.",
+          "Numaralı bloklar meli çıkış onların kapılardan sırasında yan bloklar constrained bire direction.",
+          "Temizle alt ilk, sonra çalış numaralı bloklar yukarı doğru."
+        ],
+        "colors": ["blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "WMLdROI6Sz8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=WMLdROI6Sz8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'13' blok marathon — temizle daha küçük numaralı bloklar ilk inşa et alan.",
+        "Izle numaralı sayaçlar. onlar decrease bloklar çıkış, göstererek senin progress.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle sarı ve mavi bloklar altda sağ çıkışdan açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır yeşil bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla temizleyerek numaralı mavi bloklar ortada onların kapılardan — sayaçlar decrease onlar çıkış."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kırmızı bloklar sağda sağ çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tackle büyük mavi '13' blok üstde — o gerektirir 13 çıkışlar fullya temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan bloklar tuzağa düştü köşelerde."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek temizle '13' blok önce daha küçük numaralı bloklar — o gerektirir alan kaydır ve çıkış multiple times.",
+        "Temizleyerek üst önce alt, hangi bırakır daha düşük bloklar tuzağa düştü ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/66/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 66 Rehberi ve Çözümü",
+    "description": "Block Out seviye 66'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

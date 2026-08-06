@@ -1,0 +1,96 @@
+{
+  "id": "de-level-103",
+  "locale": "de",
+  "levelNumber": 103,
+  "title": "Block Out Level 103 Lösung",
+  "summary": "Block Out Level 103 fills Raster mit numbered Kacheln — `11`, `19`, `14` über oben und lila `10` bar auf links rail — turning jede Reihe in counting Puzzle. Links-rail stapeln von abgleichend `10` Kacheln muss drain bevor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "Block Out Level 103 fills Raster mit numbered Kacheln — `11`, `19`, `14` über oben und lila `10` bar auf links rail — turning jede Reihe in counting Puzzle. Links-rail stapeln von abgleichend `10` Kacheln muss drain bevor wide bars kann bewegen, und unten lila tray Zähler tracks wie many placements remain. Einsperren ist obere `19` Kachel: es schaut urgent aber muss wait für rail.",
+        "landmarks": [
+          "Block Out Level 103 fills Raster mit numbered Kacheln — `11`, `19`, `14` über oben und lila `10` bar auf links rail — turning jede Reihe in counting Puzzle.",
+          "Links-rail stapeln von abgleichend `10` Kacheln muss drain bevor wide bars kann bewegen, und unten lila tray Zähler tracks wie many placements remain.",
+          "Einsperren ist obere `19` Kachel: es schaut urgent aber muss wait für rail."
+        ],
+        "colors": ["purple", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Räumen jede links-rail `10` Kachel bevor touching untere lila `19` bar.",
+        "Obere lila `4` bar kann bewegen once oben Reihe ist gone — tu nicht wait für entire Mitte cluster zu räumen erste.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben-Reihe light-blau `11`, `19`, und `14` Kacheln durch obere exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen links-rail blau `10` stapeln von oben zu unten bevor touching Mitte cluster."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben obere lila `4` bar links once oben Reihe und links rail sind öffnen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Break hoch Mitte pink/grün/gelb singles zu öffnen mittlere Spalte."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verschieben orange überqueren und remaining türkis `10` Kacheln in Seite lanes."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Freigeben untere lila `19` bar durch unten Ausgang nach links rail ist empty."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden letzte grün cluster und unten-tray passes zu close Zähler `6`."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu schieben untere lila `19` bar bevor links-rail `10` stapeln ist gone.",
+        "Räumend Mitte orange überqueren too früh while oben-Reihe numbers sind still blocking obere exits."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 103 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 103 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

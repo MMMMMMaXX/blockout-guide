@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-134",
+  "locale": "pt-br",
+  "levelNumber": 134,
+  "title": "Guia do nível 134 do Block Out",
+  "summary": "O nível 134 do Block Out é um tabuleiro vertical Difícil com chaves laranjas, cadeados azuis e chaves inglesas embutidos diretamente no campo de blocos, junto a torres roxas `12` e uma faixa superior `15`. A peça ciano com cadeado guarda a pista principal de saída, e a cha...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/134/",
+        "layout": "O nível 134 do Block Out é um tabuleiro vertical Difícil com chaves laranjas, cadeados azuis e chaves inglesas embutidos diretamente no campo de blocos, junto a torres roxas `12` e uma faixa superior `15`. A peça ciano com cadeado guarda a pista principal de saída, e a chave e o cadeado ficam em lados opostos — a barra ciano do meio deve deslocar para a esquerda antes que a chave alcance o cadeado, ou a pista de seta para a esquerda se fecha.",
+        "landmarks": [
+          "O nível 134 do Block Out é um tabuleiro vertical Difícil com chaves laranjas, cadeados azuis e chaves inglesas embutidos diretamente no campo de blocos, junto a torres roxas `12` e uma faixa superior `15`.",
+          "Cadeado ciano peça guards principal saída pista, e chave e cadeado fica em oposto lados — meio ciano barra deve desloque esquerda antes que chave pode alcance cadeado, ou esquerda-seta pista selos.",
+          "Tabuleiro mistura Roxo, Azul, Ciano e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "blue", "cyan", "red", "pink", "yellow", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72iQQbHvR1s",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72iQQbHvR1s",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar azul 7 bolso antes que tocando trancado ciano peça em inferior aglomerado.",
+        "Correspondência chave para cadeado antes que usando chave inglesa tools em roxo L-base.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Quebre superior 15 remova e três roxo 12 torres sem tocando trancado ciano peça em inferior aglomerado."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar inferior-esquerda azul 7 bolso para exponha inferior 9 e 4 contadores."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Correspondência laranja chave em esquerda-centro faixa para azul cadeado em direita-centro."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use laranja chave inglesa tools em esquerda e direita flanks para livre roxo L-base blocos."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deslize meio ciano/leve-azul barra através esquerda-seta pista uma vez chave-cadeado par limpa."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente restante vermelho e rosa recortes baixo vermelho e azul inferior para baixo setas."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar último roxo base blocos para Difícil Nível tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Detonating bomb peça beside trancado ciano bloco antes que 7 bolso limpa, vedando 9/4 saída.",
+        "Movendo roxo L-base antes que chave-cadeado par limpa, re-bloqueando inferior para baixo setas."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/134/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 134 do Block Out",
+    "description": "Resolva o nível 134 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

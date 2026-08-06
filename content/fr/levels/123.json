@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-123",
+  "locale": "fr",
+  "levelNumber": 123,
+  "title": "Guide Block Out Niveau 123",
+  "summary": "Block Out Niveau 123 wraps perimeter cadre autour central violet tube, avec hammer-tool obstacles guarding numéroté poche compteurs. perimeter tuiles doit drainez avant tube accepts input — et vert `3` tuile highlighted...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/123/",
+        "layout": "Block Out Niveau 123 wraps perimeter cadre autour central violet tube, avec hammer-tool obstacles guarding numéroté poche compteurs. perimeter tuiles doit drainez avant tube accepts input — et vert `3` tuile highlighted avec jaune ligne est gating pièce. Dégagez le haut-gauche rose poche premier, alors work hammer tools inward à ouvrez tube.",
+        "landmarks": [
+          "Block Out Niveau 123 wraps perimeter cadre autour central violet tube, avec hammer-tool obstacles guarding numéroté poche compteurs.",
+          "Perimeter tuiles doit drainez avant tube accepts input — et vert `3` tuile highlighted avec jaune ligne est gating pièce.",
+          "Dégagez le haut-gauche rose poche premier, alors work hammer tools inward à ouvrez tube."
+        ],
+        "colors": ["pink", "green", "orange", "blue", "violet", "white", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hMB1I2XGFso",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hMB1I2XGFso",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez orange hammer-tool paire avant feeding un tuile bleu dans central tube.",
+        "Gardez le bas rangée rose garé jusqu'à le haut perimeter est fully amincissez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Pelez le haut-gauche rose `4` amas et vert `5` tuile sans touching central orange `3`."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez twin orange hammer-tool blocs sur le haut-droite avant feeding un droite-mur tuiles bleu."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Drainez la gauche-mur bleu `5` colonne et blanc `1` coin tuile à ouvrez la gauche tube entrance."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez le bas rangée rose et vert/orange bas paire une fois le haut perimeter est amincissez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Acheminez vert `3` tuile à travers central violet tube utilisant jaune vertical voie marqueur."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez la droite-mur bleu `4`/`2` paire et restant bleu scraps pour PERFECT dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Feeding tuiles bleu dans tube avant hammer-tool blocs cassez — ce pins vert `3` à l'intérieur.",
+        "Dégagement le bas rangée rose avant le haut perimeter thins, sealing tube corridor."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/123/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 123",
+    "description": "Résolvez le niveau 123 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

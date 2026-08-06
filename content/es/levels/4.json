@@ -1,0 +1,98 @@
+{
+  "id": "es-level-4",
+  "locale": "es",
+  "levelNumber": 4,
+  "title": "Guía de Block Out Nivel 4",
+  "summary": "El nivel 4 de Block Out es un tablero de franjas en dos fases. Limpia primero la salida blanca inferior derecha y la barra menta inferior, desmonta la escalera de bloqueadores blanca y negra a la derecha y solo entonces libera las largas barras de color.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "El nivel 4 de Block Out es un tablero de franjas en dos fases. Limpia primero la salida blanca inferior derecha y la barra menta inferior, desmonta la escalera de bloqueadores blanca y negra a la derecha y solo entonces libera las largas barras de color.",
+        "landmarks": [
+          "El nivel 4 de Block Out es un tablero de franjas en dos fases.",
+          "Limpia primero la salida blanca inferior derecha y la barra menta inferior, desmonta la escalera de bloqueadores blanca y negra a la derecha y solo entonces libera las largas barras de color.",
+          "El tablero combina rojo, amarillo, verde y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "La salida blanca inferior derecha es el verdadero inicio.",
+        "La barra menta inferior es la única barra larga que debes liberar antes de que colapse la escalera derecha.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Suelta el pequeño bloque blanco de la esquina inferior derecha por la salida blanca."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Desliza la barra menta inferior hacia la derecha y límpiala por su salida lateral correspondiente."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Deja que el bloqueador negro más cercano caiga a la zona del suelo y luego usa el nuevo hueco para pelar los siguientes bloqueadores blancos por el borde derecho y sacarlos por la salida blanca."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Sigue repitiendo esa limpieza del borde derecho hasta que la escalera blanca y negra haya desaparecido casi por completo y las barras largas de la izquierda tengan espacio para moverse."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Libera la barra azul, luego la verde y luego las barras cálidas inferiores restantes cuando sus salidas derechas correspondientes estén abiertas."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Guarda la barra amarilla superior para el penúltimo movimiento."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina deslizando la barra roja superior hacia la salida lateral roja."
+        }
+      ],
+      "failurePoints": [
+        "Intentar disparar la larga barra azul antes de que la escalera de bloqueadores derecha haya colapsado.",
+        "Ignorar la barra menta inferior y dejar el carril del suelo sellado."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 4",
+    "description": "Resuelve el nivel 4 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

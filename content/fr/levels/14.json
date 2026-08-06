@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-14",
+  "locale": "fr",
+  "levelNumber": 14,
+  "title": "Guide Block Out Niveau 14",
+  "summary": "Ouvrez blanc échelle et reduce le haut compteur avant releasing large cyan centerpiece de son surrounding cadre.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "Large cyan compteur tuile fills le centre de five-couleur cadre, avec pièces blanc concentrated au-dessus et à la droite et colonnes jaune holding côté voies.",
+        "landmarks": [
+          "Centre est large carré cyan marked 7.",
+          "Haut compteur commence à 17 au-dessus central cadre.",
+          "Blanc pillars form échelle sur le côté droit.",
+          "Jaune colonnes restez sur les deux sides pendant pièces noir ancrez abaissez coins."
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Work la droite-côté voie blanc avant spending le bas sortie jaune.",
+        "Quittez cyan 7 dans placez jusqu'à cadre a opened sur more que one côté.",
+        "Judge chaque dégagez par suivant voie il creates, pas seulement par bloc removed maintenant."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Loosen le bord droit",
+          "instruction": "Déplacez supérieur droit pièces blanc dans leur available sortie voie donc outer cadre commence à shrink."
+        },
+        {
+          "order": 2,
+          "title": "Reduce le haut compteur",
+          "instruction": "Continue dégagement le haut structure pendant keeping cyan 7 fixed dans le centre."
+        },
+        {
+          "order": 3,
+          "title": "Preserve côté supports",
+          "instruction": "Utilisez jaune côté colonnes à gardez espace available pendant abaissez pièces noir sont repositioned."
+        },
+        {
+          "order": 4,
+          "title": "Create vertical salle",
+          "instruction": "Après la droite échelle est thinner, bring blanc pilier bas à ouvrez premier vertical voie à côté de centerpiece."
+        },
+        {
+          "order": 5,
+          "title": "Relâchez centerpiece",
+          "instruction": "Déplacez cyan 7 seulement quand cadre est ouvrez sur à least deux sides, alors dégagez restant blanc et pièces noir."
+        },
+        {
+          "order": 6,
+          "title": "Utilisez la sortie jaune dernier",
+          "instruction": "Terminez à travers le bas sortie jaune après central bloc et restant cadre pièces sont non longer competing pour espace."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez cyan 7 pendant la droite échelle toujours verrous cadre.",
+        "Dégagement le bas voie jaune too tôt et removing spacing needed pour le milieu phase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 14",
+    "description": "Correspondre cyan 7 plateau, ouvrez la droite échelle, reduce le haut compteur et follow complete Block Out Niveau 14 solution."
+  },
+  "updatedAt": "2026-08-03"
+}

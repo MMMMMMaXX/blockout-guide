@@ -1,0 +1,103 @@
+{
+  "id": "zh-cn-level-92",
+  "locale": "zh-cn",
+  "levelNumber": 92,
+  "title": "Block Out 第92关攻略",
+  "summary": "Block Out 第92关把彩色方块（绿色 L 形、橙色「7」计数块、大号红色正方形、蓝/黄/紫带锁钥图标的方块）塞进上半部分，而下半盘是两大室——顶部红色边框内计数「15」，下方橙色边框内计数「10」。清空上半部分打开通道……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/92/",
+        "layout": "Block Out 第92关把彩色方块（绿色 L 形、橙色「7」计数块、大号红色正方形、蓝/黄/紫带锁钥图标的方块）塞进上半部分，而下半盘是两大室——顶部红色边框内计数「15」，下方橙色边框内计数「10」。清空上半部分打开通道，先输送「15」室，整理溢出物，再输送「10」室。",
+        "landmarks": [
+          "Block Out 第92关把彩色方块（绿色 L 形、橙色「7」计数块、大号红色正方形、蓝/黄/紫带锁钥图标的方块）塞进上半部分，而下半盘是两大室——顶部红色边框内计数「15」，下方橙色边框内计数「10」。",
+          "清空上半部分打开通道，先输送「15」室，整理溢出物，再输送「10」室。",
+          "棋盘混合了绿色、橙色、黄色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["green", "orange", "yellow", "red", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "C32pAC1HOlo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=C32pAC1HOlo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "尽快清空上半部分——两个室输送需要剩余的全部时间。",
+        "在开始「15」室输送前，先移除边界条中的小青色和绿色方块。",
+        "「15」室坍塌后立刻整理溢出的方块，在它们堵住「10」室通道之前。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左上角的绿色 L 形块经左墙出口滑出，打开第一条通道（02:54）。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "开始将橙色「7」方块向上经顶部出口输送——七次通过（02:49–02:39）。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "清理锁/钥对：移除钥匙方块以解锁大号红色正方形旁的蓝色方块（02:44）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将黄色方块向右经右墙出口推出，然后从中心抽出大号红色正方形（02:39）。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "在它们飘入输送通道之前，清空上下区域之间边界条中的小青色和绿色方块（02:34）。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "开始将上方室（计数「15」）经其出口通道输送——让这条通道永久畅通，共十五次通过（02:29–02:15）。"
+        },
+        {
+          "order": 7,
+          "title": "第7步",
+          "instruction": "「15」室坍塌后，立刻整理溢出的红、蓝、绿、黄方块，在它们堵住下方通道之前（02:10）。"
+        },
+        {
+          "order": 8,
+          "title": "第8步",
+          "instruction": "将下方室（计数「10」）经底部出口输送——十次通过收尾（02:10–02:00）。"
+        }
+      ],
+      "failurePoints": [
+        "在边界条还有小青色和绿色方块时就启动「15」室输送——它们会飘入输送通道，让计数器在通过中途卡住。",
+        "忽视「15」室坍塌后的溢出方块——它们会堵住「10」室的出口通道，迫使多次补救。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/92/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第92关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第92关。"
+  },
+  "updatedAt": "2026-08-03"
+}

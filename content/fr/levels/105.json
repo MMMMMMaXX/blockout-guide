@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-105",
+  "locale": "fr",
+  "levelNumber": 105,
+  "title": "Guide Block Out Niveau 105",
+  "summary": "Block Out Niveau 105 wraps polyomino bricks autour glowing violet 2×2 carré et donne vous exactly one shot à cassez à travers — rouge demolition barre sur le mur droit. Dépensez que barre sur faux amas et le carré violet stays trapp...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "Block Out Niveau 105 wraps polyomino bricks autour glowing violet 2×2 carré et donne vous exactly one shot à cassez à travers — rouge demolition barre sur le mur droit. Dépensez que barre sur faux amas et le carré violet stays piégé forever. résolvez est packing extraction: dégagez le haut compteurs et jaune 2×2 premier, alors aim la barre rouge à supérieur rouge amas à libérez sortie chemin.",
+        "landmarks": [
+          "Block Out Niveau 105 wraps polyomino bricks autour glowing violet 2×2 carré et donne vous exactly one shot à cassez à travers — rouge demolition barre sur le mur droit.",
+          "Dépensez que barre sur faux amas et le carré violet stays piégé forever.",
+          "Résolvez est packing extraction: dégagez le haut compteurs et jaune 2×2 premier, alors aim la barre rouge à supérieur rouge amas à libérez sortie chemin."
+        ],
+        "colors": ["violet", "red", "green", "blue", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Fire rouge demolition barre à commencez — il seulement works une fois.",
+        "Déplacez jaune 2x2 hors avant essayant à sortie violet `1` carré.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Trigger rouge droite-mur barre à cassez supérieur rouge amas avant un autre coups."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez la gauche L violet-pièce vers le haut à ouvrez espace autour le centre jaune 2x2."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez le L vert sur le côté droit bas donc violet `1` carré a dégagez bas voie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Décalez jaune 2x2 hors à travers le haut sorties à unbox violet `1` carré."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Envoyez violet `1` carré hors à travers la sortie inférieure à satisfy le haut compteur."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez restant bleu horizontal pièce et rose amas à terminez le haut `2` compteur."
+        }
+      ],
+      "failurePoints": [
+        "Spending rouge demolition barre sur le bas rose amas au lieu de de supérieur rouge one.",
+        "Essayant à glissez violet `1` carré avant jaune 2x2 à côté de il a cleared."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 105",
+    "description": "Résolvez le niveau 105 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

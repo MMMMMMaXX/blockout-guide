@@ -1,0 +1,92 @@
+{
+  "id": "es-level-14",
+  "locale": "es",
+  "levelNumber": 14,
+  "title": "Guía de Block Out Nivel 14",
+  "summary": "Abre la escalera blanca y reduce el contador superior antes de liberar la gran pieza central cian de su marco circundante.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "Una gran ficha contadora cian ocupa el centro de un marco de cinco colores, con piezas blancas concentradas arriba y a la derecha y columnas amarillas ocupando los carriles laterales.",
+        "landmarks": [
+          "El centro es un gran cuadrado cian marcado con 7.",
+          "Un contador superior empieza en 17 sobre el marco central.",
+          "Los pilares blancos forman una escalera en el lado derecho.",
+          "Las columnas amarillas están a ambos lados mientras las piezas negras fijan las esquinas inferiores."
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Trabaja el carril blanco del lado derecho antes de usar la salida amarilla inferior.",
+        "Deja el cian 7 en su sitio hasta que el marco se haya abierto por más de un lado.",
+        "Juzga cada limpieza por el siguiente carril que crea, no solo por la pieza que retiras ahora."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Afloja el borde derecho",
+          "instruction": "Mueve las piezas blancas superior derechas a su carril de salida disponible para que el marco exterior empiece a reducirse."
+        },
+        {
+          "order": 2,
+          "title": "Reduce el contador superior",
+          "instruction": "Sigue limpiando la estructura superior mientras mantienes fijo el cian 7 en el centro."
+        },
+        {
+          "order": 3,
+          "title": "Conserva los soportes laterales",
+          "instruction": "Usa las columnas amarillas laterales para mantener espacio disponible mientras se reposicionan las piezas negras inferiores."
+        },
+        {
+          "order": 4,
+          "title": "Crea espacio vertical",
+          "instruction": "Cuando la escalera derecha esté más fina, baja un pilar blanco para abrir el primer carril vertical junto a la pieza central."
+        },
+        {
+          "order": 5,
+          "title": "Libera la pieza central",
+          "instruction": "Mueve el cian 7 solo cuando el marco esté abierto por al menos dos lados, y luego limpia las piezas blancas y negras restantes."
+        },
+        {
+          "order": 6,
+          "title": "Usa la salida amarilla al final",
+          "instruction": "Termina por la salida amarilla inferior después de que la pieza central y las piezas del marco restantes ya no compitan por el espacio."
+        }
+      ],
+      "failurePoints": [
+        "Intentar mover el cian 7 mientras la escalera derecha sigue bloqueando el marco.",
+        "Limpiar el carril amarillo inferior demasiado pronto y eliminar el espacio que se necesita para la fase media."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 14",
+    "description": "Empareja el tablero del cian 7, abre la escalera derecha, reduce el contador superior y sigue la solución completa del nivel 14 de Block Out."
+  },
+  "updatedAt": "2026-08-03"
+}

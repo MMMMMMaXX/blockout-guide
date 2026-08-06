@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-16",
+  "locale": "fr",
+  "levelNumber": 16,
+  "title": "Guide Block Out Niveau 16",
+  "summary": "Block Out Niveau 16 est staircase support énigme. Adoucissez abaissez étagère et le mur droit premier, effondrez noir diagonal à son base, et seulement alors relâchez haut rouge et barres jaune de supérieur droit climb.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "Block Out Niveau 16 est staircase support énigme. Adoucissez abaissez étagère et le mur droit premier, effondrez noir diagonal à son base, et seulement alors relâchez haut rouge et barres jaune de supérieur droit climb.",
+        "landmarks": [
+          "Block Out Niveau 16 est staircase support énigme.",
+          "Adoucissez abaissez étagère et le mur droit premier, effondrez noir diagonal à son base, et seulement alors relâchez haut rouge et barres jaune de supérieur droit climb.",
+          "Le plateau mélange rouge, jaune et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abaissez étagère est real opener.",
+        "Noir staircase a à cassez de sous.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez abaissez blanc amas dans la droite countdown voie à commencez shrinking `12` mur."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Tournez court bas rouge et pièces jaune donc noir staircase loses son abaissez support."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Gardez haut rouge coin barre et inner colonne jaune garé pendant le bas compteurs gardez dropping."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Une fois noir étapes commencez à effondrez, ouvrez étagère assez pour haut colonne jaune à glissez vers le bas."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Utilisez nouveau gap à décalez haut barre rouge loin de coin sans trapping restant blocs noir."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez staircase cleanup premier."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Fin avec haut jaune et barres rouge après étagère et mur droit sont déjà flat."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à dépensez one de haut coin barres avant abaissez étagère est ouvrez.",
+        "Working seulement sur supérieur droit climb et ignoring étagère compteurs."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 16",
+    "description": "Résolvez le niveau 16 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

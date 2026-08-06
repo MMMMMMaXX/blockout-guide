@@ -1,0 +1,102 @@
+{
+  "id": "ja-level-99",
+  "locale": "ja",
+  "levelNumber": 99,
+  "title": "ブロックアウト レベル99 攻略",
+  "summary": "ブロックアウト レベル99は「エキスパートレベル」で、50〜100の範囲で最も密度が高く最長のパズル（138秒）です。大きな黄／オレンジの十字型ブロックが中央を支配し、紫／青ブロックが左上の角を埋め、緑ブロックが…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "ブロックアウト レベル99は「エキスパートレベル」で、50〜100の範囲で最も密度が高く最長のパズル（138秒）です。大きな黄／オレンジの十字型ブロックが中央を支配し、紫／青ブロックが左上の角を埋め、緑ブロックが右に縦に積み重なり、ピンク／マゼンタブロックが左に並び、赤ブロックが残りの隙間を埋めます。少なくとも4つのブロックにある鍵付きアイコンが特定の消去順を強制します。まず端ブロックを取り出し、緑とピンクの塊を消去して十字を露出させ、最後にそれを外へ回します。",
+        "landmarks": [
+          "ブロックアウト レベル 99 レベル —、50–100 138 秒.。",
+          "黄/オレンジ 横切る- ブロック 中央、紫/青 ブロック 上-左 角、緑 積み 右、ピンク/ 左、赤 満たす .。",
+          "をロックして/鍵 無理に動かす 消去 .。",
+          "を取り出して、緑のを消去して、ピンク 横切る、通す .。"
+        ],
+        "colors": ["red", "green", "blue", "orange", "pink", "yellow", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "138- — 計画する 手順、無理に動かす.。",
+        "緑積みを消去して(右)、ピンク 塊 (左)、— 横切る ブロック' .。",
+        "' ' ~01:48 意味し — .。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して: シアン (下-右、右へ)、青 (上-左、上へ)、ピンク (左 側、左へ) — (02:19–02:09 動画).。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "消去 緑 右側 右-壁 出口 横切る ブロック' 右 腕 (02:09–01:59).。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "ピンクのを消去して/ 左 側 左-壁 出口 横切る ブロック' 左 腕 (01:59–01:48).。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "鍵を解放して開く — 横切る- ブロック' ロックする 解放し、手順 (01:48).。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を消去して紫/青 角 ブロック 上-左 上 左 出口 横切る ブロック' 上の 腕 (01:38–01:27).。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "赤のを取り出して詰まった 最も近い 出口 (01:27–01:06).。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "黄のを通して/オレンジ 横切る- ブロック 出口 — 必要とし (01:06–00:56).。"
+        },
+        {
+          "order": 8,
+          "title": "手順8",
+          "instruction": "を終えて、横切る ピース (00:46–00:25).。"
+        }
+      ],
+      "failurePoints": [
+        "手順 横切る- ブロック、消去 — 上、下、を残して、右、手順、消去する.。",
+        "' ' — 緑、ピンク 01:48、横切る ブロック 出口 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル99 攻略と解説",
+    "description": "ブロックアウト レベル99 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

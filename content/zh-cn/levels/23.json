@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-23",
+  "locale": "zh-cn",
+  "levelNumber": 23,
+  "title": "Block Out 第 23 关通关攻略",
+  "summary": "Block Out 第 23 关是一个绳结棋盘，带有两个标记为 `11` 和 `8` 的下方带框盒子。利用顶部蓝色通道和右侧黄色出口解开蜷曲的中心路径，等绳结消失后，再让两个 Boss 盒子落下。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "Block Out 第 23 关是一个绳结棋盘，带有两个标记为 `11` 和 `8` 的下方带框盒子。利用顶部蓝色通道和右侧黄色出口解开蜷曲的中心路径，等绳结消失后，再让两个 Boss 盒子落下。",
+        "landmarks": [
+          "Block Out 第 23 关是一个绳结棋盘，带有两个标记为 `11` 和 `8` 的下方带框盒子。",
+          "利用顶部蓝色通道和右侧黄色出口解开蜷曲的中心路径，等绳结消失后，再让两个 Boss 盒子落下。",
+          "棋盘混合了蓝色、黄色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在攻击下方盒子之前，先解开中心。",
+        "顶部蓝色路线是开局的一部分，不是收尾用的。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先喂入顶部蓝色路线，让中间蜷曲处少一个阻挡块。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用右侧黄色通道把上方黄色列从绳结处拉开。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "旋转红色和紫色蜷曲方块，直到中央路径不再封闭。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦绳结的左半部分打开，就开始收缩带框的 `11` 盒子。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在右半部分也清空后，让带框的 `8` 盒子落下。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "清理那些曾固定蜷曲处的高大红色和黄色列。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个下方框架都几乎消失后，用最后一条顶部蓝色路线收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在中心蜷曲仍然紧绷时，就试图清空下方带框的盒子。",
+        "忽略右侧黄色出口，只过度处理顶部蓝色路线。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 23 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 23 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

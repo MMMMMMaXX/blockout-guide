@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-89",
+  "locale": "fr",
+  "levelNumber": 89,
+  "title": "Guide Block Out Niveau 89",
+  "summary": "Block Out Niveau 89 opens avec mélangé haut étagère over deux empilé chambres. Retirez que étagère premier, drainez `6` chambre suivant, et alors dégagez keyed gauche voie plus les colonnes orange avant `11` chambre donne chemin à le T rouge-shap...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out Niveau 89 opens avec mélangé haut étagère over deux empilé chambres. Retirez que étagère premier, drainez `6` chambre suivant, et alors dégagez keyed gauche voie plus les colonnes orange avant `11` chambre donne chemin à le T rouge-shaped endgame.",
+        "landmarks": [
+          "Block Out Niveau 89 opens avec mélangé haut étagère over deux empilé chambres.",
+          "Retirez que étagère premier, drainez `6` chambre suivant, et alors dégagez keyed gauche voie plus les colonnes orange avant `11` chambre donne chemin à le T rouge-shaped endgame.",
+          "Le plateau mélange violet, vert et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Si le haut étagère toujours a live bleu ou pièces vert, `11` chambre est pas prêt.",
+        "Keyed voie jaune sur la gauche matters more que raw `11` count.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Remove mélangé bandes sur le haut étagère, especially la rangée bleu et le bloc vert sur supérieur droit."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Commencez shrinking supérieur `6` chambre seulement après le haut étagère a stopped feeding blockers vers le bas."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Quittez abaissez `11` chambre alone jusqu'à `6` chambre est presque gone."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Après supérieur chambre opens plateau, dégagez keyed voie jaune sur la gauche et shorten les colonnes orange autour le centre."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez `11` chambre effondrez seulement quand le T rouge-shape et deux bleu pools underneath il ont salle à séparé."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec le T rouge-pièce, dernier colonne orange, et restant L jaune-bloc proche le coin inférieur gauche."
+        }
+      ],
+      "failurePoints": [
+        "Touching `11` chambre pendant le haut étagère toujours a live bleu ou vert traffic.",
+        "Ignoring keyed gauche voie et essayant à brute-forcez abaissez half après `6` chambre opens."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 89",
+    "description": "Résolvez le niveau 89 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

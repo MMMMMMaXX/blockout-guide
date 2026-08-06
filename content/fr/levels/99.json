@@ -1,0 +1,102 @@
+{
+  "id": "fr-level-99",
+  "locale": "fr",
+  "levelNumber": 99,
+  "title": "Guide Block Out Niveau 99",
+  "summary": "Block Out Niveau 99 est Expert Niveau — densest et longest énigme dans 50–100 range à 138 seconds. large jaune/orange croisez-shaped bloc dominates le centre, violet/bloc bleu fills le haut-gauche coin, blocs vert stack...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "Block Out Niveau 99 est Expert Niveau — densest et longest énigme dans 50–100 range à 138 seconds. large jaune/orange croisez-shaped bloc dominates le centre, violet/bloc bleu fills le haut-gauche coin, blocs vert stack vertically sur la droite, rose/blocs magenta ligne la gauche, et blocs rouge fill restant gaps. Verrou/clé icons sur à least four blocs forcez specific dégagement ordre. Extract bord blocs premier, dégagez vert et rose masses à expose croisez, alors acheminez il hors dernier.",
+        "landmarks": [
+          "Block Out Niveau 99 est Expert Niveau — densest et longest énigme dans 50–100 range à 138 seconds.",
+          "Large jaune/orange croisez-shaped bloc dominates le centre, violet/bloc bleu fills le haut-gauche coin, blocs vert stack vertically sur la droite, rose/blocs magenta ligne la gauche, et blocs rouge fill restant gaps.",
+          "Verrou/clé icons sur à least four blocs forcez specific dégagement ordre.",
+          "Extract bord blocs premier, dégagez vert et rose masses à expose croisez, alors acheminez il hors dernier."
+        ],
+        "colors": ["red", "green", "blue", "orange", "pink", "yellow", "violet", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Ce est 138-second marathon — planifiez coups, pas rush ou forcez.",
+        "Dégagez la pile vert (droite) et rose mass (gauche) avant anything else — ils expose croisez bloc's sides.",
+        "'Super Slow' badge à ~01:48 means vous sont derrière pace — prioritize sides."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez smallest bord blocs premier: cyan (bas-droite, rightward), bleu (haut-gauche, vers le haut), rose (côté gauche, leftward) — chaque creates incremental salle (02:19–02:09 dans video)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Commencez dégagement les blocs vert empilé sur le côté droit à travers la droite-mur sortie parce que ils expose croisez bloc's droite arm (02:09–01:59)."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez rose/blocs magenta sur le côté gauche à travers la gauche-mur sortie parce que ils expose croisez bloc's gauche arm (01:59–01:48)."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Déverrouillez clé blocs à ouvrez verrouillé paths — croisez-shaped bloc's verrou doit être unlocked avant il peut déplacez (01:48)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez large violet/bleu coin bloc de le haut-gauche à travers le haut ou sortie gauche parce que il frees croisez bloc's supérieur arm (01:38–01:27)."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Extract les blocs rouge de restant packed areas à travers nearest sorties (01:27–01:06)."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Acheminez jaune/orange croisez-shaped bloc à travers widest available sortie chemin — il needs clearance dans all four directions (01:06–00:56)."
+        },
+        {
+          "order": 8,
+          "title": "Coup 8",
+          "instruction": "Terminez avec dernier petit blocs après croisez pièce a exited (00:46–00:25)."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez croisez-shaped bloc avant dégagement all four de son arms — il extends haut, bas, gauche, et droite, et cannot déplacez jusqu'à chaque direction est dégagez.",
+        "Falling derrière pace et seeing 'Super Slow' badge — si vert et rose masses sont toujours present à 01:48, croisez bloc cannot sortie dans time."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 99",
+    "description": "Résolvez le niveau 99 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

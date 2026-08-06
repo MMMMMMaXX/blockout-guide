@@ -1,0 +1,88 @@
+{
+  "id": "ja-level-109",
+  "locale": "ja",
+  "levelNumber": 109,
+  "title": "ブロックアウト レベル109 攻略",
+  "summary": "ブロックアウト レベル109は「スーパーハード」の爆破盤面で、3本の青の「6」柱と1列のハンマー工具を中心に作られています。ハンマーが柱のタイルを壊し、黄のオーブが引かれた赤と黄の経路をたどって最後の塊を仕上げます。落とし穴は…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/109/",
+        "layout": "ブロックアウト レベル109は「スーパーハード」の爆破盤面で、3本の青の「6」柱と1列のハンマー工具を中心に作られています。ハンマーが柱のタイルを壊し、黄のオーブが引かれた赤と黄の経路をたどって最後の塊を仕上げます。落とし穴は順序です：右のハンマーを使い切ったら、中央の爆破オーブを発射しなければなりません—しかし左の経路が消える前にそれを引き金すると、盤面の半分が取り残されます。",
+        "landmarks": [
+          "ブロックアウト レベル 109 周りを 青 `6`、行 .。",
+          "割る 柱 タイル、黄 赤、黄 終える .。",
+          ":、右 使い、中央 発射する —、左 .。"
+        ],
+        "colors": ["blue", "red", "purple", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MOEMMEAt4Lg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MOEMMEAt4Lg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "黄、.。",
+        "黄のを取っておきて、上-右 `10` カウンター .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑のを使いてタイル 左 青 `6` 柱 落とす 上-左 `13` カウンター.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "紫のを使いて中央 `6` 柱、左 レール `10`.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を消去して左に、`8` タイル 赤、右 柱.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄のを取っておきて、上-右 `10` カウンター、右 レール 示し `7`.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "青のを割りて右に、`6` 柱、手順 黄 黄 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて下 黄 タイル、側-レール `9` .。"
+        }
+      ],
+      "failurePoints": ["黄、左 `8` タイル .。", "黄、柱を残して右に、.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/109/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル109 攻略と解説",
+    "description": "ブロックアウト レベル109 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

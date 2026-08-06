@@ -1,0 +1,96 @@
+{
+  "id": "de-level-69",
+  "locale": "de",
+  "levelNumber": 69,
+  "title": "Block Out Level 69 Lösung",
+  "summary": "Block Out Level 69 ist 'Super schwer' quad-chamber Boss Level mit four large lila Blöcke — Zähler '7' und '8' auf oben, '10' und '4' auf unten. Blau '12' Block bei unten ist additional heavy Ziel. Räumen unten erste...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/69/",
+        "layout": "Block Out Level 69 ist 'Super schwer' quad-chamber Boss Level mit four large lila Blöcke — Zähler '7' und '8' auf oben, '10' und '4' auf unten. Blau '12' Block bei unten ist additional heavy Ziel. Räumen unten erste, dann arbeiten lila Blöcke in parallel, letting smaller ones räumen faster while larger ones gradually öffnen.",
+        "landmarks": [
+          "Block Out Level 69 ist 'Super schwer' quad-chamber Boss Level mit four large lila Blöcke — Zähler '7' und '8' auf oben, '10' und '4' auf unten.",
+          "Blau '12' Block bei unten ist additional heavy Ziel.",
+          "Räumen unten erste, dann arbeiten lila Blöcke in parallel, letting smaller ones räumen faster while larger ones gradually öffnen."
+        ],
+        "colors": ["purple", "blue", "yellow", "red", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "anqmYWFO2pU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=anqmYWFO2pU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "'Super schwer' label means tighter packing — räumen smaller lila Blöcke erste zu build Platz.",
+        "Blau '12' Block bei unten needs meisten Raum. Räumen es erste.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen blau Blöcke bei unten mit Zähler '12' durch links Ausgang — es needs meisten Raum."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben gelb Blöcke auf rechts hinaus durch rechts Ausgang zu öffnen untere rechte Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Begin draining untere rechte lila Block mit Zähler '4' — es ist lightest und räumt fastest."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Arbeiten untere linke lila Block mit Zähler '10' in parallel."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Bewegen zu obere linke lila Block mit Zähler '7' — es ist lighter als '8'."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit obere rechte lila Block mit Zähler '8', welche hat meisten Raum nach others sind drained."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen irgendein remaining colored Blöcke eingesperrt zwischen emptied chambers."
+        }
+      ],
+      "failurePoints": [
+        "Draining '10' oder '8' Blöcke bevor smaller ones — larger Blöcke need Raum zu maneuver, und räumend sie erste entfernt sliding walls für others.",
+        "Ignoring blau '12' Block bei unten — es ist heaviest und needs meisten Raum zu Ausgang."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/69/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 69 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 69 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

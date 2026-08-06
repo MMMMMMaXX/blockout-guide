@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-18",
+  "locale": "fr",
+  "levelNumber": 18,
+  "title": "Guide Block Out Niveau 18",
+  "summary": "Block Out Niveau 18 est double-cadre énigme autour cyan `14/11` paire. Pelez côté ladders et compteurs premier, gardez le centre blocs together jusqu'à rails sont thinner, et terminez à travers vert haut acheminez.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "Block Out Niveau 18 est double-cadre énigme autour cyan `14/11` paire. Pelez côté ladders et compteurs premier, gardez le centre blocs together jusqu'à rails sont thinner, et terminez à travers vert haut acheminez.",
+        "landmarks": [
+          "Block Out Niveau 18 est double-cadre énigme autour cyan `14/11` paire.",
+          "Pelez côté ladders et compteurs premier, gardez le centre blocs together jusqu'à rails sont thinner, et terminez à travers vert haut acheminez.",
+          "Le plateau mélange cyan, rose et bleu et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Ouvrez rails avant vous split le centre paire.",
+        "Vert haut terminez est tardif acheminez, pas premier acheminez.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Retirez la droite blanc-et-noir échelle donc côté compteurs commencez falling."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Quittez cyan `14` capuchon et cyan `11` centerpiece garé pendant cadre autour les loosens."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Mirror que cleanup sur le côté gauche une fois premier échelle a opened assez salle."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Séparé cyan `14` capuchon de `11` bloc seulement après les deux côté rails ont narrowed."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Utilisez freed voie supérieure à pelez loin bleu et colonnes rose."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Déplacez `11` bloc après outer rails sont déjà amincissez."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec vert haut acheminez et dernier côté leftovers."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à split `14/11` paire avant rails sont ouvrez.",
+        "Utilisant le haut colonnes rose comme tôt movers au lieu de de tardif cleanup."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 18",
+    "description": "Résolvez le niveau 18 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

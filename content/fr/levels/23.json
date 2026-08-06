@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-23",
+  "locale": "fr",
+  "levelNumber": 23,
+  "title": "Guide Block Out Niveau 23",
+  "summary": "Block Out Niveau 23 est nœud plateau avec deux encadré abaissez boxes marked `11` et `8`. Utilisez le haut voie bleu et droite porte jaune à dénouez curled centre chemin, alors laissez deux boss boxes tombe une fois nœud est gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "Block Out Niveau 23 est nœud plateau avec deux encadré abaissez boxes marked `11` et `8`. Utilisez le haut voie bleu et droite porte jaune à dénouez curled centre chemin, alors laissez deux boss boxes tombe une fois nœud est gone.",
+        "landmarks": [
+          "Block Out Niveau 23 est nœud plateau avec deux encadré abaissez boxes marked `11` et `8`.",
+          "Utilisez le haut voie bleu et droite porte jaune à dénouez curled centre chemin, alors laissez deux boss boxes tombe une fois nœud est gone.",
+          "Le plateau mélange bleu, jaune et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["blue", "yellow", "red", "violet", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Dénouez le centre avant attacking abaissez boxes.",
+        "Haut bleu acheminez est partie de opener, pas closer.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Alimentez le haut bleu acheminez premier donc le milieu curl a one less blocker."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Utilisez la droite voie jaune à tirez supérieur colonne jaune loin de nœud."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Tournez rouge et violet curl pièces jusqu'à central chemin est non longer fermé."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez shrinking encadré `11` box une fois la gauche half de nœud a opened."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Laissez encadré `8` box tombe après la droite half a aussi cleared."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Nettoiez haut haut rouge et colonnes jaune que étaient holding curl dans placez."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier bleu haut acheminez après les deux abaissez cadres sont presque gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à videz abaissez encadré box pendant le centre curl est toujours tight.",
+        "Ignoring la droite porte jaune et overworking seulement le haut bleu acheminez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 23",
+    "description": "Résolvez le niveau 23 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

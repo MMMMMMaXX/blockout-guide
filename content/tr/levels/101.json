@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-101",
+  "locale": "tr",
+  "levelNumber": 101,
+  "title": "Block Out Seviye 101 Rehberi",
+  "summary": "Block Out Seviye 101 çiftler dual besle odalar — `9` üstde ve `4` altında — ile desenli yan istifler ki bak important ama actually sadece duvarlar. gerçek bulmaca timing: kırmızı aşağı-ok parça alt tepşide meli wait un...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "Block Out Seviye 101 çiftler dual besle odalar — `9` üstde ve `4` altında — ile desenli yan istifler ki bak important ama actually sadece duvarlar. gerçek bulmaca timing: kırmızı aşağı-ok parça alt tepşide meli wait kadar üst `9` besle neredeyse yapıldı önce o ebilir düşür merkez şeritden. Rush ok blok ve o gets buried çökertereke yan istifler.",
+        "landmarks": [
+          "Block Out Seviye 101 çiftler dual besle odalar — `9` üstde ve `4` altında — ile desenli yan istifler ki bak important ama actually sadece duvarlar.",
+          "Gerçek bulmaca timing: kırmızı aşağı-ok parça alt tepşide meli wait kadar üst `9` besle neredeyse yapıldı önce o ebilir düşür merkez şeritden.",
+          "Rush ok blok ve o gets buried çökertereke yan istifler."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Besle mor dotted blok ilk başla üst `9` sayaç.",
+        "Değil dokun kırmızı aşağı-ok parça kadar üst oda aşağı onun son bire veya iki passes.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Besle mor dotted blok alt tepşiden üst odaya başla `9` sayaç."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy sol kırmızı geç-pattern istifler aşağı doğru böylece üst besle şerit kalır açık."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle yeşil ve mavi tepşi parçalar üst odaya sonra sol istifler thins."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bitir son üst-oda pass sırasında merkez mavi ok sütun hâlâ boş."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Düşür kırmızı aşağı-ok blok merkez şeritden daha düşük `4` oda."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle kalan desenli bloklar sağdan sarı/mavi istifler closea daha düşük sayaç."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek kırmızı aşağı-ok parça önce üst oda neredeyse bitti — o gets buried sol istiflere.",
+        "Temizleyerek sağ sarı istifler önce üst besle şerit stable, hangi kapanır merkez düşür şerit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 101 Rehberi ve Çözümü",
+    "description": "Block Out seviye 101'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

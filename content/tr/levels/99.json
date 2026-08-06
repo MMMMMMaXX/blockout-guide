@@ -1,0 +1,102 @@
+{
+  "id": "tr-level-99",
+  "locale": "tr",
+  "levelNumber": 99,
+  "title": "Block Out Seviye 99 Rehberi",
+  "summary": "Block Out Seviye 99 uzman Level — densest ve longest bulmaca 50–100 range 138 saniye. büyük sarı/turuncu geç-şekilli blok dominates merkez, mor/mavi blok dolur üst-sol köşe, yeşil bloklar istifler...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/99/",
+        "layout": "Block Out Seviye 99 uzman Level — densest ve longest bulmaca 50–100 range 138 saniye. büyük sarı/turuncu geç-şekilli blok dominates merkez, mor/mavi blok dolur üst-sol köşe, yeşil bloklar istifler vertically sağda, pembe/macenta bloklar çizgi sol, ve kırmızı bloklar doldur kalan boşluklar. kilitlen/anahtar icons en az dört bloklar zorla specific temizleyerek sıra. Extract kenar bloklar ilk, temizle yeşil ve pembe masses açığa çıkar geç, sonra yönlendir o dışarı son.",
+        "landmarks": [
+          "Block Out Seviye 99 uzman Level — densest ve longest bulmaca 50–100 range 138 saniye.",
+          "Büyük sarı/turuncu geç-şekilli blok dominates merkez, mor/mavi blok dolur üst-sol köşe, yeşil bloklar istifler vertically sağda, pembe/macenta bloklar çizgi sol, ve kırmızı bloklar doldur kalan boşluklar.",
+          "Kilitlen/anahtar icons en az dört bloklar zorla specific temizleyerek sıra.",
+          "Extract kenar bloklar ilk, temizle yeşil ve pembe masses açığa çıkar geç, sonra yönlendir o dışarı son."
+        ],
+        "colors": ["red", "green", "blue", "orange", "pink", "yellow", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6RLLuyAXhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6RLLuyAXhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Bu 138-saniye marathon — plan hamleler, değil rush veya zorla.",
+        "Temizle yeşil istifler (sağ) ve pembe kütle (sol) önce anything else — onlar açığa çıkar geç blok's yanlar.",
+        "'süper yavaş' badge ~01:48 demektir sen paceda — prioritize yanlar."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle smallest kenar bloklar ilk: camgöbeği (alt-sağ, sağa doğru), mavi (üst-sol, yukarı doğru), pembe (sol yan, sola doğru) — her creates incremental alan (02:19–02:09 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Başla temizleyerek yeşil bloklar istiflendi sağ yanda sağdan-duvar çıkış çünkü onlar açığa çıkar geç blok's sağ arm (02:09–01:59)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle pembe/macenta bloklar sol yanda soldan-duvar çıkış çünkü onlar açığa çıkar geç blok's sol arm (01:59–01:48)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kilidini aç anahtar bloklar açık kilitlendi pathsa — geç-şekilli blok's kilitlen meli kilidi açıldı önce o ebilir hareket ettir (01:48)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle büyük mor/mavi köşe blok üstden-sol üstden veya sol çıkış çünkü o frees geç blok's üst arm (01:38–01:27)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Extract kırmızı bloklar kalan sıkıştırılmışdan areas en yakın çıkışlardan (01:27–01:06)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Yönlendir sarı/turuncu geç-şekilli blok widestden müsait çıkış yol — o gerektirir clearance tüm dörtde directions (01:06–00:56)."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Bitir ile son küçük bloklar sonra geç parça exited (00:46–00:25)."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir geç-şekilli blok önce temizleyerek tüm dört onun arms — o extends yukarı, aşağı, sol, ve sağ, ve cannot hareket ettir kadar every direction temizle.",
+        "Düşerek paceda ve seeing 'süper yavaş' badge — eğer yeşil ve pembe masses hâlâ present 01:48, geç blok cannot çıkış timede."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/99/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 99 Rehberi ve Çözümü",
+    "description": "Block Out seviye 99'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

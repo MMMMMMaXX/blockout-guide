@@ -1,0 +1,102 @@
+{
+  "id": "pt-br-level-98",
+  "locale": "pt-br",
+  "levelNumber": 98,
+  "title": "Guia do nível 98 do Block Out",
+  "summary": "Block Out Nível 98 divides tabuleiro em partitioned zonas com laranja moldura bordas. Ciano `5` blocos preencha superior-esquerda seção, roxo `8` câmara fica em centro atrás de cadeado/chave saídas, e roxo `13` câmara preenche inferior...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/98/",
+        "layout": "Block Out Nível 98 divides tabuleiro em partitioned zonas com laranja moldura bordas. Ciano `5` blocos preencha superior-esquerda seção, roxo `8` câmara fica em centro atrás de cadeado/chave saídas, e roxo `13` câmara preenche inferior seção. Estreito canais conecte zonas — blocos deve roteie único-file através os. Escoe ciano seção primeiro, desbloqueie e alimente `8` câmara, então termine com `13` câmara para 26 total passa.",
+        "landmarks": [
+          "Block Out Nível 98 divides tabuleiro em partitioned zonas com laranja moldura bordas.",
+          "Ciano `5` blocos preencha superior-esquerda seção, roxo `8` câmara fica em centro atrás de cadeado/chave saídas, e roxo `13` câmara preenche inferior seção.",
+          "Estreito canais conecte zonas — blocos deve roteie único-file através os.",
+          "Escoe ciano seção primeiro, desbloqueie e alimente `8` câmara, então termine com `13` câmara para 26 total passa."
+        ],
+        "colors": ["cyan", "red", "purple", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MX11ryK4VL0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MX11ryK4VL0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Escoe ciano `5` seção primeiro — ele é fastest alimente e abre espaço para everything else.",
+        "Limpar tudo pequeno blocos de canais antes que inicial qualquer câmara alimente — um stray peça halts everything.",
+        "Ordene spilled blocos immediately depois `8` câmara colapsa, antes que inicial `13` alimente."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Escoe ciano `5` blocos em superior-esquerda através esquerda-parede saída — cinco passa (02:52 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar grande vermelho bloco abaixo ciano seção através direita-parede saída para abra canal para centro zona (02:46)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desbloqueie chave blocos para access roxo `8` câmara's zona porque cadeado saídas bloco único canal em (02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Limpar pequeno verde e azul blocos de canais entre zonas antes que eles drift during alimente (02:33)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Alimente roxo `8` câmara através canal — oito passa, mantendo estreito passage limpar (02:26–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Ordene spilled blocos de `8` câmara colapse antes que eles enter inferior zona e bloco `13` pista (02:13)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar pequeno vermelho e ciano blocos ao redor `13` câmara através nearby saídas (02:07)."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Alimente roxo `13` câmara através inferior saídas — thirteen passa para termine (02:01–01:41)."
+        }
+      ],
+      "failurePoints": [
+        "Inicial `8` câmara alimente enquanto pequeno blocos são ainda em canais — eles bloco único-file passage e halt alimente com no caminho para limpar os sem resetting.",
+        "Ignorando spilled blocos depois `8` câmara colapsa — eles enter inferior zona e jam `13` câmara's saída pista, forcing múltiplo recuperação movimentos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/98/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 98 do Block Out",
+    "description": "Resolva o nível 98 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

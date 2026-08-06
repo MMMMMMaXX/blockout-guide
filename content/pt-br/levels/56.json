@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-56",
+  "locale": "pt-br",
+  "levelNumber": 56,
+  "title": "Guia do nível 56 do Block Out",
+  "summary": "Block Out Nível 56 empacota apertado grade com roxo '3' bloco em superior, vermelho e azul blocos preenchendo superior fileiras, e amarelo/verde blocos em meio. chokepoint é roxo '3' — ele blocos superior seção. Limpar inferior...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/56/",
+        "layout": "Block Out Nível 56 empacota apertado grade com roxo '3' bloco em superior, vermelho e azul blocos preenchendo superior fileiras, e amarelo/verde blocos em meio. chokepoint é roxo '3' — ele blocos superior seção. Limpar inferior primeiro, então funciona meio amarelo e verde blocos para fora, e termine com numerado blocos em superior.",
+        "landmarks": [
+          "Block Out Nível 56 empacota apertado grade com roxo '3' bloco em superior, vermelho e azul blocos preenchendo superior fileiras, e amarelo/verde blocos em meio.",
+          "Chokepoint é roxo '3' — ele blocos superior seção.",
+          "Limpar inferior primeiro, então funciona meio amarelo e verde blocos para fora, e termine com numerado blocos em superior."
+        ],
+        "colors": ["purple", "red", "blue", "yellow", "green", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sqRrXyRKFBA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sqRrXyRKFBA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Roxo '3' bloco em superior é multi-pass peça — limpar blocos abaixo ele primeiro so ele tem espaço para deslize.",
+        "Limpar inferior fileiras primeiro para crie deslizando espaço para superior numerado blocos.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar vermelho e rosa blocos em inferior em direção a direita saída para abra base."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque verde blocos em esquerda para fora através esquerda saída para abra inferior-esquerda área."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mova amarelo blocos em centro através esquerda saída agora que caminho é limpar."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece limpando azul blocos em meio através direita saída."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Tackle roxo '3' bloco em superior — ele precisa três saídas para totalmente limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar restante vermelho e azul blocos em direita através direita saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com qualquer restante blocos preso em cantos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para limpar roxo '3' bloco antes que blocos abaixo ele — ele precisa espaço para deslize e saída múltiplo vezes.",
+        "Limpando superior antes que inferior, que deixa inferior blocos preso com no deslizando espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/56/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 56 do Block Out",
+    "description": "Resolva o nível 56 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

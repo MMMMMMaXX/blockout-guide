@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-89",
+  "locale": "tr",
+  "levelNumber": 89,
+  "title": "Block Out Seviye 89 Rehberi",
+  "summary": "Block Out Seviye 89 açılır ile karışık üst raf ikiye istiflendi odalar. sök ki raf ilk, boşalt `6` oda sonraki, ve sonra temizle keyed sol şerit plus turuncu sütunlar önce `11` oda gives way kırmızı Te-shap...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/89/",
+        "layout": "Block Out Seviye 89 açılır ile karışık üst raf ikiye istiflendi odalar. sök ki raf ilk, boşalt `6` oda sonraki, ve sonra temizle keyed sol şerit plus turuncu sütunlar önce `11` oda gives way kırmızı Te-şekilli endgame.",
+        "landmarks": [
+          "Block Out Seviye 89 açılır ile karışık üst raf ikiye istiflendi odalar.",
+          "Sök ki raf ilk, boşalt `6` oda sonraki, ve sonra temizle keyed sol şerit plus turuncu sütunlar önce `11` oda gives way kırmızı Te-şekilli endgame.",
+          "Tahta mor, yeşil, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "green", "red", "yellow", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "w2T1hR-ByhM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=w2T1hR-ByhM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Eğer üst raf hâlâ live mavi veya yeşil parçalar, `11` oda değil hazır.",
+        "Keyed sarı şerit sol mattersda daha fazla raw `11` count.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaldır karışık strips üst rafda, especially mavi sıra ve yeşil blok üst-sağ."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Başla küçülerek üst `6` oda sadece sonra üst raf stopped besleyerek engelleyiciler aşağı doğru."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Bırak daha düşük `11` oda alone kadar `6` oda neredeyse gitti."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra üst oda açılır tahta, temizle keyed sarı şerit solda ve shorten turuncu sütunlar merkezden."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak `11` oda çökert sadece ne zaman kırmızı T-şekil ve iki mavi pools underneath o alan ayı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile kırmızı T-parça, son turuncu sütun, ve kalan sarı L-blok daha düşük-sol köşe."
+        }
+      ],
+      "failurePoints": [
+        "Dokunarak `11` oda sırasında üst raf hâlâ live mavi veya yeşil trafik.",
+        "Ignoring keyed sol şerit ve deneyerek brutea-zorla daha düşük yarı sonra `6` oda açılır."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/89/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 89 Rehberi ve Çözümü",
+    "description": "Block Out seviye 89'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

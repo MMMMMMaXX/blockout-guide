@@ -1,0 +1,96 @@
+{
+  "id": "fr-level-40",
+  "locale": "fr",
+  "levelNumber": 40,
+  "title": "Guide Block Out Niveau 40",
+  "summary": "Block Out Niveau 40 a boss cadre déjà à compteur `0` — il pas besoin reduction, juste physical étagère de blocs underneath removed. densely packed bleu, rouge, vert, et blocs jaune sous cadre form que étagère, et th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/40/",
+        "layout": "Block Out Niveau 40 a boss cadre déjà à compteur `0` — il pas besoin reduction, juste physical étagère de blocs underneath removed. densely packed bleu, rouge, vert, et blocs jaune sous cadre form que étagère, et résolvez est à propos de shifting la droite blocs à cassez support. Une fois étagère va, cadre dégage instantly et restant blocs déroulez à travers côté sorties.",
+        "landmarks": [
+          "Block Out Niveau 40 a boss cadre déjà à compteur `0` — il pas besoin reduction, juste physical étagère de blocs underneath removed.",
+          "Densely packed bleu, rouge, vert, et blocs jaune sous cadre form que étagère, et résolvez est à propos de shifting la droite blocs à cassez support.",
+          "Une fois étagère va, cadre dégage instantly et restant blocs déroulez à travers côté sorties."
+        ],
+        "colors": ["blue", "red", "green", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LpJIJVM7nF4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LpJIJVM7nF4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boss reads `0` — pas gaspillez coups essayant à reduce il. Juste remove étagère underneath.",
+        "Regardez pour blocs sliding haut à rebuild étagère quand vous dégagez abaissez rangée dans faux ordre.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez petit `2`-compteur blocs sur le bord gauche à create premier opening."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez les blocs bleu loin de directement sous boss cadre à commencez weakening étagère."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez les blocs rouge dans le centre à cassez dernier support point sous `0`-compteur cadre."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Regardez boss cadre dégagez instantly une fois étagère est gone (visible à 01:24)."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Utilisez nouvellement opened haut espace à sort restant blocs colorés."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez rouge et blocs vert à travers côté sorties."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec jaune et bleu cleanup après salle a flattened."
+        }
+      ],
+      "failurePoints": [
+        "Treating boss like standard compteur énigme — `0` means il needs non reduction, seulement étagère cassez.",
+        "Shifting faux abaissez bloc premier, qui causes restant pièces à glissez haut et rebuild étagère sous boss cadre."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/40/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 40",
+    "description": "Résolvez le niveau 40 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

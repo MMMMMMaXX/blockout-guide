@@ -1,0 +1,91 @@
+{
+  "id": "es-level-127",
+  "locale": "es",
+  "levelNumber": 127,
+  "title": "Guía de Block Out Nivel 127",
+  "summary": "Block Out nivel 127 feeds numbered discs — `6`, `4`, `5` — en naranja-bordered slots a través two cámaras, con a inferior Lego brick fila supplying the color sequence. The naranja-bordered morado `2` pilar anchors el centro, y the surro...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/127/",
+        "layout": "Block Out nivel 127 feeds numbered discs — `6`, `4`, `5` — en naranja-bordered slots a través two cámaras, con a inferior Lego brick fila supplying the color sequence. The naranja-bordered morado `2` pilar anchors el centro, y the surrounding 2×2 clusters en the derecho debe despejado antes el pilar puede drop. Force el pilar early y lo bloques la cámara inferior's solo feed carril.",
+        "landmarks": [
+          "Block Out nivel 127 feeds numbered discs — `6`, `4`, `5` — en naranja-bordered slots a través two cámaras, con a inferior Lego brick fila supplying the color sequence.",
+          "The naranja-bordered morado `2` pilar anchors el centro, y the surrounding 2×2 clusters en the derecho debe despejado antes el pilar puede drop.",
+          "Force el pilar early y lo bloques la cámara inferior's solo feed carril."
+        ],
+        "colors": ["morado", "orange", "green", "blue", "red", "pink", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r6zFw7xFbd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r6zFw7xFbd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Introduce the naranja `4` en the derecho `12` cámara antes shifting the rojo 2×2 stack.",
+        "The tall morado `2` pilar es the último objective — do no break lo hasta the inferior verde `3` carril es abierto.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Study the inferior Lego fila y feed the primero matching pair en the izquierdo naranja-bordered `14` cámara."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Suelta the verde `6` disc en la cámara izquierdo once the `14` slot opens."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Introduce the naranja `4` disc en the derecho `12` cámara mientras the blanco `5` marker en the derecho rail es todavía despejado."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the rojo 2×2 y azul 2×2 stacks en the superior-derecho without blocking the verde 2×2 debajo los."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Route the rosa L-shape y inferior verde `3` contador por the inferior grid."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Break the tall naranja-bordered morado `2` pilar y finish the restante inferior azul restos."
+        }
+      ],
+      "failurePoints": [
+        "Mueve the rojo 2×2 antes the naranja `4` disc enters the derecho `12` cámara — este jams the verde `3` carril.",
+        "Breaking the tall morado `2` pilar mientras the rosa L-shape todavía bloques the inferior grid."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/127/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 127",
+    "description": "Resuelve Block Out nivel 127 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

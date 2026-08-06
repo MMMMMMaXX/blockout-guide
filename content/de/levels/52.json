@@ -1,0 +1,91 @@
+{
+  "id": "de-level-52",
+  "locale": "de",
+  "levelNumber": 52,
+  "title": "Block Out Level 52 Lösung",
+  "summary": "Block Out Level 52 splits das Spielfeld mit hoch rot vertikal Blöcke runter Mitte, creating dual-Ziel Puzzle where linke Seite (grün, gelb) und rechte Seite (blau, pink) muss sein geräumt in coordination. Zähler '10' und '12'...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "Block Out Level 52 splits das Spielfeld mit hoch rot vertikal Blöcke runter Mitte, creating dual-Ziel Puzzle where linke Seite (grün, gelb) und rechte Seite (blau, pink) muss sein geräumt in coordination. Zähler '10' und '12' bei oben track remaining Blöcke auf jede Seite. Drain unten rows erste, dann arbeiten sides inward toward Mitte rot Wand.",
+        "landmarks": [
+          "Block Out Level 52 splits das Spielfeld mit hoch rot vertikal Blöcke runter Mitte, creating dual-Ziel Puzzle where linke Seite (grün, gelb) und rechte Seite (blau, pink) muss sein geräumt in coordination.",
+          "Zähler '10' und '12' bei oben track remaining Blöcke auf jede Seite.",
+          "Drain unten rows erste, dann arbeiten sides inward toward Mitte rot Wand."
+        ],
+        "colors": ["red", "green", "blue", "yellow", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Hoch rot Mitte Blöcke sind Wand, nicht Hindernis zu rush. Räumen beide sides erste.",
+        "Anschauen dual Zähler bei oben — sie tell du wie many Blöcke still need zu Ausgang auf jede Seite.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen untere blau Blöcke auf linke Seite und pink Blöcke auf rechte Seite toward ihr respective exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben gelb/orange Blöcke auf links hinaus durch links Ausgang zu öffnen mittlere-links Bereich."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Bewegen grün Blöcke bei obere linke durch linker Ausgang jetzt dass Pfad ist räumen."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Begin sliding hoch rot vertikal Blöcke in Mitte — sie kann nur bewegen once beide sides haben Raum."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen remaining blau Blöcke auf rechts durch rechts Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining rot Mitte Bauteile und unten rot Block."
+        }
+      ],
+      "failurePoints": [
+        "Moving hoch rot Mitte Blöcke bevor draining unten rows — sie Block beide exits simultaneously.",
+        "Focusing auf one Seite nur while andere Seite ist still packed, welche stalls Mitte rot Wand."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 52 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 52 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

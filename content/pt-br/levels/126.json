@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-126",
+  "locale": "pt-br",
+  "levelNumber": 126,
+  "title": "Guia do nível 126 do Block Out",
+  "summary": "Block Out Nível 126 lines cima horizontal Lego-textured barras com deslize setas, stacking os ao redor twin laranja-bordered `7` blocos e inferior `9`/`11` contador fileira. `7` par deve limpar em sequência — quebrando um sem primeiro openin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/126/",
+        "layout": "Block Out Nível 126 lines cima horizontal Lego-textured barras com deslize setas, stacking os ao redor twin laranja-bordered `7` blocos e inferior `9`/`11` contador fileira. `7` par deve limpar em sequência — quebrando um sem primeiro abertura centro canal deixa seu twin orphaned com no saída pista. inferior barra único começa counting baixo uma vez ambos `7` blocos são indo.",
+        "landmarks": [
+          "Block Out Nível 126 lines cima horizontal Lego-textured barras com deslize setas, stacking os ao redor twin laranja-bordered `7` blocos e inferior `9`/`11` contador fileira.",
+          "`7` par deve limpar em sequência — quebrando um sem primeiro abertura centro canal deixa seu twin orphaned com no saída pista.",
+          "Inferior barra único começa counting baixo uma vez ambos `7` blocos são indo."
+        ],
+        "colors": ["red", "pink", "purple", "blue", "cyan", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tlZ8zHlih30",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tlZ8zHlih30",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Direita laranja-bordered `7` deve go antes que esquerda um — reversing ordem blocos `9`/`11` barra.",
+        "Deixe centro `4` torre alone até superior amarelo/roxo/verde barra empilhe é totalmente limpo.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize superior rosa `7` e ciano `8` blocos ao longo fileira setas, então limpar amarelo/roxo/verde barra empilhe em esquerda."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre centro vermelho/azul/ciano `4` torre sem vedando direita vermelho seta pista."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desanexe esquerda azul `2` e roxo `4` coluna uma vez superior barras são indo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Pop ambos laranja-bordered roxo `7` blocos enquanto inferior ciano `13` e azul `15` contadores são ainda reachable."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste inferior leve-azul `9` e `11` contador peças para abra final pista."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar roxo `2` par e termine através ciano `4` e amarelo `6` saída contadores."
+        }
+      ],
+      "failurePoints": [
+        "Limpando esquerda roxo `7` antes que direita um — `9`/`11` barra permanece trancado.",
+        "Tocando centro `4` torre enquanto superior amarelo/roxo/verde barras são ainda em coloque."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/126/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 126 do Block Out",
+    "description": "Resolva o nível 126 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

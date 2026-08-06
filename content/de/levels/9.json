@@ -1,0 +1,98 @@
+{
+  "id": "de-level-9",
+  "locale": "de",
+  "levelNumber": 9,
+  "title": "Block Out Level 9 Lösung",
+  "summary": "Block Out Level 9 ist twin-tower Puzzle mit cramped mittlere notch. Räumen rechts gelb Ausgang erste, give blau Mitte cavity, dann drehen grün, pink, und rot clockwise around frame.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "Block Out Level 9 ist twin-tower Puzzle mit cramped mittlere notch. Räumen rechts gelb Ausgang erste, give blau Mitte cavity, dann drehen grün, pink, und rot clockwise around frame.",
+        "landmarks": [
+          "Block Out Level 9 ist twin-tower Puzzle mit cramped mittlere notch.",
+          "Räumen rechts gelb Ausgang erste, give blau Mitte cavity, dann drehen grün, pink, und rot clockwise around frame.",
+          "Das Spielfeld mixes Pink, Rot, Gelb und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Verwenden rechts gelb Ausgang zu break symmetry.",
+        "Mitte blau Block sollte bewegen als soon als notch öffnet.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben mittlere-rechts gelb Block hinaus durch gelber Ausgang auf rechte Wand."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Bewegen Mitte blau Block in new Eröffnungs- also mittlere notch ist kein longer blocked."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Drehen untere rechte grün Block nach unten und dann ziehen untere linke blau Block in sein own Bahn."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden freigegeben Mitte zu shuffle pink Blöcke über oben und mittlere rows while edge Zähler shrink."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let untere rot Block settle in Mitte once grün und blau sind kein longer überquerend es."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Aufsparen two oben-Ecke rot Blöcke bis obere lanes sind räumen."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden durch sending rot pair über oben exits und letting endgültig blau Block drain durch letzte blau beenden."
+        }
+      ],
+      "failurePoints": [
+        "Leaving Mitte blau Block geparkt nach rechts gelb Ausgang ist bereits öffnen.",
+        "Versuchen zu force one von oben rot Blöcke bevor untere grün und blau Bauteile haben gedreht."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 9 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 9 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

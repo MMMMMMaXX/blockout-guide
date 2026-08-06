@@ -1,0 +1,97 @@
+{
+  "id": "de-level-45",
+  "locale": "de",
+  "levelNumber": 45,
+  "title": "Block Out Level 45 Lösung",
+  "summary": "Block Out Level 45 ist outside-in Puzzle where thick rim von large rot, blau, grün, und gelb Blöcke boxes in smaller framed Ziel Blöcke in untere half. Rim muss sein abgezogen von oben und sides erste — large Blöcke lea...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "Block Out Level 45 ist outside-in Puzzle where thick rim von large rot, blau, grün, und gelb Blöcke boxes in smaller framed Ziel Blöcke in untere half. Rim muss sein abgezogen von oben und sides erste — large Blöcke lassen bevor targets. Once Mitte öffnet, framed targets kann finally travel durch zu ihr exits. Dieses inverts usual Boss pattern: big Bauteile sind openers, small ones sind finishers.",
+        "landmarks": [
+          "Block Out Level 45 ist outside-in Puzzle where thick rim von large rot, blau, grün, und gelb Blöcke boxes in smaller framed Ziel Blöcke in untere half.",
+          "Rim muss sein abgezogen von oben und sides erste — large Blöcke lassen bevor targets.",
+          "Once Mitte öffnet, framed targets kann finally travel durch zu ihr exits.",
+          "Dieses inverts usual Boss pattern: big Bauteile sind openers, small ones sind finishers."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Large Blöcke sind rim, nicht goal — abziehen sie erste.",
+        "Framed targets sind finishers dass nur bewegen nach Mitte hat real lanes.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Extract Blöcke von obere edge zu create erste gap in rim."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben large blau Block auf obere linke toward links exits."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Bewegen large rot Block auf obere rechte nächste."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verwenden freigegeben oben Platz zu verschieben grün Mitte Block, Eröffnungs- Bahn für untere targets."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Drehen erste framed Ziel durch widened Mitte und hinaus sein Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen second framed Ziel once erste ist gone und Mitte ist wider."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte rim fragments nach beide targets haben links."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen framed Ziel bevor rim hat geöffnet — Ziel needs wide Bahn durch Mitte dass nur exists nach large Blöcke sind gone.",
+        "Peeling nur one edge von rim und leaving opposite Seite thick, welche Blöcke Ziel's Pfad von andere direction."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 45 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 45 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

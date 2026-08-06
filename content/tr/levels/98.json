@@ -1,0 +1,102 @@
+{
+  "id": "tr-level-98",
+  "locale": "tr",
+  "levelNumber": 98,
+  "title": "Block Out Seviye 98 Rehberi",
+  "summary": "Block Out Seviye 98 divides tahta partitioneda zones ile turuncu çerçeve borders. camgöbeği `5` bloklar doldur üst-sol bölüm, mor `8` oda oturur merkezde kilitlende/anahtar kapılar, ve mor `13` oda dolur daha düşük...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/98/",
+        "layout": "Block Out Seviye 98 divides tahta partitioneda zones ile turuncu çerçeve borders. camgöbeği `5` bloklar doldur üst-sol bölüm, mor `8` oda oturur merkezde kilitlende/anahtar kapılar, ve mor `13` oda dolur daha düşük bölüm. dar kanallar bağla zones — bloklar meli yönlendir single-file onları. boşalt camgöbeği bölüm ilk, kilidini aç ve besle `8` oda, sonra bitir ile `13` oda için 26 total passes.",
+        "landmarks": [
+          "Block Out Seviye 98 divides tahta partitioneda zones ile turuncu çerçeve borders.",
+          "Camgöbeği `5` bloklar doldur üst-sol bölüm, mor `8` oda oturur merkezde kilitlende/anahtar kapılar, ve mor `13` oda dolur daha düşük bölüm.",
+          "Dar kanallar bağla zones — bloklar meli yönlendir single-file onları.",
+          "Boşalt camgöbeği bölüm ilk, kilidini aç ve besle `8` oda, sonra bitir ile `13` oda için 26 total passes."
+        ],
+        "colors": ["cyan", "red", "purple", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MX11ryK4VL0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MX11ryK4VL0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Boşalt camgöbeği `5` bölüm ilk — o en hızlı besle ve açılır alan için everything else.",
+        "Temizle tüm küçük bloklar kanallardan önce başlayarak any oda besle — bir stray parça halts everything.",
+        "Sort spilled bloklar immediately sonra `8` oda çöker, önce başlayarak `13` besle."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Boşalt camgöbeği `5` bloklar üst-sol soldan-duvar çıkış — beş passes (02:52 videoda)."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle büyük kırmızı blok altında camgöbeği bölüm sağdan-duvar çıkış açık kanala merkez zonea (02:46)."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kilidini aç anahtar bloklar accessa mor `8` oda's zone çünkü kilitlen kapılar blok sadece kanal (02:39)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle küçük yeşil ve mavi bloklar kanallardan arasında zones önce onlar drift during besle (02:33)."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle mor `8` oda kanaldan — sekiz passes, tutarak dar passage temizle (02:26–02:13)."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sort spilled bloklar `8` oda çökert önce onlar enter daha düşük zone ve blok `13` şerit (02:13)."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle küçük kırmızı ve camgöbeği bloklar `13` oda yakındakiden çıkışlar (02:07)."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Besle mor `13` oda alt çıkışlardan — thirteen passes bitir (02:01–01:41)."
+        }
+      ],
+      "failurePoints": [
+        "Başlayarak `8` oda besle sırasında küçük bloklar hâlâ kanallarda — onlar blok single-file passage ve halt besle ile hayır way temizle onları olmadan resetting.",
+        "Ignoring spilled bloklar sonra `8` oda çöker — onlar enter daha düşük zone ve sıkış `13` oda's çıkış şerit, forcing multiple iyileşme hamleler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/98/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 98 Rehberi ve Çözümü",
+    "description": "Block Out seviye 98'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

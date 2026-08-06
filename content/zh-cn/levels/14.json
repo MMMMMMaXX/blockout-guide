@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-14",
+  "locale": "zh-cn",
+  "levelNumber": 14,
+  "title": "Block Out 第 14 关通关攻略",
+  "summary": "先打开白色阶梯，并削减顶部计数器，再让外围框中的大型青色中心块脱离。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "ios-current-a",
+      "gameVersion": "current iOS catalog checked 2026-08-03",
+      "platforms": ["ios"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/14/",
+        "layout": "一块巨大的青色计数方块占据了五色边框的中心，白色方块集中在上方和右侧，黄色方块列把守着侧向通道。",
+        "landmarks": [
+          "中心是一块标着 7 的大型青色方块。",
+          "中央边框上方有一个从 17 开始的顶部计数器。",
+          "白色立柱在右侧组成了一道阶梯。",
+          "黄色方块列位于两侧，黑色方块则固定在下方两角。"
+        ],
+        "colors": ["cyan", "white", "yellow", "black", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "none",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "LSQFrqHy_xU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=LSQFrqHy_xU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先处理右侧的白色通道，再动用底部的黄色出口。",
+        "把青色 7 留在原位，直到边框在多于一侧被打开。",
+        "判断每次消除要看它开辟的下一条通道，而不只是看当下被移除的方块。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "松动右侧边缘",
+          "instruction": "把右上角的白色方块移入可用的出口通道，使外框开始收缩。"
+        },
+        {
+          "order": 2,
+          "title": "削减顶部计数器",
+          "instruction": "在青色 7 固定在中心的同时，持续清理顶部结构。"
+        },
+        {
+          "order": 3,
+          "title": "保留侧向支撑",
+          "instruction": "在下方黑色方块重新定位时，用黄色侧向方块列保持空间可用。"
+        },
+        {
+          "order": 4,
+          "title": "开辟纵向空间",
+          "instruction": "等右侧阶梯变薄后，把一根白色立柱降下，在中心块旁打开第一条纵向通道。"
+        },
+        {
+          "order": 5,
+          "title": "释放中心块",
+          "instruction": "只有当边框在至少两侧打开时，才移动青色 7，随后清空剩余的白色和黑色方块。"
+        },
+        {
+          "order": 6,
+          "title": "最后使用黄色出口",
+          "instruction": "等中心块和剩余边框方块不再争抢空间后，从底部黄色出口收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧阶梯仍锁住边框时就试图移动青色 7。",
+        "过早清空底部黄色通道，使中期阶段所需的间隔空间消失。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/14/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 14 关通关攻略与解法",
+    "description": "对上青色 7 棋盘，打开右侧阶梯，削减顶部计数器，并参照完整的 Block Out 第 14 关解法。"
+  },
+  "updatedAt": "2026-08-03"
+}

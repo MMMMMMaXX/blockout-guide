@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-64",
+  "locale": "pt-br",
+  "levelNumber": 64,
+  "title": "Guia do nível 64 do Block Out",
+  "summary": "Block Out Nível 64 é quadrante-moldura quebra-cabeça. Laranja moldura bordas divide tabuleiro em quatro câmaras — três filled com massivo roxo numerado blocos (contadores 4, 12, e 7), e um empacotado com pequeno colorido blocos. pequeno bloco...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/64/",
+        "layout": "Block Out Nível 64 é quadrante-moldura quebra-cabeça. Laranja moldura bordas divide tabuleiro em quatro câmaras — três filled com massivo roxo numerado blocos (contadores 4, 12, e 7), e um empacotado com pequeno colorido blocos. pequeno blocos em superior-direita quadrante são único peças que pode mova em comece. Limpar os primeiro para abra superior metade, então alimente roxo blocos através seus saídas em ascending contador ordem.",
+        "landmarks": [
+          "Block Out Nível 64 é quadrante-moldura quebra-cabeça.",
+          "Laranja moldura bordas divide tabuleiro em quatro câmaras — três filled com massivo roxo numerado blocos (contadores 4, 12, e 7), e um empacotado com pequeno colorido blocos.",
+          "Pequeno blocos em superior-direita quadrante são único peças que pode mova em comece.",
+          "Limpar os primeiro para abra superior metade, então alimente roxo blocos através seus saídas em ascending contador ordem."
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gKBANgKGy-w",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gKBANgKGy-w",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Superior-direita quadrante é seu único lever em comece — extraia cada pequeno bloco there primeiro.",
+        "Alimente roxo blocos em ascending contador ordem: '4' primeiro, então '7', então '12'.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Extraia pequeno colorido blocos de superior-direita quadrante através superior e direita saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar contador '2' bloco em superior de tabuleiro."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente superior-esquerda roxo bloco (contador '4') através seu saída uma vez superior metade abre."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Use liberado superior espaço para comece movendo inferior-direita roxo bloco (contador '7')."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Funciona massivo inferior-esquerda roxo bloco (contador '12') último — ele precisa mais espaço."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar qualquer restante colorido fragmentos depois roxo blocos são indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova roxo bloco antes que superior-direita quadrante é limpo — laranja molduras impeda ele.",
+        "Deixando contador '12' bloco até último sem creating suficiente saída pista width primeiro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/64/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 64 do Block Out",
+    "description": "Resolva o nível 64 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

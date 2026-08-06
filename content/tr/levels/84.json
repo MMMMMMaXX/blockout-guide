@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-84",
+  "locale": "tr",
+  "levelNumber": 84,
+  "title": "Block Out Seviye 84 Rehberi",
+  "summary": "Block Out Seviye 84 bir Zor Level ile üç massive mor bloklar bearing highest sayaçlar 50-100 range: '12', '21', ve '23'dır. Turuncu çerçeve borders oluştur oda partitions onları, ile renkli bloklar sıkıştırılmış arasında th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out Seviye 84 bir Zor Level ile üç massive mor bloklar bearing highest sayaçlar 50-100 range: '12', '21', ve '23'dır. Turuncu çerçeve borders oluştur oda partitions onları, ile renkli bloklar sıkıştırılmış arasında odalar. temizle küçük bloklar ilk açık besleyereke şeritler, sonra besle mor bloklar ascendingde sayaç sıra — '12' ilk, '21' saniye, '23' son.",
+        "landmarks": [
+          "Block Out Seviye 84 bir Zor Level ile üç massive mor bloklar bearing highest sayaçlar 50-100 range: '12', '21', ve '23'dır.",
+          "Turuncu çerçeve borders oluştur oda partitions onları, ile renkli bloklar sıkıştırılmış arasında odalar.",
+          "Temizle küçük bloklar ilk açık besleyereke şeritler, sonra besle mor bloklar ascendingde sayaç sıra — '12' ilk, '21' saniye, '23' son."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Besle mor bloklar ascendingde sayaç sıra: '12' ilk, '21' saniye, '23' son.",
+        "Tut '23' blok's çıkış şerit temizle başladan — asla bırak diğer bloklar drift onun yola.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle küçük renkli bloklar arasında mor odalar yandan çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Extract sayaç '5' blok erken."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla besleyerek mor '12' blok ilk — o lightest."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Besle mor '21' blok sonra '12' shrunk enough paylaşa şerit."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Sakla mor '23' blok için son — o gerektirir widest şerit ve çoğu passes."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle kalan oda parçalar sonra tüm mor bloklar gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek besle '23' blok önce lighter mor bloklar azaldı — şeritler çok dar.",
+        "Bırakarak renkli bloklar besleyerekde şerit, hangi zorlar mor bloklar sapaka."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 84 Rehberi ve Çözümü",
+    "description": "Block Out seviye 84'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

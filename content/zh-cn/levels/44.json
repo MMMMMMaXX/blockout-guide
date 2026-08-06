@@ -1,0 +1,97 @@
+{
+  "id": "zh-cn-level-44",
+  "locale": "zh-cn",
+  "levelNumber": 44,
+  "title": "Block Out 第 44 关通关攻略",
+  "summary": "Block Out 第 44 关标注为「Hard Level」，核心是一个位于底部四块 `5` 计数方块基座行之上的中央 `5` Boss 方块。Boss 上方有小数计数的方块（青色 `1`、一块 `3` 方块）和一个紫色装置需要……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out 第 44 关标注为「Hard Level」，核心是一个位于底部四块 `5` 计数方块基座行之上的中央 `5` Boss 方块。Boss 上方有小数计数的方块（青色 `1`、一块 `3` 方块）和一个紫色装置，需先清除以给 Boss 留出竖向空间。底部的 `5` 行与 Boss 协调坍塌——基座削减时 Boss 向下压。右侧的粉色方块是后期清理对象。",
+        "landmarks": [
+          "Block Out 第 44 关标注为「Hard Level」，核心是一个位于底部四块 `5` 计数方块基座行之上的中央 `5` Boss 方块。",
+          "Boss 上方有小数计数的方块（青色 `1`、一块 `3` 方块）和一个紫色装置，需先清除以给 Boss 留出竖向空间。",
+          "底部的 `5` 行与 Boss 协调坍塌——基座削减时 Boss 向下压。",
+          "右侧的粉色方块是后期清理对象。"
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上方计数块（`1` 和 `3`）虽小，却控制着整个棋盘——先清除它们。",
+        "Boss 与底部 `5` 行一起坍塌，因此不要试图单独清理基座。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "清除顶部青色 `1` 计数方块，在 Boss 上方开出第一个口。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "处理棋盘顶部的紫色装置。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "移除 `3` 计数方块，拓宽上方空间。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "上方空间打开后，开始让中央 `5` Boss 下落。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "随着 Boss 下压，让底部的四块 `5` 方块逐渐削减。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "作为后期颜色，清除右侧的粉色方块。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "Boss 消失后，处理底部残余方块并经由侧边出口完成关卡。"
+        }
+      ],
+      "failurePoints": [
+        "在上方 `1` 和 `3` 计数块清除前就试图让 `5` Boss 下落——Boss 没有移动空间，上方空间保持封闭。",
+        "在 Boss 开始下落前扰动底部 `5` 行，虽移除了支撑，却让 Boss 卡在上方、无路可下。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 44 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 44 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-54",
+  "locale": "pt-br",
+  "levelNumber": 54,
+  "title": "Guia do nível 54 do Block Out",
+  "summary": "Block Out Nível 54 é 'Difícil Nível' com quatro roxo chefe câmaras — contadores '3' e '11' em superior, '6' e '19' em inferior. câmaras são empacotado tightly com estreito gaps entre os. Limpar pequeno colorido blocos entre câmara...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out Nível 54 é 'Difícil Nível' com quatro roxo chefe câmaras — contadores '3' e '11' em superior, '6' e '19' em inferior. câmaras são empacotado tightly com estreito gaps entre os. Limpar pequeno colorido blocos entre câmaras primeiro, então escoe inferior câmaras antes que tackling superior uns. '19' câmara é heaviest — salve ele para depois circundante câmaras tem aberto cima espaço.",
+        "landmarks": [
+          "Block Out Nível 54 é 'Difícil Nível' com quatro roxo chefe câmaras — contadores '3' e '11' em superior, '6' e '19' em inferior.",
+          "Câmaras são empacotado tightly com estreito gaps entre os.",
+          "Limpar pequeno colorido blocos entre câmaras primeiro, então escoe inferior câmaras antes que tackling superior uns.",
+          "'19' câmara é heaviest — salve ele para depois circundante câmaras tem aberto cima espaço."
+        ],
+        "colors": ["purple", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar pequeno colorido blocos entre câmaras primeiro — eles são chave para abertura deslizando caminhos.",
+        "'19' câmara é marathon. Limpar menor câmaras primeiro para construa espaço, então chip longe em ele.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar amarelo blocos em esquerda lateral para abra lacuna entre superior-esquerda e inferior-esquerda câmaras."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Desloque vermelho/laranja blocos em centro para abra lacuna entre esquerda e direita câmaras."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece escoando inferior-esquerda câmara (contador '6') por deslizando seu blocos para fora através esquerda saída."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Funciona inferior-direita câmara (contador '19') — limpar ele gradually enquanto inferior-esquerda é também escoando."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mova para superior-esquerda câmara (contador '3') — ele é lightest e should limpar rapidamente."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com superior-direita câmara (contador '11'), que tem mais espaço depois outros são drained."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar qualquer restante colorido blocos preso entre emptied câmaras."
+        }
+      ],
+      "failurePoints": [
+        "Escoando um câmara completamente antes que tocando outros — este remove deslizando paredes e entrava restante câmaras.",
+        "Tackling '19' câmara primeiro quando circundante espaço é ainda empacotado — ele precisa espaço para maneuver."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 54 do Block Out",
+    "description": "Resolva o nível 54 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

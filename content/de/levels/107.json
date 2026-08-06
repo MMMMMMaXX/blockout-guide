@@ -1,0 +1,91 @@
+{
+  "id": "de-level-107",
+  "locale": "de",
+  "levelNumber": 107,
+  "title": "Block Out Level 107 Lösung",
+  "summary": "Block Out Level 107 layers creature markers, dual padlocks, und rechts-Pfeil hinausführen Kachel onto irregular brick Spielfeld. Blau und lila verklemmt Ausgang two halves von Raster, und unten `3` tray ist Zähler Ausgang — nicht freigeben refi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/107/",
+        "layout": "Block Out Level 107 layers creature markers, dual padlocks, und rechts-Pfeil hinausführen Kachel onto irregular brick Spielfeld. Blau und lila verklemmt Ausgang two halves von Raster, und unten `3` tray ist Zähler Ausgang — nicht freigeben refill. Hoch gelb cluster auf links und rot C-shape auf rechts compete für gleich Bahn, also räumend verklemmt in falsch Reihenfolge jams hinausführen.",
+        "landmarks": [
+          "Block Out Level 107 layers creature markers, dual padlocks, und rechts-Pfeil hinausführen Kachel onto irregular brick Spielfeld.",
+          "Blau und lila verklemmt Ausgang two halves von Raster, und unten `3` tray ist Zähler Ausgang — nicht freigeben refill.",
+          "Hoch gelb cluster auf links und rot C-shape auf rechts compete für gleich Bahn, also räumend verklemmt in falsch Reihenfolge jams hinausführen."
+        ],
+        "colors": ["green", "yellow", "red", "blue", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mvigiJZ71eE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mvigiJZ71eE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Öffnen blau padlock bevor lila one — untere grün Pfeil Bahn depends auf dass Reihenfolge.",
+        "Tu nicht spend unten `3` tray while either padlock ist still closed.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Entfernen oben grün creature Kachel und mittlere gelb troll Kachel."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Break obere linke rot/gelb/blau cluster ohne sliding in either padlock."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Hinausführen rechts-Pfeil orange Block durch öffnen rechts channel."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Öffnen blau padlock in untere linke, dann lila padlock in untere-Mitte."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Schieben untere grün Pfeil Kachel durch geöffnet untere Bahn."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend unten orange `3` tray zu close Zähler `5` und `4`, dann räumen blau L-shape marked `1`."
+        }
+      ],
+      "failurePoints": [
+        "Spending unten `3` tray bevor beide padlocks sind öffnen — dieses boxes in untere grün Pfeil Kachel.",
+        "Feeding rechts-Pfeil orange Kachel bevor obere-mittlere gap ist actually räumen."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/107/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 107 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 107 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

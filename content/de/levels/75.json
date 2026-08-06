@@ -1,0 +1,91 @@
+{
+  "id": "de-level-75",
+  "locale": "de",
+  "levelNumber": 75,
+  "title": "Block Out Level 75 Lösung",
+  "summary": "Block Out Level 75 verwendet überqueren-shaped Spielfeld mit stepped pixelated edges — nicht usual rectangle. Blöcke sind packed in beide obere und untere arms von überqueren, connected nur durch Mitte junction. Räumen obere arm erste zu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/75/",
+        "layout": "Block Out Level 75 verwendet überqueren-shaped Spielfeld mit stepped pixelated edges — nicht usual rectangle. Blöcke sind packed in beide obere und untere arms von überqueren, connected nur durch Mitte junction. Räumen obere arm erste zu öffnen junction, dann ansteuern untere arm's heavy Blöcke durch widened Mitte zu unten exits.",
+        "landmarks": [
+          "Block Out Level 75 verwendet überqueren-shaped Spielfeld mit stepped pixelated edges — nicht usual rectangle.",
+          "Blöcke sind packed in beide obere und untere arms von überqueren, connected nur durch Mitte junction.",
+          "Räumen obere arm erste zu öffnen junction, dann ansteuern untere arm's heavy Blöcke durch widened Mitte zu unten exits."
+        ],
+        "colors": ["green", "red", "yellow", "purple", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "0-D_Iw1P4YU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=0-D_Iw1P4YU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mitte junction ist nur Pfad zwischen obere und untere arms — räumen es früh.",
+        "Hinausführen untere arm's heavy Blöcke letzte when Mitte hat meisten Raum.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen small grün Blöcke near obere arm tips durch Seite exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract framed Block von Mitte junction zu öffnen überquerend point."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Ziehen remaining rot und gelb Blöcke von obere arm durch oben oder Seite exits."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Ansteuern erste untere-arm Blöcke (lila und orange) durch geöffnet Mitte junction."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen larger gelb und blau Blöcke von untere arm durch unten exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit high-Zähler Blöcke dass need meisten passes durch unten."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu ansteuern untere-arm Blöcke durch Mitte bevor obere arm ist geräumt — junction jams.",
+        "Ignoring framed Block in Mitte junction, welche gates alle Verkehr zwischen two arms."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/75/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 75 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 75 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-100",
+  "locale": "fr",
+  "levelNumber": 100,
+  "title": "Guide Block Out Niveau 100",
+  "summary": "Block Out Niveau 100 est court anneau-rotation plateau built autour one déplaçant videz poche. Ouvrez le côté gauche premier, poursuivez gap à le haut-droite coin, et alors utilisez cleared milieu colonne à flush final dalles vert à travers t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out Niveau 100 est court anneau-rotation plateau built autour one déplaçant videz poche. Ouvrez le côté gauche premier, poursuivez gap à le haut-droite coin, et alors utilisez cleared milieu colonne à flush final dalles vert à travers le haut et droite sorties.",
+        "landmarks": [
+          "Block Out Niveau 100 est court anneau-rotation plateau built autour one déplaçant videz poche.",
+          "Ouvrez le côté gauche premier, poursuivez gap à le haut-droite coin, et alors utilisez cleared milieu colonne à flush final dalles vert à travers le haut et droite sorties.",
+          "Le plateau mélange vert, jaune et orange et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gardez videz poche déplaçant. Si il obtient buried dans le milieu too tôt, anneau stalls.",
+        "Haut-droite coin doit ouvrez avant vous try à encaissez le haut-centre dalle vert.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Utilisez petit gap sur le côté gauche de anneau à commencez rotation."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez le haut-rangée dalles donc videz poche coups dans le haut-droite coin."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Ouvrez le milieu colonne une fois que haut-droite coin est dégagez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Envoyez le haut-centre dalle vert hors à travers la sortie supérieure comme soon comme son voie opens."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez la droite-côté dalle vert suivant, alors alimentez restant dalles jaune autour anneau."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier blocs vert une fois le centre est videz."
+        }
+      ],
+      "failurePoints": [
+        "Dropping dalle dans le milieu avant videz poche a rotated à le haut-droite coin.",
+        "Essayant à dégagez le haut-centre dalle vert avant le milieu colonne est actually ouvrez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 100",
+    "description": "Résolvez le niveau 100 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

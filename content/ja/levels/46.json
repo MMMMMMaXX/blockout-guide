@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-46",
+  "locale": "ja",
+  "levelNumber": 46,
+  "title": "ブロックアウト レベル46 攻略",
+  "summary": "ブロックアウト レベル46は、上半分に3つのボス部屋——それぞれ『3』の2つと『10』の1つ——を持ち、すべて赤・青・緑・黄・オレンジのブロックの詰まった下部部屋の上にあります。下部のブロックを",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/46/",
+        "layout": "ブロックアウト レベル46は、上半分に3つのボス部屋——それぞれ『3』の2つと『10』の1つ——を持ち、すべて赤・青・緑・黄・オレンジのブロックの詰まった下部部屋の上にあります。まず下部のブロックを排出して2つの『3』の部屋を素早く崩し、それから空いた上部のスペースをより長い『10』の削減に使います。",
+        "landmarks": [
+          "ブロックアウト レベル 46 ボス 部屋 渡り 上の — `3`、`10` — 配置し 上 詰まった 下の 部屋 赤、青、緑、黄、オレンジ .。",
+          "を排出して下の 出す `3` 部屋 崩す、使う 解放し 上の `10` .。",
+          "混ぜる 赤、青、緑、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "blue", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BlOqxhba-jU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BlOqxhba-jU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`3` 部屋 — 上 始める `10`、間違った .。",
+        "を排出して下の、ボス 部屋.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "下の の方へ 下 出口 始める ボス カウンター.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を出して`3`- 部屋 崩す 下の .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を維持して`10` 部屋 配置し、`3` .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて解放し 上の `10` .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "色分け 側 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して赤、青、黄 下の 部屋.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて部屋、側 .。"
+        }
+      ],
+      "failurePoints": [
+        "間 部屋 始める — `10` 必要とし 遠い `3`、.。",
+        "下の、ボス 部屋、ボス 崩す .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/46/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル46 攻略と解説",
+    "description": "ブロックアウト レベル46 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

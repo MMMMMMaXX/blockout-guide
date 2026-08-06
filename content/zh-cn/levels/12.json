@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-12",
+  "locale": "zh-cn",
+  "levelNumber": 12,
+  "title": "Block Out 第 12 关通关攻略",
+  "summary": "Block Out 第 12 关是一个沙漏形谜题，两个腔室由中间的细腰相连。让长条方块交替着穿过中央咽喉，保持上下两半平衡，并用临时凹槽来安放青色 `2` 方块。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "Block Out 第 12 关是一个沙漏形谜题，两个腔室由中间的细腰相连。让长条方块交替着穿过中央咽喉，保持上下两半平衡，并用临时凹槽来安放青色 `2` 方块。",
+        "landmarks": [
+          "Block Out 第 12 关是一个沙漏形谜题，两个腔室由中间的细腰相连。",
+          "让长条方块交替着穿过中央咽喉，保持上下两半平衡，并用临时凹槽来安放青色 `2` 方块。",
+          "棋盘上混合了蓝色、红色、青色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "每一次有效走子都要么穿过细腰，要么清理细腰。",
+        "只有在长条方块穿过后，再移动成对的青色 `2` 方块。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "让中间的一根竖向长条穿过狭窄的咽喉，使上下两个腔室不再互相挤卡。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "通过细腰交换顶部的红色和蓝色方块列，直到某一侧的计数器缩小到腾出额外空间。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "只有长条方块穿过后，再移动成对的青色 `2` 方块，这样它们会利用临时凹槽，而不是堵住它。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "持续在顶部到底部、底部到顶部之间交替穿过中央，直到外侧的黄色方块列能干净地分开。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用新打开的侧向通道，把每个腔室里的红色方块列移走。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "等咽喉不再被占据后，最后排空剩下的黄色和蓝色方块列收尾。"
+        }
+      ],
+      "failurePoints": [
+        "还没利用另一半之前，就试图把其中一个腔室完全清空。",
+        "当整列方块仍需要穿过时，却把短方块停在咽喉里。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 12 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 12 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

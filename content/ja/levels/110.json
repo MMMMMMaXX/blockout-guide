@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-110",
+  "locale": "ja",
+  "levelNumber": 110,
+  "title": "ブロックアウト レベル110 攻略",
+  "summary": "ブロックアウト レベル110は、高い紫の枠の中央に1つのつながった赤のポリオミノを隠しています—3つの別々のブロックに見えますが、1つのパーツとして動きます。上部の「11」ゲートと左レールの「8」列が、オレンジ枠の青の「3」ポケット…を封じます。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/110/",
+        "layout": "ブロックアウト レベル110は、高い紫の枠の中央に1つのつながった赤のポリオミノを隠しています—3つの別々のブロックに見えますが、1つのパーツとして動きます。上部の「11」ゲートと左レールの「8」列が、下部のオレンジ枠の青の「3」ポケットを封じ、密集した「19」の塊が底部を埋めます。赤の形状を早く分割すると、右のピンクのＬ字型ピースが永久に閉じ込められます。",
+        "landmarks": [
+          "ブロックアウト レベル 110 赤 ポリオミノ 中央 紫 枠 — 分離する、手順 ピース.。",
+          "上 `11` 出口、を残して-レール `8` 列 塞ぐ オレンジ- 青 `3` 空きマス 下、密集した `19` 塊 下.。",
+          "赤のを分割して、ピンク Ｌ字型 右 .。"
+        ],
+        "colors": ["blue", "red", "green", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_D-7FbZBiEE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_D-7FbZBiEE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を割りて中央の赤 ポリオミノ — 分割する .。",
+        "を消去して左に、-レール `8`、をスライドさせて下-塊 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を取り除きて上 -青 `11` タイル 解放する オレンジ- 中央 空きマス.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして左に、-レール `8` 列、をスライドさせて下-塊 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を消去して周りを 中央 青 `3` 空きマス 下 `19` 塊.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "をずらして中央の赤 ポリオミノ、黄 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を解放して右に、-側 ピンク `1` タイル、下の ピンク Ｌ字型、赤 手順.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて青 台座、下 カウンター `3`、`14`.。"
+        }
+      ],
+      "failurePoints": [
+        "中央の赤 ポリオミノ、罠 右 ピンク Ｌ字型.。",
+        "下 `19` 塊、上 `11` タイル、を残して-レール `8` .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/110/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル110 攻略と解説",
+    "description": "ブロックアウト レベル110 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

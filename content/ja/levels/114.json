@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-114",
+  "locale": "ja",
+  "levelNumber": 114,
+  "title": "ブロックアウト レベル114 攻略",
+  "summary": "ブロックアウト レベル114は2つのレンチと2つの南京錠ブロックを与えますが、本当の制約は底部の4本の色バー—装飾ではなく生きた割り当て—です。各レンチは正確に1つの南京錠の塊を開錠し、青のレンチを…に使うと…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/114/",
+        "layout": "ブロックアウト レベル114は2つのレンチと2つの南京錠ブロックを与えますが、本当の制約は底部の4本の色バー—装飾ではなく生きた割り当て—です。各レンチは正確に1つの南京錠の塊を開錠し、青のレンチを間違った錠前に使うと、左のシアンバーが「10」で固まり、直す工具がなくなります。上部の装置カウンターが「3」に下がるのは、時間が迫っている合図です。",
+        "landmarks": [
+          "ブロックアウト レベル 114、下 —、.。",
+          "錠 塊、青 間違った ロックする 左 シアン 棒 `10` .。",
+          "上 装置 カウンター `3` .。"
+        ],
+        "colors": ["red", "pink", "yellow", "orange", "green", "cyan", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UAzhWbdstDQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UAzhWbdstDQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤 上の 黄 ブロック — 上 .。",
+        "下 `14` ピンク 棒 ノルマ、黄のを消去して`12`、緑 `4`、星 塊.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "赤 上の 黄 ブロック 解放する 上 ピンク/黄 塊.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "黄のを消去しての方へ 下 `12` 棒、中央 ピンク -.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "シアン列を剥がして左に、赤 左 矢印、側 カウンター `15` `10`.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青 緑 ブロック 解放する オレンジ タイル 下の-中央の.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "緑のを通して下 `4` 棒、青 ブロック `1` 棒.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を割りて上に、ピンク 星 塊 右、下 `14` ピンク 棒 緑 右 矢印.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "出口 オレンジ、下 カウンター `7`、`9`.。"
+        }
+      ],
+      "failurePoints": ["青、赤、を残して上 塊 .。", "消去 ピンク 星 塊、黄 `12` 棒 .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/114/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル114 攻略と解説",
+    "description": "ブロックアウト レベル114 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "es-level-71",
+  "locale": "es",
+  "levelNumber": 71,
+  "title": "Guía de Block Out Nivel 71",
+  "summary": "Block Out nivel 71 packs a 6×8 grid con a grande morado '13' bloque en the superior, libre-sliding smiley bloques en the central, y directional flecha bloques en el lados. El bloque morado needs 13 salidas — despejado the inferior primero, luego work the s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/71/",
+        "layout": "Block Out nivel 71 packs a 6×8 grid con a grande morado '13' bloque en the superior, libre-sliding smiley bloques en the central, y directional flecha bloques en el lados. El bloque morado needs 13 salidas — despejado the inferior primero, luego work the smiley bloques, y finish con the heavy morado bloque en the superior.",
+        "landmarks": [
+          "Block Out nivel 71 packs a 6×8 grid con a grande morado '13' bloque en the superior, libre-sliding smiley bloques en the central, y directional flecha bloques en el lados.",
+          "El bloque morado needs 13 salidas — despejado the inferior primero, luego work the smiley bloques, y finish con the heavy morado bloque en the superior.",
+          "El tablero mixes morado, verde, amarillo y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["morado", "green", "yellow", "blue", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_vwwRLOMKd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_vwwRLOMKd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "The morado '13' bloque es a marathon — despejado the smiley bloques primero a build espacio.",
+        "The smiley bloques en the central son libre-sliding — use este freedom a despejado caminos para la flecha bloques.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the verde smiley bloques en the inferior por el salida inferior a abierto la base."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desplaza the azul bloques en the izquierdo fuera por el salida izquierdo a abierto the inferior-izquierdo zona."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza sliding the amarillo y verde smiley bloques en the central libremente — ellos puede movimiento en cualquier direction."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the rojo bloques en the derecho por el salida derecho mientras the central opens."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Aborda the grande morado '13' bloque en the superior — lo needs 13 salidas a totalmente despejado."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con cualquier restante smiley bloques trapped en el esquinas."
+        }
+      ],
+      "failurePoints": [
+        "Trying a despejado the '13' bloque antes the smiley bloques — lo needs room a slide y salida multiple times.",
+        "Elimina the superior antes the inferior, que leaves the inferior bloques trapped con no sliding room."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/71/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 71",
+    "description": "Resuelve Block Out nivel 71 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

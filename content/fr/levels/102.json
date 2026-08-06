@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-102",
+  "locale": "fr",
+  "levelNumber": 102,
+  "title": "Guide Block Out Niveau 102",
+  "summary": "Block Out Niveau 102 flips usual formula — au lieu de de sliding blocs hors, vous're placing les dans. videz main grille sits au-dessus bas inventory de L-shapes et 2×2 amas, et étape compteur tracks chaque transfer. énigme est...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/102/",
+        "layout": "Block Out Niveau 102 flips usual formula — au lieu de de sliding blocs hors, vous're placing les dans. videz main grille sits au-dessus bas inventory de L-shapes et 2×2 amas, et étape compteur tracks chaque transfer. énigme est spatial: fitting chaque pièce proprement sans blocking le milieu colonne, où one misplaced vert `1` tuile peut sceau plateau.",
+        "landmarks": [
+          "Block Out Niveau 102 flips usual formula — au lieu de de sliding blocs hors, vous're placing les dans.",
+          "Videz main grille sits au-dessus bas inventory de L-shapes et 2×2 amas, et étape compteur tracks chaque transfer.",
+          "Énigme est spatial: fitting chaque pièce proprement sans blocking le milieu colonne, où one misplaced vert `1` tuile peut sceau plateau."
+        ],
+        "colors": ["red", "yellow", "green", "blue", "violet", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "QlBmUgkCuJk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=QlBmUgkCuJk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Gardez le centre colonne videz jusqu'à highlighted vert `1` pièce est placed.",
+        "Regardez étape compteur — vous doit reach étape 6 avant abaissez half est fully packed.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Laissez tomber premier bas-plateau amas dans supérieur gauche de main cadre à ouvrez exécutez (étape 1)."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Placez suivant deux amas le long de le haut rangée donc le centre colonne stays videz."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez highlighted vert `1` pièce à travers ouvrez centre colonne avant filling abaissez half."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Transfer mid-exécutez L-shapes dans la gauche et droite abaissez coins donc ils pas croisez le centre voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Placez restant cyan et violet paires le long de le bas rangée de main cadre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez dernier deux-bloc regroupez de le bas plateau à terminez étape-11 completion."
+        }
+      ],
+      "failurePoints": [
+        "Filling le centre colonne avant vert `1` pièce est placed — highlighted pièce alors a non vers le bas chemin.",
+        "Dropping tardif L-shapes dans le milieu de grille au lieu de de abaissez coins, qui blocs final placements."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/102/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 102",
+    "description": "Résolvez le niveau 102 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

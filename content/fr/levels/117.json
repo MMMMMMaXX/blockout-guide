@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-117",
+  "locale": "fr",
+  "levelNumber": 117,
+  "title": "Guide Block Out Niveau 117",
+  "summary": "Block Out Niveau 117 uses house-shaped violet cadre avec dotted abaissez grille, côté `13` rails, et external `4` alimentez panneaux sur la gauche et bas. house cadre a son own packing ordre: arch doit stay ouvrez jusqu'à external pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "Block Out Niveau 117 uses house-shaped violet cadre avec dotted abaissez grille, côté `13` rails, et external `4` alimentez panneaux sur la gauche et bas. house cadre a son own packing ordre: arch doit stay ouvrez jusqu'à external panneaux ont delivered leur blocs. Pack arch too tôt et dernier jaune alimentez barre a nowhere à allez, boxing dans côté rails permanently.",
+        "landmarks": [
+          "Block Out Niveau 117 uses house-shaped violet cadre avec dotted abaissez grille, côté `13` rails, et external `4` alimentez panneaux sur la gauche et bas.",
+          "House cadre a son own packing ordre: arch doit stay ouvrez jusqu'à external panneaux ont delivered leur blocs.",
+          "Pack arch too tôt et dernier jaune alimentez barre a nowhere à allez, boxing dans côté rails permanently."
+        ],
+        "colors": ["green", "blue", "red", "orange", "yellow", "cyan", "violet"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Garez numéroté circle dans dotted grille seulement après la droite arrow sliders ont dégagez voie.",
+        "Gauche `13` rail doit amincissez avant la gauche cyan `4` panneau peut alimentez arch.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Remove supérieur vert `2` tuile et bleu `4` bloc de le haut amas."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez la gauche `13` côté rail sans blocking dotted abaissez zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez pièces à travers la gauche cyan `4` panneau à ouvrez house cadre."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Acheminez la droite rouge-arrow et bleu-arrow sliders une fois supérieur orange/rangée vert thins."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Placez abaissez jaune circle (`9`, alors `6`) dans dotted grille sans overfilling arch."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez le bas barre jaune et droite cyan `4` compteur à close restant côté rails à `10`."
+        }
+      ],
+      "failurePoints": [
+        "Overfilling arch avant la droite arrow sliders dégagez — ce boxes dans rouge-arrow voie.",
+        "Placing abaissez numéroté circle too tôt pendant la gauche `13` rail est toujours plein."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 117",
+    "description": "Résolvez le niveau 117 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

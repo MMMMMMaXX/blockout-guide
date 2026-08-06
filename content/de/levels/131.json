@@ -1,0 +1,93 @@
+{
+  "id": "de-level-131",
+  "locale": "de",
+  "levelNumber": 131,
+  "title": "Block Out Level 131 Lösung",
+  "summary": "Block Out Level 131 wraps figure-8 frame around Mitte orange `5` Ausgang, mit blau links-Pfeile, rot rechts-Pfeile, und gelb runter-Pfeile marking nur legal Ausgang lanes. Untere linke blau `2` seal und obere rot `3` Block compete f...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "Block Out Level 131 wraps figure-8 frame around Mitte orange `5` Ausgang, mit blau links-Pfeile, rot rechts-Pfeile, und gelb runter-Pfeile marking nur legal Ausgang lanes. Untere linke blau `2` seal und obere rot `3` Block compete für gleich corridor — schieben rot `3` durch exposed untere linke Bahn too früh und `5` Ausgang loses sein nur incoming Pfad.",
+        "landmarks": [
+          "Block Out Level 131 wraps figure-8 frame around Mitte orange `5` Ausgang, mit blau links-Pfeile, rot rechts-Pfeile, und gelb runter-Pfeile marking nur legal Ausgang lanes.",
+          "Untere linke blau `2` seal und obere rot `3` Block compete für gleich corridor — schieben rot `3` durch exposed untere linke Bahn too früh und `5` Ausgang loses sein nur incoming Pfad.",
+          "Das Spielfeld mixes Gelb, Grün, Blau und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["yellow", "green", "blue", "red", "purple", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Hinausführen blau-star cluster durch links Pfeil bevor 3 Zähler fällt … lassen in waist.",
+        "Aufsparen rot L-cluster für rechts-Pfeil Bahn bis obere chamber ist empty.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen oben gelb arm rows und spend Mitte orange 5 Ausgang ohne überquerend untere linke 2 seals."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Schieben untere linke blau-star cluster durch blau links-Pfeil Bahn while waist ist still narrow."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break Mitte lila corridor zu fallen lassen rot 3 Zähler Block in waist Eröffnungs-."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Hinausführen untere linke rot L-cluster durch rot rechts-Pfeil Bahn once obere chamber empties."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verschieben remaining grün vertikal Stapel toward gelb nach unten-Pfeil Ausgang bei unten Mitte."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen letzte gelb, blau, und lila scraps in unten L-pocket für das Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Touching untere linke 2 seals bevor Mitte 5 Ausgang räumt, locking waist.",
+        "Sending rot L-cluster durch rechts Pfeil bevor obere chamber empties, blocking nach unten Ausgang."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 131 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 131 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

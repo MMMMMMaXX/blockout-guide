@@ -1,0 +1,96 @@
+{
+  "id": "de-level-36",
+  "locale": "de",
+  "levelNumber": 36,
+  "title": "Block Out Level 36 Lösung",
+  "summary": "Block Out Level 36 ist dense mosaic von interlocking rot, grün, blau, und gelb tetromino-shaped Blöcke mit kein Boss frames oder Gerät Zähler. Das Spielfeld ist also tightly packed dass erste gap muss come von oben, und lösen wor...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/36/",
+        "layout": "Block Out Level 36 ist dense mosaic von interlocking rot, grün, blau, und gelb tetromino-shaped Blöcke mit kein Boss frames oder Gerät Zähler. Das Spielfeld ist also tightly packed dass erste gap muss come von oben, und lösen arbeitet nach unten: räumen grün Blöcke near oben erste, verschieben Mitte gelb mass, dann drain rot und blau Blöcke durch unten exits. One falsch schieben in Mitte kann jam multiple Bauteile.",
+        "landmarks": [
+          "Block Out Level 36 ist dense mosaic von interlocking rot, grün, blau, und gelb tetromino-shaped Blöcke mit kein Boss frames oder Gerät Zähler.",
+          "Das Spielfeld ist also tightly packed dass erste gap muss come von oben, und lösen arbeitet nach unten: räumen grün Blöcke near oben erste, verschieben Mitte gelb mass, dann drain rot und blau Blöcke durch unten exits.",
+          "One falsch schieben in Mitte kann jam multiple Bauteile."
+        ],
+        "colors": ["red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2ZjbQeYqCgs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2ZjbQeYqCgs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Anschauen empty Platz. Wenn gap created bei oben hat nicht traveled runter zu Mitte yet, unten Blöcke sind still verklemmt.",
+        "Large gelb L-shaped Block in Mitte-links ist key unlock — once es Züge, meisten Blöcke kann folgen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben erste small Block hinaus durch oben Ausgang zu create initial gap in packed Spielfeld."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben grün Blöcke near obere rechte toward oben Ausgang zu widen Eröffnungs-."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden new Platz zu bewegen large gelb L-shaped Block in Mitte-links — dieses ist key unlock."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once gelb mass hat verschoben, rot Blöcke beneath es kann starten sliding toward unten exits."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Arbeiten blau Blöcke hinaus durch rechte Seite oder unten nach Mitte ist less congested."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Behalten unten Ausgang lanes räumen für endgültig rot und grün Bauteile."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte remaining Block nach mosaic hat unraveled von oben zu unten."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu force blau Block hinaus durch unten bevor Mitte gelb und rot Blöcke haben verschoben enough — dieses creates deadlock around 01:12.",
+        "Working unten exits bevor oben gap hat propagated runter durch Mitte, welche lässt entire Spielfeld verklemmt."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/36/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 36 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 36 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

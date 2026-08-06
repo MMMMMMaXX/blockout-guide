@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-27",
+  "locale": "fr",
+  "levelNumber": 27,
+  "title": "Guide Block Out Niveau 27",
+  "summary": "Block Out Niveau 27 est poche-relâchez boss énigme. Videz la droite cavité premier, commencez lowering la gauche `7` boss second, et seulement alors nettoiez haut tardif vert, rouge, et jaune bandes.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "Block Out Niveau 27 est poche-relâchez boss énigme. Videz la droite cavité premier, commencez lowering la gauche `7` boss second, et seulement alors nettoiez haut tardif vert, rouge, et jaune bandes.",
+        "landmarks": [
+          "Block Out Niveau 27 est poche-relâchez boss énigme.",
+          "Videz la droite cavité premier, commencez lowering la gauche `7` boss second, et seulement alors nettoiez haut tardif vert, rouge, et jaune bandes.",
+          "Le plateau mélange violet, blanc et noir et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Droite poche opens la gauche boss.",
+        "Tardif couleur bandes sont post-boss cleanup.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Videz la droite blanc-et-noir cavité premier."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Abaissez la gauche-côté compteurs pendant boss est toujours intact."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Commencez shrinking encadré `7` panneau seulement après côté poche est dégagez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez nouvellement opened espace à tournez tardif vert et rouge bandes."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Bring jaune retirez dans seulement après boss est déjà sous mid-count."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez côté sorties une fois boss est presque gone."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier couleur bandes après encadré panneau a collapsed."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring la droite cavité et pulling sur la gauche boss too tôt.",
+        "Treating tardif couleur bandes comme opening phase."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 27",
+    "description": "Résolvez le niveau 27 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

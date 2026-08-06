@@ -1,0 +1,93 @@
+{
+  "id": "fr-level-90",
+  "locale": "fr",
+  "levelNumber": 90,
+  "title": "Guide Block Out Niveau 90",
+  "summary": "Block Out Niveau 90 est ouvrez-plateau plateau built autour one shared centre well. Dégagez premier jaune shapes sans sealing que milieu espace, alors laissez rouge étagère, vert staircase, et later blocs jaune tournez à travers même openi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/90/",
+        "layout": "Block Out Niveau 90 est ouvrez-plateau plateau built autour one shared centre well. Dégagez premier jaune shapes sans sealing que milieu espace, alors laissez rouge étagère, vert staircase, et later blocs jaune tournez à travers même opening jusqu'à arena empties.",
+        "landmarks": [
+          "Block Out Niveau 90 est ouvrez-plateau plateau built autour one shared centre well.",
+          "Dégagez premier jaune shapes sans sealing que milieu espace, alors laissez rouge étagère, vert staircase, et later blocs jaune tournez à travers même opening jusqu'à arena empties.",
+          "Le plateau mélange jaune, orange et rouge et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["yellow", "orange", "red", "green", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aOS9SOWUNa0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aOS9SOWUNa0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Treat le milieu de plateau like reserved airspace. pas garez pièces là.",
+        "Côté verrous matter seulement quand vous laissez traffic bunch haut suivant à les.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Déplacez supérieur L jaune-shape hors premier donc le haut half de arena opens."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez inférieur gauche carré vert et premier carré jaune sans filling le centre well."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Quand rouge étagère appears dans le milieu, tournez il à travers ouvrez centre au lieu de de pinning il à côté mur."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez vert staircase et bleu foot-shaped pièces croisez le milieu one à time pendant côté sorties stay dégagez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Économisez bulkier jaune shapes pour après rouge et vert traffic a thinned."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec dernier L rouge-pièce et restant blocs jaune une fois le milieu de plateau est videz encore."
+        }
+      ],
+      "failurePoints": [
+        "Stuffing pièces dans abaissez coins et closing le centre well.",
+        "Treating Niveau 90 like channel énigme au lieu de de ouvrez-plateau rotation plateau."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/90/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 90",
+    "description": "Résolvez le niveau 90 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "de-level-80",
+  "locale": "de",
+  "levelNumber": 80,
+  "title": "Block Out Level 80 Lösung",
+  "summary": "Block Out Level 80 fills das Spielfeld mit hoch grün und blau/türkis vertikal Spalten getrennt durch Mitte gap von rot verklemmen-und-key Blöcke. Spalten cannot bewegen bis verklemmen sequence in Mitte ist gelöst. Räumen verklemmen-und-key Block...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "Block Out Level 80 fills das Spielfeld mit hoch grün und blau/türkis vertikal Spalten getrennt durch Mitte gap von rot verklemmen-und-key Blöcke. Spalten cannot bewegen bis verklemmen sequence in Mitte ist gelöst. Räumen verklemmen-und-key Blöcke erste zu öffnen gap, dann schieben hoch grün Spalten runter durch unten exits, followed durch blau/türkis Spalten.",
+        "landmarks": [
+          "Block Out Level 80 fills das Spielfeld mit hoch grün und blau/türkis vertikal Spalten getrennt durch Mitte gap von rot verklemmen-und-key Blöcke.",
+          "Spalten cannot bewegen bis verklemmen sequence in Mitte ist gelöst.",
+          "Räumen verklemmen-und-key Blöcke erste zu öffnen gap, dann schieben hoch grün Spalten runter durch unten exits, followed durch blau/türkis Spalten."
+        ],
+        "colors": ["green", "blue", "cyan", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Focus entirely auf Mitte verklemmen-und-key gap erste — kein Spalte Züge bis es öffnet.",
+        "Schieben grün Spalten runter bevor blau/türkis — grün ist closer zu exits.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abgleichen key Blöcke mit ihr corresponding verklemmen Blöcke in Mitte gap."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen unlocked rot Blöcke von Mitte zu öffnen gap."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Schieben hoch grün Spalte Blöcke auf links nach unten durch unten exits."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Verschieben blau/türkis Spalte Blöcke auf rechts runter once grün Spalten create Raum."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen small türkis/blau Blöcke bei unten durch Pfeil-nach-unten- exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden mit irgendein remaining Spalte fragments."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu bewegen hoch Spalte bevor Mitte verklemmen Blöcke sind geräumt — Spalten haben kein Raum.",
+        "Mismatching keys und verklemmt, welche verschwendet Züge und lässt Blöcke gated."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 80 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 80 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

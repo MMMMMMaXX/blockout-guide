@@ -1,0 +1,103 @@
+{
+  "id": "pt-br-level-92",
+  "locale": "pt-br",
+  "levelNumber": 92,
+  "title": "Guia do nível 92 do Block Out",
+  "summary": "Block Out Nível 92 empacota colorido blocos ( verde L-forma, laranja `7` contador bloco, grande vermelho quadrado, azul, amarelo, e roxo peças com cadeado/chave icons) em superior seção enquanto dois massivo câmaras preencha inferior tabuleiro — coun...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/92/",
+        "layout": "Block Out Nível 92 empacota colorido blocos ( verde L-forma, laranja `7` contador bloco, grande vermelho quadrado, azul, amarelo, e roxo peças com cadeado/chave icons) em superior seção enquanto dois massivo câmaras preencha inferior tabuleiro — contador `15` em vermelho moldura em superior, contador `10` em laranja moldura abaixo. Limpar superior seção para abra pistas, alimente `15` câmara primeiro, ordene spill, então alimente `10` câmara.",
+        "landmarks": [
+          "Block Out Nível 92 empacota colorido blocos ( verde L-forma, laranja `7` contador bloco, grande vermelho quadrado, azul, amarelo, e roxo peças com cadeado/chave icons) em superior seção enquanto dois massivo câmaras preencha inferior tabuleiro — contador `15` em vermelho moldura em superior, contador `10` em laranja moldura abaixo.",
+          "Limpar superior seção para abra pistas, alimente `15` câmara primeiro, ordene spill, então alimente `10` câmara.",
+          "Tabuleiro mistura Verde, Laranja, Amarelo e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["green", "orange", "yellow", "red", "blue", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "C32pAC1HOlo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=C32pAC1HOlo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Limpar superior seção como rápido como possible — dois câmara alimenta precisa tudo restante tempo.",
+        "Remova pequeno ciano e verde blocos em borda remova antes que inicial `15` câmara alimente.",
+        "Ordene spilled blocos immediately depois `15` câmara colapsa, antes que eles jam `10` câmara pista."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize verde L-shaped bloco em superior-esquerda através esquerda-parede saída para abra primeiro pista (02:54 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Comece alimentando laranja `7` bloco para cima através superior saída — sete passa (02:49–02:39)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Limpar cadeado/chave pares: remova chave blocos para desbloqueie azul peças beside grande vermelho quadrado (02:44)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Empurre amarelo bloco direita através direita-parede saída, então extraia grande vermelho quadrado bloco de centro (02:39)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar pequeno ciano e verde blocos em borda remova entre superior e inferior zonas antes que eles drift em alimente pista (02:34)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Comece alimentando superior câmara (contador `15`) através seu saída pista — mantenha este pista permanentemente limpar para fifteen passa (02:29–02:15)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Depois `15` câmara colapsa, immediately ordene spilled vermelho, azul, verde, e amarelo blocos antes que eles bloco inferior pista (02:10)."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Alimente inferior câmara (contador `10`) através inferior saídas — dez passa para termine (02:10–02:00)."
+        }
+      ],
+      "failurePoints": [
+        "Inicial `15` câmara alimente enquanto borda remova ainda tem pequeno ciano e verde blocos — eles drift em alimente pista e stall contador mid-pass.",
+        "Ignorando spilled blocos depois `15` câmara colapsa — eles jam `10` câmara's saída pista e force múltiplo recuperação movimentos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/92/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 92 do Block Out",
+    "description": "Resolva o nível 92 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

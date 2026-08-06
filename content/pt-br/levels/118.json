@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-118",
+  "locale": "pt-br",
+  "levelNumber": 118,
+  "title": "Guia do nível 118 do Block Out",
+  "summary": "Block Out Nível 118 camadas vermelho threshold barra através 6×6 Lego-textured grade com lateral-trilho contadores e estrela-patterned ciano bolso que deve survive mid-use intacto. grade desliza em fileiras — cada empurre ripples através tudo seis colu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/118/",
+        "layout": "Block Out Nível 118 camadas vermelho threshold barra através 6×6 Lego-textured grade com lateral-trilho contadores e estrela-patterned ciano bolso que deve survive mid-use intacto. grade desliza em fileiras — cada empurre ripples através tudo seis colunas. centro vermelho bloco looks harmless, mas deslizando ele antes que direita trilho solta buries estrela bolso debaixo deslocando debris.",
+        "landmarks": [
+          "Block Out Nível 118 camadas vermelho threshold barra através 6×6 Lego-textured grade com lateral-trilho contadores e estrela-patterned ciano bolso que deve survive mid-use intacto.",
+          "Grade desliza em fileiras — cada empurre ripples através tudo seis colunas.",
+          "Centro vermelho bloco looks harmless, mas deslizando ele antes que direita trilho solta buries estrela bolso debaixo deslocando debris."
+        ],
+        "colors": ["cyan", "green", "yellow", "red", "purple", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "W5Eeo1DQgt8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=W5Eeo1DQgt8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Do não divida estrela-patterned ciano 3×3 bolso — ele âncoras esquerda-centro desliza.",
+        "Salve direita amarelo L-aglomerado até inferior roxo `2` contador aparece.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Quebre superior ciano tetromino debaixo vermelho threshold barra sem crossing esquerda `2` trilho."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Descasque esquerda verde coluna enquanto mantendo estrela-patterned ciano 3×3 bolso intacto."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque inferior vermelho para baixo-seta bloco através centro depois esquerda trilho solta para `10`."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente direita-trilho `6` e `8` counts baixo com verde direita-seta pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar amarelo L-aglomerado em direita único depois inferior roxo `2` contador é visível."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Saída último vermelho e amarelo recortes através abra para baixo pista para tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Dividindo estrela-patterned ciano bolso também cedo, que remove esquerda-centro ancore.",
+        "Movendo direita amarelo L-aglomerado antes que inferior roxo `2` contador é visível."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/118/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 118 do Block Out",
+    "description": "Resolva o nível 118 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "ja-level-81",
+  "locale": "ja",
+  "levelNumber": 81,
+  "title": "ブロックアウト レベル81 攻略",
+  "summary": "ブロックアウト レベル81は、背の高く細い盤面に、幅全体の色付き横棒を積み重ねています。上部にカウンター「1」の緑の棒、その下に青・赤・緑の棒、そして右側に大きな黄／オレンジブロックがあります。鍵ブロックが…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "ブロックアウト レベル81は、背の高く細い盤面に、幅全体の色付き横棒を積み重ねています。上部にカウンター「1」の緑の棒、その下に青・赤・緑の棒、そして右側に大きな黄／オレンジブロックがあります。カウンター「2」の鍵ブロックが中央を塞ぎ、底部にはカウンター「10」と「5」の重いブロックがあります。上部から下へ棒を剥がし、中央の錠前を消去し、最後に重い底部ブロックを通します。",
+        "landmarks": [
+          "ブロックアウト レベル 81 積み -、.。",
+          "緑 棒 カウンター '1' 配置し 上、青、赤、緑、黄/オレンジ ブロック 右側.。",
+          "ロックする ブロック カウンター '2' 出口 中央、下 カウンター '10'、'5'.。",
+          "を剥がして上 下、を消去して中央 ロックする、通す 下 .。"
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を剥がして上 下 — - スライドさせる .。",
+        "を消去してロックする ブロック 中央、下の- 棒.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "緑棒をスライドさせて(カウンター '1') 上 上 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "青棒を取り出して下 上 出口.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤棒を引きて、上-下 剥がす.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を消去してロックする ブロック カウンター '2' 中央-左 解放する 下の 積み.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を通して黄/オレンジ ブロックアウト -区画.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して下 (カウンター '10'、'5') 下 出口.。"
+        }
+      ],
+      "failurePoints": ["棒 積み — - ブロック 下 .。", "下、ロックする ブロック 消去し、下の .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル81 攻略と解説",
+    "description": "ブロックアウト レベル81 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

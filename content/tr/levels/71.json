@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-71",
+  "locale": "tr",
+  "levelNumber": 71,
+  "title": "Block Out Seviye 71 Rehberi",
+  "summary": "Block Out Seviye 71 barındırır 6×8 ızgara ile büyük mor '13' blok üstde, serbest-kaydırarak gülen yüz bloklar ortada, ve yönlü ok bloklar yanlarda. mor blok gerektirir 13 çıkışlar — temizle alt ilk, sonra çalış s...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/71/",
+        "layout": "Block Out Seviye 71 barındırır 6×8 ızgara ile büyük mor '13' blok üstde, serbest-kaydırarak gülen yüz bloklar ortada, ve yönlü ok bloklar yanlarda. mor blok gerektirir 13 çıkışlar — temizle alt ilk, sonra çalış gülen yüz bloklar, ve bitir ile heavy mor blok üstde.",
+        "landmarks": [
+          "Block Out Seviye 71 barındırır 6×8 ızgara ile büyük mor '13' blok üstde, serbest-kaydırarak gülen yüz bloklar ortada, ve yönlü ok bloklar yanlarda.",
+          "Mor blok gerektirir 13 çıkışlar — temizle alt ilk, sonra çalış gülen yüz bloklar, ve bitir ile heavy mor blok üstde.",
+          "Tahta mor, yeşil, sarı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "_vwwRLOMKd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=_vwwRLOMKd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mor '13' blok marathon — temizle gülen yüz bloklar ilk inşa et alan.",
+        "Gülen yüz bloklar ortada serbest-kaydırarak — kullan bu freedom temizle paths için ok bloklar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle yeşil gülen yüz bloklar altda alt çıkışdan açık tabana."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır mavi bloklar sol dışarıda sol çıkışdan açık daha düşük-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla kaydırarak sarı ve yeşil gülen yüz bloklar orta freelyde — onlar ebilir hareket ettir any directionda."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle kırmızı bloklar sağda sağ çıkışdan orta açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tackle büyük mor '13' blok üstde — o gerektirir 13 çıkışlar fullya temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan gülen yüz bloklar tuzağa düştü köşelerde."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek temizle '13' blok önce gülen yüz bloklar — o gerektirir alan kaydır ve çıkış multiple times.",
+        "Temizleyerek üst önce alt, hangi bırakır daha düşük bloklar tuzağa düştü ile hayır kaydırarak alan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/71/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 71 Rehberi ve Çözümü",
+    "description": "Block Out seviye 71'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

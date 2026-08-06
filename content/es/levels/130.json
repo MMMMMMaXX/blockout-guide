@@ -1,0 +1,91 @@
+{
+  "id": "es-level-130",
+  "locale": "es",
+  "levelNumber": 130,
+  "title": "Guía de Block Out Nivel 130",
+  "summary": "Block Out nivel 130 chains a 10-wide superior grid a a separate inferior contador marco por a lock-y-clave mechanism — a azul lock y morado clave baldosa sit en la fila centro, y matching los opens el carril feed entre tableros. The rojo roc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "Block Out nivel 130 chains a 10-wide superior grid a a separate inferior contador marco por a lock-y-clave mechanism — a azul lock y morado clave baldosa sit en la fila centro, y matching los opens el carril feed entre tableros. The rojo rocket-marked bloques en the superior grid look urgent pero son solo traffic. Mueve los antes the lock/clave breaks y the inferior verde flecha carril seals permanentemente.",
+        "landmarks": [
+          "Block Out nivel 130 chains a 10-wide superior grid a a separate inferior contador marco por a lock-y-clave mechanism — a azul lock y morado clave baldosa sit en la fila centro, y matching los opens el carril feed entre tableros.",
+          "The rojo rocket-marked bloques en the superior grid look urgent pero son solo traffic.",
+          "Mueve los antes the lock/clave breaks y the inferior verde flecha carril seals permanentemente."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "morado", "pink", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantén the rojo rocket bloques parked hasta the azul lock/morado clave pair breaks.",
+        "El marco inferior contador drops desde `20` a `17` mientras the superior grid clears — watch lo antes the final push.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Peel the superior-fila bloques using the azul arriba-flecha, luego despejado the verde padlock baldosas en la banda superior."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Break the chain-linked derecho-lado pair without shifting the rojo rocket bloques yet."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Coincide the azul lock baldosa con the morado clave baldosa en la fila centro a abierto el marco inferior."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Route the superior grid salidas por the izquierdo rojo y derecho naranja flecha carriles."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Gasta the inferior contadores `4`, `5`, y `1` a feed the inferior `17` marco."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the último superior restos y zero el contador inferior baldosa para the PERFECT despejado."
+        }
+      ],
+      "failurePoints": [
+        "Mueve the rojo rocket bloques antes the lock/clave pair breaks — the inferior verde flecha carril seals shut.",
+        "Breaking the chain link mientras padlock baldosas son todavía en la banda superior."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 130",
+    "description": "Resuelve Block Out nivel 130 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

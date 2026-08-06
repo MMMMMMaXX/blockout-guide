@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-115",
+  "locale": "fr",
+  "levelNumber": 115,
+  "title": "Guide Block Out Niveau 115",
+  "summary": "Block Out Niveau 115 splits plateau dans trois colonnes gated par directional arrows — vert, rose, et bleu allez haut pendant rouge, jaune, et orange allez bas. rose dotted connector entre deux `7` paires est clé pièce: laissez tomber il à travers ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/115/",
+        "layout": "Block Out Niveau 115 splits plateau dans trois colonnes gated par directional arrows — vert, rose, et bleu allez haut pendant rouge, jaune, et orange allez bas. rose dotted connector entre deux `7` paires est clé pièce: laissez tomber il à travers le milieu colonne premier et stacks au-dessus peut finally drainez. Touch la gauche-colonne `1` stack avant le centre reshapes et connector obtient buried.",
+        "landmarks": [
+          "Block Out Niveau 115 splits plateau dans trois colonnes gated par directional arrows — vert, rose, et bleu allez haut pendant rouge, jaune, et orange allez bas.",
+          "Rose dotted connector entre deux `7` paires est clé pièce: laissez tomber il à travers le milieu colonne premier et stacks au-dessus peut finally drainez.",
+          "Touch la gauche-colonne `1` stack avant le centre reshapes et connector obtient buried."
+        ],
+        "colors": ["violet", "cyan", "pink", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gk9J6m1hutU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gk9J6m1hutU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rose dotted connector doit laissez tomber avant un `7` paire peut split.",
+        "Dégagez la droite lone `1` à travers orange bas-arrow à ouvrez la droite voie tôt.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tirez rose dotted connector vers le bas à travers le milieu colonne utilisant jaune bas-arrow."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Alimentez supérieur gauche `1` stack de trois tuiles cyan bas à travers la colonne rouge arrow."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Dégagez lone droite-colonne cyan `1` à travers orange bas-arrow à ouvrez la droite voie."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Split supérieur `7` paire dans le milieu colonne une fois connector a passed rose haut-triangle."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Envoyez abaissez gauche `1` stack à travers rouge bas-arrow après supérieur `7`s sont gone."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Drainez abaissez `7` paire hors à travers jaune bas-arrow et sortie restant colonne vert pièces."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant gauche-colonne `1` stack avant rose dotted connector a dropped.",
+        "Essayant à split `7` paires pendant connector toujours sits entre les."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/115/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 115",
+    "description": "Résolvez le niveau 115 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

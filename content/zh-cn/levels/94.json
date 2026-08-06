@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-94",
+  "locale": "zh-cn",
+  "levelNumber": 94,
+  "title": "Block Out 第94关攻略",
+  "summary": "Block Out 第94关是一个四室级联：顶部「14」和「18」，中间横贯一条「6」条，右下角藏着「3」口袋。先打开下方杂物，第二步清空「3」和「6」室，之后才进入漫长的「14」和「18」输送。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/94/",
+        "layout": "Block Out 第94关是一个四室级联：顶部「14」和「18」，中间横贯一条「6」条，右下角藏着「3」口袋。先打开下方杂物，第二步清空「3」和「6」室，之后才进入漫长的「14」和「18」输送。",
+        "landmarks": [
+          "Block Out 第94关是一个四室级联：顶部「14」和「18」，中间横贯一条「6」条，右下角藏着「3」口袋。",
+          "先打开下方杂物，第二步清空「3」和「6」室，之后才进入漫长的「14」和「18」输送。",
+          "棋盘混合了紫色、红色、绿色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "HHXsbhe7LCY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=HHXsbhe7LCY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右下角「3」口袋不是可选的清理。它是开局的一部分。",
+        "如果「6」条还活着，「18」室可能还没准备好。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "先清空左下角杂物，尤其是锁/钥块和底部各室周围的红绿堆叠。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "打开并排空右下角「3」室，让右四分之一终于有旋转空间。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "接着收缩中间「6」室，利用新打开的下方通道保持交叉通道畅通。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "一旦下半部分不再共用通道，就开始输送左上角「14」室。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "把右上角「18」室留作最漫长的残局输送，等下方的青色 T 形和紫色弯头已经让开。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "「18」室坍塌后，用最后的青色和紫色残留收尾。"
+        }
+      ],
+      "failurePoints": [
+        "忽视右下角「3」口袋，假装第 94 关只有三个室。",
+        "在中间「6」条仍在争夺同一通道时就启动「18」室。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/94/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第94关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第94关。"
+  },
+  "updatedAt": "2026-08-03"
+}

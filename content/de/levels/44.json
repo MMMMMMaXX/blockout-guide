@@ -1,0 +1,97 @@
+{
+  "id": "de-level-44",
+  "locale": "de",
+  "levelNumber": 44,
+  "title": "Block Out Level 44 Lösung",
+  "summary": "Block Out Level 44 ist labeled 'schwer Level' und weist auf central `5` Boss Quadrat sitting auf foundation Reihe von four `5`-Zähler Blöcke bei unten. Über Boss, small-Zähler Blöcke (türkis `1`, `3` Block) und lila Gerät muss...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out Level 44 ist labeled 'schwer Level' und weist auf central `5` Boss Quadrat sitting auf foundation Reihe von four `5`-Zähler Blöcke bei unten. Über Boss, small-Zähler Blöcke (türkis `1`, `3` Block) und lila Gerät muss sein geräumt erste zu give Boss vertikal Raum. Unten `5` Reihe und Boss collapse in coordination — Boss schiebt runter als foundation thins. Pink Blöcke auf rechts sind spät-phase cleanup.",
+        "landmarks": [
+          "Block Out Level 44 ist labeled 'schwer Level' und weist auf central `5` Boss Quadrat sitting auf foundation Reihe von four `5`-Zähler Blöcke bei unten.",
+          "Über Boss, small-Zähler Blöcke (türkis `1`, `3` Block) und lila Gerät muss sein geräumt erste zu give Boss vertikal Raum.",
+          "Unten `5` Reihe und Boss collapse in coordination — Boss schiebt runter als foundation thins.",
+          "Pink Blöcke auf rechts sind spät-phase cleanup."
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Obere Zähler (`1` und `3`) sind small aber sie Ausgang whole Spielfeld — räumen sie erste.",
+        "Boss und unten `5` Reihe collapse together, also tu nicht versuchen zu räumen foundation independently.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen türkis `1`-Zähler Block bei oben zu create erste Eröffnungs- über Boss."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Service lila Gerät bei oben von das Spielfeld."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Entfernen `3`-Zähler Block zu widen obere Platz."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Starten dropping central `5` Boss once obere Raum ist öffnen."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let four `5` Blöcke bei unten thin als Boss schiebt runter."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Räumen pink Blöcke auf rechte Seite als spät-phase Farbe."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit remaining unten Blöcke und Seite exits nach Boss ist gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu fallen lassen `5` Boss bevor obere `1` und `3` Zähler sind geräumt — Boss hat kein Raum zu bewegen und obere Platz stays sealed.",
+        "Disturbing unten `5` Reihe bevor Boss hat gestartet dropping, welche entfernt support aber lässt Boss fest über mit kein Pfad runter."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 44 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 44 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

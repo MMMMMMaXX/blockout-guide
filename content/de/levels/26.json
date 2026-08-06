@@ -1,0 +1,98 @@
+{
+  "id": "de-level-26",
+  "locale": "de",
+  "levelNumber": 26,
+  "title": "Block Out Level 26 Lösung",
+  "summary": "Block Out Level 26 ist bridge-und-Boss Spielfeld. Drain obere chamber in `18` throat erste, untere bridge second, und nur dann let huge untere `21` Boss starten collapsing.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/26/",
+        "layout": "Block Out Level 26 ist bridge-und-Boss Spielfeld. Drain obere chamber in `18` throat erste, untere bridge second, und nur dann let huge untere `21` Boss starten collapsing.",
+        "landmarks": [
+          "Block Out Level 26 ist bridge-und-Boss Spielfeld.",
+          "Drain obere chamber in `18` throat erste, untere bridge second, und nur dann let huge untere `21` Boss starten collapsing.",
+          "Das Spielfeld mixes Pink, Grün, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["pink", "green", "white", "black", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "oEWdWZ88q_0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=oEWdWZ88q_0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`18` throat öffnet Level.",
+        "Untere `21` panel ist second-phase Ziel.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen obere chamber in central `18` throat und starten lowering sein count."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten shaving Seite Zähler in oben Raum while untere `21` panel stays untouched."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden weiß-und-schwarz Blockierer in oben Raum zu behalten bridge von refilling."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once `18` Bahn ist much untere, öffnen passage in untere chamber."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Starten shrinking `21` Boss nur nach bridge ist kein longer crowded."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Drehen spät lila und rot Bauteile once unten Raum hat actual Platz."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte obere leftovers nach untere Boss hat bereits fallen."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu arbeiten untere Boss bevor bridge hat geöffnet.",
+        "Letting obere chamber refill `18` throat nach es hat bereits gestartet dropping."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/26/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 26 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 26 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de-level-19",
+  "locale": "de",
+  "levelNumber": 19,
+  "title": "Block Out Level 19 Lösung",
+  "summary": "Block Out Level 19 ist basement-erste numeric Spielfeld. Öffnen untere rot, grün, schwarz, und weiß stapeln erste, dann flatten giant `20/10` türkis carpet, und spend gelb roof nur nach mittlere hat softened.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "Block Out Level 19 ist basement-erste numeric Spielfeld. Öffnen untere rot, grün, schwarz, und weiß stapeln erste, dann flatten giant `20/10` türkis carpet, und spend gelb roof nur nach mittlere hat softened.",
+        "landmarks": [
+          "Block Out Level 19 ist basement-erste numeric Spielfeld.",
+          "Öffnen untere rot, grün, schwarz, und weiß stapeln erste, dann flatten giant `20/10` türkis carpet, und spend gelb roof nur nach mittlere hat softened.",
+          "Das Spielfeld mixes Türkis, Blau, Gelb und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["cyan", "blue", "yellow", "red", "green", "black", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Basement ist phase one.",
+        "Giant türkis field nur matters nach untere Blockierer haben gedreht.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Öffnen rechte Seite von basement also untere rot und grün Bauteile kann starten rotating."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen weg schwarz und weiß Blockierer dass sind pinning türkis carpet von unterhalb."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Lassen repeated `20/10` slabs mostly geparkt bis basement hat become flatter."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once untere stapeln öffnet, starten flattening türkis carpet von mittlere outward."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let oben blau-und-gelb roof bewegen nur nach Mitte slabs sind kein longer acting like one solid sheet."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Verwenden Seite Zähler zu beenden ab remaining türkis values."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "End mit letzte gelb roof Bauteile und unten roter Ausgang."
+        }
+      ],
+      "failurePoints": [
+        "Treating mittlere türkis carpet als Eröffnungs- problem.",
+        "Leaving basement gestapelt while Versuchen zu bewegen roof."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 19 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 19 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

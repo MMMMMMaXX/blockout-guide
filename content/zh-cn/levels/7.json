@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-7",
+  "locale": "zh-cn",
+  "levelNumber": 7,
+  "title": "Block Out 第 7 关通关攻略",
+  "summary": "Block Out 第 7 关是一座围绕早期红色侧边出口搭建的高阶梯。先把右上角的红色方块送走，让白色阶梯穿过腾出的空位旋转，等两侧红色都消失后，才让黑色块坍塌。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/7/",
+        "layout": "Block Out 第 7 关是一座围绕早期红色侧边出口搭建的高阶梯。先把右上角的红色方块送走，让白色阶梯穿过腾出的空位旋转，等两侧红色都消失后，才让黑色块坍塌。",
+        "landmarks": [
+          "Block Out 第 7 关是一座围绕早期红色侧边出口搭建的高阶梯。",
+          "先把右上角的红色方块送走，让白色阶梯穿过腾出的空位旋转，等两侧红色都消失后，才让黑色块坍塌。",
+          "棋盘上混合了红色、白色、黑色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "16eIajWYLz4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=16eIajWYLz4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先使用右上角的红色出口。",
+        "在白色阶梯移开之后，右下角的红色方块会沿着同一面墙离开。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右上角的红色方块从右侧墙上的红色出口滑出。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "抬起顶部白色立柱，利用腾出的右侧空位，把右下角的红色方块向上旋转。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "持续挪动中间的白色阶梯，让右下角的红色方块也能从同一个红色侧边出口离开。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "两侧红色都消失后，利用多出的高度把黑色顶盖下拉，让中央白色立柱分开。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "随着底部计数器缩减，把剩余的白色阶梯喂向底部出口。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "把左上角的红色方块留到后期清理，等中央压平后再处理。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "最后把最后一根黑色列从底部通道排干。"
+        }
+      ],
+      "failurePoints": [
+        "忽略了右上角的红色侧边出口，试图从底部先入手。",
+        "在黑色顶盖下落之前，过早强行移动左上角的红色方块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/7/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 7 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 7 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

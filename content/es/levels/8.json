@@ -1,0 +1,98 @@
+{
+  "id": "es-level-8",
+  "locale": "es",
+  "levelNumber": 8,
+  "title": "Guía de Block Out Nivel 8",
+  "summary": "El nivel 8 de Block Out esconde una enorme lámina roja en el pozo inferior derecho. Trabaja primero las mini-piezas verde, blanca y negra por los contadores superior y derecho, y luego usa el corredor abierto para mover por fin la lámina roja.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "El nivel 8 de Block Out esconde una enorme lámina roja en el pozo inferior derecho. Trabaja primero las mini-piezas verde, blanca y negra por los contadores superior y derecho, y luego usa el corredor abierto para mover por fin la lámina roja.",
+        "landmarks": [
+          "El nivel 8 de Block Out esconde una enorme lámina roja en el pozo inferior derecho.",
+          "Trabaja primero las mini-piezas verde, blanca y negra por los contadores superior y derecho, y luego usa el corredor abierto para mover por fin la lámina roja.",
+          "El tablero combina rojo, verde, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El corredor superior importa más que la gigante lámina roja al inicio.",
+        "Mantén cayendo el medidor del lado derecho mientras la tapa superior también se reduce.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Empuja el par blanco y negro superior derecho al carril de cuota derecho para empezar a reducir el medidor `9`."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Gira las mini-piezas verdes superiores a lo largo del corredor superior para que la tapa `17` y el medidor derecho sigan bajando juntos."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Usa el estrecho tallo central para pasar la siguiente pieza blanca hacia abajo y evitar que se rellene la columna superior derecha."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Sigue recortando el grupo negro y verde hasta que la columna derecha esté casi vacía y el medidor lateral casi agotado."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Una vez abierto el corredor superior, aparta las piezas pequeñas restantes para que la lámina roja tenga un carril vertical despejado."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Desliza el gran rectángulo rojo hacia arriba y a través hacia la salida roja del muro izquierdo."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina alimentando la última mini-pieza verde por la salida verde superior tras limpiarse por completo las cuotas."
+        }
+      ],
+      "failurePoints": [
+        "Intentar mover la sobredimensionada lámina roja antes de que el corredor superior esté casi vacío.",
+        "Ignorar el carril de cuota derecho y trabajar solo la tapa superior."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 8",
+    "description": "Resuelve el nivel 8 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

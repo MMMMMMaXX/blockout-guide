@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-16",
+  "locale": "ja",
+  "levelNumber": 16,
+  "title": "ブロックアウト レベル16 攻略",
+  "summary": "ブロックアウト レベル16は、階段の支持パズルです。まず下部の棚と右壁を柔らかくし、その根元で黒の対角を崩し、それからでのみ右上の登りから背の高い赤と黄の棒を解放します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "ブロックアウト レベル16は、階段の支持パズルです。まず下部の棚と右壁を柔らかくし、その根元で黒の対角を崩し、それからでのみ右上の登りから背の高い赤と黄の棒を解放します。",
+        "landmarks": [
+          "ブロックアウト レベル 16 階段 .。",
+          "下の 棚、右の壁、黒のを崩して台座、を解放して赤、黄 上の-右 登る.。",
+          "混ぜる 赤、黄、白、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": ["下の 棚 .。", "黒の階段 割る 下.。", "を考えて. 手順 上 手順、揃える.。"],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を通して下の 白 塊 右 レーン 始める 縮め `12` 壁.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を回転させて下 赤、黄、黒の階段 下の .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を維持して赤の角 棒、黄 列 配置し 下 カウンター 維持する .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黒 手順 崩す、棚を開きて黄 列 スライドさせる 下へ.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて新しい隙間 ずらす 赤 棒 角 黒 .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "階段を終えて.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "黄、赤の棒、棚、右の壁 .。"
+        }
+      ],
+      "failurePoints": ["使う 角、下の 棚 開く.。", "上の-右 登る、棚を無視してカウンター.。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル16 攻略と解説",
+    "description": "ブロックアウト レベル16 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

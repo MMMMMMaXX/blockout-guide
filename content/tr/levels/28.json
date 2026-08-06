@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-28",
+  "locale": "tr",
+  "levelNumber": 28,
+  "title": "Block Out Seviye 28 Rehberi",
+  "summary": "Block Out Seviye 28 bir Istiflendi oda bulmaca ile üst `6` ana blok ve daha düşük `2` ana blokdır. Açık daha düşük alan ilk, çökert `2` panel sonraki, ve bırak üst `6` düş sadece sonra oda zaten dönerek.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "Block Out Seviye 28 bir Istiflendi oda bulmaca ile üst `6` ana blok ve daha düşük `2` ana blokdır. Açık daha düşük alan ilk, çökert `2` panel sonraki, ve bırak üst `6` düş sadece sonra oda zaten dönerek.",
+        "landmarks": [
+          "Block Out Seviye 28 bir Istiflendi oda bulmaca ile üst `6` ana blok ve daha düşük `2` ana blokdır.",
+          "Açık daha düşük alan ilk, çökert `2` panel sonraki, ve bırak üst `6` düş sadece sonra oda zaten dönerek.",
+          "Tahta mavi, pembe, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Çöz daha düşük `2` önce üst `6`.",
+        "Daha düşük oda aşama-bir workspace.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Döndür daha düşük oda ilk ve başla soyarak mavi ve pembe uzakta yandan şeritler."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan ki yeni alan başla küçülerek çerçeveli `2` ana blok."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Tut üst `6` panel park edildi sırasında daha düşük oda hâlâ kalabalık."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra `2` çerçeve neredeyse gitti, bırak üst `6` sonunda başla düşe."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Kullan geç kırmızı ve sarı parçalar stopa daha düşük oda yeniden doldurarak."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir yan çıkışlar sonra üst ana blok zaten low."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "End ile son alt renkler sonra her ikisi de ana bloklar gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek daha düşük `6` panel önce `2` ana blok açıldı.",
+        "Bırakarak daha düşük oda kalabalık sonra ilk çıkışlar müsait."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 28 Rehberi ve Çözümü",
+    "description": "Block Out seviye 28'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

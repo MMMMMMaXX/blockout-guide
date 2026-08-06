@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-130",
+  "locale": "tr",
+  "levelNumber": 130,
+  "title": "Block Out Seviye 130 Rehberi",
+  "summary": "Block Out Seviye 130 zincirler 10-geniş üst ızgara ayı daha düşük sayaç çerçeve kilitlenden-ve-anahtar mechanism — mavi kilitlen ve mor anahtar karo otur merkez sırada, ve eşleştirerek onları açılır besle şerit arasında tahtalar. kırmızı roc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/130/",
+        "layout": "Block Out Seviye 130 zincirler 10-geniş üst ızgara ayı daha düşük sayaç çerçeve kilitlenden-ve-anahtar mechanism — mavi kilitlen ve mor anahtar karo otur merkez sırada, ve eşleştirerek onları açılır besle şerit arasında tahtalar. kırmızı rocket-marked bloklar üst ızgarada bak urgent ama sadece trafik. hareket ettir onları önce kilitlen/anahtar breaks ve daha düşük yeşil ok şerit seals permanently.",
+        "landmarks": [
+          "Block Out Seviye 130 zincirler 10-geniş üst ızgara ayı daha düşük sayaç çerçeve kilitlenden-ve-anahtar mechanism — mavi kilitlen ve mor anahtar karo otur merkez sırada, ve eşleştirerek onları açılır besle şerit arasında tahtalar.",
+          "Kırmızı rocket-marked bloklar üst ızgarada bak urgent ama sadece trafik.",
+          "Hareket ettir onları önce kilitlen/anahtar breaks ve daha düşük yeşil ok şerit seals permanently."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple", "pink", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XKvQpgSo2bA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XKvQpgSo2bA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tut kırmızı rocket bloklar park edildi kadar mavi kilitlen/mor anahtar çift breaks.",
+        "Daha düşük çerçeve sayaç düşer `20` `17` üst ızgara temizlenir — izle o önce son it.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Soy üst-sıra bloklar kullanarak mavi yukarı-ok, sonra temizle yeşil asma kilit karolar üst bantda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır zincir-linked sağ-yan çift olmadan kaydırarak kırmızı rocket bloklar henüz."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Eşleştir mavi kilitlen karo ile mor anahtar karo merkez sırada açık daha düşük çerçevee."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Yönlendir üst ızgara çıkışlar soldan kırmızı ve sağ turuncu ok şeritler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Harca alt sayaçlar `4`, `5`, ve `1` besle daha düşük `17` çerçeve."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle son üst artıklar ve zero daha düşük sayaç karo için mükemmel temizle."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek kırmızı rocket bloklar önce kilitlen/anahtar çift breaks — daha düşük yeşil ok şerit seals shut.",
+        "Breaking zincir link sırasında asma kilit karolar hâlâ üst bantda."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/130/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 130 Rehberi ve Çözümü",
+    "description": "Block Out seviye 130'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

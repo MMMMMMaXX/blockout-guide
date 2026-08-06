@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-19",
+  "locale": "tr",
+  "levelNumber": 19,
+  "title": "Block Out Seviye 19 Rehberi",
+  "summary": "Block Out Seviye 19 bir Basement-ilk numeric tahtadır. Açık daha düşük kırmızı, yeşil, siyah, ve beyaz istifler ilk, sonra flatten dev `20/10` camgöbeği carpet, ve harca sarı çatı sadece sonra orta softened.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/19/",
+        "layout": "Block Out Seviye 19 bir Basement-ilk numeric tahtadır. Açık daha düşük kırmızı, yeşil, siyah, ve beyaz istifler ilk, sonra flatten dev `20/10` camgöbeği carpet, ve harca sarı çatı sadece sonra orta softened.",
+        "landmarks": [
+          "Block Out Seviye 19 bir Basement-ilk numeric tahtadır.",
+          "Açık daha düşük kırmızı, yeşil, siyah, ve beyaz istifler ilk, sonra flatten dev `20/10` camgöbeği carpet, ve harca sarı çatı sadece sonra orta softened.",
+          "Tahta camgöbeği, mavi, sarı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["cyan", "blue", "yellow", "red", "green", "black", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "JKzZb9qJ_mM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=JKzZb9qJ_mM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Basement aşama bir.",
+        "Dev camgöbeği field sadece matters sonra daha düşük engelleyiciler döndürüldü.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Açık sağ yan basement böylece daha düşük kırmızı ve yeşil parçalar ebilir başla döndürerek."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Soy uzakta siyah ve beyaz engelleyiciler ki sabitleyerek camgöbeği carpet altındadan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Bırak repeated `20/10` levhalar çoğunlukla park edildi kadar basement become flatter."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra daha düşük istifler açılır, başla flattening camgöbeği carpet orta outwarddan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak üst mavi-ve-sarı çatı hareket ettir sadece sonra merkez levhalar hayır daha uzun acting like bir solid sheet."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kullan yan sayaçlar bitir kalan camgöbeği valuesdan."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "End ile son sarı çatı parçalar ve alt kırmızı kapı."
+        }
+      ],
+      "failurePoints": [
+        "Treating orta camgöbeği carpet açarak sorun.",
+        "Bırakarak basement istiflendi sırasında deneyerek hareket ettir çatı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/19/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 19 Rehberi ve Çözümü",
+    "description": "Block Out seviye 19'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

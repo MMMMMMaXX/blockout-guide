@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-105",
+  "locale": "ja",
+  "levelNumber": 105,
+  "title": "ブロックアウト レベル105 攻略",
+  "summary": "ブロックアウト レベル105は、発光する紫の2×2正方形の周りにポリオミノのレンガを巻き付け、突き破るチャンスを正確に1回だけ与えます—右壁の赤の解体バーです。そのバーを間違った塊に使うと、紫の正方形は永遠に閉じ込められたままになり…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/105/",
+        "layout": "ブロックアウト レベル105は、発光する紫の2×2正方形の周りにポリオミノのレンガを巻き付け、突き破るチャンスを正確に1回だけ与えます—右壁の赤の解体バーです。そのバーを間違った塊に使うと、紫の正方形は永遠に閉じ込められたままになります。解き方は詰め込み抽出です：まず上部のカウンターと黄の2×2を消去し、次に赤のバーを上部の赤の塊へ向けて出口経路を解放します。",
+        "landmarks": [
+          "ブロックアウト レベル 105 ポリオミノ 周りを 紫 2×2 四角、割る — 赤 棒 右の壁.。",
+          "を使いて棒 間違った 塊、紫 四角 残し .。",
+          "詰め : 消去する 上部のカウンター、黄 2×2、赤 棒 上の 赤 塊 解放する 出口 .。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Hr5BrEesNIo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Hr5BrEesNIo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤のを発射して棒 始める — .。",
+        "手順 黄 22、出口 紫 `1` 四角.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "赤のを作動させて右-壁 棒 割る 上の 赤 塊、手順.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "中央の黄の2×2の周りに空間を作るため、左の紫のＬ字型ピースを上へスライドさせます。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "手順 緑 右側 下、紫 `1` 四角 消去する 下部レーン.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄のをずらして22 上 出口 紫 `1` 四角.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "紫のを送りて`1` 四角 下部の出口 上 カウンター.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を消去して青 ピース、ピンク 塊 終える 上 `2` カウンター.。"
+        }
+      ],
+      "failurePoints": [
+        "赤 棒 下 ピンク 塊、上の 赤 .。",
+        "スライドさせる 紫 `1` 四角、黄 22 消去し.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/105/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル105 攻略と解説",
+    "description": "ブロックアウト レベル105 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

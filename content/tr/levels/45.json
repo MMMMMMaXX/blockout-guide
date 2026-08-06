@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-45",
+  "locale": "tr",
+  "levelNumber": 45,
+  "title": "Block Out Seviye 45 Rehberi",
+  "summary": "Block Out Seviye 45 dışarı- bulmacada nere thick kenar büyük kırmızı, mavi, yeşil, ve sarı bloklar boxes daha küçük çerçeveli hedef bloklar daha düşük yarıda. kenar meli peeled üstden ve yanlar ilk — büyük bloklar lea...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/45/",
+        "layout": "Block Out Seviye 45 dışarı- bulmacada nere thick kenar büyük kırmızı, mavi, yeşil, ve sarı bloklar boxes daha küçük çerçeveli hedef bloklar daha düşük yarıda. kenar meli peeled üstden ve yanlar ilk — büyük bloklar bırak önce hedefler. sonra merkez açılır, çerçeveli hedefler ebilir sonunda ilerle onların çıkışlara. bu inverts usual ana blok pattern: büyük parçalar openers, küçük ones finishers.",
+        "landmarks": [
+          "Block Out Seviye 45 dışarı- bulmacada nere thick kenar büyük kırmızı, mavi, yeşil, ve sarı bloklar boxes daha küçük çerçeveli hedef bloklar daha düşük yarıda.",
+          "Kenar meli peeled üstden ve yanlar ilk — büyük bloklar bırak önce hedefler.",
+          "Sonra merkez açılır, çerçeveli hedefler ebilir sonunda ilerle onların çıkışlara.",
+          "Bu inverts usual ana blok pattern: büyük parçalar openers, küçük ones finishers."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NGr1ytoV4EM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGr1ytoV4EM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Büyük bloklar kenar, değil hedef — soy onları ilk.",
+        "Çerçeveli hedefler finishers ki sadece hareket ettir sonra merkez gerçek şeritler.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Extract bloklar üst kenardan oluştur ilk boşluk kenarda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır büyük mavi blok üst-sol sol çıkışlara."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir büyük kırmızı blok üst-sağ sonraki."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan serbest bırakıldı üst alan kaydır yeşil merkez blok, açarak şerit için daha düşük hedefler."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Döndür ilk çerçeveli hedef widenedden merkez ve dışarı onun çıkış."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle saniye çerçeveli hedef sonra ilk gitti ve merkez daha geniş."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son kenar parçalar sonra her ikisi de hedefler sol."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir çerçeveli hedef önce kenar açıldı — hedef gerektirir geniş şerit merkez ki sadece existsden sonra büyük bloklar gitti.",
+        "Soyarak sadece bir kenar kenar ve bırakarak opposite yan thick, hangi bloklar hedef's yol diğer directiondan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/45/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 45 Rehberi ve Çözümü",
+    "description": "Block Out seviye 45'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

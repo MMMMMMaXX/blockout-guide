@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-74",
+  "locale": "tr",
+  "levelNumber": 74,
+  "title": "Block Out Seviye 74 Rehberi",
+  "summary": "Block Out Seviye 74 açılır ile dört mor odalar wrapped dar merkez omurgadan. boşalt ufak `3` cep altda-sağ ilk, kaydır camgöbeği adımlar dışarı daha düşük şerit, sonra bırak `7` ve `15` rooms küçült önce sen fina...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/74/",
+        "layout": "Block Out Seviye 74 açılır ile dört mor odalar wrapped dar merkez omurgadan. boşalt ufak `3` cep altda-sağ ilk, kaydır camgöbeği adımlar dışarı daha düşük şerit, sonra bırak `7` ve `15` rooms küçült önce sen sonunda commit devasa `20` oda solda.",
+        "landmarks": [
+          "Block Out Seviye 74 açılır ile dört mor odalar wrapped dar merkez omurgadan.",
+          "Boşalt ufak `3` cep altda-sağ ilk, kaydır camgöbeği adımlar dışarı daha düşük şerit, sonra bırak `7` ve `15` rooms küçült önce sen sonunda commit devasa `20` oda solda.",
+          "Tahta mor, mavi, yeşil ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r77fdG5rfns",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r77fdG5rfns",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Eğer camgöbeği adım parça hâlâ covers daha düşük orta, kal uzakta `20` oda.",
+        "`3` cep değil filler. o anahtar ki açılır daha düşük yönlendir için `7` alan.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Boşalt daha düşük-sağ mor oda marked `3` soon level starts."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan ki yeni zemin alan kaydır camgöbeği adım bloklar uzakta daha düşük ortadan ve serbest yeşil sök onları."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla azaltarak daha düşük-sol `7` oda sonra camgöbeği parça hayır daha uzun engelleyerek onun şerit."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak üst-sağ `15` oda lose onun kolay sağ-duvar çıkışlar sırasında sol yan açarak."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Bırak üst-sol `20` oda alone kadar `7` alan çoğunlukla gitti ve merkez kırmızı merdiven kırıldı ayrı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile boşaltarak `20` oda ve sweeping dışarı kalan mor, camgöbeği, ve kırmızı parçalar açık merkezden."
+        }
+      ],
+      "failurePoints": [
+        "Leaning `20` oda önce daha düşük-sağ `3` cep gitti ve camgöbeği adımlar hareket ettirildi.",
+        "Deneyerek çalış `7` alan sırasında camgöbeği engelleyici hâlâ stretched daha düşük ortadan."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/74/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 74 Rehberi ve Çözümü",
+    "description": "Block Out seviye 74'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-58",
+  "locale": "ja",
+  "levelNumber": 58,
+  "title": "ブロックアウト レベル58 攻略",
+  "summary": "ブロックアウト レベル58は漏斗型の盤面で、3つの幅広いシアンの湾、印「4」の付いた小さな狭い通路、そして右側に枠付き青ブロックと向き合う紫の「6」部屋が配置された雑然とした上部デッキがあります。まず右側の側面を開け、左の…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/58/",
+        "layout": "ブロックアウト レベル58は漏斗型の盤面で、3つの幅広いシアンの湾、印「4」の付いた小さな狭い通路、そして右側に枠付き青ブロックと向き合う紫の「6」部屋が配置された雑然とした上部デッキがあります。まず右側の側面を開け、次に左の「6」部屋を削り、それからだけ赤と緑の中央の帯をシアンの漏斗へ落とします。",
+        "landmarks": [
+          "ブロックアウト レベル 58 シアン、入り口 `4`、上の 紫 `6` 部屋 青 ブロック 右.。",
+          "を開きて右に、左 `6` 部屋、赤のを出して、緑 中央 落とす シアン .。",
+          "混ぜる 紫、青、オレンジ、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rvamA31s1g0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rvamA31s1g0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青 ブロック 右、.。",
+        "を開きて、出す 赤 中央 取り除く 落とす シアン .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して青 ブロック 右上の角、右 開始.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "シアン `2` カウンター 側、中央の .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を始めて紫 `6` 部屋 左、右 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "赤のを出して中央 取り除く、緑 落ちる シアン、開く.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を崩して下の `4` 入り口、上 ブロッカー .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて赤 ピース、.。"
+        }
+      ],
+      "failurePoints": [
+        "満たす シアン 青 ブロック 右 .。",
+        "赤 中央 取り除く、左 `6` 部屋、右 `2` カウンター .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/58/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル58 攻略と解説",
+    "description": "ブロックアウト レベル58 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

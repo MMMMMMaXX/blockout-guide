@@ -1,0 +1,98 @@
+{
+  "id": "es-level-18",
+  "locale": "es",
+  "levelNumber": 18,
+  "title": "Guía de Block Out Nivel 18",
+  "summary": "El nivel 18 de Block Out es un rompecabezas de doble marco en torno a un par cian `14/11`. Pela primero las escaleras y los contadores laterales, mantén unidos los bloques centrales hasta que los rieles estén más finos y termina por la ruta superior verde.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/18/",
+        "layout": "El nivel 18 de Block Out es un rompecabezas de doble marco en torno a un par cian `14/11`. Pela primero las escaleras y los contadores laterales, mantén unidos los bloques centrales hasta que los rieles estén más finos y termina por la ruta superior verde.",
+        "landmarks": [
+          "El nivel 18 de Block Out es un rompecabezas de doble marco en torno a un par cian `14/11`.",
+          "Pela primero las escaleras y los contadores laterales, mantén unidos los bloques centrales hasta que los rieles estén más finos y termina por la ruta superior verde.",
+          "El tablero combina cian, rosa, azul y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["cyan", "pink", "blue", "white", "black", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q3QLAgjwstE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q3QLAgjwstE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abre los rieles antes de separar el par central.",
+        "La salida superior verde es una ruta tardía, no la primera.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Retira la escalera blanca y negra derecha para que los contadores laterales empiecen a bajar."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Deja estacionadas la tapa cian `14` y la pieza central cian `11` mientras se afloja el marco a su alrededor."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Repite esa limpieza en el lado izquierdo una vez que la primera escalera haya abierto suficiente espacio."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Separa la tapa cian `14` del bloque `11` solo después de que ambos rieles laterales se hayan estrechado."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Usa el carril superior liberado para pelar las columnas azul y rosa."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Mueve el bloque `11` después de que los rieles exteriores ya estén finos."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con la ruta superior verde y los últimos restos laterales."
+        }
+      ],
+      "failurePoints": [
+        "Intentar separar el par `14/11` antes de que los rieles estén abiertos.",
+        "Usar las columnas rosa superiores como movimientos tempranos en lugar de limpieza tardía."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/18/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 18",
+    "description": "Resuelve el nivel 18 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

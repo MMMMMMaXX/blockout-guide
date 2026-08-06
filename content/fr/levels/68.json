@@ -1,0 +1,97 @@
+{
+  "id": "fr-level-68",
+  "locale": "fr",
+  "levelNumber": 68,
+  "title": "Guide Block Out Niveau 68",
+  "summary": "Block Out Niveau 68 stacks deux chambres vertically, separated par horizontal dividing barre. supérieur chambre holds mix de blocs vert, large carré bleu, et orange/pièces jaune. abaissez chambre est dominated par massive violet r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/68/",
+        "layout": "Block Out Niveau 68 stacks deux chambres vertically, separated par horizontal dividing barre. supérieur chambre holds mix de blocs vert, large carré bleu, et orange/pièces jaune. abaissez chambre est dominated par massive violet rectangle avec compteur '7' wrapped dans rouge cadre. Dégagez entire supérieur chambre premier — dividing barre va pas ouvrez jusqu'à il empties. Alors retirez rouge cadre et alimentez le bloc violet à travers son sortie seven times.",
+        "landmarks": [
+          "Block Out Niveau 68 stacks deux chambres vertically, separated par horizontal dividing barre.",
+          "Supérieur chambre holds mix de blocs vert, large carré bleu, et orange/pièces jaune.",
+          "Abaissez chambre est dominated par massive violet rectangle avec compteur '7' wrapped dans rouge cadre.",
+          "Dégagez entire supérieur chambre premier — dividing barre va pas ouvrez jusqu'à il empties."
+        ],
+        "colors": ["green", "blue", "orange", "yellow", "cyan", "violet", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "erp0Ca4GV_8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=erp0Ca4GV_8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Videz supérieur chambre completely avant touching abaissez — dividing barre va pas ouvrez sinon.",
+        "Retirez rouge cadre autour le bloc violet avant feeding il à travers sortie.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez petit blocs à le haut de supérieur chambre à travers la sortie supérieure."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Extract les blocs vert sur la gauche à travers la sortie gauche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Glissez large carré bleu block out à travers la droite ou sortie supérieure."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez orange/blocs jaune à le bas de supérieur chambre."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Une fois supérieur chambre empties, dividing barre opens — retirez rouge cadre autour le bloc violet."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Alimentez massive bloc violet (compteur '7') à travers son sortie repeatedly jusqu'à fully cleared."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec un restant cyan côté pièces et bas fragments."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez le bloc violet avant supérieur chambre est videz — dividing barre est toujours sealed.",
+        "Forgetting à retirez rouge cadre autour le bloc violet avant attempting à alimentez il."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/68/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 68",
+    "description": "Résolvez le niveau 68 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de-level-48",
+  "locale": "de",
+  "levelNumber": 48,
+  "title": "Block Out Level 48 Lösung",
+  "summary": "Block Out Level 48 ist lid-erste Boss Puzzle mit `10` Boss chamber in untere half buried unter horizontal entfernen von colored Blöcke including `4`-Zähler Bauteil. Abbauen lid erste — `4` Block ist schnellste win — dann...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/48/",
+        "layout": "Block Out Level 48 ist lid-erste Boss Puzzle mit `10` Boss chamber in untere half buried unter horizontal entfernen von colored Blöcke including `4`-Zähler Bauteil. Abbauen lid erste — `4` Block ist schnellste win — dann let Boss fallen lassen und sort revealed spät-game Farben durch Seite exits.",
+        "landmarks": [
+          "Block Out Level 48 ist lid-erste Boss Puzzle mit `10` Boss chamber in untere half buried unter horizontal entfernen von colored Blöcke including `4`-Zähler Bauteil.",
+          "Abbauen lid erste — `4` Block ist schnellste win — dann let Boss fallen lassen und sort revealed spät-game Farben durch Seite exits.",
+          "Das Spielfeld mixes Gelb, Blau, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["yellow", "blue", "red", "green", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "X5TV6t29kCI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=X5TV6t29kCI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`4`-Zähler Block in lid ist erste schnell win — skip es und lid stays thick.",
+        "Expect second phase: revealed colored Blöcke spill hinaus nach Boss fällt … lassen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen `4`-Zähler Block in obere section erste — es ist fastest lid reduction."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abbauen remaining gelb, blau, und rot lid Bauteile."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten `10` Boss geparkt while surrounding Zähler fall."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Fallen lassen Boss once lid ist mostly gone."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Sort revealed spät-game colored Blöcke durch Seite exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden Seite Zähler nach Raum ist kein longer split."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "End mit letzte cleanup once Boss ist gone."
+        }
+      ],
+      "failurePoints": [
+        "Skipping `4`-Zähler Block und Versuchen zu reduce `10` Boss direkt — lid stays thick und Boss barely Züge.",
+        "Nicht having Seite lanes ready when Boss fällt … lassen, welche jams revealed Blöcke."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/48/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 48 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 48 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

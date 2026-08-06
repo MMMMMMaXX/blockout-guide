@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-57",
+  "locale": "ko",
+  "levelNumber": 57,
+  "title": "블록 아웃 레벨 57 공략",
+  "summary": "블록 아웃 레벨 57은(는) 맨 아래에 흰색 '10' 블록 세 개를 두고 위에 '5', 아래에 '11'이 있는 두 개의 보라색 보스 챔버를 쌓은 구조입니다. 두 챔버는 벽을 공유하므로 하나를 클리어하면 다른 쪽에도 영향을 줍니다. 맨 아래 '10' 블록부터 시작하고, 그다음...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/57/",
+        "layout": "블록 아웃 레벨 57은(는) 맨 아래에 흰색 '10' 블록 세 개를 두고 위에 '5', 아래에 '11'이 있는 두 개의 보라색 보스 챔버를 쌓은 구조입니다. 두 챔버는 벽을 공유하므로 하나를 클리어하면 다른 쪽에도 영향을 줍니다. 맨 아래 '10' 블록부터 시작하고, 두 챔버를 병렬로 진행하며 더 작은 '5' 챔버가 더 빨리 클리어되고 '11' 챔버가 점차 열리도록 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 57은(는) 맨 아래에 흰색 '10' 블록 세 개를 두고 위에 '5', 아래에 '11'이 있는 두 개의 보라색 보스 챔버를 쌓은 구조입니다.",
+          "두 챔버는 벽을 공유하므로 하나를 클리어하면 다른 쪽에도 영향을 줍니다.",
+          "맨 아래 '10' 블록부터 시작하고, 두 챔버를 병렬로 진행하며 더 작은 '5' 챔버가 더 빨리 클리어되고 '11' 챔버가 점차 열리도록 하세요."
+        ],
+        "colors": ["보라색", "노란색", "파란색", "초록색", "빨간색", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "wV0Kt04nqDo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=wV0Kt04nqDo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "두 챔버는 벽을 공유합니다. '11'이 진전을 보이기 전에 '5'를 완전히 비우지 마세요.",
+        "맨 아래 '10' 블록부터 시작하세요. 이들은 기반을 여는 독립적인 목표입니다.",
+        "연쇄 클리어를 염두에 두세요. 가장 좋은 수는 당장의 가장 빠른 매칭이 아니라, 다음 두 수를 만들어주는 수입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "맨 아래의 흰색 '10' 블록 세 개를 오른쪽 출구 쪽으로 밀어내어 클리어하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "두 챔버 사이의 틈을 열기 위해 왼쪽의 노란색 블록을 왼쪽 출구로 밀어내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "위쪽 '5' 챔버를 비우기 시작하세요. 더 작아서 더 빨리 클리어되며 위쪽 공간을 엽니다."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "아래쪽 '11' 챔버를 병렬로 진행하며, 그 블록을 오른쪽 출구로 밀어내세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "'5' 챔버가 비워지면, 확보된 공간을 이용해 '11' 챔버 블록이 미끄러져 나가도록 돕세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "비워진 챔버 사이에 갇힌 남은 초록색과 파란색 블록을 클리어하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "위쪽과 양옆의 빨간색과 보라색 블록으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "'11'이 진전을 보이기 전에 '5' 챔버를 완전히 비우는 것 — 공유 벽은 양쪽 모두의 미끄러짐 지지대이므로 너무 일찍 잃으면 블록이 갇힙니다.",
+        "맨 아래 '10' 블록을 무시하고 챔버부터 진행하려는 것 — 기반이 꽉 차 블록이 아래로 미끄러지지 못합니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/57/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 57 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 57을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

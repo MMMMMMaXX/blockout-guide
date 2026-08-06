@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-3",
+  "locale": "tr",
+  "levelNumber": 3,
+  "title": "Block Out Seviye 3 Rehberi",
+  "summary": "Block Out Seviye 3 bir Kısa zincir-reaction bulmacadır. Bırak merkez kırmızı blok ilk, gönder yeşil köşe sol, cash alt mavi blok, ve sonra bitir kalan kırmızı ve sarı bloklar alt kapılarda.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/3/",
+        "layout": "Block Out Seviye 3 bir Kısa zincir-reaction bulmacadır. Bırak merkez kırmızı blok ilk, gönder yeşil köşe sol, cash alt mavi blok, ve sonra bitir kalan kırmızı ve sarı bloklar alt kapılarda.",
+        "landmarks": [
+          "Block Out Seviye 3 bir Kısa zincir-reaction bulmacadır.",
+          "Bırak merkez kırmızı blok ilk, gönder yeşil köşe sol, cash alt mavi blok, ve sonra bitir kalan kırmızı ve sarı bloklar alt kapılarda.",
+          "Tahta yeşil, sarı, kırmızı ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "yellow", "red", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "J60Q7VQ63yw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=J60Q7VQ63yw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kullan merkez kırmızı kapı trigger.",
+        "Yeşil ve alt mavi blok bırak önce son sarı.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır merkez kırmızı blok straight aşağı kırmızı alt kapıdan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Hareket ettir üst-sol yeşil blok aşağı ve dışarı yeşil sol kapıdan."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Bırak alt mavi blok mavi alta-sol kapı."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Alt orta sarı blok merkez şerite ki sadece açıldı."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Gönder üst-sağ kırmızı blok aşağı kırmızı kapıdan sonra orta şerit temizle."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son sarı blok sarı altda-sağ kapı."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek zorlaya üst-sağ kırmızı blok aşağı önce merkez kırmızı sol.",
+        "Ignoring yeşil yan çıkış ve treating tahta like alt-sadece bulmaca."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/3/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 3 Rehberi ve Çözümü",
+    "description": "Block Out seviye 3'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

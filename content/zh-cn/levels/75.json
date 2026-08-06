@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-75",
+  "locale": "zh-cn",
+  "levelNumber": 75,
+  "title": "Block Out 第75关攻略",
+  "summary": "Block Out 第75关使用十字形棋盘，边缘是阶梯状像素块——并非通常的矩形。方块密集排在十字的上下两臂中，只通过中心交汇处相连。先清空上臂以打开交汇处……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/75/",
+        "layout": "Block Out 第75关使用十字形棋盘，边缘是阶梯状像素块——并非通常的矩形。方块密集排在十字的上下两臂中，只通过中心交汇处相连。先清空上臂以打开交汇处，再将下臂的沉重方块经拓宽的中心送往底部出口。",
+        "landmarks": [
+          "Block Out 第75关使用十字形棋盘，边缘是阶梯状像素块——并非通常的矩形。",
+          "方块密集排在十字的上下两臂中，只通过中心交汇处相连。",
+          "先清空上臂以打开交汇处，再将下臂的沉重方块经拓宽的中心送往底部出口。"
+        ],
+        "colors": ["green", "red", "yellow", "purple", "orange", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "0-D_Iw1P4YU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=0-D_Iw1P4YU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中心交汇处是上下两臂之间唯一的路径——尽早清空它。",
+        "把下臂的沉重方块留到最后，当中心空间最大时再输送。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "从上臂尖端附近的小号绿色方块经侧边出口清空。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "从中心交汇处抽出带框方块，打开交叉点。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "将上臂剩余的红色和黄色方块经顶部或侧边出口拉出。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "将第一批下臂方块（紫色和橙色）经已打开的中心交汇处输送。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将下臂较大的黄色和蓝色方块经底部出口送出。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "最后处理需要多次从底部通过的高计数方块。"
+        }
+      ],
+      "failurePoints": [
+        "在上臂清空之前就经中心输送下臂方块——交汇处会卡死。",
+        "忽视中心交汇处的带框方块，它控制着两臂之间的所有通行。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/75/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第75关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第75关。"
+  },
+  "updatedAt": "2026-08-03"
+}

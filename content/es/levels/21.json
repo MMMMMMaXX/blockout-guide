@@ -1,0 +1,98 @@
+{
+  "id": "es-level-21",
+  "locale": "es",
+  "levelNumber": 21,
+  "title": "Guía de Block Out Nivel 21",
+  "summary": "El nivel 21 de Block Out es una escalera de triple jefe. Rompe primero el panel enmarcado `9`, desenreda en segundo lugar la franja central de colores y solo entonces empieza a reducir los paneles inferiores `16` y `18`.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/21/",
+        "layout": "El nivel 21 de Block Out es una escalera de triple jefe. Rompe primero el panel enmarcado `9`, desenreda en segundo lugar la franja central de colores y solo entonces empieza a reducir los paneles inferiores `16` y `18`.",
+        "landmarks": [
+          "El nivel 21 de Block Out es una escalera de triple jefe.",
+          "Rompe primero el panel enmarcado `9`, desenreda en segundo lugar la franja central de colores y solo entonces empieza a reducir los paneles inferiores `16` y `18`.",
+          "El tablero combina azul, amarillo, verde y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "pink", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "j61fnsIKPG4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=j61fnsIKPG4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Resuelve primero el `9` enmarcado.",
+        "Los valores `16` y `18` inferiores son la fase dos y la fase tres.",
+        "Piensa en limpiezas encadenadas. El mejor movimiento es el que prepara los próximos dos, no solo la coincidencia más rápida."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Trabaja los contadores superiores y limpia la banda de color superior para exponer el panel enmarcado `9`."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Suelta el panel `9` antes de tocar los jefes inferiores."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Usa el corredor central liberado para girar las barras rosa, verde y azul."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Empieza a reducir el panel inferior `16` una vez que el centro ya no esté compacto."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Deja que el panel `18` empiece a bajar solo después de que el marco `16` ya se haya abierto."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Guarda la salida verde del suelo para la limpieza tardía cuando los paneles inferiores estén finos."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina con las barras de color altas restantes después de que hayan colapsado ambos jefes inferiores."
+        }
+      ],
+      "failurePoints": [
+        "Intentar reducir los valores enmarcados inferiores mientras el `9` superior sigue vivo.",
+        "Dejar la franja central compacta después de que se ha abierto el jefe superior."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/21/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 21",
+    "description": "Resuelve el nivel 21 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

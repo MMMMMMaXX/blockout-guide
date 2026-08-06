@@ -1,0 +1,97 @@
+{
+  "id": "es-level-54",
+  "locale": "es",
+  "levelNumber": 54,
+  "title": "Guía de Block Out Nivel 54",
+  "summary": "Block Out nivel 54 es a 'Hard nivel' con four morado jefe cámaras — contadores '3' y '11' en superior, '6' y '19' en the inferior. El cámaras son packed apretadamente con narrow huecos entre los. Elimina the pequeño de color bloques entre cámara...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out nivel 54 es a 'Hard nivel' con four morado jefe cámaras — contadores '3' y '11' en superior, '6' y '19' en the inferior. El cámaras son packed apretadamente con narrow huecos entre los. Elimina the pequeño de color bloques entre cámaras primero, luego drain the inferior cámaras antes tackling the superior ones. The '19' cámara es the heaviest — save lo para después the surrounding cámaras have opened arriba espacio.",
+        "landmarks": [
+          "Block Out nivel 54 es a 'Hard nivel' con four morado jefe cámaras — contadores '3' y '11' en superior, '6' y '19' en the inferior.",
+          "El cámaras son packed apretadamente con narrow huecos entre los.",
+          "Elimina the pequeño de color bloques entre cámaras primero, luego drain the inferior cámaras antes tackling the superior ones.",
+          "The '19' cámara es the heaviest — save lo para después the surrounding cámaras have opened arriba espacio."
+        ],
+        "colors": ["morado", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Elimina the pequeño de color bloques entre cámaras primero — ellos son the clave a opening sliding caminos.",
+        "The '19' cámara es a marathon. Elimina the smaller cámaras primero a build espacio, luego chip lejos en lo.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the amarillo bloques en el lado izquierdo a abierto el hueco entre the superior-izquierdo y inferior-izquierdo cámaras."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desplaza the rojo/naranja bloques en el centro a abierto el hueco entre the izquierdo y derecho cámaras."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Comienza draining the inferior-izquierdo cámara (contador '6') por sliding su bloques fuera por el salida izquierdo."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Trabaja the inferior-derecho cámara (contador '19') — despejado lo gradualmente mientras the inferior-izquierdo es también draining."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Mueve a the superior-izquierdo cámara (contador '3') — lo es the más claro y should despejado quickly."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the superior-derecho cámara (contador '11'), que has the most room después the others son drained."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Elimina cualquier restante de color bloques trapped entre the emptied cámaras."
+        }
+      ],
+      "failurePoints": [
+        "Draining one cámara completely antes touching the others — este removes the sliding paredes y jams the restante cámaras.",
+        "Tackling the '19' cámara primero cuando el espacio surrounding es todavía packed — lo needs room a maneuver."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 54",
+    "description": "Resuelve Block Out nivel 54 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

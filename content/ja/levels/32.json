@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-32",
+  "locale": "ja",
+  "levelNumber": 32,
+  "title": "ブロックアウト レベル32 攻略",
+  "summary": "ブロックアウト レベル32は、対称的な枠割りパズルです。くり抜かれた長方形の形をした背の高い赤ブロックの構造が中央を支配し、両側のシアンの『2』カウンターと上部の黄の『6』ふたで固定されています。解き方は",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "ブロックアウト レベル32は、対称的な枠割りパズルです。くり抜かれた長方形の形をした背の高い赤ブロックの構造が中央を支配し、両側のシアンの『2』カウンターと上部の黄の『6』ふたで固定されています。解き方は両脇からの均等な縮小を要します——まずシアンのカウンターを消去し、外側の赤の列を剥がし、赤の構造がすでに緩んだ後でのみ黄のふたを落とします。",
+        "landmarks": [
+          "ブロックアウト レベル 32 枠-割り .。",
+          "赤 ブロック 中央、配置する シアン `2`-カウンター、黄 `6` キャップ 上.。",
+          ": 消去する シアン カウンター、を剥がして赤の列、黄キャップを落として、赤 .。"
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "— 赤、.。",
+        "黄 `6` キャップ、.、赤の列 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "シアンのを消去して左に、`2`-カウンター ブロック 開く レーン 左 赤 .。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "消去 右 シアン `2`-カウンター ブロック、赤 塊 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を始めて赤の列 側 レーン .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄のを出して`6` キャップ 上 赤の列 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "左、右 赤の列 進める 維持する .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "赤 塊、を通して解放し 側 出口、下 黄 矢印.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて黄 キャップ、赤、枠 .。"
+        }
+      ],
+      "failurePoints": [
+        "側 赤 残し — 赤 塊 壁 側、.。",
+        "取り除く 黄 `6` キャップ、赤の列、中央.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル32 攻略と解説",
+    "description": "ブロックアウト レベル32 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

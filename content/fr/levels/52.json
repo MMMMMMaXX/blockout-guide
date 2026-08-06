@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-52",
+  "locale": "fr",
+  "levelNumber": 52,
+  "title": "Guide Block Out Niveau 52",
+  "summary": "Block Out Niveau 52 splits plateau avec haut rouge vertical blocs bas le centre, creating dual-cible énigme où le côté gauche (vert, jaune) et côté droit (bleu, rose) doit être cleared dans coordination. compteurs '10' et '12'...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "Block Out Niveau 52 splits plateau avec haut rouge vertical blocs bas le centre, creating dual-cible énigme où le côté gauche (vert, jaune) et côté droit (bleu, rose) doit être cleared dans coordination. compteurs '10' et '12' à le haut track restant blocs sur chaque côté. Drainez le bas rangées premier, alors work sides inward vers le centre mur rouge.",
+        "landmarks": [
+          "Block Out Niveau 52 splits plateau avec haut rouge vertical blocs bas le centre, creating dual-cible énigme où le côté gauche (vert, jaune) et côté droit (bleu, rose) doit être cleared dans coordination.",
+          "Compteurs '10' et '12' à le haut track restant blocs sur chaque côté.",
+          "Drainez le bas rangées premier, alors work sides inward vers le centre mur rouge."
+        ],
+        "colors": ["red", "green", "blue", "yellow", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Haut rouge centre blocs sont mur, pas obstacle à rush. Dégagez les deux sides premier.",
+        "Regardez dual compteurs à le haut — ils tell vous how many blocs toujours besoin à sortie sur chaque côté.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Dégagez abaissez blocs bleu sur le côté gauche et blocs rose sur le côté droit vers leur respective sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Décalez jaune/blocs orange sur la gauche hors à travers la sortie gauche à ouvrez le milieu-gauche zone."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Déplacez les blocs vert à le haut-gauche à travers la porte gauche maintenant que chemin est dégagez."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Commencez sliding haut rouge vertical blocs dans le centre — ils peut seulement déplacez une fois les deux sides ont salle."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez restant blocs bleu sur la droite à travers la sortie droite."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec un restant rouge centre pièces et le bas bloc rouge."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant haut rouge centre blocs avant draining le bas rangées — ils bloc les deux sorties simultaneously.",
+        "Focusing sur one côté seulement pendant autre côté est toujours packed, qui stalls le centre mur rouge."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 52",
+    "description": "Résolvez le niveau 52 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

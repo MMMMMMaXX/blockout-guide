@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-100",
+  "locale": "tr",
+  "levelNumber": 100,
+  "title": "Block Out Seviye 100 Rehberi",
+  "summary": "Block Out Seviye 100 bir Kısa halka-dönüş tahta inşa edildi birden hareket ettirerek boş cepdır. Açık sol yan ilk, kovala boşluk üste-sağ köşe, ve sonra kullan temizlendi orta sütun hizalaya son yeşil levhalar tden...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out Seviye 100 bir Kısa halka-dönüş tahta inşa edildi birden hareket ettirerek boş cepdır. Açık sol yan ilk, kovala boşluk üste-sağ köşe, ve sonra kullan temizlendi orta sütun hizalaya son yeşil levhalar üstden ve sağ çıkışlar.",
+        "landmarks": [
+          "Block Out Seviye 100 bir Kısa halka-dönüş tahta inşa edildi birden hareket ettirerek boş cepdır.",
+          "Açık sol yan ilk, kovala boşluk üste-sağ köşe, ve sonra kullan temizlendi orta sütun hizalaya son yeşil levhalar üstden ve sağ çıkışlar.",
+          "Tahta yeşil, sarı, turuncu ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tut boş cep hareket ettirerek. eğer o gets buried orta çokda erken, halka durur.",
+        "Üst-sağ köşe meli açık önce sen dene çöze üst-merkez yeşil levha.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kullan küçük boşluk sol yanda halka başla dönüş."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır üst-sıra levhalar böylece boş cep hamleler üste-sağ köşe."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Açık orta sütun sonra ki üst-sağ köşe temizle."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Gönder üst-merkez yeşil levha dışarı üst çıkışdan soon onun şerit açılır."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle sağ-yan yeşil levha sonraki, sonra besle kalan sarı levhalar halkadan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son yeşil bloklar sonra merkez boş."
+        }
+      ],
+      "failurePoints": [
+        "Dropping levha orta öncee boş cep döndürüldü üste-sağ köşe.",
+        "Deneyerek temizle üst-merkez yeşil levha önce orta sütun actually açık."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 100 Rehberi ve Çözümü",
+    "description": "Block Out seviye 100'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "de-level-147",
+  "locale": "de",
+  "levelNumber": 147,
+  "title": "Block Out Level 147 Lösung",
+  "summary": "Block Out Level 147 ist longest lösen in 101–150 range — dual-chamber Spalte shifter mit hoch links `1` vault und trennen rechts `13` pocket. Unten launcher Bauteile hinausführen obere Raster durch narrow lanes. Gelb-outlin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/147/",
+        "layout": "Block Out Level 147 ist longest lösen in 101–150 range — dual-chamber Spalte shifter mit hoch links `1` vault und trennen rechts `13` pocket. Unten launcher Bauteile hinausführen obere Raster durch narrow lanes. Gelb-outlined blau Spalte auf links muss stay standing bis lila `2` Kachel und horizontal rot bar räumen Mitte, oder vault's hinausführen Bahn collapses.",
+        "landmarks": [
+          "Block Out Level 147 ist longest lösen in 101–150 range — dual-chamber Spalte shifter mit hoch links `1` vault und trennen rechts `13` pocket.",
+          "Unten launcher Bauteile hinausführen obere Raster durch narrow lanes.",
+          "Gelb-outlined blau Spalte auf links muss stay standing bis lila `2` Kachel und horizontal rot bar räumen Mitte, oder vault's hinausführen Bahn collapses."
+        ],
+        "colors": ["purple", "yellow", "blue", "red", "orange", "green", "cyan", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9uAtDrUE4V0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9uAtDrUE4V0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break 12 highlight bevor moving unten blau-base launcher.",
+        "Behalten 13 pocket sealed bis links 1 chamber accepts sein erste hinausführen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Schieben unten gelb L-Bauteil links auf sein türkis base zu starten Eröffnungs- links 1 chamber ohne verschiebend 13 pocket."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Hinausführen orange/blau/gelb/rot floor cluster nach oben durch unten links Pfeil once links chamber accepts Bauteile."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break orange-bordered 12 highlight Quadrat in rechts chamber nach linke Spalte thins."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen gelb-outlined blau vertikal Spalte auf links once 12 Kachel ist gone."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Abgleichen lila 2 Kachel (orange border) mit gelb 3 scrap über grün Pfeil Block."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend unten gelb launcher Bauteile — L auf pink base, dann 2×2 auf blau base — durch Mitte rot bar."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ansteuern letzte scraps durch grün hoch-Pfeil Ausgang für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Launching blau-base gelb 2×2 bevor 12 highlight breaks, sealing grün hoch-Pfeil Bahn.",
+        "Eröffnungs- 13 pocket bevor links 1 chamber thins, flooding Mitte rot bar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/147/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 147 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 147 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

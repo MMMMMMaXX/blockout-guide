@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-52",
+  "locale": "tr",
+  "levelNumber": 52,
+  "title": "Block Out Seviye 52 Rehberi",
+  "summary": "Block Out Seviye 52 splits tahta ile uzun kırmızı dikey bloklar aşağı merkez, oluşturarak dual-hedef bulmaca nere sol yan (yeşil, sarı) ve sağ yan (mavi, pembe) meli temizlendi coordinationda. sayaçlar '10' ve '12'...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/52/",
+        "layout": "Block Out Seviye 52 splits tahta ile uzun kırmızı dikey bloklar aşağı merkez, oluşturarak dual-hedef bulmaca nere sol yan (yeşil, sarı) ve sağ yan (mavi, pembe) meli temizlendi coordinationda. sayaçlar '10' ve '12' üst izlede kalan bloklar her yanda. boşalt alt sıralar ilk, sonra çalış yanlar inward merkez kırmızı duvara.",
+        "landmarks": [
+          "Block Out Seviye 52 splits tahta ile uzun kırmızı dikey bloklar aşağı merkez, oluşturarak dual-hedef bulmaca nere sol yan (yeşil, sarı) ve sağ yan (mavi, pembe) meli temizlendi coordinationda.",
+          "Sayaçlar '10' ve '12' üst izlede kalan bloklar her yanda.",
+          "Boşalt alt sıralar ilk, sonra çalış yanlar inward merkez kırmızı duvara."
+        ],
+        "colors": ["red", "green", "blue", "yellow", "pink", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "h1ibGSyIk-Q",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=h1ibGSyIk-Q",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Uzun kırmızı merkez bloklar duvar, değil engel rusha. temizle her ikisi de yanlar ilk.",
+        "Izle dual sayaçlar üstde — onlar tell sen how çok bloklar hâlâ gerektir çıkışa her yanda.",
+        "Tahta sıkışmış hissediyorsa, en temiz yola sahip renge bakın ve alanı geri kazanmak için onu kullanın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle daha düşük mavi bloklar sol yanda ve pembe bloklar sağ yanda onların respectivee çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır sarı/turuncu bloklar sol dışarıda sol çıkışdan açık ortaya-sol bölge."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Hareket ettir yeşil bloklar üstde-sol sol kapıdan şimdi ki yol temizle."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Başla kaydırarak uzun kırmızı dikey bloklar merkezde — onlar ebilir sadece hareket ettir sonra her ikisi de yanlar alan."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle kalan mavi bloklar sağda sağ çıkışdan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile any kalan kırmızı merkez parçalar ve alt kırmızı blok."
+        }
+      ],
+      "failurePoints": [
+        "Hareket ettirerek uzun kırmızı merkez bloklar önce boşaltarak alt sıralar — onlar blok her ikisi de çıkışlar simultaneously.",
+        "Focusing birde yan sadece sırasında diğer yan hâlâ sıkıştırılmış, hangi durur merkez kırmızı duvar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/52/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 52 Rehberi ve Çözümü",
+    "description": "Block Out seviye 52'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

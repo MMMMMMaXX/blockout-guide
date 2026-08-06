@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-112",
+  "locale": "tr",
+  "levelNumber": 112,
+  "title": "Block Out Seviye 112 Rehberi",
+  "summary": "Block Out Seviye 112 starts ile iki oversized mor çubuklar — `7` ve `10` — ki küçült sıradan ve sütun slides daha küçük sayaçlar tahta contracts. çöz yavaş implosion: çubuklar kır aşağı stage ile stage unti...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/112/",
+        "layout": "Block Out Seviye 112 starts ile iki oversized mor çubuklar — `7` ve `10` — ki küçült sıradan ve sütun slides daha küçük sayaçlar tahta contracts. çöz yavaş implosion: çubuklar kır aşağı stage ile stage kadar sadece merkez `3` zone remains. zorla perimeter kaydır önce büyük çubuklar bölündü ve entire çökert sequence sıkışır.",
+        "landmarks": [
+          "Block Out Seviye 112 starts ile iki oversized mor çubuklar — `7` ve `10` — ki küçült sıradan ve sütun slides daha küçük sayaçlar tahta contracts.",
+          "Çöz yavaş implosion: çubuklar kır aşağı stage ile stage kadar sadece merkez `3` zone remains.",
+          "Zorla perimeter kaydır önce büyük çubuklar bölündü ve entire çökert sequence sıkışır."
+        ],
+        "colors": ["purple", "blue", "green", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oiuZNte8CY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oiuZNte8CY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Numaralı tepşi karolar alt finishersde — kaydırarak onları erken kapanır yeşil gülen yüz şerit.",
+        "Kullan üst mor oklar bölündü `7` çubuk uzakta `10` blok önce dokunarak merkez.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır sol mavi dikey sütun yukarı doğru kırmızı sol okdan serbest üste `7` çubuk."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "It `7` çubuk sağa doğru kadar o splits `10` blok ve üst tahta açılır her ikisi de yanlar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Döndür yeşil gülen yüz çubuk sola doğru yeni boşlukdan olmadan dokunarak numaralı tepşi karolar (`1`, `4`, `3`)."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Çökert `10` çubuk merkez zonea kullanarak üst mor oklar kadar tahta gösterir single `3` cep."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle scattered kenar bloklar (kırmızı sol, mavi üst, yeşil sağ, sarı alt) bir timede `3` zone."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Besle turuncu `1` ve sarı `4` tepşi karolar alt oklardan bitir son perimeter temizlenir."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak alt numaralı tepşi karolar (`1`, `4`, `3`) önce `7` ve `10` çubuklar bölündü.",
+        "Forcing yeşil gülen yüz çubuk aşağı doğru sırasında merkez `3` cep hâlâ boxed ."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/112/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 112 Rehberi ve Çözümü",
+    "description": "Block Out seviye 112'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

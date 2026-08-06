@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-63",
+  "locale": "pt-br",
+  "levelNumber": 63,
+  "title": "Guia do nível 63 do Block Out",
+  "summary": "Block Out Nível 63 crams tabuleiro com oversized LEGO blocos — L-shapes, alto rectangles, e grande squares — tudo interlocked com contador números cima para 11. abertura estratégia é borda-descasque: extraia verde blocos de superior-direita...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "Block Out Nível 63 crams tabuleiro com oversized LEGO blocos — L-shapes, alto rectangles, e grande squares — tudo interlocked com contador números cima para 11. abertura estratégia é borda-descasque: extraia verde blocos de superior-direita e amarelo '11' bloco de superior-esquerda. Uma vez bordas fino, interlocked centro (vermelho quadrado, azul L-forma, roxo blocos) pode finalmente be separado. azul L-peça em direita lateral precisa mais clearance e usually deixa último.",
+        "landmarks": [
+          "Block Out Nível 63 crams tabuleiro com oversized LEGO blocos — L-shapes, alto rectangles, e grande squares — tudo interlocked com contador números cima para 11.",
+          "Abertura estratégia é borda-descasque: extraia verde blocos de superior-direita e amarelo '11' bloco de superior-esquerda.",
+          "Uma vez bordas fino, interlocked centro (vermelho quadrado, azul L-forma, roxo blocos) pode finalmente be separado.",
+          "Azul L-peça em direita lateral precisa mais clearance e usually deixa último."
+        ],
+        "colors": ["yellow", "green", "red", "blue", "orange", "purple", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Sempre fino bordas antes que tocando centro — um errado centro mova cadeados tabuleiro.",
+        "Azul L-shaped peça em direita lateral precisa mais clearance e should deixe tarde.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Puxe verde blocos de superior-direita através superior saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Deslize amarelo '11' bloco leftward em direção a seu saída para livre superior-esquerda."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Desloque laranja blocos em esquerda borda baixo uma vez superior canto abre."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Extraia vermelho quadrado de centro-esquerda uma vez suficiente borda espaço exists."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Roteie azul L-forma em direita lateral para fora — ele precisa mais clearance."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com restante roxo e ciano blocos uma vez centro é abra."
+        }
+      ],
+      "failurePoints": [
+        "Movendo centro bloco antes que bordas são thinned — interlocked peças jam instantly.",
+        "Tentando para extraia azul L-forma cedo quando there é não suficiente vertical e horizontal espaço."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 63 do Block Out",
+    "description": "Resolva o nível 63 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "de-level-33",
+  "locale": "de",
+  "levelNumber": 33,
+  "title": "Block Out Level 33 Lösung",
+  "summary": "Block Out Level 33 ist diamond-shaped Spielfeld where large grün überqueren-Block und dense rot mass sitzen über und unterhalb crowded mittlere belt von gelb, blau, weiß, und schwarz Bauteile. Diamond shape makes wide Mitte Reihe nur pa...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/33/",
+        "layout": "Block Out Level 33 ist diamond-shaped Spielfeld where large grün überqueren-Block und dense rot mass sitzen über und unterhalb crowded mittlere belt von gelb, blau, weiß, und schwarz Bauteile. Diamond shape makes wide Mitte Reihe nur Pfad big enough für two large Farbe masses zu travel durch, also belt muss sein broken öffnen erste. Räumen small belt Blöcke, senden grün überqueren hinaus durch oben Ausgang, dann let rot mass drain durch unten.",
+        "landmarks": [
+          "Block Out Level 33 ist diamond-shaped Spielfeld where large grün überqueren-Block und dense rot mass sitzen über und unterhalb crowded mittlere belt von gelb, blau, weiß, und schwarz Bauteile.",
+          "Diamond shape makes wide Mitte Reihe nur Pfad big enough für two large Farbe masses zu travel durch, also belt muss sein broken öffnen erste.",
+          "Räumen small belt Blöcke, senden grün überqueren hinaus durch oben Ausgang, dann let rot mass drain durch unten."
+        ],
+        "colors": ["green", "red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l7l7pDekZ2g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l7l7pDekZ2g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Wide mittlere Reihe ist nur real highway — wenn belt ist still occupied, neither wedge kann bewegen.",
+        "Grün lässt bevor rot. Grün überqueren-Block needs zu vacate obere diamond bevor rot mass kann starten moving.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Ziehen small gelb und orange Blöcke von mittlere belt toward links edge von diamond zu starten creating channel."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verschieben blau Blöcke auf Mitte-rechts toward rechts-edge Ausgang zu widen vertikal channel durch belt."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Räumen weiß Blöcke von rechts edge zu fully öffnen mittlere passage."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben grün überqueren-Block nach oben durch geöffnet channel und hinaus oben Ausgang point."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Once grün Block ist gone, starten moving rot mass nach oben von untere section durch widened Mitte."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen rot Blöcke durch unten Ausgang point jetzt dass Mitte belt ist kein longer clogged."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit remaining schwarz Blöcke in untere rechte Ecke und irgendein small belt fragments links hinter."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu schieben grün überqueren-Block durch mittlere bevor belt ist öffnen — grün Block ist largest Bauteil und needs fully geräumt channel.",
+        "Moving rot mass toward unten Ausgang while grün Block ist still occupying obere diamond, welche jams beide large Bauteile in Mitte Reihe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/33/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 33 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 33 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

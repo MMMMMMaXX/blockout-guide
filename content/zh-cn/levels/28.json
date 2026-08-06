@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-28",
+  "locale": "zh-cn",
+  "levelNumber": 28,
+  "title": "Block Out 第 28 关通关攻略",
+  "summary": "Block Out 第 28 关是一个层叠腔室拼图，带有顶部 `6` Boss 和下方 `2` Boss。先打开下方房间，再让 `2` 面板坍塌，最后只有当腔室已经开始转动时，才让上方 `6` 落下。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "Block Out 第 28 关是一个层叠腔室拼图，带有顶部 `6` Boss 和下方 `2` Boss。先打开下方房间，再让 `2` 面板坍塌，最后只有当腔室已经开始转动时，才让上方 `6` 落下。",
+        "landmarks": [
+          "Block Out 第 28 关是一个层叠腔室拼图，带有顶部 `6` Boss 和下方 `2` Boss。",
+          "先打开下方房间，再让 `2` 面板坍塌，最后只有当腔室已经开始转动时，才让上方 `6` 落下。",
+          "棋盘混合了蓝色、粉色、红色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先解决下方 `2`，再处理上方 `6`。",
+        "下方腔室是第一阶段的工作区。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先旋转下方腔室，开始通过侧边通道剥离蓝色和粉色方块。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用那片新空间，开始收缩带框的 `2` Boss。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在下方腔室仍然拥挤时，让上方 `6` 面板保持停驻。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "一旦 `2` 框架几乎消失，就让顶部 `6` 终于开始落下。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用后期的红色和黄色方块，阻止下方腔室重新填满。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "在上方 Boss 已经降低后，完成侧边出口。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个 Boss 都消失后，用底部的最后几种颜色收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在 `2` Boss 打开之前就试图降低 `6` 面板。",
+        "在首批出口可用后，仍让下方腔室保持拥挤。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 28 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 28 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

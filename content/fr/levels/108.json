@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-108",
+  "locale": "fr",
+  "levelNumber": 108,
+  "title": "Guide Block Out Niveau 108",
+  "summary": "Block Out Niveau 108 uses compact 6×6 grille où la gauche-rail numéros sont live progress marqueurs, pas decoration. rouge étoile amas ancres le centre et bas étoile barre sceaux final sortie. real constraint est la droite-rail `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/108/",
+        "layout": "Block Out Niveau 108 uses compact 6×6 grille où la gauche-rail numéros sont live progress marqueurs, pas decoration. rouge étoile amas ancres le centre et bas étoile barre sceaux final sortie. real constraint est la droite-rail `10` tuile: sliding il too tôt blocs abaissez alimentez voie pendant étoile barre toujours needs salle à dégagez.",
+        "landmarks": [
+          "Block Out Niveau 108 uses compact 6×6 grille où la gauche-rail numéros sont live progress marqueurs, pas decoration.",
+          "Rouge étoile amas ancres le centre et bas étoile barre sceaux final sortie.",
+          "Real constraint est la droite-rail `10` tuile: sliding il too tôt blocs abaissez alimentez voie pendant étoile barre toujours needs salle à dégagez."
+        ],
+        "colors": ["red", "orange", "green", "blue", "violet", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "32sx09TztaI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=32sx09TztaI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Utilisez la gauche-rail counts comme checklist — haut count doit reach `8` avant le bas étoile barre peut laissez tomber.",
+        "Gardez abaissez-centre gap ouvrez pendant peeling la gauche colonne vert.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Cassez haut supérieur-milieu rouge étoile amas avant déplaçant côté singles."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez la gauche colonne vert pendant keeping abaissez-centre gap ouvrez."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez orange vertical barre seulement après la gauche-rail haut count tombent de `11` à `8`."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez restant bleu et cyan singles une fois la gauche-rail milieu counts read `6` et `1`."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Alimentez la droite-rail `10` tuile hors à travers la droite vert arrow voie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Envoyez le bas orange étoile barre à travers vers le bas arrow sortie."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant la droite-rail `10` tuile avant la gauche-rail haut count atteint `8`.",
+        "Filling abaissez-centre gap too tôt, qui removes étoile barre's laissez tomber voie."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/108/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 108",
+    "description": "Résolvez le niveau 108 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

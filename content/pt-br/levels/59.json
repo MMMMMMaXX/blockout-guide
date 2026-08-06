@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-59",
+  "locale": "pt-br",
+  "levelNumber": 59,
+  "title": "Guia do nível 59 do Block Out",
+  "summary": "Block Out Nível 59 começa como double-câmara tabuleiro mas finishes como cadeado quebra-cabeça. Abra grande central `4` câmara primeiro, fino inferior-esquerda `10` espaço segundo, e então use liberado meio para quebre corrente coluna antes que você dinheiro ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/59/",
+        "layout": "Block Out Nível 59 começa como double-câmara tabuleiro mas finishes como cadeado quebra-cabeça. Abra grande central `4` câmara primeiro, fino inferior-esquerda `10` espaço segundo, e então use liberado meio para quebre corrente coluna antes que você dinheiro grande rosa bloco em direita.",
+        "landmarks": [
+          "Block Out Nível 59 começa como double-câmara tabuleiro mas finishes como cadeado quebra-cabeça.",
+          "Abra grande central `4` câmara primeiro, fino inferior-esquerda `10` espaço segundo, e então use liberado meio para quebre corrente coluna antes que você dinheiro grande rosa bloco em direita.",
+          "Tabuleiro mistura Roxo, Azul, Laranja e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9gh_W3CS4Yg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9gh_W3CS4Yg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Chained centro coluna é real tarde-game saída, não grande rosa bloco.",
+        "Abra central `4` espaço antes que você gaste serious effort em inferior-esquerda `10` câmara.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Escoe grande central roxo câmara marcado `4` antes que você overwork inferior-esquerda `10` espaço."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Trim superior prateleira enquanto que câmara é encolhendo so meio pista é não boxed em por lateral paredes."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece reducing inferior-esquerda `10` câmara único depois centro `4` espaço tem já aberto some chão espaço."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quando chained cadeado coluna aparece, limpar que centro coluna antes que movendo grande rosa bloco em direita."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Use unlocked meio para deslize rosa bloco e nearby vermelho peças em direção a inferior saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com inferior amarelo aglomerado e último pequeno lateral peças depois corrente pista é vazio."
+        }
+      ],
+      "failurePoints": [
+        "Treating inferior-esquerda `10` câmara como opener enquanto central `4` espaço é ainda preenchendo tabuleiro.",
+        "Tentando para mova grande rosa bloco antes que chained centro coluna tem been limpo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/59/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 59 do Block Out",
+    "description": "Resolva o nível 59 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-50",
+  "locale": "pt-br",
+  "levelNumber": 50,
+  "title": "Guia do nível 50 do Block Out",
+  "summary": "Block Out Nível 50 é direcional slider final — no chefes, no contadores, no dispositivos. Alto seta blocos empacotado em três colunas pode único deslize em direção seus seta pontos: azul e amarelo barras go cima, verde blocos go baixo, r...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "Block Out Nível 50 é direcional slider final — no chefes, no contadores, no dispositivos. Alto seta blocos empacotado em três colunas pode único deslize em direção seus seta pontos: azul e amarelo barras go cima, verde blocos go baixo, vermelho barras go esquerda ou direita, e roxo pushers preencha bordas. resolva é about roteie ordem: livre um vertical pista primeiro, use vermelho horizontal barras como tráfego controllers (não obstacles), e salve verde e roxo peças para depois grande barras tem limpo.",
+        "landmarks": [
+          "Block Out Nível 50 é direcional slider final — no chefes, no contadores, no dispositivos.",
+          "Alto seta blocos empacotado em três colunas pode único deslize em direção seus seta pontos: azul e amarelo barras go cima, verde blocos go baixo, vermelho barras go esquerda ou direita, e roxo pushers preencha bordas.",
+          "Resolva é about roteie ordem: livre um vertical pista primeiro, use vermelho horizontal barras como tráfego controllers (não obstacles), e salve verde e roxo peças para depois grande barras tem limpo."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Vermelho horizontal barras são tráfego controllers, não obstacles — mantenha um em reserve até verticals são principalmente indo.",
+        "Livre um longo vertical pista primeiro. Do não limpar ambos vermelho barras immediately.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Livre primeiro longo vertical pista por deslizando um azul ou amarelo barra cima e para fora."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Use que aberto pista para desloque another amarelo ou azul seta block out de empilhe."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha direita lateral de overfilling enquanto primeiro vermelho horizontal barra desliza para fora."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Abra segundo longo pista único depois primeiro lateral é calmer."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Libere verde baixo-seta blocos depois vertical bloqueadores são thinner."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Use roxo empurre blocos tarde, uma vez grande barras são já indo."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com último vermelho ou verde peça depois espaço é principalmente vazio."
+        }
+      ],
+      "failurePoints": [
+        "Removendo ambos vermelho horizontal barras antes que vertical pistas são ready — este remove seu tráfego control e direita lateral overfills.",
+        "Tentando para deslize verde baixo-seta bloco antes que vertical barras acima ele tem limpo, que entrava coluna."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 50 do Block Out",
+    "description": "Resolva o nível 50 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

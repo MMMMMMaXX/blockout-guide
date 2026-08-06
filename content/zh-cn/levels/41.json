@@ -1,0 +1,96 @@
+{
+  "id": "zh-cn-level-41",
+  "locale": "zh-cn",
+  "levelNumber": 41,
+  "title": "Block Out 第 41 关通关攻略",
+  "summary": "Block Out 第 41 关有一个被上方两角的两个 `2` 计数装置所控制的 `5` Boss 方块。先同时处理两个装置以解锁 Boss 上方的蓝色 U 形方块，待四周空间足够宽后让 Boss 落下……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/41/",
+        "layout": "Block Out 第 41 关有一个被上方两角的两个 `2` 计数装置所控制的 `5` Boss 方块。先同时处理两个装置以解锁 Boss 上方的蓝色 U 形方块，待四周空间足够宽后让 Boss 落下。Boss 在约 01:30 清空后，一大团蓝、黄、绿、红、紫方块会填满棋盘，进入第三阶段排序。",
+        "landmarks": [
+          "Block Out 第 41 关有一个被上方两角的两个 `2` 计数装置所控制的 `5` Boss 方块。",
+          "先同时处理两个装置以解锁 Boss 上方的蓝色 U 形方块，待四周空间足够宽后再让 Boss 落下。",
+          "Boss 在约 01:30 清空后，一大团蓝、黄、绿、红、紫方块会填满棋盘，进入第三阶段排序。"
+        ],
+        "colors": ["blue", "red", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q9Brph8V6fo",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q9Brph8V6fo",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "上方两角的两个 `2` 装置就是出口——若计数不为零，Boss 仍处于锁定状态。",
+        "准备好第三阶段：Boss 清空后会出现一大团彩色方块，需要重新排序。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "将相邻方块引入左侧 `2` 装置的出口，以处理该装置。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "接着处理右侧 `2` 装置。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "两个装置计数都归零后，将蓝色 U 形方块向上移出。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "随着 Boss 计数从 `5` 下降，逐步削减其四周的红、绿方块。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "待四周空间足够宽（约 01:30）后，让 Boss 方块清空。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "将显露出来的蓝、黄、绿、红、紫方块经各自出口分类送出。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "待棋盘基本清空后，完成最后的颜色清理。"
+        }
+      ],
+      "failurePoints": [
+        "在两个 `2` 装置仍在运行时就试图削减 `5` Boss——上方房间保持锁定，Boss 几乎无法移动。",
+        "未给 Boss 清空后出现的彩色方块团预留出口通道，导致新开辟的空间被堵死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/41/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 41 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 41 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-9",
+  "locale": "zh-cn",
+  "levelNumber": 9,
+  "title": "Block Out 第 9 关通关攻略",
+  "summary": "Block Out 第 9 关是一个中央凹槽狭窄的双塔解谜。先清空右侧黄色出口，把蓝色方块放进中央空腔，再让绿色、粉色和红色沿外框顺时针旋转。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/9/",
+        "layout": "Block Out 第 9 关是一个中央凹槽狭窄的双塔解谜。先清空右侧黄色出口，把蓝色方块放进中央空腔，再让绿色、粉色和红色沿外框顺时针旋转。",
+        "landmarks": [
+          "Block Out 第 9 关是一个中央凹槽狭窄的双塔解谜。",
+          "先清空右侧黄色出口，把蓝色方块放进中央空腔，再让绿色、粉色和红色沿外框顺时针旋转。",
+          "棋盘上混合了粉色、红色、黄色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["pink", "red", "yellow", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OWcQ-xTS8h8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OWcQ-xTS8h8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "利用右侧黄色出口打破对称。",
+        "凹槽一打开，中央的蓝色方块就应当立即移动。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把中右部的黄色方块从右侧墙上的黄色出口滑出。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把中央的蓝色方块移入新开口，使中央凹槽不再被堵。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "把右下角的绿色方块向下旋转，再把左下角的蓝色方块拉入它自己的通道。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用腾出的中央，在边缘计数器缩减的同时，把粉色方块在顶部和中间几行之间挪动。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "等绿色和蓝色不再穿过它时，让下层的红色方块沉入中央。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "把顶部的两个红色角落方块留到上方通道清空后再处理。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "最后把这一对红色方块从顶部出口送出，并让最后一块蓝色方块从最后的蓝色出口排干。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧黄色出口已经打开后，仍让中央蓝色方块停着不动。",
+        "在下方绿色和蓝色方块旋转到位之前，就试图强行移动某个顶部红色方块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/9/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 9 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 9 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

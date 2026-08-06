@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-127",
+  "locale": "ja",
+  "levelNumber": 127,
+  "title": "ブロックアウト レベル127 攻略",
+  "summary": "ブロックアウト レベル127は、番号付き円盤—「6」「4」「5」—を2つの部屋にわたるオレンジ枠のスロットへ送り込み、底部のLEGOレンガの列が色の順序を供給します。オレンジ枠の紫の「2」柱が中央を固定し、右の周囲の2×2の塊は柱が落ちる前に消去する必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/127/",
+        "layout": "ブロックアウト レベル127は、番号付き円盤—「6」「4」「5」—を2つの部屋にわたるオレンジ枠のスロットへ送り込み、底部のLEGOレンガの列が色の順序を供給します。オレンジ枠の紫の「2」柱が中央を固定し、右の周囲の2×2の塊は柱が落ちる前に消去する必要があります。柱を早く無理に動かすと、下部の部屋の唯一の供給通路を塞ぎます。",
+        "landmarks": [
+          "ブロックアウト レベル 127 — `6`、`4`、`5` — オレンジ- 渡り 部屋、下 行 順序.。",
+          "オレンジ- 紫 `2` 柱 アンカー 中央、2×2 右 消去する、柱 落とす.。",
+          "柱を無理に動かして、下の 部屋' 通す レーン.。"
+        ],
+        "colors": ["purple", "orange", "green", "blue", "red", "pink", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "r6zFw7xFbd0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=r6zFw7xFbd0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "オレンジのを通して`4` 右 `12` 部屋、赤のをずらして2×2 積み.。",
+        "紫 `2` 柱 目的 — 割る、下 緑 `3` レーン 開く.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "下 行、を通して揃い ペア 左 オレンジ- `14` 部屋.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "緑のを落として`6` 左 部屋、`14` .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "オレンジのを通して`4` 右 `12` 部屋 白 `5` 右 レール 消去する.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "赤のを消去して2×2、青 2×2 積み 上の-右 緑 2×2 下 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "ピンクのＬ字型と底部の緑の「3」カウンターを下部グリッドを通して導きます。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を割りてオレンジ- 紫 `2` 柱、を終えて下 青 .。"
+        }
+      ],
+      "failurePoints": [
+        "動かし 赤 2×2、オレンジ `4` 右 `12` 部屋 — 詰まり 緑 `3` レーン.。",
+        "を割りて紫 `2` 柱 ピンク Ｌ字型 下の .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/127/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル127 攻略と解説",
+    "description": "ブロックアウト レベル127 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

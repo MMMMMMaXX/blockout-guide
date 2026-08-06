@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-120",
+  "locale": "pt-br",
+  "levelNumber": 120,
+  "title": "Guia do nível 120 do Block Out",
+  "summary": "Block Out Nível 120 é rápido coroa-e-bomb tabuleiro onde real objetivos são specific marcado peças — vermelho `15` e verde `25` crowns, vermelho `23` e amarelo `48` bombs — não generic cor grupos. cadeado fileira em inferior permanece seale...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/120/",
+        "layout": "Block Out Nível 120 é rápido coroa-e-bomb tabuleiro onde real objetivos são specific marcado peças — vermelho `15` e verde `25` crowns, vermelho `23` e amarelo `48` bombs — não generic cor grupos. cadeado fileira em inferior permanece vedado até crowns e bombs são tudo indo. Detonate para fora de ordem e último bomb blocos final vermelho saída, um mova de Perfeito limpar.",
+        "landmarks": [
+          "Block Out Nível 120 é rápido coroa-e-bomb tabuleiro onde real objetivos são specific marcado peças — vermelho `15` e verde `25` crowns, vermelho `23` e amarelo `48` bombs — não generic cor grupos.",
+          "Cadeado fileira em inferior permanece vedado até crowns e bombs são tudo indo.",
+          "Detonate para fora de ordem e último bomb blocos final vermelho saída, um mova de Perfeito limpar."
+        ],
+        "colors": ["red", "green", "blue", "cyan", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q5ubnDWBJ10",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q5ubnDWBJ10",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre vermelho `15` antes que verde `25` — coroa par ordem matters para esquerda-coluna hole.",
+        "Pop ambos amarelo `48` bombs antes que gastando inferior cadeado contadores.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Tap superior vermelho triangle peça, então limpar ciano `4` e azul `10` borda peças."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre centro coroa par — vermelho `15` primeiro, então verde `25` — antes que tocando amarelo `60` tijolos."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Detonate vermelho `23` bomb bloco uma vez esquerda-coluna hole abre."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Pop ambos amarelo `48` bomb peças enquanto azul `8` e ciano `9` superior par é ainda movable."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste inferior branco `6` e `4` contador peças para desbloqueie cadeado fileira."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine restante vermelho inferior recortes para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Detonating amarelo `48` bombs depois cadeado fileira — um ao vivo bomb blocos final vermelho saída.",
+        "Tocando amarelo `60` tijolos antes que vermelho `15` coroa limpa."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/120/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 120 do Block Out",
+    "description": "Resolva o nível 120 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ja-level-120",
+  "locale": "ja",
+  "levelNumber": 120,
+  "title": "ブロックアウト レベル120 攻略",
+  "summary": "ブロックアウト レベル120は素早い王冠と爆弾の盤面で、本当の目標は特定のマーク付きタイル—赤の「15」と緑の「25」の王冠、赤の「23」と黄の「48」の爆弾—であり、一般的な色グループではありません。底部の南京錠の列は…まで封じられたままです。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/120/",
+        "layout": "ブロックアウト レベル120は素早い王冠と爆弾の盤面で、本当の目標は特定のマーク付きタイル—赤の「15」と緑の「25」の王冠、赤の「23」と黄の「48」の爆弾—であり、一般的な色グループではありません。底部の南京錠の列は、王冠と爆弾がすべてなくなるまで封じられたままです。順不同で爆発させると、最後の爆弾が最後の赤の出口を塞ぎ、パーフェクト消去まであと1手のところで詰まります。",
+        "landmarks": [
+          "ブロックアウト レベル 120 - - 目的 タイル — 赤 `15`、緑 `25`、赤 `23`、黄 `48` — グループ.。",
+          "錠 行 下 残し、.。",
+          "赤の出口、手順 完璧な 消去する.。"
+        ],
+        "colors": ["red", "green", "blue", "cyan", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "Q5ubnDWBJ10",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q5ubnDWBJ10",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "赤のを割りて`15`、緑 `25` — ペア 左-列 .。",
+        "黄 `48`、下 錠 カウンター.。",
+        "盤面が行き詰まったら、最も経路がクリアな色を見つけ、それを使って空間を取り戻してください。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "上 赤 ピース、消去する シアン `4`、青 `10` タイル.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を割りて中央 ペア — 赤 `15`、緑 `25` —、黄 `60` .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "赤 `23` ブロック、左-列 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "黄 `48` タイル 青 `8`、シアン `9` 上 ペア .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いて下 白 `6`、`4` カウンター タイル 解放する 錠 行.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えて赤 下 完璧な 消去する.。"
+        }
+      ],
+      "failurePoints": ["黄 `48`、錠 行 — 赤の出口.。", "黄 `60`、赤 `15` .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/120/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル120 攻略と解説",
+    "description": "ブロックアウト レベル120 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

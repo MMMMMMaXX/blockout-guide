@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-113",
+  "locale": "fr",
+  "levelNumber": 113,
+  "title": "Guide Block Out Niveau 113",
+  "summary": "Block Out Niveau 113 stacks trois chambres vertically avec étroit neck entre les que acts comme one-voie airlock. haut barre bleu compteur ticks de `7` bas à `1`, tracking supérieur-chambre progress, et le milieu neck seulement passes o...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/113/",
+        "layout": "Block Out Niveau 113 stacks trois chambres vertically avec étroit neck entre les que acts comme one-voie airlock. haut barre bleu compteur ticks de `7` bas à `1`, tracking supérieur-chambre progress, et le milieu neck seulement passes one pièce à time. Tournez jaune 1×3 barre too tôt et il sceaux seulement chemin dans abaissez chambre.",
+        "landmarks": [
+          "Block Out Niveau 113 stacks trois chambres vertically avec étroit neck entre les que acts comme one-voie airlock.",
+          "Haut barre bleu compteur ticks de `7` bas à `1`, tracking supérieur-chambre progress, et le milieu neck seulement passes one pièce à time.",
+          "Tournez jaune 1×3 barre too tôt et il sceaux seulement chemin dans abaissez chambre."
+        ],
+        "colors": ["violet", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U_6NFrNRpeI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=U_6NFrNRpeI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Milieu neck est exactly one voie large — nothing peut restez de côté dans il.",
+        "Regardez le haut barre bleu compteur; jaune 1×3 seulement coups une fois il tombent sous `4`.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez orange 1×2 polyomino vers le bas à travers le milieu neck à commencez opening supérieur `7` chambre."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Maintenez jaune 1×3 horizontal jusqu'à le haut barre bleu compteur tombent de `7` à `4`."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez jaune 1×3 à travers neck une fois supérieur violet `7` bloc thins à single rangée."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Laissez tomber restant supérieur-chambre debris à travers neck airlock pendant côté `7` pads toujours read ouvrez."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Envoyez le L vert-pièce et L bleu-amas à travers neck dans abaissez `1` chambre."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez abaissez violet `1` bloc à travers côté `3` et `4` pads, alors sortie le L rouge-pièce à le bas."
+        }
+      ],
+      "failurePoints": [
+        "Rotating jaune 1×3 avant le haut compteur tombent sous `4`, qui sceaux neck.",
+        "Feeding abaissez `1` chambre avant supérieur `7` bloc a fully drained."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/113/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 113",
+    "description": "Résolvez le niveau 113 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

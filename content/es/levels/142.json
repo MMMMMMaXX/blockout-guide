@@ -1,0 +1,96 @@
+{
+  "id": "es-level-142",
+  "locale": "es",
+  "levelNumber": 142,
+  "title": "Guía de Block Out Nivel 142",
+  "summary": "Block Out nivel 142 es a keyhole tower ese thins progressively desde a denso superior body a a narrow stem, con a fixed `21` void marker locked en el centro. Three directional flecha carriles — azul izquierdo, rojo derecho, morado abajo — son the onl...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/142/",
+        "layout": "Block Out nivel 142 es a keyhole tower ese thins progressively desde a denso superior body a a narrow stem, con a fixed `21` void marker locked en el centro. Three directional flecha carriles — azul izquierdo, rojo derecho, morado abajo — son the solo salidas. The tower debe shed weight desde the superior primero; push the derecho-lado cian ring antes the superior body thins y the `21` void stays buried bajo collapsing bloques.",
+        "landmarks": [
+          "Block Out nivel 142 es a keyhole tower ese thins progressively desde a denso superior body a a narrow stem, con a fixed `21` void marker locked en el centro.",
+          "Three directional flecha carriles — azul izquierdo, rojo derecho, morado abajo — son the solo salidas.",
+          "The tower debe shed weight desde the superior primero; push the derecho-lado cian ring antes the superior body thins y the `21` void stays buried bajo collapsing bloques."
+        ],
+        "colors": ["red", "blue", "yellow", "morado", "orange", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DXWWH504ozw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DXWWH504ozw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Abre the azul izquierdo carril antes touching the derecho naranja stack.",
+        "The 21 void baldosa never movimientos — despejado alrededor lo, no por lo.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the superior azul arriba-flecha cap y the rojo/amarillo superior banda without shifting the 21 void baldosa."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Introduce superior restos abajo the morado inferior-flecha carril a abierto the inferior-izquierdo azul salida."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Peel the izquierdo morado/azul columna por the azul izquierdo-flecha carril, leaving the void intact."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Elimina the derecho naranja/amarillo stack por the rojo derecho-flecha carril once el lado izquierdo es abierto."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Break the cian ring alrededor the central amarillo bloque en the mid-tower hueco."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Desliza the restante azul y naranja restos apagado la base inferior hacia la flecha inferior."
+        },
+        {
+          "order": 7,
+          "title": "Mueve 7",
+          "instruction": "Sale the final scattered bloques para el bloque fuera! Elimina."
+        }
+      ],
+      "failurePoints": [
+        "Abre the derecho naranja carril antes the izquierdo azul carril thins, locking the mid-tower stack.",
+        "Trying a movimiento the 21 void baldosa instead de clearing el bloques alrededor lo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/142/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 142",
+    "description": "Resuelve Block Out nivel 142 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

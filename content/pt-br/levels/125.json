@@ -1,0 +1,92 @@
+{
+  "id": "pt-br-level-125",
+  "locale": "pt-br",
+  "levelNumber": 125,
+  "title": "Guia do nível 125 do Block Out",
+  "summary": "Block Out Nível 125 é rápido U-moldura tabuleiro onde inferior lançador fileira alimenta blocos para cima em U-shaped lacuna. lateral braços deve fino para azul `6` e `4` peças antes que launchers pode fire — otherwise lacuna overflows. Quebre tho...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/125/",
+        "layout": "Block Out Nível 125 é rápido U-moldura tabuleiro onde inferior lançador fileira alimenta blocos para cima em U-shaped lacuna. lateral braços deve fino para azul `6` e `4` peças antes que launchers pode fire — otherwise lacuna overflows. Quebre those contadores, então gaste lançador fileira para Perfeito limpar. branco `9` contador em centro verde bloco é último launch trigger.",
+        "landmarks": [
+          "Block Out Nível 125 é rápido U-moldura tabuleiro onde inferior lançador fileira alimenta blocos para cima em U-shaped lacuna.",
+          "Lateral braços deve fino para azul `6` e `4` peças antes que launchers pode fire — otherwise lacuna overflows.",
+          "Quebre those contadores, então gaste lançador fileira para Perfeito limpar.",
+          "Branco `9` contador em centro verde bloco é último launch trigger."
+        ],
+        "colors": ["yellow", "green", "red", "orange", "cyan", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "01Yjk5R2M04",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=01Yjk5R2M04",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre azul `6` contador antes que azul `4` contador para mantenha amarelo base par abra.",
+        "Do não touch centro vermelho `17` lançador até ambos lateral contador peças são indo.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Desloque esquerda-braço amarelo/verde/vermelho empilhe para baixo com longe-esquerda verde cima-seta sem tocando azul `6` peça."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mirror direita-braço laranja/vermelho/azul empilhe com longe-direita verde cima-seta, mantendo azul `4` contador estacionado."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Quebre azul `6` contador peça em esquerda braço uma vez ambos lateral empilha são três blocos alto."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quebre azul `4` contador peça em direita braço antes que dois amarelo base tijolos mova."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste inferior lançador fileira — esquerda vermelho `25`, centro vermelho `17`, direita verde `25` — para alimente restante blocos em U lacuna."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar inferior `9` contador peça e último vermelho/azul recortes através centro verde seta para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Quebrando azul `4` contador antes que azul `6` — este entrava amarelo base par permanentemente.",
+        "Deslocando centro vermelho `17` lançador antes que ambos lateral contador peças limpar, boxing ambos braços."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/125/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 125 do Block Out",
+    "description": "Resolva o nível 125 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

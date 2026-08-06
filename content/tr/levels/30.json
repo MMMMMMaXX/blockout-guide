@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-30",
+  "locale": "tr",
+  "levelNumber": 30,
+  "title": "Block Out Seviye 30 Rehberi",
+  "summary": "Block Out Seviye 30 L-şekilli alan inşa edildi uzun çerçeveliden ana blok sütun ile `11` sayaç. kırmızı, beyaz, ve siyah bloklar sıkıştırılmış kuledan taban meli temizlendi ilk bringe sayaç aşağı, ve kule sadece collaps...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/30/",
+        "layout": "Block Out Seviye 30 L-şekilli alan inşa edildi uzun çerçeveliden ana blok sütun ile `11` sayaç. kırmızı, beyaz, ve siyah bloklar sıkıştırılmış kuledan taban meli temizlendi ilk bringe sayaç aşağı, ve kule sadece çöker sonra o düşer `2`. sonra sütun düşer, saniye wave yeşil, kırmızı, ve beyaz bloklar spills dışarı içeri miliden ve gerektirir onun own separation aşama.",
+        "landmarks": [
+          "Block Out Seviye 30 L-şekilli alan inşa edildi uzun çerçeveliden ana blok sütun ile `11` sayaç.",
+          "Kırmızı, beyaz, ve siyah bloklar sıkıştırılmış kuledan taban meli temizlendi ilk bringe sayaç aşağı, ve kule sadece çöker sonra o düşer `2`.",
+          "Sonra sütun düşer, saniye wave yeşil, kırmızı, ve beyaz bloklar spills dışarı içeri miliden ve gerektirir onun own separation aşama."
+        ],
+        "colors": ["red", "white", "green", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "80BpPqhD3Y0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=80BpPqhD3Y0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Izle ana blok sayaç numara, değil kule height — eğer sayaç hâlâ reads `5` veya daha yüksek, taban gerektirir daha fazla çalış.",
+        "Besle yeşil çıkış alt merkez öncede deneyerek kullan sol duvar çıkışlar için iç kütle.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır sol-yan kırmızı bloklar sol duvara çıkışlar oluştur ilk boşluk kuleda taban."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Hareket ettir beyaz bloklar dışarı orta taban açık şerite arasında kule ve sağ-yan kırmızı kütle."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Temizle sağ-yan kırmızı ve siyah bloklar boşluklardan created ile ilk iki hamleler, izleyerek ana blok sayaç düşür ile her parça."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Sonra sayaç düşer `2`, bırak çerçeveli sütun çökert — iç yeşil ve beyaz bloklar spill tabana bölge."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Ayı açığa çıktı yeşil bloklar ve besle onları altdan-merkez yeşil çıkış ilk."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kullan sol duvar çıkışlar için kalan beyaz ve kırmızı iç parçalar."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son kırmızı kule parça sonra mili boş ve taban flat."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek zorla ana blok sütun aşağı sırasında taban bölge hâlâ sıkıştırılmış ile kırmızı ve beyaz bloklar — sayaç barely hamleler çünkü orada hayır şerit için taban parçalar escapea .",
+        "Ignoring yeşil alt-merkez çıkış favorda sol duvar çıkışlar ne zaman iç kütle spills dışarı, hangi causes trafik sıkış yatay bölümde."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/30/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 30 Rehberi ve Çözümü",
+    "description": "Block Out seviye 30'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ja-level-103",
+  "locale": "ja",
+  "levelNumber": 103,
+  "title": "ブロックアウト レベル103 攻略",
+  "summary": "ブロックアウト レベル103は、番号付きタイル—上部に「11」「19」「14」、左のレールに紫の「10」バー—でグリッドを埋め、各行を数え上げパズルにしています。左レールの「10」タイルの積み重ねは、幅広いバーが動く前に排水する必要があります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/103/",
+        "layout": "ブロックアウト レベル103は、番号付きタイル—上部に「11」「19」「14」、左のレールに紫の「10」バー—でグリッドを埋め、各行を数え上げパズルにしています。左レールの「10」タイルの積み重ねは、幅広いバーが動く前に排水する必要があり、底部の紫トレイカウンターが残りの配置数を追跡します。罠は上部の「19」タイルです：緊急に見えますが、レールを待つ必要があります。",
+        "landmarks": [
+          "ブロックアウト レベル 103 タイル — `11`、`19`、`14` 渡り 上、紫 `10` 棒 左 レール — 行 .。",
+          "左-レール 積み 揃い `10` タイル 排出する、手順、下 紫 トレイ カウンター .。",
+          "罠 上の `19` タイル:、レール.。"
+        ],
+        "colors": ["purple", "blue", "pink", "green", "yellow", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "f_m9GH7opLc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=f_m9GH7opLc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を消去して左-レール `10` タイル、下の 紫 `19` 棒.。",
+        "上の 紫 `4` 棒 手順、上段 — 中央 塊 消去する .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上-行 -青 `11`、`19`、`14` タイル 上の 出口.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして左に、-レール 青 `10` 積み 上 下、中央 塊.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "をスライドさせて上の 紫 `4` 棒 左、上段、レールを残して開く.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を割りて上に、中央 ピンク/緑/黄 開く 中央の 列.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "オレンジのをずらして横切る、シアン `10` タイル 側 レーン.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を解放して下の 紫 `19` 棒 下部の出口、左 レール .。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を終えて緑 塊、下-トレイ 通し カウンター `6`.。"
+        }
+      ],
+      "failurePoints": [
+        "スライドさせる 下の 紫 `19` 棒、左-レール `10` 積み .。",
+        "消去 中央 オレンジ 横切る 上-行 上の 出口.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/103/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル103 攻略と解説",
+    "description": "ブロックアウト レベル103 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

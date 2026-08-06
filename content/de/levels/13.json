@@ -1,0 +1,93 @@
+{
+  "id": "de-level-13",
+  "locale": "de",
+  "levelNumber": 13,
+  "title": "Block Out Level 13 Lösung",
+  "summary": "Block Out Level 13 ist pressure Spielfeld mit crowded rechte Wand und oben Zähler. Soften rechte Bahn erste, behalten obere blau band geparkt als brace, und collapse türkis slabs nur nach rot Bahn öffnet.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/13/",
+        "layout": "Block Out Level 13 ist pressure Spielfeld mit crowded rechte Wand und oben Zähler. Soften rechte Bahn erste, behalten obere blau band geparkt als brace, und collapse türkis slabs nur nach rot Bahn öffnet.",
+        "landmarks": [
+          "Block Out Level 13 ist pressure Spielfeld mit crowded rechte Wand und oben Zähler.",
+          "Soften rechte Bahn erste, behalten obere blau band geparkt als brace, und collapse türkis slabs nur nach rot Bahn öffnet.",
+          "Das Spielfeld mixes Türkis, Gelb, Blau und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["cyan", "yellow", "blue", "pink", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "87qPzSxTypk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=87qPzSxTypk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Rechts rot Bahn matters bevor oben blau band.",
+        "Türkis slabs sollte bewegen nach Zähler, nicht bevor sie.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen rechts-edge Bauteile in rot Wand also tiny `1` Seite Zähler disappears erste."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Behalten shrinking oben `3` und `4` Zähler while türkis `10` slab stays geparkt in mittlere."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Verwenden gelb belts zu bridge über Mitte nur nach rechte Bahn ist kein longer clogged."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Fallen lassen türkis `8` und `6` slabs in sequence also mittlere Reihe stops pinning blau band."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Freigeben obere blau band once oben Zähler sind fast exhausted."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden durch räumend letzte gelb belts und dann endgültig türkis `5` slab."
+        }
+      ],
+      "failurePoints": [
+        "Moving oben blau band bevor rechts rot Bahn hat geöffnet.",
+        "Versuchen zu force türkis `10` slab runter while oben Zähler sind still high."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/13/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 13 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 13 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

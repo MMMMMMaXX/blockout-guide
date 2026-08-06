@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-32",
+  "locale": "pt-br",
+  "levelNumber": 32,
+  "title": "Guia do nível 32 do Block Out",
+  "summary": "Block Out Nível 32 é symmetrical moldura-quebrando quebra-cabeça. alto vermelho bloco formation shaped como oco rectangle dominates centro, held em coloque por ciano `2`-contador blocos em ambos lados e amarelo `6` tampa em superior. resolva requ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "Block Out Nível 32 é symmetrical moldura-quebrando quebra-cabeça. alto vermelho bloco formation shaped como oco rectangle dominates centro, held em coloque por ciano `2`-contador blocos em ambos lados e amarelo `6` tampa em superior. resolva exige par redução de ambos flanks: limpar ciano contadores primeiro, descasque externo vermelho colunas, e único então solte amarelo tampa depois vermelho structure tem já loosened.",
+        "landmarks": [
+          "Block Out Nível 32 é symmetrical moldura-quebrando quebra-cabeça.",
+          "Alto vermelho bloco formation shaped como oco rectangle dominates centro, held em coloque por ciano `2`-contador blocos em ambos lados e amarelo `6` tampa em superior.",
+          "Resolva exige par redução de ambos flanks: limpar ciano contadores primeiro, descasque externo vermelho colunas, e único então solte amarelo tampa depois vermelho structure tem já loosened."
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Assista symmetry — se um flank de vermelho formation looks thicker do que outro, equalize antes que continuing.",
+        "Amarelo `6` tampa é keystone, não opener. Ele solta único depois vermelho colunas underneath são thinned.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar esquerda ciano `2`-contador bloco para abra fino pista em esquerda flank de vermelho formation."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Mirror que por limpando direita ciano `2`-contador bloco so ambos flanks de vermelho massa são exposto."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece descascando externo vermelho colunas de ambos bordas agora que lateral pistas exist."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Deixe amarelo `6` tampa em superior comece lowering como vermelho colunas underneath fino para fora."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Continue alternating esquerda e direita vermelho coluna funciona para mantenha formation balanced."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Uma vez vermelho massa é principalmente separado, alimente liberado peças através lateral saídas e inferior amarelo seta."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com amarelo tampa e último interno vermelho blocos depois moldura é broken."
+        }
+      ],
+      "failurePoints": [
+        "Overworking um lateral de vermelho formation enquanto outro permanece intacto — vermelho massa desloca em parede em undeveloped lateral e cadeados tabuleiro.",
+        "Tentando para remova amarelo `6` tampa antes que vermelho colunas underneath tem thinned suficiente, que apenas reseals centro."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 32 do Block Out",
+    "description": "Resolva o nível 32 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tr-level-2",
+  "locale": "tr",
+  "levelNumber": 2,
+  "title": "Block Out Seviye 2 Anlatımı",
+  "summary": "Blok Out Level 2 opens with red up ve yellow sola, then turns içine a dikey-sütun cleanup. Park blue in the sol üst köşe, peel the white ve black sütunlar üzerinden the top şerit, ve only cash blue out last.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/2/",
+        "layout": "Blok Out Level 2 opens with red up ve yellow sola, then turns içine a dikey-sütun cleanup. Park blue in the sol üst köşe, peel the white ve black sütunlar üzerinden the top şerit, ve only cash blue out last.",
+        "landmarks": [
+          "Blok Out Level 2 opens with red up ve yellow sola, then turns içine a dikey-sütun cleanup.",
+          "Park blue in the sol üst köşe, peel the white ve black sütunlar üzerinden the top şerit, ve only cash blue out last.",
+          "The tahta mixes Red, Yellow, Blue ve daha fazla.",
+          "The açılış layout is a renk sıralı grid.",
+          "Temizle eşleşti karolar to finish the level."
+        ],
+        "colors": ["red", "yellow", "blue", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5_oCfVwpPdg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5_oCfVwpPdg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Red ve yellow are the two açılış temizler.",
+        "Blue is a brace first ve an çıkış blok second.",
+        "If the tahta feels stuck, look for the renk with the cleanest yol ve use that to regain alan."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Hareket the red L-shaped blok up üzerinden the top red çıkış."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Push the yellow T-shaped blok sola üzerinden the yellow side çıkış."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır the blue L içine the sol üst köşe ve leave it parked there."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Raise the far-sağa white sütun ve then lift the black sütun beside it içine the top-sağa black çıkış."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Pull the tall orta white sütun up içine the top-sola white çıkış once the black köşe is free."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Use the same top şerit to remove the remaining white yığın on the sağa side."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Send the last black sütun up üzerinden the black çıkış."
+        },
+        {
+          "order": 8,
+          "title": "Hamle 8",
+          "instruction": "Finish by dropping the parked blue L to the blue çıkış on the sola duvar."
+        }
+      ],
+      "failurePoints": [
+        "Trying to send the blue L to its çıkış before the white sütunlar have climbed.",
+        "Ignoring the sağa black sütun ve lifting white içine a blocked köşe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/2/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 2 Anlatımı ve Çözümü",
+    "description": "Block Out seviye 2'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

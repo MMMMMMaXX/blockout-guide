@@ -1,0 +1,92 @@
+{
+  "id": "de-level-67",
+  "locale": "de",
+  "levelNumber": 67,
+  "title": "Block Out Level 67 Lösung",
+  "summary": "Block Out Level 67 splits das Spielfeld in obere und untere halves connected durch maze channels, mit framed keystone Block (Zähler '1') sitting in Mitte junction. Obere half holds mix von grün, lila, gelb, blau, und rot blo...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/67/",
+        "layout": "Block Out Level 67 splits das Spielfeld in obere und untere halves connected durch maze channels, mit framed keystone Block (Zähler '1') sitting in Mitte junction. Obere half holds mix von grün, lila, gelb, blau, und rot Blöcke. Untere half hat three hoch türkis Blöcke mit Zähler '8', '3', und '3'. Entfernen keystone erste zu connect beide halves durch maze, dann räumen obere colored Blöcke, und finally hinausführen hoch türkis Blöcke durch channels zu unten exits.",
+        "landmarks": [
+          "Block Out Level 67 splits das Spielfeld in obere und untere halves connected durch maze channels, mit framed keystone Block (Zähler '1') sitting in Mitte junction.",
+          "Obere half holds mix von grün, lila, gelb, blau, und rot Blöcke.",
+          "Untere half hat three hoch türkis Blöcke mit Zähler '8', '3', und '3'.",
+          "Entfernen keystone erste zu connect beide halves durch maze, dann räumen obere colored Blöcke, und finally hinausführen hoch türkis Blöcke durch channels zu unten exits."
+        ],
+        "colors": ["green", "purple", "yellow", "blue", "red", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "89tS7zoMG_U",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=89tS7zoMG_U",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Keystone Block mit Zähler '1' ist cheapest bewegen auf das Spielfeld — always räumen es erste.",
+        "Räumen alle obere colored Blöcke bevor routing hoch türkis Blöcke durch channels.",
+        "Wenn das Spielfeld fühlt fest, schauen für Farbe mit saubersten Pfad und verwenden dass zu zurückgewinnen Platz."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Räumen framed keystone Block (Zähler '1') in Mitte — es connects two halves."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract grün Block von obere linke durch links Ausgang."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Ziehen blau und rot Blöcke bei oben durch ihr exits."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben lila/magenta Block hinaus once adjacent Platz öffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Ansteuern erste hoch türkis Block (Zähler '8') durch maze channels zu unten Ausgang."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen remaining two türkis Blöcke (Zähler '3' jede) durch channels."
+        }
+      ],
+      "failurePoints": [
+        "Ignoring keystone Block und Versuchen zu bewegen obere Blöcke erste — halves stay isolated.",
+        "Routing hoch türkis Block bevor obere section ist räumen, welche Blöcke channels für everything else."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/67/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 67 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 67 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

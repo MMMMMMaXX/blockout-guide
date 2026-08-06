@@ -1,0 +1,97 @@
+{
+  "id": "ko-level-65",
+  "locale": "ko",
+  "levelNumber": 65,
+  "title": "블록 아웃 레벨 65 공략",
+  "summary": "블록 아웃 레벨 65는 두 개의 겹친 프레임 계층 — 어두운 바깥 프레임과 주황색 안쪽 프레임 — 로 색 블록 코어를 감싼 중첩 프레임 퍼즐입니다. 안쪽 블록은 두 프레임이 모두 열려야 움직일 수 있습니다. 먼저 바깥 프레임을...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "블록 아웃 레벨 65는 두 개의 겹친 프레임 계층 — 어두운 바깥 프레임과 주황색 안쪽 프레임 — 로 색 블록 코어를 감싼 중첩 프레임 퍼즐입니다. 안쪽 블록은 두 프레임이 모두 열려야 움직일 수 있습니다. 분홍색과 빨간색 가장자리 조각을 뽑아 바깥 프레임을 벗긴 다음, 안쪽 주황색 프레임을 부수어 초록색, 파란색, 보라색, 빨간색 블록을 풀어주세요. 안쪽 프레임 안의 카운터 '10' 노란색 블록이 가장 무거운 조각이며 마지막에 나갑니다.",
+        "landmarks": [
+          "블록 아웃 레벨 65는 두 개의 겹친 프레임 계층 — 어두운 바깥 프레임과 주황색 안쪽 프레임 — 로 색 블록 코어를 감싼 중첩 프레임 퍼즐입니다.",
+          "안쪽 블록은 두 프레임이 모두 열려야 움직일 수 있습니다.",
+          "분홍색과 빨간색 가장자리 조각을 뽑아 바깥 프레임을 먼저 벗기고, 그다음 안쪽 주황색 프레임을 부수어 초록색, 파란색, 보라색, 빨간색 블록을 풀어주세요.",
+          "안쪽 프레임 안의 카운터 '10' 노란색 블록이 가장 무거운 조각이며 마지막에 나갑니다."
+        ],
+        "colors": ["보라색", "초록색", "파란색", "빨간색", "노란색", "분홍색"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "바깥 프레임이 충분히 조각을 잃기 전에는 안쪽 프레임을 건드리지 마세요.",
+        "노란색 '10' 블록은 넓은 차선이 필요합니다. 긴 이송을 위해 출구를 막히지 않게 유지하세요.",
+        "연쇄 클리어를 염두에 두세요. 가장 좋은 수는 당장의 가장 빠른 매칭이 아니라, 다음 두 수를 만들어주는 수입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "바깥 프레임 가장자리의 작은 분홍색 블록을 가까운 출구로 빼내세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "바깥 프레임과 안쪽 프레임 사이 왼쪽의 빨간색 블록을 뽑아내세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "바깥 프레임이 얇아지면 안쪽 주황색 프레임 테두리를 부수어 코어 블록을 풀어주세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "안쪽 영역 왼쪽 위의 보라색 블록을 왼쪽 출구로 밀어내세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "중앙의 초록색과 파란색 블록을 이용 가능한 출구로 뽑아내세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "노란색 '10' 블록을 출구로 반복해서 보내 완전히 클리어할 때까지 하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "오른쪽에 남은 빨간색 블록으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "여전히 닫힌 프레임을 통해 안쪽 블록을 강제로 넣으려는 것 — 두 계층이 열려야 움직일 수 있습니다.",
+        "노란색 '10' 블록을 위해 충분히 넓은 차선을 남기지 않으면, 느리고 비좁은 후반전이 됩니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 65 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 65을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

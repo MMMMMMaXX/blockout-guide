@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-121",
+  "locale": "pt-br",
+  "levelNumber": 121,
+  "title": "Guia do nível 121 do Block Out",
+  "summary": "Block Out Nível 121 divide tabuleiro em azul-e-amarelo superior conveyor e inferior checkerboard grade, conectado por alimente pista. superior bandeja deve escoe completamente antes que verde `31` coroa bloco em inferior grade desbloqueia. rig...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/121/",
+        "layout": "Block Out Nível 121 divide tabuleiro em azul-e-amarelo superior conveyor e inferior checkerboard grade, conectado por alimente pista. superior bandeja deve escoe completamente antes que verde `31` coroa bloco em inferior grade desbloqueia. direita-lateral `5` seta peça é último gatekeeper — limpar ele também tarde e coroa permanece boxed em par depois conveyor é vazio.",
+        "landmarks": [
+          "Block Out Nível 121 divide tabuleiro em azul-e-amarelo superior conveyor e inferior checkerboard grade, conectado por alimente pista.",
+          "Superior bandeja deve escoe completamente antes que verde `31` coroa bloco em inferior grade desbloqueia.",
+          "Direita-lateral `5` seta peça é último gatekeeper — limpar ele também tarde e coroa permanece boxed em par depois conveyor é vazio."
+        ],
+        "colors": ["blue", "yellow", "red", "orange", "green", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "zGBACM7QuXI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=zGBACM7QuXI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Escoe superior bandeja completamente antes que perseguindo verde `31` coroa.",
+        "Mantenha inferior ciano `19` coluna estacionado até superior bandeja goes escuro.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente superior azul/amarelo checkerboard através direita-lateral amarelo setas em inferior bandeja."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar superior vermelho `23` fileira e esquerda-borda ciano `7` badge até superior bandeja goes escuro."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Descasque inferior vermelho/laranja/verde superior tampa sem tocando centro branco `15` fenda."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quebre verde `31` coroa bloco uma vez esquerda ciano `19` coluna abre pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Gaste azul `10` peça e direita-lateral `5` seta contador antes que amarelo empilha fino."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com inferior ciano `26` contador e restante azul/amarelo recortes para Perfeito limpar."
+        }
+      ],
+      "failurePoints": [
+        "Perseguindo verde `31` coroa antes que superior bandeja é totalmente escuro — este caixas centro `15` fenda.",
+        "Limpando amarelo empilha antes que azul `10` peça movimentos, vedando inferior ciano `26` contador."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/121/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 121 do Block Out",
+    "description": "Resolva o nível 121 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

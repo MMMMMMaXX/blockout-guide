@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-48",
+  "locale": "pt-br",
+  "levelNumber": 48,
+  "title": "Guia do nível 48 do Block Out",
+  "summary": "Block Out Nível 48 é tampa-primeiro chefe quebra-cabeça com `10` chefe câmara em inferior metade enterrado debaixo horizontal remova de colorido blocos including `4`-contador peça. Dismantle tampa primeiro — `4` bloco é mais rápido vença — então...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/48/",
+        "layout": "Block Out Nível 48 é tampa-primeiro chefe quebra-cabeça com `10` chefe câmara em inferior metade enterrado debaixo horizontal remova de colorido blocos including `4`-contador peça. Dismantle tampa primeiro — `4` bloco é mais rápido vença — então deixe chefe solte e ordene revelado tarde-game cores através lateral saídas.",
+        "landmarks": [
+          "Block Out Nível 48 é tampa-primeiro chefe quebra-cabeça com `10` chefe câmara em inferior metade enterrado debaixo horizontal remova de colorido blocos including `4`-contador peça.",
+          "Dismantle tampa primeiro — `4` bloco é mais rápido vença — então deixe chefe solte e ordene revelado tarde-game cores através lateral saídas.",
+          "Tabuleiro mistura Amarelo, Azul, Vermelho e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["yellow", "blue", "red", "green", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "X5TV6t29kCI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=X5TV6t29kCI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "`4`-contador bloco em tampa é primeiro quick vença — skip ele e tampa permanece grosso.",
+        "Expect segundo fase: revelado colorido blocos spill para fora depois chefe solta.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar `4`-contador bloco em superior seção primeiro — ele é fastest tampa redução."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Dismantle restante amarelo, azul, e vermelho tampa peças."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Mantenha `10` chefe estacionado enquanto circundante contadores caia."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Solte chefe uma vez tampa é principalmente indo."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Ordene revelado tarde-game colorido blocos através lateral saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine lateral contadores depois espaço é no mais longo divida."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termina com último limpeza uma vez chefe é indo."
+        }
+      ],
+      "failurePoints": [
+        "Skipping `4`-contador bloco e tentando para reduza `10` chefe diretamente — tampa permanece grosso e chefe barely movimentos.",
+        "Não having lateral pistas ready quando chefe solta, que entrava revelado blocos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/48/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 48 do Block Out",
+    "description": "Resolva o nível 48 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

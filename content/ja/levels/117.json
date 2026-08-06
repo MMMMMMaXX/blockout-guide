@@ -1,0 +1,88 @@
+{
+  "id": "ja-level-117",
+  "locale": "ja",
+  "levelNumber": 117,
+  "title": "ブロックアウト レベル117 攻略",
+  "summary": "ブロックアウト レベル117は、点線の下部グリッド、側面の「13」レール、左と底部の外部「4」供給パネルを持つ家型の紫の枠を使っています。家型の枠には独自の詰め込み順があります：アーチは外部パネルが…まで開いたままにしておく必要があります。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/117/",
+        "layout": "ブロックアウト レベル117は、点線の下部グリッド、側面の「13」レール、左と底部の外部「4」供給パネルを持つ家型の紫の枠を使っています。家型の枠には独自の詰め込み順があります：外部パネルがブロックを届けるまで、アーチは開いたままにしておく必要があります。アーチを早く詰め込むと、最後の黄の供給バーが行き場を失い、側面のレールが永久に閉じ込められます。",
+        "landmarks": [
+          "ブロックアウト レベル 117 - 紫 枠 下の、側 `13` レール、`4` 通す パネル 左、下.。",
+          "枠 詰め : 残す 開く、パネル .。",
+          "を詰めて、黄 通す 棒、側 レール .。"
+        ],
+        "colors": ["green", "blue", "red", "orange", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "3oGrmDY5GWE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=3oGrmDY5GWE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "を配置して丸、右 矢印 消去する レーン.。",
+        "左 `13` レール、左 シアン `4` パネル 通す .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を取り除きて上の 緑 `2` タイル、青 `4` ブロック 上 塊.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を剥がして左に、`13` 側 レール 下の ゾーン.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "を通して左 シアン `4` パネル 開く 枠.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "赤のを通して右に、-矢印、青-矢印、上の オレンジ/緑 行 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を配置して下部の黄 丸 (`9`、`6`) .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を使いて下 黄 棒、右 シアン `4` カウンター 側 レール `10`.。"
+        }
+      ],
+      "failurePoints": ["右 矢印 消去する — 箱 赤-矢印 レーン.。", "下の 丸 左 `13` レール .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/117/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル117 攻略と解説",
+    "description": "ブロックアウト レベル117 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

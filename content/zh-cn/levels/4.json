@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-4",
+  "locale": "zh-cn",
+  "levelNumber": 4,
+  "title": "Block Out 第 4 关通关攻略",
+  "summary": "Block Out 第 4 关是一块分两阶段清理的条纹棋盘。先清空右下角的白色出口和底部的薄荷色长条，拆解右侧的白黑阻挡阶梯，之后才放出长长的彩色方块。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/4/",
+        "layout": "Block Out 第 4 关是一块分两阶段清理的条纹棋盘。先清空右下角的白色出口和底部的薄荷色长条，拆解右侧的白黑阻挡阶梯，之后才放出长长的彩色方块。",
+        "landmarks": [
+          "Block Out 第 4 关是一块分两阶段清理的条纹棋盘。",
+          "先清空右下角的白色出口和底部的薄荷色长条，拆解右侧的白黑阻挡阶梯，之后才放出长长的彩色方块。",
+          "棋盘上混合了红色、黄色、绿色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "yellow", "green", "blue", "orange", "mint", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "OarZF5m8HoI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=OarZF5m8HoI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右下角的白色出口才是真正的起点。",
+        "底部薄荷色长条是你在右侧阶梯坍塌前唯一应放出的长条。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右下角的小白色方块从白色出口落下。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把底部薄荷色长条向右滑动，从对应的侧边出口清除。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "先让最近的黑色阻挡块落入底层通道，再利用新空隙把下一块白色阻挡块沿右缘剥离，从白色出口送出。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "持续重复这种右侧边缘的清理，直到白黑阶梯基本消失，左侧的长条也有了移动空间。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "先放出蓝色长条，再放绿色长条，等对应的右侧出口打开后，放出剩余的下层暖色长条。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "把上层的黄色长条留到倒数第二步。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "最后把顶部的红色长条横推到红色侧边出口。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧阻挡阶梯坍塌之前，就试图发射蓝色长条。",
+        "忽略了底部薄荷色长条，让底层通道一直封死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/4/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 4 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 4 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

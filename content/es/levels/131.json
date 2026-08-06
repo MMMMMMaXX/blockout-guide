@@ -1,0 +1,93 @@
+{
+  "id": "es-level-131",
+  "locale": "es",
+  "levelNumber": 131,
+  "title": "Guía de Block Out Nivel 131",
+  "summary": "Block Out nivel 131 wraps a figure-8 marco alrededor un centro naranja `5` puerta, con azul izquierdo-flechas, rojo derecho-flechas, y amarillo abajo-flechas marking the solo legal salida carriles. The inferior-izquierdo azul `2` seal y superior rojo `3` bloque compete f...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/131/",
+        "layout": "Block Out nivel 131 wraps a figure-8 marco alrededor un centro naranja `5` puerta, con azul izquierdo-flechas, rojo derecho-flechas, y amarillo abajo-flechas marking the solo legal salida carriles. The inferior-izquierdo azul `2` seal y superior rojo `3` bloque compete para the mismo corridor — slide the rojo `3` por the exposed inferior-izquierdo carril too early y the `5` puerta loses su solo incoming camino.",
+        "landmarks": [
+          "Block Out nivel 131 wraps a figure-8 marco alrededor un centro naranja `5` puerta, con azul izquierdo-flechas, rojo derecho-flechas, y amarillo abajo-flechas marking the solo legal salida carriles.",
+          "The inferior-izquierdo azul `2` seal y superior rojo `3` bloque compete para the mismo corridor — slide the rojo `3` por the exposed inferior-izquierdo carril too early y the `5` puerta loses su solo incoming camino.",
+          "El tablero mixes amarillo, verde, azul y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["yellow", "green", "blue", "red", "morado", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xVhC6GTAoQ4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xVhC6GTAoQ4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Introduce the azul-star cluster por la flecha izquierdo antes the 3 contador drops en the waist.",
+        "Ahorra the rojo L-cluster para the derecho-flecha carril hasta la cámara superior es empty.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Elimina the superior amarillo brazo filas y spend el centro naranja 5 puerta without crossing the inferior-izquierdo 2 seals."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desliza the inferior-izquierdo azul-star cluster por the azul izquierdo-flecha carril mientras the waist es todavía narrow."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Break el centro morado corridor a drop the rojo 3 contador bloque en the waist opening."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Introduce the inferior-izquierdo rojo L-cluster por the rojo derecho-flecha carril once la cámara superior empties."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Desplaza the restante verde vertical stacks hacia the amarillo downward-flecha salida en inferior centro."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the último amarillo, azul, y morado restos en the inferior L-pocket para el tablero despejado."
+        }
+      ],
+      "failurePoints": [
+        "Touching the inferior-izquierdo 2 seals antes el centro 5 puerta clears, locking the waist.",
+        "Envía the rojo L-cluster por la flecha derecho antes la cámara superior empties, blocking el salida downward."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/131/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 131",
+    "description": "Resuelve Block Out nivel 131 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr-level-24",
+  "locale": "fr",
+  "levelNumber": 24,
+  "title": "Guide Block Out Niveau 24",
+  "summary": "Block Out Niveau 24 est shared-corridor double-boss plateau avec deux encadré `12` panneaux. Amincissez la droite pilier échelle premier, ouvrez central arbre second, et laissez supérieur boss tombe avant abaissez one follows.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "Block Out Niveau 24 est shared-corridor double-boss plateau avec deux encadré `12` panneaux. Amincissez la droite pilier échelle premier, ouvrez central arbre second, et laissez supérieur boss tombe avant abaissez one follows.",
+        "landmarks": [
+          "Block Out Niveau 24 est shared-corridor double-boss plateau avec deux encadré `12` panneaux.",
+          "Amincissez la droite pilier échelle premier, ouvrez central arbre second, et laissez supérieur boss tombe avant abaissez one follows.",
+          "Le plateau mélange violet, rouge et blanc et plus.",
+          "La disposition de départ est une grille de tri par couleur.",
+          "Dégagez les tuiles appariées pour terminer le niveau."
+        ],
+        "colors": ["violet", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Ouvrez arbre avant déplaçant bosses.",
+        "Supérieur `12` va avant abaissez `12`.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Amincissez la droite échelle de noir, rouge, et blocs blanc avant touching either encadré boss."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Ouvrez central arbre proche le haut `12` panneau donc deux bosses arrêtez sharing sealed corridor."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Abaissez supérieur `12` panneau une fois le bord droit est non longer encombré."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez freed arbre à commencez dropping abaissez `12` panneau afterward."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Gardez rouge porte supérieure pour tardif cleanup après arbre a opened."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Drainez restant côté compteurs et petit couleur pièces comme second boss tombe."
+        },
+        {
+          "order": 7,
+          "title": "Coup 7",
+          "instruction": "Terminez avec dernier droite-colonne leftovers après les deux `12` panneaux sont presque gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez one boss pendant shared arbre est toujours blocked.",
+        "Utilisant le haut porte rouge avant la droite corridor a thinned assez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 24",
+    "description": "Résolvez le niveau 24 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

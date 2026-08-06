@@ -1,0 +1,91 @@
+{
+  "id": "es-level-122",
+  "locale": "es",
+  "levelNumber": 122,
+  "title": "Guía de Block Out Nivel 122",
+  "summary": "Block Out nivel 122 es a head-shaped tablero — wide en the crown, narrow en the stem — con `60` crown puertas y pocket objectives scattered a través the face. The rosa `29` crown pair en el centro inferior y el contador lado baldosas son real...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/122/",
+        "layout": "Block Out nivel 122 es a head-shaped tablero — wide en the crown, narrow en the stem — con `60` crown puertas y pocket objectives scattered a través the face. The rosa `29` crown pair en el centro inferior y el contador lado baldosas son real draining objectives. The inferior stem es así narrow ese one misplaced vertical pieza desde the superior face puede seal el salida solo carril.",
+        "landmarks": [
+          "Block Out nivel 122 es a head-shaped tablero — wide en the crown, narrow en the stem — con `60` crown puertas y pocket objectives scattered a través the face.",
+          "The rosa `29` crown pair en el centro inferior y el contador lado baldosas son real draining objectives.",
+          "The inferior stem es así narrow ese one misplaced vertical pieza desde the superior face puede seal el salida solo carril."
+        ],
+        "colors": ["red", "blue", "cyan", "orange", "green", "pink", "yellow", "morado"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AYhVt2OBdQw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AYhVt2OBdQw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break the verde crown `60` antes the rojo crown `60` a keep la base cluster abierto.",
+        "Elimina both cian `10` contadores antes detonating the rosa `29` crown pair.",
+        "Piensa en chain clears. The best movimiento es the one ese sets arriba the siguiente two movimientos, no solo the quickest current coincidencia."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Peel the superior rojo fila y the superior-izquierdo cian bloques without touching the inferior crown `60` hueco."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Elimina el lado `17` contador pockets en both ears en alternating pasadas a keep el marco balanced."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Break the verde crown `60` baldosa primero, luego the rojo crown `60` baldosa sobre the amarillo/rosa/azul base."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Gasta the cian `8` baldosa y both cian `10` lado contadores antes the superior body re-seals."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Detonate the rosa `29` crown pair en el centro inferior once the inferior `11` contadores son gone."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Elimina the isolated rosa vertical bloque y the inferior cian `4` pair por the narrow stem para the PERFECT despejado."
+        }
+      ],
+      "failurePoints": [
+        "Breaking the rojo crown `60` antes the verde crown `60` — este boxes the amarillo/rosa/azul base cluster.",
+        "Detonating the rosa `29` pair antes the cian `10` baldosas despejado, trapping the isolated rosa bloque en the stem."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/122/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 122",
+    "description": "Resuelve Block Out nivel 122 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

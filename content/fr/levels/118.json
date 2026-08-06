@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-118",
+  "locale": "fr",
+  "levelNumber": 118,
+  "title": "Guide Block Out Niveau 118",
+  "summary": "Block Out Niveau 118 layers rouge threshold barre à travers 6×6 Lego-textured grille avec côté-rail compteurs et étoile-patterned cyan poche que doit survive mid-exécutez intact. grille slides dans rangées — chaque poussez ripples à travers all six colu...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/118/",
+        "layout": "Block Out Niveau 118 layers rouge threshold barre à travers 6×6 Lego-textured grille avec côté-rail compteurs et étoile-patterned cyan poche que doit survive mid-exécutez intact. grille slides dans rangées — chaque poussez ripples à travers all six colonnes. centre bloc rouge looks harmless, mais sliding il avant la droite rail tombent buries étoile poche sous shifting debris.",
+        "landmarks": [
+          "Block Out Niveau 118 layers rouge threshold barre à travers 6×6 Lego-textured grille avec côté-rail compteurs et étoile-patterned cyan poche que doit survive mid-exécutez intact.",
+          "Grille slides dans rangées — chaque poussez ripples à travers all six colonnes.",
+          "Centre bloc rouge looks harmless, mais sliding il avant la droite rail tombent buries étoile poche sous shifting debris."
+        ],
+        "colors": ["cyan", "green", "yellow", "red", "violet", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "W5Eeo1DQgt8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=W5Eeo1DQgt8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Pas split étoile-patterned cyan 3×3 poche — il ancres la gauche-centre slides.",
+        "Économisez la droite L jaune-amas jusqu'à le bas violet `2` compteur appears.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Cassez supérieur cyan tetromino sous rouge threshold barre sans crossing la gauche `2` rail."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Pelez la gauche colonne vert pendant keeping étoile-patterned cyan 3×3 poche intact."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez le bas rouge vers le bas-arrow bloc à travers le centre après la gauche rail tombent à `10`."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Alimentez la droite-rail `6` et `8` counts bas avec vert droite-arrow voie."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dégagez le L jaune-amas sur la droite seulement après le bas violet `2` compteur est visible."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Sortie dernier rouge et jaune scraps à travers ouvrez vers le bas voie pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Splitting étoile-patterned cyan poche too tôt, qui removes la gauche-centre ancrez.",
+        "Déplaçant la droite L jaune-amas avant le bas violet `2` compteur est visible."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/118/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 118",
+    "description": "Résolvez le niveau 118 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

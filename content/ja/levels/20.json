@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-20",
+  "locale": "ja",
+  "levelNumber": 20,
+  "title": "ブロックアウト レベル20 攻略",
+  "summary": "ブロックアウト レベル20は、巨大な紫の「5」ブロックを中心とした2部屋のボスパズルです。下部の部屋を用意し、緑の幹を空いたままにし、ボス周りの枠カウンターを減らし、それからでのみ上部の部屋を解決します。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/20/",
+        "layout": "ブロックアウト レベル20は、巨大な紫の「5」ブロックを中心とした2部屋のボスパズルです。下部の部屋を用意し、緑の幹を空いたままにし、ボス周りの枠カウンターを減らし、それからでのみ上部の部屋を解決します。",
+        "landmarks": [
+          "ブロックアウト レベル 20 - ボス 紫 `5` ブロック.。",
+          "下の、緑のを維持して解放する、枠を減らしてカウンター 周りを ボス、を出して上の 部屋 .。",
+          "混ぜる 紫、緑、赤、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "green", "red", "blue", "pink", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "NZcZ5zGjcUs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=NZcZ5zGjcUs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": ["緑 .。", "下の 進める 上の ボス.。", "を考えて. 手順 上 手順、揃える.。"],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して周りを 黄 下 出口 下の、カウンター 落ちる.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "赤のを回転させて、青 下の- 中央の 緑 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "紫のを維持して`5` 配置し 上の 部屋 上 枠 カウンター 落とす.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "を使いて下の 維持する 上の 部屋、ボス 枠 開く.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "緑のを解放して、下の 手順.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を出して上の 部屋 終える、紫 `5` ブロック 枠.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "下の-、ボス ブロック 消去し.。"
+        }
+      ],
+      "failurePoints": ["緑 下の- ブロック.。", "手順 紫 `5` 枠 カウンター .。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/20/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル20 攻略と解説",
+    "description": "ブロックアウト レベル20 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

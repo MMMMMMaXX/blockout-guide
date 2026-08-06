@@ -1,0 +1,96 @@
+{
+  "id": "de-level-132",
+  "locale": "de",
+  "levelNumber": 132,
+  "title": "Block Out Level 132 Lösung",
+  "summary": "Block Out Level 132 pins four weiß `11` overlays onto 6×6 Raster mit lila Seite rails und fixed walls dividing Platz. `6` Blöcke — nicht `11` anchors — sind real objectives, und sie muss Ausgang durch unten nach unten-...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/132/",
+        "layout": "Block Out Level 132 pins four weiß `11` overlays onto 6×6 Raster mit lila Seite rails und fixed walls dividing Platz. `6` Blöcke — nicht `11` anchors — sind real objectives, und sie muss Ausgang durch unten nach unten-Pfeil lanes. Gelb `6` und grün `6` pair in Mitte sind letzte zu lassen; force sie bevor rechts rail hits `3` und untere Bahn closes.",
+        "landmarks": [
+          "Block Out Level 132 pins four weiß `11` overlays onto 6×6 Raster mit lila Seite rails und fixed walls dividing Platz.",
+          "`6` Blöcke — nicht `11` anchors — sind real objectives, und sie muss Ausgang durch unten nach unten-Pfeil lanes.",
+          "Gelb `6` und grün `6` pair in Mitte sind letzte zu lassen; force sie bevor rechts rail hits `3` und untere Bahn closes."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "cyan", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DLaXwz5IAQU",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DLaXwz5IAQU",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Collapse alle four 11 overlays bevor sliding türkis rechts-Bahn Bauteil.",
+        "Räumen 6 Blöcke in Reihenfolge: gelb, dann grün/blau pair, dann rot durch rechts-rail 3.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Break oben rot/blau pair unter nach oben triangles ohne überquerend links-rail blau 3."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Abziehen four weiß 11 quadrant overlays inward while Seite-rail türkis 1 Kachel stays sealed."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Detonate gelb 6 cluster in obere-mittlere bevor sliding türkis rechts-Bahn Bauteil."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Räumen grün 6 und blau 6 pair durch unten grün und gelb nach unten Pfeile."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Hinausführen rot 6 Block hinaus rechts-rail 3 Zähler once Mitte gap öffnet."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Spend remaining Seite-rail counts (3/1/3) zu unlock letzte türkis L-Bauteil auf rechts."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Ausgang endgültig grün und gelb scraps durch öffnen nach unten lanes für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Splitting 11 overlay too früh, welche verklemmt Seite-rail 1 Kachel und seals Mitte.",
+        "Detonating rot 6 bevor Mitte gap öffnet, blocking unten grün nach unten Pfeil."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/132/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 132 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 132 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

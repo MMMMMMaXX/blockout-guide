@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-29",
+  "locale": "tr",
+  "levelNumber": 29,
+  "title": "Block Out Seviye 29 Rehberi",
+  "summary": "Block Out Seviye 29 bir Ikiz-ana blok omurga tahtadır. Sök merkez kırmızı-siyah-beyaz merdiven ilk, daha düşük yan ana blok sütunlar saniye, ve sadece sonra döndür geç kırmızı, sarı, mavi, ve yeşil maze parçalar.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "Block Out Seviye 29 bir Ikiz-ana blok omurga tahtadır. Sök merkez kırmızı-siyah-beyaz merdiven ilk, daha düşük yan ana blok sütunlar saniye, ve sadece sonra döndür geç kırmızı, sarı, mavi, ve yeşil maze parçalar.",
+        "landmarks": [
+          "Block Out Seviye 29 bir Ikiz-ana blok omurga tahtadır.",
+          "Sök merkez kırmızı-siyah-beyaz merdiven ilk, daha düşük yan ana blok sütunlar saniye, ve sadece sonra döndür geç kırmızı, sarı, mavi, ve yeşil maze parçalar.",
+          "Tahta kırmızı, siyah, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Merkez omurga aşama bir.",
+        "Geç maze sadece matters sonra her ikisi de yanlar başladı açarak.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Sök merkez kırmızı-siyah-beyaz omurga böylece her ikisi de yan ana bloklar başla losing destek birlikte."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut yan sütunlar çoğunlukla park edildi sırasında shared sayaçlar hâlâ high."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Daha düşük sol ve sağ çerçeveli ana bloklar sadece sonra merkez şerit clearly thinner."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Ne zaman ana bloklar açık, döndür geç kırmızı, sarı, mavi, ve yeşil maze parçalar yeni ceplere."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tut üst sayaçlar düşerek sırasında merkez hayır daha uzun duvar."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Kullan geç yeşil şekiller stopa yan şeritler yeniden doldurarak."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir maze sonra her ikisi de yan ana bloklar zaten çöktü."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek çöze bir yan ana blok önce merkez omurga açıldı.",
+        "Ignoring geç maze structure sonra yan sütunlar başla düşe."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 29 Rehberi ve Çözümü",
+    "description": "Block Out seviye 29'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

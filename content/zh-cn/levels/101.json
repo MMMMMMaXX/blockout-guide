@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-101",
+  "locale": "zh-cn",
+  "levelNumber": 101,
+  "title": "Block Out 第101关攻略",
+  "summary": "Block Out 第101关配对了双输送室——上方「9」、下方「4」——以及看似重要、实则只是墙面的花纹侧堆叠。真正的拼图在于时机：底部托盘中的红色下箭头方块必须等到上方「9」输送接近完成，才能经中心通道落下。过早推进箭头块会被坍塌的侧堆叠掩埋。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/101/",
+        "layout": "Block Out 第101关配对了双输送室——上方「9」、下方「4」——以及看似重要、实则只是墙面的花纹侧堆叠。真正的拼图在于时机：底部托盘中的红色下箭头方块必须等到上方「9」输送接近完成，才能经中心通道落下。过早推进箭头块会被坍塌的侧堆叠掩埋。",
+        "landmarks": [
+          "Block Out 第101关配对了双输送室——上方「9」、下方「4」——以及看似重要、实则只是墙面的花纹侧堆叠。",
+          "真正的拼图在于时机：底部托盘中的红色下箭头方块必须等到上方「9」输送接近完成，才能经中心通道落下。",
+          "过早推进箭头块会被坍塌的侧堆叠掩埋。"
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "2K5ng_KOJ2Y",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=2K5ng_KOJ2Y",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先输送紫色带点方块以启动上方「9」计数。",
+        "在上方室只剩一两步通过之前，不要碰红色下箭头方块。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将底部托盘中的紫色带点方块送入上方室，启动「9」计数。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将左侧红色十字花纹堆叠向下剥离，保持上方输送通道畅通。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "一旦左侧堆叠变薄，将绿色和蓝色托盘方块清空进上方室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "在中央蓝色箭头列仍为空时，完成上方室最后一次通过。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将红色下箭头方块经中心通道落入下方「4」室。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将右侧黄/蓝堆叠中剩余的带花纹方块输送，关闭下方计数。"
+        }
+      ],
+      "failurePoints": [
+        "在上方室几乎完成之前就移动红色下箭头方块——它会被左侧堆叠掩埋。",
+        "在上方输送通道稳定之前就清空右侧黄色堆叠，这会关闭中心下落通道。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/101/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第101关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第101关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ja-level-137",
+  "locale": "ja",
+  "levelNumber": 137,
+  "title": "ブロックアウト レベル137 攻略",
+  "summary": "ブロックアウト レベル137は、Ｌ字型の盤面に3つの固定ピース—オレンジ枠の「6」、紫の「8」の鍵、シアンの「10」のフック—を固定し、残りの空間をシアンの「5」タイルで埋めます。上部の赤の列が消えると、それらのタイルが唯一動かせるカウンターになります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/137/",
+        "layout": "ブロックアウト レベル137は、Ｌ字型の盤面に3つの固定ピース—オレンジ枠の「6」、紫の「8」の鍵、シアンの「10」のフック—を固定し、残りの空間をシアンの「5」タイルで埋めます。上部の赤の列が消えると、それらのタイルが唯一動かせるカウンターになり、盤面は純粋な経路パズルになります：各タイルを固定された固定点を通り抜けて出口へ導き、Ｌ字型の狭い角を詰まらせないようにします。",
+        "landmarks": [
+          "ブロックアウト レベル 137 アンカー — オレンジ- `6`、紫 `8` 鍵、シアン `10` — Ｌ字型、シアン `5` タイル.。",
+          "上 赤 行、タイル カウンター、: アンカー 出口 ' 角.。",
+          "混ぜる 紫、シアン、オレンジ、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "cyan", "orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ymCjrSF_byY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ymCjrSF_byY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "シアンのを割りて10、6 タイル — 右-側 5 レーン.。",
+        "緑のを取っておきて4 左の列、右-側 シアン 5 .。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "上-左 紫 8 タイル、オレンジ- 6 ブロック シアン 10 右.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して積み 緑 左 棒 下へ、シアン 10 ペア 右 .。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "シアンのを割りて10、積み、下-右 角.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "をスライドさせて上 シアン 3 棒 左へ、10 タイル 消去する、右-側 シアン 5 塊.。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "を使いてシアン 5 右 緑 4 左の列.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して赤、紫 下 下-左 オレンジ 矢印 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "シアンのを割りて10、6 タイル、塞ぎ 右-側 5 レーン.。",
+        "緑のをスライドさせて4 列、右 シアン 5 塊、赤 台座 .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/137/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル137 攻略と解説",
+    "description": "ブロックアウト レベル137 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

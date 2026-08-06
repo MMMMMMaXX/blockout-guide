@@ -1,0 +1,93 @@
+{
+  "id": "es-level-100",
+  "locale": "es",
+  "levelNumber": 100,
+  "title": "Guía de Block Out Nivel 100",
+  "summary": "Block Out nivel 100 es a corto ring-rotation tablero built alrededor one moving empty pocket. Abre el lado izquierdo primero, chase el hueco a the superior-derecho esquina, y luego use the cleared central columna a flush the final verde losas por the t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/100/",
+        "layout": "Block Out nivel 100 es a corto ring-rotation tablero built alrededor one moving empty pocket. Abre el lado izquierdo primero, chase el hueco a the superior-derecho esquina, y luego use the cleared central columna a flush the final verde losas por the superior y derecho salidas.",
+        "landmarks": [
+          "Block Out nivel 100 es a corto ring-rotation tablero built alrededor one moving empty pocket.",
+          "Abre el lado izquierdo primero, chase el hueco a the superior-derecho esquina, y luego use the cleared central columna a flush the final verde losas por the superior y derecho salidas.",
+          "El tablero mixes verde, amarillo, naranja y más.",
+          "El disposición opening es a clasificación por color grid.",
+          "Elimina matched baldosas a finish el nivel."
+        ],
+        "colors": ["green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "jLPU3-XD8E8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=jLPU3-XD8E8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantén the empty pocket moving. Si lo gets buried en the central too early, the ring stalls.",
+        "The superior-derecho esquina should abierto antes tú try a cash the superior-centro verde losa.",
+        "Si el tablero feels stuck, look para the color con el camino cleanest y use ese a regain espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Mueve 1",
+          "instruction": "Usa el hueco pequeño en el lado izquierdo de the ring a start the rotation."
+        },
+        {
+          "order": 2,
+          "title": "Mueve 2",
+          "instruction": "Desplaza the superior-fila losas así the empty pocket movimientos en the superior-derecho esquina."
+        },
+        {
+          "order": 3,
+          "title": "Mueve 3",
+          "instruction": "Abre la columna central once ese superior-derecho esquina es despejado."
+        },
+        {
+          "order": 4,
+          "title": "Mueve 4",
+          "instruction": "Envía the superior-centro verde losa fuera por el salida superior mientras soon mientras su carril opens."
+        },
+        {
+          "order": 5,
+          "title": "Mueve 5",
+          "instruction": "Elimina the derecho-lado verde losa siguiente, luego feed the restante amarillo losas alrededor the ring."
+        },
+        {
+          "order": 6,
+          "title": "Mueve 6",
+          "instruction": "Termina con the último verde bloques once el centro es empty."
+        }
+      ],
+      "failurePoints": [
+        "Suelte una losa en the central antes the empty pocket has rotated a the superior-derecho esquina.",
+        "Trying a despejado the superior-centro verde losa antes la columna central es actually abierto."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/100/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 100",
+    "description": "Resuelve Block Out nivel 100 con el tablero verified coincidencia, el guía embedded, step-por-step movimientos, y the common failure puntos."
+  },
+  "updatedAt": "2026-08-03"
+}

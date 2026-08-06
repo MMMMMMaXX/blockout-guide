@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-5",
+  "locale": "zh-cn",
+  "levelNumber": 5,
+  "title": "Block Out 第 5 关通关攻略",
+  "summary": "Block Out 第 5 关是两座红色列之间一块拥挤的棋盘格。把白色方块从右侧出口清除出去，让黑色方块坍塌成阶梯以便左下角出口使用，最后把最后一座红色列留到收尾。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/5/",
+        "layout": "Block Out 第 5 关是两座红色列之间一块拥挤的棋盘格。把白色方块从右侧出口清除出去，让黑色方块坍塌成阶梯以便左下角出口使用，最后把最后一座红色列留到收尾。",
+        "landmarks": [
+          "Block Out 第 5 关是两座红色列之间一块拥挤的棋盘格。",
+          "把白色方块从右侧出口清除出去，让黑色方块坍塌成阶梯以便左下角出口使用，最后把最后一座红色列留到收尾。",
+          "棋盘上混合了红色、白色、黑色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "es-W99zOPd8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=es-W99zOPd8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "先想右侧边缘的白色清理。",
+        "黑色需要先在左侧出口可用之前，形成一道阶梯。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右侧边缘最低的白色方块从白色出口送出。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用新腾出的空位，把下一块白色方块继续剥离向同一出口，而不是去碰高高的红色列。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "在中间几行被清理的同时，让黑色方块坍塌到中下部的阶梯。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "白色基本清空后，把底部的黑色方块向左送入黑色出口，再把较高的黑色方块下拉到同一通道。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在白色出口和黑色出口都结束通行之前，让红色列保持停靠。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "最后让剩下那座高高的红色列沿已清空的顶部通道移动，从左侧红色出口送出。"
+        }
+      ],
+      "failurePoints": [
+        "在黑色阶梯形成之前，就滑动某一座高高的红色列。",
+        "把右侧白色空位用于移动红色，而没有把它用在下一块白色出口上。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/5/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 5 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 5 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

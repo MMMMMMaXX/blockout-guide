@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-1",
+  "locale": "pt-br",
+  "levelNumber": 1,
+  "title": "Guia do nível 1 do Block Out",
+  "summary": "Block Out Nível 1 é três-quadrado rotation quebra-cabeça. Mova preto esquerda, levante branco em superior-direita canto, deslize vermelho de lado, e então deixe branco, preto, e vermelho deixe em que ordem.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "Block Out Nível 1 é três-quadrado rotation quebra-cabeça. Mova preto esquerda, levante branco em superior-direita canto, deslize vermelho de lado, e então deixe branco, preto, e vermelho deixe em que ordem.",
+        "landmarks": [
+          "Block Out Nível 1 é três-quadrado rotation quebra-cabeça.",
+          "Mova preto esquerda, levante branco em superior-direita canto, deslize vermelho de lado, e então deixe branco, preto, e vermelho deixe em que ordem.",
+          "Tabuleiro mistura Vermelho, Branco, Preto e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Use superior-direita canto como branco's parking espaço.",
+        "Do não envie vermelho para cima até branco tem já crossed esquerda.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Deslize preto quadrado esquerda so ele fica diretamente debaixo vermelho superior saída."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Levante branco quadrado em superior-direita canto."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Empurre vermelho quadrado direita em meio-direita pista."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Solte preto quadrado baixo esquerda lateral até ele reaches inferior pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Mova branco quadrado através superior e alimente ele para fora através branco saída em esquerda parede."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deslize preto quadrado direita sobre preto inferior saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por movendo vermelho quadrado esquerda debaixo vermelho saída e sending ele cima."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para raise vermelho quadrado antes que branco quadrado tem crossed superior fileira.",
+        "Deixando preto em superior-direita canto em vez de usando ele para abra esquerda coluna."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 1 do Block Out",
+    "description": "Resolva o nível 1 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

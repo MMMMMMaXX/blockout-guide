@@ -1,0 +1,97 @@
+{
+  "id": "de-level-65",
+  "locale": "de",
+  "levelNumber": 65,
+  "title": "Block Out Level 65 Lösung",
+  "summary": "Block Out Level 65 ist nested-frame Puzzle mit two visible frame layers — dark outer frame und orange inner frame — wrapping core von colored Blöcke. Blöcke inside cannot bewegen bis beide frames öffnen. Abziehen outer frame firs...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/65/",
+        "layout": "Block Out Level 65 ist nested-frame Puzzle mit two visible frame layers — dark outer frame und orange inner frame — wrapping core von colored Blöcke. Blöcke inside cannot bewegen bis beide frames öffnen. Abziehen outer frame erste durch extracting pink und rot edge Bauteile, dann break inner orange frame zu freigeben grün, blau, lila, und rot Blöcke. Gelb Block mit Zähler '10' inside inner frame ist heaviest Bauteil und exits letzte.",
+        "landmarks": [
+          "Block Out Level 65 ist nested-frame Puzzle mit two visible frame layers — dark outer frame und orange inner frame — wrapping core von colored Blöcke.",
+          "Blöcke inside cannot bewegen bis beide frames öffnen.",
+          "Abziehen outer frame erste durch extracting pink und rot edge Bauteile, dann break inner orange frame zu freigeben grün, blau, lila, und rot Blöcke.",
+          "Gelb Block mit Zähler '10' inside inner frame ist heaviest Bauteil und exits letzte."
+        ],
+        "colors": ["purple", "green", "blue", "red", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XkM1JVjNvi0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XkM1JVjNvi0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Tu nicht touch inner frame bis outer frame hat lost enough Bauteile.",
+        "Gelb '10' Block needs wide lanes — behalten exits räumen für sein long hinausführen.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Ziehen small pink/magenta Blöcke von outer frame edges durch nearby exits."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Extract rot Blöcke auf linke Seite zwischen outer und inner frames."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Once outer frame thins, break inner orange frame border zu freigeben core Blöcke."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Schieben lila Block von obere linke von inner Bereich durch links Ausgang."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Extract grün und blau Blöcke von Mitte durch available exits."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen gelb '10' Block durch sein Ausgang repeatedly bis fully geräumt."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit remaining rot Blöcke auf rechte Seite."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu force inner Blöcke durch still-sealed frame — sie cannot bewegen bis beide layers öffnen.",
+        "Nicht leaving wide enough lanes für gelb '10' Block, welche causes slow und cramped endgame."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/65/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 65 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 65 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

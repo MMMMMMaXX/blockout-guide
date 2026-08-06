@@ -1,0 +1,98 @@
+{
+  "id": "es-level-6",
+  "locale": "es",
+  "levelNumber": 6,
+  "title": "Guía de Block Out Nivel 6",
+  "summary": "El nivel 6 de Block Out es el primer tablero de salidas por fases. Colapsa primero la cuota del lado derecho, mantén ambas tapas superiores `9` reduciéndose a la vez y guarda las barras finales roja y amarilla para cuando se desbloqueen las salidas superiores.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "El nivel 6 de Block Out es el primer tablero de salidas por fases. Colapsa primero la cuota del lado derecho, mantén ambas tapas superiores `9` reduciéndose a la vez y guarda las barras finales roja y amarilla para cuando se desbloqueen las salidas superiores.",
+        "landmarks": [
+          "El nivel 6 de Block Out es el primer tablero de salidas por fases.",
+          "Colapsa primero la cuota del lado derecho, mantén ambas tapas superiores `9` reduciéndose a la vez y guarda las barras finales roja y amarilla para cuando se desbloqueen las salidas superiores.",
+          "El tablero combina rojo, amarillo, blanco y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["red", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "El contador `4` del lado derecho es el primer objetivo.",
+        "Mantén las barras roja y amarilla inferiores quietas hasta que se abra el carril lateral.",
+        "Si el tablero parece bloqueado, busca el color con la ruta más despejada y úsalo para recuperar espacio."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Desliza la pila blanca superior derecha a la zona superior derecha para que empiece a golpear la columna de cuota del lado derecho."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Usa el puente blanco central para seguir alimentando el contador derecho hasta que baje de `4` hacia `1`."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Gira el bloqueador negro superior y los bloques blancos superiores por los dos contadores `9` para que ambas tapas superiores sigan reduciéndose a la vez."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Deja estacionadas la franja roja inferior y la franja amarilla inferior derecha mientras el centro de damero sigue haciendo el trabajo de cuota."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Cuando el muro derecho se abra en un carril de salida blanca, pela el último bloque blanco superior y termina la cuenta regresiva superior."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Cuando las tapas congeladas se conviertan en salidas de color, envía la franja amarilla a la salida superior derecha."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina haciendo pasar la última franja roja hasta la salida roja superior izquierda."
+        }
+      ],
+      "failurePoints": [
+        "Intentar gastar las barras roja o amarilla inferiores antes de que el contador derecho haya colapsado casi por completo.",
+        "Reducir solo una de las tapas superiores `9` y dejar la otra congelada."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 6",
+    "description": "Resuelve el nivel 6 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

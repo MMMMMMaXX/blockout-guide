@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-146",
+  "locale": "fr",
+  "levelNumber": 146,
+  "title": "Guide Block Out Niveau 146",
+  "summary": "Block Out Niveau 146 runs dual haut compteurs — `20` et `17` — que tick bas comme scraps dégagez de Lego-textured grille. sealed gauche colonne jaune et rouge étoile-dotted ancrez pin abaissez half. étoile-dotted bloc doit cassez avant t...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/146/",
+        "layout": "Block Out Niveau 146 runs dual haut compteurs — `20` et `17` — que tick bas comme scraps dégagez de Lego-textured grille. sealed gauche colonne jaune et rouge étoile-dotted ancrez pin abaissez half. étoile-dotted bloc doit cassez avant final violet 2×2 peut sortie, mais shifting le L vert-pièce too tôt blocs le centre voie et strands ancrez.",
+        "landmarks": [
+          "Block Out Niveau 146 runs dual haut compteurs — `20` et `17` — que tick bas comme scraps dégagez de Lego-textured grille.",
+          "Sealed gauche colonne jaune et rouge étoile-dotted ancrez pin abaissez half.",
+          "Étoile-dotted bloc doit cassez avant final violet 2×2 peut sortie, mais shifting le L vert-pièce too tôt blocs le centre voie et strands ancrez."
+        ],
+        "colors": ["violet", "yellow", "blue", "red", "cyan", "green", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "sXs9atNLk6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=sXs9atNLk6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cassez rouge étoile-dotted bloc avant sliding le centre violet 2×2.",
+        "Gardez violet 12 amas intact jusqu'à le haut compteurs laissez tomber sous 15.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez la gauche colonne jaune bas avec côté vert haut-arrow à commencez spending le haut 20 compteur sans shifting violet 12 paire."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez twin haut 20/17 tuiles bas à 15/12 par dégagement supérieur cyan 5 et rouge scraps entre les."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Acheminez le L bleu-shape et rouge 2×2 à travers le centre gap une fois compteurs hit 15/12."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Dégagez le bas violet 12 amas et jaune 8 tuile à laissez tomber le haut cadres à 6/3."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Cassez rouge étoile-dotted bloc sur le bas-droite avant sliding le centre violet 2×2."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez final 6/3 compteurs sur le L vert-pièce et dernier bleu scraps pour plateau dégagez."
+        }
+      ],
+      "failurePoints": [
+        "Sliding violet 2×2 avant rouge étoile-dotted bloc breaks, sealing le bas voie rouge.",
+        "Shifting violet 12 amas pendant le haut 20 compteur est toujours plein, wasting premier dépensez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/146/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 146",
+    "description": "Résolvez le niveau 146 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

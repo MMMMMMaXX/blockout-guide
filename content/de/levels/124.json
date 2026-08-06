@@ -1,0 +1,93 @@
+{
+  "id": "de-level-124",
+  "locale": "de",
+  "levelNumber": 124,
+  "title": "Block Out Level 124 Lösung",
+  "summary": "Block Out Level 124 ist schwer polyomino maze where grün snake Pfad und lila winding shape form one-way lanes durch Raster. Rot `32` star Block und türkis pocket sind main objectives, aber snake und winding shapes dicta...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/124/",
+        "layout": "Block Out Level 124 ist schwer polyomino maze where grün snake Pfad und lila winding shape form one-way lanes durch Raster. Rot `32` star Block und türkis pocket sind main objectives, aber snake und winding shapes dictate extraction Reihenfolge — schieben sie hinaus von sequence und Raster seals, trapping numbered star Blöcke mit kein Bahn zurück.",
+        "landmarks": [
+          "Block Out Level 124 ist schwer polyomino maze where grün snake Pfad und lila winding shape form one-way lanes durch Raster.",
+          "Rot `32` star Block und türkis pocket sind main objectives, aber snake und winding shapes dictate extraction Reihenfolge — schieben sie hinaus von sequence und Raster seals, trapping numbered star Blöcke mit kein Bahn zurück.",
+          "Das Spielfeld mixes Rot, Blau, Türkis und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "blue", "cyan", "green", "orange", "yellow", "purple", "white"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "K4yNR5TX9yc",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=K4yNR5TX9yc",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Drain türkis `1`/`3`/`8` pocket in ascending Reihenfolge bevor moving gelb `1` Kachel.",
+        "Spend grün `9` Zähler bevor breaking rot `32` star Block.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen obere linke blau Blöcke und unwind grün snake Pfad ohne touching rot `32` star Kachel."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Räumen oben `10`/`10` Ecke labels und links-edge grün `20` Zähler zu öffnen maze Mitte."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Break rot `32` star Block once orange L-shapes along Mitte-rechts haben Raum zu verschieben."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Spend türkis `1`/`3`/`8` pocket Kacheln in Reihenfolge — `1` erste, dann `3`, dann `8` — bevor gelb `1` Kachel Züge."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Detonate mittlere-Raster blau `15`, grün `9`, und türkis `5` Zähler while lila winding shape ist still movable."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden remaining orange L-scraps und unten weiß `3` stapeln für PERFECT räumen."
+        }
+      ],
+      "failurePoints": [
+        "Pulling türkis `8` Kachel bevor `1` — dieses boxes gelb `1` Kachel gegen lila snake.",
+        "Breaking rot `32` star bevor grün `9` Zähler räumt, trapping orange L-shape auf rechte Wand."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/124/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 124 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 124 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

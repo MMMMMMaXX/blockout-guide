@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-126",
+  "locale": "fr",
+  "levelNumber": 126,
+  "title": "Guide Block Out Niveau 126",
+  "summary": "Block Out Niveau 126 lignes haut horizontal Lego-textured barres avec glissez arrows, stacking les autour twin orange-bordered `7` blocs et bas `9`/`11` compteur rangée. `7` paire doit dégagez dans sequence — breaking one sans premier openin...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/126/",
+        "layout": "Block Out Niveau 126 lignes haut horizontal Lego-textured barres avec glissez arrows, stacking les autour twin orange-bordered `7` blocs et bas `9`/`11` compteur rangée. `7` paire doit dégagez dans sequence — breaking one sans premier opening le centre channel leaves son twin orphaned avec non sortie voie. bas barre seulement starts counting bas une fois les deux `7` blocs sont gone.",
+        "landmarks": [
+          "Block Out Niveau 126 lignes haut horizontal Lego-textured barres avec glissez arrows, stacking les autour twin orange-bordered `7` blocs et bas `9`/`11` compteur rangée.",
+          "`7` paire doit dégagez dans sequence — breaking one sans premier opening le centre channel leaves son twin orphaned avec non sortie voie.",
+          "Bas barre seulement starts counting bas une fois les deux `7` blocs sont gone."
+        ],
+        "colors": ["red", "pink", "violet", "blue", "cyan", "green", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tlZ8zHlih30",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tlZ8zHlih30",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Droite orange-bordered `7` doit allez avant la gauche one — reversing ordre blocs `9`/`11` barre.",
+        "Quittez le centre `4` tour alone jusqu'à le haut jaune/violet/barre vert stack est fully cleared.",
+        "Si le plateau semble bloqué, cherchez la couleur au chemin le plus dégagé et utilisez-la pour regagner de l'espace."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Glissez le haut rose `7` et cyan `8` blocs le long de rangée arrows, alors dégagez jaune/violet/barre vert stack sur la gauche."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez le centre rouge/bleu/cyan `4` tour sans sealing la droite rouge arrow voie."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Detach la gauche bleu `2` et violet `4` colonne une fois le haut barres sont gone."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Pop les deux orange-bordered violet `7` blocs pendant le bas cyan `13` et bleu `15` compteurs sont toujours reachable."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Dépensez le bas light-bleu `9` et `11` compteur tuiles à ouvrez final voie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez violet `2` paire et terminez à travers cyan `4` et jaune `6` sortie compteurs."
+        }
+      ],
+      "failurePoints": [
+        "Dégagement la gauche violet `7` avant la droite one — `9`/`11` barre stays verrouillé.",
+        "Touching le centre `4` tour pendant le haut jaune/violet/barres vert sont toujours dans placez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/126/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 126",
+    "description": "Résolvez le niveau 126 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

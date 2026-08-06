@@ -1,0 +1,98 @@
+{
+  "id": "de-level-23",
+  "locale": "de",
+  "levelNumber": 23,
+  "title": "Block Out Level 23 Lösung",
+  "summary": "Block Out Level 23 ist knot Spielfeld mit two framed untere boxes marked `11` und `8`. Verwenden oben blau Bahn und rechts gelber Ausgang zu untie curled Mitte Pfad, dann let two Boss boxes fall once knot ist gone.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/23/",
+        "layout": "Block Out Level 23 ist knot Spielfeld mit two framed untere boxes marked `11` und `8`. Verwenden oben blau Bahn und rechts gelber Ausgang zu untie curled Mitte Pfad, dann let two Boss boxes fall once knot ist gone.",
+        "landmarks": [
+          "Block Out Level 23 ist knot Spielfeld mit two framed untere boxes marked `11` und `8`.",
+          "Verwenden oben blau Bahn und rechts gelber Ausgang zu untie curled Mitte Pfad, dann let two Boss boxes fall once knot ist gone.",
+          "Das Spielfeld mixes Blau, Gelb, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["blue", "yellow", "red", "purple", "pink", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PkPsEuoQfuY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PkPsEuoQfuY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untie Mitte bevor attacking untere boxes.",
+        "Oben blau ansteuern ist part von opener, nicht closer.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen oben blau ansteuern erste also mittlere curl hat one less Blockierer."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden rechts gelb Bahn zu ziehen obere gelb Spalte weg von knot."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Drehen rot und lila curl Bauteile bis central Pfad ist kein longer closed."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Starten shrinking framed `11` box once links half von knot hat geöffnet."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Let framed `8` box fall nach rechts half hat also geräumt."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Sauber hoch hoch rot und gelb Spalten dass waren holding curl in Platz."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Beenden mit letzte blau oben ansteuern nach beide untere frames sind fast gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu empty untere framed box while Mitte curl ist still tight.",
+        "Ignoring rechts gelber Ausgang und overworking nur oben blau ansteuern."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/23/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 23 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 23 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

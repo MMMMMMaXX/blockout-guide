@@ -1,0 +1,98 @@
+{
+  "id": "tr-level-24",
+  "locale": "tr",
+  "levelNumber": 24,
+  "title": "Block Out Seviye 24 Rehberi",
+  "summary": "Block Out Seviye 24 bir Shared-koridor double-ana blok tahta ile iki çerçeveli `12` panellerdır. Ince sağ direk merdiven ilk, açık merkezi mili saniye, ve bırak üst ana blok düş önce daha düşük bir follows.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/24/",
+        "layout": "Block Out Seviye 24 bir Shared-koridor double-ana blok tahta ile iki çerçeveli `12` panellerdır. Ince sağ direk merdiven ilk, açık merkezi mili saniye, ve bırak üst ana blok düş önce daha düşük bir follows.",
+        "landmarks": [
+          "Block Out Seviye 24 bir Shared-koridor double-ana blok tahta ile iki çerçeveli `12` panellerdır.",
+          "Ince sağ direk merdiven ilk, açık merkezi mili saniye, ve bırak üst ana blok düş önce daha düşük bir follows.",
+          "Tahta mor, kırmızı, beyaz ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["purple", "red", "white", "black", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "YJo5t5GLfHg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=YJo5t5GLfHg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Açık mili önce hareket ettirerek ana bloklar.",
+        "Üst `12` gider önce daha düşük `12`.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Ince sağ merdiven siyah, kırmızı, ve beyaz bloklar önce dokunarak either çerçeveli ana blok."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Açık merkezi mili üstde `12` panel böylece iki ana bloklar stop sharing mühürlendi koridor."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Daha düşük üst `12` panel sonra sağ kenar hayır daha uzun kalabalık."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan serbest bırakıldı mili başla dropping daha düşük `12` panel afterward."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Tut kırmızı üst kapı için geç temizlik sonra mili açıldı."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Boşalt kalan yan sayaçlar ve küçük renk parçalar saniye ana blok düşer."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile son sağ-sütun artanlar sonra her ikisi de `12` paneller neredeyse gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir bir ana blok sırasında shared mili hâlâ engellendi.",
+        "Kullanarak üst kırmızı kapı önce sağ koridor thinned enough."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/24/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 24 Rehberi ve Çözümü",
+    "description": "Block Out seviye 24'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

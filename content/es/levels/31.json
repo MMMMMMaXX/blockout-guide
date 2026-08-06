@@ -1,0 +1,98 @@
+{
+  "id": "es-level-31",
+  "locale": "es",
+  "levelNumber": 31,
+  "title": "Guía de Block Out Nivel 31",
+  "summary": "El nivel 31 de Block Out es un tablero en cascada numerada donde losas cian etiquetadas `5`, `9`, `10` y `13` se apilan de arriba abajo y están sujetas por barras verticales blancas y negras. Las losas deben salir en orden ascendente: `5` primero, `1...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/31/",
+        "layout": "El nivel 31 de Block Out es un tablero en cascada numerada donde losas cian etiquetadas `5`, `9`, `10` y `13` se apilan de arriba abajo y están sujetas por barras verticales blancas y negras. Las losas deben salir en orden ascendente: `5` primero, `13` último, y las barras verticales entre ellas son lo primero que hay que pelar, porque son la única forma de desbloquear cada losa en secuencia.",
+        "landmarks": [
+          "El nivel 31 de Block Out es un tablero en cascada numerada donde losas cian etiquetadas `5`, `9`, `10` y `13` se apilan de arriba abajo y están sujetas por barras verticales blancas y negras.",
+          "Las losas deben salir en orden ascendente: `5` primero, `13` último, y las barras verticales entre ellas son lo primero que hay que pelar, porque son la única forma de desbloquear cada losa en secuencia.",
+          "El tablero combina verde, cian, amarillo y más.",
+          "La disposición inicial es una cuadrícula de ordenar por color.",
+          "Limpia las fichas emparejadas para terminar el nivel."
+        ],
+        "colors": ["green", "cyan", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6fqmfCj7tS0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6fqmfCj7tS0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cuenta los números de arriba abajo: si el número de una losa es mayor que el de la que todavía está encima, el orden está mal.",
+        "Las barras verticales no son obstáculos que rodear, sino lo primero que hay que quitar.",
+        "Piensa en limpiezas en cadena. La mejor jugada es la que prepara las siguientes dos, no solo la coincidencia más rápida del momento."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimiento 1",
+          "instruction": "Limpia los bloques blancos superiores derechos y la columna vertical amarilla izquierda para crear espacio en el borde."
+        },
+        {
+          "order": 2,
+          "title": "Movimiento 2",
+          "instruction": "Desliza el bloque verde `5` fuera de la esquina superior izquierda cuando se abra la fila superior."
+        },
+        {
+          "order": 3,
+          "title": "Movimiento 3",
+          "instruction": "Usa la fila superior liberada para pelar las barras verticales negras lejos de la losa central `9`."
+        },
+        {
+          "order": 4,
+          "title": "Movimiento 4",
+          "instruction": "Desplaza la losa `9` cuando se abra el carril central, lo que afloja las dos losas `10` de abajo."
+        },
+        {
+          "order": 5,
+          "title": "Movimiento 5",
+          "instruction": "Mueve las losas `10` una a la vez, la superior primero, después de que el centro esté lo bastante despejado para su anchura."
+        },
+        {
+          "order": 6,
+          "title": "Movimiento 6",
+          "instruction": "Con las `10` fuera, la losa `13` del centro inferior por fin tiene un carril. Deslízala hacia la salida abierta más cercana."
+        },
+        {
+          "order": 7,
+          "title": "Movimiento 7",
+          "instruction": "Termina limpiando los pequeños fragmentos de barras verdes, amarillas y negras restantes después de que hayan salido todas las losas numeradas."
+        }
+      ],
+      "failurePoints": [
+        "Intentar mover la losa `13` antes de que las `10` de encima se hayan despejado: el centro inferior está completamente bloqueado hasta que la secuencia en cascada lo alcanza.",
+        "Dejar las barras verticales en su sitio e intentar deslizar las losas numeradas por los estrechos huecos restantes, lo que bloquea el tablero de inmediato."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/31/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guía y solución de Block Out Nivel 31",
+    "description": "Resuelve el nivel 31 de Block Out con la configuración verificada del tablero, la guía integrada, los movimientos paso a paso y los errores frecuentes."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "zh-cn-level-27",
+  "locale": "zh-cn",
+  "levelNumber": 27,
+  "title": "Block Out 第 27 关通关攻略",
+  "summary": "Block Out 第 27 关是一个口袋释放 Boss 拼图。先清空右侧空腔，再开始降低左侧 `7` Boss，最后才清理后期的绿色、红色和黄色条带。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/27/",
+        "layout": "Block Out 第 27 关是一个口袋释放 Boss 拼图。先清空右侧空腔，再开始降低左侧 `7` Boss，最后才清理后期的绿色、红色和黄色条带。",
+        "landmarks": [
+          "Block Out 第 27 关是一个口袋释放 Boss 拼图。",
+          "先清空右侧空腔，再开始降低左侧 `7` Boss，最后才清理后期的绿色、红色和黄色条带。",
+          "棋盘混合了紫色、白色、黑色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["purple", "white", "black", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "MebJUCsyICM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=MebJUCsyICM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右侧口袋开启了左侧 Boss。",
+        "后期的彩色条带是 Boss 之后的清理工作。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "先清空右侧黑白空腔。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在 Boss 仍完好时，降低左侧的计数器。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "只有在侧边口袋清空后，才开始收缩带框的 `7` 面板。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用新打开的空间，旋转后期的绿色和红色条带。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "只有在 Boss 已经降到中段计数以下后，才让黄色条带进入。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "在 Boss 几乎消失后，清理侧边出口。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在带框面板坍塌后，用最后的彩色条带收尾。"
+        }
+      ],
+      "failurePoints": ["忽略右侧空腔，过早拉动左侧 Boss。", "把后期的彩色条带当作开局阶段。"]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/27/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 27 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 27 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

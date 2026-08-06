@@ -1,0 +1,91 @@
+{
+  "id": "fr-level-107",
+  "locale": "fr",
+  "levelNumber": 107,
+  "title": "Guide Block Out Niveau 107",
+  "summary": "Block Out Niveau 107 layers creature marqueurs, dual padlocks, et droite-arrow alimentez tuile sur irregular brick plateau. bleu et violet verrous porte deux moitiés de grille, et le bas `3` plateau est compteur porte — pas libérez refi...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/107/",
+        "layout": "Block Out Niveau 107 layers creature marqueurs, dual padlocks, et droite-arrow alimentez tuile sur irregular brick plateau. bleu et violet verrous porte deux moitiés de grille, et le bas `3` plateau est compteur porte — pas libérez refill. haut jaune amas sur la gauche et rouge C-shape sur la droite compete pour même voie, donc dégagement verrous dans faux ordre jams alimentez.",
+        "landmarks": [
+          "Block Out Niveau 107 layers creature marqueurs, dual padlocks, et droite-arrow alimentez tuile sur irregular brick plateau.",
+          "Bleu et violet verrous porte deux moitiés de grille, et le bas `3` plateau est compteur porte — pas libérez refill.",
+          "Haut jaune amas sur la gauche et rouge C-shape sur la droite compete pour même voie, donc dégagement verrous dans faux ordre jams alimentez."
+        ],
+        "colors": ["green", "yellow", "red", "blue", "violet", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "mvigiJZ71eE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=mvigiJZ71eE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Ouvrez bleu cadenas avant violet one — abaissez vert arrow voie depends sur que ordre.",
+        "Pas dépensez le bas `3` plateau pendant either cadenas est toujours fermé.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Remove le haut vert creature tuile et le milieu jaune troll tuile."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Cassez supérieur gauche rouge/jaune/bleu amas sans sliding dans either cadenas."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez la droite-arrow bloc orange à travers ouvrez droite channel."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Ouvrez bleu cadenas dans inférieur gauche, alors violet cadenas dans abaissez-centre."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Glissez abaissez vert arrow tuile à travers opened abaissez voie."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dépensez le bas orange `3` plateau à close compteurs `5` et `4`, alors dégagez le L bleu-shape marked `1`."
+        }
+      ],
+      "failurePoints": [
+        "Spending le bas `3` plateau avant les deux padlocks sont ouvrez — ce boxes dans abaissez vert arrow tuile.",
+        "Feeding la droite-arrow tuile orange avant supérieur-milieu gap est actually dégagez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/107/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 107",
+    "description": "Résolvez le niveau 107 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

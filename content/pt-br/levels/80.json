@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-80",
+  "locale": "pt-br",
+  "levelNumber": 80,
+  "title": "Guia do nível 80 do Block Out",
+  "summary": "Block Out Nível 80 preenche tabuleiro com alto verde e azul/ciano vertical colunas separado por centro lacuna de vermelho cadeado-e-chave blocos. colunas não pode mova até cadeado sequência em centro é solved. Limpar cadeado-e-chave bloco...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/80/",
+        "layout": "Block Out Nível 80 preenche tabuleiro com alto verde e azul/ciano vertical colunas separado por centro lacuna de vermelho cadeado-e-chave blocos. colunas não pode mova até cadeado sequência em centro é solved. Limpar cadeado-e-chave blocos primeiro para abra lacuna, então deslize alto verde colunas baixo através inferior saídas, followed por azul/ciano colunas.",
+        "landmarks": [
+          "Block Out Nível 80 preenche tabuleiro com alto verde e azul/ciano vertical colunas separado por centro lacuna de vermelho cadeado-e-chave blocos.",
+          "Colunas não pode mova até cadeado sequência em centro é solved.",
+          "Limpar cadeado-e-chave blocos primeiro para abra lacuna, então deslize alto verde colunas baixo através inferior saídas, followed por azul/ciano colunas."
+        ],
+        "colors": ["green", "blue", "cyan", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "RNpXxSr13d8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=RNpXxSr13d8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Focus entirely em centro cadeado-e-chave lacuna primeiro — no coluna movimentos até ele abre.",
+        "Deslize verde colunas baixo antes que azul/ciano — verde é closer para saídas.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Correspondência chave blocos com seus corresponding cadeado blocos em centro lacuna."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar unlocked vermelho blocos de centro para abra lacuna."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Deslize alto verde coluna blocos em esquerda para baixo através inferior saídas."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Desloque azul/ciano coluna blocos em direita baixo uma vez verde colunas crie espaço."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar pequeno ciano/azul blocos em inferior através baixo-seta saídas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Termine com qualquer restante coluna fragmentos."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova alto coluna antes que centro cadeado blocos são limpo — colunas tem no espaço.",
+        "Mismatching chaves e cadeados, que desperdiça movimentos e deixa blocos comporta."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/80/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 80 do Block Out",
+    "description": "Resolva o nível 80 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

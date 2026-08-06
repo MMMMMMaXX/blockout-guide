@@ -1,0 +1,92 @@
+{
+  "id": "zh-cn-level-81",
+  "locale": "zh-cn",
+  "levelNumber": 81,
+  "title": "Block Out 第81关攻略",
+  "summary": "Block Out 第81关在一个又高又窄的棋盘里堆叠了整宽彩色横条。顶部是一条计数「1」的绿色横条，其下是蓝色、红色和绿色横条，右侧则是一个大号黄/橙方块。中心有一个计数「2」的锁块把关，底部是计数「10」和「5」的沉重方块。从顶向下剥离横条……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/81/",
+        "layout": "Block Out 第81关在一个又高又窄的棋盘里堆叠了整宽彩色横条。顶部是一条计数「1」的绿色横条，其下是蓝色、红色和绿色横条，右侧则是一个大号黄/橙方块。中心有一个计数「2」的锁块把关，底部是计数「10」和「5」的沉重方块。从顶向下剥离横条，清空中心锁块，最后再输送底部沉重方块。",
+        "landmarks": [
+          "Block Out 第81关在一个又高又窄的棋盘里堆叠了整宽彩色横条。",
+          "顶部是一条计数「1」的绿色横条，其下是蓝色、红色和绿色横条，右侧则是一个大号黄/橙方块。",
+          "中心有一个计数「2」的锁块把关，底部是计数「10」和「5」的沉重方块。",
+          "从顶向下剥离横条，清空中心锁块，最后再输送底部沉重方块。"
+        ],
+        "colors": ["green", "blue", "red", "yellow", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "PJw2fUr7704",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=PJw2fUr7704",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "严格从顶向下剥离——整宽横条无法横向滑动。",
+        "在尝试任何下半部分的横条之前，先清空中心的锁块。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将顶部计数「1」的绿色横条从顶部出口滑出。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "将下方紧邻的蓝色横条从顶部出口抽出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "接着拉出红色横条，继续自上而下的剥离。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "清空中心偏左计数「2」的锁块，解锁下方堆叠。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将大号黄/橙方块经拓宽的中段送出。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "将底部方块（计数「10」和「5」）从底部出口送出。"
+        }
+      ],
+      "failurePoints": [
+        "试图跳过堆叠中的某条横条——整宽横条会挡住其下方的一切。",
+        "在锁块清空之前就尝试底部方块，导致下半部分被封死。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/81/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第81关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第81关。"
+  },
+  "updatedAt": "2026-08-03"
+}

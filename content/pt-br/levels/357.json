@@ -1,0 +1,119 @@
+{
+  "id": "pt-br-level-357",
+  "locale": "pt-br",
+  "levelNumber": 357,
+  "title": "Guia do nível 357 do Block Out",
+  "summary": "Guia e solução do nível 357 do Block Out. Assista ao guia integrado para limpar este tabuleiro fácil.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/357.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/357",
+        "layout": "O nível 357 do Block Out abre em um tabuleiro de classificação por cor fácil dominado por peças azul, verde, roxo, vermelho. O layout inicial exato e a solução verificada são mostrados no vídeo de guia integrado; compare seu tabuleiro com o vídeo antes de seguir a ordem de movimentos.",
+        "landmarks": [
+          "Tabuleiro prominentemente apresenta azul, verde, e roxo blocos.",
+          "Cor grupos deve be separado e empilhado para limpar nível.",
+          "Integrado guia mostra exato inicial layout e solução ordem."
+        ],
+        "colors": ["blue", "green", "purple", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "G8UOs92fhc4",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=G8UOs92fhc4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Abertura tabuleiro"
+        },
+        {
+          "seconds": 62,
+          "label": "Primeiro mescla"
+        },
+        {
+          "seconds": 124,
+          "label": "Mid-tabuleiro limpando"
+        },
+        {
+          "seconds": 182,
+          "label": "Final saída"
+        }
+      ],
+      "quickTips": [
+        "Grupo azul e verde blocos primeiro — eles dominam abertura tabuleiro, so limpando os cedo abre mais espaço.",
+        "Mantenha um coluna vazio como buffer até seu primeiro dois mescla são feito; ele é único seguro coloque para reverta ruim mova.",
+        "Estacione misto ou preso roxo blocos em mais curto coluna, nunca mais alto um, so você mantenha limpo saída pista.",
+        "Se dois colunas compartilhe mesmo superior cor, mesclar inferior-risk um primeiro e salve outro para final."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Correspondência tabuleiro",
+          "instruction": "Confirme azul/verde layout corresponde guia antes que você mova; diferente variante significa diferente solução.",
+          "image": "/boards/357.avif",
+          "imageAlt": "Referência de tabuleiro do Block Out para o passo 1"
+        },
+        {
+          "order": 2,
+          "title": "Limpar dominante cor",
+          "instruction": "Mesclar azul colunas primeiro para livre maior área de tabuleiro e reduza peças você deve rastreie.",
+          "image": "/boards/357.avif",
+          "imageAlt": "Referência de tabuleiro do Block Out para o passo 2"
+        },
+        {
+          "order": 3,
+          "title": "Abra buffer pista",
+          "instruction": "Desloque verde blocos de lado em um curto coluna so misto empilha permaneça separável e saída pista permanece abra.",
+          "image": "/boards/357.avif",
+          "imageAlt": "Referência de tabuleiro do Block Out para o passo 3"
+        },
+        {
+          "order": 4,
+          "title": "Funciona superior-baixo",
+          "instruction": "Limpar de superior so nada cadeados cedo; mantenha buffer coluna disponível até tabuleiro é quase vazio.",
+          "image": "/boards/357.avif",
+          "imageAlt": "Referência de tabuleiro do Block Out para o passo 4"
+        },
+        {
+          "order": 5,
+          "title": "Roteie saída",
+          "instruction": "Envie último blocos para fora através mesmo pista mostrado em vídeo, em ordem guia demonstra.",
+          "image": "/boards/357.avif",
+          "imageAlt": "Referência de tabuleiro do Block Out para o passo 5"
+        }
+      ],
+      "failurePoints": [
+        "Mesclando mais alto coluna primeiro queima seu único buffer pista e prende inferior blocos atrás de ele.",
+        "Perseguindo cheio azul empilhe antes que separando misto cores deixa blocos você pode no mais longo alcance.",
+        "Inicial temporizador antes que tabuleiro é correspondido desperdiça 8–12 segundos de recuperação em fácil tabuleiro.",
+        "Deixando verde blocos fica atrás de outros força reinicie você poderia tem evitado com um cedo desloque."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/357",
+    "https://www.youtube.com/watch?v=G8UOs92fhc4",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 357 do Block Out",
+    "description": "Resolva Block Out nível 357 com verificado fácil guia vídeo e tabuleiro cores. Assista integrado solução para correspondência seu inicial tabuleiro."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "tr-level-470",
+  "locale": "tr",
+  "levelNumber": 470,
+  "title": "Block Out Seviye 470 Rehberi",
+  "summary": "Block Out! Seviye 470 Çözüm Rehberi. Bu kolay tahtayı geçmek için gömülü rehberi izleyin.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardImage": "/boards/470.avif",
+      "boardProfile": {
+        "sourceUrl": "https://blockoutlevel.com/level/470",
+        "layout": "Block Out seviye 470, mavi, sarı, turuncu, yeşil ve kırmızı karolarının hâkim olduğu kolay bir renk sıralama tahtasında açılır. Tam başlangıç düzeni ve doğrulanmış çözüm, gömülü rehber videosunda gösterilmiştir; hamle sırasını izlemeden önce tahtanızı videoyla eşleştirin.",
+        "landmarks": [
+          "Tahta, belirgin şekilde mavi, sarı ve turuncu bloklar içerir.",
+          "Renk grupları, seviyeyi geçmek için ayrılmalı ve yığılmalıdır.",
+          "Gömülü rehber, tam başlangıç düzenini ve çözüm sırasını gösterir."
+        ],
+        "colors": ["blue", "yellow", "orange", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "lZvBIsFVzJs",
+        "publisherLabel": "Gamer Fox",
+        "sourceUrl": "https://www.youtube.com/watch?v=lZvBIsFVzJs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Açılış tahtası"
+        },
+        {
+          "seconds": 57,
+          "label": "İlk birleştirmeler"
+        },
+        {
+          "seconds": 115,
+          "label": "Tahtanın ortasını temizleme"
+        },
+        {
+          "seconds": 168,
+          "label": "Son çıkış"
+        }
+      ],
+      "quickTips": [
+        "Önce mavi ve sarı blokları gruplayın — açılış tahtasına onlar hâkimdir, bu yüzden onları erken temizlemek en fazla alanı açar.",
+        "İlk iki birleştirme bitene kadar bir sütunu tampon olarak boş bırakın; kötü bir hamleyi geri almak için tek güvenli yer burasıdır.",
+        "Karışık veya sıkışmış turuncu blokları en kısa sütuna park edin, asla en uzununa değil, böylece temiz bir çıkış şeridi korursunuz.",
+        "İki sütun aynı üst renge sahipse, daha az riskli olanı önce birleştirin ve diğerini sona saklayın."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Tahtayı eşleştir",
+          "instruction": "Hamle yapmadan önce mavi/sarı düzeninin rehberle eşleştiğini doğrulayın; farklı bir varyant farklı bir çözüm demektir.",
+          "image": "/boards/470.avif",
+          "imageAlt": "Block Out level board reference for step 1"
+        },
+        {
+          "order": 2,
+          "title": "Baskın rengi temizle",
+          "instruction": "Tahtanın en büyük alanını boşaltmak ve takip etmeniz gereken parçaları azaltmak için önce mavi sütunları birleştirin.",
+          "image": "/boards/470.avif",
+          "imageAlt": "Block Out level board reference for step 2"
+        },
+        {
+          "order": 3,
+          "title": "Tampon şerit aç",
+          "instruction": "Karışık yığınlar ayrılabilir ve çıkış şeridi açık kalabilsin diye sarı blokları bir kısa sütuna çekin.",
+          "image": "/boards/470.avif",
+          "imageAlt": "Block Out level board reference for step 3"
+        },
+        {
+          "order": 4,
+          "title": "Üstten alta çalış",
+          "instruction": "Hiçbir şey erken kilitlenmesin diye üstten temizleyin; tahta neredeyse boşalana kadar tampon sütunu hazır tutun.",
+          "image": "/boards/470.avif",
+          "imageAlt": "Block Out level board reference for step 4"
+        },
+        {
+          "order": 5,
+          "title": "Çıkış yolunu belirle",
+          "instruction": "Son blokları, rehberin gösterdiği sırayla videoda gösterilen aynı şeritten dışarı gönderin.",
+          "image": "/boards/470.avif",
+          "imageAlt": "Block Out level board reference for step 5"
+        }
+      ],
+      "failurePoints": [
+        "En uzun sütunu önce birleştirmek tek tampon şeridinizi yakar ve alt blokları arkasında tuzağa düşürür.",
+        "Karışık renkleri ayırmadan önce tam bir mavi yığın peşinde koşmak, artık ulaşamayacağınız bloklar bırakır.",
+        "Tahta eşleşmeden önce zamanlayıcıyı başlatmak, kolay bir tahtada 8–12 saniyelik kurtarma zamanı israf eder.",
+        "Sarı blokların diğerlerinin arkasına oturmasına izin vermek, tek bir erken hamleyle önleyebileceğiniz bir yeniden başlatmayı zorunlu kılar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://blockoutlevel.com/level/470",
+    "https://www.youtube.com/watch?v=lZvBIsFVzJs",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 470 Rehberi ve Çözüm",
+    "description": "Block Out seviye 470 tahtasını, doğrulanmış kolay rehber videosu ve tahta renkleriyle çözün. Başlangıç tahtanızı eşlemek için gömülü çözümü izleyin."
+  },
+  "updatedAt": "2026-08-03"
+}

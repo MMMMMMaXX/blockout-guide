@@ -1,0 +1,97 @@
+{
+  "id": "pt-br-level-44",
+  "locale": "pt-br",
+  "levelNumber": 44,
+  "title": "Guia do nível 44 do Block Out",
+  "summary": "Block Out Nível 44 é rotulado 'Difícil Nível' e apresenta central `5` chefe quadrado sentado em foundation fileira de quatro `5`-contador blocos em inferior. Acima chefe, pequeno-contador blocos (ciano `1`, `3` bloco) e roxo dispositivo deve...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/44/",
+        "layout": "Block Out Nível 44 é rotulado 'Difícil Nível' e apresenta central `5` chefe quadrado sentado em foundation fileira de quatro `5`-contador blocos em inferior. Acima chefe, pequeno-contador blocos (ciano `1`, `3` bloco) e roxo dispositivo deve be limpo primeiro para dê chefe vertical espaço. inferior `5` fileira e chefe colapse em coordination — chefe empurra baixo como foundation afina. Rosa blocos em direita são tarde-fase limpeza.",
+        "landmarks": [
+          "Block Out Nível 44 é rotulado 'Difícil Nível' e apresenta central `5` chefe quadrado sentado em foundation fileira de quatro `5`-contador blocos em inferior.",
+          "Acima chefe, pequeno-contador blocos (ciano `1`, `3` bloco) e roxo dispositivo deve be limpo primeiro para dê chefe vertical espaço.",
+          "Inferior `5` fileira e chefe colapse em coordination — chefe empurra baixo como foundation afina.",
+          "Rosa blocos em direita são tarde-fase limpeza."
+        ],
+        "colors": ["cyan", "red", "pink", "blue", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "qaJeSsJbV8g",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=qaJeSsJbV8g",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Superior contadores (`1` e `3`) são pequeno mas eles saída whole tabuleiro — limpar os primeiro.",
+        "Chefe e inferior `5` fileira colapse juntos, so do não tente para limpar foundation independently.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar ciano `1`-contador bloco em superior para crie primeiro abertura acima chefe."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Service roxo dispositivo em superior de tabuleiro."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Remova `3`-contador bloco para widen superior espaço."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Comece soltando central `5` chefe uma vez superior espaço é abra."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Deixe quatro `5` blocos em inferior fino como chefe empurra baixo."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar rosa blocos em direita lateral como tarde-fase cor."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine com restante inferior blocos e lateral saídas depois chefe é indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para solte `5` chefe antes que superior `1` e `3` contadores são limpo — chefe tem no espaço para mova e superior espaço permanece vedado.",
+        "Disturbing inferior `5` fileira antes que chefe tem started soltando, que remove suporte mas deixa chefe preso acima com no caminho baixo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/44/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 44 do Block Out",
+    "description": "Resolva o nível 44 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

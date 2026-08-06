@@ -1,0 +1,91 @@
+{
+  "id": "pt-br-level-84",
+  "locale": "pt-br",
+  "levelNumber": 84,
+  "title": "Guia do nível 84 do Block Out",
+  "summary": "Block Out Nível 84 é Difícil Nível com três massivo roxo blocos bearing highest contadores em 50-100 range: '12', '21', e '23'. Laranja moldura bordas crie câmara partitions ao redor os, com colorido blocos empacotado entre th...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/84/",
+        "layout": "Block Out Nível 84 é Difícil Nível com três massivo roxo blocos bearing highest contadores em 50-100 range: '12', '21', e '23'. Laranja moldura bordas crie câmara partitions ao redor os, com colorido blocos empacotado entre câmaras. Limpar pequeno blocos primeiro para abra alimentando pistas, então alimente roxo blocos em ascending contador ordem — '12' primeiro, '21' segundo, '23' último.",
+        "landmarks": [
+          "Block Out Nível 84 é Difícil Nível com três massivo roxo blocos bearing highest contadores em 50-100 range: '12', '21', e '23'.",
+          "Laranja moldura bordas crie câmara partitions ao redor os, com colorido blocos empacotado entre câmaras.",
+          "Limpar pequeno blocos primeiro para abra alimentando pistas, então alimente roxo blocos em ascending contador ordem — '12' primeiro, '21' segundo, '23' último."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "l_uaiLxwiKM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=l_uaiLxwiKM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Alimente roxo blocos em ascending contador ordem: '12' primeiro, '21' segundo, '23' último.",
+        "Mantenha '23' bloco's saída pista limpar de comece — nunca deixe outro blocos drift em seu caminho.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Limpar pequeno colorido blocos entre roxo câmaras através lateral saídas."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Extraia contador '5' bloco cedo."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Comece alimentando roxo '12' bloco primeiro — ele é lightest."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Alimente roxo '21' bloco uma vez '12' tem shrunk suficiente para compartilhe pista."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Salve roxo '23' bloco para último — ele precisa widest pista e mais passa."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar restante câmara fragmentos depois tudo roxo blocos são indo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para alimente '23' bloco antes que mais leve roxo blocos tem reduced — pistas são também estreito.",
+        "Deixando colorido blocos em alimentando pista, que força roxo blocos para detour."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/84/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 84 do Block Out",
+    "description": "Resolva o nível 84 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

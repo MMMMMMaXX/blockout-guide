@@ -1,0 +1,93 @@
+{
+  "id": "pt-br-level-139",
+  "locale": "pt-br",
+  "levelNumber": 139,
+  "title": "Guia do nível 139 do Block Out",
+  "summary": "O nível 139 do Block Out é um tabuleiro de duas camadas Super Difícil — uma grade superior arco-íris escoa para uma camada inferior através de pares de setas para baixo, alimentando tubos roxos `17` e `13` ladeados por contadores laterais azuis `4`. A grade superior esvazia primeiro, então o...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/139/",
+        "layout": "O nível 139 do Block Out é um tabuleiro de duas camadas Super Difícil — uma grade superior arco-íris escoa para uma camada inferior através de pares de setas para baixo, alimentando tubos roxos `17` e `13` ladeados por contadores laterais azuis `4`. A grade superior esvazia primeiro, então o verdadeiro quebra-cabeça começa: os tubos da camada inferior controlam cada fase de queda independentemente, e uma peça verde `1` no canto inferior esquerdo deve esperar até que os contadores das bordas se alinhem.",
+        "landmarks": [
+          "O nível 139 do Block Out é um tabuleiro de duas camadas Super Difícil — uma grade superior arco-íris escoa para uma camada inferior através de pares de setas para baixo, alimentando tubos roxos `17` e `13` ladeados por contadores laterais azuis `4`.",
+          "Superior grade esvazia primeiro, então real quebra-cabeça começa: inferior nível's tubos saída cada solte fase independently, e verde `1` peça em inferior-esquerda deve espere até borda contadores align.",
+          "Tabuleiro mistura Roxo, Vermelho, Verde e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["purple", "red", "green", "blue", "yellow", "orange", "pink", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "hT_Nx8ZCThY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=hT_Nx8ZCThY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Mantenha ambos azul 4 squares vedado até superior grade é totalmente vazio — gastando either cedo cadeados 17 tubo.",
+        "Limpar azul 1 barra em superior de inferior nível antes que tocando direita-coluna vermelho recortes.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Alimente superior rainbow fileira baixo vermelho esquerda baixo-seta sem dividindo amarelo direita par em superior grade."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Limpar restante superior-grade fileiras através amarelo direita baixo-seta até superior nível é totalmente vazio."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gaste ambos azul 4 lateral contadores uma vez superior grade limpa, unlocking inferior 17 tubo."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Quebre inferior azul 1 barra em superior de inferior nível depois 17 contador hits zero."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar esquerda-borda 5/1/1 contadores e direita-borda 1/1 par através lateral pistas."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Detonate verde 2×2 aglomerado em inferior-centro e alimente último vermelho/rosa direita-coluna recortes para SUPER Difícil tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Gastando either azul 4 contador antes que superior grade esvazia, locking 17 tubo acima 9.",
+        "Limpando direita-coluna vermelho recortes antes que azul 1 barra quebra, re-vedando 13 tubo."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/139/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 139 do Block Out",
+    "description": "Resolva o nível 139 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

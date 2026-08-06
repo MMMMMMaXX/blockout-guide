@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-64",
+  "locale": "fr",
+  "levelNumber": 64,
+  "title": "Guide Block Out Niveau 64",
+  "summary": "Block Out Niveau 64 est quadrant-cadre énigme. Orange cadre borders divide plateau dans four chambres — trois filled avec massive violet blocs numérotés (compteurs 4, 12, et 7), et one packed avec petit blocs colorés. petit bloc...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/64/",
+        "layout": "Block Out Niveau 64 est quadrant-cadre énigme. Orange cadre borders divide plateau dans four chambres — trois filled avec massive violet blocs numérotés (compteurs 4, 12, et 7), et one packed avec petit blocs colorés. petit blocs dans supérieur droit quadrant sont seulement pièces que peut déplacez à commencez. Dégagez les premier à ouvrez supérieur half, alors alimentez les blocs violet à travers leur sorties dans ascending compteur ordre.",
+        "landmarks": [
+          "Block Out Niveau 64 est quadrant-cadre énigme.",
+          "Orange cadre borders divide plateau dans four chambres — trois filled avec massive violet blocs numérotés (compteurs 4, 12, et 7), et one packed avec petit blocs colorés.",
+          "Petit blocs dans supérieur droit quadrant sont seulement pièces que peut déplacez à commencez.",
+          "Dégagez les premier à ouvrez supérieur half, alors alimentez les blocs violet à travers leur sorties dans ascending compteur ordre."
+        ],
+        "colors": ["violet", "green", "yellow", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gKBANgKGy-w",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gKBANgKGy-w",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Supérieur droit quadrant est votre seulement lever à commencez — extract chaque petit bloc là premier.",
+        "Alimentez blocs violet dans ascending compteur ordre: '4' premier, alors '7', alors '12'.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Extract petit blocs colorés de supérieur droit quadrant à travers haut et droite sorties."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Dégagez compteur '2' bloc à le haut de plateau."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Alimentez supérieur gauche bloc violet (compteur '4') à travers son sortie une fois supérieur half opens."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Utilisez freed supérieur espace à commencez déplaçant inférieur droit bloc violet (compteur '7')."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Work massive inférieur gauche bloc violet (compteur '12') dernier — il needs most salle."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Dégagez un restant coloré fragments après les blocs violet sont gone."
+        }
+      ],
+      "failurePoints": [
+        "Essayant à déplacez un bloc violet avant supérieur droit quadrant est cleared — orange cadres prevent il.",
+        "Laissant compteur '12' bloc jusqu'à dernier sans creating assez sortie voie width premier."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/64/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 64",
+    "description": "Résolvez le niveau 64 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

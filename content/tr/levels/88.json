@@ -1,0 +1,93 @@
+{
+  "id": "tr-level-88",
+  "locale": "tr",
+  "levelNumber": 88,
+  "title": "Block Out Seviye 88 Rehberi",
+  "summary": "Block Out Seviye 88 hourglass tahta ile mavi merkez omurga, kırmızı zigzag sarkarak o, ve eşleşti mor kilitlen pods her ikisi de yan duvarlar. başla üst-sağ istifler, temizle yan kilitlenir sonraki, ve sadece sonra düşür turuncu b...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/88/",
+        "layout": "Block Out Seviye 88 hourglass tahta ile mavi merkez omurga, kırmızı zigzag sarkarak o, ve eşleşti mor kilitlen pods her ikisi de yan duvarlar. başla üst-sağ istifler, temizle yan kilitlenir sonraki, ve sadece sonra düşür turuncu beam ve merkez omurga boğazdan daha düşük basine.",
+        "landmarks": [
+          "Block Out Seviye 88 hourglass tahta ile mavi merkez omurga, kırmızı zigzag sarkarak o, ve eşleşti mor kilitlen pods her ikisi de yan duvarlar.",
+          "Başla üst-sağ istifler, temizle yan kilitlenir sonraki, ve sadece sonra düşür turuncu beam ve merkez omurga boğazdan daha düşük basine.",
+          "Tahta yeşil, kırmızı, turuncu ve daha fazlasını karıştırır.",
+          "Açılış düzeni bir renk sıralama ızgarasıdır.",
+          "Seviyeyi bitirmek için eşleşen karoları temizleyin."
+        ],
+        "colors": ["green", "red", "orange", "blue", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "XRimsJYj13I",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=XRimsJYj13I",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Değil başla alt basinden. bu tahta açılır boyundan aşağı doğru.",
+        "Eğer bir kilitlen pod hâlâ duvarda, mavi omurga değil hazır düşür.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Trim üst-sağ istifler ilk böylece sağ duvar açılır ve onun dış count starts dropping."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kullan ki yeni alan bırak sağ mor kilitlen pod, sonra temizle eşleştirerek kilitlen pod sol duvarda."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Kaydır uzun turuncu beam boğazdan sadece sonra mavi merkez omurga bir serbest yan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Düşür mavi omurga ve kırmızı zigzag boyundan daha düşük basine."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Temizle daha düşük-sol turuncu runway ve opposite turuncu tepşi sonra merkez parçalar dışarı way."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile son mor elbow plus üst-sol yeşil-ve-sarı parçalar açıldıdan yan şeritler."
+        }
+      ],
+      "failurePoints": [
+        "Başlayarak alt turuncu traysda önce üst-sağ istifler ve her ikisi de yan kilitlenir açıldı boyun.",
+        "Hareket ettirerek turuncu beam sırasında mavi merkez omurga hâlâ pinned her ikisi de yanlar."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/88/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 88 Rehberi ve Çözümü",
+    "description": "Block Out seviye 88'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

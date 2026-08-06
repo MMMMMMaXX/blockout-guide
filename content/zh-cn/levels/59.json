@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-59",
+  "locale": "zh-cn",
+  "levelNumber": 59,
+  "title": "Block Out 第59关攻略",
+  "summary": "Block Out 第59关开局是双室棋盘，最终变成一把锁的拼图。先打开中央的大`4`室，第二步削减左下`10`室，然后利用腾出的中间击破链条列，再处理右侧的大号粉色方块……",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/59/",
+        "layout": "Block Out 第59关开局是双室棋盘，最终变成一把锁的拼图。先打开中央的大`4`室，第二步削减左下`10`室，然后利用腾出的中间击破链条列，再处理右侧的大号粉色方块。",
+        "landmarks": [
+          "Block Out 第59关开局是双室棋盘，最终变成一把锁的拼图。",
+          "先打开中央的大`4`室，第二步削减左下`10`室，然后利用腾出的中间击破链条列，再处理右侧的大号粉色方块。",
+          "棋盘混合了紫色、蓝色、橙色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["purple", "blue", "orange", "green", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "9gh_W3CS4Yg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=9gh_W3CS4Yg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "真正的后期关卡在于中央被锁链连着的脊梁，而不是大号粉色方块。",
+        "在认真处理左下`10`室之前，先打开中央`4`室。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "在过度处理左下`10`室之前，先排空中央标有`4`的紫色大室。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在该室收缩的同时削剪上层搁板，使中间通道不被两侧墙壁封死。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "等中央`4`室已腾出一些地面空间后，再开始削减左下`10`室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "出现被锁链连着的挂锁列时，在移动右侧大号粉色方块之前先清空这条中央脊梁。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "利用已解锁的中间，将粉色方块和附近的红色方块滑向下方出口。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "链条通道清空后，用底部的黄色块群和最后的小侧块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "把左下`10`室当作开局来处理，而此时中央`4`室仍在占据棋盘。",
+        "在清空中央锁链列之前就试图移动大号粉色方块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/59/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第59关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第59关。"
+  },
+  "updatedAt": "2026-08-03"
+}

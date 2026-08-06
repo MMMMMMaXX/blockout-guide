@@ -1,0 +1,91 @@
+{
+  "id": "zh-cn-level-79",
+  "locale": "zh-cn",
+  "levelNumber": 79,
+  "title": "Block Out 第79关攻略",
+  "summary": "Block Out 第79关是一个两阶段棋盘。首先排空位于两个狭窄上井之下的巨大紫色「17」蓄水池。接着棋盘坍塌成一个下层托盘，其中一块紫色桥形块必须先移动，右侧的蓝色和橙色方块才能逃出。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/79/",
+        "layout": "Block Out 第79关是一个两阶段棋盘。首先排空位于两个狭窄上井之下的巨大紫色「17」蓄水池。接着棋盘坍塌成一个下层托盘，其中一块紫色桥形块必须先移动，右侧的蓝色和橙色方块才能逃出。",
+        "landmarks": [
+          "Block Out 第79关是一个两阶段棋盘。",
+          "首先排空位于两个狭窄上井之下的巨大紫色「17」蓄水池。",
+          "接着棋盘坍塌成一个下层托盘，其中一块紫色桥形块必须先移动，右侧的蓝色和橙色方块才能逃出。"
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "DIAjFHUjhS4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=DIAjFHUjhS4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "把巨大的「17」蓄水池当作开局，而不是「7」室。",
+        "当下层托盘出现时，先打开左侧，再试图释放右侧的蓝色阶梯。",
+        "以连锁消除的思路思考。最优的一步是为接下来两步做铺垫，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "在过度处理任何一个上井之前，先排空底部标有「17」的巨型方块室。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在蓄水池下落的同时，移动红色 L 形块和绿色阶梯块，让它们互不挡路，清理左上通道。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "等左侧上井不再堵塞侧边计数块后，再开始削减右上角的「7」室。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "两个紫色室都清空后，把注意力转向它们下方出现的下层托盘。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "先打开该下层托盘的左侧，再移动紫色桥形块，为右侧的蓝色阶梯块让出路线。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "中心通道清空后，用右侧的蓝色和橙色方块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "把右上角的「7」室当作首要目标，而不是先排空其下方的「17」蓄水池。",
+        "在下层托盘中，紫色桥形块尚未移动之前就试图清空右侧的蓝色阶梯。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/79/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第79关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第79关。"
+  },
+  "updatedAt": "2026-08-03"
+}

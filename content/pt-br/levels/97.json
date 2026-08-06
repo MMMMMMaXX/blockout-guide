@@ -1,0 +1,102 @@
+{
+  "id": "pt-br-level-97",
+  "locale": "pt-br",
+  "levelNumber": 97,
+  "title": "Guia do nível 97 do Block Out",
+  "summary": "Block Out Nível 97 empilha dois horizontal molduras empacotado com colorido blocos. superior moldura segura amarelo bloco, azul bordas, grande vermelho blocos, e cadeado laranja/amarelo peças (cadeado `5`). inferior moldura é twice como denso com la...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/97/",
+        "layout": "Block Out Nível 97 empilha dois horizontal molduras empacotado com colorido blocos. superior moldura segura amarelo bloco, azul bordas, grande vermelho blocos, e cadeado laranja/amarelo peças (cadeado `5`). inferior moldura é twice como denso com grande vermelho e verde blocos, azul, laranja, roxo, e cadeado amarelo peças. Funciona ambos molduras em alternation — limpar non-cadeado borda blocos para desbloqueie cadeado `5` saídas em cada moldura, então alimente grande peças através.",
+        "landmarks": [
+          "Block Out Nível 97 empilha dois horizontal molduras empacotado com colorido blocos.",
+          "Superior moldura segura amarelo bloco, azul bordas, grande vermelho blocos, e cadeado laranja/amarelo peças (cadeado `5`).",
+          "Inferior moldura é twice como denso com grande vermelho e verde blocos, azul, laranja, roxo, e cadeado amarelo peças.",
+          "Funciona ambos molduras em alternation — limpar non-cadeado borda blocos para desbloqueie cadeado `5` saídas em cada moldura, então alimente grande peças através."
+        ],
+        "colors": ["red", "orange", "yellow", "green", "blue", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rJ6paVt9rSI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rJ6paVt9rSI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Cadeado `5` contadores são per-moldura — limpando superior blocos único desbloqueia superior padlocks, não inferior uns.",
+        "Comece com non-cadeado borda blocos em ambos molduras para construa em direção a cinco-limpar desbloqueie threshold.",
+        "Alimente grande verde bloco em inferior centro último — ele blocos centro caminho e precisa mais espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Superior moldura: deslize azul borda bloco em longe direita através direita-parede saída, então empurre amarelo bloco em longe esquerda através esquerda-parede saída (02:24–02:20 em vídeo)."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Inferior moldura: limpar laranja e roxo blocos em longe direita através direita-parede saída — eles são closest e não cadeado (02:20–02:15)."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Superior moldura: limpar grande vermelho blocos em centro-esquerda através esquerda-parede saída — cada removal counts em direção a superior cadeado `5` desbloqueie (02:15–02:06)."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Superior moldura padlocks agora abra: limpar laranja e amarelo cadeado blocos de centro através direita saída (02:06)."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Inferior moldura: limpar non-cadeado azul e vermelho blocos de centro para contagem em direção a inferior cadeado `5` threshold (02:01–01:52)."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Inferior moldura padlocks agora abra: limpar amarelo cadeado blocos em longe esquerda através esquerda-parede saída (01:52)."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Alimente grande verde bloco em inferior centro através inferior saída — ele takes several passa e precisa centro caminho limpar (01:47–01:38)."
+        },
+        {
+          "order": 8,
+          "title": "Movimento 8",
+          "instruction": "Termine com restante pequeno blocos de ambos molduras através nearest saídas (01:38–01:33)."
+        }
+      ],
+      "failurePoints": [
+        "Limpando vermelho blocos em superior moldura antes que planning cadeado blocos' saída roteie — uma vez circundante espaço preenche com inferior-moldura spill, cadeado blocos tem nowhere para go.",
+        "Treating cadeado contadores como shared — limpando cinco superior-moldura blocos does não desbloqueie inferior-moldura padlocks, so working único um moldura em tempo desperdiça movimentos."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/97/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 97 do Block Out",
+    "description": "Resolva o nível 97 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

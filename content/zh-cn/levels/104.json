@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-104",
+  "locale": "zh-cn",
+  "levelNumber": 104,
+  "title": "Block Out 第104关攻略",
+  "summary": "Block Out 第104关是一个重力棋盘——绿色箭头方块只能向下掉落，连锁反应随列坍塌从左到右扩散。危险在于在右列箭头方块落定之前就过早清空中心，这会切断最终横扫棋盘的连锁反应。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/104/",
+        "layout": "Block Out 第104关是一个重力棋盘——绿色箭头方块只能向下掉落，连锁反应随列坍塌从左到右扩散。危险在于在右列箭头方块落定之前就过早清空中心，这会切断最终横扫棋盘的连锁反应。",
+        "landmarks": [
+          "Block Out 第104关是一个重力棋盘——绿色箭头方块只能向下掉落，连锁反应随列坍塌从左到右扩散。",
+          "危险在于在右列箭头方块落定之前就过早清空中心，这会切断最终横扫棋盘的连锁反应。",
+          "棋盘混合了青色、绿色、橙色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "消除已匹配的方块即可通关。"
+        ],
+        "colors": ["cyan", "green", "orange", "purple", "pink", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "vMTPCxeq_Gw",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=vMTPCxeq_Gw",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在触发中心匹配链之前，先削减半边左墙。",
+        "箭头方块无法绕行——它们正下方需要一整条空列。",
+        "如果棋盘感觉卡住了，找一条路径最干净的颜色，用它重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第1步",
+          "instruction": "将左侧堆叠顶部经上部出口清空，打开第一条向下列。"
+        },
+        {
+          "order": 2,
+          "title": "第2步",
+          "instruction": "在碰中心配对之前，将绿色和青色方块从左侧墙拉出。"
+        },
+        {
+          "order": 3,
+          "title": "第3步",
+          "instruction": "一旦其正下方有垂直空隙，就触发中上部的匹配链（约 01:42 处爆发）。"
+        },
+        {
+          "order": 4,
+          "title": "第4步",
+          "instruction": "利用蓝色飞溅列将剩余的中心箭头方块垂直落下。"
+        },
+        {
+          "order": 5,
+          "title": "第5步",
+          "instruction": "将右侧的橙色和紫色箭头方块经右墙出口横扫出去。"
+        },
+        {
+          "order": 6,
+          "title": "第6步",
+          "instruction": "网格基本清空后，用底行的粉色和蓝色单块收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在左墙消失一半之前就匹配中心簇——右列箭头方块随后没有下落通道。",
+        "在上方箭头方块仍挡住其上方的列时，过早清空底部单块。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/104/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第104关攻略与解法",
+    "description": "通过已验证的棋盘匹配、内嵌攻略视频、分步移动和常见失败点，通关 Block Out 第104关。"
+  },
+  "updatedAt": "2026-08-03"
+}

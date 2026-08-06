@@ -1,0 +1,98 @@
+{
+  "id": "ja-level-134",
+  "locale": "ja",
+  "levelNumber": 134,
+  "title": "ブロックアウト レベル134 攻略",
+  "summary": "ブロックアウト レベル134は「ハード」の縦盤面で、オレンジの鍵、青の錠前、レンチ工具をブロック列の中に直接埋め込み、紫の「12」塔と上部の「15」帯が伴います。南京錠付きのシアンタイルが主な出口通路を守り、鍵と錠前は反対側にあります…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/134/",
+        "layout": "ブロックアウト レベル134は「ハード」の縦盤面で、オレンジの鍵、青の錠前、レンチ工具をブロック列の中に直接埋め込み、紫の「12」塔と上部の「15」帯が伴います。南京錠付きのシアンタイルが主な出口通路を守り、鍵と錠前は反対側にあります—鍵が錠前に届く前に中央のシアンバーを左へ動かさないと、左矢印の通路が封じられます。",
+        "landmarks": [
+          "ブロックアウト レベル 134 オレンジ、青、ブロック 紫 `12` 塔、上 `15` 取り除く.。",
+          "シアン タイル 出口 レーン、鍵、をロックして配置する — 中央の シアン 棒 ずらす 左、鍵 届く ロックする、左-矢印 レーン .。",
+          "混ぜる 紫、青、シアン、.。",
+          "開始時の配置 色分けグリッド.。",
+          "を消去して揃ったタイル 終える レベル.。"
+        ],
+        "colors": ["purple", "blue", "cyan", "red", "pink", "yellow", "orange", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72iQQbHvR1s",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72iQQbHvR1s",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "青のを消去して7 空きマス、シアン タイル 下 塊.。",
+        "鍵を揃えてロックする、紫 -台座.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を割りて上 15 取り除く、紫 12 塔 シアン タイル 下 塊.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して下の-左 青 7 空きマス 下 9、4 カウンター.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "オレンジ鍵を揃えて左-中央 帯 青 ロックする 右-中央.。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "オレンジのを使いて左、右 解放する 紫 -台座 .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "をスライドさせて中央の シアン/-青 棒 左-矢印 レーン、鍵-ロックする ペア .。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を通して赤、ピンク 下 赤、青 下 下へ 矢印.。"
+        },
+        {
+          "order": 7,
+          "title": "手順7",
+          "instruction": "を消去して紫 台座 レベル 消去する.。"
+        }
+      ],
+      "failurePoints": [
+        "タイル シアン ブロック、7 空きマス、を塞ぎて9/4 出口.。",
+        "動かし 紫 -台座、鍵-ロックする ペア、- 下 下へ 矢印.。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/134/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル134 攻略と解説",
+    "description": "ブロックアウト レベル134 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}

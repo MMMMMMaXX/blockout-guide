@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-25",
+  "locale": "zh-cn",
+  "levelNumber": 25,
+  "title": "Block Out 第 25 关通关攻略",
+  "summary": "Block Out 第 25 关是一个带高侧轨的沙漏支撑拼图。先打开黑白腰身，再旋转下方粉青腔室，最后才开始消耗细长的带框侧列。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/25/",
+        "layout": "Block Out 第 25 关是一个带高侧轨的沙漏支撑拼图。先打开黑白腰身，再旋转下方粉青腔室，最后才开始消耗细长的带框侧列。",
+        "landmarks": [
+          "Block Out 第 25 关是一个带高侧轨的沙漏支撑拼图。",
+          "先打开黑白腰身，再旋转下方粉青腔室，最后才开始消耗细长的带框侧列。",
+          "棋盘混合了紫色、绿色、粉色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["purple", "green", "pink", "cyan", "red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "BCW3eAfmMLM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=BCW3eAfmMLM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "在触碰侧轨之前，先打开腰身。",
+        "在高层侧列能够移动之前，下方腔室需要空间。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "从沙漏颈部剥离开白色阶梯和黑色阻挡块。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在上方瓶颈仍然狭窄时，让细长的带框侧列保持停驻。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "一旦腰身打开，就旋转下方粉色和青色块体，让腔室停止向上挤压。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "只有当下方腔室腾出真正的空位后，才喂入一条高层侧列。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "利用新腾出的空间，分离第二条高层侧列和内部绿色条带。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "在最后一条侧列离开之前，先完成下方腔室。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在颈部完全打开后，用剩余的绿色路线收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在腰身仍然狭窄时，就试图消耗侧轨。",
+        "忽略下方腔室，过度聚焦在高层侧轨上。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/25/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 25 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 25 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

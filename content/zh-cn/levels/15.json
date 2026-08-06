@@ -1,0 +1,93 @@
+{
+  "id": "zh-cn-level-15",
+  "locale": "zh-cn",
+  "levelNumber": 15,
+  "title": "Block Out 第 15 关通关攻略",
+  "summary": "Block Out 第 15 关是一个目标角的双塔谜题。先打开右侧黄色通道，旋转中间长条直到下方角上的目标能离开，之后才动用顶部带框的角块。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/15/",
+        "layout": "Block Out 第 15 关是一个目标角的双塔谜题。先打开右侧黄色通道，旋转中间长条直到下方角上的目标能离开，之后才动用顶部带框的角块。",
+        "landmarks": [
+          "Block Out 第 15 关是一个目标角的双塔谜题。",
+          "先打开右侧黄色通道，旋转中间长条直到下方角上的目标能离开，之后才动用顶部带框的角块。",
+          "棋盘上混合了蓝色、黄色、粉色等多种颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["blue", "yellow", "pink", "green", "red"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "FzzPXIpi7c4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzzPXIpi7c4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右侧黄色通道是连锁的起点。",
+        "下方角上的目标要先于上方带框的角块离开。",
+        "用连锁消除的思路来思考。最佳走子是能为接下来两步铺路的，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "打开右侧黄色通道，并借此开始旋转中间的红色和粉色方块。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "把带框的蓝色和黄色顶部角块停在原位，同时让中间方块堆向下推进。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "先释放下方绿色目标，等底部缺口不再拥挤后，再释放下方粉色目标。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "利用新的底部空间，把中间的红色和蓝色长条分开。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "等下方角块消失后，再释放带框的右上角黄色目标。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "用带框的左上角蓝色目标和顶部最后一根红色长条收尾。"
+        }
+      ],
+      "failurePoints": [
+        "在下方的目标还没开始移动前，就动用顶部带框的角块。",
+        "忽视右侧黄色通道，而试图就地旋转中间方块堆。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/15/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 15 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 15 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-135",
+  "locale": "tr",
+  "levelNumber": 135,
+  "title": "Block Out Seviye 135 Rehberi",
+  "summary": "Block Out Seviye 135 seals uzun sütun sol kenarda sayaçda ki meli hit zero. üst sıra's mavi `6`/`6`/`9` karolar, sarı 2×2 dot blok, ve camgöbeği bidirectional kaydırıcı oluştur lateral bulmaca dikey çerçevede. ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/135/",
+        "layout": "Block Out Seviye 135 seals uzun sütun sol kenarda sayaçda ki meli hit zero. üst sıra's mavi `6`/`6`/`9` karolar, sarı 2×2 dot blok, ve camgöbeği bidirectional kaydırıcı oluştur lateral bulmaca dikey çerçevede. yeşil sağ-sök besler çıkış şerit — it o önce sol-ray sayaç zeroes dışarı ve mühürlendi sütun kalır kilitlendi forever.",
+        "landmarks": [
+          "Block Out Seviye 135 seals uzun sütun sol kenarda sayaçda ki meli hit zero.",
+          "Üst sıra's mavi `6`/`6`/`9` karolar, sarı 2×2 dot blok, ve camgöbeği bidirectional kaydırıcı oluştur lateral bulmaca dikey çerçevede.",
+          "Yeşil sağ-sök besler çıkış şerit — it o önce sol-ray sayaç zeroes dışarı ve mühürlendi sütun kalır kilitlendi forever."
+        ],
+        "colors": ["blue", "yellow", "cyan", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "UznrtGVtYHY",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=UznrtGVtYHY",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Kır sarı dot blok önce kaydırarak ↔ parça — reversing ki sıra kilitlenir sol ray üstünde 4.",
+        "Temizle yeşil sağ-sök sadece sonra siyah-çerçeveli 2 karo kilidini açar.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Harca sol-ray 9 sayaç ile kaydırarak üst mavi 6/6/9 trio sağa doğru uzun sol paneldan."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kır sarı 2×2 dot blok olmadan bölerek camgöbeği ↔ kaydırıcı merkezde."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "It camgöbeği double-ok parça merkez sonradan sol ray düşer 4 ve 7."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Temizle yeşil sağ-sök > şerit sonra siyah-çerçeveli 2 karo kilidini açar."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Besle alt kırmızı/yeşil/mavi küme aşağı yeşil alt-ok çıkış."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Harca son sol-ray 2 uzun mor sütunda ve temizle son artıklar için tahta temizle."
+        }
+      ],
+      "failurePoints": [
+        "Kaydırarak ↔ parça önce sarı dot blok breaks, locking sol ray üstünde 4.",
+        "Göndererek alt kırmızı küme aşağı yeşil ok önce 2 karo kilidini açar, stranding sağ-sök şerit."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/135/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 135 Rehberi ve Çözümü",
+    "description": "Block Out seviye 135'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

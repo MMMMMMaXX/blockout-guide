@@ -1,0 +1,98 @@
+{
+  "id": "de-level-28",
+  "locale": "de",
+  "levelNumber": 28,
+  "title": "Block Out Level 28 Lösung",
+  "summary": "Block Out Level 28 ist gestapelt chamber Puzzle mit oben `6` Boss und untere `2` Boss. Öffnen untere Raum erste, collapse `2` panel nächste, und let obere `6` fall nur nach chamber ist bereits turning.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/28/",
+        "layout": "Block Out Level 28 ist gestapelt chamber Puzzle mit oben `6` Boss und untere `2` Boss. Öffnen untere Raum erste, collapse `2` panel nächste, und let obere `6` fall nur nach chamber ist bereits turning.",
+        "landmarks": [
+          "Block Out Level 28 ist gestapelt chamber Puzzle mit oben `6` Boss und untere `2` Boss.",
+          "Öffnen untere Raum erste, collapse `2` panel nächste, und let obere `6` fall nur nach chamber ist bereits turning.",
+          "Das Spielfeld mixes Blau, Pink, Rot und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["blue", "pink", "red", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "O23NrnwFlZM",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=O23NrnwFlZM",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Lösen untere `2` bevor obere `6`.",
+        "Untere chamber ist phase-one workspace.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Drehen untere chamber erste und starten peeling blau und pink weg durch Seite lanes."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Verwenden dass new Platz zu begin shrinking framed `2` Boss."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten obere `6` panel geparkt while untere chamber ist still crowded."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once `2` frame ist fast gone, let oben `6` finally starten zu fall."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden spät rot und gelb Bauteile zu stop untere chamber von refilling."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden Seite exits nach obere Boss ist bereits low."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "End mit letzte unten Farben once beide Bosse sind gone."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu untere `6` panel bevor `2` Boss hat geöffnet.",
+        "Leaving untere chamber crowded nach erste exits sind available."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/28/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 28 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 28 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

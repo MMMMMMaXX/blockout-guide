@@ -1,0 +1,93 @@
+{
+  "id": "ko-level-12",
+  "locale": "ko",
+  "levelNumber": 12,
+  "title": "블록 아웃 레벨 12 공략",
+  "summary": "블록 아웃 레벨 12는 좁은 허리로 이어진 두 방으로 이루어진 모래시계 퍼즐입니다. 긴 막대를 가운데 목구멍을 통해 번갈아 통과시키고, 두 쪽을 균형 있게 유지하며, 청록색 `2` 벽돌에는 임시 주머니를 사용하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/12/",
+        "layout": "블록 아웃 레벨 12는 좁은 허리로 이어진 두 방으로 이루어진 모래시계 퍼즐입니다. 긴 막대를 가운데 목구멍을 통해 번갈아 통과시키고, 두 쪽을 균형 있게 유지하며, 청록색 `2` 벽돌에는 임시 주머니를 사용하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 12는 좁은 허리로 이어진 두 방으로 이루어진 모래시계 퍼즐입니다.",
+          "긴 막대를 가운데 목구멍을 통해 번갈아 통과시키고, 두 쪽을 균형 있게 유지하며, 청록색 `2` 벽돌에는 임시 주머니를 사용하세요.",
+          "보드는 파란색, 빨간색, 청록색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["blue", "red", "cyan", "yellow", "green"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gXC2F4lgHjI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gXC2F4lgHjI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "모든 강한 수는 목구멍으로 들어가거나 목구멍을 비웁니다.",
+        "긴 막대가 하나 건너간 뒤에만 짝지은 청록색 `2` 벽돌을 움직이세요.",
+        "보드가 막힌 듯하면 가장 깨끗한 경로를 가진 색상을 찾아 공간을 확보하세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "두 방이 서로 눌러 붙는 것을 멈추게 하려면 가운데 세로 막대 하나를 좁은 목구멍을 통해 떨어뜨리세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "한쪽 카운터가 여유 공간을 줄 만큼 줄어들 때까지 허리를 통해 위쪽 빨간색과 파란색 열을 맞바꾸세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "긴 막대가 건너간 뒤에만 짝지은 청록색 `2` 벽돌을 움직여, 임시 주머니를 막는 대신 활용하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "바깥쪽 노란색 열이 깔끔히 분리될 때까지 가운데를 통해 위↔아래 전환을 계속 번갈아 하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "새로 열린 측면 차선을 이용해 각 방에서 빨간색 열을 제거하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "목구멍이 더 이상 점유되지 않으면 마지막 노란색과 파란색 열을 비워 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "다른 쪽을 사용하기 전에 한 방을 완전히 비우려는 것.",
+        "전체 열이 아직 건너야 할 때 목구멍에 짧은 블록을 주차해 두는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/12/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 12 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 12을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

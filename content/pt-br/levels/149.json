@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-149",
+  "locale": "pt-br",
+  "levelNumber": 149,
+  "title": "Guia do nível 149 do Block Out",
+  "summary": "O nível 149 do Block Out é um quebra-cabeça Super Difícil de quatro quadrantes com uma bandeja de micro-blocos inferior e trilhos laterais em `27`/`30`. Cada quadrante tem seu próprio contador que encolhe independentemente conforme as peças da bandeja se encaixam. O quadrante esquerdo `20` alimenta primeiro,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/149/",
+        "layout": "O nível 149 do Block Out é um quebra-cabeça Super Difícil de quatro quadrantes com uma bandeja de micro-blocos inferior e trilhos laterais em `27`/`30`. Cada quadrante tem seu próprio contador que encolhe independentemente conforme as peças da bandeja se encaixam. O quadrante esquerdo `20` alimenta primeiro, mas uma âncora ciano `1` e um bloco vertical azul `6` guardam o centro — quebre a âncora cedo demais e o `6` à deriva entra no bolso direito, engarrando dois quadrantes de uma vez.",
+        "landmarks": [
+          "O nível 149 do Block Out é um quebra-cabeça Super Difícil de quatro quadrantes com uma bandeja de micro-blocos inferior e trilhos laterais em `27`/`30`.",
+          "Cada quadrante tem seu próprio contador que shrinks independently como bandeja peças cadeado em.",
+          "Esquerda `20` quadrante alimenta primeiro, mas ciano `1` ancore e azul vertical `6` bloco guard centro — quebre ancore também cedo e `6` drifts em direita bolso, jamming dois quadrantes em uma vez."
+        ],
+        "colors": ["purple", "green", "blue", "yellow", "red", "cyan", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "tASeXYR8PkQ",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=tASeXYR8PkQ",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre amarelo poliminó antes que movendo roxo direita-remova.",
+        "Mantenha ciano 1 ancore intacto até esquerda trilho solta de 27 para 25.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Puxe inferior verde vertical peça de bandeja em esquerda 20 quadrante usando verde esquerda-seta."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Quebre ciano 1 peça em centro aglomerado sem dividindo vermelho chão barra."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Alimente azul/amarelo recortes em direita 23 quadrante uma vez esquerda trilho solta de 27 para 25."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Gaste inferior bandeja fileira — verde, azul, amarelo, roxo — para solte moldura para 18/21/2/10."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Quebre amarelo poliminó em centro depois 2 e 10 inferior contadores limpar."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Limpar azul vertical 6 bloco para abra direita 10 bolso."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Roteie último roxo remova através vermelho direita-seta pista para glowing centro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando roxo direita-remova antes que amarelo poliminó quebra, vedando vermelho direita-seta pista.",
+        "Dividindo vermelho chão barra enquanto ciano 1 peça é ainda trancado, wasting primeiro bandeja alimente."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/149/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 149 do Block Out",
+    "description": "Resolva o nível 149 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

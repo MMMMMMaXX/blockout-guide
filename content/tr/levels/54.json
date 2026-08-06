@@ -1,0 +1,97 @@
+{
+  "id": "tr-level-54",
+  "locale": "tr",
+  "levelNumber": 54,
+  "title": "Block Out Seviye 54 Rehberi",
+  "summary": "Block Out Seviye 54 bir 'zor Level' ile dört mor ana blok odalar — sayaçlar '3' ve '11' üstde, '6' ve '19' altdadır. Odalar sıkıştırılmış tightly ile dar boşluklar arasında onları. temizle küçük renkli bloklar arasında oda...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/54/",
+        "layout": "Block Out Seviye 54 bir 'zor Level' ile dört mor ana blok odalar — sayaçlar '3' ve '11' üstde, '6' ve '19' altdadır. Odalar sıkıştırılmış tightly ile dar boşluklar arasında onları. temizle küçük renkli bloklar arasında odalar ilk, sonra boşalt alt odalar önce tackling üst ones. '19' oda heaviest — sakla o için sonra çevreleyerek odalar açıldı yukarı alan.",
+        "landmarks": [
+          "Block Out Seviye 54 bir 'zor Level' ile dört mor ana blok odalar — sayaçlar '3' ve '11' üstde, '6' ve '19' altdadır.",
+          "Odalar sıkıştırılmış tightly ile dar boşluklar arasında onları.",
+          "Temizle küçük renkli bloklar arasında odalar ilk, sonra boşalt alt odalar önce tackling üst ones.",
+          "'19' oda heaviest — sakla o için sonra çevreleyerek odalar açıldı yukarı alan."
+        ],
+        "colors": ["purple", "yellow", "red", "green", "blue", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L5ZASjXL-Co",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L5ZASjXL-Co",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Temizle küçük renkli bloklar arasında odalar ilk — onlar anahtar açarak kaydıraraka paths.",
+        "'19' oda marathon. temizle daha küçük odalar ilk inşa et alan, sonra chip uzakta o.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle sarı bloklar sol yanda açık boşluka arasında üst-sol ve alt-sol odalar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Kaydır kırmızı/turuncu bloklar merkezde açık boşluka arasında sol ve sağ odalar."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla boşaltarak alt-sol oda (sayaç '6') ile kaydırarak onun bloklar dışarı sol çıkışdan."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Çalış alt-sağ oda (sayaç '19') — temizle o gradually sırasında alt-sol ayrıca boşaltarak."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Hareket ettir üste-sol oda (sayaç '3') — o lightest ve meli temizle quickly."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Bitir ile üst-sağ oda (sayaç '11'), hangi çoğu alan sonra diğerleri boşaldı."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Temizle any kalan renkli bloklar tuzağa düştü arasında boşaldı odalar."
+        }
+      ],
+      "failurePoints": [
+        "Boşaltarak bir oda completely önce dokunarak diğerleri — bu removes kaydırarak duvarlar ve sıkışır kalan odalar.",
+        "Tackling '19' oda ilk ne zaman çevreleyerek alan hâlâ sıkıştırılmış — o gerektirir alan maneuvera."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/54/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 54 Rehberi ve Çözümü",
+    "description": "Block Out seviye 54'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

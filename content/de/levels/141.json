@@ -1,0 +1,96 @@
+{
+  "id": "de-level-141",
+  "locale": "de",
+  "levelNumber": 141,
+  "title": "Block Out Level 141 Lösung",
+  "summary": "Block Out Level 141 ist T-shaped keyhole Spielfeld where chained rot überqueren Blöcke Mitte und numbered pockets surround grün plus überqueren dass muss sein built und dann geräumt. Kette breaks durch spending `9` und `8` Seite Zähler,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/141/",
+        "layout": "Block Out Level 141 ist T-shaped keyhole Spielfeld where chained rot überqueren Blöcke Mitte und numbered pockets surround grün plus überqueren dass muss sein built und dann geräumt. Kette breaks durch spending `9` und `8` Seite Zähler, aber unten padlock stays closed bis grün überqueren exits durch Seite Pfeil lanes. Räumen überqueren bevor beide Zähler beenden und padlock seals permanently.",
+        "landmarks": [
+          "Block Out Level 141 ist T-shaped keyhole Spielfeld where chained rot überqueren Blöcke Mitte und numbered pockets surround grün plus überqueren dass muss sein built und dann geräumt.",
+          "Kette breaks durch spending `9` und `8` Seite Zähler, aber unten padlock stays closed bis grün überqueren exits durch Seite Pfeil lanes.",
+          "Räumen überqueren bevor beide Zähler beenden und padlock seals permanently."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "cFfUvNFciK4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=cFfUvNFciK4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Break chained rot überqueren bevor forming grün plus überqueren — reversing dass Reihenfolge seals rechts 8 Bahn.",
+        "Spend links 9 pocket bevor räumend rechts 8 arm.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Abziehen oben blau Reihe und break chained rot überqueren in obere überqueren section ohne touching untere 2/2/2 Reihe."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Ansteuern erste obere scraps durch lila links-Pfeil Bahn zu expose links 9 pocket."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Spend links 9 Zähler durch sliding Blöcke ab links arm, dann räumen rechts 8 pocket durch grün rechts-Pfeil Bahn."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Form grün plus überqueren in Mitte band und abgleichen surrounding rot und gelb Blöcke around es."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Räumen 2/2/2 Reihe über untere base once Seite Zähler hit zero."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Hinausführen remaining blau und rot scraps runter durch unten padlock Ausgang."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "Räumen letzte grün überqueren scraps für hinaus! Spielfeld räumen."
+        }
+      ],
+      "failurePoints": [
+        "Sliding gelb Seite Blöcke bevor chained rot überqueren breaks, sealing grün rechts-Pfeil Bahn.",
+        "Räumend 2/2/2 Reihe bevor 9 und 8 Seite Zähler sind spent."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/141/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 141 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 141 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

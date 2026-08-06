@@ -1,0 +1,91 @@
+{
+  "id": "tr-level-113",
+  "locale": "tr",
+  "levelNumber": 113,
+  "title": "Block Out Seviye 113 Rehberi",
+  "summary": "Block Out Seviye 113 istifler üç odalar vertically ile dar boyun arasında onları ki acts bir-şerit airlock. üst mavi çubuk sayaç ticks `7` aşağı `1`, tracking üst-oda progress, ve orta boyun sadece passes o...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "expert",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/113/",
+        "layout": "Block Out Seviye 113 istifler üç odalar vertically ile dar boyun arasında onları ki acts bir-şerit airlock. üst mavi çubuk sayaç ticks `7` aşağı `1`, tracking üst-oda progress, ve orta boyun sadece passes bir parça timede. döndür sarı 1×3 çubuk çok erken ve o seals sadece yol daha düşük odaya.",
+        "landmarks": [
+          "Block Out Seviye 113 istifler üç odalar vertically ile dar boyun arasında onları ki acts bir-şerit airlock.",
+          "Üst mavi çubuk sayaç ticks `7` aşağı `1`, tracking üst-oda progress, ve orta boyun sadece passes bir parça timede.",
+          "Döndür sarı 1×3 çubuk çok erken ve o seals sadece yol daha düşük odaya."
+        ],
+        "colors": ["purple", "blue", "green", "red", "orange", "yellow", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "U_6NFrNRpeI",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=U_6NFrNRpeI",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Orta boyun exactly bir şerit geniş — hiçbir şey ebilir otur sideways o.",
+        "Izle üst mavi çubuk sayaç; sarı 1×3 sadece hamleler sonra o düşer altında `4`.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Kaydır turuncu 1×2 çokgen aşağı doğru orta boyundan başla açarak üst `7` oda."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Tut sarı 1×3 yatay kadar üst mavi çubuk sayaç düşer `7` `4`."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle sarı 1×3 boyundan sonra üst mor `7` blok thins single sıraya."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Düşür kalan üst-oda debris boyundan airlock sırasında yan `7` pads hâlâ read açık."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Gönder yeşil L-parça ve mavi L-küme boyundan daha düşük `1` oda."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle daha düşük mor `1` blok yandan `3` ve `4` pads, sonra çıkış kırmızı L-parça altda."
+        }
+      ],
+      "failurePoints": [
+        "Döndürerek sarı 1×3 önce üst sayaç düşer altında `4`, hangi seals boyun.",
+        "Besleyerek daha düşük `1` oda önce üst `7` blok fully boşaldı."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/113/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 113 Rehberi ve Çözümü",
+    "description": "Block Out seviye 113'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

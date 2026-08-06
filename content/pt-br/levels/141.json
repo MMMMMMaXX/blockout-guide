@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-level-141",
+  "locale": "pt-br",
+  "levelNumber": 141,
+  "title": "Guia do nível 141 do Block Out",
+  "summary": "O nível 141 do Block Out é um tabuleiro com fechadura em forma de T onde uma cruz vermelha acorrentada bloqueia o centro e bolsos numerados cercam uma cruz verde em formato de mais que deve ser construída e depois limpa. A corrente se quebra gastando os contadores laterais `9` e `8`,...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/141/",
+        "layout": "O nível 141 do Block Out é um tabuleiro com fechadura em forma de T onde uma cruz vermelha acorrentada bloqueia o centro e bolsos numerados cercam uma cruz verde em formato de mais que deve ser construída e depois limpa. A corrente se quebra gastando os contadores laterais `9` e `8`, mas o cadeado inferior permanece fechado até que a cruz verde saia pelas pistas de seta lateral. Limpe a cruz antes que ambos os contadores terminem ou o cadeado veda permanentemente.",
+        "landmarks": [
+          "O nível 141 do Block Out é um tabuleiro com fechadura em forma de T onde uma cruz vermelha acorrentada bloqueia o centro e bolsos numerados cercam uma cruz verde em formato de mais que deve ser construída e depois limpa.",
+          "Corrente quebra por gastando `9` e `8` lateral contadores, mas inferior cadeado permanece fechado até verde cruz saídas através lateral seta pistas.",
+          "Limpar cruz antes que ambos contadores termine e cadeado selos permanentemente."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "cFfUvNFciK4",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=cFfUvNFciK4",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Quebre chained vermelho cruz antes que forming verde mais cruz — reversing que ordem selos direita 8 pista.",
+        "Gaste esquerda 9 bolso antes que limpando direita 8 braço.",
+        "Pense em corrente limpa. melhor mova é um que define cima próximo dois movimentos, não apenas mais rápido atual correspondência."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Descasque superior azul fileira e quebre chained vermelho cruz em superior cruz seção sem tocando inferior 2/2/2 fileira."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Roteie primeiro superior recortes através roxo esquerda-seta pista para exponha esquerda 9 bolso."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Gaste esquerda 9 contador por deslizando blocos off esquerda braço, então limpar direita 8 bolso através verde direita-seta pista."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Form verde mais cruz em centro faixa e correspondência circundante vermelho e amarelo blocos ao redor ele."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Limpar 2/2/2 fileira através inferior base uma vez lateral contadores hit zero."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Alimente restante azul e vermelho recortes baixo através inferior cadeado saída."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Limpar último verde cruz recortes para Para fora! tabuleiro limpar."
+        }
+      ],
+      "failurePoints": [
+        "Deslizando amarelo lateral blocos antes que chained vermelho cruz quebra, vedando verde direita-seta pista.",
+        "Limpando 2/2/2 fileira antes que 9 e 8 lateral contadores são spent."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/141/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 141 do Block Out",
+    "description": "Resolva o nível 141 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

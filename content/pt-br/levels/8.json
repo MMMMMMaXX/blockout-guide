@@ -1,0 +1,98 @@
+{
+  "id": "pt-br-level-8",
+  "locale": "pt-br",
+  "levelNumber": 8,
+  "title": "Guia do nível 8 do Block Out",
+  "summary": "Block Out Nível 8 hides enorme vermelho laje em inferior-direita bem. Funciona verde, branco, e preto mini-blocos através superior e direita contadores primeiro, então use aberto corredor para finalmente mova vermelho laje.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/8/",
+        "layout": "Block Out Nível 8 hides enorme vermelho laje em inferior-direita bem. Funciona verde, branco, e preto mini-blocos através superior e direita contadores primeiro, então use aberto corredor para finalmente mova vermelho laje.",
+        "landmarks": [
+          "Block Out Nível 8 hides enorme vermelho laje em inferior-direita bem.",
+          "Funciona verde, branco, e preto mini-blocos através superior e direita contadores primeiro, então use aberto corredor para finalmente mova vermelho laje.",
+          "Tabuleiro mistura Vermelho, Verde, Branco e mais.",
+          "Abertura layout é cor-ordene grade.",
+          "Limpar correspondido peças para termine nível."
+        ],
+        "colors": ["red", "green", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "rktIjrmOjTs",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=rktIjrmOjTs",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Superior corredor matters mais do que gigante vermelho laje em comece.",
+        "Mantenha direita-lateral meter caindo enquanto superior tampa é também encolhendo.",
+        "Se tabuleiro sente preso, olhe para cor com mais limpo caminho e use que para recupere espaço."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Movimento 1",
+          "instruction": "Empurre superior-direita branco e preto par em direita-lateral quota pista para comece encolhendo `9` meter."
+        },
+        {
+          "order": 2,
+          "title": "Movimento 2",
+          "instruction": "Gire superior verde mini-blocos através superior corredor so `17` tampa e direita meter mantenha soltando juntos."
+        },
+        {
+          "order": 3,
+          "title": "Movimento 3",
+          "instruction": "Use estreito centro caule para pass próximo branco bloco para baixo e mantenha superior-direita coluna de refilling."
+        },
+        {
+          "order": 4,
+          "title": "Movimento 4",
+          "instruction": "Continue trimming preto-e-verde aglomerado até direita coluna é almost vazio e lateral meter é quase exhausted."
+        },
+        {
+          "order": 5,
+          "title": "Movimento 5",
+          "instruction": "Uma vez superior corredor abre, desloque restante pequeno peças de lado so vermelho laje tem limpo vertical pista."
+        },
+        {
+          "order": 6,
+          "title": "Movimento 6",
+          "instruction": "Deslize grande vermelho rectangle para cima e através em direção a vermelho saída em esquerda parede."
+        },
+        {
+          "order": 7,
+          "title": "Movimento 7",
+          "instruction": "Termine por alimentando último verde mini-bloco através superior verde termine depois quotas tem totalmente limpo."
+        }
+      ],
+      "failurePoints": [
+        "Tentando para mova oversized vermelho laje antes que superior corredor é principalmente vazio.",
+        "Ignorando direita quota pista e único working superior tampa."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/8/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guia e solução do nível 8 do Block Out",
+    "description": "Resolva o nível 8 do Block Out com a correspondência de tabuleiro verificada, o guia integrado, movimentos passo a passo e os pontos de falha comuns."
+  },
+  "updatedAt": "2026-08-03"
+}

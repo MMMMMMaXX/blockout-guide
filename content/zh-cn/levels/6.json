@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-6",
+  "locale": "zh-cn",
+  "levelNumber": 6,
+  "title": "Block Out 第 6 关通关攻略",
+  "summary": "Block Out 第 6 关是首个分阶段出口的棋盘。先清掉右侧的配额，让顶部两个 `9` 封顶计数同步缩减，把红色和黄色收尾长条留到顶部出口解冻时再用。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "medium",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/6/",
+        "layout": "Block Out 第 6 关是首个分阶段出口的棋盘。先清掉右侧的配额，让顶部两个 `9` 封顶计数同步缩减，把红色和黄色收尾长条留到顶部出口解冻时再用。",
+        "landmarks": [
+          "Block Out 第 6 关是首个分阶段出口的棋盘。",
+          "先清掉右侧的配额，让顶部两个 `9` 封顶计数同步缩减，把红色和黄色收尾长条留到顶部出口解冻时再用。",
+          "棋盘上混合了红色、黄色、白色等颜色。",
+          "开局布局是一张颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "yellow", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "aLtIQO7_pDk",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=aLtIQO7_pDk",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "右侧的 `4` 计数器是首个目标。",
+        "在侧边通道打开之前，让下层的红色和黄色长条保持闲置。",
+        "如果棋盘卡住了，找一条路径最通畅的颜色，用它来重新腾出空间。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "把右上角的白色堆叠滑入右上通道，使其开始冲击右侧的配额列。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "利用中间的白色桥，持续喂给右侧计数器，直到它从 `4` 降到接近 `1`。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "让顶部的黑色阻挡块和上方的白色方块穿过两个 `9` 计数器，使两个顶部封顶同步缩减。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "在棋盘格中心还在做配额工作时，让下层的红色长条和右下角的黄色长条保持停靠。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "右侧墙打开成白色释放通道后，把最后一块上方白色方块剥离出去，完成顶部倒计时。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "当冻结的封顶转换为彩色出口后，把黄色长条送到右上角的出口。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "最后把最后一根红色长条送到左上角的红色出口。"
+        }
+      ],
+      "failurePoints": [
+        "在右侧计数器几乎坍塌之前，就动用下层的红色或黄色长条。",
+        "只缩减其中一个顶部 `9` 封顶，而让另一个保持冻结。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/6/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 6 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 6 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

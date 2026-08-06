@@ -1,0 +1,92 @@
+{
+  "id": "tr-level-64",
+  "locale": "tr",
+  "levelNumber": 64,
+  "title": "Block Out Seviye 64 Rehberi",
+  "summary": "Block Out Seviye 64 bir Quadrant-çerçeve bulmacadır. Turuncu çerçeve borders divide tahta dörte odalar — üç doldu ile massive mor numaralı bloklar (sayaçlar 4, 12, ve 7), ve bir sıkıştırılmış ile küçük renkli bloklar. küçük blok...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/64/",
+        "layout": "Block Out Seviye 64 bir Quadrant-çerçeve bulmacadır. Turuncu çerçeve borders divide tahta dörte odalar — üç doldu ile massive mor numaralı bloklar (sayaçlar 4, 12, ve 7), ve bir sıkıştırılmış ile küçük renkli bloklar. küçük bloklar üst-sağ quadrant sadece parçalar ki ebilir hareket ettir başlada. temizle onları ilk açık üst yarıya, sonra besle mor bloklar onların çıkışlardan ascendingde sayaç sıra.",
+        "landmarks": [
+          "Block Out Seviye 64 bir Quadrant-çerçeve bulmacadır.",
+          "Turuncu çerçeve borders divide tahta dörte odalar — üç doldu ile massive mor numaralı bloklar (sayaçlar 4, 12, ve 7), ve bir sıkıştırılmış ile küçük renkli bloklar.",
+          "Küçük bloklar üst-sağ quadrant sadece parçalar ki ebilir hareket ettir başlada.",
+          "Temizle onları ilk açık üst yarıya, sonra besle mor bloklar onların çıkışlardan ascendingde sayaç sıra."
+        ],
+        "colors": ["purple", "green", "yellow", "blue", "red", "orange"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "gKBANgKGy-w",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=gKBANgKGy-w",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Üst-sağ quadrant senin sadece lever başlada — extract every küçük blok orada ilk.",
+        "Besle mor bloklar ascendingde sayaç sıra: '4' ilk, sonra '7', sonra '12'.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Extract küçük renkli bloklar üst-sağ quadrant üstden ve sağ çıkışlar."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Temizle sayaç '2' blok üst tahtada."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Besle üst-sol mor blok (sayaç '4') onun çıkışdan sonra üst yarı açılır."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Kullan serbest bırakıldı üst alan başla hareket ettirerek daha düşük-sağ mor blok (sayaç '7')."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Çalış massive daha düşük-sol mor blok (sayaç '12') son — o gerektirir çoğu alan."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Temizle any kalan renkli parçalar sonra mor bloklar gitti."
+        }
+      ],
+      "failurePoints": [
+        "Deneyerek hareket ettir mor blok önce üst-sağ quadrant temizlendi — turuncu çerçeveler engelle o.",
+        "Bırakarak sayaç '12' blok kadar son olmadan oluşturarak enough çıkış şerit width ilk."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/64/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 64 Rehberi ve Çözümü",
+    "description": "Block Out seviye 64'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zh-cn-level-29",
+  "locale": "zh-cn",
+  "levelNumber": 29,
+  "title": "Block Out 第 29 关通关攻略",
+  "summary": "Block Out 第 29 关是一个双 Boss 脊柱棋盘。先剥离中央红黑白阶梯，再降低两侧 Boss 列，最后才旋转后期的红色、黄色、蓝色和绿色迷宫方块。",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/29/",
+        "layout": "Block Out 第 29 关是一个双 Boss 脊柱棋盘。先剥离中央红黑白阶梯，再降低两侧 Boss 列，最后才旋转后期的红色、黄色、蓝色和绿色迷宫方块。",
+        "landmarks": [
+          "Block Out 第 29 关是一个双 Boss 脊柱棋盘。",
+          "先剥离中央红黑白阶梯，再降低两侧 Boss 列，最后才旋转后期的红色、黄色、蓝色和绿色迷宫方块。",
+          "棋盘混合了红色、黑色、白色等多种颜色。",
+          "开局布局是一个颜色分类网格。",
+          "清空匹配的方块即可完成本关。"
+        ],
+        "colors": ["red", "black", "white", "yellow", "blue", "green", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ZFQ4K-I4pYg",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ZFQ4K-I4pYg",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "中央脊柱是第一阶段。",
+        "后期的迷宫只有在两侧都开始打开后才重要。",
+        "以连锁清空来思考。最佳的一步是能为接下来两步铺路的那一步，而不只是当前最快的匹配。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "第 1 步",
+          "instruction": "剥离中央红黑白脊柱，让两侧 Boss 同时开始失去支撑。"
+        },
+        {
+          "order": 2,
+          "title": "第 2 步",
+          "instruction": "在共享计数器仍然很高时，让侧列基本保持停驻。"
+        },
+        {
+          "order": 3,
+          "title": "第 3 步",
+          "instruction": "只有在中央通道明显变窄后，才降低左右两侧带框的 Boss。"
+        },
+        {
+          "order": 4,
+          "title": "第 4 步",
+          "instruction": "当 Boss 打开时，将后期的红色、黄色、蓝色和绿色迷宫方块旋转进新出现的口袋。"
+        },
+        {
+          "order": 5,
+          "title": "第 5 步",
+          "instruction": "在中央不再是一道墙时，让顶部计数器继续下落。"
+        },
+        {
+          "order": 6,
+          "title": "第 6 步",
+          "instruction": "利用后期的绿色形状，阻止侧边通道重新填满。"
+        },
+        {
+          "order": 7,
+          "title": "第 7 步",
+          "instruction": "在两个侧边 Boss 都已坍塌后，完成迷宫。"
+        }
+      ],
+      "failurePoints": [
+        "在中央脊柱打开之前就试图解决某一侧 Boss。",
+        "在侧列开始落下后，忽略后期的迷宫结构。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/29/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out 第 29 关通关攻略与解法",
+    "description": "通过已核验的棋盘匹配、内嵌通关视频、分步走法以及常见失败点，轻松通关 Block Out 第 29 关。"
+  },
+  "updatedAt": "2026-08-03"
+}

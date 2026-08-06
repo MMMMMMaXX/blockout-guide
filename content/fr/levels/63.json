@@ -1,0 +1,92 @@
+{
+  "id": "fr-level-63",
+  "locale": "fr",
+  "levelNumber": 63,
+  "title": "Guide Block Out Niveau 63",
+  "summary": "Block Out Niveau 63 crams plateau avec oversized LEGO blocs — L-shapes, haut rectangles, et large carrés — all interlocked avec compteur numéros haut à 11. opening strategy est bord-pelez: extract blocs vert de supérieur droit...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/63/",
+        "layout": "Block Out Niveau 63 crams plateau avec oversized LEGO blocs — L-shapes, haut rectangles, et large carrés — all interlocked avec compteur numéros haut à 11. opening strategy est bord-pelez: extract blocs vert de supérieur droit et jaune '11' bloc de supérieur gauche. Une fois bords amincissez, interlocked centre (carré rouge, L bleu-shape, blocs violet) peut finally être separated. L bleu-pièce sur le côté droit needs most clearance et usually leaves dernier.",
+        "landmarks": [
+          "Block Out Niveau 63 crams plateau avec oversized LEGO blocs — L-shapes, haut rectangles, et large carrés — all interlocked avec compteur numéros haut à 11.",
+          "Opening strategy est bord-pelez: extract blocs vert de supérieur droit et jaune '11' bloc de supérieur gauche.",
+          "Une fois bords amincissez, interlocked centre (carré rouge, L bleu-shape, blocs violet) peut finally être separated.",
+          "L bleu-pièce sur le côté droit needs most clearance et usually leaves dernier."
+        ],
+        "colors": ["yellow", "green", "red", "blue", "orange", "violet", "cyan"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "AGIVDbPtQaA",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=AGIVDbPtQaA",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Always amincissez bords avant touching le centre — one faux centre déplacez verrous plateau.",
+        "Bleu en forme de L pièce sur le côté droit needs most clearance et doit quittez tardif.",
+        "Pensez en dégagements en chaîne. Le meilleur coup est celui qui prépare les deux coups suivants, et pas seulement la correspondance actuelle la plus rapide."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Coup 1",
+          "instruction": "Tirez les blocs vert de supérieur droit à travers la sortie supérieure."
+        },
+        {
+          "order": 2,
+          "title": "Coup 2",
+          "instruction": "Glissez jaune '11' bloc leftward vers son sortie à libérez supérieur gauche."
+        },
+        {
+          "order": 3,
+          "title": "Coup 3",
+          "instruction": "Décalez les blocs orange sur le bord gauche bas une fois supérieur coin opens."
+        },
+        {
+          "order": 4,
+          "title": "Coup 4",
+          "instruction": "Extract le carré rouge de le centre-gauche une fois assez bord espace exists."
+        },
+        {
+          "order": 5,
+          "title": "Coup 5",
+          "instruction": "Acheminez le L bleu-shape sur le côté droit hors — il needs most clearance."
+        },
+        {
+          "order": 6,
+          "title": "Coup 6",
+          "instruction": "Terminez avec restant violet et blocs cyan une fois le centre est ouvrez."
+        }
+      ],
+      "failurePoints": [
+        "Déplaçant centre bloc avant bords sont thinned — interlocked pièces jam instantly.",
+        "Essayant à extract le L bleu-shape tôt quand là est pas assez vertical et horizontal salle."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/63/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Guide et Solution Block Out Niveau 63",
+    "description": "Résolvez le niveau 63 de Block Out grâce à la correspondance de plateau vérifiée, la solution intégrée, les coups étape par étape et les points d'échec courants."
+  },
+  "updatedAt": "2026-08-03"
+}

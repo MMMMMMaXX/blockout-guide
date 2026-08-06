@@ -1,0 +1,96 @@
+{
+  "id": "tr-level-32",
+  "locale": "tr",
+  "levelNumber": 32,
+  "title": "Block Out Seviye 32 Rehberi",
+  "summary": "Block Out Seviye 32 bir Symmetrical çerçeve-breaking bulmacadır. Uzun kırmızı blok formation şekilli like hollow rectangle dominates merkez, held yerleştirde ile camgöbeği `2`-sayaç bloklar her ikisi de yanlar ve sarı `6` tavan üstde. çöz requ...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/32/",
+        "layout": "Block Out Seviye 32 bir Symmetrical çerçeve-breaking bulmacadır. Uzun kırmızı blok formation şekilli like hollow rectangle dominates merkez, held yerleştirde ile camgöbeği `2`-sayaç bloklar her ikisi de yanlar ve sarı `6` tavan üstde. çöz gerektirir bile reduction her ikisi de flanks: temizle camgöbeği sayaçlar ilk, soy dış kırmızı sütunlar, ve sadece sonra düşür sarı tavan sonra kırmızı structure zaten loosened.",
+        "landmarks": [
+          "Block Out Seviye 32 bir Symmetrical çerçeve-breaking bulmacadır.",
+          "Uzun kırmızı blok formation şekilli like hollow rectangle dominates merkez, held yerleştirde ile camgöbeği `2`-sayaç bloklar her ikisi de yanlar ve sarı `6` tavan üstde.",
+          "Çöz gerektirir bile reduction her ikisi de flanks: temizle camgöbeği sayaçlar ilk, soy dış kırmızı sütunlar, ve sadece sonra düşür sarı tavan sonra kırmızı structure zaten loosened."
+        ],
+        "colors": ["red", "cyan", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "72roZc-E4P8",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=72roZc-E4P8",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Izle symmetry — eğer bir flank kırmızı formation bakar thicker diğer, equalize önce continuing.",
+        "Sarı `6` tavan keystone, değil opener. o düşer sadece sonra kırmızı sütunlar underneath thinned.",
+        "Zincir temizliklerle düşün. En iyi hamle, sadece en hızlı mevcut eşleşme değil, sonraki iki hamleyi hazırlayan hamledir."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Hamle 1",
+          "instruction": "Temizle sol camgöbeği `2`-sayaç blok açık ince şerite sol flankda kırmızı formation."
+        },
+        {
+          "order": 2,
+          "title": "Hamle 2",
+          "instruction": "Mirror ki ile temizleyerek sağ camgöbeği `2`-sayaç blok böylece her ikisi de flanks kırmızı kütle açığa çıktı."
+        },
+        {
+          "order": 3,
+          "title": "Hamle 3",
+          "instruction": "Başla soyarak dış kırmızı sütunlar her ikisi de kenarlar şimdi ki yan şeritler exist."
+        },
+        {
+          "order": 4,
+          "title": "Hamle 4",
+          "instruction": "Bırak sarı `6` tavan üst başlada lowering kırmızı sütunlar underneath ince dışarı."
+        },
+        {
+          "order": 5,
+          "title": "Hamle 5",
+          "instruction": "Continue alternating sol ve sağ kırmızı sütun çalış tuta formation balanced."
+        },
+        {
+          "order": 6,
+          "title": "Hamle 6",
+          "instruction": "Sonra kırmızı kütle çoğunlukla ayrıldı, besle serbest bırakıldı parçalar yandan çıkışlar ve alt sarı ok."
+        },
+        {
+          "order": 7,
+          "title": "Hamle 7",
+          "instruction": "Bitir ile sarı tavan ve son iç kırmızı bloklar sonra çerçeve kırıldı."
+        }
+      ],
+      "failurePoints": [
+        "Overworking bir yan kırmızı formation sırasında diğer kalır intact — kırmızı kütle shifts duvara undevelopedda yan ve kilitlenir tahta.",
+        "Deneyerek kaldır sarı `6` tavan önce kırmızı sütunlar underneath thinned enough, hangi sadece reseals merkez."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/32/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Seviye 32 Rehberi ve Çözümü",
+    "description": "Block Out seviye 32'i doğrulanmış tahta eşleşmesi, gömülü anlatım, adım adım hamleler ve yaygın hata noktalarıyla çözün."
+  },
+  "updatedAt": "2026-08-03"
+}

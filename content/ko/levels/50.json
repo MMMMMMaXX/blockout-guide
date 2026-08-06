@@ -1,0 +1,96 @@
+{
+  "id": "ko-level-50",
+  "locale": "ko",
+  "levelNumber": 50,
+  "title": "블록 아웃 레벨 50 공략",
+  "summary": "블록 아웃 레벨 50은 방향 슬라이더 피날레이며 — 보스, 카운터, 장치가 없습니다. 세 열에 빽빽히 들어찬 큰 화살표 블록은 화살표가 가리키는 방향으로만 밀릴 수 있습니다. 파란색과 노란색 막대는 위로, 초록색 블록은 아래로, 빨...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/50/",
+        "layout": "블록 아웃 레벨 50은 방향 슬라이더 피날레이며 — 보스, 카운터, 장치가 없습니다. 세 열에 빽빽히 들어찬 큰 화살표 블록은 화살표가 가리키는 방향으로만 밀릴 수 있습니다. 파란색과 노란색 막대는 위로, 초록색 블록은 아래로, 빨간색 막대는 왼쪽이나 오른쪽으로, 보라색 밀개가 가장자리를 채웁니다. 해결은 경로 순서에 관한 것입니다. 먼저 한 세로 차선을 비우고, 빨간색 가로 막대를 (장애물이 아닌) 교통 통제대로 사용하며, 큰 막대가 사라진 후를 위해 초록색과 보라색 조각을 남겨두세요.",
+        "landmarks": [
+          "블록 아웃 레벨 50은 방향 슬라이더 피날레이며 — 보스, 카운터, 장치가 없습니다.",
+          "세 열에 빽빽히 들어찬 큰 화살표 블록은 화살표가 가리키는 방향으로만 밀릴 수 있습니다. 파란색과 노란색 막대는 위로, 초록색 블록은 아래로, 빨간색 막대는 왼쪽이나 오른쪽으로, 보라색 밀개가 가장자리를 채웁니다.",
+          "해결은 경로 순서에 관한 것입니다. 먼저 한 세로 차선을 비우고, 빨간색 가로 막대를 (장애물이 아닌) 교통 통제대로 사용하며, 큰 막대가 사라진 후를 위해 초록색과 보라색 조각을 남겨두세요."
+        ],
+        "colors": ["blue", "yellow", "green", "red", "purple"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "ekJAfbEYe6o",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=ekJAfbEYe6o",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "빨간색 가로 막대는 장애물이 아닌 교통 통제대입니다 — 세로 막대가 거의 사라질 때까지 하나를 비축해 두세요.",
+        "먼저 한 긴 세로 차선을 비우세요. 두 빨간색 막대를 즉시 모두 제거하지 마세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "파란색이나 노란색 막대 하나를 위로 밀어내어 첫 긴 세로 차선을 비우세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "그 열린 차선을 사용해 다른 노란색이나 파란색 화살표 블록을 쌓인 곳에서 옮기세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "첫 빨간색 가로 막대가 빠져나가는 동안 오른쪽이 과도하게 차지 않게 하세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "첫쪽이 진정된 후에만 두 번째 긴 차선을 여세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "세로 차단 블록이 얇아진 후에 초록색 아래 화살표 블록을 해제하세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "큰 막대가 이미 사라진 후에야 보라색 밀개 블록을 나중에 사용하세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "공간이 거의 비면 마지막 빨간색이나 초록색 조각으로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "세로 차선이 준비되기 전에 두 빨간색 가로 막대를 제거하면 — 교통 통제가 사라지고 오른쪽이 과도하게 차게 됩니다.",
+        "위쪽 세로 막대가 비워지기 전에 초록색 아래 화살표 블록을 밀려 하면, 열이 막힙니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/50/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 50 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 50을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

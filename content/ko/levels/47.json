@@ -1,0 +1,97 @@
+{
+  "id": "ko-level-47",
+  "locale": "ko",
+  "levelNumber": 47,
+  "title": "블록 아웃 레벨 47 공략",
+  "summary": "블록 아웃 레벨 47은 왼쪽이 계단으로 내려가고 오른쪽이 직선 벽인 독특한 계단형 보드입니다. 숫자 카운터 `11`, `13`, `9`, `22`가 계단에 박혀 있습니다. 정상은 속임수입니다 — 보...",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/47/",
+        "layout": "블록 아웃 레벨 47은 왼쪽이 계단으로 내려가고 오른쪽이 직선 벽인 독특한 계단형 보드입니다. 숫자 카운터 `11`, `13`, `9`, `22`가 계단에 박혀 있습니다. 정상은 속임수입니다 — 보드는 오른쪽 차선과 경사면 중간에서 열립니다. 먼저 왼쪽 아래의 `9`를 제거하고, 중간 층을 벗겨내며, 오른쪽 아래의 `22`는 마지막으로 남기세요.",
+        "landmarks": [
+          "블록 아웃 레벨 47은 왼쪽이 계단으로 내려가고 오른쪽이 직선 벽인 독특한 계단형 보드입니다.",
+          "숫자 카운터 `11`, `13`, `9`, `22`가 계단에 박혀 있습니다.",
+          "정상은 속임수입니다 — 보드는 오른쪽 차선과 경사면 중간에서 열립니다.",
+          "먼저 왼쪽 아래의 `9`를 제거하고, 중간 층을 벗겨내며, 오른쪽 아래의 `22`는 마지막으로 남기세요."
+        ],
+        "colors": ["red", "blue", "green", "yellow", "pink"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "6sDa30CcvqE",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=6sDa30CcvqE",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "정상은 산만함의 원인입니다 — 레벨 47은 오른쪽 차선과 경사면 중간에서 열립니다.",
+        "오른쪽 아래의 `22`는 마지막 조각입니다. 중간 층이 사라질 때까지 건드리지 마세요.",
+        "연쇄 제거로 생각하세요. 최선의 수는 지금 가장 빠른 매치가 아니라 다음 두 수를 준비하는 것입니다."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "첫 공간을 만들려면 왼쪽 아래의 `9` 카운터를 제거하세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "오른쪽 장치 차선을 열고 그 카운트를 낮추세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "정상이 아닌 중간에서 계단을 벗겨내세요 — `11`과 `13` 블록을."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "아래쪽이 비워질 때까지 계단의 위쪽 끝은 그대로 두세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "열린 빈 공간을 통해 아래쪽 색상 조각을 회전시키세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "중간이 거의 사라진 후에만 오른쪽 아래의 `22` 카운터를 줄이세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "계단 위쪽 끝과 마지막 측면 정리로 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "계단 맨 위에서 시작하면, 아래 차선이 막힌 채로 남아 유일하게 쓸모 있는 경로를 낭비합니다.",
+        "`11`과 `13`인 중간 층이 사라지기 전에 `22` 카운터를 줄이려 하면, 무거운 조각이 움직일 공간이 남지 않습니다."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/47/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 47 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 47을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

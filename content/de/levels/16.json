@@ -1,0 +1,98 @@
+{
+  "id": "de-level-16",
+  "locale": "de",
+  "levelNumber": 16,
+  "title": "Block Out Level 16 Lösung",
+  "summary": "Block Out Level 16 ist staircase support Puzzle. Soften untere shelf und rechte Wand erste, collapse schwarz diagonal bei sein base, und nur dann freigeben hoch rot und gelb bars von obere rechte climb.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/16/",
+        "layout": "Block Out Level 16 ist staircase support Puzzle. Soften untere shelf und rechte Wand erste, collapse schwarz diagonal bei sein base, und nur dann freigeben hoch rot und gelb bars von obere rechte climb.",
+        "landmarks": [
+          "Block Out Level 16 ist staircase support Puzzle.",
+          "Soften untere shelf und rechte Wand erste, collapse schwarz diagonal bei sein base, und nur dann freigeben hoch rot und gelb bars von obere rechte climb.",
+          "Das Spielfeld mixes Rot, Gelb, Weiß und mehr.",
+          "Das Eröffnungs-Layout ist ein Farb-Sortier-Raster.",
+          "Räume passende Kacheln, um das Level abzuschließen."
+        ],
+        "colors": ["red", "yellow", "white", "black", "blue"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "xBoSF7SF6j0",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=xBoSF7SF6j0",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "Untere shelf ist real opener.",
+        "Schwarz staircase hat zu break von unterhalb.",
+        "Denke in Ketten-Räumungen. Der beste Zug ist der, der die nächsten zwei Züge vorbereitet, nicht nur der schnellste aktuelle Abgleich."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "Zug 1",
+          "instruction": "Hinausführen untere weiß cluster in rechts countdown Bahn zu starten shrinking `12` Wand."
+        },
+        {
+          "order": 2,
+          "title": "Zug 2",
+          "instruction": "Drehen kurz unten rot und gelb Bauteile also schwarz staircase loses sein untere support."
+        },
+        {
+          "order": 3,
+          "title": "Zug 3",
+          "instruction": "Behalten hoch rot Ecke bar und inner gelb Spalte geparkt while unten Zähler behalten dropping."
+        },
+        {
+          "order": 4,
+          "title": "Zug 4",
+          "instruction": "Once schwarz steps begin zu collapse, öffnen shelf enough für hoch gelb Spalte zu schieben nach unten."
+        },
+        {
+          "order": 5,
+          "title": "Zug 5",
+          "instruction": "Verwenden new gap zu verschieben hoch rot bar weg von Ecke ohne trapping remaining schwarz Blöcke."
+        },
+        {
+          "order": 6,
+          "title": "Zug 6",
+          "instruction": "Beenden staircase cleanup erste."
+        },
+        {
+          "order": 7,
+          "title": "Zug 7",
+          "instruction": "End mit hoch gelb und rot bars nach shelf und rechte Wand sind bereits flat."
+        }
+      ],
+      "failurePoints": [
+        "Versuchen zu spend one von hoch Ecke bars bevor untere shelf ist öffnen.",
+        "Working nur auf obere rechte climb und ignoring shelf Zähler."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/16/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "Block Out Level 16 Lösung und Anleitung",
+    "description": "Lösen Block Out Level 16 mit verifiziert Spielfeld-Abgleich, eingebettetes Lösungsvideo, Schritt für Schritt Züge, und häufig Fehlerpunkte."
+  },
+  "updatedAt": "2026-08-03"
+}

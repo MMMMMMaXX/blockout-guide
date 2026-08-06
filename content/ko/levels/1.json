@@ -1,0 +1,98 @@
+{
+  "id": "ko-level-1",
+  "locale": "ko",
+  "levelNumber": 1,
+  "title": "블록 아웃 레벨 1 공략",
+  "summary": "블록 아웃 레벨 1은 세 칸짜리 회전 퍼즐입니다. 검은색을 왼쪽으로 옮기고, 흰색을 오른쪽 위 모서리로 들어 올린 뒤, 빨간색을 옆으로 밀어낸 다음, 흰색·검은색·빨간색 순으로 빠져나가게 하세요.",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "easy",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/1/",
+        "layout": "블록 아웃 레벨 1은 세 칸짜리 회전 퍼즐입니다. 검은색을 왼쪽으로 옮기고, 흰색을 오른쪽 위 모서리로 들어 올린 뒤, 빨간색을 옆으로 밀어낸 다음, 흰색·검은색·빨간색 순으로 빠져나가게 하세요.",
+        "landmarks": [
+          "블록 아웃 레벨 1은 세 칸짜리 회전 퍼즐입니다.",
+          "검은색을 왼쪽으로 옮기고, 흰색을 오른쪽 위 모서리로 들어 올린 뒤, 빨간색을 옆으로 밀어낸 다음, 흰색·검은색·빨간색 순으로 빠져나가게 하세요.",
+          "보드는 빨간색, 흰색, 검은색 등을 섞어 구성되어 있습니다.",
+          "초기 배치는 색상 정렬 그리드입니다.",
+          "일치하는 타일을 제거하여 레벨을 완료하세요."
+        ],
+        "colors": ["red", "white", "black"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "L_jgbZtdv2A",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=L_jgbZtdv2A",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "흰색의 주차 공간으로 오른쪽 위 모서리를 사용하세요.",
+        "흰색이 이미 왼쪽을 지나기 전까지는 빨간색을 위로 보내지 마세요.",
+        "보드가 막힌 듯하면 가장 깨끗한 경로를 가진 색상을 찾아 공간을 확보하세요."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "이동 1",
+          "instruction": "검은색 사각형을 왼쪽으로 밀어 빨간색 상단 출구 바로 아래에 놓으세요."
+        },
+        {
+          "order": 2,
+          "title": "이동 2",
+          "instruction": "흰색 사각형을 오른쪽 위 모서리로 들어 올리세요."
+        },
+        {
+          "order": 3,
+          "title": "이동 3",
+          "instruction": "빨간색 사각형을 오른쪽 중간 차선으로 밀어넣으세요."
+        },
+        {
+          "order": 4,
+          "title": "이동 4",
+          "instruction": "검은색 사각형을 왼쪽 변을 따라 아래로 떨어뜨려 아래 차선에 도달하게 하세요."
+        },
+        {
+          "order": 5,
+          "title": "이동 5",
+          "instruction": "흰색 사각형을 맨 위를 가로질러 이동시킨 뒤 왼쪽 벽의 흰색 출구로 내보내세요."
+        },
+        {
+          "order": 6,
+          "title": "이동 6",
+          "instruction": "검은색 사각형을 오른쪽으로 밀어 검은색 하단 출구 위에 놓으세요."
+        },
+        {
+          "order": 7,
+          "title": "이동 7",
+          "instruction": "빨간색 사각형을 빨간색 출구 아래쪽으로 왼쪽 이동시킨 뒤 위로 보내 마무리하세요."
+        }
+      ],
+      "failurePoints": [
+        "흰색 사각형이 맨 위 행을 지나기 전에 빨간색 사각형을 들어 올리려 하는 것.",
+        "왼쪽 열을 여는 데 활용하는 대신 검은색을 오른쪽 위 모서리에 남겨두는 것."
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/1/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "블록 아웃 레벨 1 공략 및 해설",
+    "description": "검증된 보드 매칭, 내장 공략, 단계별 이동, 그리고 자주 발생하는 실패 지점을 통해 블록 아웃 레벨 1을(를) 해결하세요."
+  },
+  "updatedAt": "2026-08-03"
+}

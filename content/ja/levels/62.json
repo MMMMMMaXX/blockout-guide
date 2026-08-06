@@ -1,0 +1,91 @@
+{
+  "id": "ja-level-62",
+  "locale": "ja",
+  "levelNumber": 62,
+  "title": "ブロックアウト レベル62 攻略",
+  "summary": "ブロックアウト レベル62は、中央にスマイリー顔ブロック（自由に滑る）、側面に向き矢印ブロック—左側に青の左矢印、右側に赤の右矢印—で5×8グリッドを埋めています。スマイリーブロックは自由に動かせますが、…",
+  "status": "published",
+  "contentTier": "full-guide",
+  "difficulty": "hard",
+  "obstacleIds": [],
+  "relatedLevelNumbers": [],
+  "variants": [
+    {
+      "id": "current-a",
+      "gameVersion": "current iOS and Android catalog checked 2026-08-03",
+      "platforms": ["ios", "android"],
+      "boardProfile": {
+        "sourceUrl": "https://levelsolve.com/block-out/level/62/",
+        "layout": "ブロックアウト レベル62は、中央にスマイリー顔ブロック（自由に滑る）、側面に向き矢印ブロック—左側に青の左矢印、右側に赤の右矢印—で5×8グリッドを埋めています。スマイリーブロックは自由に動かせますが、矢印ブロックは制約されます。まず上部と底部の段を消去し、次に中央のスマイリーブロックを進め、最後に側面の矢印ブロックで締めくくります。",
+        "landmarks": [
+          "ブロックアウト レベル 62 5×8 スマイル 中央の (解放する-スライドさせ)、矢印 — 青 左-矢印 左、赤 右-矢印 右.。",
+          "スマイル 手順、矢印 .。",
+          "を消去して上、下、進める 中央の スマイル、終える 側 矢印 .。"
+        ],
+        "colors": ["orange", "green", "blue", "red", "yellow"],
+        "rightsBasis": "source-described-site-authored"
+      },
+      "verifiedAt": "2026-08-03",
+      "boosterUsage": "unknown",
+      "verificationStatus": "source-verified",
+      "video": {
+        "provider": "youtube",
+        "videoId": "5DkcWVKZO50",
+        "publisherLabel": "LevelSolve",
+        "sourceUrl": "https://www.youtube.com/watch?v=5DkcWVKZO50",
+        "embedAllowed": true,
+        "rightsBasis": "youtube-embed"
+      },
+      "quickTips": [
+        "スマイル 中央の 解放する-スライドさせ — 使う 消去する 矢印 .。",
+        "を消去して上、下 中央の 手順.。",
+        "を考えて. 手順 上 手順、揃える.。"
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "title": "手順1",
+          "instruction": "を消去して上 オレンジ スマイル 上 出口 開く 上の 区画.。"
+        },
+        {
+          "order": 2,
+          "title": "手順2",
+          "instruction": "を消去して下 緑 スマイル 下部の出口 開く 下の 区画.。"
+        },
+        {
+          "order": 3,
+          "title": "手順3",
+          "instruction": "スライドさせ 中央の スマイル — 手順 .。"
+        },
+        {
+          "order": 4,
+          "title": "手順4",
+          "instruction": "青のを消去して左-矢印 左 左 出口 中央の .。"
+        },
+        {
+          "order": 5,
+          "title": "手順5",
+          "instruction": "赤のを消去して右-矢印 右 右 出口.。"
+        },
+        {
+          "order": 6,
+          "title": "手順6",
+          "instruction": "を終えてスマイル 角.。"
+        }
+      ],
+      "failurePoints": [
+        "消去 側 矢印、中央の スマイル — 中央の .。",
+        "消去する 中央の、上、下 開く、詰まり .。"
+      ]
+    }
+  ],
+  "sourceReferences": [
+    "https://levelsolve.com/block-out/level/62/",
+    "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+  ],
+  "seo": {
+    "title": "ブロックアウト レベル62 攻略と解説",
+    "description": "ブロックアウト レベル62 を、検証済みの盤面一致・内蔵の解説動画・手順ごとの動かし方・よくある失敗ポイントとともに解きましょう。"
+  },
+  "updatedAt": "2026-08-03"
+}
