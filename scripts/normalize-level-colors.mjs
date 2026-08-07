@@ -1,5 +1,4 @@
-/**
- * 文件职责：把 content/<locale>/levels/*.json 中的 colors 数组从本地化显示名
+/** 文件职责：把 content/<locale>/levels/*.json 中的 colors 数组从本地化显示名
  * 规范化为英文颜色 key（如 "红色" → "red"），因为 colors 是机器标识，
  * UI 显示名由 messages 的 color 命名空间负责本地化。
  *
