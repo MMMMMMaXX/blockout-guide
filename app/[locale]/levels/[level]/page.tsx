@@ -22,6 +22,8 @@ export function generateStaticParams() {
   );
 }
 
+const baseUrl = "https://blockout.stratlore.com";
+
 /** 关卡页自指 canonical + 完整 10 语言 hreflang + x-default；标题按语言本地化。 */
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale: rawLocale, level: rawLevel } = await params;
@@ -31,17 +33,41 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!level) return {};
   const t = getMessages(locale);
   const localized = level.sourceLocale === locale;
-  const title = localized
+  const fallbackTitle = localized
     ? level.title
     : interpolate(t.levelDetail.seoTitle, { level: levelNumber });
-  const description = localized
+  const fallbackDescription = localized
     ? level.summary
     : interpolate(t.levelDetail.seoDescription, { level: levelNumber });
+  const title = level.seo?.title ?? fallbackTitle;
+  const description = level.seo?.description ?? fallbackDescription;
+  const canonical = `/${locale}/levels/${levelNumber}/`;
+  const pageUrl = `${baseUrl}${canonical}`;
+  const variant = level.variants[0];
+  const ogImage =
+    variant?.boardImage ??
+    (variant?.video?.videoId ? `https://img.youtube.com/vi/${variant.video.videoId}/maxresdefault.jpg` : null);
+
   return {
     title,
     description,
-    alternates: buildFullAlternates(`/${locale}/levels/${levelNumber}/`),
+    alternates: buildFullAlternates(canonical),
     robots: "index, follow",
+    openGraph: {
+      title,
+      description,
+      url: pageUrl,
+      siteName: t.brand.name,
+      locale: locale.replace("-", "_"),
+      type: "article",
+      images: ogImage ? [{ url: ogImage.startsWith("/") ? `${baseUrl}${ogImage}` : ogImage }] : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ogImage ? [ogImage.startsWith("/") ? `${baseUrl}${ogImage}` : ogImage] : undefined,
+    },
   };
 }
 

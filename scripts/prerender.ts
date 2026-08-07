@@ -21,6 +21,11 @@ function injectHtmlLang(html: string, pathname: string): string {
   return html.replace(/<html\s+lang="en"/, `<html lang="${htmlLang}"`);
 }
 
+/** vinext 把 hreflang 渲染为 hrefLang；Google 习惯使用小写属性名，这里统一后处理修正。 */
+function normalizeHreflang(html: string): string {
+  return html.replace(/<link rel="alternate" hrefLang=/g, '<link rel="alternate" hreflang=');
+}
+
 const paths = JSON.parse(await readFile("dist/.openai/public-paths.json", "utf8")) as string[];
 
 for (const pathname of paths) {
@@ -28,7 +33,8 @@ for (const pathname of paths) {
   if (response.status !== 200) throw new Error(`预渲染 ${pathname} 返回 ${response.status}`);
   const outputFile = getOutputFile(pathname);
   await mkdir(path.dirname(outputFile), { recursive: true });
-  await writeFile(outputFile, injectHtmlLang(await response.text(), pathname));
+  const html = normalizeHreflang(injectHtmlLang(await response.text(), pathname));
+  await writeFile(outputFile, html);
 }
 
 console.log(`静态预渲染完成（${paths.length} 个公共路径）。`);

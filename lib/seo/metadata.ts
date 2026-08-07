@@ -19,11 +19,13 @@ export function buildAlternates(canonical: string, translations: TranslationTarg
   } satisfies NonNullable<Metadata["alternates"]>;
 }
 
-/** 为所有 10 种语言（含 x-default=en）生成完整 hreflang；用于关卡页与稳定存在的栏目页。 */
+/** 为所有 10 种语言（含 x-default=en）生成完整 hreflang；用于关卡页与稳定存在的栏目页。
+ *  保证 alternate URL 与 canonical 使用一致的尾斜杠，避免 hreflang 与 canonical 互相冲突。 */
 export function buildFullAlternates(canonical: string) {
   const { rest } = stripLocale(canonical);
+  const normalizedRest = rest.endsWith("/") ? rest : `${rest}/`;
   const languages: Record<string, string> = {};
-  for (const locale of supportedLocales) languages[locale] = withLocale(locale, rest);
-  languages["x-default"] = withLocale("en", rest);
+  for (const locale of supportedLocales) languages[locale] = withLocale(locale, normalizedRest);
+  languages["x-default"] = withLocale("en", normalizedRest);
   return { canonical, languages } satisfies NonNullable<Metadata["alternates"]>;
 }

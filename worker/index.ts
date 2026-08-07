@@ -45,6 +45,19 @@ const worker = {
       });
     }
 
+    // 产品路由合同统一使用尾斜杠；把无尾斜杠请求 301 合并到规范 URL，避免 GSC 中展示量被拆分。
+    if (
+      url.pathname !== "/" &&
+      !url.pathname.endsWith("/") &&
+      !url.pathname.includes(".")
+    ) {
+      const target = new URL(`${url.pathname}/${url.search}`, url.origin);
+      return new Response(null, {
+        status: 301,
+        headers: { location: target.toString() },
+      });
+    }
+
     if (url.pathname === "/_vinext/image") {
       const allowedWidths = [...DEFAULT_DEVICE_SIZES, ...DEFAULT_IMAGE_SIZES];
       return handleImageOptimization(

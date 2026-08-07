@@ -1,9 +1,18 @@
-/** 文件职责：从页面已展示的发布事实构造 WebSite、面包屑、视频与 FAQ 结构化数据。 */
-import type { LevelArticle, Locale } from "@/lib/content/types";
+/** 文件职责：从页面已展示的发布事实构造 WebSite、面包屑、视频、HowTo 与 FAQ 结构化数据。 */
+import type { LevelArticle, Locale, SolutionStep } from "@/lib/content/types";
 import { getMessages, interpolate } from "@/lib/i18n/messages";
 import { localeMeta } from "@/lib/i18n/locale-meta";
 
 const baseUrl = "https://blockout.stratlore.com";
+
+/** 优先使用高分辨率 YouTube 缩略图；maxresdefault 偶尔缺失，但 schema 允许提供多个候选。 */
+function buildYoutubeThumbnails(videoId: string): string[] {
+  return [
+    `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+    `https://img.youtube.com/vi/${videoId}/sddefault.jpg`,
+    `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+  ];
+}
 
 /** 首页搜索动作与实际 q 参数保持一致，并按语言指向对应搜索路由。 */
 export function buildWebsiteJsonLd(locale: Locale): Record<string, unknown> {
@@ -21,7 +30,16 @@ export function buildWebsiteJsonLd(locale: Locale): Record<string, unknown> {
   };
 }
 
-/** 详情结构化数据只复述页面可见的标题、摘要、来源视频和两条 FAQ。 */
+/** 把 boosterUsage 原始值映射为当前语言的友好文案。 */
+function getBoosterUsageLabel(boosterUsage: string, locale: Locale): string {
+  const t = getMessages(locale);
+  return (
+    (t.boosterStatus[boosterUsage as keyof typeof t.boosterStatus] as string | undefined) ??
+    boosterUsage
+  );
+}
+
+/** 详情结构化数据只复述页面可见的标题、摘要、来源视频、HowTo 步骤和本地化 FAQ。 */
 export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<string, unknown>[] {
   const t = getMessages(locale);
   const url = `${baseUrl}/${locale}/levels/${level.levelNumber}/`;
@@ -33,6 +51,7 @@ export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<st
   const videoDescription = localized
     ? level.summary
     : interpolate(t.levelDetail.seoDescription, { level: level.levelNumber });
+  const usageLabel = getBoosterUsageLabel(variant.boosterUsage, locale);
   const entities: Record<string, unknown>[] = [
     {
       "@context": "https://schema.org",
@@ -54,23 +73,45 @@ export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<st
       mainEntity: [
         {
           "@type": "Question",
-          name: `Why might my Level ${level.levelNumber} board look different?`,
+          name: interpolate(t.levelDetail.faqBoardDiffersQuestion, { level: level.levelNumber }),
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Game version, platform or staged rollout differences can change a board layout.",
+            text: t.levelDetail.faqBoardDiffersAnswer,
           },
         },
         {
           "@type": "Question",
-          name: "Should I use a booster?",
+          name: t.levelDetail.faqBoosterQuestion,
           acceptedAnswer: {
             "@type": "Answer",
-            text: `This variant records booster use as ${variant.boosterUsage}. Match the board before applying that note.`,
+            text: interpolate(t.levelDetail.faqBoosterAnswer, { usage: usageLabel }),
           },
         },
       ],
     },
   ];
+
+  if (level.contentTier === "full-guide" && variant.steps && variant.steps.length > 0) {
+    const howToSteps = variant.steps.map((step: SolutionStep, index: number) => ({
+      "@type": "HowToStep",
+      position: step.order ?? index + 1,
+      name: step.title,
+      text: step.instruction,
+      url: `${url}#step-${step.order ?? index + 1}`,
+      ...(step.image
+        ? { image: { "@type": "ImageObject", url: `${baseUrl}${step.image}` } }
+        : {}),
+    }));
+    entities.push({
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      name: interpolate(t.levelDetail.seoTitle, { level: level.levelNumber }),
+      description: videoDescription,
+      totalTime: "PT0M",
+      step: howToSteps,
+    });
+  }
+
   if (variant.video?.embedAllowed) {
     const videoId = variant.video.videoId;
     // Google 要求 VideoObject 的 uploadDate 必须是带时区的 ISO 8601 日期时间，
@@ -84,7 +125,7 @@ export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<st
       "@type": "VideoObject",
       name: videoName,
       description: videoDescription,
-      thumbnailUrl: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+      thumbnailUrl: buildYoutubeThumbnails(videoId),
       uploadDate,
       embedUrl: `https://www.youtube-nocookie.com/embed/${videoId}`,
       contentUrl: variant.video.sourceUrl,
