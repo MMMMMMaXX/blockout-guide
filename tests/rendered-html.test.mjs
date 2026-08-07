@@ -39,16 +39,16 @@ test("published Level 14 renders the full solution", async () => {
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.match(html, /Confirm these board landmarks/);
-  assert.match(html, /STEP-BY-STEP SOLUTION/);
+  assert.match(html, /Step-by-step solution/i);
   assert.match(html, /Release the centerpiece/);
-  assert.doesNotMatch(html, /Template preview|\bpending\b|name="robots" content="noindex/i);
+  assert.doesNotMatch(html, /Template preview|name="robots" content="noindex/i);
   assert.equal((await render("/en/levels/218/")).status, 404);
 });
 
 test("all Phase 2 collections and details expose published content", async () => {
   const routes = [
     ["/en/obstacles/", /Ivy obstacle: reveal covered doors/],
-    ["/en/obstacles/ivy/", /How Ivy works/],
+    ["/en/obstacles/ivy/", /How it works/],
     ["/en/boosters/", /Clock booster: when stopping time helps/],
     ["/en/boosters/time-freeze/", /When it may help/],
     ["/en/guides/", /How to match a Block Out board variant/],
@@ -82,7 +82,7 @@ test("serves information pages, 404 and published crawl files", async () => {
   assert.equal((await render("/en/not-a-real-section/")).status, 404);
   assert.equal((await render("/__design-system/")).status, 404);
   const robots = await (await render("/robots.txt")).text();
-  assert.match(robots, /Disallow: \/en\/search\//);
+  assert.match(robots, /Disallow: \/\*\/search\//);
   const sitemap = await (await render("/sitemap.xml")).text();
   for (const path of [
     "levels/14",

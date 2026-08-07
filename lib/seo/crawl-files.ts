@@ -9,7 +9,7 @@ export function buildRobotsText(): string {
   return [
     "User-agent: *",
     "Allow: /",
-    "Disallow: /search/",
+    "Disallow: /*/search/",
     "Disallow: /board-matcher/",
     "Disallow: /__design-system/",
     `Sitemap: ${baseUrl}/sitemap.xml`,

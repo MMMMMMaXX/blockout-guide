@@ -33,6 +33,6 @@ describe("SEO helpers", () => {
     );
     expect(xml).toContain("/en/levels/1/");
     expect(xml).not.toContain("/en/levels/2/");
-    expect(buildRobotsText()).toContain("Disallow: /search/");
+    expect(buildRobotsText()).toContain("Disallow: /*/search/");
   });
 });

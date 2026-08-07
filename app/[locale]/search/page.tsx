@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: t.search.title,
     description: t.search.placeholder,
     alternates: buildFullAlternates(`/${current}/search/`),
-    robots: "index, follow",
+    robots: "noindex, follow",
   };
 }
 
