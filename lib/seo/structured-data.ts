@@ -98,9 +98,7 @@ export function buildLevelJsonLd(level: LevelArticle, locale: Locale): Record<st
       name: step.title,
       text: step.instruction,
       url: `${url}#step-${step.order ?? index + 1}`,
-      ...(step.image
-        ? { image: { "@type": "ImageObject", url: `${baseUrl}${step.image}` } }
-        : {}),
+      ...(step.image ? { image: { "@type": "ImageObject", url: `${baseUrl}${step.image}` } } : {}),
     }));
     entities.push({
       "@context": "https://schema.org",

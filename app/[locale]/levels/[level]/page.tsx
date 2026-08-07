@@ -46,7 +46,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const variant = level.variants[0];
   const ogImage =
     variant?.boardImage ??
-    (variant?.video?.videoId ? `https://img.youtube.com/vi/${variant.video.videoId}/maxresdefault.jpg` : null);
+    (variant?.video?.videoId
+      ? `https://img.youtube.com/vi/${variant.video.videoId}/maxresdefault.jpg`
+      : null);
 
   return {
     title,
@@ -60,7 +62,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       siteName: t.brand.name,
       locale: locale.replace("-", "_"),
       type: "article",
-      images: ogImage ? [{ url: ogImage.startsWith("/") ? `${baseUrl}${ogImage}` : ogImage }] : undefined,
+      images: ogImage
+        ? [{ url: ogImage.startsWith("/") ? `${baseUrl}${ogImage}` : ogImage }]
+        : undefined,
     },
     twitter: {
       card: "summary_large_image",
