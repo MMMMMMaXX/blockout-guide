@@ -1,5 +1,4 @@
 /** 文件职责：渲染关卡详情的棋盘卡片（标题、难度、Variant 切换与开局棋盘）。所有关卡复用同一组件。 */
-import Image from "next/image";
 import Link from "next/link";
 import type { LevelArticle, LevelVariant, Locale } from "@/lib/content/types";
 import { BoardPreview } from "@/components/board-preview";
@@ -45,13 +44,16 @@ function BoardBody({ level, variant, locale }: BoardBodyProps) {
     >
       {hasImage ? (
         <div className="board-card__media">
-          <Image
+          {/* 直接引用构建期下载的静态 AVIF，避免 vinext 把本地图片改写到 /_vinext/image 优化端点（生产无该 Worker）。 */}
+          <img
             className="board-image"
             src={variant.boardImage ?? ""}
             alt={interpolate(t.levelDetail.title, { level: level.levelNumber })}
             width={720}
             height={1240}
-            priority
+            loading="eager"
+            fetchPriority="high"
+            decoding="async"
           />
         </div>
       ) : null}

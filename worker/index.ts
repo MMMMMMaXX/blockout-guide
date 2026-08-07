@@ -1,4 +1,4 @@
-/** 文件职责：提供 vinext 的 Cloudflare Worker 入口和图片优化适配。 */
+/** 文件职责：提供 vinext 的 Cloudflare Worker 入口和图片优化适配（仅用于构建期预渲染与本地测试；生产部署在构建末尾由 worker/deploy-minimal.js 替换）。 */
 import {
   handleImageOptimization,
   DEFAULT_DEVICE_SIZES,
@@ -29,7 +29,7 @@ interface ExecutionContext {
 }
 
 const worker = {
-  /** 只在约定端点执行图片转换，其余请求交给应用路由处理器。 */
+  /** 构建期入口保留完整运行时职责；生产部署由 scripts/build-deploy-worker.ts 改写为极简静态资源 Worker。 */
   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
     const url = new URL(request.url);
 
