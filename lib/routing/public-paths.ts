@@ -68,3 +68,9 @@ export function getPublicPaths(
     ]),
   ].sort();
 }
+
+/** 搜索页为静态壳 + 客户端检索，且 robots noindex，故不进入 sitemap / 索引清单。
+ *  单独枚举供预渲染，确保线上可用，同时避开公共路径的「不可 noindex」门禁。 */
+export function getSearchPaths(): string[] {
+  return supportedLocales.map((locale) => `/${locale}/search/`);
+}

@@ -4,6 +4,7 @@ import path from "node:path";
 import { renderWorkerPath } from "./lib/render-worker.ts";
 import { supportedLocales, defaultLocale } from "../lib/i18n/locales.ts";
 import { localeMeta } from "../lib/i18n/locale-meta.ts";
+import { getSearchPaths } from "../lib/routing/public-paths.ts";
 
 /** 将尾斜杠公共路径映射到 CDN 可直接服务的 index.html。 */
 function getOutputFile(pathname: string): string {
@@ -37,4 +38,15 @@ for (const pathname of paths) {
   await writeFile(outputFile, html);
 }
 
-console.log(`静态预渲染完成（${paths.length} 个公共路径）。`);
+// 搜索页为静态壳 + 客户端检索；单独预渲染（不进 sitemap / 索引清单），保证线上可用。
+const searchPaths = getSearchPaths();
+for (const pathname of searchPaths) {
+  const response = await renderWorkerPath(pathname);
+  if (response.status !== 200) throw new Error(`预渲染搜索页 ${pathname} 返回 ${response.status}`);
+  const outputFile = getOutputFile(pathname);
+  await mkdir(path.dirname(outputFile), { recursive: true });
+  const html = normalizeHreflang(injectHtmlLang(await response.text(), pathname));
+  await writeFile(outputFile, html);
+}
+
+console.log(`静态预渲染完成（${paths.length} 个公共路径 + ${searchPaths.length} 个搜索页）。`);

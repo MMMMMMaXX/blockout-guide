@@ -54,6 +54,21 @@ export function SearchExplorer({
     window.history.replaceState(null, "", withLocale(locale, `/search/${suffix}`));
   }, [locale, pagination.page, query, type]);
 
+  // 静态预渲染下服务端拿不到客户端地址栏；挂载后从 URL 同步查询/类型/页码，保证深链（?q=）可用。
+  // 首屏仍用服务端 initial 值渲染以匹配 HTML，避免 hydration 不匹配，随后再校正。
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const parameters = new URLSearchParams(window.location.search);
+    const urlQuery = parameters.get("q") ?? "";
+    const urlType = parameters.get("type");
+    const urlPage = Number.parseInt(parameters.get("page") ?? "1", 10);
+    setQuery(urlQuery);
+    setType(urlType && searchTypes.includes(urlType as SearchType) ? (urlType as SearchType) : "all");
+    setPage(Number.isSafeInteger(urlPage) && urlPage > 0 ? urlPage : 1);
+    // 仅挂载时同步一次；后续 URL 由上方 replaceState 维护。
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   /** 类型切换复位分页，防止旧页码超出新的结果范围。 */
   function selectType(nextType: SearchType) {
     setType(nextType);

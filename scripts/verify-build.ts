@@ -2,6 +2,7 @@
 import { readFile, readdir, stat } from "node:fs/promises";
 import path from "node:path";
 import { renderWorkerPath } from "./lib/render-worker.ts";
+import { getSearchPaths } from "../lib/routing/public-paths.ts";
 
 const paths = JSON.parse(await readFile("dist/.openai/public-paths.json", "utf8")) as string[];
 
@@ -47,3 +48,15 @@ for (const pathname of paths) {
 }
 
 console.log(`生产构建门禁通过（${paths.length} 个公共路径）。`);
+
+// 搜索页为静态壳 + 客户端检索且 robots noindex，单独校验存在性与可渲染；
+// 不要求可索引（与上方公共路径门禁区分），确保线上搜索可用。
+const searchPaths = getSearchPaths();
+for (const pathname of searchPaths) {
+  const relative = pathname.replace(/^\//, "");
+  const html = await readFile(path.resolve("dist/client", relative, "index.html"), "utf8");
+  if (!/<title>[^<]+<\/title>/i.test(html)) throw new Error(`搜索页 ${pathname} 缺少标题`);
+  const response = await renderWorkerPath(pathname);
+  if (response.status !== 200) throw new Error(`搜索页 ${pathname} Worker 返回 ${response.status}`);
+}
+console.log(`搜索页预渲染校验通过（${searchPaths.length} 个）。`);
