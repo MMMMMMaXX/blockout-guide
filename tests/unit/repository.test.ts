@@ -13,13 +13,13 @@ import {
 } from "@/lib/content/editorial-repository";
 
 describe("LevelRepository", () => {
-  it("publishes the complete level corpus", () => {
+  it("publishes the complete level corpus", async () => {
     const levels = getPublishedLevels("en");
     expect(levels.length).toBeGreaterThanOrEqual(150);
     for (let levelNumber = 1; levelNumber <= 150; levelNumber++) {
-      expect(getPublishedLevelByNumber("en", levelNumber)?.status).toBe("published");
+      expect((await getPublishedLevelByNumber("en", levelNumber))?.status).toBe("published");
     }
-    expect(getPublishedLevelByNumber("en", 14)?.status).toBe("published");
+    expect((await getPublishedLevelByNumber("en", 14))?.status).toBe("published");
   });
 
   it("derives hard levels from published content", () => {

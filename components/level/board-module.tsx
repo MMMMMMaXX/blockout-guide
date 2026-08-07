@@ -1,8 +1,7 @@
 /** 文件职责：渲染关卡详情的棋盘卡片（标题、难度、Variant 切换与开局棋盘）。所有关卡复用同一组件。 */
 import Image from "next/image";
 import Link from "next/link";
-import type { LevelVariant, Locale } from "@/lib/content/types";
-import type { ResolvedLevel } from "@/lib/content/level-repository";
+import type { LevelArticle, LevelVariant, Locale } from "@/lib/content/types";
 import { BoardPreview } from "@/components/board-preview";
 import { BoardProfile } from "@/components/board-profile";
 import { getMessages, interpolate } from "@/lib/i18n/messages";
@@ -11,7 +10,7 @@ import { withLocale } from "@/lib/i18n/locale-path";
 type VariantOption = { id: string; label: string };
 
 type BoardModuleProps = {
-  level: ResolvedLevel;
+  level: LevelArticle;
   variant: LevelVariant;
   variantOptions: VariantOption[];
   selectedIndex: number;
@@ -20,7 +19,7 @@ type BoardModuleProps = {
 };
 
 type BoardBodyProps = {
-  level: ResolvedLevel;
+  level: LevelArticle;
   variant: LevelVariant;
   locale: Locale;
 };

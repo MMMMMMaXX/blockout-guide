@@ -11,7 +11,7 @@ import {
   getPublishedObstacles,
   getPublishedUpdates,
 } from "@/lib/content/editorial-repository";
-import type { EditorialArticle, Locale } from "@/lib/content/types";
+import type { EditorialMeta, Locale } from "@/lib/content/types";
 import { getPublishedLevels } from "@/lib/content/level-repository";
 import { supportedLocales } from "@/lib/i18n/locales";
 import { getMessages, interpolate } from "@/lib/i18n/messages";
@@ -48,7 +48,7 @@ export default async function LocaleHomePage({ params }: PageProps) {
     label: string;
     eyebrow: string;
     segment: "obstacles" | "boosters" | "guides" | "updates";
-    items: readonly EditorialArticle[];
+    items: readonly EditorialMeta[];
   }[] = [
     {
       label: t.nav.obstacles,

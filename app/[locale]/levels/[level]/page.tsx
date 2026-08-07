@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { locale: rawLocale, level: rawLevel } = await params;
   const locale = rawLocale as Locale;
   const levelNumber = Number(rawLevel);
-  const level = getPublishedLevelByNumber(locale, levelNumber);
+  const level = await getPublishedLevelByNumber(locale, levelNumber);
   if (!level) return {};
   const t = getMessages(locale);
   const localized = level.sourceLocale === locale;
@@ -80,7 +80,7 @@ export default async function LevelDetailPage({ params }: PageProps) {
   const { locale: rawLocale, level: rawLevel } = await params;
   const locale = rawLocale as Locale;
   const levelNumber = Number(rawLevel);
-  const level = getPublishedLevelByNumber(locale, levelNumber);
+  const level = await getPublishedLevelByNumber(locale, levelNumber);
   if (!level) notFound();
 
   const publishedLevels = [...getPublishedLevels(locale)].sort(
@@ -94,7 +94,7 @@ export default async function LevelDetailPage({ params }: PageProps) {
     levelNumber: item.levelNumber,
     title: item.title,
     difficulty: item.difficulty ?? null,
-    boardImage: item.variants[0]?.boardImage ?? null,
+    boardImage: item.boardImage,
   }));
 
   return (

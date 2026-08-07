@@ -1,11 +1,5 @@
 /** 文件职责：构建仅含已发布实体的本地混合搜索索引，并提供稳定排序与分页。 */
-import type {
-  BoosterArticle,
-  GuideArticle,
-  LevelArticle,
-  ObstacleArticle,
-  UpdateArticle,
-} from "@/lib/content/types";
+import type { ContentStatus, Difficulty, EditorialKind, Locale } from "@/lib/content/types";
 
 export const searchTypes = ["all", "level", "obstacle", "booster", "guide", "update"] as const;
 export type SearchType = (typeof searchTypes)[number];
@@ -22,12 +16,60 @@ export type SearchEntry = {
   levelNumber?: number;
 };
 
+/** 搜索索引只读取展示/路由字段；关卡与编辑内容都可用 Article 或 Meta 提供，故用结构类型而非具体 Article/Meta。 */
+export type SearchLevelLike = {
+  id: string;
+  locale: Locale;
+  levelNumber: number;
+  title: string;
+  summary: string;
+  status: ContentStatus;
+  difficulty?: Difficulty | null | undefined;
+  obstacleIds: readonly string[];
+  updatedAt: string;
+};
+
+type SearchEditorialBase = {
+  id: string;
+  locale: Locale;
+  slug: string;
+  title: string;
+  summary: string;
+  status: ContentStatus;
+  updatedAt: string;
+  kind: EditorialKind;
+};
+
+export type SearchObstacleLike = SearchEditorialBase & {
+  kind: "obstacle";
+  category: string;
+  priority: string;
+  rules: readonly string[];
+};
+export type SearchBoosterLike = SearchEditorialBase & {
+  kind: "booster";
+  effect: string;
+  useWhen: readonly string[];
+  avoidWhen: readonly string[];
+};
+export type SearchGuideLike = SearchEditorialBase & {
+  kind: "guide";
+  question: string;
+  obstacleIds: readonly string[];
+  boosterIds: readonly string[];
+};
+export type SearchUpdateLike = SearchEditorialBase & {
+  kind: "update";
+  version: string;
+  changes: readonly string[];
+};
+
 export type SearchIndexInput = {
-  levels: readonly LevelArticle[];
-  obstacles: readonly ObstacleArticle[];
-  boosters: readonly BoosterArticle[];
-  guides: readonly GuideArticle[];
-  updates: readonly UpdateArticle[];
+  levels: readonly SearchLevelLike[];
+  obstacles: readonly SearchObstacleLike[];
+  boosters: readonly SearchBoosterLike[];
+  guides: readonly SearchGuideLike[];
+  updates: readonly SearchUpdateLike[];
 };
 
 /** 防御性过滤 published，确保调用方即使误传 preview 清单也不会泄露草稿。 */
@@ -44,7 +86,7 @@ export function buildSearchIndex(input: SearchIndexInput): readonly SearchEntry[
       keywords: [String(item.levelNumber), item.difficulty ?? "", ...item.obstacleIds],
       levelNumber: item.levelNumber,
     }));
-  const mapEditorial = <T extends ObstacleArticle | BoosterArticle | GuideArticle | UpdateArticle>(
+  const mapEditorial = <T extends SearchEditorialBase>(
     items: readonly T[],
     type: Exclude<SearchEntryType, "level">,
     segment: string,

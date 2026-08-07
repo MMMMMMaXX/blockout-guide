@@ -5,7 +5,7 @@ import {
   DEFAULT_IMAGE_SIZES,
 } from "vinext/server/image-optimization";
 import handler from "vinext/server/app-router-entry";
-import levels, { editorial } from "virtual:blockout-content";
+import { levelMeta, editorialMeta } from "virtual:blockout-content";
 import { buildRobotsText, buildSitemapXml } from "@/lib/seo/crawl-files";
 
 interface AssetFetcher {
@@ -40,7 +40,7 @@ const worker = {
     }
 
     if (url.pathname === "/sitemap.xml") {
-      return new Response(buildSitemapXml(levels, editorial), {
+      return new Response(buildSitemapXml(levelMeta, editorialMeta), {
         headers: { "content-type": "application/xml; charset=utf-8" },
       });
     }

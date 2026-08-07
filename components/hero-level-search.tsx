@@ -2,13 +2,13 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { LevelArticle } from "@/lib/content/types";
+import type { ResolvedLevel } from "@/lib/content/level-repository";
 import { LevelJumpDropdown } from "./level-jump-dropdown";
 import { useLocale } from "@/lib/i18n/use-locale";
 import { getMessages } from "@/lib/i18n/messages";
 
 type HeroLevelSearchProps = {
-  levels: readonly LevelArticle[];
+  levels: readonly ResolvedLevel[];
 };
 
 /**

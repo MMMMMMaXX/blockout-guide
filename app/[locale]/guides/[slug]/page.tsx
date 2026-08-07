@@ -25,7 +25,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, slug } = await params;
   const current = locale as Locale;
-  const article = getPublishedGuideBySlug(current, slug);
+  const article = await getPublishedGuideBySlug(current, slug);
   if (!article) return {};
   return {
     title: article.seo?.title ?? article.title,
@@ -40,7 +40,7 @@ export default async function GuideDetailPage({ params }: PageProps) {
   const { locale, slug } = await params;
   const current = locale as Locale;
   const t = getMessages(current);
-  const article = getPublishedGuideBySlug(current, slug);
+  const article = await getPublishedGuideBySlug(current, slug);
   if (!article) notFound();
   const relatedLevels = getPublishedRelatedLevels(current, article.relatedLevelNumbers);
   return (

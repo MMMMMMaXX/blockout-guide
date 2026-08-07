@@ -8,14 +8,22 @@ export type LevelFilters = {
   difficulty: DifficultyFilter;
 };
 
-export type LevelRangeGroup<T extends LevelArticle = LevelArticle> = {
+/** 筛选/分页/分组函数只需读取少量展示字段，因此放宽泛型约束以同时支持 LevelArticle 与 LevelMeta。 */
+export type LevelFilterable = {
+  levelNumber: number;
+  difficulty?: Difficulty | null | undefined;
+  title: string;
+  summary: string;
+};
+
+export type LevelRangeGroup<T extends LevelFilterable = LevelFilterable> = {
   start: number;
   end: number;
   levels: readonly T[];
 };
 
 /** 同时匹配关卡号、标题和摘要；难度筛选严格使用结构化字段。 */
-export function filterLevels<T extends LevelArticle>(
+export function filterLevels<T extends LevelFilterable>(
   levels: readonly T[],
   filters: LevelFilters,
 ): readonly T[] {
@@ -29,7 +37,7 @@ export function filterLevels<T extends LevelArticle>(
 }
 
 /** 将结果限制在稳定页长内，并在筛选后自动修正越界页码。 */
-export function paginateLevels<T extends LevelArticle>(
+export function paginateLevels<T extends LevelFilterable>(
   levels: readonly T[],
   requestedPage: number,
   pageSize = 12,
@@ -44,7 +52,7 @@ export function paginateLevels<T extends LevelArticle>(
 }
 
 /** 按每 rangeSize 关分组，帮助大规模内容库保持可扫描性。 */
-export function groupLevelsByRange<T extends LevelArticle>(
+export function groupLevelsByRange<T extends LevelFilterable>(
   levels: readonly T[],
   rangeSize = 50,
 ): readonly LevelRangeGroup<T>[] {
@@ -61,3 +69,6 @@ export function groupLevelsByRange<T extends LevelArticle>(
     levels: items,
   }));
 }
+
+/** 旧 API 兼容别名：LevelArticle 仍是合法的泛型实参。 */
+export type LevelRangeGroupOfArticles = LevelRangeGroup<LevelArticle>;

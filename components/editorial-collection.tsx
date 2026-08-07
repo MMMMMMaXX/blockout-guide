@@ -1,11 +1,11 @@
 /** 文件职责：统一展示 Phase 2 已发布内容卡片和零发布空状态。 */
 import Link from "next/link";
-import type { EditorialArticle, Locale } from "@/lib/content/types";
+import type { EditorialMeta, Locale } from "@/lib/content/types";
 import { withLocale } from "@/lib/i18n/locale-path";
 import { getMessages, interpolate } from "@/lib/i18n/messages";
 
 const kindToNavKey: Record<
-  EditorialArticle["kind"],
+  EditorialMeta["kind"],
   "obstacles" | "boosters" | "guides" | "updates"
 > = {
   obstacle: "obstacles",
@@ -16,7 +16,7 @@ const kindToNavKey: Record<
 
 type EditorialCollectionProps = {
   locale: Locale;
-  items: readonly EditorialArticle[];
+  items: readonly EditorialMeta[];
   routeSegment: "obstacles" | "boosters" | "guides" | "updates";
   emptyTitle: string;
   emptyCopy: string;

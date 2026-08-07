@@ -3,7 +3,6 @@
 
 import { useState } from "react";
 import type { LevelArticle, Locale } from "@/lib/content/types";
-import type { ResolvedLevel } from "@/lib/content/level-repository";
 import { useLocale } from "@/lib/i18n/use-locale";
 import { getMessages } from "@/lib/i18n/messages";
 import { BoardModule } from "./level/board-module";
@@ -16,7 +15,7 @@ import { FaqModule } from "./level/faq-module";
 import { SourcesModule } from "./level/sources-module";
 
 type LevelDetailViewProps = {
-  level: ResolvedLevel;
+  level: LevelArticle;
 };
 
 /** Variant 标签优先使用平台与版本，避免假装拥有尚未记录的名称。 */

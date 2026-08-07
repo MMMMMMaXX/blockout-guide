@@ -13,11 +13,9 @@ type LevelCardProps = {
 
 /** 优先使用真实棋盘封面或视频缩略图，避免占位图形冒充真实关卡。 */
 function getCardThumbnail(level: ResolvedLevel): string | null {
-  const variant = level.variants[0];
-  if (!variant) return null;
-  if (variant.boardImage) return variant.boardImage;
-  if (variant.video?.videoId) {
-    return `https://img.youtube.com/vi/${variant.video.videoId}/mqdefault.jpg`;
+  if (level.boardImage) return level.boardImage;
+  if (level.videoId) {
+    return `https://img.youtube.com/vi/${level.videoId}/mqdefault.jpg`;
   }
   return null;
 }
