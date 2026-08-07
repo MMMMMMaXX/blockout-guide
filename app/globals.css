@@ -2299,6 +2299,12 @@ a:focus-visible {
   .brand {
     margin-right: auto;
   }
+  .language-switcher {
+    margin-left: auto;
+  }
+  .language-switcher__menu {
+    max-width: min(calc(100vw - 24px), 240px);
+  }
   .menu-toggle {
     display: grid;
     place-items: center;
